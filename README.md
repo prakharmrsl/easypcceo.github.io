@@ -1,151 +1,120 @@
-Unfortunately, this project is **no longer maintained**.
+> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-I now have other priorities in my life and no longer have time to update this library. Email me at elle.kasai@gmail.com if you'd like to reach me.
+# Jekyll Now
 
-# :ribbon: Hi! I'm Shiori, a Bootstrap-based Jekyll Theme. :ribbon:
+**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
-![](https://cloud.githubusercontent.com/assets/992008/3955483/2b9a77ae-2702-11e4-9f28-6afb051271de.png)
+**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
-## :ribbon: Live Demo :ribbon:
+- You don't need to touch the command line
+- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+- You don't need to install runtime dependencies like markdown processors, Pygments, etc
+- If you're on Windows, this will make setting up Jekyll a lot easier
+- It's easy to try out, you can just delete your forked repository if you don't like it
 
-### [You can view the live demo of myself here](http://ellekasai.github.io/shiori).
+In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
 
-## :ribbon: Screenshots :ribbon:
+![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
-### Desktop/Tablet
+## Quick Start
 
-![](http://cl.ly/image/3a2M1D3E3b3d/screenshot%202014-08-30%20at%206.51.34%20PM.png)
+### Step 1) Fork Jekyll Now to your User Repository
 
-## :ribbon: Color Schemes :ribbon:
+Fork this repo, then rename the repository to yourgithubusername.github.io.
 
-I wear different colors (based on [Flat UI Colors](http://flatuicolors.com/)):
+Your Jekyll blog will often be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-### Dark
+![Step 1](/images/step1.gif "Step 1")
 
-![](http://cl.ly/image/3d3T3b3E0b45/screenshot%202014-08-30%20at%206.48.56%20PM.png)
+### Step 2) Customize and view your site
 
----
+Enter your site name, description, avatar and many other options by editing the _config.yml file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
-### Turquoise
+Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <http://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
-![](http://cl.ly/image/1s1k3m1E3n37/screenshot%202014-08-30%20at%206.49.02%20PM.png)
+> There are 3 different ways that you can make changes to your blog's files:
 
----
+> 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
+> 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
+> 3. Clone down your repository and make updates locally, then push them to your GitHub repository.
 
-### Green
+![_config.yml](/images/config.png "_config.yml")
 
-![](http://cl.ly/image/0G0G3u392I11/screenshot%202014-08-30%20at%206.49.08%20PM.png)
+### Step 3) Publish your first blog post
 
----
+Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-### Blue
+![First Post](/images/first-post.png "First Post")
 
-![](http://cl.ly/image/1V1C0n2U0c1s/screenshot%202014-08-30%20at%206.49.14%20PM.png)
+> You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
----
+## Local Development
 
-### Purple
+1. Install Jekyll and plug-ins in one fell swoop. `gem install github-pages` This mirrors the plug-ins used by GitHub Pages on your local machine including Jekyll, Sass, etc.
+2. Clone down your fork `git clone https://github.com/yourusername/yourusername.github.io.git`
+3. Serve the site and watch for markup/sass changes `jekyll serve`
+4. View your website at http://127.0.0.1:4000/
+5. Commit any changes and push everything to the master branch of your GitHub user repository. GitHub Pages will then rebuild and serve your website.
 
-![](http://cl.ly/image/1V283M0f1K08/screenshot%202014-08-30%20at%206.49.19%20PM.png)
+## Moar!
 
----
+I've created a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
 
-### Orange
+It covers:
 
-![](http://cl.ly/image/2d2k010J3z3g/screenshot%202014-08-30%20at%206.49.24%20PM.png)
+- A more detailed walkthrough of setting up your Jekyll blog
+- Common issues that you might encounter while using Jekyll
+- Importing from Wordpress, using your own domain name, and blogging in your favorite editor
+- Theming in Jekyll, with Liquid templating examples
+- A quick look at Jekyll 2.0’s new features, including Sass/Coffeescript support and Collections
 
----
+## Jekyll Now Features
 
-### Red
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
+✓ Sass/Coffeescript support using Jekyll 2.0  
+✓ Free hosting on your GitHub Pages user site  
+✓ Markdown blogging  
+✓ Syntax highlighting  
+✓ Disqus commenting  
+✓ Google Analytics integration  
+✓ SVG social icons for your footer  
+✓ 3 http requests, including your avatar  
 
-![](http://cl.ly/image/10080E2G3c1e/screenshot%202014-08-30%20at%206.49.31%20PM.png)
+✘ No installing dependencies
+✘ No need to set up local development  
+✘ No configuring plugins  
+✘ No need to spend time on theming  
+✘ More time to code other things ... wait ✓!  
 
----
+## Questions?
 
-## :ribbon: Usage :ribbon:
+[Open an Issue](https://github.com/barryclark/jekyll-now/issues/new) and let's chat!
 
-**Note:** If you're not familiar with Jekyll, please read up on [Jekyll's documentation](http://jekyllrb.com/) first.
+## Other forkable themes
 
-[Fork this repo](http://github.com/ellekasai/shiori/fork), clone it, and then run:
+You can use the [Quick Start](https://github.com/barryclark/jekyll-now#quick-start) workflow with other themes that are set up to be forked too! Here are some of my favorites:
 
-```
-bundle install
-```
+- [Hyde](https://github.com/poole/hyde) by MDO
+- [Lanyon](https://github.com/poole/lanyon) by MDO
+- [mojombo.github.io](https://github.com/mojombo/mojombo.github.io) by Tom Preston-Werner
+- [Left](https://github.com/holman/left) by Zach Holman
+- [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) by Michael Rose
+- [Skinny Bones](https://github.com/mmistakes/skinny-bones-jekyll) by Michael Rose
 
-...which installs `github-pages` gem. After that, run the server:
+## Credits
 
-```
-jekyll serve --watch
-```
+- [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
+- [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
+- [Solarized Light Pygments](https://gist.github.com/edwardhotchkiss/2005058) - Thanks, Edward.
+- [Joel Glovier](http://joelglovier.com/writing/) - Great Jekyll articles. I used Joel's feed.xml in this repository.
+- [David Furnes](https://github.com/dfurnes), [Jon Uy](https://github.com/jonuy), [Luke Patton](https://github.com/lkpttn) - Thanks for the design/code reviews.
+- [Bart Kiers](https://github.com/bkiers), [Florian Simon](https://github.com/vermluh), [Henry Stanley](https://github.com/henryaj), [Hun Jae Lee](https://github.com/hunjaelee), [Javier Cejudo](https://github.com/javiercejudo), [Peter Etelej](https://github.com/etelej), [Ben Abbott](https://github.com/jaminscript), [Ray Nicholus](https://github.com/rnicholus), [Erin Grand](https://github.com/eringrand), [Léo Colombaro](https://github.com/LeoColomb), [Dean Attali](https://github.com/daattali), [Clayton Errington](https://github.com/cjerrington), [Colton Fitzgerald](https://github.com/coltonfitzgerald), [Trace Mayer](https://github.com/sunnankar) - Thanks for your [fantastic contributions](https://github.com/barryclark/jekyll-now/commits/master) to the project!
 
-### :warning: Warning :warning:
+## Contributing
 
-Once the server is started, you must go to [http://localhost:4000/shiori/](http://localhost:4000/shiori/), since `baseurl` is set as `"/shiori"` initially.
+Issues and Pull Requests are greatly appreciated. If you've never contributed to an open source project before I'm more than happy to walk you through how to create a pull request.
 
-To use  http://localhost:4000/, change `baseurl` in `_config.yml` to `""` .
+You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
-### Keeping Shiori Up to Date
-
-To keep Shiori up to date, follow these steps:
-
-1. [Configure a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork)
-2. [Sync a fork](https://help.github.com/articles/syncing-a-fork) (**Note**: Use `gh-pages` instead of `master`.)
-
-## :ribbon: Customization :ribbon:
-
-### Required
-
-You **should** change these files before deploying:
-
-* `_config.yml`: You must change `baseurl`, `url`, and `title`. Others are optional.
-  * Make sure to restart the server after you update `_config.yml`.
-* `CNAME`: Change this to host Shiori on a custom domain.
-* `README.md`: Write your own README!
-* `_includes/nav.html`: Modify or remove navigation links.
-* `_includes/nav-right.html`: Modify or remove navigation links.
-* `_includes/sidebar.html`: Customize the side bar.
-* `_includes/post-header.html`: Customize the post header.
-* `_includes/post-footer.html`: Customize the post footer.
-* `_includes/footer.html`: Add copyright info, etc.
-
-### Optional
-
-You **may** customize these files - they're optional:
-
-* `favicon.ico`: Favicon.
-* `about.html`: About page. Currently not linked from anywhere.
-* `_includes/head.html`: Extra stuff in the `<head>` tag.
-* `_includes/scripts.html`: Extra stuff before the `</body>` tag.
-* `_includes/post-header-home.html`: Customize the post header on the home page.
-
-### Customize the Theme
-
-To change my color theme, edit `_data/theme.yml`.
-
-### Add Your Own CSS
-
-You can customize CSS by editing these files:
-
-* `_sass/custom-bootstrap-variables.scss`: Change Bootstrap variables ([documentation](http://getbootstrap.com/customize)).
-* `_sass/custom-scss.scss`: Add your own custom CSS.
-
-### Category Pages
-
-If you want to make category pages, you must manually push the generated `_site` directory to GitHub. If you're still okay with that, [@alextsui05](https://github.com/alextsui05) made an [excellent demo and tutorial for category pages](http://alextsui05.github.io/shiori/categories-in-shiori/). You can see his code on [this pull request](https://github.com/ellekasai/shiori/pull/11).
-
-## :ribbon: Author :ribbon:
-
-#### Elle Kasai
-
-![](https://avatars0.githubusercontent.com/u/2410692?v=2&s=200)
-
-* http://twitter.com/ellekasai
-* http://github.com/ellekasai
-
-#### Special Thanks
-
-* [Shu Uesugi](http://github.com/chibicode) - for the guidance on this project.
-
-### License
-
-[MIT License](http://ellekasai.mit-license.org/)
+I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
