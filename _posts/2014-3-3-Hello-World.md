@@ -2,6 +2,7 @@
 layout: post
 title: Welcome to Easy PC! 
 seotitle: How to Build a Gaming PC 2017
+permalink: easypc.io
 ---
 
 ## Finding the perfect gaming PC, made easy 
