@@ -7,7 +7,7 @@ seotitle: 5 Best Budget Gaming PC's 2017
 
 ## Gaming on a Budget in 2017 Made Easy 
 
-Gaming on a PC has many advantages, including better performance, superior graphics, and PC exclusive titles. However, some may argue that PC gaming is too expensive. Lucky for you, this is where they are wrong. In 2017, PC gaming has become more affordable than ever. $500 today can buy what $1,000 would have bought a few years ago. We live in an ever changing universe, and technological breakthroughs are made every day. Processors and graphics cards have come farther than ever before, and you can pick them up for an extremely low price. 
+Gaming on a PC has many advantages, including better performance, superior graphics, and PC exclusive titles. However, some may argue that PC gaming is too expensive. Lucky for you, they are wrong. In 2017, PC gaming has become more affordable than ever. $500 today can buy what $1,000 bought a few years ago. We live in an ever changing universe, and technological breakthroughs are made every day. Processors and graphics cards have come farther than ever before, and you can pick them up for an extremely low price. 
 
 The following 5 builds are ranked by price, lowest to highest. Each build is configured to maximze your performance based on the money that you are spending. 
 
@@ -17,7 +17,7 @@ The following 5 builds are ranked by price, lowest to highest. Each build is con
 
 This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400. If you are interested in this $400 gaming PC build, click [here](/budget-pcs/400/)
 
-![400 pc](/img/test.jpg)
+![400 pc](/img/test.jpg =100x100)
 
 ### The Perfect Balance ($500)
 
