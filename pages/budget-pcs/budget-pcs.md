@@ -17,7 +17,7 @@ The following 5 builds are ranked by price, lowest to highest. Each build is con
 
 This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400. If you are interested in this $400 gaming PC build, click [here](/budget-pcs/400/)
 
-![400 pc](/img/test.jpg =100x100)
+![400 pc](/img/Cases/cougar mx200.jpg)
 
 ### The Perfect Balance ($500)
 
@@ -26,3 +26,12 @@ The key to building a great gaming computer is finding the perfect balance of pr
 ### The Stealth Gamer ($600)
 
 This relatively low budget gaming PC is not only powerful, but sleek and refined as well. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine. If you are interested in this $600 gaming PC build, click [here](/budget-pcs/600/)
+
+### The Phoenix ($700)
+
+The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine. If you are interested in this $700 gaming PC build, click [here](/budget-pcs/700/)
+
+### The Monster 
+
+This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. $800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in this $800 gaming PC build, click [here](/budget-pcs/800/)
+
