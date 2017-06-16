@@ -29,9 +29,9 @@ This relatively low budget gaming PC is not only powerful, but sleek and refined
 
 ### The Phoenix ($700)
 
-The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine. If you are interested in this $700 gaming PC build, click [here](/budget-pcs/700/)
+The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine.  If you are interested in this $700 gaming PC build, click [here](/budget-pcs/700/)
 
 ### The Monster ($800)
 
-This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. $800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in this $800 gaming PC build, click [here](/budget-pcs/800/)
+This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. $800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in dominating the game, click [here](/budget-pcs/800/)
 
