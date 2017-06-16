@@ -17,7 +17,7 @@ The following 5 builds are ranked by price, lowest to highest. Each build is con
 
 This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400. If you are interested in this $400 gaming PC build, click [here](/budget-pcs/400/)
 
-![400 pc](/img/Cases/cougar mx200.png)
+![400 pc](/img/cougar mx200.png)
 
 ### The Perfect Balance ($500)
 
