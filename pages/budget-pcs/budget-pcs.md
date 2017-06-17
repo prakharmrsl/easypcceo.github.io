@@ -17,7 +17,7 @@ Gaming on a PC has many advantages, including:
 
 Lucky for you, PC gaming is cheaper than ever before. 
 
-The following 5 builds are ranked by price, lowest to highest. Each build is configured to maximze your performance based on the money that you are spending. 
+Below are the best gaming PC builds money can buy in 2017. 
 
 ## Top 5 Best Budget Gaming PC's 2017:
 
