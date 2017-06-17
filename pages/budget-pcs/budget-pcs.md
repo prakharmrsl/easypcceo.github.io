@@ -12,8 +12,8 @@ Here's the deal:
 Gaming on a PC has many advantages, including:
 
 * Superior Graphics
-*Better Performance 
-*PC Exclusive Titles 
+* Better Performance 
+* PC Exclusive Titles 
 
 Lucky for you, PC gaming is cheaper than ever before. 
 
