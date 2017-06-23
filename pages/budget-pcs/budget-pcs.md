@@ -31,6 +31,8 @@ This PC gives you an outstanding bang for your buck, playing the newest titles i
 
 The key to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. On a budget, $500 is often the amount of money that I recommend people spend. You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. If you are interested in this $500 PC build, click [here](/budget-pcs/500/) 
 
+![500 pc](/img/case/nzxt s340 "NZXT S340 (White)")
+
 ### The Stealth Gamer ($600)
 
 This relatively low budget gaming PC is not only powerful, but sleek and refined as well. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine. If you are interested in this $600 gaming PC build, click [here](/budget-pcs/600/)
