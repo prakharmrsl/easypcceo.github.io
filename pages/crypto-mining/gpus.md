@@ -16,21 +16,11 @@ With cryptocurrency values like this, it is easy to understand why many people a
 
 If you are one of these people, you've come to the right place. 
 
-As more and more people begin to mine for cryptocurrency, it becomes harder and harder to successfully mine a bitcoin, litecoin, or any other form of cryptocurrency. 
-
-This is why you need to START MINING NOW! 
-
 ---
 
 ## Crypto Mining Guide 
 
 This guide will teach you the basics of mining for cryptocurrencies.
 
-More specifically, the hardware you will need to get started.
-
-> Mining Graphics Cards  
-> Mining Motherboards
-> Mining Power Supplies 
-
-
+More specifically, the hardware you will need to get started. 
 
