@@ -1,6 +1,6 @@
 ---
 title: Mining Cryptocurrency  
-permalink: "/budget-pcs/500/"
+permalink: "/crypto-mining/"
 layout: page
 seotitle: "Crypto Mining Overview" 
 ---
