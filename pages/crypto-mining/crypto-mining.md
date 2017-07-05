@@ -6,7 +6,7 @@ seotitle: "Crypto Mining Overview"
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png)
+![Pickaxe](/img/cryptocurrency/pick.png){: .img-right .img-medium}
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
