@@ -29,9 +29,11 @@ This guide will teach you the basics of mining for cryptocurrencies.
 
 More specifically, the hardware you will need to get started.
 
-> [Mining Graphics Cards](/crypto-mining/gpus/)  
-> [Mining Motherboards](/crypto-mining/power-supplies/)
-> [Mining Power Supplies](/crypto-mining/motherboards/) 
+These are the 3 MOST important parts of a cryptocurrency mining PC: 
+
+> [The Graphics Card](/crypto-mining/gpus/)  
+> [The Motherboard](/crypto-mining/power-supplies/)
+> [The Power Supply](/crypto-mining/motherboards/) 
 
 Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
 
