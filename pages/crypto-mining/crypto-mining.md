@@ -30,7 +30,7 @@ This guide will teach you the basics of mining for cryptocurrencies.
 More specifically, the hardware you will need to get started.
 
 > [Mining Graphics Cards](/crypto-mining/gpus/)  
-> Mining Motherboards
+> [Mining Motherboards](/crypto-mining/power-supplies)
 > Mining Power Supplies 
 
 
