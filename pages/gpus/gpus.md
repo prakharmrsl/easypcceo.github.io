@@ -1,0 +1,261 @@
+---
+title: The Extreme Budget Gamer ($400)
+permalink: "/budget-pcs/400/"
+layout: page
+seotitle: "#1 Best Budget Gaming PC Under $400 2017" 
+---
+
+This is the #1 best budget gaming PC under $400 for your money in 2017. All of the parts have been hand picked with the best price to performance in mind.
+
+<a href="#video"> Video Overview</a> 
+
+<a href="#Parts List">Parts List</a>
+
+
+### The Case 
+
+Housing everything in your build, the case is often overlooked. 
+
+Why? 
+
+The case is more than just a pretty looking box. In fact, it is much more than that. 
+
+A good case must be: 
+
+* Eye catching 
+* Aerodynamic (if you will)
+* The right size 
+* Spacious
+* Compatible for you
+
+These factors must be kept in mind when deciding which case is right for you. This is why the Cougar MX200 is the case of choice for this build. 
+
+This case features 2 120mm fan vents with pre-installed red LED's. It is sleek, refined, spacious, and compatible with the build. Furthermore, cable management is no problem.
+
+Cable management is important to keep in the back of your head when wiring your PC.
+
+Not only does it make the inside of your PC look better, it improves airflow. This helps to keep your PC nice and cool while you're pushing it to the limit. 
+
+Specs: 
+
+* Type - ATX Mid Tower
+* Color - Black
+* External 5.25" Bays - 2
+* Internal 3.5" Bays - 6
+* Internal 2.5" Bays - 1
+* Motherboard Compatibility - ATX, Micro ATX
+* Maximum Video Card Length - 9.45"
+
+Buy your case [here](https://www.amazon.com/gp/product/B00WR0F7PO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WR0F7PO&linkCode=as2&tag=flarp0c-20&linkId=f5bfb2b1c74c7bd19962adb083956e20)
+
+![Cougar MX200](/img/case/cougar mx200.png "Cougar MX200")
+
+
+### The Processor 
+
+The Pentium G4560 is the perfect choice for any budget gaming computer.
+
+Here's why:
+
+Though most games are not very processor intensive, it is still important to have a processor that can keep up with the graphics card without bottlenecking.
+
+ The Pentium G4560 has a base clock of 3.5GHz, which is less than the i3-6100's clock speed of 3.9GHz. 
+
+ But that is the best part. 
+
+ Due to the brand new Kaby Lake architecture, it can be paired with 2400MHz ram. What does this mean? 
+
+ It means that using higher frequency ram can compensate for the processor's frequency deficit. 
+
+ But here's the kicker: 
+
+ Even though this processor can be found for $60, it outperforms the i3-6100, which is priced over $100. 
+
+
+Specs:
+
+ * Cores - 2
+ * Threads - 4 
+ * Hyperthreading - Yes 
+ * Base Frequency - 3.5 GHz
+ * TDP - 54 W
+ * Cache - 3 MB
+ * Lithography - 14 nm
+ * Memory Types - DDR4-2133/2400, DDR3L-1333/1600 @ 1.35V
+
+ Hyperthreading technology is what makes this processor so powerful. Though it only has 2 physical cores, each core is able to process 2 threads, instead of just one.
+
+ So what? What's the big deal? 
+
+ The big deal is, this means it effectively has 4 cores, not 2. 
+
+ Each thread acts as its own core. The processor, instead of having just 2 physical cores, now has 2 physical and 2 theoretical cores. Video games, editing softwares, etc. detect 4 cores, not two. Since most games utilize all 4 cores of a processor, this is incredible. 
+
+
+All the more reason to buy it [now](https://www.amazon.com/gp/product/B01NCE8T92/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NCE8T92&linkCode=as2&tag=flarp0c-20&linkId=69a3b5167482f5d9a55a6f56ae5bc656)
+
+![Pentium G4560](/img/cpu/pentium.png "Pentium G4560"){: .processor}
+
+
+### The Motherboard 
+
+The MSI Pro Series Intel B250 micro-ATX motherboard is the motherboard of choice for this build. 
+
+Not only is it sexy, it is reliable and easy to use. 
+
+The best part? 
+
+This motherboard has a b250 chipset. This is very important. It allows for the use of 2400MHz memory, which boosts the performance of the processor. 
+
+What's the bottom line here? 
+
+For less than $70, you are getting a component that will not only do a great job, it will do that job for a long time. 
+
+
+Specs:
+
+* Socket - 1151
+* Chipset - Intel® B250 Chipset
+* Memory - DDR4 2400/ 2133 MHz
+* Memory Channel - Dual
+* DIMM Slots - 2
+* Max Memory (GB) - 32
+
+Here at Easy PC, getting the best bang for your buck is high on the list of priorities. This means recommending parts that will last a long time. This motherboard will do just that. 
+
+Buy it [now](https://www.amazon.com/gp/product/B01N9OZI64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9OZI64&linkCode=as2&tag=flarp0c-20&linkId=8e9adf8cc1f5fb56b4e15fbc11632827)
+
+![MSI Pro Series Intel B250 micro-ATX Motherboard](/img/mobo/b250 msi.png "MSI Pro Series Intel B250 micro-ATX Motherboard")
+
+### The Ram 
+
+You can't go wrong with 8GB of ram. 
+
+8GB has been the standard for a long time in the gaming community. Recommended for most games, it will perform well, and give the processor the extra kick that it needs. 
+
+This build is sporting a Ballistix Sport LT 8GB kit (2x4GB) of DDR4 2400 ram. 
+
+The ram is important because it is 2400 MHz, not 2133 MHz. This boosts the CPU performance. 
+
+Specs:
+
+* Type - 288 pin DIMM
+* Speed - DDR4-2400
+* Size - 8GB (2x4GB)
+
+Buy your ram [here](https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=b5052258f8a92b1950c7a7a82e890366)
+
+![Ram](/img/ram/ballistix sport ram.png "Ballistix Sport LT 8GB (2x4GB) 2400 MHz Ram ")
+
+### The Hard Drive 
+
+The name WD Caviar Blue carries many attributes with it: 
+
+* Mass Storage
+* Reliability
+* Simplicity
+* Speed
+
+These are just a few of the many benefits of owning a WD Caviar Blue 1TB 3.5" 7200RPM internal hard drive. 
+
+Not only is this hard drive fast, it is reliable, and cost effective. 
+
+With 1TB of storage, you will have plenty of room for everything you could ever want on your gaming PC. 
+
+Specs:
+
+* Capacity - 1TB
+* Interface - SATA 6 Gb/s 
+* Cache - 64MB
+* RPM - 7200 
+
+
+
+Buy your Hard Drive [here](https://www.amazon.com/gp/product/B0088PUEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0088PUEPK&linkCode=as2&tag=flarp0c-20&linkId=dba16cdac3d4db5da2228839efacee3b "WD Caviar Blue 1TB HDD")
+
+![Caviar Blue 1TB Hard Drive](/img/hdd/1tb.png "1TB Caviar Blue HDD")
+
+### The Graphics Card 
+
+The graphics card is easily the MOST important part of the gaming computer. 
+
+This is the part that handles the majority of the gaming workload. It is crucial that your gaming PC has the proper graphics card.
+
+You're in luck. 
+
+The Gigabyte - Radeon RX 460 2GB Windforce OC Video Card made the cut for this build. 
+
+Not only is this card rocking 2GB of DDR5 dedicated memory, it has a core clock of 1.09 GHz. 
+
+What's so good about this?
+
+* Higher resolution in game
+* Higher frames per second 
+* Higher graphical settings 
+* Multiple monitor capability 
+
+For the price, the Radeon RX 460 2GB is the best choice for this build. 
+
+Specs: 
+
+* Chipset - Radeon RX 460
+* Memory Size - 2GB
+* Memory Type - GDDR5
+* Base Frequency - 1.09 GHz
+* Boost Frequency - 1.22 GHz
+* TDP - 75 Watts 
+* Length - 7.52"
+
+Buy yours [here](https://www.amazon.com/gp/product/B01K1JV83C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JV83C&linkCode=as2&tag=flarp0c-20&linkId=23d1072d4ba303c7531c460aad09a66b)
+
+![RX 460 2GB](/img/gpu/rx 460 4gb.png "Radeon RX 460 2GB")
+
+### The Power Supply 
+
+Finding a reliable power supply can be hard. With many factors to consider including wattage, efficieny, and whether or not to choose a modular power supply, it can be a daunting task. 
+
+Easy PC is the gift that just keeps giving. 
+
+Why? 
+
+You guessed it. The perfect power supply has already been picked out for you. 
+
+The EVGA 500B is the choice for this build. Not only does it have more than enough power for the build, it is 80+ Bronze Certified. 
+
+Specs: 
+
+* Type - ATX12V / EPS12V
+* Wattage - 500 Watts
+* Fans - 1
+* Modular - No 
+* Efficiency - 80+ Bronze 
+* PCI-Express 6+2 Pin Connectors - 2 
+
+Buy your power supply [here](https://www.amazon.com/gp/product/B00DZ6R9GE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DZ6R9GE&linkCode=as2&tag=flarp0c-20&linkId=1d71f7db685128910585aa619fbdd21a)
+
+![EVGA 500B 500W PSU](/img/PSU/500b.png "EVGA 500B 500W PSU")
+
+<a id="Parts List"></a>
+
+Parts List:
+
+* [Intel Pentium G4560 Processor - $77](https://www.amazon.com/gp/product/B01NCE8T92/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NCE8T92&linkCode=as2&tag=flarp0c-20&linkId=69a3b5167482f5d9a55a6f56ae5bc656) 
+* [MSI Pro Series Intel B250 micro-ATX Motherboard - $66](https://www.amazon.com/gp/product/B01N9OZI64/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N9OZI64&linkCode=as2&tag=flarp0c-20&linkId=8e9adf8cc1f5fb56b4e15fbc11632827)
+* [Ballistix Sport LT 8GB (2x4GB) 2400 MHz Ram - $60](https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=b5052258f8a92b1950c7a7a82e890366)
+* [WD Caviar Blue 1TB 7200rpm Hard Drive - $50](https://www.amazon.com/gp/product/B0088PUEPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0088PUEPK&linkCode=as2&tag=flarp0c-20&linkId=dba16cdac3d4db5da2228839efacee3b)
+* [Radeon RX 460 2GB Graphics Card - $117](https://www.amazon.com/gp/product/B01K1JV83C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JV83C&linkCode=as2&tag=flarp0c-20&linkId=23d1072d4ba303c7531c460aad09a66b)
+* [EVGA 500B Power Supply - $47](https://www.amazon.com/gp/product/B00DZ6R9GE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00DZ6R9GE&linkCode=as2&tag=flarp0c-20&linkId=1d71f7db685128910585aa619fbdd21a)
+* [Cougar MX200 Case - $70](https://www.amazon.com/gp/product/B00WR0F7PO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00WR0F7PO&linkCode=as2&tag=flarp0c-20&linkId=f5bfb2b1c74c7bd19962adb083956e20)
+
+[pcpartpicker](https://pcpartpicker.com/list/Mw3mhq)
+
+<a id="video"></a>
+
+Below is a quick video guide of this build:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V12paKHyGMs" frameborder="0" allowfullscreen></iframe> 
+
+
+
+
+
