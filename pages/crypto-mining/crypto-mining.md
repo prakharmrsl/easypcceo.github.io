@@ -6,7 +6,7 @@ seotitle: "Crypto Mining Overview"
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .img-right .img-medium}
+![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo .img-medium}
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
@@ -33,5 +33,8 @@ More specifically, the hardware you will need to get started.
 > [Mining Motherboards](/crypto-mining/power-supplies/)
 > [Mining Power Supplies](/crypto-mining/motherboards/) 
 
+Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
 
+Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
 
+Lastly, using the right power 
