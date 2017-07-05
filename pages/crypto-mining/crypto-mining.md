@@ -5,6 +5,9 @@ layout: page
 seotitle: "Crypto Mining Overview" 
 ---
 
+
+![Pickaxe](/img/cryptocurrency/pick.png)
+
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
 ![Bitcoin Value Graph](/img/cryptocurrency/bitcoin value graph.jpg "Value of Bitcoin")
