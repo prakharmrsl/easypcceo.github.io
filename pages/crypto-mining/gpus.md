@@ -1,11 +1,11 @@
 ---
-title: Mining Cryptocurrency  
+title: Best Mining Graphics Cards 2017   
 permalink: "/crypto-mining/gpus/"
 layout: page
-seotitle: "Crypto Mining Overview" 
+seotitle: "Best Graphics Cards for Mining Cryptocurrency 2017 " 
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .img-right .img-medium}
+![Pickaxe](/img/cryptocurrency/rx 470.png){: .right-logo}
 
 Graphics Cards 
