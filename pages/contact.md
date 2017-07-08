@@ -6,10 +6,13 @@ seotitle: "Contact Easy PC"
 ---
 You can use this form to get in contact with Easy PC: 
 
-<form action="https://formspree.io/jacob.tuwiner@easypc.io"
-      method="POST">
-    <input type="text" name="name">
-    <input type="email" name="_replyto">
-    <input type="submit" value="Send">
-</form>
-
+<div class="well">
+<div class="contact">
+ <form action="//formspree.io/jacob.tuwiner@easypc.io" method="POST">
+      <input type="text" class="contact-email contact-field" placeholder="Your name" name="name">
+      <input type="email" class="contact-replyto contact-field" placeholder="Your email address" name="_replyto">
+      <textarea type="message" class="contact-message contact-field" placeholder="Your message" name="message"></textarea>
+      <input class="open-sans-font-b" type="submit" value="Send Message">
+ </form> 
+</div>
+</div>
