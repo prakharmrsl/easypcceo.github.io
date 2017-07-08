@@ -352,3 +352,21 @@ a:hover {
   left: 100px;
   bottom: 10px;
 }
+
+.button {
+  padding: 8px 16px;
+  display: inline-block;
+  text-decoration: none;
+  border-radius: 3px;
+  background-color: #ccc; /* Temp */
+}
+
+.button-buy {
+  background: slategrey
+  color: #fff;
+
+}
+
+.button-buy:hover {
+  background: lightslategrey;
+}
