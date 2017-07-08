@@ -5,6 +5,8 @@ layout: page
 seotitle: "3 Best Graphics Cards for Zcash Miners" 
 ---
 
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){.img-}
+
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
 The Claymore miner has a good long-standing reputation. In addition, it is only compatible with AMD graphics cards. 
