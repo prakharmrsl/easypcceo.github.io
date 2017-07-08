@@ -59,7 +59,7 @@ Many would consider Zcash the future of anonymous transaction.
 
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
 
-View Zcash mining graphics cards [here](/crypto-mining/zcash-mining-hardware/)
+View Zcash mining graphics cards [here](/crypto-mining/zcash-hardware/)
 
 ### 4. Dash 
 
@@ -73,7 +73,7 @@ Furthermore, transactions are instantaneous.
 
 Fees are virtually non-exisistent, as you control your own money.
 
-View Dash mining graphics cards [here](/crypto-mining/dash-mining-hardware/)
+View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ### 3. Litecoin 
 
