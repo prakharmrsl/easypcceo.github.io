@@ -88,3 +88,5 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ### 2. Ethereum 
 
+![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM")
+
