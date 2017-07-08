@@ -6,7 +6,7 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo .img-right}
+![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo}
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
@@ -74,5 +74,9 @@ Furthermore, transactions are instantaneous.
 Fees are virtually non-exisistent, as you control your own money.
 
 View Dash mining graphics cards [here](/crypto-mining/dash-mining-hardware/)
+
+### 3. Litecoin 
+
+![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN")
 
 
