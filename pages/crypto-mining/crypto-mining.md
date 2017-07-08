@@ -39,4 +39,4 @@ Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a
 
 Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
 
-Lastly, using the right power supply update 
+Lastly, using the right power supply is crucial 
