@@ -15,7 +15,7 @@ That being said, here are the top 3 best graphics cards for Zcash miners:
 
 ![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
-The Radeon Sapphire Radeon RX 580 Nitro+ is a solid choice for anyone looking to mine Zcash. 
+The Sapphire Radeon RX 580 Nitro+ is a solid choice for anyone looking to mine Zcash. 
 
 The GPU comes with a base clock of 1450 MHz and can be overclocked to 1500 MHz. 
 
