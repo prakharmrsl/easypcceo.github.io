@@ -104,5 +104,5 @@ View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
 ### 1. Bitcoin
 
-
+![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN")
 
