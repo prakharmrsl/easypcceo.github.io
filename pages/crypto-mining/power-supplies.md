@@ -1,6 +1,6 @@
 ---
 title: Mining Cryptocurrency  
-permalink: "/power-supplies/"
+permalink: "/crypto-mining/power-supplies/"
 layout: page
 seotitle: "Crypto Mining Overview" 
 ---
