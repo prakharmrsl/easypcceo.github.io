@@ -15,8 +15,6 @@ Instead?
 
 The graphics card is used for solving the complex algorithms that form cryptocurrency. 
 
-
-
 Here's the thing:
 
 You can't mine with any old graphics card.  
