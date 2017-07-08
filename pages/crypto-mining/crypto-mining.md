@@ -36,6 +36,8 @@ Here's the deal:
 
 Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
 
+How to graphics cards mine bitcoin? Find out [here](/cryptomining/how-do-gpus-mine/)
+
 Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
 
 Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
