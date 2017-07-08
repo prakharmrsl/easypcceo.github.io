@@ -90,5 +90,5 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM")
 
-Ethereum 
+Ethereum is
 
