@@ -77,6 +77,6 @@ View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ### 3. Litecoin 
 
-![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN")
+![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium}
 
 
