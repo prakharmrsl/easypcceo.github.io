@@ -48,4 +48,5 @@ This card doesn't come perfectly equipped for miners straight out of the box, th
 
 Buy yours [here](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
+### 2. 
 
