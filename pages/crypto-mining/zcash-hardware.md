@@ -21,7 +21,6 @@ The GPU comes with a base clock of 1450 MHz and can be overclocked to 1500 MHz.
 
 Specs: 
 
-SAPPHIRE NITRO+ Radeon RX 580 8 GB Limited Edition:
 * 2304 stream Processors
 * 14 nm FinFET, 4th generation Graphics Core Next (GCN)
 * 1450 MHz GPU Boost Clock
