@@ -102,3 +102,7 @@ It is online, and cryptographically secure.
 
 View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
+### 1. Bitcoin
+
+
+
