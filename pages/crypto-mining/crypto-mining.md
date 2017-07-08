@@ -20,32 +20,6 @@ This is why you need to START MINING NOW!
 
 ---
 
-## Crypto Mining Guide 
-
-This guide will teach you the basics of mining for cryptocurrencies.
-
-It will also show you the best mining PCs for the top 5 most popular cryptocurrencies today. 
-
-These are the 3 MOST important parts of a cryptocurrency mining PC: 
-
-* The Graphics Card 
-* The Motherboard
-* The Power Supply 
-
-Here's the deal:
-
-Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
-
-How do graphics cards mine bitcoin? Find out [here](/crypto-mining/how-do-gpus-mine/)
-
-Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
-
-Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
-
-With these things in mind, here are the builds for the top 5 most popular cryptocurrencies: 
-
----
-
 ## Top 5 Most Popular Cryptocurrencies:
 
 ### 5. Zcash 
@@ -119,4 +93,28 @@ Every time a solution to the problem is solved, the reward is given as a bitcoin
 Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
 View Bitcoin mining graphics cards [here](/crypto-mining/bitcoin-hardware/)
+
+## Crypto Mining Guide 
+
+This guide will teach you the basics of mining for cryptocurrencies.
+
+It will also show you the best mining PCs for the top 5 most popular cryptocurrencies today. 
+
+These are the 3 MOST important parts of a cryptocurrency mining PC: 
+
+* The Graphics Card 
+* The Motherboard
+* The Power Supply 
+
+Here's the deal:
+
+Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
+
+How do graphics cards mine bitcoin? Find out [here](/crypto-mining/how-do-gpus-mine/)
+
+Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
+
+Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
+
+With these things in mind, here are the builds for the top 5 most popular cryptocurrencies: 
 
