@@ -15,4 +15,6 @@ That being said, here are the top 3 best graphics cards for zcash miners:
 
 ![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
+The
+
 296
