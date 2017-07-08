@@ -3,3 +3,9 @@
   
 - name: Budget PCs 
   url: /budget-pcs/
+
+- name: Enthusiast PCs
+  url: /enthusiast-pcs/
+
+- name: YouTube
+  url: /youtube/
