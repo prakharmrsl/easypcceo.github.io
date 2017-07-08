@@ -23,15 +23,16 @@ Below are the best gaming PC builds money can buy in 2017.
 
 ### The Extreme Budget Gamer ($400) 
 
-This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400. If you are interested in this $400 gaming PC build, click [here](/budget-pcs/400/)
-
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-medium}
+
+
+This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400. If you are interested in this $400 gaming PC build, click [here](/budget-pcs/400/)
 
 ### The Perfect Balance ($500) 
 
-The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. On a budget, $500 is often the amount of money that I recommend people spend. You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. If you are interested in this $500 PC build, click [here](/budget-pcs/500/) 
-
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-medium}
+
+The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. On a budget, $500 is often the amount of money that I recommend people spend. You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. If you are interested in this $500 PC build, click [here](/budget-pcs/500/) 
 
 ### The Stealth Gamer ($600)
 
