@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Graphics Cards for Zcash Miners" 
 ---
 
-![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right}
+<!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
