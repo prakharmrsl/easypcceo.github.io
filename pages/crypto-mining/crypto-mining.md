@@ -6,7 +6,7 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo}
+![Pickaxe](/img/cryptocurrency/pick.png){: .ight-logo}
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
@@ -52,4 +52,15 @@ With these things in mind, here are the builds for the top 5 most popular crypto
 Zcash is based on Bitcoin, but has one key difference: 
 
 Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
+
+This means that the sender address, recipient address, and the amount sent is hidden from public view. 
+
+Many would consider Zcash the future of anonymous transaction. 
+
+NOTE: There will only ever be 21 million coins, so start mining NOW! 
+
+View Zcash mining graphics cards [here](/crypto-mining/zcash-mining-hardware/)
+
+### 4. Dash 
+
 
