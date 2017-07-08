@@ -6,7 +6,7 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 ---
 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .ight-logo}
+![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo .img-right}
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
@@ -64,5 +64,15 @@ View Zcash mining graphics cards [here](/crypto-mining/zcash-mining-hardware/)
 ### 4. Dash 
 
 ![DASH](/img/cryptocurrency/dash.jpg "DASH")
+
+Dash is the first form of digital cash that works like physical cash. 
+
+You hold your own money, maintaining full control. You maintain total privacy, and your transactions can't be tracked. 
+
+Furthermore, transactions are instantaneous. 
+
+Fees are virtually non-exisistent, as you control your own money.
+
+View Dash mining graphics cards [here](/crypto-mining/dash-mining-hardware/)
 
 
