@@ -106,3 +106,15 @@ View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
 ![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN")
 
+In today's economy, every transaction we make must go through a bank or credit card company. 
+
+They take a cut of the transaction, and we must believe that they won't make a mistake. 
+
+At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
+
+Every time a solution to the problem is solved, the reward is given as a bitcoin. 
+
+Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
+
+View Bitcoin mining graphics cards [here](/crypto-mining/bitcoin-hardware/)
+
