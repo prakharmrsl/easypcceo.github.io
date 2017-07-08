@@ -63,4 +63,6 @@ View Zcash mining graphics cards [here](/crypto-mining/zcash-mining-hardware/)
 
 ### 4. Dash 
 
+![DASH](/img/cryptocurrency/dash.jpg "DASH")
+
 
