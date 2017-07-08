@@ -86,3 +86,5 @@ Lastly, it can be spent on almost anything.
 
 View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
+### 2. Ethereum 
+
