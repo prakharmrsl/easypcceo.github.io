@@ -27,14 +27,13 @@ This guide will teach you the basics of mining for cryptocurrencies.
 
 It will also show you the best mining PCs for the top 5 most popular cryptocurrencies today. 
 
-
 These are the 3 MOST important parts of a cryptocurrency mining PC: 
 
 * The Graphics Card 
 * The Motherboard
 * The Power Supply 
 
-
+Here's the deal:
 
 Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
 
@@ -46,8 +45,11 @@ With these things in mind, here are the builds for the top 5 most popular crypto
 
 ## Top 5 Most Popular Cryptocurrencies:
 
-### 5. AUGUR
+### 5. Zcash 
 
-![AUGUR](/img/cryptocurrency/augurlogo.png "AUGUR")
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH")
 
+Zcash is based on Bitcoin, but has one key difference: 
+
+Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
 
