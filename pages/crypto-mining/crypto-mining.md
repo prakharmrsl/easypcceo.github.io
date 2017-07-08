@@ -104,7 +104,7 @@ View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
 ### 1. Bitcoin
 
-![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN")
+![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-medium}
 
 In today's economy, every transaction we make must go through a bank or credit card company. 
 
