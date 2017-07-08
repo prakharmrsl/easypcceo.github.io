@@ -34,5 +34,4 @@ SAPPHIRE NITRO+ Radeon RX 580 8 GB Limited Edition:
 
 ![RX 580 Specs](/img/cryptocurrency/gpu/rx-580-nitro-specs.jpg "RX 580 SPECS")
 
-
-296
+Using Claymore Zcash AMD GPU miner 12.4, this card's hash rate is sitting at around 295 H/s. 
