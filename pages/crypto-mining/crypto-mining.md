@@ -42,6 +42,8 @@ Lastly, using the right power supply is crucial. If your mining rig is not provi
 
 With these things in mind, here are the builds for the top 5 most popular cryptocurrencies: 
 
+---
+
 ## Top 5 Most Popular Cryptocurrencies:
 
 ### 5. Zcash 
@@ -90,5 +92,13 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM")
 
-Ethereum is
+Ethereum is a platform specifically designed for people to build decentralized applications. 
+
+It allows for peer-to-peer messaging, and a generalized blockchain. 
+
+The blockchain has a built in programming language. This allows people to use the blockchain for any kind of decentralized application. 
+
+It is online, and cryptographically secure. 
+
+View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
