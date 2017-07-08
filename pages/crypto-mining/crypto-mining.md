@@ -40,4 +40,14 @@ Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a
 
 Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
 
-Lastly, using the right power supply is crucial 
+Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
+
+With these things in mind, here are the builds for the top 5 most popular cryptocurrencies: 
+
+## Top 5 Most Popular Cryptocurrencies:
+
+### 5. AUGUR
+
+![AUGUR](/img/cryptocurrency/augurlogo.png "AUGUR")
+
+
