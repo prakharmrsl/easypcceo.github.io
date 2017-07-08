@@ -320,8 +320,17 @@ footer {
 }
 
 .right-logo {
-  position: relative;
   max-width: 80px;
   bottom: 80px;
   left: 340px;
+}
+
+a:hover {
+    color: #000;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.site-name {
+  margin-top:10px;
 }
