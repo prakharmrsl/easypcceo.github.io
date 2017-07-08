@@ -5,10 +5,9 @@ layout: page
 seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs" 
 ---
 
+Mining Bitcoin and other cryptocurrencies has become very popular. 
 
 ![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo}
-
-Mining Bitcoin and other cryptocurrencies has become very popular. 
 
 <center> <h3> Value of Bitcoin </h3> </center>
 ![Bitcoin Value Graph](/img/cryptocurrency/bitcoin value graph.jpg "Value of Bitcoin")
@@ -79,4 +78,11 @@ View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium}
 
+Litecoin is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
+
+It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
+
+Lastly, it can be spent on almost anything. 
+
+View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
