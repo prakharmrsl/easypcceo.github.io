@@ -9,8 +9,6 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 Zcash uses [equihash](https://equi-hash.com/) as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
-The Claymore miner has a good long-standing reputation. In addition, it is only compatible with AMD graphics cards. 
-
 That being said, here are the top 3 best graphics cards for Zcash miners: 
 
 ---
@@ -60,5 +58,7 @@ When you buy the GTX 1070  FE, not only are you getting an excellent mining tool
 This card is by far the best zcash miner due to its incredible price to performance ratio. 
 
 After a few tweaks to best suit mining, this card is powerful and efficient. I would highly recommend this card to anyone looking to mine zcash. 
+
+Many may assume that AMD cards are the only option for miners. This is simply not true.
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
