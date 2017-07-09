@@ -13,7 +13,13 @@ The Claymore miner has a good long-standing reputation. In addition, it is only 
 
 That being said, here are the top 3 best graphics cards for Zcash miners: 
 
-### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f) ($580)
+---
+
+### 3. [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b">Sapphire Radeon NITRO Rx 480 4GB GDDR5 Dual HDMI / DVI-D / Dual DP OC w/ backplate (UEFI) PCI-E Graphics Card 11260-13-20G</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=cryptocurrency06-20&l=am2&o=1&a=B01NAEFAHC)
+
+![RADEON RX 480](/img/cryptocurrency/gpu/rx480 "RX 480")
+
+### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
 ![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
@@ -36,6 +42,4 @@ Benchmark results:
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash. 
 
 <a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="button button-buy"> Buy RX 580 Graphics Card </a>
-
-### RX 570 Graphics Cards ($450)
 
