@@ -40,6 +40,8 @@ The secret to building a great gaming computer is finding the perfect balance of
 
 This relatively low budget gaming PC is not only powerful, but sleek and refined as well. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine. If you are interested in this $600 gaming PC build, click [here](/budget-pcs/600/)
 
+[$600 Gaming PC](/budget-pcs/600/){: .big-button}
+
 ### The Phoenix ($700)
 
 The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine.  If you are interested in this $700 gaming PC build, click [here](/budget-pcs/700/)
