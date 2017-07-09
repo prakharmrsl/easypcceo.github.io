@@ -2,7 +2,7 @@
 title: Best Graphics Cards for Zcash Miners   
 permalink: "/crypto-mining/zcash-hardware/"
 layout: page
-seotitle: "3 Best Graphics Cards for Zcash Miners" 
+seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017" 
 ---
 
 <!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->

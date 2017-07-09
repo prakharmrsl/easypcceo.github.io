@@ -108,13 +108,52 @@ These are the 3 MOST important parts of a cryptocurrency mining PC:
 
 Here's the deal:
 
-Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
+Originally, the CPU was used to mine for cryptocurrencies.
 
-How do graphics cards mine bitcoin? Find out [here](/crypto-mining/how-do-gpus-mine/)
+However, very early on, miners discovered that the CPU was not very efficient for mining. 
+
+In fact, it was virtually useless. 
+
+Instead? 
+
+The graphics card is used for solving the complex algorithms that form cryptocurrency. 
+
+---
+
+Here's the thing:
+
+You can't mine with any old graphics card.  
+
+There are important stats that need to be considered, including: 
+
+* MHash/s 
+* MHash/j
+* MHash/s/$ 
+
+### MHash/s 
+
+MHash/s is equal to the amount of number-crunching the card can do while mining. If your hash rate is high, you'll go through hashes faster than if your hash rate was low. 
+
+What does this mean for you? 
+
+A higher hash rate equals faster results.
+
+### MHash/j
+
+MHash/j is the amount of hashes the card can process per joule of energy. If you didn't already know, mining uses a lot of electricity. It is important that your graphics card can mine enough for you to make a profit after you've paid your electricity bill. 
+
+A higher number means your card is more power efficient. If your card is more power efficient, you'll save money on electricity. I'm sure you see where this is going. 
+
+### MHash/s/$
+
+MHash/s/$ is basically a way for you to see the price to performance ratio of the card. If the number is higher, it means you are getting more for your money. 
+
+It is important to make sure you find a card with a good balance of these stats for the right price. 
+
+Mining for cryptocurrency, including bitcoin, litecoin, and ethereum, requires a powerful graphics card. 
 
 Actually, it requires multiple powerful graphics cards. Consequently, you will also need a motherboard with enough PCI slots to house these graphics cards. 
 
 Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
 
-With these things in mind, here are the builds for the top 5 most popular cryptocurrencies: 
 
