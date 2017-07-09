@@ -68,7 +68,7 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right}
 
-<a href="ethereum.org">Ethereum</a> is a platform specifically designed for people to build decentralized applications. 
+[Ethereum](https://ethereum.org/) is a platform specifically designed for people to build decentralized applications. 
 
 It allows for peer-to-peer messaging, and a generalized blockchain. 
 
