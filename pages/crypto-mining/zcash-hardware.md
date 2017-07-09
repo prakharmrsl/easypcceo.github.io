@@ -27,7 +27,7 @@ The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 w
 
 Though this card is becoming harder to find, it proves an excellent choice for miners. 
 
-<a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="button">Buy RX 480 Graphics Card</a>
+[<a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>]
 
 ### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
@@ -51,7 +51,7 @@ Benchmark results:
 
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash. 
 
-<a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="button button-buy"> Buy RX 580 Graphics Card </a>
+<a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
 
 ### 1. Gef
 

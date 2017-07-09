@@ -380,3 +380,18 @@ a:hover {
   max-width: 180px;
   max-height: auto;
 }
+
+.big-button {
+    background: #4183c4 none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid #4183c4;
+}
+
+.big-button:hover {
+    background: #fff none repeat scroll 0 0;
+    border: 1px solid #4183c4;
+    color: #4183c4;
+}

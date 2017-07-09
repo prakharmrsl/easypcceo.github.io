@@ -36,7 +36,7 @@ Many would consider Zcash the future of anonymous transaction.
 
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
 
-View Zcash mining graphics cards [here](/crypto-mining/zcash-hardware/)
+[View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
 
 ### 4. Dash 
 
@@ -50,7 +50,7 @@ Furthermore, transactions are instantaneous.
 
 Fees are virtually non-exisistent, as you control your own money.
 
-View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
+[View Dash mining graphics cards here](/crypto-mining/dash-hardware/){: .big-button}
 
 ### 3. Litecoin 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
@@ -61,7 +61,7 @@ It has low transaction fees and fast transaction times. It can be bought and sol
 
 Lastly, it can be spent on almost anything. 
 
-View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
+[View Litecoin mining graphics cards here](/crypto-mining/litecoin-hardware/){: .big-button}
 
 ### 2. Ethereum 
 
@@ -75,7 +75,7 @@ The blockchain has a built in programming language. This allows people to use th
 
 It is online, and cryptographically secure. 
 
-View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
+[View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
 
 ### 1. Bitcoin
 
@@ -93,7 +93,7 @@ Every time a solution to the problem is solved, the reward is given as a bitcoin
 
 Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
-View Bitcoin mining graphics cards [here](/crypto-mining/bitcoin-hardware/)
+[View Bitcoin mining graphics cards here](/crypto-mining/bitcoin-hardware/){: .big-button}
 
 ## Crypto Mining Guide 
 
