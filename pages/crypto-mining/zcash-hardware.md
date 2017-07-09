@@ -13,31 +13,17 @@ The Claymore miner has a good long-standing reputation. In addition, it is only 
 
 That being said, here are the top 3 best graphics cards for Zcash miners: 
 
-### 1. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f) ($580)
+### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f) ($580)
 
 ![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
-The Sapphire Radeon RX 580 Nitro+ is the best choice for anyone looking to mine Zcash. 
+The Sapphire Radeon RX 580 Nitro+ is a great choice for anyone looking to mine Zcash. 
 
-The GPU comes with a base clock of 1450 MHz and can be overclocked to 1500 MHz. 
+The AMD 500 series are popular among miners, as they are cheaper, and easyier to set up. Furthermore, they pack quite a punch when it comes to mining. 
 
-Specs: 
+This GPU only draws 150 watts at max load, which makes it decently efficient, considering its top speed of 29 MH/s. 
 
-* 2304 stream Processors
-* 14 nm FinFET, 4th generation Graphics Core Next (GCN)
-* 1450 MHz GPU Boost Clock
-* 8192 MB GDDR5 Memory, 256 bit Memory Bus, 2000 MHz Memory Clock
-* Display Outputs: 1x DL-DVI-D, 2x HDMI 2.0b, 2x DisplayPort 1.4
-* All-new Dual-X 95 mm fans, two ball bearing
-* Power connectors: 1x 6-pin PCI-E, 1x 8-pin PCI-E
-* Power consumption: 225W
-* Dual UEFI BIOS
-
-![RX 580 Specs](/img/cryptocurrency/gpu/rx-580-nitro-specs.jpg "RX 580 SPECS")
-
-Using Claymore Zcash AMD GPU miner 12.4, this card's hash rate is sitting at around 295 H/s. 
-
-This is the fastest card in AMD's 500 series.
+![RX 580 Specs](/img/cryptocurrency/gpu/rx-580-nitro-specs.jpg "RX 580 SPECS") 
 
 Benchmark results: 
 
