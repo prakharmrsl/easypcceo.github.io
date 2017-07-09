@@ -27,7 +27,7 @@ Below are the best gaming PC builds money can buy in 2017.
 
 This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
 
-[$400 Gaming PC](/budget-pcs/400/)(: .big-button)
+[$400 Gaming PC](/budget-pcs/400/){: .big-button}
 
 ### The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
