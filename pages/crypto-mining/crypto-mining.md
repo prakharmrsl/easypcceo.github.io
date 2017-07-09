@@ -54,7 +54,7 @@ View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ### 3. Litecoin 
 
-![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium}
+![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium .img-right }
 
 Litecoin is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
 
@@ -66,7 +66,7 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ### 2. Ethereum 
 
-![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM")
+![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right}
 
 Ethereum is a platform specifically designed for people to build decentralized applications. 
 
@@ -80,7 +80,7 @@ View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
 ### 1. Bitcoin
 
-![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-medium}
+![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-medium .img-right}
 
 In today's economy, every transaction we make must go through a bank or credit card company. 
 
