@@ -40,7 +40,7 @@ View Zcash mining graphics cards [here](/crypto-mining/zcash-hardware/)
 
 ### 4. Dash 
 
-![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right}
+![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right .img-small}
 
 <a href="dash.org">Dash</a> is the first form of digital cash that works like physical cash. 
 
@@ -65,7 +65,7 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ### 2. Ethereum 
 
-![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right}
+![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right .img-small}
 
 [Ethereum](https://ethereum.org/) is a platform specifically designed for people to build decentralized applications. 
 
@@ -79,7 +79,7 @@ View Ethereum mining graphics cards [here](/crypto-mining/ethereum-hardware/)
 
 ### 1. Bitcoin
 
-![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-medium .img-right}
+![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-small .img-right}
 
 In today's economy, every transaction we make must go through a bank or credit card company. 
 
