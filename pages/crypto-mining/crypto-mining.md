@@ -24,7 +24,7 @@ This is why you need to START MINING NOW!
 
 ### 5. Zcash 
 
-![ZCASH](/img/cryptocurrency/zcash.png "ZCASH")
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right}
 
 Zcash is based on Bitcoin, but has one key difference: 
 
