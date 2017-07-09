@@ -17,7 +17,9 @@ That being said, here are the top 3 best graphics cards for Zcash miners:
 
 ![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-large}
 
-The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to overlook the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+
+Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
 The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 watts at max load, making it an efficient and powerful choice for miners. 
 
