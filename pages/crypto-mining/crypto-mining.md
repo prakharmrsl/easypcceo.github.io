@@ -18,8 +18,6 @@ As more and more begin to mine for cryptocurrency, it becomes harder and harder 
 
 This is why you need to START MINING NOW! 
 
----
-
 ## Top 5 Most Popular Cryptocurrencies:
 
 ### 5. Zcash 
@@ -121,9 +119,7 @@ Instead?
 
 The graphics card is used for solving the complex algorithms that form cryptocurrency. 
 
----
-
-Here's the thing:
+## Factors that Affect the Efficiency of your GPU 
 
 You can't mine with any old graphics card.  
 
