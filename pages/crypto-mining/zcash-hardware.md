@@ -7,7 +7,7 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 <!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->
 
-Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
+Zcash uses [equihash](https://equi-hash.com/) as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
 The Claymore miner has a good long-standing reputation. In addition, it is only compatible with AMD graphics cards. 
 
@@ -41,17 +41,22 @@ This GPU only draws 150 watts at max load, which makes it decently efficient, co
 
 ![RX 580 Specs](/img/cryptocurrency/gpu/rx-580-nitro-specs.jpg "RX 580 SPECS") 
 
-Benchmark results: 
-
-– Decred (DCR): 1.220 GHS
-– CryptoNight (XMR): 600 H/s
-– LBRY (LBC): 0.165 GHS
-– Pascal (PASC): 0.830 GHS
-– X11Ghost (SIB): 8.2 MHS
-
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash. 
 
 <a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
 
-### 1. Gefor
+### 1. [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
 
+![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png "GTX 1070")
+
+Surprisingly, the GeForce GTX 1070 founders edition boasts excellent performance for its price, especially when optimized for mining. 
+
+Using [NiceHashMiner](https://www.nicehash.com/) the 1070 has the power to mine at 31 MH/s, while only consuming 180 watts at max load. 
+
+When you buy the GTX 1070  FE, not only are you getting an excellent mining tool, you are saving money on electricity as well.
+
+![1070 FE Specs](/img/cryptocurrency/gpu/1070-specs.jpg "1070 FE SPECS") 
+
+This card is by far the best zcash miner due to its incredible price to performance ratio. 
+
+[Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
