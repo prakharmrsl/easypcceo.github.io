@@ -26,7 +26,7 @@ This is why you need to START MINING NOW!
 
 ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right}
 
-Zcash is based on Bitcoin, but has one key difference: 
+[Zcash](z.cash) is based on [Bitcoin](bitcoin.org), but has one key difference: 
 
 Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
 
@@ -42,7 +42,7 @@ View Zcash mining graphics cards [here](/crypto-mining/zcash-hardware/)
 
 ![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right}
 
-Dash is the first form of digital cash that works like physical cash. 
+[Dash](dash.org) is the first form of digital cash that works like physical cash. 
 
 You hold your own money, maintaining full control. You maintain total privacy, and your transactions can't be tracked. 
 
@@ -56,7 +56,7 @@ View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium .img-right }
 
-Litecoin is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
+[Litecoin](litecoin.org) is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
 
 It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
 
@@ -68,7 +68,7 @@ View Litecoin mining graphics cards [here](/crypto-mining/litecoin-hardware/)
 
 ![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right}
 
-Ethereum is a platform specifically designed for people to build decentralized applications. 
+[Ethereum](ethereum.org) is a platform specifically designed for people to build decentralized applications. 
 
 It allows for peer-to-peer messaging, and a generalized blockchain. 
 
@@ -86,7 +86,9 @@ In today's economy, every transaction we make must go through a bank or credit c
 
 They take a cut of the transaction, and we must believe that they won't make a mistake. 
 
-At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
+That's where [bitcoin](bitcoin.org) comes in. 
+
+At the heart of bitcoi]n, there is a mathematical problem. Miners solve these problems.
 
 Every time a solution to the problem is solved, the reward is given as a bitcoin. 
 
