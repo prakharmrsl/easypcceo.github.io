@@ -24,7 +24,7 @@ This is why you need to START MINING NOW!
 
 ### 5. Zcash 
 
-![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right}
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
 <a href="z.cash">Zcash</a> is based on <a href="bitcoin.org">Bitcoin</a>, but has one key difference: 
 
