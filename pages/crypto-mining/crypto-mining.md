@@ -40,7 +40,7 @@ View Zcash mining graphics cards [here](/crypto-mining/zcash-hardware/)
 
 ### 4. Dash 
 
-![DASH](/img/cryptocurrency/dash.jpg "DASH")
+![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right}
 
 Dash is the first form of digital cash that works like physical cash. 
 
