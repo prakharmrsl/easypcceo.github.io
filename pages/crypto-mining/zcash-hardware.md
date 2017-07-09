@@ -59,4 +59,6 @@ When you buy the GTX 1070  FE, not only are you getting an excellent mining tool
 
 This card is by far the best zcash miner due to its incredible price to performance ratio. 
 
+After a few tweaks to best suit mining, this card is powerful and efficient. I would highly recommend this card to anyone looking to mine zcash. 
+
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
