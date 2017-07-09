@@ -53,8 +53,7 @@ Fees are virtually non-exisistent, as you control your own money.
 View Dash mining graphics cards [here](/crypto-mining/dash-hardware/)
 
 ### 3. Litecoin 
-
-![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-medium .img-right }
+![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
 
 <a href="litecoin.org">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
 
