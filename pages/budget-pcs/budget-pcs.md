@@ -44,7 +44,9 @@ This relatively low budget gaming PC is not only powerful, but sleek and refined
 
 ### The Phoenix ($700)
 
-The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine.  If you are interested in this $700 gaming PC build, click [here](/budget-pcs/700/)
+The phoenix is a mythical creature known for its resilience, and ability to rise from the ashes of its predecessor. This PC truly will rise from the ashes after it is assembled, forming a powerful, resilient, and majestic gaming machine. 
+
+[$700 Gaming PC](/budget-pcs/700/){: .big-button}
 
 ### The Monster ($800)
 
