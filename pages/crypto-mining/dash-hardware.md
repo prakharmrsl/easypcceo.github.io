@@ -15,6 +15,8 @@ These cards are the fastest and most power efficient solution to mining cryptocu
 
 ### 2. [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
+![Baikal Giant A900](/img/cryptocurrency/gpu/baikal-giant-a900.jpg "Baikal Giant A900")
+
 ### 1. [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 ![Baikal Mini Miner](/img/cryptocurrency/gpu/baikal-mini-miner.jpg "MINI MINER")
