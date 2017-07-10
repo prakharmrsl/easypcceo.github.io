@@ -84,3 +84,5 @@ Zcash can't be printed by anyone. Instead, mining computers must solve complicat
 Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
 
 The value of Zcash is increasing. This means that more miners are getting in on the action. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
+
+## Zcash Mining Pools 
