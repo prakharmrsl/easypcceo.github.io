@@ -45,12 +45,12 @@ With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a
 
 [Shop Baikal Giant A900 Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-### 1. [iBelink DM11G Dash X11 ASIC Miner](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
-
-![iBelink DM11G Dash X11 ASIC Miner](/img/cryptocurrency/gpu/dm11g.jpg)
+## [iBelink DM11G Dash X11 ASIC Miner](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
 
 NOTE: The above website is in russian. The Google Translate extension can be added to chrome. This will allow you to translate the page to English.
 
 The iBelink DM11G Dash X11 ASIC Miner is the world's most powerful and efficient ASIC Dash miner. 
 
 It
+
+![Baikal Giant A900](/img/cryptocurrency/gpu/baikal-giant-a900.jpg "Baikal Giant A900"){: .img-small .img-right}
