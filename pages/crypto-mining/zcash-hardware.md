@@ -79,10 +79,18 @@ Payments are published on a public blockchain, but users can hide the buyer and 
 
 In today's economy, all transactions have to go through a bank or credit card company. Furthermore, money can be printed off at will by the government. Zcash is different. 
 
-Zcash can't be printed by anyone. Instead, mining computers must solve complicated mathematical algorithims with special computer software. When a problem is solved, the miner is rewarded with a coin. 
+Zcash can't be printed by anyone. Instead, mining computers must solve complicated mathematical algorithms with special computer software. When a problem is solved, the miner is rewarded with a coin. 
 
 Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
 
 The value of Zcash is increasing. This means that more miners are getting in on the action. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
 
 ## Zcash Mining Pools 
+
+Like other cryptocurrencies, as more and more people begin to mine for Zcash, the harder it becomes to successfully mine. 
+
+In order to combat this, [mining pools](https://en.wikipedia.org/wiki/Mining_pool) were created. The idea behind them is quite simple. 
+
+Instead of one person spending lots of time trying to mine on their own, a group of miners form a mining pool. They all contribute to solving the algorithm, and once it is solved, each miner receives a share of the profits, which is proportional to their contribution. 
+
+Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is definitely one to consider.
