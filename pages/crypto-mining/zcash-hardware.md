@@ -71,3 +71,16 @@ Many may assume that AMD cards are the only option for miners. This is simply no
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
 
+## Why Mine Zcash? 
+
+Zcash is a decentralized, open source digital currency. It was developed between 2013-2014, and offers transparency and confidentiality to users. It is an encrypted cryptocurrency, concealing the identity of the user. 
+
+Payments are published on a public blockchain, but users can hide the buyer and sender from public view. 
+
+In today's economy, all transactions have to go through a bank or credit card company. Furthermore, money can be printed off at will by the government. Zcash is different. 
+
+Zcash can't be printed by anyone. Instead, mining computers must solve complicated mathematical algorithims with special computer software. When a problem is solved, the miner is rewarded with a coin. 
+
+Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
+
+The value of Zcash is increasing. This means that more miners are getting in on the action. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
