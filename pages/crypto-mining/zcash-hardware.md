@@ -40,11 +40,11 @@ Due to the effectiveness of this card, it is out of stock quite often. Now is th
 
 The Sapphire Radeon RX 580 Nitro+ is a great choice for anyone looking to mine Zcash. 
 
+![RX 580 Nitro](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 Nitro"){: .img-medium .img-right}
+
 The AMD 500 series are popular among miners, as they are cheaper, and easyier to set up. Furthermore, they pack quite a punch when it comes to mining. 
 
 This GPU only draws 150 watts at max load, which makes it decently efficient, considering its top speed of 29 MH/s.
-
-![RX 580 Nitro](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 Nitro"){: .img-medium .img-right}
 
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash.  
 
