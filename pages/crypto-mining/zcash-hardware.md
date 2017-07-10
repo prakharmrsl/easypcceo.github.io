@@ -15,7 +15,7 @@ You can find an article answering Zcash frequently asked questions [here](https:
 
 ## Zcash Mining Profitability 
 
-When investing money, whether it's in a company, a product, or cryptocurrency, the investor must know that they'll see a profitable return on their money. 
+When investing money, whether it's in a company, a product, or cryptocurrency, the investor must know that they'll see a profitable return on their investment. 
 
 Mining for cryptocurrency uses electricity. If you are mining 24 hours a day, 7 days a week, you definitely have a high potential to use a lot of electricity. 
 
@@ -83,7 +83,11 @@ Zcash can't be printed by anyone. Instead, mining computers must solve complicat
 
 Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
 
-The value of Zcash is increasing. This means that more miners are getting in on the action. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
+Zcash is a popular currency, especially among those making transactions on the [Dark Web].(https://en.wikipedia.org/wiki/Dark_web) For obvious reasons, using an untraceable currency is advantagous when anonymity is a priority. 
+
+The value of Zcash is increasing. We predict the value of Zcash to only increase further, as it is becoming a valuable commonity. 
+
+There are only 21 million in the world that can ever be mined. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
 
 ## Zcash Mining Pools 
 
@@ -94,3 +98,4 @@ In order to combat this, [mining pools](https://en.wikipedia.org/wiki/Mining_poo
 Instead of one person spending lots of time trying to mine on their own, a group of miners form a mining pool. They all contribute to solving the algorithm, and once it is solved, each miner receives a share of the profits, which is proportional to their contribution. 
 
 Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is one to consider.
+
