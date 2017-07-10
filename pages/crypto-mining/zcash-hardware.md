@@ -1,5 +1,5 @@
 ---
-title: Best Graphics Cards for Zcash Miners   
+title: Zcash ASICs and GPUs   
 permalink: "/crypto-mining/zcash-hardware/"
 layout: page
 seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017" 
@@ -7,17 +7,15 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 <!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->
 
-Zcash uses [equihash](https://equi-hash.com/) as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
+[Zcash](https://www.cryptocompare.com/mining/guides/how-to-mine-zcash/) uses equihash as its mining algorithm. Due to this, much like ethereum, the development of [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit) graphics cards for this cryptocurrency is unfeasible. 
 
-That being said, here are the top 3 best graphics cards for Zcash miners: 
+Zcash is based on a decentralized blockchain, much like [bitcoin](/crypto-mining/bitcoin-hardware/). However
 
----
+## Top 3 Zcash Mining GPUs and ASICs 
 
-### 3. [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b">Sapphire Radeon NITRO Rx 480 4GB GDDR5 Dual HDMI / DVI-D / Dual DP OC w/ backplate (UEFI) PCI-E Graphics Card 11260-13-20G</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=cryptocurrency06-20&l=am2&o=1&a=B01NAEFAHC)
+ [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b">Sapphire Radeon NITRO Rx 480 4GB GDDR5 Dual HDMI / DVI-D / Dual DP OC w/ backplate (UEFI) PCI-E Graphics Card 11260-13-20G</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=cryptocurrency06-20&l=am2&o=1&a=B01NAEFAHC)
 
-![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-large}
-
-The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+ The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
 
 Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
@@ -25,12 +23,13 @@ The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 w
 
 Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
 
+![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-large}
 
 ![RX 480 STATS](/img/cryptocurrency/gpu/rx480-stats.png "RX 480 Stats"){: .img-large}
 
 <a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>
 
-### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
+[Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
 ![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
@@ -46,7 +45,7 @@ This card doesn't come perfectly equipped for miners straight out of the box, th
 
 <a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
 
-### 1. [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
+[NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
 
 ![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png "GTX 1070")
 
