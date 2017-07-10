@@ -11,6 +11,8 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 Zcash is based on a [decentralized blockchain](https://en.wikipedia.org/wiki/Blockchain), much like [bitcoin](/crypto-mining/bitcoin-hardware/). However, with bitcoin, if you know the adress, you can track how much money is being moved, and where it's going. With Zcash, all of that information is encrypted, rendering it impossible to track. 
 
+You can find an article answering Zcash frequently asked questions [here](https://z.cash/support/faq.html)
+
 ## Zcash Mining Profitability 
 
 When investing money, whether it's in a company, a product, or cryptocurrency, the investor must know that they'll see a profitable return on their money. 
@@ -32,15 +34,13 @@ Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mi
 ![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
 The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 watts at max load, making it an efficient and powerful choice for miners. 
 
-Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
+Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy. This card, along with the RX 580, show superb performance for their price range. 
 
 [Buy RX 480 Graphics Card](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b){: .big-button}
 
 ### [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
 The Sapphire Radeon RX 580 Nitro+ is a great choice for anyone looking to mine Zcash. 
-
-![RX 580 Nitro](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 Nitro"){: .img-medium .img-right}
 
 The AMD 500 series are popular among miners, as they are cheaper, and easyier to set up. Furthermore, they pack quite a punch when it comes to mining. 
 
@@ -70,3 +70,4 @@ After a few tweaks to best suit mining, this card is powerful and efficient. I w
 Many may assume that AMD cards are the only option for miners. This is simply not true.
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
+
