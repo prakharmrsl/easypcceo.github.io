@@ -83,7 +83,7 @@ Zcash can't be printed by anyone. Instead, mining computers must solve complicat
 
 Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
 
-Zcash is a popular currency, especially among those making transactions on the [Dark Web].(https://en.wikipedia.org/wiki/Dark_web) For obvious reasons, using an untraceable currency is advantagous when anonymity is a priority. 
+Zcash is a popular currency, especially among those making transactions on the [Dark Web](https://en.wikipedia.org/wiki/Dark_web). For obvious reasons, using an untraceable currency is advantagous when anonymity is a priority. 
 
 The value of Zcash is increasing. We predict the value of Zcash to only increase further, as it is becoming a valuable commonity. 
 
