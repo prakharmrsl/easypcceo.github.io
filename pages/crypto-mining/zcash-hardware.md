@@ -33,7 +33,7 @@ The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 w
 
 Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
 
-![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-large}
+![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
 
 ![RX 480 STATS](/img/cryptocurrency/gpu/rx480-stats.png "RX 480 Stats"){: .img-large}
 
