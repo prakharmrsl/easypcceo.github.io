@@ -36,8 +36,6 @@ Due to the effectiveness of this card, it is out of stock quite often. Now is th
 
 [Buy RX 480 Graphics Card](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b){: .big-button}
 
-
-
 ### [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
 
 The Sapphire Radeon RX 580 Nitro+ is a great choice for anyone looking to mine Zcash. 
@@ -55,8 +53,6 @@ This card doesn't come perfectly equipped for miners straight out of the box, th
 
 
 ### [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
-
-![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png "GTX 1070")
 
 Surprisingly, the GeForce GTX 1070 founders edition boasts excellent performance for its price, especially when optimized for mining. 
 
