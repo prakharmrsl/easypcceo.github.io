@@ -40,3 +40,5 @@ This ASIC features extremely low power consumption of 216 W from the wall with a
 This means that you'll get a great return on your investment for the hardware, especially considering the value of Dash is going up. [Cryptocompare](https://www.cryptocompare.com/) estimates an income of about $700 USD per month with this card. 
 
 This miner is especially good for beginners, as it is simple and easy to optimize. Unfortunately it does not ship with a power supply, but you can buy any ATX power supply with the appropriate wattage and it will get the job done. 
+
+![Giant A900 Specs](/img/cryptocurrency/gpu/giant-a900-specs.png "Giant A900 Specs")
