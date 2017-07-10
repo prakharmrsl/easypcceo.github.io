@@ -28,3 +28,5 @@ Well, this miner has been specifically designed for the X11 algorithm. Consuming
 Considering it only uses 75 watts, it is obvious to see why this is a great miner. 
 
 ![MINI SPECS](/img/cryptocurrency/gpu/mini-specs.png "MINI SPECS")
+
+[Shop Baikal Mini Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
