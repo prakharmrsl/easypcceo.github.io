@@ -99,3 +99,5 @@ Instead of one person spending lots of time trying to mine on their own, a group
 
 Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is one to consider.
 
+If you are looking to mine Zcash, it would be a wise choice to join a mining pool, as most people don't have a warehouse full of mining super computers in their backyard. 
+
