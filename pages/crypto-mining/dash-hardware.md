@@ -13,9 +13,7 @@ These cards are the fastest and most power efficient solution to mining cryptocu
 
 ## Top 3 Best Dash Mining ASICs 2017
 
-### 3. 
-
-### 2. [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+### 3. [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 ![Baikal Mini Miner](/img/cryptocurrency/gpu/baikal-mini-miner.jpg "MINI MINER")
 
@@ -31,7 +29,7 @@ Considering it only uses 75 watts, it is obvious to see why this is a great mine
 
 [Shop Baikal Mini Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-### 1. [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+### 2. [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 ![Baikal Giant A900](/img/cryptocurrency/gpu/baikal-giant-a900.jpg "Baikal Giant A900")
 
@@ -44,3 +42,11 @@ This miner is especially good for beginners, as it is simple and easy to optimiz
 ![Giant A900 Specs](/img/cryptocurrency/gpu/giant-a900-specs.png "Giant A900 Specs")
 
 [Shop Baikal Giant A900 Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+
+### 1. [iBelink DM11G Dash X11 ASIC Miner](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
+
+![iBelink DM11G Dash X11 ASIC Miner](/img/cryptocurrency/gpu/dm11g.jpg)
+
+NOTE: The above website is in russian. The Google Translate extension can be added to chrome. This will allow you to translate the page to English.
+
+The iBelink DM11G Dash X11 ASIC Miner is the world's most powerful and efficient ASIC Dash miner. 
