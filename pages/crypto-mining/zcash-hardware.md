@@ -46,7 +46,7 @@ This GPU only draws 150 watts at max load, which makes it decently efficient, co
 
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash.  
 
-<a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
+[Buy RX 580 Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f){: .big-button .img-right}
 
 ### [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
 
