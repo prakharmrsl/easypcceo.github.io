@@ -35,7 +35,6 @@ Due to the effectiveness of this card, it is out of stock quite often. Now is th
 
 ![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
 
-![RX 480 STATS](/img/cryptocurrency/gpu/rx480-stats.png "RX 480 Stats"){: .img-large}
 
 <a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>
 
