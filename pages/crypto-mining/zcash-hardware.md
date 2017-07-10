@@ -50,6 +50,8 @@ This card doesn't come perfectly equipped for miners straight out of the box, th
 
 [Buy RX 580 Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f){: .big-button .img-right}
 
+
+
 ### [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
 
 ![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png "GTX 1070")
