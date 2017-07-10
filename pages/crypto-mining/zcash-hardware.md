@@ -29,12 +29,10 @@ The value of Zcash is on the rise, but you can check your estimated profitabilit
 
 Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
+![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
 The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 watts at max load, making it an efficient and powerful choice for miners. 
 
 Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
-
-![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
-
 
 <a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>
 
