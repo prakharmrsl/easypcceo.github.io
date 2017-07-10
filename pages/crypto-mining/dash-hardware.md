@@ -19,7 +19,7 @@ These cards are the fastest and most power efficient solution to mining cryptocu
 
 ![Baikal Mini Miner](/img/cryptocurrency/gpu/baikal-mini-miner.jpg "MINI MINER")
 
-The Baikal Mini ASIC miner is easily one of the most efficient ASIC miners on the market today. 
+[The Baikal Mini ASIC miner](http://1stminingrig.com/baikal-giant-a900-miner-asic-worth-review/) is easily one of the most efficient ASIC miners on the market today. 
 
 It is only 135mm(L) x 135mm(W) x 108mm(H). That being said, it is obviously extremely small. How does it fair in terms of Hash rate and power consumption?
 
