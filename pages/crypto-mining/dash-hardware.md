@@ -39,6 +39,10 @@ This miner is especially good for beginners, as it is simple and easy to optimiz
 
 ![Giant A900 Specs](/img/cryptocurrency/gpu/giant-a900-specs.png "Giant A900 Specs")
 
+This is a multi-algorithm ASIC miner, which means it can mine X11/X13/X14/X15/Quark/Qubit. However, Dash is the easily the most profitable currency to mine with this ASIC, as it reaches 900 MH/s. It only uses 217 W at max load. 
+
+With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a monthly return of $375.13 USD per miner. That means that you'll rake in over $4,500 USD annually. If you invest in more than one miner, your profits will be even greater. 
+
 [Shop Baikal Giant A900 Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ### 1. [iBelink DM11G Dash X11 ASIC Miner](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
