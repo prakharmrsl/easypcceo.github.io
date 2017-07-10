@@ -42,3 +42,5 @@ This means that you'll get a great return on your investment for the hardware, e
 This miner is especially good for beginners, as it is simple and easy to optimize. Unfortunately it does not ship with a power supply, but you can buy any ATX power supply with the appropriate wattage and it will get the job done. 
 
 ![Giant A900 Specs](/img/cryptocurrency/gpu/giant-a900-specs.png "Giant A900 Specs")
+
+[Shop Baikal Giant A900 Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
