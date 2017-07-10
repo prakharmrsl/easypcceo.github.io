@@ -26,3 +26,5 @@ It is only 135mm(L) x 135mm(W) x 108mm(H). That being said, it is obviously extr
 Well, this miner has been specifically designed for the X11 algorithm. Consuming only 75 watts at max load, this miner has a hash rate of 300MH/s. 
 
 Considering it only uses 75 watts, it is obvious to see why this is a great miner. 
+
+![MINI SPECS](/img/cryptocurrency/gpu/mini-specs.png "MINI SPECS")
