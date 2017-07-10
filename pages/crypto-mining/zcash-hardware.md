@@ -93,4 +93,4 @@ In order to combat this, [mining pools](https://en.wikipedia.org/wiki/Mining_poo
 
 Instead of one person spending lots of time trying to mine on their own, a group of miners form a mining pool. They all contribute to solving the algorithm, and once it is solved, each miner receives a share of the profits, which is proportional to their contribution. 
 
-Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is definitely one to consider.
+Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is one to consider.
