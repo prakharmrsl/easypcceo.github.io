@@ -50,6 +50,8 @@ With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a
 NOTE: The above website is in russian. The Google Translate extension can be added to chrome. This will allow you to translate the page to English.
 It is easy to setup. Simply connect a power cable and an ethernet cable to begin mining. 
 
+![DM11G](/img/cryptocurrency/gpu/dm11g.jpg "iBelink DM11G"){: .img-small .img-right}
+
 This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wall. Considering the hash rate of this miner, it is evident the true value of this ASIC. This miner can be used in large scale mining farms, or at home. 
 
 This is the world's fastest and most efficient Dash miner. It's price to performance ratio is astronomically high. Unfortunately, as it is very popular and relatively new, it is hard to find it in stock. All the more reason to get your hands on it as soon as possible. 
