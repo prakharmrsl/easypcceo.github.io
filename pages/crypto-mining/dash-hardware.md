@@ -51,5 +51,5 @@ NOTE: The above website is in russian. The Google Translate extension can be add
 
 The iBelink DM11G Dash X11 ASIC Miner is the world's most powerful and efficient ASIC Dash miner. 
 
-It
+It is
 
