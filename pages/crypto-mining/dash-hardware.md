@@ -56,6 +56,8 @@ This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wal
 
 This is the world's fastest and most efficient Dash miner. It's price to performance ratio is astronomically high. Unfortunately, as it is very popular and relatively new, it is hard to find it in stock. All the more reason to get your hands on it as soon as possible. 
 
+Anyone who is serious about mining Dash for a profit should purchase this ASIC. 
+
 [Shop iBelink DM11G Dash X11 ASIC Miners](http://bitbaza.com/shop/25/desc/ibelinkdm11g){: .big-button}
 
 ## Non-ASIC Mining Hardware 
