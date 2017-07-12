@@ -7,7 +7,7 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
-![Pickaxe](/img/cryptocurrency/pick.png){: .right-logo}
+![Pickaxe](/img/cryptocurrency/pick.png){: .img-small .right-logo}
 
 With cryptocurrency values like this, it is easy to understand why many people are looking to get in on the action.  
 
