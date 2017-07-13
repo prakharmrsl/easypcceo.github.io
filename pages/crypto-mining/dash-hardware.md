@@ -52,9 +52,9 @@ It is easy to setup. Simply connect a power cable and an ethernet cable to begin
 
 ![DM11G](/img/cryptocurrency/gpu/dm11g.jpg "iBelink DM11G"){: .img-medium-large}
 
-This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wall. Considering the hash rate of this miner, it is evident the true value of this ASIC. This miner can be used in large scale mining farms, or at home. 
+This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wall. Considering the hash rate of this miner, the true value of it is evident. This miner can be used in large scale mining farms, or at home. 
 
-This is the world's fastest and most efficient Dash miner. It's price to performance ratio is astronomically high. Unfortunately, as it is very popular and relatively new, it is hard to find it in stock. All the more reason to get your hands on it as soon as possible. 
+This is the world's fastest and most efficient Dash miner. Its price to performance ratio is astronomically high. Unfortunately, as it is very popular and relatively new, it is hard to find it in stock. All the more reason to get your hands on it as soon as possible. 
 
 Anyone who is serious about mining Dash for a profit should purchase this ASIC. 
 
@@ -99,3 +99,25 @@ This means the average person looking to mine cryptocurrency can mine this coin 
 Providing insanely fast hashes, it is a profitable algorithm to mine. Unfortunately, it lacks the community that bitcoin has, but that is changing as more and more people begin to mine cryptocurrencies with the X11 algorithm. 
 
 All in all, the X11 algorithm is very effective and a good choice to mine. 
+
+## Transparency of Dash 
+
+Coinbase is a fully regulated entity, subject to all of the laws of the United States. If the government went after Coinbase, they could see all of the activities made by that site. 
+
+With Dash, as a digital cash alternative, you can get the transaction data, but you can't follow it through its history. This maintains the users privacy. This is one of the major differences between Dash and Bitcoin. 
+
+Evan Duffield of Dash makes this comparison: 
+
+Three people are sitting at a table. Each person takes out their wallet. Each wallet has two ten dollar bills. All three people set their two 10 dollar bills on the table, and they all turn around. A fourth guy comes around, and mixes up all of the 10 dollar bills. Then, everyone turns around and takes two ten dollar bills back. What allows this to happen is something called the Master Node. 
+
+## Fungibility of Dash 
+
+Fungibility is an idea in which any token on the network is interchangable with any other token on the network. 
+
+Dash incorporates this idea, as each coin is worth the same and is interchangable with others. 
+
+Other types of coins like Bitcoin that are on a public ledger can be more easily traced. 
+
+If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. 
+
+Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
