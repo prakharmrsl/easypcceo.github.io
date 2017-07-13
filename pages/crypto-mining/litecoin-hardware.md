@@ -23,7 +23,11 @@ If you are interested in mining Litecoin, the best Litecoin mining hardware ASIC
 
 This miner is the fastest Litecoin mining ASIC on the market today. It has a mining power of 504 MH/s with a max power consumption of 800 W. 
 
+![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
 
+With earnings like this, it is a good idea to invest in the Antminer L3+. 
+
+You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) or from the [Bitmain](https://shop.bitmain.com/productDetail.htm?pid=00020170527035042898QfL59MbG0666)
 
 ## Litecoin Mining Profitability 
 
