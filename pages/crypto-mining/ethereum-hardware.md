@@ -47,3 +47,8 @@ Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](h
 
 ## Ethereum Mining Profitability 
 
+Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment. 
+
+Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
+
+![Ethereum Mining ROI](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining ROI")
