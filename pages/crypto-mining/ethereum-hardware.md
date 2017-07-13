@@ -52,3 +52,19 @@ Before you spend money on an expensive mining GPU, you probably want to know if 
 Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
 
 ![Ethereum Mining ROI](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining ROI")
+
+As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $754.44 USD per card each year. If you invest in multiple cards, you will make even more passive income. 
+
+## Benefits of Mining Ethereum
+
+Ethereum is projected to increase in value even more than it already has. Mining is a great way to generate passive income. 
+
+Look at it this way: 
+
+When you go to work, you get paid for the hours you put in. If you work for a few hours, you'll be paid for a few hours. 
+
+However, with Ethereum mining, if you put in a few hours of work, you'll be paid indefinitely after that, even after you've stopped working. 
+
+How does this work? 
+
+That's the beauty of passive income. Once you set up your mining rig, you'll generate revenue all of the time, as long as you keep it on. 
