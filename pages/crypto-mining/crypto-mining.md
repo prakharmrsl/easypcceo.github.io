@@ -46,7 +46,7 @@ Fees are virtually non-exisistent, as you control your own money.
 ### 3. Litecoin 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
 
-<a href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, about 84 million. 
+<a href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, only 84 million. 
 
 It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
 
@@ -78,7 +78,7 @@ They take a cut of the transaction, and we must believe that they won't make a m
 
 That's where <a href="https://bitcoin.org/en/">bitcoin</a> comes in. 
 
-At the heart of bitcoi]n, there is a mathematical problem. Miners solve these problems.
+At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
 
 Every time a solution to the problem is solved, the reward is given as a bitcoin. 
 
