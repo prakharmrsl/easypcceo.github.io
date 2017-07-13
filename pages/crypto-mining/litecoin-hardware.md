@@ -19,13 +19,27 @@ Script relies heavily on lots of high-speed Ram, and is often referred to as the
 
 ## Litecoin Mining Hardware 
 
+If you are interested in mining Litecoin, the best Litecoin mining hardware ASIC is probably the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+
+This miner is the fastest Litecoin mining ASIC on the market today. It has a mining power of 504 MH/s with a max power consumption of 800 W. 
+
+
+
 ## Litecoin Mining Profitability 
 
-Trying to start mining Litecoin today for a profit is nearly impossible. Considering the price of Litecoin, the startup cost, and the cost of electricity, it would be difficult to turn even a slight profit. You can [check your Litecoin mining profitability with this online calculator](https://www.coinwarz.com/calculators/litecoin-mining-calculator)
+Trying to begin mining for Litecoin today can prove to be very difficult. With Startup costs, and electricity bills, some might stay away. 
 
-However, Litecoin is still a good cryptocurreny to own as it is safe, reliable, and practical. 
+However, with the power of the Antminer L3+, mining Litecoin can prove to be quite profitable. 
 
-[You can buy Litecoin here](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
+![Litecoin Profit](/img/cryptocurrency/litecoin-profit.png "Antminer L3+ Profit")
+
+With the current price of Litecoin, you'll make your money back in just one month with this miner. If left running 24/7, you'll generate a passive income of $15,341.15 annually per miner. 
+
+That being said, using the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is a profitable option. 
+
+You can [check your Litecoin mining profitability with this online calculator](https://www.coinwarz.com/calculators/litecoin-mining-calculator)
+
+If you don't want to start mining Litecoin, it is still a reliable and safe cryptocurrency to own. [You can buy Litecoin here](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
 
 ## Practicality of Litecoin 
 
