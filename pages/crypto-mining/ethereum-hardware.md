@@ -33,11 +33,15 @@ By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://rover.ebay
 
 [Shop for Radeon R9 295X2 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-## MSI GTX 1080 TI Gaming X 
+## Radeon R9 HD 7990 
 
-A powerful alternative to the R9 295X2, the [GTX 1080 TI](https://www.amazon.com/gp/product/B06XVG7M23/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XVG7M23&linkCode=as2&tag=cryptocurrency06-20&linkId=a8dc9755ad7b3ebb9ff2d644e046b812) has a hash rate of 31.5 MH/s. It only consumes 250 W at max load. This means you'll save money on power consumption. You'll make $604.32 USD annually per card. 
+A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
 
-If this card is out of stock on Amazon, you can shop on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=gtx+1080+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+[Shop for Radeon R9 HD 7990 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-[Shop for MSI GTX 1080 TI Gaming X GPUs](https://www.amazon.com/gp/product/B06XVG7M23/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XVG7M23&linkCode=as2&tag=cryptocurrency06-20&linkId=a8dc9755ad7b3ebb9ff2d644e046b812){: .big-button}
+## Radeon RX 480 
+
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+rx+480+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card. 
+
+[Shop Radeon RX 480 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+rx+480+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
