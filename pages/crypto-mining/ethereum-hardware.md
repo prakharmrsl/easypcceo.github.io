@@ -33,4 +33,6 @@ By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://rover.ebay
 
 ![Ethereum Profit](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining Profit")
 
+[Shop for Radeon R9 295X2 GPUs]{: .big-button}
+
 
