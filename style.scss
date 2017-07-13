@@ -401,3 +401,18 @@ a:hover {
     border: 1px solid #4183c4;
     color: #4183c4;
 }
+
+input[type="text"], input[type="email"] {
+    clear: both;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+}
+
+textarea[type="message"] {
+    clear: both;
+    margin-bottom: 10px;
+    min-height: 100px;
+    padding: 5px;
+    width: 100%;
+}

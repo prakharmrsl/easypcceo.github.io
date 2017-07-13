@@ -1,5 +1,5 @@
 ---
-title: Zcash ASICs and GPUs   
+title: Best Graphics Cards for Zcash Miners   
 permalink: "/crypto-mining/zcash-hardware/"
 layout: page
 seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017" 
@@ -7,38 +7,32 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 <!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->
 
-[Zcash](https://www.cryptocompare.com/mining/guides/how-to-mine-zcash/) uses equihash as its mining algorithm. Due to this, much like ethereum, the development of [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit) graphics cards for this cryptocurrency is unfeasible. 
+Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
-Zcash is based on a [decentralized blockchain](https://en.wikipedia.org/wiki/Blockchain), much like [bitcoin](/crypto-mining/bitcoin-hardware/). However, with bitcoin, if you know the adress, you can track how much money is being moved, and where it's going. With Zcash, all of that information is encrypted, rendering it impossible to track. 
+That being said, here are the top 3 best graphics cards for Zcash miners:
 
-You can find an article answering Zcash frequently asked questions [here](https://z.cash/support/faq.html)
+## Top 3 Zcash Mining Hardware 
 
-## Zcash Mining Profitability 
+### 3. [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b">Sapphire Radeon NITRO Rx 480 4GB GDDR5 Dual HDMI / DVI-D / Dual DP OC w/ backplate (UEFI) PCI-E Graphics Card 11260-13-20G</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=cryptocurrency06-20&l=am2&o=1&a=B01NAEFAHC)
 
-When investing money, whether it's in a company, a product, or cryptocurrency, the investor must know that they'll see a profitable return on their investment. 
+![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-large}
 
-Mining for cryptocurrency uses electricity. If you are mining 24 hours a day, 7 days a week, you definitely have a high potential to use a lot of electricity. 
-
-This means it is important to calculate your profitability before investing in a mining setup. 
-
-The value of Zcash is on the rise, but you can check your estimated profitability with this [profitability calculator.](https://www.cryptocompare.com/mining/calculator/zec?HashingPower=200&HashingUnit=H%2Fs&PowerConsumption=200&CostPerkWh=0.12)
-
-Here are 3 of the best Zcash mining GPUs on the market today: 
-
-## [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b)
-
- The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+The Sapphire Radeon RX 480 is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
 
 Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
-![RADEON RX 480](/img/cryptocurrency/gpu/rx480.jpg "RX 480"){: .img-medium .img-right}
 The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 watts at max load, making it an efficient and powerful choice for miners. 
 
-Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy. This card, along with the RX 580, show superb performance for their price range. 
+Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
 
-[Buy RX 480 Graphics Card](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b){: .big-button}
 
-## [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
+![RX 480 STATS](/img/cryptocurrency/gpu/rx480-stats.png "RX 480 Stats"){: .img-large}
+
+<a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>
+
+### 2. [Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f)
+
+![RX 580](/img/cryptocurrency/gpu/rx-580-nitro.jpg "RX 580 NITRO")
 
 The Sapphire Radeon RX 580 Nitro+ is a great choice for anyone looking to mine Zcash. 
 
@@ -48,12 +42,13 @@ This GPU only draws 150 watts at max load, which makes it decently efficient, co
 
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash.  
 
-You can read about how to [optimize the RX 580 for mining here.](http://1stminingrig.com/are-the-rx570-and-rx580-profitable-mining-performance-review/)
+![RX 580 Specs](/img/cryptocurrency/gpu/rx-580-nitro-specs.jpg "RX 580 SPECS") 
 
-[Buy RX 580 Graphics Card](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f){: .big-button}
+<a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
 
+### 1. [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
 
-## [NVIDIA GeForce GTX 1070 Founders Edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b)
+![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png "GTX 1070")
 
 Surprisingly, the GeForce GTX 1070 founders edition boasts excellent performance for its price, especially when optimized for mining. 
 
@@ -70,34 +65,3 @@ After a few tweaks to best suit mining, this card is powerful and efficient. I w
 Many may assume that AMD cards are the only option for miners. This is simply not true.
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
-
-## Why Mine Zcash? 
-
-Zcash is a decentralized, open source digital currency. It was developed between 2013-2014, and offers transparency and confidentiality to users. It is an encrypted cryptocurrency, concealing the identity of the user. 
-
-Payments are published on a public blockchain, but users can hide the buyer and sender from public view. 
-
-In today's economy, all transactions have to go through a bank or credit card company. Furthermore, money can be printed off at will by the government. Zcash is different. 
-
-Zcash can't be printed by anyone. Instead, mining computers must solve complicated mathematical algorithms with special computer software. When a problem is solved, the miner is rewarded with a coin. 
-
-Since miners are required to approve Zcash transactions, more miners means a more secure mining network. 
-
-Zcash is a popular currency, especially among those making transactions on the [Dark Web](https://en.wikipedia.org/wiki/Dark_web). For obvious reasons, using an untraceable currency is advantagous when anonymity is a priority. 
-
-The value of Zcash is increasing. We predict the value of Zcash to only increase further, as it is becoming a valuable commonity. 
-
-There are only 21 million in the world that can ever be mined. The longer you wait, the harder it will be to successfully mine Zcash. The time to start is now. 
-
-## Zcash Mining Pools 
-
-Like other cryptocurrencies, as more and more people begin to mine for Zcash, the harder it becomes to successfully mine. 
-
-In order to combat this, [mining pools](https://en.wikipedia.org/wiki/Mining_pool) were created. The idea behind them is quite simple. 
-
-Instead of one person spending lots of time trying to mine on their own, a group of miners form a mining pool. They all contribute to solving the algorithm, and once it is solved, each miner receives a share of the profits, which is proportional to their contribution. 
-
-Zcash mining pools can be found all over the internet with a simple google search. Among these, [Flypool](https://zcash.flypool.org/) is one to consider.
-
-If you are looking to mine Zcash, it would be a wise choice to join a mining pool, as most people don't have a warehouse full of mining super computers in their backyard. 
-

@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017" 
 ---
 
-The value of dash is on the rise, and the time is now to get in on the action. 
+The value of dash is on the rise, and the time is now to get in on the action. Dash mining in 2017 is extremely profitable. 
 
 Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/) ASIC cards can be used to mine Dash. 
 
