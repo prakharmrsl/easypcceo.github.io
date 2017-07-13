@@ -92,7 +92,7 @@ All in all, Litecoin is a reliable cryptocurrency that we would recommend invest
 
 ## Litecoin Mining Pools 
 
-Even when using the fastest Antminer on the market today, it is always a good idea to get involved in a mining pool. 
+Mining pools are useful, even to the most experienced miners. They enhance the probability of successfully mining a coin.
 
 Why only harness the power of one mining setup, when you can harness the power of all the setups in the mining pool? 
 
