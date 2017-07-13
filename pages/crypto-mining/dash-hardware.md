@@ -114,7 +114,7 @@ Three people are sitting at a table. Each person takes out their wallet. Each wa
 
 Fungibility is an idea in which any token on the network is interchangable with any other token on the network. 
 
-Dash incorporates this idea, as each coin is worth the same and is interchangable with others. 
+Dash incorporates this idea, as each coin is worth the same as any other coin on the network. Moreover, the coins are interchangable. 
 
 Other types of coins like Bitcoin that are on a public ledger can be more easily traced. 
 
