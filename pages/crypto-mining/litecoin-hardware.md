@@ -52,13 +52,15 @@ These are highly sought-after miners. They are often out of stock, and are shipp
 
 ## Litecoin Mining Profitability 
 
-Trying to begin mining for Litecoin today can prove to be very difficult. With Startup costs, and electricity bills, some might stay away. 
+Trying to begin mining for Litecoin today can prove to be very difficult. With Startup costs and electricity bills, some might stay away from mining altogether. 
 
-However, with the power of the Antminer L3+, mining Litecoin can prove to be quite profitable. 
+However, using the Antminer L3+, mining Litecoin is very profitable. 
 
 ![Litecoin Profit](/img/cryptocurrency/litecoin-profit.png "Antminer L3+ Profit")
 
-With the current price of Litecoin, you'll make your money back in just one month with this miner. If left running 24/7, you'll generate a passive income of $15,341.15 annually per miner. 
+With the current price of Litecoin, you'll make your money back in just one month with this miner. If left running 24/7, you'll generate a passive income of $15,341.15 annually per miner. This is after the cost of electricity. 
+
+If you choose to invest in more than one miner, you could potentially generate lots of revenue each year. 
 
 That being said, using the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is a profitable option. 
 
