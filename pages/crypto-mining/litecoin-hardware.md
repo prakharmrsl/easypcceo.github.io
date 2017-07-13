@@ -76,17 +76,21 @@ It also makes more sense in most cases to buy with Litecoin.
 
 For example, if one were to buy a charger online with a cryptocurrency, it makes more sense to buy it with .25 Litecoin instead of .000042 Bitcoin. However, most sites today have automatic converters that translate the currency of the local country into Bitcoin or Litecoin. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
-
 ## Should You Invest in Litecoin? 
 
-Litecoin has become very popular recently. This is because Litecoin is within 10% of activating [Segwit](https://www.cryptocompare.com/coins/guides/what-is-segwit/) Segwit makes transactions faster and cheaper.
+If you are sceptical about getting involved with Litecoin, here are a few reasons why it's a good idea: 
 
-Litecoin has been around since the very beginning, making it very trustworthy. In addition, you can track its value trends farther back, generating more reliable data. 
+* Litecoin has become very popular recently. This is because Litecoin is within 10% of activating [Segwit](https://www.cryptocompare.com/coins/guides/what-is-segwit/) Segwit makes transactions faster and cheaper.
 
-Coinbase just added Litecoin. This makes Litecoin more accessible to many beginners with cryptocurrency. Whether or not you like Coinbase, it still opens the door to more potential users, which increases the value. 
+* Litecoin has been around since the very beginning, making it very trustworthy. In addition, you can track its value trends farther back, generating more reliable data. 
 
-All in all, Litecoin is a reliable cryptocurrency that we would recommend investing in. 
+* Coinbase just added Litecoin. This makes Litecoin more accessible to many beginners with cryptocurrency. Whether or not you like Coinbase, it still opens the door to more potential users, which increases the value. 
+
+* Since there will only ever be 84 million coins, you don't have to worry about inflation devaluing your currency. 
+
+All in all, Litecoin is a reliable cryptocurrency that we recommend investing in. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
 
 [You can purchase Litecoin here.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
 
