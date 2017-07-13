@@ -88,6 +88,8 @@ If you are sceptical about getting involved with Litecoin, here are a few reason
 
 * Since there will only ever be 84 million coins, you don't have to worry about inflation devaluing your currency. 
 
+* It's easier to use Litecoin for smaller transactions 
+
 All in all, Litecoin is a reliable cryptocurrency that we recommend investing in. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
