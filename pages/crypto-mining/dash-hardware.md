@@ -2,7 +2,7 @@
 title: Dash ASICs and GPUs    
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
-seotitle: "Dash Mining Hardware GPUs and ASICs 2017" 
+seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017" 
 ---
 
 The value of dash is on the rise, and the time is now to get in on the action. 
