@@ -31,7 +31,7 @@ Here are the 3 best Ethereum mining GPUs in 2017:
 
 By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card. 
 
-[Shop for Radeon R9 295X2 GPUs]{: .big-button}
+[Shop for Radeon R9 295X2 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ## MSI GTX 1080 TI Gaming X 
 
