@@ -98,8 +98,6 @@ These are the 3 MOST important parts of a cryptocurrency mining PC:
 * The Motherboard
 * The Power Supply 
 
----
-
 Here's the deal:
 
 Originally, the CPU was used to mine for cryptocurrencies.
