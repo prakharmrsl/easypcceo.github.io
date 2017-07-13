@@ -7,8 +7,6 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
-With cryptocurrency values like this, it is easy to understand why many people are looking to get in on the action.  
-
 As more and more begin to mine for cryptocurrency, it becomes harder and harder to successfully mine a bitcoin, litecoin, or any other form of cryptocurrency. 
 
 This is why you need to START MINING NOW! 

@@ -104,11 +104,11 @@ All in all, the X11 algorithm is very effective and a good choice to mine.
 
 Coinbase is a fully regulated entity, subject to all of the laws of the United States. If the government went after Coinbase, they could see all of the activities made by that site. 
 
-With Dash, as a digital cash alternative, you can get the transaction data, but you can't follow it through its history. This maintains the users privacy. This is one of the major differences between Dash and Bitcoin. 
+With Dash, as a digital cash alternative, you can get the transaction data, but you can't follow it through its history. This maintains the users' privacy. This is one of the major differences between Dash and Bitcoin. 
 
 Evan Duffield of Dash makes this comparison: 
 
-Three people are sitting at a table. Each person takes out their wallet. Each wallet has two ten dollar bills. All three people set their two 10 dollar bills on the table, and they all turn around. A fourth guy comes around, and mixes up all of the 10 dollar bills. Then, everyone turns around and takes two ten dollar bills back. What allows this to happen is something called the Master Node. 
+Three people are sitting at a table. Each person takes out their wallet. Each wallet has two 10 dollar bills. All three people set their two 10 dollar bills on the table, and they all turn around. A fourth guy comes around, and mixes up all of the 10 dollar bills. Then, everyone turns around and takes two ten dollar bills back. What allows this to happen is something called the [Master Node.](http://dashmasternode.org/what-is-a-masternode/) 
 
 ## Fungibility of Dash 
 
@@ -118,6 +118,6 @@ Dash incorporates this idea, as each coin is worth the same as any other coin on
 
 Other types of coins like Bitcoin that are on a public ledger can be more easily traced. 
 
-If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. 
+If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. Keep in mind, however, that this is highly unlikely and as of today, Bitcoin is a sound investment. 
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
