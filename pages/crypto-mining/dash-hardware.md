@@ -70,7 +70,32 @@ You can find other X11 mining cards below:
 * [SAPPHIRE R9 Nano (20 Mh/s for X11)](https://www.amazon.com/gp/product/B015121DMA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015121DMA&linkCode=as2&tag=cryptocurrency06-20&linkId=353099044be8d6cf91a42e810e5ba223)
 * [GIGABYTE R9 390 (14 Mh/s for x11)](https://www.amazon.com/gp/product/B00ZU48KFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZU48KFI&linkCode=as2&tag=cryptocurrency06-20&linkId=81de325a93a9def050f74f853181e035)
 
+
 ## Dash Mining Pools 
 
-Dash is
+Joining a Dash pool will help to ensure more consistent success. Instead of just you mining on your own, you can team up with other people also looking to mine Dash. This makes the process of mining much quicker. 
 
+The official dash website recommends these mining pools: 
+
+* [Supernova](https://dash.suprnova.cc/)
+* [CoinMine](https://www2.coinmine.pl/dash/)
+* [zpool](http://www.zpool.ca/)
+* [MinerGate](https://minergate.com/)
+
+If you decide to go this route, it is crucial to stay on top of the latest mining pool updates.  
+
+Here's why: 
+
+You don't want to mine for a pool that suddenly increases its fees. Moreover, you don't want to mine for a pool that no longer exists. 
+
+## X11 Dash Mining 
+
+Dash uses the [X11 algorithm](https://www.cryptocoinsnews.com/pros-cons-x11-algorithm/), which is becoming more popular every day. This algorithm is secure, effective, and has a relatively low power cost. 
+
+The best part about the X11 algorithm is its purpose. It is everything Bitcoin was intended to be. Decentralizing hashing power by making it easier to mine. 
+
+This means the average person looking to mine cryptocurrency can mine this coin without breaking the bank. 
+
+Providing insanely fast hashes, it is a profitable algorithm to mine. Unfortunately, it lacks the community that bitcoin has, but that is changing as more and more people begin to mine cryptocurrencies with the X11 algorithm. 
+
+All in all, the X11 algorithm is very effective and a good choice to mine. 
