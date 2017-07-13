@@ -25,7 +25,7 @@ This miner is the fastest Litecoin mining ASIC on the market today. It can mine 
 
 ![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
 
-With earnings like this, it is a good idea to invest in the Antminer L3+. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
+With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
 
 You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) or from the [Bitmain](https://shop.bitmain.com/productDetail.htm?pid=00020170527035042898QfL59MbG0666)
 
@@ -65,4 +65,4 @@ Coinbase just added Litecoin. This makes Litecoin more accessible to many beginn
 
 All in all, Litecoin is a reliable cryptocurrency that we would recommend investing in. 
 
-[You can start purchasing Litecoin here.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
+[You can purchase Litecoin here.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
