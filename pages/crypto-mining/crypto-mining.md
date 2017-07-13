@@ -60,6 +60,8 @@ Lastly, it can be spent on almost anything.
 
 [Ethereum](https://ethereum.org/) is a platform specifically designed for people to build decentralized applications. 
 
+Ethereum has become extremely valuable in the past month, rendering it a great choice for beginner miners. 
+
 It allows for peer-to-peer messaging, and a generalized blockchain. 
 
 The blockchain has a built in programming language. This allows people to use the blockchain for any kind of decentralized application. 
@@ -80,7 +82,7 @@ That's where <a href="https://bitcoin.org/en/">bitcoin</a> comes in.
 
 At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
 
-Every time a solution to the problem is solved, the reward is given as a bitcoin. 
+Every time a solution is acquired the reward is given as a bitcoin. 
 
 Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
