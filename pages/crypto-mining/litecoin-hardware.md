@@ -9,9 +9,9 @@ seotitle: "#1 Best Litecoin Mining Hardware ASIC 2017"
 
 Litecoin is faster than Bitcoin, and is focused on smaller transactions. 
 
-There will only ever be 84 million Litecoins mined. Litecoin is to Bitcoin as silver is to gold.
+There will only ever be 84 million Litecoins mined. Some may disagree, but many draw the comparison that Litecoin is to Bitcoin as silver is to gold.
 
-One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute time. 
+One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute block time.  
 
 For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses script, whereas Bitcoin uses the SHA-256 algorithm. 
 
@@ -76,6 +76,8 @@ It also makes more sense in most cases to buy with Litecoin.
 
 For example, if one were to buy a charger online with a cryptocurrency, it makes more sense to buy it with .25 Litecoin instead of .000042 Bitcoin. However, most sites today have automatic converters that translate the currency of the local country into Bitcoin or Litecoin. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
+
 ## Should You Invest in Litecoin? 
 
 Litecoin has become very popular recently. This is because Litecoin is within 10% of activating [Segwit](https://www.cryptocompare.com/coins/guides/what-is-segwit/) Segwit makes transactions faster and cheaper.
@@ -88,4 +90,15 @@ All in all, Litecoin is a reliable cryptocurrency that we would recommend invest
 
 [You can purchase Litecoin here.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
+## Litecoin Mining Pools 
+
+Even when using the fastest Antminer on the market today, it is always a good idea to get involved in a mining pool. 
+
+Why only harness the power of one mining setup, when you can harness the power of all the setups in the mining pool? 
+
+Mining pools are a great option for most people, especially those who may not have the most powerful mining rig. 
+
+The idea of a mining pool is pretty simple. Instead of mining on your own, a group of people mine together. This makes the mining process faster. Once a coin is mined, all contributors receive a piece of the pie, directly proportional to their contribution. 
+
+[Litecoinpool](https://www.litecoinpool.org/) is a popular Litecoin mining pool. 
+
