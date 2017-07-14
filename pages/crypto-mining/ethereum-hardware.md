@@ -57,7 +57,7 @@ As you can see, the above graph shows the return on investment of the Radeon R9 
 
 ## Benefits of Mining Ethereum
 
-Ethereum is projected to increase in value even more than it already has. Mining is a great way to generate passive income. 
+Ethereum is projected to increase in value even more than it already has. Mining is a great way to generate [passive income](http://www.investopedia.com/terms/p/passiveincome.asp). 
 
 Look at it this way: 
 
@@ -68,3 +68,34 @@ However, with Ethereum mining, if you put in a few hours of work, you'll be paid
 How does this work? 
 
 That's the beauty of passive income. Once you set up your mining rig, you'll generate revenue all of the time, as long as you keep it on. 
+
+## Investing in Ethereum 
+
+
+
+## What are Ethereum Smart Contracts? 
+
+A smart contract is computer code that is built into the blockchain network that computers execute. Once the code is executed, the ledger is updated. 
+
+[Ameer Rosic](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ) uses If this than that logic to explain smart contracts. If we create a code online on the blockchain, and someone puts money into the contract, the next action will be executed. This may be a digital contract being sent to somebody's email. This trigger may execute something else. 
+
+He uses a vending machine as a real life example. You input the code B6 into the vending machine. The vending machine takes this code, and then executes the code. The candy bar labled B6 is then dispensed. 
+
+This is an amazing feature of Ethereum that is unique and revolutionary. 
+
+Another great example that Ameer Rosic gives as to how this can be implimented is as follows: 
+
+Traditionally, when buying a car, you go to the dealership. Once there, you have to negotiate a price. Then you have to go to the bank and have a guaranteed check or something of that sort drafted. After that you have to go back to the dealership with this guaranteed check. 
+
+After all of this, you still have to sign all of the paperwork for the title, clear the check, etc. 
+
+This process will take a while. Imagine if instead, this whole process was on a smart contract. 
+
+A car could be uploaded to the blockchain. You, the customer, sees the car. You want to buy the car, and since it's on the blockchain with a smart contract, you can buy it instantaneously. You pay with crypto, and the car is bought in real time. Everything is executed on the smart contract. You now own the title and all information about the car. 
+
+It is easy to see how revolutionary this technology is, and how crucial it is to [invest in Ethereum now](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
+
+
+
+
+
