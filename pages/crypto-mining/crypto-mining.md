@@ -92,8 +92,6 @@ Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
 This guide will teach you the basics of mining for cryptocurrencies.
 
-It will also show you the best mining PCs for the top 5 most popular cryptocurrencies today. 
-
 These are the 3 MOST important parts of a cryptocurrency mining PC: 
 
 * The Graphics Card 
