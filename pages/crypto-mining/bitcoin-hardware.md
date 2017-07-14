@@ -1,8 +1,7 @@
 ---
-title: Best Mining Graphics Cards 2017   
+title: Bitcoin Mining Hardware ASICs and GPUs  
 permalink: "/crypto-mining/bitcoin-hardware/"
 layout: page
-seotitle: "Best Graphics Cards for Mining Cryptocurrency 2017 " 
+seotitle: "5 Best Bitcoin Mining Hardware ASICs and GPUs 2017 " 
 ---
 
-bitcoin 
