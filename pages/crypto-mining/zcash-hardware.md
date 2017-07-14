@@ -61,7 +61,7 @@ Many may assume that AMD cards are the only option for miners. This is simply no
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
 
-## Setting Up Passive Income with Mining Zcash 
+## Setting Up Passive Income with Zcash Mining 
 
 Mining Zcash is a great way to set up [passive income](http://www.investopedia.com/terms/p/passiveincome.asp). 
 
