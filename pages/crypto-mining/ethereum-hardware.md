@@ -41,9 +41,9 @@ A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://rover.eba
 
 ## Radeon RX 480 
 
-Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+rx+480+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card. 
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card. 
 
-[Shop Radeon RX 480 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+rx+480+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Shop Radeon RX 480 GPUs](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961){: .big-button}
 
 ## Ethereum Mining Profitability 
 
