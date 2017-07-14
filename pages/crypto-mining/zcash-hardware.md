@@ -9,9 +9,15 @@ seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017"
 
 ## What is Zcash? 
 
+Zcash uses proof of construction to secure the network. This allows it to maintain security without disclosing parties or amounts involved in the transaction. 
+
+One huge benefit of Zcash is the ability of the user to choose whether or not they wish to encrypt their transaction. This way, transactions can be public, or private. It is totally up to you. 
+
+## Zcash Mining Hardware
+
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
-That being said, here are the top 3 best graphics cards for Zcash miners:
+That being said, here are the top 3 Best Zcash mining GPUs: 
 
 ## Sapphire Radeon RX 480
 
@@ -52,3 +58,5 @@ After a few tweaks to best suit mining, this card is powerful and efficient. I w
 Many may assume that AMD cards are the only option for miners. This is simply not true.
 
 [Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
+
+
