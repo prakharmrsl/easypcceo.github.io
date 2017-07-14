@@ -87,7 +87,7 @@ Traditionally, when buying a car, you go to the dealership. Once there, you have
 
 After all of this, you still have to sign all of the paperwork for the title, clear the check, etc. 
 
-This process will take a while. Imagine if instead, this whole process was on a smart contract. 
+This process will take a while. Imagine if instead, this whole process was on a smart contract. How is this possible?  
 
 A car could be uploaded to the blockchain. You, the customer, sees the car. You want to buy the car, and since it's on the blockchain with a smart contract, you can buy it instantaneously. You pay with crypto, and the car is bought in real time. Everything is executed on the smart contract. You now own the title and all information about the car. 
 
