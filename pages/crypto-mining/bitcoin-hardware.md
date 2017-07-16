@@ -72,6 +72,7 @@ NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](h
 
 ## Avalon6 
 
+![Avalon6](/img/cryptocurrency/gpu/asic/avalon6.jpg "Avalon6"){: .img-medium .img-right}
 The [Avalon6](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55) is a great option for someone looking to start mining for Bitcoins. This miner has a hash rate of 3.5 TH/s and uses about 1050 watts at max load. 
 
 ![Avalon6 Profit](/img/cryptocurrency/gpu/asic/avalon6-profit.png "Avalon 6 Profit")
