@@ -21,9 +21,14 @@ Profitable Bitcoin mining is next to impossible for the average person.
 
 However, if you have the best mining hardware, it is still profitable, and can even be fun. 
 
-NOTE: Bitcoin mining is competitive, and can be hard for the average person to get started with. If you just want to obtain Bitcoin, it may be a better idea to [buy Bitcoin.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) 
+<div class ="buy-bitcoin"> NOTE: Bitcoin mining is competitive, and can be hard for the average person to get started with. If you just want to obtain Bitcoin, it may be a better idea to [buy Bitcoin.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) 
+</div>
 
 ## Bitcoin Mining Hardware
+
+When Bitcoin was first invented, the CPU was used to mine. Quickly miners discovered that the GPU is far more effective. Quickly, the prices of GPUs across the market skyrocketed as miners bought up all of the GPUs they could get their hands on. 
+
+Eventually, an ASIC card was invented specifically for efficiently mining Bitcoins.
 
 Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)s. 
 
