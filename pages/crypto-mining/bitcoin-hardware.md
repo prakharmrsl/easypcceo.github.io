@@ -67,7 +67,7 @@ NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](h
 
 [Shop Antminer S7 ASIC Miners](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1){: .big-button}
 
-
+## Antminer S9
 
 ## Avalon6 
 
