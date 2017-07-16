@@ -51,6 +51,7 @@ The [Antminer S7](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=U
 It is packs performance and efficiency into one unit, all for a reasonable price. 
 
 The Antminer S7 has a hash rate of 4.73 TH/s and draws about 1300 W at max load. This is a great miner to choose. With access to inexpensive electricity and a few tweaks, the S7 can be profitable. 
+
 ![S7 Profit](/img/cryptocurrency/gpu/asic/s7-profit.png "S7 Mining Profitability")
 Unfortunately, based on today's bitcoin price, it will be next to impossible to generate profit with the Antminer S7. However, if you are mining for a hobby, or you're willing to optimize the Antminer S7, it could be a great choice for you. 
 
@@ -62,7 +63,11 @@ NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](h
 
 ## Avalon6 
 
-The [Avalon6](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55) is a great option for someone looking to start mining for Bitcoins. This miner has a hash rate of 3.5 TH/s and uses about 1050 watts at max load. The Avalon6 will earn you .1232 Bitcoin per month. That's $253.84 USD per month, or $3,046.11 USD annually per miner. 
+The [Avalon6](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55) is a great option for someone looking to start mining for Bitcoins. This miner has a hash rate of 3.5 TH/s and uses about 1050 watts at max load. 
+
+![Avalon6 Profit](/img/cryptocurrency/gpu/asic/avalon6-profit.png "Avalon 6 Profit")
+
+With the extreme difficulty of successfully mining Bitcoin, this miner does not prove extremely profitable either. However, it is still a great option for hobbyists. If you have access to low cost electricity, and you're willing to optimize the miner, it can still be profitbale in 2017. 
 
 NOTE: This miner does NOT include a powersupply. We recommend the [Dell L1100E-S0 1100W PSU.](https://www.amazon.com/gp/product/B014VUHHP0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014VUHHP0&linkCode=as2&tag=cryptocurrency06-20&linkId=87c94875cc1b621a3c0136f01cd29c94) 
 
