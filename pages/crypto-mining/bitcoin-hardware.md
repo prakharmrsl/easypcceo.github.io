@@ -56,6 +56,7 @@ The Antminer S7 has a hash rate of 4.73 TH/s and draws about 1300 W at max load.
 ![S7 Profit](/img/cryptocurrency/gpu/asic/s7-profit.png "S7 Mining Profitability")
 
 
+
 Unfortunately, based on today's bitcoin price, it will be next to impossible to generate profit with the Antminer S7. However, if you are mining for a hobby, or you're willing to optimize the Antminer S7, it could be a great choice for you. 
 
 NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](https://www.amazon.com/gp/product/B01N8UDFTF/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8UDFTF&linkId=e71b7f5b4c9cb657557c96011a355f7c)
