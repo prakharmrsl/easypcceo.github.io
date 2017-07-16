@@ -45,10 +45,20 @@ NOTE: This miner does NOT include a powersupply. We recommend the [EVGA SuperNOV
 [Shop Antminer S5 ASIC Miners](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab){: .big-button}
 
 ## Antminer S7 
-![Antminer S7](/img/cryptocurrency/gpu/asic/s7.png "Antminer S7"){: .img-medium .img-right}
-The Antminer S7 has remained a popular choice since its release in 2015 for good reason. 
-![Antminer S7](/img/cryptocurrency/gpu/asic/s7.png "Antminer S7"){: .img-medium .img-right}
+![Antminer S7](/img/cryptocurrency/gpu/asic/s7.jpg "Antminer S7"){: .img-medium .img-right}
+The [Antminer S7](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1) has remained a popular choice since its release in 2015 for good reason. 
+
 It is packs performance and efficiency into one unit, all for a reasonable price. 
+
+The Antminer S7 has a hash rate of 4.73 TH/s and draws about 1300 W at max load. This is a great miner to choose. With access to inexpensive electricity and a few tweaks, the S7 can be profitable. 
+![S7 Profit](/img/cryptocurrency/gpu/asic/s7-profit.png "S7 Mining Profitability")
+Going off of today's current bitcoin price (subject to change) you'll generate about $6956.72 USD annually per miner.
+
+NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](https://www.amazon.com/gp/product/B01N8UDFTF/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8UDFTF&linkId=e71b7f5b4c9cb657557c96011a355f7c)
+
+[Shop Antminer S7 ASIC Miners](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1){: .big-button}
+
+
 
 ## Avalon6 
 
