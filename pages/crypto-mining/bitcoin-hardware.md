@@ -31,8 +31,8 @@ Below are the top 5 best Bitcoin mining ASICs:
 
 ## Antminer S5
 
-The [Antminer S5](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab) was realeased in 2014, and at the time it was one of the fastest Bitcoin miners on the market. Since its release, it has been surpassed by newer miners. 
-![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-medium}
+The [Antminer S5](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab)
+![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-medium} was realeased in 2014, and at the time it was one of the fastest Bitcoin miners on the market. Since its release, it has been surpassed by newer miners. 
 
 Is it still practical today? 
 
