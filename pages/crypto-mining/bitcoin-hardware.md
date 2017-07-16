@@ -45,12 +45,10 @@ NOTE: This miner does NOT include a powersupply. We recommend the [EVGA SuperNOV
 [Shop Antminer S5 ASIC Miners](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab){: .big-button}
 
 ## Antminer S7 
-
+![Antminer S7](/img/cryptocurrency/gpu/asic/s7.png "Antminer S7"){: .img-medium .img-right}
 The Antminer S7 has remained a popular choice since its release in 2015 for good reason. 
 ![Antminer S7](/img/cryptocurrency/gpu/asic/s7.png "Antminer S7"){: .img-medium .img-right}
 It is packs performance and efficiency into one unit, all for a reasonable price. 
-
-
 
 ## Avalon6 
 
