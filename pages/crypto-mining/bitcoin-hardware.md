@@ -13,7 +13,7 @@ Instead of a central authority like a bank or a government, the community is in 
 
 Each transaction is recorded in a public network called the blockchain. Miners verify these transactions. 
 
-Bitcoions are transferred directly person to person, which minimizes fees that are associated with most banks and credit card company. 
+Bitcoins are transferred directly person to person, which minimizes fees that are associated with most banks and credit card company. 
 
 ## Is Bitcoin Mining Profitable? 
 
@@ -68,6 +68,16 @@ NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](h
 [Shop Antminer S7 ASIC Miners](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1){: .big-button}
 
 ## Antminer S9
+
+The [Antminer S9](https://www.amazon.com/gp/product/B01MCZVPFE/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MCZVPFE&linkId=f1198e95d3a831a393d548cee0585a7e) is a eat piece of hardware, and is likely to remain profitable for a long time. This miner, though expensive, has a hash rate of 14 TH/s. It has incredibly high processing power. 
+
+This ASIC draws 1350 W from the wall, and it is recommended that the [Antminer APW-12 1600 Watt Bitcoin Miner PSU](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=apw-12+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) be used, as the Antminer S9 does NOT include a power supply. 
+
+Though this miner is quite powerful, it is very unlikely that one unit will successfully mine a bitcoin in a short amount of time. We recommend getting involved in a [Bitcoin mining pool.](https://en.bitcoin.it/wiki/Comparison_of_mining_pools)
+
+The Antminer S9 is an expensive ASIC, but it's worth every penny. Not only is it one of the most powerful miners on the market, it is also energy efficient. It only uses .1 Joules per Gigahash. It is over 2 times as efficient as the Antminer S7. 
+
+[Shop Antminer S9 ASIC Miners](https://www.amazon.com/gp/product/B01MCZVPFE/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MCZVPFE&linkId=f1198e95d3a831a393d548cee0585a7e){: .big-button}
 
 ## Avalon6 
 
