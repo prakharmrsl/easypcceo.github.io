@@ -92,6 +92,19 @@ NOTE: This miner does NOT include a powersupply. We recommend the [Dell L1100E-S
 
 [Shop Avalon6 ASIC Miners](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55){: .big-button}
 
+## Antminer R4 
+
+The [Antminer R4](https://www.amazon.com/gp/product/B01N3C30ZV/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N3C30ZV&linkId=15ce9ecca43fbc5cf90b8074af2f7d45) is the perfect ASIC for anyone looking to mine Bitcoins at home. This is the second fastest miner on this list, with a hash rate of 8.6 TH/s, falling behind the Antminer S9. 
+
+This miner is tied with the Antminer S9 as the most efficient miner on the market today. Furthermore, this miner is designed to be extremely quiet, making it perfect for at home mining. 
+
+This miner was designed with ease of use in mind. Setting up this miner is a breeze. If you're a first time miner, this is a good choice for you. 
+
+This miner draws about 845 W from the wall. It does not come with a power supply. The [Antminer APW5](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=APW5+Power+Supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) power supply is recommended for use with this ASIC.
+
+This miner is great for hobbyists who also are looking to make some money. 
+
+[Shop Antminer R4 ASIC Miners](https://www.amazon.com/gp/product/B01N3C30ZV/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N3C30ZV&linkId=15ce9ecca43fbc5cf90b8074af2f7d45){: .big-button}
 
 
 
