@@ -9,7 +9,7 @@ seotitle: "5 Best Bitcoin Mining Hardware ASICs and GPUs 2017 "
 
 A bitcoin is one unit of digital currency. It is considered a decentralized currency. 
 
-Instead of a central authority like a bank or a government, the community is in control of Bitcoin.
+Instead of a central authority like a bank or a credit card company, the community is in control of Bitcoin.
 
 Each transaction is recorded in a public network called the blockchain. Miners verify these transactions. 
 
