@@ -4,11 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Easy PC is a website designed to help beginner builders with their first PCs. 
+
+My name is Jacob Tuwiner. I made this site because I was once in your position, tirelessly researching the best computer components for my new gaming PC. 
+
+Unfortunately, I couldn't find all the information I needed in one place. I wanted a hub of information for new PC enthusiasts. 
+
+I decided to make this website to bring all of the information you need in one place. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a passion for film, and computers. I love PC gaming and learning more about the newest technology out there. 
 
 ### Contact me
 
