@@ -7,7 +7,7 @@ seotitle: "#1 Best Litecoin Mining Hardware ASIC 2017"
 
 ## What is Litecoin? 
 
-Litecoin is faster than Bitcoin, and is focused on smaller transactions. 
+Litecoin is faster than Bitcoin, and focuses on smaller transactions. 
 
 There will only ever be 84 million Litecoins mined. Some may disagree, but many draw the comparison that Litecoin is to Bitcoin as silver is to gold.
 
