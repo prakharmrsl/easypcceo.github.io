@@ -51,7 +51,7 @@ A phoenix is a mythical creature known for its resilience. This PC truly is resi
 [$700 Gaming PC](/budget-pcs/700/){: .big-button}
 
 ### The Monster ($800)
-![Masterbox5 White](/img/case/masterbox5.png "Masterbox5"){: .img-right .img-medium}
+![Masterbox5 White](/img/case/masterbox5.jpg "Masterbox5"){: .img-right .img-medium}
 
 
 This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
