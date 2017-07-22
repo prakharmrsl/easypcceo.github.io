@@ -58,5 +58,7 @@ This PC is called the monster, simply because it is an absolute beast. For $800,
 
 $800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. 
 
-If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in dominating the game, click [here](/budget-pcs/800/)
+If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
+
+[$800 Gaming PC](/budget-pcs/800/){: .big-button}
 
