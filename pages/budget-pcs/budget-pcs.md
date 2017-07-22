@@ -47,8 +47,7 @@ This PC is sleek, refined, and low cost. For $600, you are getting a low profile
 
 [$600 Gaming PC](/budget-pcs/600/){: .big-button}
 
-### The Phoenix ($700)
-![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
+### The Phoenix ($700)![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
 
 A phoenix is a mythical creature known for its resilience. This PC truly is resilient. Once assembled, the components form a powerful, resilient, and majestic gaming machine. 
 
