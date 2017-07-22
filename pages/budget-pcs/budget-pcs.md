@@ -51,6 +51,12 @@ A phoenix is a mythical creature known for its resilience. This PC truly is resi
 [$700 Gaming PC](/budget-pcs/700/){: .big-button}
 
 ### The Monster ($800)
+![Masterbox5 White](/img/case/masterbox5.png "Masterbox5"){: .img-right .img-medium}
 
-This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. $800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in dominating the game, click [here](/budget-pcs/800/)
+
+This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
+
+$800 is one of the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. 
+
+If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all. If you are interested in dominating the game, click [here](/budget-pcs/800/)
 
