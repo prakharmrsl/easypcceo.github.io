@@ -32,14 +32,18 @@ This PC gives you an outstanding bang for your buck, playing the newest titles i
 ### The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 
-The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. On a budget, $500 is often the amount of money that I recommend people spend. You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
+The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. 
+
+On a budget, $500 is often the amount of money that I recommend people spend. 
+
+You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
 
 [$500 Gaming PC](/budget-pcs/500/){: .big-button}
 
 ### The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
 
-This relatively low budget gaming PC is not only powerful, but sleek and refined as well. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine. If you are interested in this $600 gaming PC build, click [here](/budget-pcs/600/)
+This PC is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine.
 
 [$600 Gaming PC](/budget-pcs/600/){: .big-button}
 
