@@ -25,7 +25,7 @@ With this PC, you'll max out nearly every title at 1080p with 60 fps.
 
 You could say this PC is the editor's choice, as I always tell people $1000 is the perfect amount to spend on a gaming PC. You get everything you need without breaking the bank. 
 
-[$1000 Gaming PC](/enthusiast-pcs/1000/)
+[$1000 Gaming PC](/enthusiast-pcs/1000/){: .big-button}
 
 
 
