@@ -2,7 +2,7 @@
 title: Best Budget Gaming PC Builds 2017 
 permalink: "/budget-pcs/"
 layout: page
-seotitle: 5 Best Budget Gaming PC's 2017 
+seotitle: 5 Best Budget Gaming PCs 2017 
 ---
 
 ## Gaming on a Budget in 2017 Made Easy 
@@ -19,7 +19,7 @@ Lucky for you, PC gaming is cheaper than ever before.
 
 Below are the best gaming PC builds money can buy in 2017. 
 
-## Top 5 Best Budget Gaming PC's 2017:
+## Top 5 Budget Gaming PCs 2017:
 
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
