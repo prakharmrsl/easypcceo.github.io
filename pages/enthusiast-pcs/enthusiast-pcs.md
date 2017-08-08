@@ -39,10 +39,10 @@ That being said, this is one of the BEST gaming PCs on the market. Get yours tod
 
 ![Corsair 750D Airflow Edition](/img/case/corsair-750d-airflow.png "Corsair 750D Airflow Edition"){: .img-right .img-small}
 
-### The Ultimate Gaming PC ($1500)
+### The Ultimate Gaming PC ($1600)
 
-This is the ultimate gaming PC on this website. It will game in 1440p no problem.
+This is the ultimate gaming PC on the website. It will game in 1440p no problem.
 
 The processor, graphics card, case, power supply, motherboard, and water cooling unit were all hand picked with heavy overclocking in mind. 
 
-[$1500 Gaming PC](/enthusiast-pcs/1500/){: .big-button}
+[$1600 Gaming PC](/enthusiast-pcs/1600/){: .big-button}
