@@ -27,6 +27,14 @@ You could say this PC is the editor's choice, as I always tell people $1000 is t
 
 [$1000 Gaming PC](/enthusiast-pcs/1000/){: .big-button}
 
+![Thermaltake - Chaser A31 Snow White](/img/case/thermaltake-a31.jpg "Thermaltake - Chaser A31 Snow White"){: .img-small .img-right}
 
+### The Elite Gamer ($1200)
+
+This is the most money I'd advise anyone spends on a gaming PC.. In my opinion, anything more than this is simply overkill. 
+
+That being said, this is one of the BEST gaming PC's on the market today. 
+
+[$1200 Gaming PC](/enthusiast-pcs/1200/){: .big-button}
 
 
