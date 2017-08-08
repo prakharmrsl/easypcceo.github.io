@@ -33,7 +33,7 @@ You could say this PC is the editor's choice, as I always tell people $1000 is t
 
 This is the most money I'd advise anyone spends on a gaming PC.. In my opinion, anything more than this is simply overkill. 
 
-That being said, this is one of the BEST gaming PC's on the market today. 
+That being said, this is one of the BEST gaming PCs on the market. Get yours today. 
 
 [$1200 Gaming PC](/enthusiast-pcs/1200/){: .big-button}
 
