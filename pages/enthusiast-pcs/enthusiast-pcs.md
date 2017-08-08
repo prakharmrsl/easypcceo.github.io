@@ -37,4 +37,4 @@ That being said, this is one of the BEST gaming PCs on the market. Get yours tod
 
 [$1200 Gaming PC](/enthusiast-pcs/1200/){: .big-button}
 
-![]
+![1]
