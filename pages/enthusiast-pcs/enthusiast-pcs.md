@@ -2,7 +2,7 @@
 layout: page
 title: Best Enthusiast Gaming PC Builds 2017
 permalink: /enthusiast-pcs/
-seotitle: 5 Best Enthusiast Gaming PCs 2017
+seotitle: 3 Best Enthusiast Gaming PCs 2017
 ---
 
 ## Enthusiast High End Gaming Rigs in 2017
@@ -13,7 +13,7 @@ Though it's possible to enjoy these perks on a budget, spending a bit more money
 
 [PC gaming on a budget](/budget-pcs/) is definitely possible, but spending the extra money goes a long way.  
 
-## Top 5 Enthusiast Gaming PCs 2017: 
+## Top 3 Enthusiast Gaming PCs 2017: 
 
 ![Fractal Design - Focus G (White)](/img/case/fractaldesign-focusg.jpg "Fractal Design - Focus G (White)"){: .img-right .img-small}
 
@@ -37,4 +37,12 @@ That being said, this is one of the BEST gaming PCs on the market. Get yours tod
 
 [$1200 Gaming PC](/enthusiast-pcs/1200/){: .big-button}
 
-![1]
+![Corsair 750D Airflow Edition](/img/case/corsair-750d-airflow.png "Corsair 750D Airflow Edition"){: .img-right .img-small}
+
+### The Ultimate Gaming PC ($1500)
+
+This is the ultimate gaming PC on this website. It will game in 1440p no problem.
+
+The processor, graphics card, case, power supply, motherboard, and water cooling unit were all hand picked with heavy overclocking in mind. 
+
+[$1500 Gaming PC](/enthusiast-pcs/1500/){: .big-button}
