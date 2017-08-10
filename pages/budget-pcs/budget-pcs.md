@@ -65,3 +65,103 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 
 [$800 Gaming PC](/budget-pcs/800/){: .big-button}
 
+## Why Build a Gaming PC? 
+
+Many have grown accustomed to coming home, sitting down and turning on their console. It's easy and convenient, but is it the best option? 
+
+The answer is no. 
+
+PC gaming has MANY benefits that consoles simply lack. In fact, there is NOTHING a console can do that a gaming PC cannot. If a console can do it, a PC can do it better.
+
+![consolepcgraphics](/img/misc/consolepcgraphics.jpg){: .img-right .img-medium}
+
+A console can only play video games, and maybe waching Netflix. A gaming PC can perform these tasks at higher resolutions, framerates, and graphical settings. 
+
+Moreover, this PC is more than just a gaming machine. Unlike a console, your gaming PC can edit videos, pictures, code, stream, record, surf the web, etc.
+
+But to enjoy all of these things, you have to spend a ton of money, right? 
+
+Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
+
+This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions easily with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. 
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YyleactoHVU" frameborder="0" allowfullscreen></iframe>
+
+---
+
+When the Xbox One first launched, a day one edition console was roughly $500. Many of my friends told me they were going to buy an Xbox for $500, a laptop for $500, and an Elgato Game Capture HD for $100. 
+
+They wanted to play video games on their console, record with their Elgato, and edit videos for YouTube with their laptop. 
+
+This may seem like a great idea at first glance. However, there is a MUCH better option. 
+
+![Xbox One X](/img/misc/console-x.jpg){: .img-medium .img-left}
+
+Instead of spending $1100 in total for the Xbox, laptop, and Elgato, why not spend that money on a gaming PC? 
+
+You don't even have to spend $1100. You could spend anywhere from $500-$1000 on a gaming PC.
+
+Not only does this PC consolidate all of the gaming, recording, editing, streaming, etc. into one place, it also performs all of these tasks more effectively. 
+
+Think about it, an $800 gaming PC can run games at higher resolutions and better framerates than an Xbox. It also is much more powerful than any $500 laptop. PC gaming just makes more sense. 
+
+## Custom Built or Prebuilt? 
+
+There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 
+
+Many of these PCs are falsely advertised as great alternatives to a custom build. 
+
+![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-medium}
+
+The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
+
+Don't become another dissatisfied customer. It's important to educate yourself before making any purchase, especially when purchasing a gaming PC. 
+
+---
+
+Take a look at the PC below: 
+
+![Best Buy Prebuilt](/img/misc/bestbuy-pc-example.png)
+
+As you can see, this PC is going for nearly $1100 USD. Now let's take a look at what these parts would cost you: 
+
+![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
+
+This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
+
+Most retailers mark up their prices even more dramatically. Evidently, building your own PC is cheaper. 
+
+Customizability is another reason why building your own PC is a good option. You can hand pick your parts, and tailor your PC exactly how you'd like it. 
+
+You can choose your own case, LED color scheme, shape, size, noise level, cooling system, etc. PC building is practically an art form. 
+
+If you only want to play a few games like Overwatch and CSGO for example, you don't have to buy a $1000 gaming PC. Instead, you can get the components you'd need to run those games, and nothing more. 
+
+On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too. 
+
+## Viable Prebuilt Options 
+
+Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
+
+If you know what you're looking for, you can find some great prebuilt alternatives. 
+
+![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-medium}
+
+
+This Cyberpower PC can be found on Amazon for the price of $720. This PC features:
+
+* Intel i5-7400 3.0 GHz Quad Core CPU
+* 8GB of DDR4 memory
+* 1TB hard drive 
+* RX 580 4GB graphics card 
+
+The package also includes Windows 10, a wifi card, and a gaming mouse/keyboard. For this price, it's an excellent deal. 
+
+[View on Amazon](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684){: .big-button} 
+
+
+
+
+
