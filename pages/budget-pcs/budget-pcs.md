@@ -183,13 +183,13 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 
 [View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
 
-## How to Build a Dirt Cheap Gaming PC 
+## How to Build a Dirt Cheap Gaming PC in 3 Easy Steps
 
 If you're on an extremely low budget, there are still options for you if you're interested in building a gaming PC. 
 
 eBay is an excellent tool if you know how to use it. If you follow this step by step guide, you can own a great gaming machine without breaking the bank.
 
-**Keep reading to find out how to build a 1080p gaming PC for $220!** 
+**Keep reading to find out how to build a 1080p gaming PC for $250!** 
 
 ### Step 1: Find an old desktop for sale on eBay
 
@@ -206,6 +206,25 @@ I'd recommend using eBay filters. Often you can find a listing that is advertise
 Many think that just because their PC won't power on, it's garbage. Little do they know, there are many parts inside the PC that can be salvaged. This will allow you to save lots of money. 
 
 Finding an old used desktop is also a good path to take. 
+
+![Desktop eBay](/img/misc/ebay-how-to/desktop.png)
+
+After 10 minutes or so of browsing eBay listings, I found this PC for sale. 
+
+The PC is listed for $150 which is a pretty good price, but we'll get this PC for even less. 
+
+Make sure the PC doesn't have anything wrong with it, and check out the specs of the PC. 
+
+This Dell Optiplex 990 MT PC has: 
+
+* Intel Core i7-2600 3.4 GHz CPU
+* 8GB of DDR3 Ram
+* 500GB Hard Drive
+* DVD-Rom 
+
+Furthermore, you're getting the case, power supply, and motherboard all for the low price of $150. Now it's time for the next step.
+
+### Step 2: Negotiate a Price
 
 
 
