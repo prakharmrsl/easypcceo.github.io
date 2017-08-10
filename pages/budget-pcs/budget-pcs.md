@@ -167,9 +167,9 @@ The package also includes Windows 10, a wifi card, and a gaming mouse/keyboard. 
 
 If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
 
-This PC can be found on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $430. You can actually find it under $300 if you buy it [used](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) on Amazon. 
+You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $430. You can actually find it under $300 if you buy it [used](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) on Amazon. 
 
-This PC features: 
+The PC features: 
 
 * Intel Core i3-6100 
 * 8GB DDR3 Ram
@@ -184,6 +184,26 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 [View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
 
 ## How to Build a Dirt Cheap Gaming PC 
+
+If you're on an extremely low budget, there are still options for you if you're interested in building a gaming PC. 
+
+eBay is an excellent tool if you know how to use it. If you follow this step by step guide, you can own a great gaming machine without breaking the bank. 
+
+### Step 1: Find an old desktop for sale on eBay
+
+The first step to building a dirt cheap gaming PC is finding an old desktop on eBay. Simply search ["Desktop PC"](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) on [eBay.](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+
+![First Step](/img/misc/ebay-how-to/search.png)
+
+You're going to have to filter through lots of desktops. This may take some time. 
+
+I'd recommend using eBay filters. Often you can find a listing that is advertised as "for parts or repair".
+
+![Filters eBay](/img/misc/ebay-how-to/filters.jpg)
+
+Many think that just because their PC won't power on, it's garbage. Little do they know, there are many parts inside the PC that can be salvaged. This will allow you to save lots of money. 
+
+
 
 
 
