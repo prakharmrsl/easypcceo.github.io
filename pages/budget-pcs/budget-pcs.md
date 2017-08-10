@@ -97,8 +97,6 @@ They wanted to play video games on their console, record with their Elgato, and 
 
 This may seem like a great idea at first glance. However, there is a MUCH better option. 
 
-![Xbox One X](/img/misc/console-x.jpg){: .img-medium .img-left}
-
 Instead of spending $1100 in total for the Xbox, laptop, and Elgato, why not spend that money on a gaming PC? 
 
 You don't even have to spend $1100. You could spend anywhere from $500-$1000 on a gaming PC.
