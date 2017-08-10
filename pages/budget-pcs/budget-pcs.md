@@ -203,6 +203,12 @@ I'd recommend using eBay filters. Often you can find a listing that is advertise
 
 Many think that just because their PC won't power on, it's garbage. Little do they know, there are many parts inside the PC that can be salvaged. This will allow you to save lots of money. 
 
+Finding an old used desktop is also a good path to take. 
+
+
+
+
+
 
 
 
