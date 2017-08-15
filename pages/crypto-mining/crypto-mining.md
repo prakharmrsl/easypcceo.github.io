@@ -110,11 +110,35 @@ Instead?
 
 The graphics card is used for solving the complex algorithms that form cryptocurrency. 
 
+## How Mining Works 
+
+Cryptocurrencies consist of blocks of transaction. This is known as the blockchain.Each time a transaction takes place, the public blockchain is updated. 
+
+Miners put the transaction through a process in which they take the information and apply a formula to it. The end result is a sequence of letters and numbers that is far shorter than the original transaction. This is called a hash. 
+
+Each hash is a version of the hash used before it. Since each hash is based on the one prior, the next hash confirms the previous hash is legitimate.  
+
+ For each block, miners use computers, more specifically GPUs to guess answers to a puzzle. When the answer is find, a coin is received as a reward. 
+
+The miners use unique header metadata through a hash function. When a valid hash is found, it is sent through the network and added to the public ledger.
+
+There's no way to cheat the system and fake the work, which is why the method used for all cryptocurrencies as of today is called "proof of work". Ethereum is revolutionary in that it is trying to move away from proof-of-work and intead use "proof of stake" (see our guide on [Ethereum Mining](/crypto-mining/ethereum-hardware/)).
+
+With this method, miners validate the hashes on the network, and they are rewarded with coins. 
+
+## Importance of a Powerful and Efficient GPU 
+
+Considering the information above, the importance of a powerful GPU is clear. The more powerful your GPU is, the faster you'll successfully mine coins. 
+
+However, powerful cards tend to use lots of electricity. That's why the efficiency of a card is equally important to consider. 
+
+With the difficulty of mining increasing each day, an efficient GPU is critical. Some GPUs cost more in electricity than they generate in revenue. You can find efficient mining GPUs with the guides above. 
+
 ## Factors that Affect the Efficiency of your GPU 
 
 You can't mine with any old graphics card.  
 
-There are important stats that need to be considered, including: 
+There are important stats to be considered including: 
 
 * MHash/s 
 * MHash/j
@@ -146,4 +170,19 @@ Actually, it requires multiple powerful graphics cards. Consequently, you will a
 
 Lastly, using the right power supply is crucial. If your mining rig is not provided sufficient power, it will short out. 
 
+## Is Mining The Right Choice for You? 
+
+Mining may sound like a great idea. Just get a mining GPU, and let the profits roll in. 
+
+Right? 
+
+Not necessarily. 
+
+There are huge mining warehouses in countries with extremely low electricity cost. These warehouses have thousands of mining GPUs, and cost hundreds of thousands if not millions of dollars. 
+
+On such a huge scale, mining is extremely profitable and the investors are making lots of money. However, when mining with one or two GPUs in your house, you might not see a great return on your investment, if anything at all. 
+
+Mining still has its benefits. Some miners are doing so as a hobby that pays them something in return. However, unless you're doing it on a large scale, you probably won't see much profit. If you just want cryptcurrency, we recommend you [buy them.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
+
+## 
 
