@@ -184,5 +184,3 @@ On such a huge scale, mining is extremely profitable and the investors are makin
 
 Mining still has its benefits. Some miners are doing so as a hobby that pays them something in return. However, unless you're doing it on a large scale, you probably won't see much profit. If you just want cryptcurrency, we recommend you [buy them.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
 
-## 
-
