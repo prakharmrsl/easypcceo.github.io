@@ -12,4 +12,4 @@ PC gaming has many benefits that consoles are lacking, including superior graphi
 
 [Read the full article](/blog/pc-gaming-benefits/){: .big-button} 
 
-## The 
+## Ryzen 3: The King of Budget Gaming CPUs 
