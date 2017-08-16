@@ -25,10 +25,6 @@ Especially after the release of Ryzen 3, it makes no sense to purchase an i3 CPU
 
 ![Pentium G4560 Specs](/img/blog/top-cpu-2017/pentium-stats.png){: .img-medium .img-left}
 
-
-
-
-
 The reason the Pentium G4560 made the list is because of its insane price to performance ratio. Since it has 4 threads, it performs extremely well in gaming. 
 
 We'd recommend spending the extra money on the Ryzen 3 1200, but if you really can't afford it, the Pentium G4560 will do just fine.  
