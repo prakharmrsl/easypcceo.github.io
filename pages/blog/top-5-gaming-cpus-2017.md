@@ -94,7 +94,7 @@ Specs:
 * Simultaneous Multithreading: No
 * Integrated Graphics: No 
 
-[View on Amazon](http://amzn.to/2wO0mPP)
+[View on Amazon](http://amzn.to/2wO0mPP){: .big-button}
 
 ## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
 
