@@ -179,6 +179,8 @@ Specs:
 [View on Amazon](http://amzn.to/2v09H4T){: .big-button}
 
 ## 1. [Ryzen 7 1700 - $290](http://amzn.to/2x2KLLx)
+![Ryzen 7 1700](/img/blog/top-cpu-2017/ryzen7.jpg){: .img-right .img-small}
+
 
 The number one spot on this list goes to the Ryzen 7 1700. This CPU is an excellent choice, as it keeps up with the core i7-7700k for a lower price.
 
