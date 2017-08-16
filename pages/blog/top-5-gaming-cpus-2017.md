@@ -100,6 +100,7 @@ Specs:
 [View on Amazon](http://amzn.to/2wO0mPP){: .big-button}
 
 ## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
+![Ryzen 5 1400](/img/blog/top-cpu-2017/ryzen5-1400.jpg){: .img-small .img-right}
 
 The Ryzen 5 1600 is an excellent choice for a gaming CPU. It is unchallenenged among enthusiast CPUs. 
 
@@ -109,5 +110,5 @@ This quad-core CPU is great for those who can't afford the extra $50 for a Ryzen
 
 Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again. 
 
- 
+
 
