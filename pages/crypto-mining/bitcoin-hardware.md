@@ -34,7 +34,7 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 Below are the top 5 best Bitcoin mining ASICs:
 
 ## Antminer S5
-![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-medium}
+![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-small}
 
 
 The [Antminer S5](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab) was realeased in 2014, and at the time it was one of the fastest Bitcoin miners on the market. Since its release, it has been surpassed by newer miners. 
@@ -50,7 +50,7 @@ NOTE: This miner does NOT include a powersupply. We recommend the [EVGA SuperNOV
 [Shop Antminer S5 ASIC Miners](https://www.amazon.com/gp/product/B00RCTIY4G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00RCTIY4G&linkCode=as2&tag=cryptocurrency06-20&linkId=206a0499fac0cb838fab87f7d8cbe4ab){: .big-button}
 
 ## Antminer S7 
-![Antminer S7](/img/cryptocurrency/gpu/asic/s7.jpg "Antminer S7"){: .img-medium .img-right}
+![Antminer S7](/img/cryptocurrency/gpu/asic/s7.jpg "Antminer S7"){: .img-small .img-right}
 
 
 The [Antminer S7](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1) has remained a popular choice since its release in 2015 for good reason. 
@@ -71,7 +71,7 @@ NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](h
 [Shop Antminer S7 ASIC Miners](https://www.amazon.com/gp/product/B014OGCP6W/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B014OGCP6W&linkId=f9ead1a67810212bfe2b00f7b4fe2be1){: .big-button}
 
 ## Antminer S9
-![Antminer S9](/img/cryptocurrency/gpu/asic/s9.jpg "Antminer S9"){: .img-medium .img-right}
+![Antminer S9](/img/cryptocurrency/gpu/asic/s9.jpg "Antminer S9"){: .img-small .img-right}
 
 
 The [Antminer S9](https://www.amazon.com/gp/product/B01MCZVPFE/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MCZVPFE&linkId=f1198e95d3a831a393d548cee0585a7e) is a eat piece of hardware, and is likely to remain profitable for a long time. This miner, though expensive, has a hash rate of 14 TH/s. It has incredibly high processing power. 
@@ -85,7 +85,7 @@ The Antminer S9 is an expensive ASIC, but it's worth every penny. Not only is it
 [Shop Antminer S9 ASIC Miners](https://www.amazon.com/gp/product/B01MCZVPFE/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01MCZVPFE&linkId=f1198e95d3a831a393d548cee0585a7e){: .big-button}
 
 ## Avalon6 
-![Avalon6](/img/cryptocurrency/gpu/asic/avalon6.jpg "Avalon6"){: .img-medium .img-right}
+![Avalon6](/img/cryptocurrency/gpu/asic/avalon6.jpg "Avalon6"){: .img-small .img-right}
 
 
 The [Avalon6](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55) is a great option for someone looking to start mining for Bitcoins. This miner has a hash rate of 3.5 TH/s and uses about 1050 watts at max load. 
@@ -99,7 +99,7 @@ NOTE: This miner does NOT include a powersupply. We recommend the [Dell L1100E-S
 [Shop Avalon6 ASIC Miners](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01AKU94HY&linkCode=as2&tag=cryptocurrency06-20&linkId=1e10e75d073c464125be6001712b1d55){: .big-button}
 
 ## Antminer R4 
-![Antminer R4](/img/cryptocurrency/gpu/asic/r4.jpg "Antminer R4"){: .img-right .img-medium}
+![Antminer R4](/img/cryptocurrency/gpu/asic/r4.jpg "Antminer R4"){: .img-right .img-small}
 
 
 The [Antminer R4](https://www.amazon.com/gp/product/B01N3C30ZV/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N3C30ZV&linkId=15ce9ecca43fbc5cf90b8074af2f7d45) is the perfect ASIC for anyone looking to mine Bitcoins at home. This is the second fastest miner on this list, with a hash rate of 8.6 TH/s, falling behind the Antminer S9. 
