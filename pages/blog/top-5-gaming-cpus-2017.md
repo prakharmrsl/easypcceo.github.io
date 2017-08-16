@@ -63,4 +63,16 @@ Specs:
 
 The Ryzen 3 1200 is easily one of the best choices if you're on a budget.
 
-Though the performance is extremely similar to the core i3-7100 before overclocking, the Ryzen 3 1200 significantly outperforms 
+Though the performance is similar to the core i3-7100 before overclocking, the Ryzen 3 1200 significantly outperforms the i3-7100 in nearly all aspects when overclocked. 
+
+After overclocking, the Ryzen 3 1200 achieves similar performance the the 1300X for a much cheaper price tag. 
+
+Moreover, the Ryzen 3 1200 and 1300X significantly outperform both of Intel's closest offerings. 
+
+![Ryzen 3 Stats](/img/blog/top-cpu-2017/ryzen3-stats.png){: .img-medium .img-left}
+
+Ryzen 3 has 4 true cores, unlike both of Intel's closest offerings. It is also made up of two of AMD's new CCXs or Core Complexes.
+
+This means that even though the Ryzen 3 1200 only has half the cache of the Ryzen 5 and 7, it still has all of the same features. 
+
+This includes SenseMI, Precision Boost, and XFR. Considering you're getting all of these awesome features at such a low price, it really is a great value. 
