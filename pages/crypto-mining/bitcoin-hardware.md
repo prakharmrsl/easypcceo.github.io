@@ -27,7 +27,7 @@ However, if you have the best mining hardware, it is still profitable, and can e
 
 When Bitcoin was first invented, the CPU was used to mine. Quickly miners discovered that the GPU is far more effective. Quickly, the prices of GPUs across the market skyrocketed as miners bought up all of the GPUs they could get their hands on. 
 
-Eventually, an ASIC card was invented specifically for efficiently mining Bitcoins.
+Eventually, an ASIC was invented specifically for efficiently mining Bitcoins.
 
 Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit)s. 
 
