@@ -15,11 +15,7 @@ Keep in mind that this list isn't necessarily in order from worst to best, but m
 
 The Pentium G4560 definitely still has a place on the top 5 list. This CPU is less than $100, and still can compete with i3 CPUs. 
 
-![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
-
-
-
-
+![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-small .img-right}
 
 In fact, it can keep up with CPUs such as the Intel i3-7100 in gaming related tasks. Furthermore, for $80, it really holds its own in other workstation tasks as well. 
 
