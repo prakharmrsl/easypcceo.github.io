@@ -30,3 +30,9 @@ The reason the Pentium G4560 made the list is because of its insane price to per
 We'd recommend spending the extra money on the Ryzen 3 1200, but if you really can't afford it, the Pentium G4560 will do just fine.  
 
 ![G4560 Performance Graph](/img/blog/top-cpu-2017/g4560-graph.png)
+
+As you can see in the graph above, the i3-7100 is only 12% faster than the Pentium G4560, but it is 28% more expensive. 
+
+Evidently, the i3-7100 is not worth your money, especially considering Ryzen 3 outperforms it in nearly every aspect for a lower price tag. 
+
+In conclusion, if you're on an extremely low budget, the Intel Pentium G4560 is your best friend. 
