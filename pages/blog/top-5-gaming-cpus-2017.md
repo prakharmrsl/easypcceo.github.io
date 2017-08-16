@@ -57,3 +57,10 @@ Specs:
 * Integrated Graphics: Intel HD Graphics 610
 
 [View on Amazon](http://amzn.to/2i4vwPM){: .big-button}
+
+## 4. [Ryzen 3 1200 - $110](http://amzn.to/2wO0mPP)
+![Ryzen 3 1200](/img/blog/top-cpu-2017/ryzen3-1200.jpg){: .img-right .img-medium}
+
+The Ryzen 3 1200 is easily one of the best choices if you're on a budget.
+
+Though the performance is extremely similar to the core i3-7100 before overclocking, the Ryzen 3 1200 significantly outperforms 
