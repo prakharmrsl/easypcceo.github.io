@@ -31,7 +31,9 @@ We'd recommend spending the extra money on the Ryzen 3 1200, but if you really c
 
 The Pentium G4560 may not be as powerful as the i3-7100, but it's extremely close. Furthermore, if you look at it from a price to performance standpoint, the G4560 makes much more sense. 
 
-If you want the most bang from your buck, go with the Pentium G4560.
+If you want the most bang from your buck, go with the Pentium G4560. Below is a graph comparing the multithreaded performance of the Pentium G4560 and the i3-7100. 
+
+Considering the CPU is hyperthreaded, multithread performance is important. 
 
 ![G4560 Performance Graph](/img/blog/top-cpu-2017/g4560-graph.png)
 
