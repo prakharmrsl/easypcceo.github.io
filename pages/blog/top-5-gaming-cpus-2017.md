@@ -186,7 +186,7 @@ The number one spot on this list goes to the Ryzen 7 1700. This CPU is an excell
 
 Since it has 8 cores and 16 threads, it's an extremely futureproof chip. 
 
-I recommend you overclock the Ryzen 7 1700 to get the best performance per dollar.nThough it falls behind the i7-7700k in some titles, it's not by much.
+I recommend you overclock the Ryzen 7 1700 to get the best performance per dollar. Though it falls behind the i7-7700k in some titles, it's not by much.
 
 In terms of performance per dollar, the Ryzen 7 1700 is definitely the way to go, especially from a long term perspective. 
 
