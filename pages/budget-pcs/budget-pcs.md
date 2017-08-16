@@ -148,7 +148,7 @@ Though many prebuilt gaming PCs aren't worth the time or the money, there are so
 
 If you know what you're looking for, you can find some great prebuilt alternatives. 
 
-![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-medium}
+![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-small}
 
 The [Cyberpower PC Gamer Xtreme](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684) is another great option.
 
