@@ -17,6 +17,10 @@ The Pentium G4560 definitely still has a place on the top 5 list. This CPU is le
 
 ![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
 
+
+
+
+
 In fact, it can keep up with CPUs such as the Intel i3-7100 in gaming related tasks. Furthermore, for $80, it really holds its own in other workstation tasks as well. 
 
 Intel definitely saw Ryzen coming and decided to implement hyperthreading with their Pentium CPUs. This blurred the lines between Pentium and core i3. 
