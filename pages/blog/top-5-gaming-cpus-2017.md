@@ -12,11 +12,10 @@ The last time I made a list of the top 5 best gaming CPUs, Ryzen 3 wasn't releas
 Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. 
 
 ## 5. [Pentium G4560 ($80)](http://amzn.to/2i4vwPM) 
-![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
-
-
 
 The Pentium G4560 definitely still has a place on the top 5 list. This CPU is less than $100, and still can compete with i3 CPUs. 
+
+![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
 
 In fact, it can keep up with CPUs such as the Intel i3-7100 in gaming related tasks. Furthermore, for $80, it really holds its own in other workstation tasks as well. 
 
