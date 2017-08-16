@@ -75,6 +75,8 @@ PC gaming has MANY benefits that consoles simply lack. In fact, there is NOTHING
 
 ![consolepcgraphics](/img/misc/consolepcgraphics.jpg){: .img-right .img-medium}
 
+
+
 A console can only play video games, and maybe waching Netflix. A gaming PC can perform these tasks at higher resolutions, framerates, and graphical settings. 
 
 Moreover, this PC is more than just a gaming machine. Unlike a console, your gaming PC can edit videos, pictures, code, stream, record, surf the web, etc.
