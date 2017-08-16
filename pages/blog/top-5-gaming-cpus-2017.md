@@ -97,3 +97,5 @@ Specs:
 [View on Amazon](http://amzn.to/2wO0mPP)
 
 ## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
+
+The 
