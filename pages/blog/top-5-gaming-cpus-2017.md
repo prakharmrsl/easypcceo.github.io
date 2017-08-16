@@ -108,11 +108,16 @@ However, if you can't afford the $220 price tag, the Ryzen 5 1400 is a much more
 
 This quad-core CPU is great for those who can't afford the extra $50 for a Ryzen 5 1600. If you're on a tight budget, the extra $50 can be allocated in a more important part of the build, like the GPU. 
 
-Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again. 
+Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again.
+
+[Techspot](https://www.techspot.com/review/1386-amd-ryzen-5-1400/page2.html) wrote a great article about this CPU, and provided the chart below. 
 
 [![Cinebench 1400](/img/blog/top-cpu-2017/Cinebench-1400.png )](https://www.techspot.com/review/1386-amd-ryzen-5-1400/page2.html)
 
-As you can see from the chart above, the Ryzen 5 1400
+As you can see from the chart above, they found that the Ryzen 5 1400 is 26% faster than the i5-7400 in multi-threaded workloads. 
+
+They also found that overclocking this chip improved performance by 25%. Once again, the easy overclockability of the Ryzen chip proves a strong advantage. 
+
 
 
 
