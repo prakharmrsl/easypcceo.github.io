@@ -1,15 +1,28 @@
 ---
-title: Your One Stop for All Things PC 
-permalink: "/blog/"
+title: Gaming CPUs to Look for in 2017 
+permalink: "/blog/top-5-gaming-cpus-2017/"
 layout: page
-seotitle: "Easy PC Blog - Join the Discussion"
+seotitle: "Top 5 Gaming CPUs in 2017 (Comparison)"
 ---
 
-## The Benefits of PC Gaming 
-![Gaming Mouse](/img/blog/gaming-mouse.jpg){: .img-small .img-right}
+The CPU market has taken a huge step forward ever since the launch of Ryzen 3. PC gaming on a budget has never been easier. 
 
-PC gaming has many benefits that consoles are lacking, including superior graphics, framerates, PC exclusives, cheaper games, and much more. 
+The last time I made a list of the top 5 best gaming CPUs, Ryzen 3 wasn't released. Actually, I didn't even include Ryzen 5 in my list. As this is obviously unacceptable, it's time for the top 5 best gaming CPUs of 2017. 
 
-[Read the full article](/blog/pc-gaming-benefits/){: .big-button} 
+Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. 
 
-## Ryzen 3: The King of Budget Gaming CPUs 
+## 5. Pentium G4560 ($80) 
+![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
+
+
+The Pentium G4560 definitely still has a place on the top 5 list. This CPU is less than $100, and still can compete with i3 CPUs. 
+
+In fact, it can keep up with CPUs such as the Intel i3-7100 in gaming related tasks. Furthermore, for $80, it really holds its own in other workstation tasks as well. 
+
+Intel definitely saw Ryzen coming and decided to implement hyperthreading with their Pentium CPUs. This blurred the lines between Pentium and core i3. 
+
+Especially after the release of Ryzen 3, it makes no sense to purchase an i3 CPU. Either go for the Pentium G4560, or go for the Ryzen 3. 
+
+![Pentium G4560 Specs](/img/blog/top-cpu-2017/pentium-stats.png){: .img-medium .img-left}
+
+The reason the Pentium G4560 made the list is because of its insane price to performance ratio. Since it has 4 threads, it performs extremely well in gaming.  
