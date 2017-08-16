@@ -9,7 +9,9 @@ The CPU market has taken a huge step forward ever since the launch of Ryzen 3. P
 
 The last time I made a list of the top 5 best gaming CPUs, Ryzen 3 wasn't released. Actually, I didn't even include Ryzen 5 in my list. As this is obviously unacceptable, it's time for the top 5 best gaming CPUs of 2017. 
 
-Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. 
+Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. These are the best CPUs for gaming in 2017. 
+
+These aren't necessarily the fastest processors in the world, but they're the best bang for your buck.
 
 ## 5. [Pentium G4560 ($80)](http://amzn.to/2i4vwPM) 
 
@@ -118,7 +120,7 @@ As you can see from the chart above, they found that the Ryzen 5 1400 is 26% fas
 
 They also found that overclocking this chip improved performance by 25%. Once again, the easy overclockability of the Ryzen chip proves a strong advantage. 
 
-
+The Ryzen 5 1400 destroys the competition, giving it the number 3 spot on this top 5 list. 
 
 
 
