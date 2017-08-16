@@ -178,10 +178,34 @@ Specs:
 
 [View on Amazon](http://amzn.to/2v09H4T){: .big-button}
 
+## 1. [Ryzen 7 1700 - $290](http://amzn.to/2x2KLLx)
 
+The number one spot on this list goes to the Ryzen 7 1700. This CPU is an excellent choice, as it keeps up with the core i7-7700k for a lower price.
 
+Since it has 8 cores and 16 threads, it's an extremely futureproof chip. 
 
+I recommend you overclock the Ryzen 7 1700 to get the best performance per dollar.nThough it falls behind the i7-7700k in some titles, it's not by much.
 
+In terms of performance per dollar, the Ryzen 7 1700 is definitely the way to go, especially from a long term perspective. 
+
+It is easy to see games in the future utilizing more than four cores. That being said, this CPU will last you a long time. 
+
+The 8 core, 16 thread CPU is perfect for heavy hitting workstation tasks. It is excellent for streaming, rendering, editing, and recording; it'll tackle anything you throw at it. 
+
+Specs: 
+
+* Data Width: 64-bit
+* Socket: AM4
+* Operating Frequency: 3.0 GHz
+* Max Turbo Frequency: 3.7 GHz
+* Cores: 8
+* Lithography: 14 nm
+* TDP: 65 Watts
+* Includes CPU Cooler: Yes
+* Simultaneous Multithreading: Yes
+* Integrated Graphics: No 
+
+[View on Amazon](http://amzn.to/2x2KLLx){: .big-button}
 
 
 
