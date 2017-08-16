@@ -1,0 +1,15 @@
+---
+title: Your One Stop for All Things PC 
+permalink: "/blog/"
+layout: page
+seotitle: "Easy PC Blog - Join the Discussion"
+---
+
+## The Benefits of PC Gaming 
+![Gaming Mouse](/img/blog/gaming-mouse.jpg){: .img-small .img-right}
+
+PC gaming has many benefits that consoles are lacking, including superior graphics, framerates, PC exclusives, cheaper games, and much more. 
+
+[Read the full article](/blog/pc-gaming-benefits/){: .big-button} 
+
+## Ryzen 3: The King of Budget Gaming CPUs 
