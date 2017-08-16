@@ -109,3 +109,5 @@ This quad-core CPU is great for those who can't afford the extra $50 for a Ryzen
 
 Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again. 
 
+ 
+
