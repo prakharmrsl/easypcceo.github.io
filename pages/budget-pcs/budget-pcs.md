@@ -166,9 +166,9 @@ The package also includes Windows 10, a wifi card, and a gaming mouse/keyboard. 
 
 ---
 
-![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-medium .img-small}
-
 If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
+
+![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-medium .img-small}
 
 You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $430. You can actually find it under $300 if you buy it [used](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) on Amazon. 
 
