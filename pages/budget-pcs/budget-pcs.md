@@ -113,11 +113,7 @@ There are many prebuilt gaming computers available on the market today. They adv
 
 Many of these PCs are falsely advertised as great alternatives to a custom build. 
 
-![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-medium}
-
-
-
-
+![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-small}
 
 
 The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
