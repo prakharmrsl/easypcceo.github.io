@@ -11,7 +11,7 @@ The last time I made a list of the top 5 best gaming CPUs, Ryzen 3 wasn't releas
 
 Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. 
 
-## 5. Pentium G4560 ($80) 
+## 5. [Pentium G4560 ($80)](http://amzn.to/2i4vwPM) 
 ![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-medium .img-right}
 
 
@@ -40,3 +40,18 @@ As you can see in the graph above, the i3-7100 is only 12% faster than the Penti
 Evidently, the i3-7100 is not worth your money, especially considering Ryzen 3 outperforms it in nearly every aspect for a lower price tag. 
 
 In conclusion, if you're on an extremely low budget, the Intel Pentium G4560 is your best friend. 
+
+Specs: 
+
+* Data-width: 64-bit
+* Socket: LGA 1151
+* Operating Frequency: 3.5 GHz
+* Cores: 2
+* Lithography: 14 nm
+* TDP: 54 Watts 
+* Includes CPU Cooler: Yes
+* Simultaneous Multithreading: Yes
+* Maximum Supported Memory: 64 GB 
+* Integrated Graphics: Intel HD Graphics 610
+
+[View on Amazon](http://amzn.to/2i4vwPM){: .big-button}
