@@ -45,7 +45,7 @@ In conclusion, if you're on an extremely low budget, the Intel Pentium G4560 is 
 
 Specs: 
 
-* Data-width: 64-bit
+* Data Width: 64-bit
 * Socket: LGA 1151
 * Operating Frequency: 3.5 GHz
 * Cores: 2
@@ -76,3 +76,24 @@ Ryzen 3 has 4 true cores, unlike both of Intel's closest offerings. It is also m
 This means that even though the Ryzen 3 1200 only has half the cache of the Ryzen 5 and 7, it still has all of the same features. 
 
 This includes SenseMI, Precision Boost, and XFR. Considering you're getting all of these awesome features at such a low price, it really is a great value. 
+
+In addition, Ryzen 3's stealth coolers are far better equipped than Intel's stock coolers. They provide quiet and adequate cooling. They even support light overclocking.
+
+Ryzen 3 is the king of budget gaming CPUs. If you're on a low budget, I'd highly recommend this CPU. 
+
+Specs: 
+
+* Data Width: 64-bit
+* Socket: AM4
+* Operating Frequency: 3.1 GHz
+* Max Turbo Frequency: 3.4 GHz 
+* Cores: 4 
+* Lithography: 14 nm
+* TDP: 65 Watts
+* Includes CPU Cooler: Yes
+* Simultaneous Multithreading: No
+* Integrated Graphics: No 
+
+[View on Amazon](http://amzn.to/2wO0mPP)
+
+## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
