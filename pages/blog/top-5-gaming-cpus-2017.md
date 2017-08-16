@@ -61,6 +61,8 @@ Specs:
 ## 4. [Ryzen 3 1200 - $110](http://amzn.to/2wO0mPP)
 ![Ryzen 3 1200](/img/blog/top-cpu-2017/ryzen3-1200.jpg){: .img-right .img-medium}
 
+
+
 The Ryzen 3 1200 is easily one of the best choices if you're on a budget.
 
 Though the performance is similar to the core i3-7100 before overclocking, the Ryzen 3 1200 significantly outperforms the i3-7100 in nearly all aspects when overclocked. 
@@ -98,4 +100,11 @@ Specs:
 
 ## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
 
-The 
+The Ryzen 5 1600 is an excellent choice for a gaming CPU. It is unchallenenged among enthusiast CPUs. 
+
+However, if you can't afford the $220 price tag, the Ryzen 5 1400 is a much more budget oriented option. 
+
+This quad-core CPU is great for those who can't afford the extra $50 for a Ryzen 5 1600. If you're on a tight budget, the extra $50 can be allocated in a more important part of the build, like the GPU. 
+
+Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again. 
+
