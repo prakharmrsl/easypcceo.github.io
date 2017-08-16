@@ -115,6 +115,8 @@ Many of these PCs are falsely advertised as great alternatives to a custom build
 
 ![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-medium}
 
+
+
 The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
 
 Don't become another dissatisfied customer. It's important to educate yourself before making any purchase, especially when purchasing a gaming PC. 
