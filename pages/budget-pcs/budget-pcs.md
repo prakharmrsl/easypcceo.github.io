@@ -73,9 +73,7 @@ The answer is no.
 
 PC gaming has MANY benefits that consoles simply lack. In fact, there is NOTHING a console can do that a gaming PC cannot. If a console can do it, a PC can do it better.
 
-![consolepcgraphics](/img/misc/consolepcgraphics.jpg){: .img-right .img-medium}
-
-
+![consolepcgraphics](/img/misc/consolepcgraphics.jpg){: .img-right .img-small}
 
 A console can only play video games, and maybe waching Netflix. A gaming PC can perform these tasks at higher resolutions, framerates, and graphical settings. 
 
