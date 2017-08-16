@@ -112,6 +112,7 @@ Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, t
 
 [![Cinebench 1400](/img/blog/top-cpu-2017/Cinebench-1400.png )](https://www.techspot.com/review/1386-amd-ryzen-5-1400/page2.html)
 
+As you can see from the chart above, the Ryzen 5 1400
 
 
 
