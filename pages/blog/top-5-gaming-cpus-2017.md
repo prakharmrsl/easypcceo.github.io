@@ -120,7 +120,23 @@ As you can see from the chart above, they found that the Ryzen 5 1400 is 26% fas
 
 They also found that overclocking this chip improved performance by 25%. Once again, the easy overclockability of the Ryzen chip proves a strong advantage. 
 
+In addition, the Ryzen 5 1400 features simultaneous multithreading. This means that it has four physical and four theoretical cores, for a total of 8 functional cores. This helps the CPU not only in gaming, but workstation tasks as well. 
+
 The Ryzen 5 1400 destroys the competition, giving it the number 3 spot on this top 5 list. 
 
+Specs: 
+
+* Data Width: 64-bit
+* Socket: AM4
+* Operating Frequency: 3.2 GHz
+* Max Turbo Frequency: 3.4 GHz
+* Cores: 4
+* Lithography: 14 nm
+* TDP: 65 Watts
+* Includes CPU Cooler: Yes 
+* Simultaneous Multithreading: Yes
+* Integrated Graphics: No 
+
+[View on Amazon](http://amzn.to/2v09H4T){: .big-button}
 
 
