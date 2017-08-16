@@ -5,18 +5,6 @@ layout: page
 seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2017 " 
 ---
 
-## What is Ethereum? 
-
-Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/), much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
-
-Ethereum is a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/).
-
-There are real figure heads who run Ethereum, unlike Bitcoin, which is owned by nobody. Ethereum also features decentralized apps. The Ethereum blockchain is the base, and other people can build decentralized blockchains on top of Ethereum. 
-
-Unlike Bitcoin, in the Ethereum blockchain, miners obtain Ether, the crypto token behind the network.  Ethereum's blockchain is its own currency. 
-
-In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders around the world. It has a different cryptocurrency which is Ether. It can be built upon using a decentralized blockchain. Above all, coming soon, Ethereum will move to proof of stake. 
-
 ## Ethereum Mining Hardware 
 
 In order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) (Graphics Processing Unit). Originally, the CPU was used for mining, but miners quickly discovered the GPU was far more efficient and effective for mining. 
@@ -44,6 +32,18 @@ A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://rover.eba
 Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card. 
 
 [Shop Radeon RX 480 GPUs](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961){: .big-button}
+
+## What is Ethereum? 
+
+Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/), much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
+
+Ethereum is a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/).
+
+There are real figure heads who run Ethereum, unlike Bitcoin, which is owned by nobody. Ethereum also features decentralized apps. The Ethereum blockchain is the base, and other people can build decentralized blockchains on top of Ethereum. 
+
+Unlike Bitcoin, in the Ethereum blockchain, miners obtain Ether, the crypto token behind the network.  Ethereum's blockchain is its own currency. 
+
+In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders around the world. It has a different cryptocurrency which is Ether. It can be built upon using a decentralized blockchain. Above all, coming soon, Ethereum will move to proof of stake. 
 
 ## Ethereum Mining Profitability 
 
