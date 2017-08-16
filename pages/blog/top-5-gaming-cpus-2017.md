@@ -139,7 +139,8 @@ Specs:
 
 [View on Amazon](http://amzn.to/2v09H4T){: .big-button}
 
-## 2. [Ryzen 5 1600X - $230](http://amzn.to/2fKdkds) 
+## 2. [Ryzen 5 1600X - $230](http://amzn.to/2fKdkds)![Ryzen 5 1600X](/img/blog/top-cpu-2017/ryzen5-1600x.jpg){: .img-right .img-small}
+
 Yes, another Ryzen CPU is on this list. I'm sure you'll be able to guess what the number 1 CPU on the list will be. 
 
 Ryzen has secured four out of five of the spots on the list because AMD took a huge step forward. They destroyed all of the competition from team blue. 
@@ -154,7 +155,28 @@ The Ryzen 5 1600X has a massive 16 MB cache. In addition, it has all of the feat
 
 The Ryzen 5 1600X is a great chip, especially when overclocked. I'd recommend overclocking any Ryzen chip you have, as this is how they really outperform Intel CPUs. 
 
+In terms of performance per dollar, the Ryzen 5 1600X is unrivaled by any gaming CPU on the market. 
 
+Though this chip is not necessarily as powerful as a Ryzen 7 chip, it gets the job done. You don't really need the fastest CPU on the market for gaming. In fact, as long as your CPU doesn't bottleneck, it'll be fine. 
+
+However, if you want the best possible performance, obviously a faster CPU is optimal. If you're spending over $200 on a CPU, your budget is probably high. That being said, a faster CPU provides a better experience in workstation tasks, as well as in CPU demanding titles.
+
+Remember, of course, that any well optimized PC game will mainly utilize the GPU. If you're on a budget, it's better to get a slower CPU and a faster GPU. However, if the Ryzen 5 1600X is in the budget, it's definitely a great choice. 
+
+Specs: 
+
+* Data Width: 64-bit
+* Socket: AM4
+* Operating Frequency: 3.6 GHz
+* Max Turbo Frequency: 4.0 GHz
+* Cores: 6
+* Lithography: 14 nm
+* TDP: 95 Watts
+* Includes CPU Cooler: No
+* Simultaneous Multithreading: Yes
+* Integrated Graphics: No 
+
+[View on Amazon](http://amzn.to/2v09H4T){: .big-button}
 
 
 
