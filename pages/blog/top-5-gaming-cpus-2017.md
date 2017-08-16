@@ -147,9 +147,9 @@ Ryzen has secured four out of five of the spots on the list because AMD took a h
 
 They Ryzen 5 1600X is easily the best choice for anyone looking to build a great gaming PC. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mbK0n5FjvhI" frameborder="0" allowfullscreen></iframe>
-
 This CPU has six cores and twelve threads, rendering it not only excellent for gaming, but able to dominate workstation tasks including streaming, recording, editing, etc. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbK0n5FjvhI" frameborder="0" allowfullscreen></iframe>
 
 The Ryzen 5 1600X has a massive 16 MB cache. In addition, it has all of the features of Ryzen 7.
 
