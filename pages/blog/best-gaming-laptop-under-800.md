@@ -25,29 +25,39 @@ The answer is yes.
 
 This gaming laptop is insanely powerful given its relatively low price tag. 
 
-It rocks a 15.6" 1080p display. It has a Kaby Lake core i5 quad core processor and GTX 1050 graphics. 
+### Display
 
-Unlike most laptops, this laptop has plenty of USB ports as well as an HDMI port. 
+It rocks a 15.6" 1080p display. It has as 60 Hz refresh rate which is great for gamers. 
+
+Unfortunately the viewing angle isn't amazing, but it's not a big deal for a gaming PC.
 
 ![Dell Inspiron 15-7000](/img/gaming-laptop/dell-inspiron-15-7000.jpg){: .img-right}
 
+### Keyboard/Mousepad 
+
 The keyboard is backlit, and it has a solid construction. Not the best keyboard on the market, but the keys are definitely crisp and responsive.
 
-The mousepad is quite responsive, and clicks feel crisp. It's not a cheap mousepad that will break shortly after purchase.
+The mousepad is quite responsive, and the tracking is precise. It's not a cheap mousepad that will break shortly after purchase.
+
+### Sound System
 
 There's something else really cool about this laptop:
 
 It actually has a solid sound system. The bottom of the laptop has a small sub, which provides crisper and more defined sound. 
 
+### Webcam/Microphone
+
 This laptop also comes with a 720p webcam and a built in microphone. The webcam works well for video calls, but I wouldn't recommend recording with it. The same can be said about the mic. 
 
-Here's the best part:
+### Internal Specifications
 
 The laptop is rocking a core i5-7300HQ quad core Kaby Lake CPU. It also has dedicated GTX 1050 graphics, 8 GB of DDR4 ram, and a 256GB SSD. 
 
-As you can probably tell, you're getting an extremely powerful laptop for a great price. This laptop is more than capable of 1080p gaming. 
+As you can probably tell, you're getting an extremely powerful laptop for a great price. This laptop is more than capable of 1080p gaming.  
 
 This laptop can easily run games like Minecraft, Battlefield 1, Overwatch, GTA V, Rainbow Six Siege, and more. 
+
+### Upgradability
 
 The inside of this laptop leaves lots of room for upgrade. It comes with an empty 2.5" drive bay, allowing for another hard drive to be installed. It also allows an easy RAM upgrade to 16 or even 32 GB.
 
