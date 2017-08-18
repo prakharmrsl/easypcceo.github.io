@@ -105,4 +105,3 @@ Once smart contracts are successfully implemented into mainstream society, the v
 
 
 
-
