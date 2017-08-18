@@ -11,6 +11,8 @@ Why?
 
 Not only are the parts cheaper, they're faster too. 
 
+![Inspiron 15](/img/gaming-laptop/inspiron-15.jpg){: .img-right}
+
 However, if you want power and performance packed into a portable device, a gaming laptop is the choice for you. 
 
 Good gaming laptops are hard to come by. Most of them are either overpriced and slow, or big, bulky, and loud.
