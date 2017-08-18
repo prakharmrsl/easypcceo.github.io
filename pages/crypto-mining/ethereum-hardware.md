@@ -9,6 +9,8 @@ seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2017 "
 
 In order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) (Graphics Processing Unit). Originally, the CPU was used for mining, but miners quickly discovered the GPU was far more efficient and effective for mining. 
 
+![Ethereum Logo](/img/cryptocurrency/ethereum-logo.png){: .img-right .img-small}
+
 Finding the right GPU for mining Ethereum can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
