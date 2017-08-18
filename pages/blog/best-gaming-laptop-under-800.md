@@ -35,11 +35,15 @@ The keyboard is backlit, and it has a solid construction. Not the best keyboard 
 
 The mousepad is quite responsive, and clicks feel crisp. It's not a cheap mousepad that will break shortly after purchase.
 
-This laptop actually has a solid sound system. The bottom of the laptop has a small sub, which provides crisper and more defined sound. 
+There's something else really cool about this laptop:
+
+It actually has a solid sound system. The bottom of the laptop has a small sub, which provides crisper and more defined sound. 
 
 This laptop also comes with a 720p webcam and a built in microphone. The webcam works well for video calls, but I wouldn't recommend recording with it. The same can be said about the mic. 
 
-Getting back to the internal specifications of this laptop, it's rocking a core i5-7300HQ quad core Kaby Lake CPU. It also has dedicated GTX 1050 graphics, 8 GB of DDR4 ram, and a 256GB SSD. 
+Here's the best part:
+
+The laptop is rocking a core i5-7300HQ quad core Kaby Lake CPU. It also has dedicated GTX 1050 graphics, 8 GB of DDR4 ram, and a 256GB SSD. 
 
 As you can probably tell, you're getting an extremely powerful laptop for a great price. This laptop is more than capable of 1080p gaming. 
 
