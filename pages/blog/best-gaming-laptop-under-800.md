@@ -107,4 +107,3 @@ All in all, if you're looking for a superb portable gaming machine, this laptop 
 
 [View on Amazon](http://amzn.to/2vFtMkF){: .big-button}
 
-
