@@ -27,6 +27,8 @@ It rocks a 15.6" 1080p display. It has a Kaby Lake core i5 quad core processor a
 
 Unlike most laptops, this laptop has plenty of USB ports as well as an HDMI port. 
 
+![Dell Inspiron 15-7000](/img/gaming-laptop/dell-inspiron-15-7000.jpg){: .img-right}
+
 The keyboard is backlit, and it has a solid construction. Not the best keyboard on the market, but the keys are definitely crisp and responsive.
 
 The mousepad is quite responsive, and clicks feel crisp. It's not a cheap mousepad that will break shortly after purchase.
