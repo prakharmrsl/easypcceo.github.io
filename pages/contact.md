@@ -4,7 +4,11 @@ permalink: "/contact/"
 layout: page
 seotitle: "Contact Easy PC" 
 ---
-You can use this form to get in contact with Easy PC: 
+You can contact me with any questions, comments, or concerns at the following address: 
+
+** jacob.tuwiner@easypc.io ** 
+
+Or you can use this form to get in contact with me: 
 
 <div class="well">
 <div class="contact">
