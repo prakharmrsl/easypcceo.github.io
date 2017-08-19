@@ -6,7 +6,7 @@ seotitle: "Contact Easy PC"
 ---
 You can contact me with any questions, comments, or concerns at the following address: 
 
-** jacob.tuwiner@easypc.io ** 
+**jacob.tuwiner@easypc.io** 
 
 Or you can use this form to get in contact with me: 
 
