@@ -186,7 +186,7 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 
 ## How to Build a Dirt Cheap Gaming PC in 3 Easy Steps
 
-![CHEAP PC INFOGRAPHIC](/img/budget-pc-tips.jpg)
+![CHEAP PC INFOGRAPHIC](/img/infographic/8-tips-for-budget-pc-building.png)
 
 If you're on an extremely low budget, there are still options for you if you're interested in building a gaming PC. 
 
