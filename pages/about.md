@@ -14,9 +14,15 @@ Unfortunately, I couldn't find all the information I needed in one place. I want
 
 I decided to make this website to bring all of the information you need in one place. 
 
-### More Information
+## More Information
 
 I have a passion for film, and computers. I love PC gaming and learning more about the newest technology out there. 
+
+## Disclaimer
+
+This site is affiliated with Amazon. Commissions are earned from purchases as a direct result of clicking the affiliate links on this site. 
+
+Keep in mind that the price you pay is the same. The items cost the same no matter what. 
 
 ### Contact me
 
