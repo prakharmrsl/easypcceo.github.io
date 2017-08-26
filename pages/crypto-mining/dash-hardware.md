@@ -74,6 +74,8 @@ You can find other X11 mining cards below:
 
 ![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
 
+Feel free to [contact me](/contact/) about using this infographic on your website!
+
 ## Dash Mining Pools 
 
 Joining a Dash pool will help to ensure more consistent success. Instead of just you mining on your own, you can team up with other people also looking to mine Dash. This makes the process of mining much quicker. 
