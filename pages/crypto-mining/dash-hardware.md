@@ -72,6 +72,8 @@ You can find other X11 mining cards below:
 
 ![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
 
+---
+
 
 ## Dash Mining Pools 
 
