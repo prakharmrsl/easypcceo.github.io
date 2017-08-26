@@ -11,9 +11,9 @@ Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/eth
 
 These cards are the fastest and most power efficient solution to mining cryptocurrency. 
 
-Here are 3 of the best Dash mining ASICs and GPUs:  
+## Dash Mining Hardware
 
-## [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+### [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 The Baikal Mini [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit) miner is easily one of the most efficient ASIC miners on the market today. 
 
@@ -27,7 +27,7 @@ Considering it only uses 75 watts, it is obvious to see why this is a great mine
 
 [Shop Baikal Mini ASIC Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-## [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+### [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 This ASIC features extremely low power consumption of 216 W from the wall with a hash rate of 900 MH/s.
 
@@ -45,7 +45,7 @@ With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a
 
 [Shop Baikal Giant A900 ASIC Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-## [iBelink DM11G Dash X11 ASIC Miners](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
+### [iBelink DM11G Dash X11 ASIC Miners](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
 
 NOTE: The above website is in russian. The Google Translate extension can be added to chrome. This will allow you to translate the page to English.
 It is easy to setup. Simply connect a power cable and an ethernet cable to begin mining. 
@@ -69,6 +69,8 @@ You can find other X11 mining cards below:
 * [XFX 7990 (21.8 Mh/s for X11)](https://www.amazon.com/gp/product/B00HGLNOHW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HGLNOHW&linkCode=as2&tag=cryptocurrency06-20&linkId=d63949615ea948e49a2b3bd223d34998)
 * [SAPPHIRE R9 Nano (20 Mh/s for X11)](https://www.amazon.com/gp/product/B015121DMA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015121DMA&linkCode=as2&tag=cryptocurrency06-20&linkId=353099044be8d6cf91a42e810e5ba223)
 * [GIGABYTE R9 390 (14 Mh/s for x11)](https://www.amazon.com/gp/product/B00ZU48KFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZU48KFI&linkCode=as2&tag=cryptocurrency06-20&linkId=81de325a93a9def050f74f853181e035)
+
+![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
 
 
 ## Dash Mining Pools 
