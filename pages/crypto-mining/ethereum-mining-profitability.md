@@ -21,13 +21,13 @@ Take a look at the graphic below:
 
 ![Ethereum Mining Profitability](/img/cryptocurrency/ethereum-mining-profitability.png)
 
-This is the projected mining profitability of the [Radeon R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295+X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). As you can see, you'll make over $800 USD annually per card. This means you'll break even in less than a year and generate a passive income. 
+This is the projected mining profitability of the [Radeon R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295+X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). As you can see, you'll make over $800 USD annually per card. This means you'll break even in less than a year and generate passive income. 
 
 Since the price of Ethereum is steadily rising, your profit margin will increase even more. 
 
 ## Why is Ethereum so Popular?  
 
-Ethereum is similar to Bitcoin, yet it has two key differences that have been crucial for its success. Smart Contracts and the shift to proof of stake. 
+Ethereum is similar to Bitcoin, yet it has two key differences that have been crucial for its success: Smart Contracts and the shift to proof of stake. 
 
 ## Smart Contracts
 
