@@ -13,7 +13,7 @@ In order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wi
 
 Finding the right GPU for mining Ethereum can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
 
-As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
+As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
 Here are the 3 best Ethereum mining GPUs in 2017: 
 
@@ -49,7 +49,7 @@ In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders 
 
 ## Ethereum Mining Profitability 
 
-Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment. 
+Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
 Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
 

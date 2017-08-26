@@ -37,7 +37,7 @@ This is revolutionary in the world of cryptocurrencies and opens many doors for 
 
 ## Proof of Work
 
-Ethereum's second key difference from Bitcoin is its shift from proof-of-work to proof-of-stake. 
+Ethereum's second key difference from Bitcoin is its shift from proof of work to proof of stake. 
 
 Before you can understand proof of stake, you must understand proof of work. 
 
@@ -46,10 +46,6 @@ Blockchain technology was created in 2009 when Bitcoin was released.
 In essence, a blockchain is a database. In the world of cryptocurrencies, the blockchain is a database of transactions. 
 
 If someone tries to initiate an invalid transaction, the blockchain's code will determine that it's invalid and it will reject the transaction. 
-
-## What is Proof of Work? 
-
-Proof of work is the method in which miners prove that a transaction is valid. 
 
 If someone were to say they mine Bitcoin, Ethereum, Litecoin, etc. it means they are setting their computer to solve the cryptocurrency's algorithm. 
 
