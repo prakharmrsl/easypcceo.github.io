@@ -22,7 +22,7 @@ I have a passion for film, and computers. I love PC gaming and learning more abo
 
 This site is affiliated with Amazon. Commissions are earned from purchases as a direct result of clicking the affiliate links on this site. 
 
-Keep in mind that the price you pay is the same. The items cost the same no matter what. 
+Keep in mind that the price you pay is the same. 
 
 ### Contact me
 
