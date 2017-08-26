@@ -9,7 +9,7 @@ The value of dash is on the rise, and the time is now to get in on the action. D
 
 Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/) ASIC cards can be used to mine Dash. 
 
-These cards are the fastest and most power efficient solution to mining cryptocurrency. 
+These cards are the fastest and most power efficient solution for mining cryptocurrency. 
 
 ## Dash Mining Hardware
 
