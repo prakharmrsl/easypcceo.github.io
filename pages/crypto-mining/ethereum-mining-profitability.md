@@ -2,7 +2,7 @@
 title: The Profitability of Mining Ethereum in 2017 
 permalink: "/crypto-mining/ethereum-mining-profitability/"
 layout: page
-seotitle: "3 Reasons Why Ethereum Mining is Profitable in 2017" 
+seotitle: "Ethereum's Mining Profitability in 2017" 
 ---
 
 Ethereum is second only to Bitcoin in value. Mining Ethereum has driven the prices of GPUs sky high (see our guide on [Ethereum mining GPUs](/crypto-mining/ethereum-hardware/)). 
@@ -69,7 +69,7 @@ The last item on the list is extremely important. The total power cost to run al
 
 This is especially problematic from a long term standpoint. In 5 to 10 years, more power may be needed to mine than we have. 
 
-## What is Proof of Stake, and Why is it so Great?
+## What is Proof of Stake?
 
 With proof of stake, your computer/wallet is staking the coins you already have. 
 
