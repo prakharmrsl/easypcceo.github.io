@@ -103,4 +103,3 @@ Once smart contracts are successfully implemented into mainstream society, the v
 
 [You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
 
-
