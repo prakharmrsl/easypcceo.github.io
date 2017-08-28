@@ -134,4 +134,3 @@ If, for example, you bought coins online, and they were previously used on the S
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
 
-
