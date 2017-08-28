@@ -3,13 +3,17 @@ title: Dash ASICs and GPUs
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
 seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017" 
----
-
-The value of dash is on the rise, and the time is now to get in on the action. Dash mining in 2017 is extremely profitable. 
+--- 
 
 Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/) ASIC cards can be used to mine Dash. 
 
-These cards are the fastest and most power efficient solution for mining cryptocurrency. 
+These cards are the fastest and most power efficient solution for mining cryptocurrency.
+
+Before you start mining, you'll probably want to know if it's worth your money. 
+
+## Is Dash Mining Profitable? 
+
+The value of dash is on the rise, and the time is now to get in on the action. Dash mining in 2017 is extremely profitable. 
 
 ## Dash Mining Hardware
 
@@ -47,10 +51,7 @@ With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a
 
 ### [iBelink DM11G Dash X11 ASIC Miners](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
 
-NOTE: The above website is in russian. The Google Translate extension can be added to chrome. This will allow you to translate the page to English.
 It is easy to setup. Simply connect a power cable and an ethernet cable to begin mining. 
-
-![DM11G](/img/cryptocurrency/gpu/dm11g.jpg "iBelink DM11G"){: .img-medium-large}
 
 This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wall. Considering the hash rate of this miner, the true value of it is evident. This miner can be used in large scale mining farms, or at home. 
 
@@ -71,6 +72,12 @@ You can find other X11 mining cards below:
 * [GIGABYTE R9 390 (14 Mh/s for x11)](https://www.amazon.com/gp/product/B00ZU48KFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZU48KFI&linkCode=as2&tag=cryptocurrency06-20&linkId=81de325a93a9def050f74f853181e035)
 
 ---
+
+## How to Mine Dash 
+
+If you're a beginner, mining for the first time can be a bit tricky. 
+
+Fortunately, the infographic below will teach you how to mine Dash!
 
 ![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
 

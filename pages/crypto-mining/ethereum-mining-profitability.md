@@ -2,7 +2,7 @@
 title: The Profitability of Mining Ethereum in 2017 
 permalink: "/crypto-mining/ethereum-mining-profitability/"
 layout: page
-seotitle: "Ethereum's Mining Profitability in 2017" 
+seotitle: "3 Reasons Why Ethereum Mining is Profitable in 2017" 
 ---
 
 Ethereum is second only to Bitcoin in value. Mining Ethereum has driven the prices of GPUs sky high (see our guide on [Ethereum mining GPUs](/crypto-mining/ethereum-hardware/)). 
@@ -27,7 +27,7 @@ Since the price of Ethereum is steadily rising, your profit margin will increase
 
 ## Why is Ethereum so Popular?  
 
-Ethereum is similar to Bitcoin, yet it has two key differences that have been crucial for its success: Smart Contracts and the shift to proof of stake. 
+Ethereum is similar to Bitcoin, yet it has two key differences that have been crucial for its success: [Smart Contracts](https://blockgeeks.com/guides/smart-contracts/) and the shift to [proof of stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/). 
 
 ## Smart Contracts
 
@@ -91,11 +91,11 @@ If you want rewards, you have to own coins beforehand. With proof of work you're
 
 We say the answer is yes.
 
-The ability to write smart contracts is revolutionary. It will completely change the way we make purchases and use our money.
+Regardless of the functionality or importance of smart contracts, lots of people like the idea. This in turn drives the prices of Ethereum higher and higher.
 
 The long term benefits proof of stake has to offer are clear. It will save electricity and lower if not eliminate hardware costs.  
 
-However, mining still has its place in 2017. The shift to proof of stake is by no means mainstream, and we still largely depend on miners to validate the blockchain for most cryptocurrencies. 
+However, mining still has its place in 2017. The shift to proof of stake is by no means mainstream, and we still largely depend on miners to validate the transactions in the [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/).
 
 Smart contracts and proof of stake will cause the value of Ethereum to increase further and further, rendering it an extremely profitable cryptocurrenct to mine. 
 
