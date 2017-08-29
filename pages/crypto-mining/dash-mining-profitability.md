@@ -61,3 +61,4 @@ The official dash website recommends these mining pools:
 * [CoinMine](https://www2.coinmine.pl/dash/)
 * [zpool](http://www.zpool.ca/)
 * [MinerGate](https://minergate.com/)
+
