@@ -65,5 +65,3 @@ The official dash website recommends these mining pools:
 
 
 
-
-
