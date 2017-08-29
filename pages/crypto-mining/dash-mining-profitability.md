@@ -7,8 +7,6 @@ seotitle: "3 Reasons Why Dash Mining is Profitable in 2017"
 
 As of late, the value of dash has been steadily increasing. Furthermore, its X11 algorithm is miner friendly, providing a great return on investment. 
 
-![Dash Mining Profit](/img/cryptocurrency/dash-mining-profit.png){: .img-right}
-
 Since [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s can be used to mine Dash, the ROI (return on investment) is even greater. ASICs are designed specifically for mining. They have the highest hash rates and the lowest power consumption. 
 
 ## Is Dash Mining Profitable? 
@@ -30,6 +28,8 @@ This means the average person looking to mine cryptocurrency can mine this coin 
 * **ASIC Friendly** - Unlike [Ethereum](/crypto-mining/ethereum-hardware/), Dash can be mined with ASICs. They are specifically designed for Dash mining, and have the highest hash rates with the lowest power consumptions. 
 
 * **Increase in Value** - Dash is instantaneous, anonymous, and has extremely low fees. All of these factors contribute to Dash's steadily increasing value. As the value of Dash rises, so does the mining profitability and the return on investment. 
+
+![Dash Mining Profit](/img/cryptocurrency/dash-mining-profit.png){: .img-right}
 
 ## How to Check Your Profitability
 
