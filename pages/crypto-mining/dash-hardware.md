@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017" 
 --- 
 
-Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/) ASIC cards can be used to mine Dash. 
+Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/), ASIC cards can be used to mine Dash. 
 
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
@@ -39,9 +39,9 @@ Considering it only uses 75 watts, it is obvious to see why this is a great mine
 
 ### [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
-This ASIC features extremely low power consumption of 216 W from the wall with a hash rate of 900 MH/s.
+This ASIC features extremely low power consumption, of just 216 W from the wall with a hash rate of 900 MH/s.
 
-This means that you'll get a great return on your investment for the hardware, especially considering the value of Dash is going up. [Cryptocompare](https://www.cryptocompare.com/) estimates an income of about $700 USD per month with this card. 
+You'll get a great return on your investment for the hardware, especially considering the value of Dash is going up. [Cryptocompare](https://www.cryptocompare.com/) estimates an income of about $700 USD per month with this card. 
 
 ![Baikal Giant A900](/img/cryptocurrency/gpu/baikal-giant-a900.jpg "Baikal Giant A900"){: .img-small .img-right}
 
@@ -58,6 +58,8 @@ With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a
 ### [iBelink DM11G Dash X11 ASIC Miners](http://bitbaza.com/shop/25/desc/ibelinkdm11g)
 
 It is easy to setup. Simply connect a power cable and an ethernet cable to begin mining. 
+
+![Pickaxe](/img/cryptocurrency/pick.png){: .img-right .img-small}
 
 This miner has a hash rate of 10,800 MH/s, while only consuming 810 W at the wall. Considering the hash rate of this miner, the true value of it is evident. This miner can be used in large scale mining farms, or at home. 
 
@@ -110,7 +112,7 @@ You don't want to mine for a pool that suddenly increases its fees. Moreover, yo
 
 Dash uses the [X11 algorithm](https://www.cryptocoinsnews.com/pros-cons-x11-algorithm/), which is becoming more popular every day. This algorithm is secure, effective, and has a relatively low power cost. 
 
-The best part about the X11 algorithm is its purpose. It is everything Bitcoin was intended to be. Decentralizing hashing power by making it easier to mine. 
+The best part about the X11 algorithm is its purpose: everything Bitcoin was intended to be. It decentralizes hashing power by making it easier to mine. 
 
 This means the average person looking to mine cryptocurrency can mine this coin without breaking the bank. 
 
