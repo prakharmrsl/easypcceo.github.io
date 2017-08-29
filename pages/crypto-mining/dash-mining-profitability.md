@@ -19,9 +19,17 @@ Yes, yes it is. In fact, Dash is one of the smartest currencies to mine in 2017.
 
 Bitcoin is incredibly difficult to mine. Turning a profit by mining Bitcoin is nearly impossible unless you're mining on a large scale. 
 
-Fortunately, Dash mining is still extremely profitable in 2017. The X11 algorithm The best part about the X11 algorithm was intended to decentralize hashing power by making it easier to mine. 
+Fortunately, Dash mining is still extremely profitable in 2017. Its X11 mining algorithm was intended to decentralize hashing power by making it easier to mine. 
 
 This means the average person looking to mine cryptocurrency can mine this coin without breaking the bank. 
+
+## 3 Factors that Affect the Profitability of Dash Mining: 
+
+* **X11 Algorithm** - Dash's X11 algorithm is relatively easy to mine. This means it can be mined without using lots of electricity, which is one of the main factors to consider when looking at mining profitability 
+
+* **ASIC Friendly** - Unlike [Ethereum](/crypto-mining/ethereum-hardware/), Dash can be mined with ASICs. They are specifically designed for Dash mining, and have the highest hash rates with the lowest power consumptions. 
+
+* **Increase in Value** - Dash is instantaneous, anonymous, and has extremely low fees. All of these factors contribute to Dash's steadily increasing value. As the value of Dash rises, so does the mining profitability and the return on investment. 
 
 ## How to Check Your Profitability
 
@@ -42,8 +50,6 @@ Fortunately, the infographic below will teach you how to mine Dash!
 ![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
 
 Feel free to [contact me](/contact/) about using this infographic on your website!
-
-## Dash Mining Pools 
 
 ## Dash Mining Pools 
 
