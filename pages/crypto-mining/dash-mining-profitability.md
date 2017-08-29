@@ -25,7 +25,7 @@ This means the average person looking to mine cryptocurrency can mine this coin 
 
 ## 3 Factors that Affect the Profitability of Dash Mining: 
 
-* **X11 Algorithm** - Dash's X11 algorithm is relatively easy to mine. This means it can be mined without using lots of electricity, which is one of the main factors to consider when looking at mining profitability 
+* **X11 Algorithm** - Dash's X11 algorithm is relatively easy to mine. This means the MHash/s/$ is high, which is one of the main factors to consider when looking at mining profitability. A lot of dash can be efficiently mined without using too much costly electricity. 
 
 * **ASIC Friendly** - Unlike [Ethereum](/crypto-mining/ethereum-hardware/), Dash can be mined with ASICs. They are specifically designed for Dash mining, and have the highest hash rates with the lowest power consumptions. 
 

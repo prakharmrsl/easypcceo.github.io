@@ -160,7 +160,7 @@ A higher number means your card is more power efficient. If your card is more po
 
 ### MHash/s/$
 
-MHash/s/$ is basically a way for you to see the price to performance ratio of the card. If the number is higher, it means you are getting more for your money. 
+MHash/s/$ is basically a way for you to see the price to performance ratio of the card. If the number is higher, it means you are getting more for your money. A card that uses too much electricity with a low hash rate won't generate much revenue, if any at all. 
 
 It is important to make sure you find a card with a good balance of these stats for the right price. 
 
