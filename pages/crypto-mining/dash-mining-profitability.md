@@ -11,7 +11,7 @@ Since [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s can be used to mine 
 
 ## Is Dash Mining Profitable? 
 
-Yes, yes it is. In fact, Dash is one of the smartest currencies to mine in 2017.
+Yes, yes it is. In fact, Dash is one of the most profitable currencies to mine in 2017.
 
 ![Dash Value 2017](/img/cryptocurrency/dash-value.png)
 
