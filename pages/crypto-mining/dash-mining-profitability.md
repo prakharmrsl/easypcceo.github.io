@@ -15,9 +15,7 @@ Yes, yes it is. In fact, Dash is one of the most profitable currencies to mine i
 
 ![Dash Value 2017](/img/cryptocurrency/dash-value.png)
 
-Bitcoin is incredibly difficult to mine. Turning a profit by mining Bitcoin is nearly impossible unless you're mining on a large scale. 
-
-Fortunately, Dash mining is still extremely profitable in 2017. Its X11 mining algorithm was intended to decentralize hashing power by making it easier to mine. 
+Its X11 mining algorithm was intended to decentralize hashing power by making it easier to mine. 
 
 This means the average person looking to mine cryptocurrency can mine this coin without breaking the bank. 
 
@@ -31,7 +29,7 @@ This means the average person looking to mine cryptocurrency can mine this coin 
 
 ![Dash Mining Profit](/img/cryptocurrency/dash-mining-profit.png){: .img-right}
 
-## How to Check Your Profitability
+## How to Check Your Mining Profitability
 
 Checking your projected Dash mining profitability has never been easier. 
 
