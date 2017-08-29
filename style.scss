@@ -437,3 +437,25 @@ textarea[type="message"] {
   border: 1px solid black;
   border-collapse: collapse;
 }
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #4a8cf7;
+  text-color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #e8e8e8;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+
+#table-header {
+  
+}
