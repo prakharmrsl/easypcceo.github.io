@@ -431,78 +431,9 @@ textarea[type="message"] {
   margin-right: 10px;
 }
 
+/* Table */
 
-
-/* Home Page */
-
-/* Showcase */
-
-#showcase { 
-min-height: 400px;
-background: url('../img/header-image.jpg') no-repeat 0 -400px;
-text-align: center;
-color: #ffffff;
- }
-
- #showcase h1 {
-  margin-top: 100px;
-  font-size: 55px;
-  margin-bottom: 10px;
- }
-
- #showcase p {
-  font-size: 20px;
- }
-
- /* Boxes */ 
-
- #boxes {
-  margin-top: 20px;
- }
-
- #boxes .box { 
- float: left;
- width: 33%;
- padding: 10px;
- text-align: center;
-  }
-
-  #boxes .box img {
-    width: 90px;
-    height: auto;
-  }
-
-  .boxes {
-    text-align: center;
-  }
-
-  .buy-bitcoin {
-    background-color: #e5e5cc;
-    border-radius: 1px;
-  }
-
-#holder {
-  height: auto;
-  width: 250px;
-
-}
-
-#top {
-  width: 248px;
-  height: 30px;
-  border: 1px solid #333;
-
-}
-
-#bottom {
-  width: 248px;
-  height: 10px;
-  border: 1px solid #333;
-}
-
-#holder p {
-  border-left:1px solid #333;
-  border-right:1px solid #333;
-  padding: 10px 15px;
-  margin:0;
+.basic-table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
