@@ -15,25 +15,57 @@ Finding the right GPU for mining Ethereum can be difficult. It is important to b
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
-Here are the 3 best Ethereum mining GPUs in 2017: 
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>GPU</th>
+		<th>Hash Rate</th>
+		<th>Price</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2iGNUyh"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.jpg" /></a></td>
+		<td>Radeon R9 295 X2</td>
+		<td>36 MH/s</td>
+		<td>$1300</td>
+		<td><a class="big-button" href="http://amzn.to/2iGNUyh">Shop Now</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2wRMfMC"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.jpg" /></a></td>
+		<td>Radeon RX 480</td>
+		<td>25 MH/s</td>
+		<td>$510</td>
+		<td><a class="big-button" href="http://amzn.to/2wRMfMC">Shop Now</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2whmu7e"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
+		<td>Radeon HD 7990</td>
+		<td>36 MH/s</td>
+		<td>$900</td>
+		<td><a class="big-button" href="http://amzn.to/2whmu7e">Shop Now</a></td>
+		
+	</tr>
+	
+</table> 
 
 ## Radeon R9 295X2
 
-By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
+By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://amzn.to/2iGNUyh) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
 
-[Shop for Radeon R9 295X2 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Shop for Radeon R9 295X2 GPUs](http://amzn.to/2iGNUyh){: .big-button}
 
 ## Radeon R9 HD 7990 
 
-A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
+A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://amzn.to/2whmu7e) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
 
-[Shop for Radeon R9 HD 7990 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Shop for Radeon R9 HD 7990 GPUs](http://amzn.to/2whmu7e){: .big-button}
 
 ## Radeon RX 480 
 
-Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card.
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://amzn.to/2wRMfMC) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card.
 
-[Shop Radeon RX 480 GPUs](https://www.amazon.com/gp/product/B01K1JTT8S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K1JTT8S&linkCode=as2&tag=cryptocurrency06-20&linkId=3da54cca4c4cef03f5e0a2e8f5ad1961){: .big-button}
+[Shop Radeon RX 480 GPUs](http://amzn.to/2wRMfMC){: .big-button}
 
 ## What is Ethereum? 
 
