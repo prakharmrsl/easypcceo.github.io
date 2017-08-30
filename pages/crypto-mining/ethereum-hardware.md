@@ -49,25 +49,37 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
+## Ethereum Mining Profitability 
+
+Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
+
+Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
+
+![Ethereum Mining ROI](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining ROI")
+
+As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $754.44 USD per card each year. If you invest in multiple cards, you will make even more passive income. 
+
+## 3 Best Ethereum Mining GPUs
+
 Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
 
 However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. 
 
 Below are the 3 best Ethereum mining GPUs:
 
-## Radeon R9 295X2
+### Radeon R9 295X2
 
 By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://amzn.to/2iGNUyh) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
 
 [Shop for Radeon R9 295X2 GPUs](http://amzn.to/2iGNUyh){: .big-button}
 
-## Radeon R9 HD 7990 
+### Radeon R9 HD 7990 
 
 A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://amzn.to/2whmu7e) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
 
 [Shop for Radeon R9 HD 7990 GPUs](http://amzn.to/2whmu7e){: .big-button}
 
-## Radeon RX 480 
+### Radeon RX 480 
 
 Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://amzn.to/2wRMfMC) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card.
 
@@ -84,16 +96,6 @@ There are real figure heads who run Ethereum, unlike Bitcoin, which is owned by 
 Unlike Bitcoin, in the Ethereum blockchain, miners obtain Ether, the crypto token behind the network.  Ethereum's blockchain is its own currency. 
 
 In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders around the world. It has a different cryptocurrency which is Ether. It can be built upon using a decentralized blockchain. Above all, coming soon, Ethereum will move to proof of stake. 
-
-## Ethereum Mining Profitability 
-
-Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
-
-Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
-
-![Ethereum Mining ROI](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining ROI")
-
-As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $754.44 USD per card each year. If you invest in multiple cards, you will make even more passive income. 
 
 ## Benefits of Mining Ethereum
 
