@@ -134,4 +134,3 @@ If you're still reading, I imagine by now you want to invest in Ethereum. It wou
 Once smart contracts are successfully implemented into mainstream society, the value of Ethereum will skyrocket. 
 
 [You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
-
