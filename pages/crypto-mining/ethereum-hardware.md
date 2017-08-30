@@ -49,6 +49,12 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
+Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
+
+However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. 
+
+Below are the 3 best Ethereum mining GPUs:
+
 ## Radeon R9 295X2
 
 By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://amzn.to/2iGNUyh) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
