@@ -62,9 +62,7 @@ Specs:
 
 The Ryzen 3 1200 is easily one of the best choices if you're on a budget.
 
-![Ryzen 3 1200](/img/blog/top-cpu-2017/ryzen3-1200.jpg){: .img-right .img-medium}
-
-
+![Ryzen 3 1200](/img/blog/top-cpu-2017/ryzen3-1200.jpg){: .img-right .img-small}
 
 
 
@@ -74,7 +72,7 @@ After overclocking, the Ryzen 3 1200 achieves similar performance the the 1300X 
 
 Moreover, the Ryzen 3 1200 and 1300X significantly outperform both of Intel's closest offerings. 
 
-![Ryzen 3 Stats](/img/blog/top-cpu-2017/ryzen3-stats.png){: .img-medium .img-left}
+![Ryzen 3 Stats](/img/blog/top-cpu-2017/ryzen3-stats.png){: .img-small .img-left}
 
 Ryzen 3 has 4 true cores, unlike both of Intel's closest offerings. It is also made up of two of AMD's new CCXs or Core Complexes.
 
