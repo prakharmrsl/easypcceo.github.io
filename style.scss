@@ -436,6 +436,7 @@ textarea[type="message"] {
 .basic-table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
+  vertical-align: middle;
 }
 
 th, td {
