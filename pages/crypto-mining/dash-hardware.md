@@ -17,24 +17,28 @@ Before you start mining, you'll probably want to know if it's worth your money.
 	<tr>
 		<th>PIC</th>
 		<th>Miner</th>
+		<th>Hash Rate</th>
 		<th>Price</th>
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2wn6YoE"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td>Antminer D3</td>
-		<td>$1600</td>
+		<td>15 GH/s</td>
+		<td>$7000</td>
 		<td><a class="big-button" href="http://amzn.to/2wn6YoE">Shop</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/baikal-mini.png" /></a></td>
 		<td>Baikal Mini ASIC</td>
+		<td>300 MH/s</td>
 		<td>$550</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/baikal-giant-a900.jpg" /> </a></td>
 		<td>Baikal Giant A900 ASIC</td>
+		<td>900 MH/s</td>
 		<td>$2400</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop </a> </td>
 		
@@ -58,7 +62,7 @@ The Antminer D3 is a brand new ASIC miner and it's by far the best miner on this
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
-This miner will pay itself back in only 6 days. The return on investment you'll see from this miner is absolutely incredible. 
+The initial investment for this ASIC miner is the highest of the three. However, this miner will pay itself back quite quickly. The return on investment you'll see from this miner is absolutely incredible. 
 
 This miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
 
