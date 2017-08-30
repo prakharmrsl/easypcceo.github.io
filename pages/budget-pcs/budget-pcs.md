@@ -2,7 +2,7 @@
 title: Best Budget Gaming PC Builds 2017 
 permalink: "/budget-pcs/"
 layout: page
-seotitle: 5 Best Budget Gaming PCs 2017 
+seotitle: 5 Best Budget Gaming PCs 2017 (Dirt Cheap)
 ---
 
 ## Gaming on a Budget in 2017 Made Easy 
