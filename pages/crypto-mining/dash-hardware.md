@@ -48,7 +48,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 
 ## Is Dash Mining Profitable? 
 
-The value of dash is on the rise, and the time is now to get in on the action. Dash mining in 2017 is extremely profitable (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
+The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
 
 If you use the right mining hardware, you'll see a great return on your investment. 
 
