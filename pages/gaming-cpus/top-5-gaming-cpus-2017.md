@@ -1,6 +1,6 @@
 ---
 title: Gaming CPUs to Look for in 2017 
-permalink: "/blog/top-5-gaming-cpus-2017/"
+permalink: "/gaming-cpus/top-5-gaming-cpus-2017/"
 layout: page
 seotitle: "Top 5 Gaming CPUs in 2017 (Comparison)"
 ---
