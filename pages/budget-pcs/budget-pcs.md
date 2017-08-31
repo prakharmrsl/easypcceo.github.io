@@ -254,8 +254,3 @@ Once you find your GPU for sale on eBay, repeat the last step and await your par
 There you have it, a dirt cheap gaming PC! 
 
 ![CHEAP PC INFOGRAPHIC](/img/infographic/8-tips-for-budget-pc-building.png)
-
-
-
-
-
