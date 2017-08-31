@@ -39,7 +39,7 @@ This PC's base price is $772, and here's what you get for your money:
 
 **PSU:** Corsair 550W Power Supply
 
-The price of $772 is ridiculously high for this PC. You could build a gaming PC for [$500](/budget-pcs/500/) that would be far superior to the X-2. We found all of the components on PCPartPicker for you to see:
+The price of $772 is ridiculously high for this PC. You could build a gaming PC for [$500](/budget-pcs/500/) far superior to the X-2. We found all of the components on PCPartPicker for you to see:
 
 ![PCPartPicker](/img/xidax/cheap-pcpartpicker.png)
 
