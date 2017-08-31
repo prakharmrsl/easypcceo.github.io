@@ -25,14 +25,14 @@ Below are the best gaming PC builds money can buy in 2017.
 
 ### The Extreme Budget Gamer ($400) 
 
-This PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
+This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
 
 [$400 Gaming PC](/budget-pcs/400/){: .big-button}
 
 ### The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 
-The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. 
+The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best cheap gaming PC $500 can buy.
 
 On a budget, $500 is often the amount of money that I recommend people spend. 
 
@@ -43,7 +43,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 ### The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
 
-This PC is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, efficient, and certainly an amazing gaming machine.
+This PC is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, efficient, and cheap.
 
 [$600 Gaming PC](/budget-pcs/600/){: .big-button}
 
@@ -81,7 +81,7 @@ But to enjoy all of these things, you have to spend a ton of money, right?
 
 Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
 
-This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions easily with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. 
+This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions easily with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
 
 ---
 
