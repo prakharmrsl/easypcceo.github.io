@@ -314,7 +314,7 @@ footer {
 }
 
 .img-medium {
-  max-width: 300px;
+  max-width: 250px;
   height: auto;
 }
 
@@ -408,6 +408,22 @@ a:hover {
     color: #4183c4;
 }
 
+.button-long {
+  background: #4183c4 none repeat scroll 0 0;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid #4183c4;
+    width: 100%;
+}
+
+.button-long:hover {
+  background: #fff none repeat scroll 0 0;
+    border: 1px solid #4183c4;
+    color: #4183c4;
+}
+
 input[type="text"], input[type="email"] {
     clear: both;
     margin-bottom: 10px;
@@ -437,6 +453,10 @@ textarea[type="message"] {
   border: 1px solid black;
   border-collapse: collapse;
   vertical-align: middle;
+}
+
+.basic-table {
+  width: 100%;
 }
 
 th, td {

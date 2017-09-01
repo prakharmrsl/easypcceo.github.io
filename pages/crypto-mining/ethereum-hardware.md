@@ -2,7 +2,7 @@
 title: Ethereum Mining Hardware GPUs and ASICs  
 permalink: "/crypto-mining/ethereum-hardware/"
 layout: page
-seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2017 " 
+seotitle: "Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs" 
 ---
 
 ## Ethereum Mining Hardware 
@@ -63,7 +63,7 @@ As you can see, the above graph shows the return on investment of the Radeon R9 
 
 Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
 
-However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. 
+However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/).
 
 Below are the 3 best Ethereum mining GPUs:
 
@@ -139,6 +139,8 @@ It is easy to see how revolutionary this technology is, and how crucial it is to
 
 If you're still reading, I imagine by now you want to invest in Ethereum. It would be a wise choice. 
 
-Once smart contracts are successfully implemented into mainstream society, the value of Ethereum will skyrocket. 
+Many people want Ethereum but become frustrated when mining doesn't yield the amount they had imagined. 
+
+The easiest way to acquire Ethereum and Ethereum Classic is to purchase it. 
 
 [You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
