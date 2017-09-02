@@ -147,7 +147,7 @@ The Hyper T4 is the perfect cooler for anyone looking to build a cheap gaming PC
 
 * **Dimensions:** 131.6 x 72.5 x 152.3 mm
 
-[Read our Review](/cpu-coolers/hyper-t4-review/){: .big-button}
+[Buy it Now](http://amzn.to/2wkfiHv){: .big-button}
 
 ## [Cooler Master Vortex Plus - $26](http://amzn.to/2vGVpYa)
 ![Vortex Plus](/img/cpu-coolers/cooler-master-vortex-plus.png){: .img-left .img-small}
@@ -179,7 +179,7 @@ This is the best choice for enthusiast compact builds. It's tall and designed fo
 
 * **Dimensions:** 65 x 95 x 95 mm
 
-[Read our Review](http://amzn.to/2erMLJM){: .big-button}
+[Buy it Now](http://amzn.to/2erMLJM){: .big-button}
 
 ## [Cryorig H7 - $35](http://amzn.to/2x7fvP5)
 ![Cryorig H7](/img/cpu-coolers/cryorig-h7.png){: .img-left .img-small}
@@ -195,7 +195,7 @@ This CPU is is sporting a unique radiator design which helps to ensure low tempe
 
 * **Dimensions:** 99 x 50.8 x 20.3 mm
 
-[Read our Review](/cpu-coolers/cryorig-h7-review/){: .big-button}
+[Buy it Now](http://amzn.to/2x7fvP5){: .big-button}
 
 ## [Cooler Master GeminII M4 - $36](http://amzn.to/2x7Lizj)
 ![Geminii](/img/cpu-coolers/cooler-master-geminii-m4.png){: .img-right .img-smallss}
@@ -211,4 +211,5 @@ The Cooler Master GeminII M4 is the last CPU cooler on this list. Once again, it
 
 * **Dimensions:** 137 x 122 x 59mmss
 
-[Read our Review](/cpu-coolers/geminii-m4-review/){: .big-button}
+[Buy it Now](http://amzn.to/2x7Lizj){: .big-button}
+
