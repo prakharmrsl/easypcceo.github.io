@@ -1,8 +1,8 @@
 ---
-title: Ethereum Mining Hardware GPUs and ASICs  
+title: Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs 
 permalink: "/crypto-mining/ethereum-hardware/"
 layout: page
-seotitle: "Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs" 
+seotitle: "3 Best Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs 2017" 
 ---
 
 ## Ethereum Mining Hardware 
