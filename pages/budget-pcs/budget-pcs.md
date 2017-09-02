@@ -36,7 +36,7 @@ The secret to building a great gaming computer is finding the perfect balance of
 
 On a budget, $500 is often the amount of money that I recommend people spend. 
 
-You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
+You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. This is the best cheap gaming PC you'll find for $500. 
 
 [$500 Gaming PC](/budget-pcs/500/){: .big-button}
 

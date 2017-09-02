@@ -1,211 +1,214 @@
 ---
-title: Gaming CPUs to Look for in 2017 
-permalink: "/gaming-cpus/top-5-gaming-cpus-2017/"
+title: CPU Coolers to Look out for Under $50 in 2017
+permalink: "/cpu-coolers/"
 layout: page
-seotitle: "Top 5 Gaming CPUs in 2017 (Comparison)"
+seotitle: "7 Best CPU Coolers under $50 in 2017 (Comparison)"
 ---
 
-The CPU market has taken a huge step forward ever since the launch of Ryzen 3. PC gaming on a budget has never been easier. 
+The CPU cooler is a crucial component of any PC. A CPU cannot operate without a CPU cooler. It'll overheat within minutes. 
+
+![CPU Egg](/img/cpu-coolers/cpu-egg.jpg){: .img-middle}
+
+In fact, you can fry an egg on a CPU that is running without a CPU cooler. Crazy right? 
+
+If your CPU doesn't stay cool it'll shut itself off to prevent damgage. If you want your CPU to function properly, you'll need a proper CPU cooler. 
+
+## Things to Consider 
+
+There are many factors to consider when buying a CPU cooler for your rig. 
 
-The last time I made a list of the top 5 best gaming CPUs, Ryzen 3 wasn't released. Actually, I didn't even include Ryzen 5 in my list. As this is obviously unacceptable, it's time for the top 5 best gaming CPUs of 2017. 
+Air coolers and water coolers from low end coolers designed for a cheap gaming PC all the way up to expensive coolers for highly overclocked PCs. 
+
+### Air Coolers 
 
-Keep in mind that this list isn't necessarily in order from worst to best, but more so in order of price to performance. These are the best CPUs for gaming in 2017. 
+Air coolers are the most common CPU cooling systems. They are cheaper and easier to install than liquid cooling systems. 
 
-These aren't necessarily the fastest processors in the world, but they're the best bang for your buck.
+While they may not be as effective as a water cooling system, they still get the job done. 
 
-## 5. [Pentium G4560 ($80)](http://amzn.to/2i4vwPM) 
+Air cooling units have a heat conducting block which absorbs the heat radiated by the CPU. From here, it sends the heat up through the CPU fan and out through the PC's exhaust vent. 
 
-The Pentium G4560 definitely still has a place on the top 5 list. This CPU is less than $100, and still can compete with i3 CPUs. 
+Air coolers are typically the best route to go if you're a new builder. Even if you have some experience under your belt, a water cooling unit can be a hassle, and it's often unnecessary. 
 
-![Pentium G4560](/img/blog/top-cpu-2017/pentium-g4560.jpg){: .img-small .img-right}
+Air CPU coolers are cheap, easy, and efficient. 
 
-In fact, it can keep up with CPUs such as the Intel i3-7100 in gaming related tasks. Furthermore, for $80, it really holds its own in other workstation tasks as well. 
+### Water Coolers 
 
-Intel definitely saw Ryzen coming and decided to implement hyperthreading with their Pentium CPUs. This blurred the lines between Pentium and core i3. 
+Liquid cooling units are popular among enthusiast builders as they are more efficient and leave the case looking clean and empty. 
 
-Especially after the release of Ryzen 3, it makes no sense to purchase an i3 CPU. Either go for the Pentium G4560, or go for the Ryzen 3. 
+The cooling process is obviously different, using liquid coolant which is driven to the case fans that exhaust the heat. 
 
-The reason the Pentium G4560 made the list is because of its insane price to performance ratio. Since it has 4 threads, it performs extremely well in gaming. 
+While air coolers do a great job and even support some [overclocking](https://www.howtogeek.com/165064/what-is-overclocking-the-absolute-beginners-guide-to-understanding-how-geeks-speed-up-their-pcs/), if you truly want to push your CPU to its max potential, you'll probably want a liquid cooler. 
 
-We'd recommend spending the extra money on the Ryzen 3 1200, but if you really can't afford it, the Pentium G4560 will do just fine.  
+They're especially beneficial when you buy an expensive [unlocked CPU](http://www.velocitymicro.com/blog/intel-processors-locked-vs-unlocked-processor/) from Intel. You'll want the most from your money, and overclocking is the way to go. After all, these K model CPUs were designed with overclocking in mind. 
 
-The Pentium G4560 may not be as powerful as the i3-7100, but it's extremely close. Furthermore, if you look at it from a price to performance standpoint, the G4560 makes much more sense. 
+You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/show/11244/the-amd-ryzen-5-1600x-vs-core-i5-review-twelve-threads-vs-four/17) CPUs as they're extremely overclocker friendly. 
 
-If you want the most bang from your buck, go with the Pentium G4560. Below is a graph comparing the multithreaded performance of the Pentium G4560 and the i3-7100. 
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>Cooler</th>
+		<th>Price</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2erLjHh"><img class="table-image" src="/img/cpu/212-evo.jpg" /></a></td>
+		<td><a href="http://amzn.to/2erLjHh">Cooler Master Hyper 212 Evo</a></td>
+		<td>$30</td>
+		<td><a class="big-button" src="http://amzn.to/2erLjHh">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2wkfiHv"><img class="table-image" src="/img/cpu-coolers/hyper-t4.png" /></a></td>
+		<td><a href="http://amzn.to/2wkfiHv">Cooler Master Hyper T4</a></td>
+		<td>$25</td>
+		<td><a class="big-button" href="http://amzn.to/2wkfiHv">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
+		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
+		<td>$48</td>
+		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2x7fvP5"><img class="table-image" src="/img/cpu-coolers/cryorig-h7.png" /></a></td>
+		<td><a href="http://amzn.to/2x7fvP5">Cryorig H7</a></td>
+		<td>$35</td>
+		<td><a class="big-button" href="http://amzn.to/2x7fvP5">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2vGVpYa"><img class="table-image" src="/img/cpu-coolers/cooler-master-vortex-plus.png" /></a></td>
+		<td><a href="http://amzn.to/2vGVpYa">Cooler Master Vortex Plus</a></td>
+		<td>$26</td>
+		<td><a class="big-button" href="http://amzn.to/2vGVpYa">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2x7Lizj"><img class="table-image" src="/img/cpu-coolers/cooler-master-geminii-m4.png" /></a></td>
+		<td><a href="http://amzn.to/2x7Lizj">Cooler Master Geminii M4</a></td>
+		<td>$36</td>
+		<td><a class="big-button" href="http://amzn.to/2x7Lizj">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2erMLJM"><img class="table-image" src="/img/cpu-coolers/Noctua.png" /></a></td>
+		<td><a href="http://amzn.to/2erMLJM">Noctua NH-L9x65</a></td>
+		<td>$49</td>
+		<td><a class="big-button" href="http://amzn.to/2erMLJM">View on Amazon </a></td>
+		
+	</tr>
+	
+</table>
 
-Considering the CPU is hyperthreaded, multithread performance is important. 
+## [Cooler Master Hyper 212 Evo - $30](http://amzn.to/2erLjHh)
+![Hyper 212 Evo](/img/cpu/212-evo.jpg){: .img-small .img-right}
 
-![G4560 Performance Graph](/img/blog/top-cpu-2017/g4560-graph.png)
 
-As you can see in the graph above, the i3-7100 is only 12% faster than the Pentium G4560, but it is 28% more expensive. 
+The Hyper 212 is a one of the most popular CPU coolers in the budget gaming PC world. This cooler is compact, efficient, and best of all it's dirt cheap. 
 
-Evidently, the i3-7100 is not worth your money, especially considering Ryzen 3 outperforms it in nearly every aspect for a lower price tag. 
+* **Compatibility:** Intel® LGA  2066 / 2011-3 / 2011 / 1156 / 1155 / 1151 / 1150, AMD® AM4* / AM3+ / AM3 / AM2+ / FM2+ / FM2 / FM1 socket
 
-In conclusion, if you're on an extremely low budget, the Intel Pentium G4560 is your best friend. 
+* **Fan Speed:** 600 – 2,000 RPM (PWM) ± 10%
 
-Specs: 
+* **Power Consumption:** 12V/2.64W
 
-* Data Width: 64-bit
-* Socket: LGA 1151
-* Operating Frequency: 3.5 GHz
-* Cores: 2
-* Lithography: 14 nm
-* TDP: 54 Watts 
-* Includes CPU Cooler: Yes
-* Simultaneous Multithreading: Yes
-* Maximum Supported Memory: 64 GB 
-* Integrated Graphics: Intel HD Graphics 610
+* **Dimensions:** 120 x 79.7 x 158.5 mm
 
-[View on Amazon](http://amzn.to/2i4vwPM){: .big-button}
+[Read our Review](/cpu-coolers/hyper-212-evo-review/){: .big-button}
 
-## 4. [Ryzen 3 1200 - $110](http://amzn.to/2wO0mPP)
+## [Cooler Master Hyper D92 - $48](http://amzn.to/2xzE0C6)
+![Cooler Master Hyper D92](/img/cpu-coolers/hyper-d92.png){:.img-small .img-left}
 
-The Ryzen 3 1200 is easily one of the best choices if you're on a budget.
 
-![Ryzen 3 1200](/img/blog/top-cpu-2017/ryzen3-1200.jpg){: .img-right .img-small}
+The Cooler Master Hyper D92 is a superb cooler designed for use with mid range builds. This cooler will keep your CPU stable even if you choose to overclock. It's in my personal PC and I absolutely love it. 
 
+* **Compatibility:** Intel® LGA 2066 / 2011-3 / 2011 / 1366 / 1156 / 1155 / 1151 / 1150 / 775, AMD® AM4* / AM3+ / AM3 / AM2+ / AM2 / FM2+ / FM2 / FM1 socket
 
+* **Fan Speed:** 800~2,800 RPM (PWM) ± 10%
 
-Though the performance is similar to the core i3-7100 before overclocking, the Ryzen 3 1200 significantly outperforms the i3-7100 in nearly all aspects when overclocked. 
+* **Power Consumption:** 12V/2.88W
 
-After overclocking, the Ryzen 3 1200 achieves similar performance the the 1300X for a much cheaper price tag. 
+* **Dimensions:** 146.4 x 128.9 x 96.6 mm
 
-Moreover, the Ryzen 3 1200 and 1300X significantly outperform both of Intel's closest offerings. 
+[Read our Review](/cpu-coolers/hyper-d92-review/){: .big-button}
 
-![Ryzen 3 Stats](/img/blog/top-cpu-2017/ryzen3-stats.png){: .img-small .img-left}
 
-Ryzen 3 has 4 true cores, unlike both of Intel's closest offerings. It is also made up of two of AMD's new CCXs or Core Complexes.
+## [Cooler Master Hyper T4 - $25](http://amzn.to/2wkfiHv)
+![Cooler Master Hyper T4](/img/cpu-coolers/hyper-t4.png){: .img-small .img-right}
 
-This means that even though the Ryzen 3 1200 only has half the cache of the Ryzen 5 and 7, it still has all of the same features. 
 
-This includes SenseMI, Precision Boost, and XFR. Considering you're getting all of these awesome features at such a low price, it really is a great value. 
+The Hyper T4 is the perfect cooler for anyone looking to build a cheap gaming PC. It supports light overclocking thanks to its 4 direct touch heatpipes. 
 
-In addition, Ryzen 3's stealth coolers are far better equipped than Intel's stock coolers. They provide quiet and adequate cooling. They even support light overclocking.
+* **Compatibility:** Intel® LGA 2066 / 2011 / 1366 / 1156 / 1155 / 1151 / 1150 / 775, AMD® AM4 / AM3+ / AM3 / AM2 / FM2+ / FM2 / FM1 socket
 
-Ryzen 3 is the king of budget gaming CPUs. If you're on a low budget, I'd highly recommend this CPU. 
+* **Fan Speed:** 600~1800 RPM (PWM) ± 10%
 
-Specs: 
+* **Power Consumption:** 12V/2.64W 
 
-* Data Width: 64-bit
-* Socket: AM4
-* Operating Frequency: 3.1 GHz
-* Max Turbo Frequency: 3.4 GHz 
-* Cores: 4 
-* Lithography: 14 nm
-* TDP: 65 Watts
-* Includes CPU Cooler: Yes
-* Simultaneous Multithreading: No
-* Integrated Graphics: No 
+* **Dimensions:** 131.6 x 72.5 x 152.3 mm
 
-[View on Amazon](http://amzn.to/2wO0mPP){: .big-button}
+[Read our Review](/cpu-coolers/hyper-t4-review/){: .big-button}
 
-## 3. [Ryzen 5 1400 - $160](http://amzn.to/2v09H4T)
-![Ryzen 5 1400](/img/blog/top-cpu-2017/ryzen5-1400.jpg){: .img-small .img-right}
+## [Cooler Master Vortex Plus - $26](http://amzn.to/2vGVpYa)
+![Vortex Plus](/img/cpu-coolers/cooler-master-vortex-plus.png){: .img-left .img-small}
 
-The Ryzen 5 1600 is an excellent choice for a gaming CPU. It is unchallenenged among enthusiast CPUs. 
 
-However, if you can't afford the $220 price tag, the Ryzen 5 1400 is a much more budget oriented option. 
+This CPU cooler is one of the most popular models for compact budget gaming PCs. It's the best cooler you'll find under $30. It's small, queit, and dirt cheap. 
 
-This quad-core CPU is great for those who can't afford the extra $50 for a Ryzen 5 1600. If you're on a tight budget, the extra $50 can be allocated in a more important part of the build, like the GPU. 
+* **Compatibility:** Intel LGA 1366 / 1151 / 1150 / 1155 / 1156 / 775, AMD Socket FM2+ / FM2 / FM1 / AM3+ / AM3 / AM2+ / AM2 / AM1 / 940 / 939 / 754
 
-Still, the Ryzen 5 1400 is a great chip. Compared to Intel's closest offering, the core i5-7400, the Ryzen 5 1400 outperforms team blue once again.
+* **Fan Speed:** 800 - 2800 RPM (PWM)
 
-[Techspot](https://www.techspot.com/review/1386-amd-ryzen-5-1400/page2.html) wrote a great article about this CPU, and provided the chart below. 
+* **Power Consumption:** 12V/3.12W
 
-[![Cinebench 1400](/img/blog/top-cpu-2017/Cinebench-1400.png )](https://www.techspot.com/review/1386-amd-ryzen-5-1400/page2.html)
+* **Dimensions:** 116 x 100 x 84 mm
 
-As you can see from the chart above, they found that the Ryzen 5 1400 is 26% faster than the i5-7400 in multi-threaded workloads. 
+[Read our Review](/cpu-coolers/vortex-plus-review/){: .big-button}
 
-They also found that overclocking this chip improved performance by 25%. Once again, the easy overclockability of the Ryzen chip proves a strong advantage. 
+## [Noctua NH-L9x65 - $49](http://amzn.to/2erMLJM)
+![Noctua NH-L9x65](/img/cpu-coolers/Noctua.png){: .img-right .img-small}
 
-In addition, the Ryzen 5 1400 features simultaneous multithreading. This means that it has four physical and four theoretical cores, for a total of 8 functional cores. This helps the CPU not only in gaming, but workstation tasks as well. 
 
-The Ryzen 5 1400 destroys the competition, giving it the number 3 spot on this top 5 list. 
+This is the best choice for enthusiast compact builds. It's tall and designed for optimal performance. The cooler is quiet, keeping noise below 24 dBa. 
 
-Specs: 
+* **Compatibility:** Intel LGA 2066 / 2011-0 / 2011-3 / 1156 / 1155 / 1151 / 1150, AMD AM2 / AM2+ / AM3 / AM3+ / FM1 / FM2 / FM2+
 
-* Data Width: 64-bit
-* Socket: AM4
-* Operating Frequency: 3.2 GHz
-* Max Turbo Frequency: 3.4 GHz
-* Cores: 4
-* Lithography: 14 nm
-* TDP: 65 Watts
-* Includes CPU Cooler: Yes 
-* Simultaneous Multithreading: Yes
-* Integrated Graphics: No 
+* **Fan Speed:** 1800 - 2500 RPM (PWM)
 
-[View on Amazon](http://amzn.to/2v09H4T){: .big-button}
+* **Power Consumption:** 12V/2.52W
 
-## 2. [Ryzen 5 1600X - $230](http://amzn.to/2fKdkds)![Ryzen 5 1600X](/img/blog/top-cpu-2017/ryzen5-1600x.jpg){: .img-right .img-small}
+* **Dimensions:** 65 x 95 x 95 mm
 
-Yes, another Ryzen CPU is on this list. I'm sure you'll be able to guess what the number 1 CPU on the list will be. 
+[Read our Review](http://amzn.to/2erMLJM){: .big-button}
 
-Ryzen has secured four out of five of the spots on the list because AMD took a huge step forward. They destroyed all of the competition from team blue. 
+## [Cryorig H7 - $35](http://amzn.to/2x7fvP5)
+![Cryorig H7](/img/cpu-coolers/cryorig-h7.png){: .img-left .img-small}
 
-They Ryzen 5 1600X is easily the best choice for anyone looking to build a great gaming PC. 
 
-This CPU has six cores and twelve threads, rendering it not only excellent for gaming, but able to dominate workstation tasks including streaming, recording, editing, etc. 
+This CPU is is sporting a unique radiator design which helps to ensure low temperatures. The cooler is quiet and perfect for small cases. Four aerodynamic air inlets provide extra air intake, further reducing the CPU's temperature. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mbK0n5FjvhI" frameborder="0" allowfullscreen></iframe>
+* **Compatibility:** Intel LGA 1150 / LGA1155 / LGA1156, AMD AM2 / AM2+ / AM3 / AM3+ / FM1 / FM2 / FM2+
 
-The Ryzen 5 1600X has a massive 16 MB cache. In addition, it has all of the features of Ryzen 7.
+* **Fan Speed:** 330 - 1600 RPM (PWM)
 
-The Ryzen 5 1600X is a great chip, especially when overclocked. I'd recommend overclocking any Ryzen chip you have, as this is how they really outperform Intel CPUs. 
+* **Power Consumption:** 12V/2.5W
 
-In terms of performance per dollar, the Ryzen 5 1600X is unrivaled by any gaming CPU on the market. 
+* **Dimensions:** 99 x 50.8 x 20.3 mm
 
-Though this chip is not necessarily as powerful as a Ryzen 7 chip, it gets the job done. You don't really need the fastest CPU on the market for gaming. In fact, as long as your CPU doesn't bottleneck, it'll be fine. 
+[Read our Review](/cpu-coolers/cryorig-h7-review/){: .big-button}
 
-However, if you want the best possible performance, obviously a faster CPU is optimal. If you're spending over $200 on a CPU, your budget is probably high. That being said, a faster CPU provides a better experience in workstation tasks, as well as in CPU demanding titles.
+## [Cooler Master GeminII M4 - $36](http://amzn.to/2x7Lizj)
+![Geminii](/img/cpu-coolers/cooler-master-geminii-m4.png){: .img-right .img-smallss}
 
-Remember, of course, that any well optimized PC game will mainly utilize the GPU. If you're on a budget, it's better to get a slower CPU and a faster GPU. However, if the Ryzen 5 1600X is in the budget, it's definitely a great choice. 
 
-Specs: 
+The Cooler Master GeminII M4 is the last CPU cooler on this list. Once again, it's an awesome compact CPU cooler. It features an extremely small fan, perfect for micro-ATX builds. 
 
-* Data Width: 64-bit
-* Socket: AM4
-* Operating Frequency: 3.6 GHz
-* Max Turbo Frequency: 4.0 GHz
-* Cores: 6
-* Lithography: 14 nm
-* TDP: 95 Watts
-* Includes CPU Cooler: No
-* Simultaneous Multithreading: Yes
-* Integrated Graphics: No 
+* **Compatibility:** Intel Socket LGA 2066 / 2011 / 1366 / 1155 / 1151 / 1150 / 775, AMD Socket FM2+ / FM2 / FM1 / AM3+ / AM3 / AM2+ / AM2
 
-[View on Amazon](http://amzn.to/2v09H4T){: .big-button}
+* **Fan Speed:** 500 - 1,600 RPM (PWM) ± 10%
 
-## 1. [Ryzen 7 1700 - $290](http://amzn.to/2x2KLLx)
-![Ryzen 7 1700](/img/blog/top-cpu-2017/ryzen7.jpg){: .img-right .img-small}
+* **Power Consumption:** 12V/2.4W
 
+* **Dimensions:** 137 x 122 x 59mmss
 
-The number one spot on this list goes to the Ryzen 7 1700. This CPU is an excellent choice, as it keeps up with the core i7-7700k for a lower price.
-
-Since it has 8 cores and 16 threads, it's an extremely futureproof chip. 
-
-I recommend you overclock the Ryzen 7 1700 to get the best performance per dollar. Though it falls behind the i7-7700k in some titles, it's not by much.
-
-In terms of performance per dollar, the Ryzen 7 1700 is definitely the way to go, especially from a long term perspective. 
-
-It is easy to see games in the future utilizing more than four cores. That being said, this CPU will last you a long time. 
-
-The 8 core, 16 thread CPU is perfect for heavy hitting workstation tasks. It is excellent for streaming, rendering, editing, and recording; it'll tackle anything you throw at it. 
-
-Specs: 
-
-* Data Width: 64-bit
-* Socket: AM4
-* Operating Frequency: 3.0 GHz
-* Max Turbo Frequency: 3.7 GHz
-* Cores: 8
-* Lithography: 14 nm
-* TDP: 65 Watts
-* Includes CPU Cooler: Yes
-* Simultaneous Multithreading: Yes
-* Integrated Graphics: No 
-
-[View on Amazon](http://amzn.to/2x2KLLx){: .big-button}
-
-
-
+[Read our Review](/cpu-coolers/geminii-m4-review/){: .big-button}
