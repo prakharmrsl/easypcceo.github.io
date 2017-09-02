@@ -150,7 +150,7 @@ The Hyper T4 is the perfect cooler for anyone looking to build a cheap gaming PC
 [Buy it Now](http://amzn.to/2wkfiHv){: .big-button}
 
 ## [Cooler Master Vortex Plus - $26](http://amzn.to/2vGVpYa)
-![Vortex Plus](/img/cpu-coolers/cooler-master-vortex-plus.png){: .img-left .img-small}
+![Vortex Plus](/img/cpu-coolers/cooler-master-vortex-plus.png){: .img-right .img-small}
 
 
 This CPU cooler is one of the most popular models for compact budget gaming PCs. It's the best cooler you'll find under $30. It's small, queit, and dirt cheap. 
@@ -198,7 +198,7 @@ This CPU is is sporting a unique radiator design which helps to ensure low tempe
 [Buy it Now](http://amzn.to/2x7fvP5){: .big-button}
 
 ## [Cooler Master GeminII M4 - $36](http://amzn.to/2x7Lizj)
-![Geminii](/img/cpu-coolers/cooler-master-geminii-m4.png){: .img-right .img-smallss}
+![Geminii](/img/cpu-coolers/cooler-master-geminii-m4.png){: .img-small .img-right}
 
 
 The Cooler Master GeminII M4 is the last CPU cooler on this list. Once again, it's an awesome compact CPU cooler. It features an extremely small fan, perfect for micro-ATX builds. 
