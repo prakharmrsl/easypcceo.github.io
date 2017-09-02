@@ -95,9 +95,8 @@ Straight out of the box you'll receive the CM Hyper 212 Evo, the user manual wit
 
 In addition, you'll receive all the screws and bolts needed for installation, and a small syringe of thermal paste.
 
-<div class="center">
-![Hyper 212 Evo Box contents](/img/cpu-coolers/cm-212-evo-box.jpg){: .img-medium} 
-</div>
+![Hyper 212 Evo Box contents](/img/cpu-coolers/cm-212-evo-box.jpg) 
+
 ## Installation 
 
 The installation process of this cooler is simple and easy. All of the installation requirements are included in the box. 
