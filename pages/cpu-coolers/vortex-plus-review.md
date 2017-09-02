@@ -101,7 +101,6 @@ The Vortex Plus ships with mounting brackets that support Intel socket LGA 1366 
 The cooler comes with everything you need to operate and install it. No need to worry about buying any additional parts.
 
 ![Vortex Plus Box](/img/cpu-coolers/vortex-plus-box.jpg){: .img-middle}
-## Installation 
 
 ## Design 
 

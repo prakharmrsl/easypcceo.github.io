@@ -117,7 +117,7 @@ The Hyper 212 is a one of the most popular CPU coolers in the budget gaming PC w
 [Read our Review](/cpu-coolers/hyper-212-evo-review/){: .big-button}
 
 ## [Cooler Master Hyper D92 - $48](http://amzn.to/2xzE0C6)
-![Cooler Master Hyper D92](/img/cpu-coolers/hyper-d92.png){:.img-small .img-left}
+![Cooler Master Hyper D92](/img/cpu-coolers/hyper-d92.png){:.img-small .img-right}
 
 
 The Cooler Master Hyper D92 is a superb cooler designed for use with mid range builds. This cooler will keep your CPU stable even if you choose to overclock. It's in my personal PC and I absolutely love it. 
