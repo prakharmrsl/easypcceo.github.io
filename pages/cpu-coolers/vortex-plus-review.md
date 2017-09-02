@@ -18,7 +18,7 @@ seotitle: "Cooler Master Vortex Plus Review 2017"
 
 Our rating: **3.5/5** 
 
-[Buy Cooler Master Vortex Plus](http://amzn.to/2vGVpYa){: .button-long}
+[Buy Cooler Master Vortex Plus](http://amzn.to/2vGVpYa){: .big-button}
 
 ## The Cooler Master Vortex Plus: Compact & Efficient
 ![Cooler Master Vortex Plus](/img/cpu-coolers/cooler-master-vortex-plus.png){: .img-small .img-right}

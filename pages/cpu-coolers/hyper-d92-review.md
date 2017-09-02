@@ -19,7 +19,7 @@ seotitle: "Cooler Master Hyper D92 Review 2017"
 
 Our rating: **4/5** 
 
-[Buy Cooler Master Hyper D92](http://amzn.to/2xzE0C6){: .button-long}
+[Buy Cooler Master Hyper D92](http://amzn.to/2xzE0C6){: .big-button}
 
 ## The CM 212 Evo's Big Brother: CM Hyper D92 
 ![Cooler Master Hyper D92](/img/cpu-coolers/hyper-d92.png){: .img-right .img-small}

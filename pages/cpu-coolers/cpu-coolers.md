@@ -7,7 +7,7 @@ seotitle: "7 Best CPU Coolers under $50 in 2017 (Comparison)"
 
 The CPU cooler is a crucial component of any PC. A CPU cannot operate without a CPU cooler. It'll overheat within minutes. 
 
-![CPU Egg](/img/cpu-coolers/cpu-egg.jpg){: .img-small .img-left}
+![CPU Egg](/img/cpu-coolers/cpu-egg.jpg){: .img-small .img-right}
 
 In fact, you can fry an egg on a CPU that is running without a CPU cooler. Crazy right? 
 
@@ -17,7 +17,7 @@ If your CPU doesn't stay cool it'll shut itself off to prevent damgage. If you w
 
 There are many factors to consider when buying a CPU cooler for your rig. 
 
-Air coolers and water coolers from low end coolers designed for a cheap gaming PC all the way up to expensive coolers for highly overclocked PCs. 
+There are air coolers and water coolers from low end coolers designed for a cheap gaming PC all the way up to expensive coolers for highly overclocked PCs. 
 
 ### Air Coolers 
 

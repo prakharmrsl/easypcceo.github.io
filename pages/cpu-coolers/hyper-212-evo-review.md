@@ -19,7 +19,7 @@ seotitle: "Cooler Master Hyper 212 Evo Review 2017"
 
 Our rating: **5/5**
 
-[Buy Cooler Master Hyper 212 Evo](http://amzn.to/2erLjHh){: .button-long}
+[Buy Cooler Master Hyper 212 Evo](http://amzn.to/2erLjHh){: .big-button}
 
 ## Hyper 212 Evo: The Best Price to Performance Cooler? 
 ![Hyper 212 Evo](/img/cpu/212-evo.jpg){: .img-small .img-right}
@@ -95,8 +95,9 @@ Straight out of the box you'll receive the CM Hyper 212 Evo, the user manual wit
 
 In addition, you'll receive all the screws and bolts needed for installation, and a small syringe of thermal paste.
 
+<div class="center">
 ![Hyper 212 Evo Box contents](/img/cpu-coolers/cm-212-evo-box.jpg){: .img-medium} 
-
+</div>
 ## Installation 
 
 The installation process of this cooler is simple and easy. All of the installation requirements are included in the box. 
