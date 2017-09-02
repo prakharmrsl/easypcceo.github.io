@@ -56,7 +56,7 @@ The cooler is a great pick for the average gamer. It'll even do well in the hand
 		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
 		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
-		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
 	</tr>
 	<tr>
@@ -192,7 +192,7 @@ This cooler is perfect for the average gamer, and even supports some overclockin
 		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
 		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
-		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
 	</tr>
 	<tr>

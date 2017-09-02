@@ -61,7 +61,7 @@ If you are proactive, you'll probably be able to find the cooler on sale. With m
 		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
 		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
-		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
 	</tr>
 	<tr>
@@ -179,7 +179,7 @@ Still, for just $25, it's a good aftermarket alternative.
 		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
 		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
-		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
 	</tr>
 	<tr>

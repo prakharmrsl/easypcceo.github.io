@@ -7,7 +7,7 @@ seotitle: "7 Best CPU Coolers under $50 in 2017 (Comparison)"
 
 The CPU cooler is a crucial component of any PC. A CPU cannot operate without a CPU cooler. It'll overheat within minutes. 
 
-![CPU Egg](/img/cpu-coolers/cpu-egg.jpg){: .img-middle}
+![CPU Egg](/img/cpu-coolers/cpu-egg.jpg){: .img-small .img-left}
 
 In fact, you can fry an egg on a CPU that is running without a CPU cooler. Crazy right? 
 
@@ -67,7 +67,7 @@ You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/s
 		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
 		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
-		<td><a class="table-image" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
 	</tr>
 	<tr>
@@ -214,3 +214,59 @@ The Cooler Master GeminII M4 is the last CPU cooler on this list. Once again, it
 [Buy it Now](http://amzn.to/2x7Lizj){: .big-button}
 
 
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>Cooler</th>
+		<th>Price</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2erLjHh"><img class="table-image" src="/img/cpu/212-evo.jpg" /></a></td>
+		<td><a href="http://amzn.to/2erLjHh">Cooler Master Hyper 212 Evo</a></td>
+		<td>$30</td>
+		<td><a class="big-button" src="http://amzn.to/2erLjHh">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2wkfiHv"><img class="table-image" src="/img/cpu-coolers/hyper-t4.png" /></a></td>
+		<td><a href="http://amzn.to/2wkfiHv">Cooler Master Hyper T4</a></td>
+		<td>$25</td>
+		<td><a class="big-button" href="http://amzn.to/2wkfiHv">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
+		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
+		<td>$48</td>
+		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2x7fvP5"><img class="table-image" src="/img/cpu-coolers/cryorig-h7.png" /></a></td>
+		<td><a href="http://amzn.to/2x7fvP5">Cryorig H7</a></td>
+		<td>$35</td>
+		<td><a class="big-button" href="http://amzn.to/2x7fvP5">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2vGVpYa"><img class="table-image" src="/img/cpu-coolers/cooler-master-vortex-plus.png" /></a></td>
+		<td><a href="http://amzn.to/2vGVpYa">Cooler Master Vortex Plus</a></td>
+		<td>$26</td>
+		<td><a class="big-button" href="http://amzn.to/2vGVpYa">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2x7Lizj"><img class="table-image" src="/img/cpu-coolers/cooler-master-geminii-m4.png" /></a></td>
+		<td><a href="http://amzn.to/2x7Lizj">Cooler Master Geminii M4</a></td>
+		<td>$36</td>
+		<td><a class="big-button" href="http://amzn.to/2x7Lizj">View on Amazon</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2erMLJM"><img class="table-image" src="/img/cpu-coolers/Noctua.png" /></a></td>
+		<td><a href="http://amzn.to/2erMLJM">Noctua NH-L9x65</a></td>
+		<td>$49</td>
+		<td><a class="big-button" href="http://amzn.to/2erMLJM">View on Amazon </a></td>
+		
+	</tr>
+	
+</table>
