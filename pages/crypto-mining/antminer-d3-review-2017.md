@@ -1,6 +1,6 @@
 ---
 title: The Antminer D3: Today's Most Profitable Dash Miner? 
-permalink: "/crypto-mining/antminer-d3-review/"
+permalink: "/crypto-mining/antminer-d3-review-2017/"
 layout: page
 seotitle: "Antminer D3 Review: Buy This Miner?" 
 --- 
