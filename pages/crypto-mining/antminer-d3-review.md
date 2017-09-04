@@ -50,7 +50,7 @@ The Antminer D3 boasts incredible hashing power and relatively low power consump
 		<td>1200 W</td>
 		<td>2,461%</td>
 		<td>$8,000</td>
-		<td><a href="http://amzn.to/2wn6YoE">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2wn6YoE">View on Amazon</a></td>
 	</tr>
 </table>
 

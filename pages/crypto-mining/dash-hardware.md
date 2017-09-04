@@ -52,7 +52,9 @@ The value of dash is on the rise, and the time is now to get in on the action. *
 
 If you use the right mining hardware, you'll see a great return on your investment. 
 
-Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market. 
+Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market.
+
+Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
 ## Dash Mining Hardware
 
