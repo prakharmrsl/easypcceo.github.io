@@ -52,6 +52,7 @@ The Antminer D3 boasts incredible hashing power and relatively low power consump
 		<td>$8,000</td>
 		<td><a href="http://amzn.to/2wn6YoE">View on Amazon</a></td>
 	</tr>
+</table>
 
 This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 2,000%. After power costs of around $3.00 per day, you'll generate over $90.00 per day in revenue. 
 
