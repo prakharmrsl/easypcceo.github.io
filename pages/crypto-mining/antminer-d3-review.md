@@ -64,6 +64,14 @@ The return on investment is out of this world. Sadly, they are selling out very 
 * Dimensions: 320 x 130 x 190 mm
 * Hashing algorithm: X11
 
+## Price
+
+You can find the Antminer D3 for $8,000 on [Amazon](http://amzn.to/2wn6YoE). While this is a bit on the high side, it's well worth your investment.
+
+This is the most profitable Dash miner on the market. It'll pay for itself in only 3 months. 
+
+We're surprised the price of this miner isn't higher. The ROI is off the charts. 
+
 ## Your Profitability with the Antminer D3 
 
 Considering the crazy high hash rate of the Antminer D3, it's safe to see you'll make plenty of money with the Antminer D3. 
@@ -112,7 +120,7 @@ Evidently, it's quite easy to profitably mine Dash. Get started now!
 		<td><a href="http://amzn.to/2wn6YoE"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td>Antminer D3</td>
 		<td>15 GH/s</td>
-		<td>$7000</td>
+		<td>$8000</td>
 		<td><a class="big-button" href="http://amzn.to/2wn6YoE">Shop</a></td>
 	</tr>
 	<tr>
