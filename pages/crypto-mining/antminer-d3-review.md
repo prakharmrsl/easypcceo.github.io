@@ -17,7 +17,7 @@ seotitle: "Antminer D3 Review: Buy This Miner?"
 
 Our rating: **5/5**
 
-[Buy Antminer D3](http://amzn.to/2wn6YoE)
+[Buy Antminer D3](http://amzn.to/2wn6YoE){: .big-button}
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
