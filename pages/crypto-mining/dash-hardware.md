@@ -22,8 +22,8 @@ Before you start mining, you'll probably want to know if it's worth your money.
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2wn6YoE"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
-		<td><a href="http://amzn.to/2wn6YoE">Antminer D3</a></td>
+		<td><a href="/crypto-mining/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
+		<td><a href="/crypto-mining/antminer-d3-review/">Antminer D3</a></td>
 		<td>15 GH/s</td>
 		<td>$8000</td>
 		<td><a class="big-button" href="http://amzn.to/2wn6YoE">Shop</a></td>
@@ -74,7 +74,7 @@ You'll spend $3.46 per day on electricity and see a return of $247.77 per day. T
 
 [Cryptocompare](https://www.cryptocompare.com/mining/bitmain/antminer-d3-miner/) estimates a yearly return of over $90,000 per miner. 
 
-[Shop Antminer D3](http://amzn.to/2wn6YoE){: .big-button}
+[Read our Review](/crypto-mining/antminer-d3-review/){: .big-button}
 
 ### [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
