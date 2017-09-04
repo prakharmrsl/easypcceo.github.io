@@ -51,8 +51,8 @@ You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/s
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2erLjHh"><img class="table-image" src="/img/cpu/212-evo.jpg" /></a></td>
-		<td><a href="http://amzn.to/2erLjHh">Cooler Master Hyper 212 Evo</a></td>
+		<td><a href="/cpu-coolers/hyper-212-evo-review/"><img class="table-image" src="/img/cpu/212-evo.jpg" /></a></td>
+		<td><a href="/cpu-coolers/hyper-212-evo-review">Cooler Master Hyper 212 Evo</a></td>
 		<td>$30</td>
 		<td><a class="big-button" src="http://amzn.to/2erLjHh">View on Amazon</a></td>
 	</tr>
@@ -64,8 +64,8 @@ You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/s
 		
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2xzE0C6"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
-		<td><a href="http://amzn.to/2xzE0C6">Cooler Master Hyper D92</a></td>
+		<td><a href="/cpu-coolers/hyper-d92-review/"><img class="table-image" src="/img/cpu-coolers/hyper-d92.png" /></a></td>
+		<td><a href="/cpu-coolers/hyper-d92-review/">Cooler Master Hyper D92</a></td>
 		<td>$48</td>
 		<td><a class="big-button" href="http://amzn.to/2xzE0C6">View on Amazon</a></td>
 		
@@ -77,8 +77,8 @@ You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/s
 		<td><a class="big-button" href="http://amzn.to/2x7fvP5">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2vGVpYa"><img class="table-image" src="/img/cpu-coolers/cooler-master-vortex-plus.png" /></a></td>
-		<td><a href="http://amzn.to/2vGVpYa">Cooler Master Vortex Plus</a></td>
+		<td><a href="/cpu-coolers/vortex-plus-review/"><img class="table-image" src="/img/cpu-coolers/cooler-master-vortex-plus.png" /></a></td>
+		<td><a href="/cpu-coolers/vortex-plus-review/">Cooler Master Vortex Plus</a></td>
 		<td>$26</td>
 		<td><a class="big-button" href="http://amzn.to/2vGVpYa">View on Amazon</a></td>
 		
