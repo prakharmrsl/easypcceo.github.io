@@ -58,7 +58,7 @@ Once you break even, you'll have a great source of passive income. Using an ASIC
 
 ### Antminer D3 
 
-The Antminer D3 is a brand new ASIC miner and it's by far the best miner on this list. 
+The Antminer D3 is a brand new ASIC miner and **it's by far the best miner on this list.** 
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
