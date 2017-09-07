@@ -1,8 +1,8 @@
 ---
-title: CPU Coolers to Look out for Under $50 in 2017
+title: CPU Coolers for Gaming to Look out for Under $50 in 2017
 permalink: "/cpu-coolers/"
 layout: page
-seotitle: "7 Best CPU Coolers under $50 in 2017 (Comparison)"
+seotitle: "7 Best CPU Air Coolers & Fans for Gaming 2017 (Comparison)"
 ---
 
 The CPU cooler is a crucial component of any PC. A CPU cannot operate without a CPU cooler. It'll overheat within minutes. 
@@ -42,6 +42,8 @@ While air coolers do a great job and even support some [overclocking](https://ww
 They're especially beneficial when you buy an expensive [unlocked CPU](http://www.velocitymicro.com/blog/intel-processors-locked-vs-unlocked-processor/) from Intel. You'll want the most from your money, and overclocking is the way to go. After all, these K model CPUs were designed with overclocking in mind. 
 
 You'll probably also want to take a look at [Ryzen 5](http://www.anandtech.com/show/11244/the-amd-ryzen-5-1600x-vs-core-i5-review-twelve-threads-vs-four/17) CPUs as they're extremely overclocker friendly. 
+
+## 7 Best Gaming CPU Coolers in 2017 
 
 <table class="basic-table" align="center">
 	<tr>
