@@ -58,7 +58,7 @@ The Antminer D3 boasts incredible hashing power and relatively low power consump
 	</tr>
 </table>
 
-This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 2,000%. After power costs of around $3.00 per day, you'll generate over $90.00 per day in revenue. 
+This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 2,000%. After power costs of around $3.00 per day, you'll generate over $90.00 per day in revenue. This is superb compared to our [other miners](/crypto-mining/). The Antminer D3 proves Dash mining to be [extremely profitable](/crypto-mining/dash-mining-profitability/)
 
 The return on investment is out of this world. Sadly, they are selling out very quickly. We recommend ordering the next available Antminer D3. 
 
@@ -73,7 +73,7 @@ The return on investment is out of this world. Sadly, they are selling out very 
 
 You can find the Antminer D3 for $8,000 on [Amazon](http://amzn.to/2wn6YoE). While this is a bit on the high side, it's well worth your investment.
 
-This is the most profitable Dash miner on the market. It'll pay for itself in only 3 months. 
+This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself in only 3 months. 
 
 We're surprised the price of this miner isn't higher. The ROI is off the charts. 
 
