@@ -2,7 +2,7 @@
 title: Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs 
 permalink: "/crypto-mining/ethereum-hardware/"
 layout: page
-seotitle: "3 Best Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs 2017" 
+seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2017" 
 ---
 
 ## Ethereum Mining Hardware 
@@ -57,7 +57,9 @@ Look no further. We are here to tell you that if you use the above mining GPUs, 
 
 ![Ethereum Mining ROI](/img/cryptocurrency/ethereum-profit.png "Ethereum Mining ROI")
 
-As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $754.44 USD per card each year. If you invest in multiple cards, you will make even more passive income. 
+As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $754.44 USD per card each year. If you invest in multiple cards, you will make even more passive income.
+
+While it is possible to turn a profit mining Ethereum, [X11 Dash mining](/crypto-mining/dash-hardware/) **is FAR more profitable.**
 
 ## 3 Best Ethereum Mining GPUs
 
@@ -144,3 +146,4 @@ Many people want Ethereum but become frustrated when mining doesn't yield the am
 The easiest way to acquire Ethereum and Ethereum Classic is to purchase it. 
 
 [You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
+
