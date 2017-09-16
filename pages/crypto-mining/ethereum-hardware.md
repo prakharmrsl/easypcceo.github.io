@@ -147,3 +147,12 @@ The easiest way to acquire Ethereum and Ethereum Classic is to purchase it.
 
 [You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
 
+## Ethereum vs. Bitcoin 
+
+Ethereum is currently the second largest cryptocurrency in the world, trailing Bitcoin. It's been growing rapidly, seeing an increase of about 4000% this year, as opposed to Bitcoin's growth of only 300%. 
+
+Interestingly, not only is it growing quickly, it's also becoming more widely used. 
+
+BTC is a way to store value, but because of its fees and slow transaction times, many are turning to ETH due to its better block time and technology. 
+
+However, [Bitcoin](/crypto-mining/bitcoin-hardware/) is still the #1 cryptocurrency today, and we believe it'll stay that way. 
