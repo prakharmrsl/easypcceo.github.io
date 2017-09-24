@@ -58,3 +58,10 @@ Mining Monero is a profitable option. As you can see from the image below, the [
 You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
 
 While Monero mining can be profitable, [Dash mining](/crypto-mining/dash-hardware/) **is the MOST profitable cryptocurrency to mine!**
+
+## Monero Mining Algorithm 
+
+CryptoNight is Monero's [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system) mining algorithm. 
+
+It is memory intensive, and as a result, CryptoNight benefits the casual miner. If you don't want to invest in expensive specialized hardware, Monero is probably the right cryptocurrency for you. 
+
