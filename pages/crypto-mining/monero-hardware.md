@@ -9,7 +9,7 @@ seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2017) "
 
 Menero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
 
-## Monero Mining Hardware 
+## Best Monero Mining Hardware 
 
 Comparitively to [Ethereum](/crypto-mining/ethereum-hardware), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit)s for mining Monero. 
 
