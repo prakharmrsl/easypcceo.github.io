@@ -64,4 +64,3 @@ While Monero mining can be profitable, [Dash mining](/crypto-mining/dash-hardwar
 CryptoNight is Monero's [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system) mining algorithm. 
 
 It is memory intensive, and as a result, CryptoNight benefits the casual miner. If you don't want to invest in expensive specialized hardware, Monero is probably the right cryptocurrency for you. 
-
