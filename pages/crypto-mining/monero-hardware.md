@@ -58,4 +58,3 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 * [MinerGate](https://minergate.com/)
 * [Nanopool](https://xmr.nanopool.org/)
 * [monero.crypto-pool](https://monero.crypto-pool.fr/)
-
