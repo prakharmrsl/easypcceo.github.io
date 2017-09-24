@@ -9,16 +9,6 @@ seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2017) "
 
 Menero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
 
-## Monero Mining Profitability 
-
-Mining Monero is a profitable option. As you can see from the image below, the [RX 470](http://amzn.to/2fpumhd) will generate nearly $400 annually per card. 
-
-![Monero Mining Profit](/img/cryptocurrency/monero-mining-profit.png)
-
-You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
-
-While Monero mining can be profitable, [Dash mining](/crypto-mining/dash-hardware/) **is the MOST profitable cryptocurrency to mine!**
-
 ## Monero Mining Hardware 
 
 Comparitively to [Ethereum](/crypto-mining/ethereum-hardware), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit)s for mining Monero. 
@@ -58,3 +48,13 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 * [MinerGate](https://minergate.com/)
 * [Nanopool](https://xmr.nanopool.org/)
 * [monero.crypto-pool](https://monero.crypto-pool.fr/)
+
+## Monero Mining Profitability 
+
+Mining Monero is a profitable option. As you can see from the image below, the [RX 470](http://amzn.to/2fpumhd) will generate nearly $400 annually per card. 
+
+![Monero Mining Profit](/img/cryptocurrency/monero-mining-profit.png)
+
+You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
+
+While Monero mining can be profitable, [Dash mining](/crypto-mining/dash-hardware/) **is the MOST profitable cryptocurrency to mine!**
