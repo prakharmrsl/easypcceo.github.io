@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017" 
 --- 
 
-Unlike [Zcash](/crypto-mining/zcash-hardware/) and [Ethereum](/crypto-mining/ethereum-hardware/), ASIC cards can be used to mine Dash. 
+Unlike [Zcash](/crypto-mining/zcash-hardware/), [Monero](/crypto-mining/monero-hardware/), and [Ethereum](/crypto-mining/ethereum-hardware/), ASIC cards can be used to mine Dash. 
 
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
@@ -54,7 +54,7 @@ If you use the right mining hardware, you'll see a great return on your investme
 
 Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market.
 
-Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
+Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
 ## Dash Mining Hardware
 
