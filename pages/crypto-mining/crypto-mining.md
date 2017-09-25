@@ -41,6 +41,8 @@ Furthermore, transactions are instantaneous.
 
 Fees are virtually non-exisistent, as you control your own money.
 
+[Dash](/crypto-mining/dash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), and [Monero](/crypto-mining/monero-hardware/) **are the MOST profitable currencies to mine!** 
+
 [View Dash mining graphics cards here](/crypto-mining/dash-hardware/){: .big-button}
 
 ### 3. Litecoin 
