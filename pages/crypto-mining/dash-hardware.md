@@ -25,7 +25,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 		<td><a href="/crypto-mining/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td><a href="/crypto-mining/antminer-d3-review/">Antminer D3</a></td>
 		<td>15 GH/s</td>
-		<td>$8000</td>
+		<td>$2700</td>
 		<td><a class="big-button" href="http://amzn.to/2wn6YoE">Shop</a></td>
 	</tr>
 	<tr>
@@ -72,7 +72,7 @@ While the power consumption might seem a bit high, the hashing power of this min
 
 You'll spend $3.46 per day on electricity and see a return of $247.77 per day. This is a 7169% return on electricity cost each day. 
 
-[Cryptocompare](https://www.cryptocompare.com/mining/bitmain/antminer-d3-miner/) estimates a yearly return of over $90,000 per miner. 
+[Cryptocompare](https://www.cryptocompare.com/mining/bitmain/antminer-d3-miner/) estimates a yearly return of over $30,000 per miner. 
 
 [Read our Review](/crypto-mining/antminer-d3-review/){: .big-button}
 
