@@ -9,7 +9,7 @@ seotitle: "#1 Best Destiny 2 Gaming PC Build (Runs 60 FPS)"
 
 Destiny 2's PC launch date is set for October 24. This is nearly two months after its launch on console, September 6. Of course, we're all willing to wait for a better overall PC gaming experience. 
 
-When Destiny 2 was shown on the PC at the reveal event in Los Angeles, everybody was buzzing about the phenomenal graphics. Everybody who walked away from that thought it was amazing. 
+When Destiny 2 was shown on the PC at the reveal event in Los Angeles, everybody was buzzing about the phenomenal graphics. 
 
 It has a lot of people wondering: how much would it cost to play Destiny 2 at 1080p with 60 FPS? 
 
@@ -134,7 +134,7 @@ While Ryzen 7 is a bit overkill for most gamers, the Ryzen 5 line is an outstand
 
 The [MSI B350 PC MATE ATX AM4](https://www.amazon.com/gp/product/B06WVFFXXL/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06WVFFXXL&linkId=c7f83c2efe811aa13cdb56c3d188cad2) motherboard is an excellent choice for this build.
 
-The B250 chipset allows for the use of 2400 MHz ram. Furthermore, it supports crossfire, leaving room for future upgrades.
+The B350 chipset allows for the use of 2400 MHz ram. Furthermore, it supports crossfire, leaving room for future upgrades.
 
 The full ATX form factor also allows for future upgrades. This motherboard is reliable and trusted by many PC enthusiasts. 
 
