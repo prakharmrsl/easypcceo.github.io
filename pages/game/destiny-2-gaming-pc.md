@@ -5,7 +5,7 @@ layout: page
 seotitle: "#1 Best Destiny 2 Gaming PC Build (Runs 60 FPS)"
 ---
 
-![Destiny 2](/img/games/destiny-2.jpg)
+![Destiny 2](/img/games/destiny-2/cover.jpg)
 
 Destiny 2's PC launch ate is set for October 24. This is nearly two months after its launch on console, September 6. Of course, we're all willing to wait for a better overall PC gaming experience. 
 
