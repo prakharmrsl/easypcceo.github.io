@@ -231,8 +231,8 @@ Why?
 
 If you fail to do either of these two things, one or both of the following will happen: 
 
-A) Your power supply will short out your PC <br>    
-B) Your power supply will fail completely 
+**A)** Your power supply will short out your PC <br>    
+**B)** Your power supply will fail completely 
 
 This build is rated at 211 watts. That being said, the EVGA 400W ATX power supply is the choice for this build. 
 
