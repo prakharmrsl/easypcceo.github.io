@@ -13,8 +13,6 @@ When Destiny 2 was shown on the PC at the reveal event in Los Angeles, everybody
 
 It has a lot of people wondering: how much would it cost to play Destiny 2 at 1080p with 60 FPS? 
 
-The answer? 
-
 Less than $700. In fact, we built a gaming PC for $642 that runs the Destiny 2 beta in 1080p with over 100 frames per second. The full release should see even better performance, as it'll be further optimzed. 
 
 The build meets all of the Destiny 2 system requirements on the PC. It'll run Destiny 2 with ease.
