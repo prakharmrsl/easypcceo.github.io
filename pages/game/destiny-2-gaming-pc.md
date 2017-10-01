@@ -142,17 +142,17 @@ While it doesn't have any extrodinary special features, it gets the job done. It
 
 **Specs:** 
 
-Form Factor: ATX
-CPU Socket: AM4
-Chipset: AMD B350
-Memory Slots: 4 x 288-pin DIMM
-Memory Type: DDR4-1866/2133/2400/2666/2933/3200
-Maximum Supported Memory: 64GB
-Raid Support: Yes
-Crossfire/SLI Support: Crossfire 
-Sata 6 GB/s: 4
-Onboard Ethernet: 1 x 10/100/1000 Mbps
-Onboard USB 3.0 Headers: Yes
+* Form Factor: ATX
+* CPU Socket: AM4
+* Chipset: AMD B350
+* Memory Slots: 4 x 288-pin DIMM
+* Memory Type: DDR4-1866/2133/2400/2666/2933/3200
+* Maximum Supported Memory: 64GB
+* Raid Support: Yes
+* Crossfire/SLI Support: Crossfire 
+* Sata 6 GB/s: 4
+* Onboard Ethernet: 1 x 10/100/1000 Mbps
+* Onboard USB 3.0 Headers: Yes
 
 [Buy your motherboard here](https://www.amazon.com/gp/product/B06WVFFXXL/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06WVFFXXL&linkId=c7f83c2efe811aa13cdb56c3d188cad2){: .big-button}
 
