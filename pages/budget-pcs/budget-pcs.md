@@ -19,6 +19,49 @@ Lucky for you, PC gaming is cheaper than ever before.
 
 Below are the best (and cheapest) gaming PCs that money can buy in 2017. 
 
+<table class="basic-table" align="center">
+	<tr>
+		<th>Price</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Build</th>
+	</tr>
+	<tr>
+		<td>$400</td>
+		<td>Extreme Budget Gamer</td>
+		<td><img class="table-image" src="/img/case/cougar mx200.png" /></td>
+		<td><a class="big-button" href="/budget-pcs/400/">View</a></td>
+	</tr>
+	<tr>
+		<td>$500</td>
+		<td>Perfect Balance</td>
+		<td><img class="table-image" src="/img/case/nzxt s340.png" /></td>
+		<td><a class="big-button" href="/budget-pcs/500/">View</a></td>
+		
+	</tr>
+	<tr>
+		<td>$600</td>
+		<td>Stealth Gamer</td>
+		<td><img class="table-image" src="/img/case/cuboid-r1.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/600/">View</a></td>
+		
+	</tr>
+	<tr>
+		<td>$700</td>
+		<td>Phoenix</td>
+		<td><img class="table-image" src="/img/case/solarm1.png" /></td>
+		<td><a class="big-button" href="/budget-pcs/700/">View</a></td>
+	</tr>
+	<tr>
+		<td>$800</td>
+		<td>Monster</td>
+		<td><img class="table-image" src="/img/case/masterbox5.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
+		
+	</tr>
+	
+</table>
+
 ## Top 5 Budget Gaming PCs 2017:
 
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
