@@ -78,7 +78,7 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	<tr>
 		<td><b>RAM</b></td>
 		<td>Corsair Vengeance LPX 4GB DDR4-2400</td>
-		<td><a class="big-buton" href="http://amzn.to/2z5K8ms">Buy</a></td>
+		<td><a class="big-button" href="http://amzn.to/2z5K8ms">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
