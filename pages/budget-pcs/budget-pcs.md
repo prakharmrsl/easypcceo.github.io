@@ -1,23 +1,15 @@
 ---
-title: Best Budget Gaming PC Builds 2017 
+title: Best Budget Gaming PC Builds in 2017 
 permalink: "/budget-pcs/"
 layout: page
 seotitle: 5 Best Budget & Cheap Gaming PCs 2017 (Dirt Cheap)
 ---
 
-## Gaming on a Budget in 2017 Made Easy 
+It's 2017, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
 
-Here's the deal: 
+However, expensive components may prevent you from pulling the trigger. Fortunately for you, this guide will walk  you through five budget gaming PCs that **won't break the bank.** 
 
-Gaming on a PC has many advantages, including:
-
-* Superior Graphics
-* Better Performance 
-* PC Exclusive Titles 
-
-Lucky for you, PC gaming is cheaper than ever before. 
-
-Below are the best (and cheapest) gaming PCs that money can buy in 2017. 
+Furthermore, I'll cover every aspect of PC gaming and answer any questions a new builder could have. 
 
 <table class="basic-table" align="center">
 	<tr>
@@ -124,7 +116,7 @@ But to enjoy all of these things, you have to spend a ton of money, right?
 
 Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
 
-This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions easily with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
+This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
 
 ---
 
