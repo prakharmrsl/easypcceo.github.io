@@ -108,8 +108,8 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 
 <p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
-## The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
+## The Perfect Balance ($500) 
 
 The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
 
