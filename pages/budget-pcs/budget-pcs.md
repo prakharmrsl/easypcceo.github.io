@@ -47,7 +47,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	<tr>
 		<td><b>$800</b></td>
 		<td>Monster</td>
-		<td><img class="table-image" src="/img/case/masterbox5.png" /></td>
+		<td><img class="table-image" src="/img/case/nzxt-s340-black.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
 		
 	</tr>
