@@ -213,7 +213,51 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 
 ## The Phoenix ($700)![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
 
-A phoenix is a mythical creature known for its resilience. This PC truly is resilient. Once assembled, the components form a powerful, resilient, and majestic gaming machine. 
+This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
+
+<table class="basic-table" align="center">
+	<tr>
+		<td><b>CPU</b></td>
+		<td>Ryzen 5 1400</td>
+		<td><a class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>MOBO</b></td>
+		<td>ASRock - AB350M Micro ATX</td>
+		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+	</tr>
+	<tr>
+		<td><b>RAM</b></td>
+		<td>Ballistix Sport LT 8GB DDR4-2400 MHz</td>
+		<td><a class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>HDD</b></td>
+		<td>WD Caviar Blue 1TB 7200RPM</td>
+		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>GPU</b></td>
+		<td>EVGA GeForce GTX 1060 6GB SC GAMING Edition</td>
+		<td><a class="big-button" href="http://amzn.to/2z5rmvohttp://amzn.to/2y6t4hw">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>PSU</b></td>
+		<td>EVGA 430W</td>
+		<td><a class="big-button" href="http://amzn.to/2xqv9Gi">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>CASE</b></td>
+		<td>Bitfenix - Comrade</td>
+		<td><a class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
+	</tr>
+<tr>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/700/">View the Build Guide</a></td>
+</tr>
+	
+</table>
+
+<p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
 
 [$700 Gaming PC](/budget-pcs/700/){: .big-button}
 
