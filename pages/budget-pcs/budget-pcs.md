@@ -261,7 +261,7 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 <p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
 
 
-![Masterbox5 White](/img/case/masterbox5.jpg "Masterbox5"){: .img-right .img-medium}
+![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
 ## The Monster ($800)
 
 This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
