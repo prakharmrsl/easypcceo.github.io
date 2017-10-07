@@ -54,17 +54,59 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	
 </table>
 
-## Top 5 Budget Gaming PCs 2017:
-
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
-### The Extreme Budget Gamer ($400) 
+## The Extreme Budget Gamer ($400) 
+
+You might think a good gaming PC goes for around $700-$800. If you bought your PC prebuilt from a big company, this may be the case. However, if you build the PC yourself, you can score awesome components for just $400. That's right, **just $400.**
 
 This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
 
-[$400 Gaming PC](/budget-pcs/400/){: .big-button}
+Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
 
-### The Perfect Balance ($500) 
+<table class="basic-table" align="center">
+	<tr>
+		<td><b>CPU</b></td>
+		<td>Intel Pentium G4560</td>
+		<td><a class="big-button" href="http://amzn.to/2xpDb2e">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>MOBO</b></td>
+		<td>MSI Pro Series Intel B250</td>
+		<td><a class="big-button" href="http://amzn.to/2yOgqBj">Buy</a></td>	
+	</tr>
+	<tr>
+		<td><b>RAM</b></td>
+		<td>Corsair Vengeance LPX 4GB DDR4-2400</td>
+		<td><a class="big-buton" href="http://amzn.to/2z5K8ms">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>HDD</b></td>
+		<td>WD Caviar Blue 1TB 7200RPM</td>
+		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>GPU</b></td>
+		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
+		<td><a class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>PSU</b></td>
+		<td>EVGA 450W</td>
+		<td><a class="big-button" href="http://amzn.to/2xpDV7w">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>CASE</b></td>
+		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
+		<td><a class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
+	</tr>
+<tr>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">View</a></td>
+</tr>
+	
+</table>
+
+## The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 
 The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best cheap gaming PC $500 can buy.
@@ -75,20 +117,20 @@ You are still spending a relatively small amount on the PC, but it is still enou
 
 [$500 Gaming PC](/budget-pcs/500/){: .big-button}
 
-### The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
+## The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
 
 This PC is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, efficient, and cheap.
 
 [$600 Gaming PC](/budget-pcs/600/){: .big-button}
 
-### The Phoenix ($700)![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
+## The Phoenix ($700)![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
 
 A phoenix is a mythical creature known for its resilience. This PC truly is resilient. Once assembled, the components form a powerful, resilient, and majestic gaming machine. 
 
 [$700 Gaming PC](/budget-pcs/700/){: .big-button}
 
-### The Monster ($800)
+## The Monster ($800)
 ![Masterbox5 White](/img/case/masterbox5.jpg "Masterbox5"){: .img-right .img-medium}
 
 
