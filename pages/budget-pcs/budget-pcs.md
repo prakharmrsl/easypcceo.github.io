@@ -284,7 +284,7 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 	<tr>
 		<td><b>RAM</b></td>
 		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
+		<td><a class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
