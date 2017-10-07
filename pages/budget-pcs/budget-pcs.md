@@ -54,8 +54,6 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	
 </table>
 
----
-
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
 ## The Extreme Budget Gamer ($400) 
@@ -103,7 +101,7 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 		<td><a class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">View the Build Guide</a></td>
 </tr>
 	
 </table>
