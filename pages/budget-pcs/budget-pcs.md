@@ -163,10 +163,53 @@ You are still spending a relatively small amount on the PC, but it is still enou
 
 ## The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
+This PC can run the newest titles in 1080p with 60 FPS including [Destiny 2](/game/destiny-2-gaming-pc/), Battlefield 1, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
 
-This PC is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, efficient, and cheap.
+It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
 
-[$600 Gaming PC](/budget-pcs/600/){: .big-button}
+<table class="basic-table" align="center">
+	<tr>
+		<td><b>CPU</b></td>
+		<td>Ryzen 3 1200</td>
+		<td><a class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>MOBO</b></td>
+		<td>ASRock - AB350M Micro ATX</td>
+		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+	</tr>
+	<tr>
+		<td><b>RAM</b></td>
+		<td>Ballistix Sport LT 8GB DDR4-2400 MHz</td>
+		<td><a class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>HDD</b></td>
+		<td>WD Caviar Blue 1TB 7200RPM</td>
+		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>GPU</b></td>
+		<td>ASUS GeForce GTX 1060 3GB Dual-Fan</td>
+		<td><a class="big-button" href="http://amzn.to/2xpy913">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>PSU</b></td>
+		<td>EVGA 450W</td>
+		<td><a class="big-button" href="http://amzn.to/2z7dMaW">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>CASE</b></td>
+		<td>DIYPC - Cuboid-R</td>
+		<td><a class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
+	</tr>
+<tr>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/600/">View the Build Guide</a></td>
+</tr>
+	
+</table>
+
+<p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
 
 ## The Phoenix ($700)![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
 
