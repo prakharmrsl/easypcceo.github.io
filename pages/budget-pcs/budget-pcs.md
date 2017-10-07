@@ -34,7 +34,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	<tr>
 		<td>$600</td>
 		<td>Stealth Gamer</td>
-		<td><img class="table-image" src="/img/case/cuboid-r1.jpg" /></td>
+		<td><img class="table-image" src="/img/case/cuboid-r1png.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/600/">View</a></td>
 		
 	</tr>
@@ -47,7 +47,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	<tr>
 		<td>$800</td>
 		<td>Monster</td>
-		<td><img class="table-image" src="/img/case/masterbox5.jpg" /></td>
+		<td><img class="table-image" src="/img/case/masterbox5.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
 		
 	</tr>
@@ -99,6 +99,18 @@ $800 is one of the perfect pricepoints for gamers looking to play all of the new
 If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
 
 [$800 Gaming PC](/budget-pcs/800/){: .big-button}
+
+## Gaming on a Budget in 2017 Made Easy 
+
+Here's the deal: 
+
+Gaming on a PC has many advantages, including:
+
+* Superior Graphics
+* Better Performance 
+* PC Exclusive Titles 
+
+Lucky for you, PC gaming is cheaper than ever before. 
 
 ## Why Build a Gaming PC? 
 
