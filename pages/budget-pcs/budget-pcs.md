@@ -54,6 +54,8 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	
 </table>
 
+---
+
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
 ## The Extreme Budget Gamer ($400) 
