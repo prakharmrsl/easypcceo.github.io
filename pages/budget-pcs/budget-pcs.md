@@ -211,7 +211,7 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 
 <p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
 
-![Solar M1](/img/case/solarm1.png "Solar M1"){: .img-small .img-right}
+![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
 ## The Phoenix ($700)
 
 This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
