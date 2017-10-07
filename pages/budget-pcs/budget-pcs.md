@@ -82,8 +82,8 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+		<td>Seagate 500 GB Pipeline</td>
+		<td><a class="big-button" href="http://amzn.to/2y71Zea">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
@@ -106,16 +106,60 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	
 </table>
 
+<p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
+
 ## The Perfect Balance ($500) 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 
-The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best cheap gaming PC $500 can buy.
+The secret to building a great gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
 
-On a budget, $500 is often the amount of money that I recommend people spend. 
+On a budget, $500 is often the price range I recommend.
 
-You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. This is the best cheap gaming PC you'll find for $500. 
+You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
 
-[$500 Gaming PC](/budget-pcs/500/){: .big-button}
+<table class="basic-table" align="center">
+	<tr>
+		<td><b>CPU</b></td>
+		<td>Ryzen 3 1200</td>
+		<td><a class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>MOBO</b></td>
+		<td>ASRock - AB350M Micro ATX</td>
+		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+	</tr>
+	<tr>
+		<td><b>RAM</b></td>
+		<td>Ballistix Sport LT 8GB DDR4-2400 MHz</td>
+		<td><a class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>HDD</b></td>
+		<td>WD Caviar Blue 1TB 7200RPM</td>
+		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>GPU</b></td>
+		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
+		<td><a class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>PSU</b></td>
+		<td>EVGA 400W</td>
+		<td><a class="big-button" href="http://amzn.to/2xoDISb">Buy</a></td>
+	</tr>
+	<tr>
+		<td><b>CASE</b></td>
+		<td>NZXT S340 (White)</td>
+		<td><a class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
+	</tr>
+<tr>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/500/">View the Build Guide</a></td>
+</tr>
+	
+</table>
+
+<p><i>*prices fluctuate daily. <a href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
 ## The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
