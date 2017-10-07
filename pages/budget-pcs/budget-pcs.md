@@ -19,33 +19,33 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 		<th>Build</th>
 	</tr>
 	<tr>
-		<td>$400</td>
+		<td><b>$400</b></td>
 		<td>Extreme Budget Gamer</td>
 		<td><img class="table-image" src="/img/case/cougar mx200.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/400/">View</a></td>
 	</tr>
 	<tr>
-		<td>$500</td>
+		<td><b>$500</b></td>
 		<td>Perfect Balance</td>
 		<td><img class="table-image" src="/img/case/nzxt s340.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/500/">View</a></td>
 		
 	</tr>
 	<tr>
-		<td>$600</td>
+		<td><b>$600</b></td>
 		<td>Stealth Gamer</td>
 		<td><img class="table-image" src="/img/case/cuboid-r1png.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/600/">View</a></td>
 		
 	</tr>
 	<tr>
-		<td>$700</td>
+		<td><b>$700</b></td>
 		<td>Phoenix</td>
 		<td><img class="table-image" src="/img/case/solarm1.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/700/">View</a></td>
 	</tr>
 	<tr>
-		<td>$800</td>
+		<td><b>$800</b></td>
 		<td>Monster</td>
 		<td><img class="table-image" src="/img/case/masterbox5.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
