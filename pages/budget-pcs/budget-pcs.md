@@ -314,6 +314,85 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 
 <p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
 
+## Viable Prebuilt Options 
+
+Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
+
+If you know what you're looking for, you can find some great prebuilt alternatives. 
+
+![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-small}
+
+The [Cyberpower PC Gamer Xtreme](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684) is another great option.
+
+This Cyberpower PC can be found on Amazon for the price of $720. This PC features:
+
+* Intel i5-7400 3.0 GHz Quad Core CPU
+* 8GB of DDR4 memory
+* 1TB hard drive 
+* RX 580 4GB graphics card 
+
+The package also includes Windows 10, a wifi card, and a gaming mouse/keyboard. For this price, it's an excellent deal. 
+
+[View on Amazon](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684){: .big-button} 
+
+
+---
+
+If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
+
+You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $430. You can actually find it under $300 if you buy it [used](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) on Amazon. 
+
+![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-right .img-small}
+
+The PC features: 
+
+* Intel Core i3-6100 
+* 8GB DDR3 Ram
+* 1TB Hard Drive
+
+This PC comes without a GPU. Don't worry, this problem is easily solved. 
+
+There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for less than $100. 
+
+After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for less than $600. This PC can easily game at 1080p. 
+
+[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
+
+## Custom Built or Prebuilt? 
+
+There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 
+
+Many of these PCs are falsely advertised as great alternatives to a custom build. 
+
+![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-small}
+
+
+The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
+
+Don't become another dissatisfied customer. It's important to educate yourself before making any purchase, especially when purchasing a gaming PC. 
+
+---
+
+Take a look at the PC below: 
+
+![Best Buy Prebuilt](/img/misc/bestbuy-pc-example.png)
+
+As you can see, this PC is going for nearly $1100 USD. Now let's take a look at what these parts would cost you: 
+
+![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
+
+This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
+
+Most retailers mark up their prices even more dramatically. Evidently, building your own PC is cheaper. 
+
+Customizability is another reason why building your own PC is a good option. You can hand pick your parts, and tailor your PC exactly how you'd like it. 
+
+You can choose your own case, LED color scheme, shape, size, noise level, cooling system, etc. PC building is practically an art form. 
+
+If you only want to play a few games like Overwatch and CSGO for example, you don't have to buy a $1000 gaming PC. Instead, you can get the components you'd need to run those games, and nothing more. 
+
+On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too.
+
 ## Gaming on a Budget in 2017 Made Easy 
 
 Here's the deal: 
@@ -362,88 +441,7 @@ You don't even have to spend $1100. You could spend anywhere from $500-$1000 on 
 
 Not only does this PC consolidate all of the gaming, recording, editing, streaming, etc. into one place, it also performs all of these tasks more effectively. 
 
-Think about it, an $800 gaming PC can run games at higher resolutions and better framerates than an Xbox. It also is much more powerful than any $500 laptop. PC gaming just makes more sense. 
-
-## Custom Built or Prebuilt? 
-
-There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 
-
-Many of these PCs are falsely advertised as great alternatives to a custom build. 
-
-![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-small}
-
-
-The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
-
-Don't become another dissatisfied customer. It's important to educate yourself before making any purchase, especially when purchasing a gaming PC. 
-
----
-
-Take a look at the PC below: 
-
-![Best Buy Prebuilt](/img/misc/bestbuy-pc-example.png)
-
-As you can see, this PC is going for nearly $1100 USD. Now let's take a look at what these parts would cost you: 
-
-![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
-
-This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
-
-Most retailers mark up their prices even more dramatically. Evidently, building your own PC is cheaper. 
-
-Customizability is another reason why building your own PC is a good option. You can hand pick your parts, and tailor your PC exactly how you'd like it. 
-
-You can choose your own case, LED color scheme, shape, size, noise level, cooling system, etc. PC building is practically an art form. 
-
-If you only want to play a few games like Overwatch and CSGO for example, you don't have to buy a $1000 gaming PC. Instead, you can get the components you'd need to run those games, and nothing more. 
-
-On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too. 
-
-## Viable Prebuilt Options 
-
-Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
-
-If you know what you're looking for, you can find some great prebuilt alternatives. 
-
-![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-small}
-
-The [Cyberpower PC Gamer Xtreme](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684) is another great option.
-
-This Cyberpower PC can be found on Amazon for the price of $720. This PC features:
-
-* Intel i5-7400 3.0 GHz Quad Core CPU
-* 8GB of DDR4 memory
-* 1TB hard drive 
-* RX 580 4GB graphics card 
-
-The package also includes Windows 10, a wifi card, and a gaming mouse/keyboard. For this price, it's an excellent deal. 
-
-[View on Amazon](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684){: .big-button} 
-
-
----
-
-If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
-
-You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $430. You can actually find it under $300 if you buy it [used](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) on Amazon. 
-
-![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-right .img-small}
-
-The PC features: 
-
-* Intel Core i3-6100 
-* 8GB DDR3 Ram
-* 1TB Hard Drive
-
-This PC comes without a GPU. Don't worry, this problem is easily solved. 
-
-There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for less than $100. 
-
-After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for less than $600. This PC can easily game at 1080p. 
-
-[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
-
-<a id="dirt-cheap-pc"></a>
+Think about it, an $800 gaming PC can run games at higher resolutions and better framerates than an Xbox. It also is much more powerful than any $500 laptop. PC gaming just makes more sense.  
 
 ## How to Build a Dirt Cheap Gaming PC in 3 Easy Steps
 
