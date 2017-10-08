@@ -501,3 +501,91 @@ Once you find your GPU for sale on eBay, repeat the last step and await your par
 There you have it, a dirt cheap gaming PC! 
 
 ![CHEAP PC INFOGRAPHIC](/img/infographic/8-tips-for-budget-pc-building.png)
+
+**[Contact me](/contact/) about using this infographic on your website!**
+
+These 8 methods include:
+
+* Salvaging old parts
+* Buying used parts
+* Buying a cheap CPU
+* Focusing on the GPU
+* Looking for deals
+* Ask your friends 
+* Save money on peripherals and LEDs
+* Be patient
+
+Let's take a closer look at each one. 
+
+## Salvaging old parts 
+
+It's easy to buy all of your parts new, but it's also more expensive.
+
+Odds are you probably have an old desktop in your house that still has perfectly good components. 
+
+You could probably salvage an optical drive, hard drive, case, power supply, and sometimes even a motherboard and CPU. 
+
+Even if you don't have an old desktop laying around, you could buy one on eBay. This brings us to our next point. 
+
+[Salvage Old Parts](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+
+## Buy used parts
+
+Some think you have to buy all new parts to build a great gaming PC. This is simply not true. 
+
+You can look on eBay for used parts that work just as well as new ones. 
+
+The best part?
+
+You're getting the same great components for a lower price! 
+
+## Buy a cheap CPU
+
+If you're on a tight budget, the CPU is where you should save some money. 
+
+Why?
+
+Any well optimized title will harness the power of the GPU over the CPU. As long as your CPU can keep up, you can focus your money on the GPU. 
+
+[View Budget Gaming CPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=Pentium+G4560&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+
+## Focus on the GPU 
+
+As mentioned above, the GPU is the most important part of a gaming PC.
+
+If you're on a budget, you should cut corners elsewhere and focus that money towards buying a powerful GPU. 
+
+We recommend the GTX 1050 ti as the best budget gaming GPU. 
+
+[View GTX 1050 ti on Amazon](http://amzn.to/2xb0SXA){: .big-button}
+
+## Look for Deals
+
+There are tech deals every day online. It's easy to find them too. 
+
+Nearly all large tech corporations have a newsletter or email alert service.
+
+Simply sign up, and let the emails flow in. More often then not they are notifying you about a great deal. 
+
+You can also negotiate on Craig's List, use a deal finder, coupon codes, etc. 
+
+## Ask Friends
+
+Ask your friends about old PCs they might have laying around. Odds are they have an old computer in their house which is full of great parts. 
+
+If you're lucky, they might have some spare parts they'd be willing to give you either for free or for a reduced price. It's a great way to save money!
+
+## Save Money on Peripherals and LEDs 
+
+Most people want a case full of cool LEDs, a mechanical keyboard with different colors and the best gaming mouse. 
+
+While these things are great additions to a PC gamer's setup, they're NOT necessary. Any mouse and keyboard will do and you don't need LEDs in your case. 
+
+It's much wiser to invest this money in your gaming PC. Later on down the line if you have the money, feel free to invest it in these extra items.
+
+## Be patient 
+
+If you don't have enough money to buy the best parts, that's okay. Just be patient and save your money.
+
+It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
+
