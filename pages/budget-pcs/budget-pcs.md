@@ -393,18 +393,6 @@ If you only want to play a few games like Overwatch and CSGO for example, you do
 
 On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too.
 
-## Gaming on a Budget in 2017 Made Easy 
-
-Here's the deal: 
-
-Gaming on a PC has many advantages, including:
-
-* Superior Graphics
-* Better Performance 
-* PC Exclusive Titles 
-
-Lucky for you, PC gaming is cheaper than ever before. 
-
 ## Why Build a Gaming PC? 
 
 Many have grown accustomed to coming home, sitting down and turning on their console. It's easy and convenient, but is it the best option? 
