@@ -361,10 +361,10 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 <div id="holder">
 
 <div id="top"></div>
-<p>Chapter 1</p>
+<p>Table of Contents</p>
 
 <div id="bottom"></div>
-
+<p>test</p>
 </div>
 
 ## Custom Built or Prebuilt? 

@@ -487,3 +487,43 @@ tr:nth-child(odd) {
   align: middle;
 }
 
+/* Table of Contents */
+
+#holder {
+  height: auto;
+  width: 250px;
+
+}
+
+#holder p {
+  border-left: 1px solid #333;
+  border-right: 1px solid #333;
+  padding: 10px 15px;
+  margin: 0;
+}
+
+#top {
+  width: 248px;
+  height: 30px;
+  border: 1px solid #333;
+  background-color: #fff;
+}
+
+#bottom {
+  width: 248px;
+  height: 10px;
+  border-top-width: 1px;
+  border-right-width: 1px;
+  border-bottom-width: 1px;
+  border-left-width: 1px;
+  border-top-style: none;
+  border-right-style: solid;
+  border-bottom-style: solid;
+  border-left-style: solid;
+  border-top-color: #333;
+  border-right-color: #333;
+  border-bottom-color: #333;
+  border-left-color: #333;
+
+}
+
