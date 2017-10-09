@@ -358,6 +358,10 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 
 [View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
 
+# Table of Contents 
+
+1. [test](#test)
+
 ## Custom Built or Prebuilt? 
 
 There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 
@@ -588,3 +592,5 @@ It's much wiser to invest this money in your gaming PC. Later on down the line i
 If you don't have enough money to buy the best parts, that's okay. Just be patient and save your money.
 
 It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
+
+# test
