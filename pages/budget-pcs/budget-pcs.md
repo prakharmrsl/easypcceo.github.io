@@ -593,4 +593,3 @@ If you don't have enough money to buy the best parts, that's okay. Just be patie
 It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
 
 # test
-
