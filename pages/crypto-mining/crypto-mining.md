@@ -34,7 +34,7 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 
 [Monero](/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
 
-[View Monero mining CPUs and GPUs here](/monero-hardware/){: .big-button}
+[View Monero mining CPUs and GPUs here](/crypto-mining/monero-hardware/){: .big-button}
 
 ### 4. Dash 
 
