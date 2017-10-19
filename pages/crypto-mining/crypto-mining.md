@@ -11,7 +11,7 @@ As more and more begin to mine for cryptocurrency, it becomes harder and harder 
 
 This is why you need to START MINING NOW! 
 
-## Top 5 Most Popular Cryptocurrencies:
+## Top 6 Most Popular Cryptocurrencies:
 
 ### 6. Zcash 
 
