@@ -13,7 +13,7 @@ This is why you need to START MINING NOW!
 
 ## Top 5 Most Popular Cryptocurrencies:
 
-### 5. Zcash 
+### 6. Zcash 
 
 ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
@@ -28,6 +28,14 @@ Many would consider Zcash the future of anonymous transaction.
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
 
 [View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
+
+### 5. Monero
+
+![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
+
+[Monero](/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
+
+[View Monero mining CPUs and GPUs here](/monero-hardware/){: .big-button}
 
 ### 4. Dash 
 

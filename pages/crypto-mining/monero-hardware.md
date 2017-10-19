@@ -7,7 +7,7 @@ seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2017) "
 
 ![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
 
-Menero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
+Monero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
 
 ## Best Monero Mining Hardware 
 
