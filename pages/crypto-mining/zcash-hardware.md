@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2017" 
 ---
 
-<!--- ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .titlelogo-right} ---->
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
 ## What is Zcash? 
 

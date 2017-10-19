@@ -27,14 +27,14 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<td><a href="http://amzn.to/2iGNUyh"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
 		<td>Radeon R9 295 X2</td>
 		<td>36 MH/s</td>
-		<td>$1300</td>
+		<td>$1000</td>
 		<td><a class="big-button" href="http://amzn.to/2iGNUyh">Shop Now</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2wRMfMC"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
 		<td>Radeon RX 480</td>
 		<td>25 MH/s</td>
-		<td>$510</td>
+		<td>$450</td>
 		<td><a class="big-button" href="http://amzn.to/2wRMfMC">Shop Now</a></td>
 		
 	</tr>
