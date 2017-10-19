@@ -29,9 +29,8 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 
 [View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
 
-### 5. Monero
-
 ![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
+### 5. Monero
 
 [Monero](/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
 
