@@ -38,6 +38,7 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 
 ### 4. Dash 
 
+
 ![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right .img-small}
 
 <a href="https://www.dash.org/">Dash</a> is the first form of digital cash that works like physical cash. 
