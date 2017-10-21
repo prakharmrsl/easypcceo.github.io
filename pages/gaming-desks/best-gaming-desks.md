@@ -304,7 +304,7 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 	<tr>
 		<td>Standard</td>
 		<td>4.5/5</td>
-		<td><img class="table-image" src="/img/$$$.png" /></td>
+		<td><img src="/img/$$$.png" /></td>
 		<td><a href="http://amzn.to/2yWXvZl"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
