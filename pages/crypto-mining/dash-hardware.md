@@ -26,7 +26,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 		<td><a href="/crypto-mining/antminer-d3-review/">Antminer D3</a></td>
 		<td>15 GH/s</td>
 		<td>$2700</td>
-		<td><a class="big-button" href="http://amzn.to/2wn6YoE">Shop</a></td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/baikal-mini.png" /></a></td>
@@ -58,9 +58,9 @@ Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/),
 
 ## Dash Mining Hardware
 
-### Antminer D3 
+### [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) 
 
-The Antminer D3 is a brand new ASIC miner and **it's by far the best miner on this list.** 
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is a brand new ASIC miner and **it's by far the best miner on this list.** 
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 

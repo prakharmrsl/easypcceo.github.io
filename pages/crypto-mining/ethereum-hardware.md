@@ -24,26 +24,26 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2iGNUyh"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
 		<td>Radeon R9 295 X2</td>
 		<td>36 MH/s</td>
 		<td>$1000</td>
-		<td><a class="big-button" href="http://amzn.to/2iGNUyh">Shop Now</a></td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2wRMfMC"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
 		<td>Radeon RX 480</td>
 		<td>25 MH/s</td>
 		<td>$450</td>
-		<td><a class="big-button" href="http://amzn.to/2wRMfMC">Shop Now</a></td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2whmu7e"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
 		<td>Radeon HD 7990</td>
 		<td>36 MH/s</td>
 		<td>$900</td>
-		<td><a class="big-button" href="http://amzn.to/2whmu7e">Shop Now</a></td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	
@@ -71,21 +71,21 @@ Below are the 3 best Ethereum mining GPUs:
 
 ### Radeon R9 295X2
 
-By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://amzn.to/2iGNUyh) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
+By far the most powerful Ethereum miner, the [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $754.44 USD annually per card.
 
-[Shop for Radeon R9 295X2 GPUs](http://amzn.to/2iGNUyh){: .big-button}
+[Shop for Radeon R9 295X2 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ### Radeon R9 HD 7990 
 
-A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://amzn.to/2whmu7e) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
+A powerful alternative to the R9 295X2, the [Radeon R9 HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $678.24 USD annually per card. 
 
-[Shop for Radeon R9 HD 7990 GPUs](http://amzn.to/2whmu7e){: .big-button}
+[Shop for Radeon R9 HD 7990 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ### Radeon RX 480 
 
-Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://amzn.to/2wRMfMC) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card.
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $521.40 USD annually per card.
 
-[Shop Radeon RX 480 GPUs](http://amzn.to/2wRMfMC){: .big-button}
+[Shop Radeon RX 480 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ## What is Ethereum? 
 
