@@ -286,7 +286,7 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 ![Arozzi Arena Desk](/img/desk/arena-black.png){: .img-right .img-small}
 
 
-**1.** Last but certainly not least is the [Arozzi Arena Gaming Desk](http://amzn.to/2yWXvZl). It's the perfect desk for the ultimate gaming setup. 
+**7.** Last but certainly not least is the [Arozzi Arena Gaming Desk](http://amzn.to/2yWXvZl). It's the perfect desk for the ultimate gaming setup. 
 
 The 160cm/5'3 inches width allows for a sweet triple monitor setup. The 80cm/2' 7.5 inches length gives you plenty of room for your mouse, keyboard and other peripherals. 
 
