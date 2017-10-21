@@ -310,4 +310,3 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 		<td><a href="http://amzn.to/2yWXvZl"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
-
