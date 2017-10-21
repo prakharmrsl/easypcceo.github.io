@@ -227,7 +227,7 @@ It's safe to say this is a true gaming desk, deservant of a true PC gamer. Comin
 	<tr>
 		<td>Standard</td>
 		<td>4.5/5</td>
-		<td><img class="table-image" src="/img/$$.png" /></td>
+		<td><img class="money" src="/img/$$.png" /></td>
 		<td><a href="http://amzn.to/2x7ZMMF"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
@@ -254,7 +254,7 @@ This desk is versatile and looks wonderful. It'll be the perfect addition to you
 	<tr>
 		<td>L-Shaped</td>
 		<td>4.4/5</td>
-		<td><img class="table-image" src="/img/$$.png" /></td>
+		<td><img class="money" src="/img/$$.png" /></td>
 		<td><a href="http://amzn.to/2xR7sCn"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
