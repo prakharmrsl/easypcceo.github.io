@@ -85,7 +85,7 @@ While it's a great pass time, hours on end of sitting in front of a screen can g
 
 Furthermore, having a sweet gaming desk completes your setup. Think about it: you invest so much in an amazing PC with cool case fans and LEDs, an mouse/mousepad and keyboard, headset, monitor, etc. Why should you settle for a sub-par gaming desk? 
 
-![Atlantic](/img/desk/atlantic.jpg)
+![Atlantic](/img/desk/atlantic.jpeg)
 
 From a health standpoint, having the right desk is also important. If your desk isn't the right height for you, it will affect your posture and more than likely cause [back pain.](http://www.health.com/health/gallery/0,,20355520,00.html) 
 
