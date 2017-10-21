@@ -314,3 +314,9 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 		<td><a href="http://amzn.to/2yWXvZl"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
+
+## Conclusion
+
+At the end of the day, whether you're a casual gamer or a PC master race enthusiast, you deserve to sit behind the proper desk. 
+
+Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal. 
