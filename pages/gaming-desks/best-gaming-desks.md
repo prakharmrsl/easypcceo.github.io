@@ -85,6 +85,8 @@ While it's a great pass time, hours on end of sitting in front of a screen can g
 
 Furthermore, having a sweet gaming desk completes your setup. Think about it: you invest so much in an amazing PC with cool case fans and LEDs, an mouse/mousepad and keyboard, headset, monitor, etc. Why should you settle for a sub-par gaming desk? 
 
+![Atlantic](/img/desk/atlantic.jpg)
+
 From a health standpoint, having the right desk is also important. If your desk isn't the right height for you, it will affect your posture and more than likely cause [back pain.](http://www.health.com/health/gallery/0,,20355520,00.html) 
 
 Lastly, you'll need enough space for all of your peripherals. As a PC gamer, you need room for monitor(s), keyboard, mouse and mousepad, etc. Ideally you'd want your PC on the desk as well. 
@@ -102,6 +104,8 @@ Selecting the proper desk for your setup shouldn't be difficult. Simply figure o
 Knowing the right size for you is critical. Not only the surface area of the desk, but the height of it as well.   
 
 You have a monitor if not two or three, a keyboard and mouse, a PC, and you'll probably want room for food or any other miscellaneous items. 
+
+![ultimate](/img/desk/ultimate.jpg)
 
 The last thing you want for your setup is clutter everywhere and a cramped setup. PC gaming is far superior to consoles. Having enough desk space will help ensure you receive the most out of your PC gaming experience. 
 
