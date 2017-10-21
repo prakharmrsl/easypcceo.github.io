@@ -83,7 +83,7 @@ All gamers occasionally lock themselves in their room with a two liter of Mounta
 
 While it's a great pass time, hours on end of sitting in front of a screen can grow quite uncomfortable. Having the proper desk for you can drastically reduce if not eliminate this issue. 
 
-Furthermore, having a sweet gaming desk completes your setup. Think about it: you invest so much in an amazing PC with cool case fans and LEDs, an mouse/mousepad and keyboard, headset, monitor, etc. Why should you settle for a sub-par gaming desk? 
+Furthermore, having a sweet gaming desk completes your setup. Think about it: you invest so much in an amazing PC with cool case fans and LEDs, a mouse/mousepad and keyboard, headset, monitor, etc. Why should you settle for a sub-par gaming desk? 
 
 ![Atlantic](/img/desk/atlantic.jpeg)
 
