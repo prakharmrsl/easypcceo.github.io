@@ -254,12 +254,14 @@ This desk is versatile and looks wonderful. It'll be the perfect addition to you
 	<tr>
 		<td>L-Shaped</td>
 		<td>4.4/5</td>
-		<td><img src="/img/$$.png" /></td>
+		<td><img class="money" src="/img/$$.png" /></td>
 		<td><a href="http://amzn.to/2xR7sCn"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
 
 ## E-Blue USA Wireless Glowing LED Gaming Desk
+![Wireless Glowing LED Gaming Desk](/img/desk/glowing-desk.png){: .img-right .img-small}
+
 
 **6.** The [E-Blue USA Wireless Glowing LED Gaming Desk](http://amzn.to/2zm6yio) is the world's first glowing desk for gamers. It allows you to control the glowing speed and effect with a wireless remote. 
 
