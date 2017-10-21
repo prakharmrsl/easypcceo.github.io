@@ -87,7 +87,7 @@ You can calculate your projected Dash mining profitability with [this Dash minin
 
 The Antminer D3 requires a special power supply from Bitmain. 
 
-You can find the APW3++ 1200W power supply on [Amazon](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=apw3+%2B%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for $300. While the price may seem high, it's well worth the investment. 
+You can find the APW3++ 1200W power supply on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=apw3+%2B%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for $300. While the price may seem high, it's well worth the investment. 
 
 This is the most efficient power supply on the market for this ASIC miner. It includes ten 6-pin PCIe connectors. 
 
