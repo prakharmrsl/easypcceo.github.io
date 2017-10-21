@@ -277,7 +277,7 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 	<tr>
 		<td>Standard</td>
 		<td>3.4/5</td>
-		<td><img class="table-image" src="/img/$$$.png" /></td>
+		<td><img class="money" src="/img/$$$.png" /></td>
 		<td><a href="http://amzn.to/2zm6yio"><img class="table-image" src="/img/cart.png" /></a></td>
 	</tr>
 </table>
