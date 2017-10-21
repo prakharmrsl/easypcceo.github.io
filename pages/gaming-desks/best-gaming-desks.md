@@ -71,10 +71,6 @@ This guide will illustrate the **7 best gaming desks of 2017.** Don't fear if yo
 		<td>$400</td>
 		
 	</tr>
-<tr>
-	<td colspan="4"><a href="https://pcpartpicker.com/list/XRTwsJ">PCPartPicker</a></td>
-</tr>
-	
 </table>
 
 ## The Importance of a Sweet Gaming Desk 
