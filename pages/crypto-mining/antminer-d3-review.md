@@ -83,6 +83,12 @@ However, your projected profits may vary based on where you live and your electr
 
 You can calculate your projected Dash mining profitability with [this Dash mining profitability calculator](https://www.cryptocompare.com/mining/calculator/dash?HashingPower=15&HashingUnit=GH%2Fs&PowerConsumption=1200&CostPerkWh=0.13).
 
+<div class="vid-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13sFAL7Z1uU?rel=0&amp;start=24" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
 ## Powering the Antminer D3 
 
 The Antminer D3 requires a special power supply from Bitmain. 

@@ -46,6 +46,14 @@ Before you start mining, you'll probably want to know if it's worth your money.
 	
 </table>
 
+## Dash in a Nutshell
+
+<div class="vid-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tfKjKPPmFb0?rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
 ## Is Dash Mining Profitable? 
 
 The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
@@ -180,3 +188,4 @@ Other types of coins like Bitcoin that are on a public ledger can be more easily
 If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. Keep in mind, however, that this is highly unlikely and as of today, Bitcoin is a sound investment. 
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
+

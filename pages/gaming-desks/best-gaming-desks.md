@@ -111,6 +111,12 @@ The last thing you want for your setup is clutter everywhere and a cramped setup
 
 As mentioned previously, having a desk of the proper height is also important. Having a desk that is too high or low leads to bad posture which grows quite uncomfortable very quickly.  
 
+<div class="vid-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xzV1Hej61CY?rel=0" frameborder="0" allowfullscreen></iframe>
+
+</div>
+
 ### Assembly 
 
 Are you good at working with your hands? Or maybe you prefer a quick assembly? Both are factors to consider when buying a desk. Some desks require tools for their construction while others can quickly snap together without much hassle. 

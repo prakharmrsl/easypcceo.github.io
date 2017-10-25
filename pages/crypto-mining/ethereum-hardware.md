@@ -61,7 +61,13 @@ As you can see, the above graph shows the return on investment of the Radeon R9 
 
 While it is possible to turn a profit mining Ethereum, [X11 Dash mining](/crypto-mining/dash-hardware/) **is FAR more profitable.**
 
-## 3 Best Ethereum Mining GPUs
+This video will teach you how to begin mining Ethereum:
+
+<div class="vid-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPzJbDI1yxo?rel=0&amp;start=78" frameborder="0" allowfullscreen></iframe>
+
+</div>
 
 Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
 
