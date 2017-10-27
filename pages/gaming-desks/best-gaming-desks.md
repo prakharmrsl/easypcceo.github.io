@@ -133,7 +133,7 @@ What your desk is made of will obviously have the largest impact on the look, fe
 
 At the end of the day, all three materials are a great choice in their own way. It's really all up to you. 
 
-Check out this infographic! It'll show you 10 things to consider BEFORE you buy! 
+**Check out this infographic! It'll show you 10 things to consider BEFORE you buy!** 
 
 ![Gaming Desk Infographic](/img/infographic/gaming-desk-infographic.png)
 
