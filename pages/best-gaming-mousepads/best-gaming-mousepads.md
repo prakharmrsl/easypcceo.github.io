@@ -57,7 +57,7 @@ With so many different kinds of mousepads available in the market, choosing the 
 	</tr>
 </table>
 
- ## Turtle Beach Drift Mousepad - $15
+## Turtle Beach Drift Mousepad - $15
 ![TB Drift](/img/mousepad/tb-drift.png){: .img-right .img-small}
 
 
