@@ -15,6 +15,10 @@ One huge benefit of Zcash is the ability of the user to choose whether or not th
 
 Zcash is based on a decentralized blockchain, just like [Bitcoin](/crypto-mining/bitcoin-hardware/). Zcash has caused lots of controversy, because it is set up as a company, not an opensource community.
 
+Finding the right harware for mining Zcash can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
+
+As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
+
 ## Zcash Mining Hardware
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
