@@ -144,7 +144,7 @@ It features a blue Logitech G logo near its bottom. Its smooth surface will help
 * Size: 13.4 x 11.0 inches
 * Thickness: 0.04 inches
 
-[View on Amazon](http://amzn.to/2ydbHgS)
+[View on Amazon](http://amzn.to/2ydbHgS){: .big-button}
 
 ## The Importance of a Gaming Mousepad 
 
