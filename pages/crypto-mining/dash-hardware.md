@@ -58,6 +58,9 @@ Before you start mining, you'll probably want to know if it's worth your money.
 
 The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
 
+* TOC
+{:toc}
+
 If you use the right mining hardware, you'll see a great return on your investment. 
 
 Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market.

@@ -51,6 +51,9 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 
 ## Ethereum Mining Profitability 
 
+* TOC
+{:toc}
+
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
 Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
