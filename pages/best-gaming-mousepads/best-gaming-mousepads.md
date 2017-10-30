@@ -9,6 +9,9 @@ While playing your favourite video games on your PC, you may not feel the need f
 
 You may not know that a gaming grade mousepad can help to enhance your performance by providing consistent stability and precision. 
 
+* TOC
+{:toc}
+
 By providing a comfortable and streamlined surface, the pad will also protect your mouse from wearing down and getting too dirty over time. It will provide more comfort to your wrist as well.
 
 With so many different kinds of mousepads available in the market, choosing the right one can become overwhelming. Here are the 5 best gaming mousepads offered by leading brands which will make it easier for you to make the right choice.
