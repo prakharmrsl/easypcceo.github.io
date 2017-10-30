@@ -54,9 +54,6 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	
 </table>
 
-* TOC
-{:toc}
-
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
 ## The Extreme Budget Gamer ($400) 
@@ -325,9 +322,6 @@ If you know what you're looking for, you can find some great prebuilt alternativ
 
 ![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-small}
 
-* TOC
-{:toc}
-
 The [Cyberpower PC Gamer Xtreme](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684) is another great option.
 
 This Cyberpower PC can be found on Amazon for the price of $720. This PC features:
@@ -386,6 +380,9 @@ Take a look at the PC below:
 As you can see, this PC is going for nearly $1100 USD. Now let's take a look at what these parts would cost you: 
 
 ![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
+
+* TOC
+{:toc}
 
 This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
 
