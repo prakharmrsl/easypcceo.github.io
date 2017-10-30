@@ -73,6 +73,9 @@ This guide will illustrate the **7 best gaming desks of 2017.** Don't fear if yo
 	</tr>
 </table>
 
+* TOC
+{:toc}
+
 ## The Importance of a Sweet Gaming Desk 
 
 Having the right desk for you completes your PC gaming setup. Sure you could use any old desk, but it wouldn't asthetically fit your setup. Furthermore, it probably wouldn't be too ergonomic either. 
