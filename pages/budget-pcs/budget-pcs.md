@@ -161,7 +161,9 @@ You are still spending a relatively small amount on the PC, but it is still enou
 
 <p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
-## The Stealth Gamer ($600) ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
+## The Stealth Gamer ($600) 
+![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
+
 
 This PC can run the newest titles in 1080p with 60 FPS including [Destiny 2](/game/destiny-2-gaming-pc/), Battlefield 1, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
 
