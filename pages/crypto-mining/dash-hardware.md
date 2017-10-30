@@ -192,4 +192,3 @@ Other types of coins like Bitcoin that are on a public ledger can be more easily
 If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. Keep in mind, however, that this is highly unlikely and as of today, Bitcoin is a sound investment. 
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
-
