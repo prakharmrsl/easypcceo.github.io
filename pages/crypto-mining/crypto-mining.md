@@ -100,9 +100,6 @@ Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
 ## Crypto Mining Guide 
 
-* TOC
-{:toc}
-
 This guide will teach you the basics of mining for cryptocurrencies.
 
 These are the 3 MOST important parts of a cryptocurrency mining PC: 
@@ -188,6 +185,9 @@ Lastly, using the right power supply is crucial. If your mining rig is not provi
 Mining may sound like a great idea. Just get a mining GPU, and let the profits roll in. 
 
 Right? 
+
+* TOC
+{:toc}
 
 Not necessarily. 
 

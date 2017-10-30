@@ -383,9 +383,6 @@ As you can see, this PC is going for nearly $1100 USD. Now let's take a look at 
 
 ![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
 
-* TOC
-{:toc}
-
 This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
 
 Most retailers mark up their prices even more dramatically. Evidently, building your own PC is cheaper. 
@@ -563,6 +560,9 @@ If you're on a budget, you should cut corners elsewhere and focus that money tow
 We recommend the GTX 1050 ti as the best budget gaming GPU. 
 
 [View GTX 1050 ti on Amazon](http://amzn.to/2xb0SXA){: .big-button}
+
+* TOC
+{:toc}
 
 ## Look for Deals
 

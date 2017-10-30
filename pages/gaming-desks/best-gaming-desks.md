@@ -73,9 +73,6 @@ This guide will illustrate the **7 best gaming desks of 2017.** Don't fear if yo
 	</tr>
 </table>
 
-* TOC
-{:toc}
-
 ## The Importance of a Sweet Gaming Desk 
 
 Having the right desk for you completes your PC gaming setup. Sure you could use any old desk, but it wouldn't asthetically fit your setup. Furthermore, it probably wouldn't be too ergonomic either. 
@@ -311,7 +308,10 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 
 The 160cm/5'3 inches width allows for a sweet triple monitor setup. The 80cm/2' 7.5 inches length gives you plenty of room for your mouse, keyboard and other peripherals. 
 
-The desk surface features a microfiber water-resistant material wellsuited for the use of a mouse. It's available in five colors, and the feet can be adjusted to suit your needs. It's also easily transported, as the desk breaks down into three seperate sections.    
+The desk surface features a microfiber water-resistant material wellsuited for the use of a mouse. It's available in five colors, and the feet can be adjusted to suit your needs. It's also easily transported, as the desk breaks down into three seperate sections.
+
+* TOC
+{:toc}    
 
 This desk is the most expensive on the list, but for good reason. It has plenty of space for all components and peripherals. Moreover, it looks and feels great. The height can be adjusted, and the design is impeccable. It's earned the number one spot on the list, and rightfully so. 
 
