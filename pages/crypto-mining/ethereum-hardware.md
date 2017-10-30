@@ -74,8 +74,6 @@ Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](htt
 However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/).
 
 Below are the 3 best Ethereum mining GPUs:
-* TOC
-{:toc}
 
 ### Radeon R9 295X2
 
@@ -124,6 +122,9 @@ That's the beauty of passive income. Once you set up your mining rig, you'll gen
 ## What are Ethereum Smart Contracts? 
 
 A smart contract is computer code that is built into the blockchain network that computers execute. Once the code is executed, the ledger is updated. 
+
+* TOC
+{:toc}
 
 [Ameer Rosic](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ) uses 'if this than that' logic to explain smart contracts. If we create a code online on the blockchain, and someone puts money into the contract, the next action will be executed. This may be a digital contract being sent to somebody's email, for example. This trigger may execute something else, so on and so on.  
 
