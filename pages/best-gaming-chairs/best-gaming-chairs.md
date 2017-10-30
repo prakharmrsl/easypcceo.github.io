@@ -81,24 +81,24 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 
 A quality gaming chair can be a bit expensive. While it's well worth the money, you should get the most bang out of your gaming chair buck. Here are a few things to consider before you buy: 
 
-### Ergonomics: The most important thing to consider before you buy a gaming chair is the chair's [ergonomics](https://www.osha.gov/SLTC/ergonomics/). 
+**Ergonomics:** The most important thing to consider before you buy a gaming chair is the chair's [ergonomics](https://www.osha.gov/SLTC/ergonomics/). 
 
 If the chair doesn't suit your body, you're going to hate it. It doesn't matter how cool the chair is. At the end of the day, if the chair isn't comfortable for you, it'll be a waste of money. 
 
-**Height control** is an important feature to watch out for. It allows you to adjust the chair to the perfect height for you. It's a fairly common attribute. 
+**Height control:** It is an important feature to watch out for. It allows you to adjust the chair to the perfect height for you. It's a fairly common attribute. 
 
 However, a less common yet equally important feature is **armrest height control**. Having your arm rests at the wrong height can quickly become irritating.
 
 Lastly, check to see if the chair is able to **recline**. It's often nice to lean back in your chair in between rounds or when watching Netflix/YouTube. 
 
-### Design: Before you buy, consider what kind of chair would go well with your setup. Do you want a modern feel? Maybe something more traditional, like an office chair? 
+**Design:** Before you buy, consider what kind of chair would go well with your setup. Do you want a modern feel? Maybe something more traditional, like an office chair? 
 
 * TOC
 {:toc}
 
 This really is in the eyes of the beholder. Figure out what you like and go from there! 
 
-### Material: Last but certainly not least, the material of your chair is an important consideration. 
+**Material:** Last but certainly not least, the material of your chair is an important consideration. 
 
 The quality of the material you choose has a direct impact on the lifespan of the chair. Moreover, if you choose an uncomfortable material, you'll hate your chair. 
 
