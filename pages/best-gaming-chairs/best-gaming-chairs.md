@@ -1,6 +1,6 @@
 ---
 title: The Ultimate Gaming Chairs of 2017
-permalink: "/gaming-cpus/top-5-gaming-cpus-2017/"
+permalink: "/best-gaming-chairs/"
 layout: page
 seotitle: "5 Best Gaming Chairs of 2017 You'll Love"
 ---
