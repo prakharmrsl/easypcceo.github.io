@@ -55,7 +55,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 		<td><a href="http://amzn.to/2y7h9ga"><img class="table-image" src="/img/chair/alpha.png" /></a></td>
 		<td>LEVL Gaming Alpha Series M Gaming Chair</td>
 		<td>50 lbs</td>
-		<td><a class="table-image" href="http://amzn.to/2y7h9ga">Check Price</a></td>
+		<td><a class="big-button" href="http://amzn.to/2y7h9ga">Check Price</a></td>
 		
 	</tr>
 	<tr>
