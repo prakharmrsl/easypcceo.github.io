@@ -51,9 +51,6 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 
 ## Ethereum Mining Profitability 
 
-* TOC
-{:toc}
-
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
 Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
@@ -77,6 +74,8 @@ Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](htt
 However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/).
 
 Below are the 3 best Ethereum mining GPUs:
+* TOC
+{:toc}
 
 ### Radeon R9 295X2
 
