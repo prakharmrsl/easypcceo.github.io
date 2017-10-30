@@ -7,9 +7,6 @@ seotitle: 5 Best Budget & Cheap Gaming PCs 2017 (Dirt Cheap)
 
 It's 2017, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
 
-* TOC
-{:toc}
-
 However, expensive components may prevent you from pulling the trigger. Fortunately for you, this guide will walk  you through five budget gaming PCs that **won't break the bank.** 
 
 Furthermore, I'll cover every aspect of PC gaming and answer any questions a new builder could have. 
@@ -327,6 +324,9 @@ Though many prebuilt gaming PCs aren't worth the time or the money, there are so
 If you know what you're looking for, you can find some great prebuilt alternatives. 
 
 ![Prebuilt Cyberpower PC](/img/misc/prebuilt/prebuilt-cyberpower.jpg){: .img-right .img-small}
+
+* TOC
+{:toc}
 
 The [Cyberpower PC Gamer Xtreme](https://www.amazon.com/gp/product/B071NG75BW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B071NG75BW&linkId=b153bfa349c533927d7790f6c130d684) is another great option.
 
