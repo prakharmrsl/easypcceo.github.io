@@ -5,10 +5,6 @@ layout: page
 seotitle: "5 Best Gaming Mousepads in 2017 (Comparison)" 
 --- 
 
-* TOC
-{:toc}
-
-
 While playing your favourite video games on your PC, you may not feel the need for a gaming mousepad, as you are satisfied with the function of your gaming mouse. 
 
 You may not know that a gaming grade mousepad can help to enhance your performance by providing consistent stability and precision. 
@@ -157,6 +153,9 @@ There are many reasons why you need a great gaming mousepad. Here are just a few
 ### Competitive Edge
 
 A [high quality gaming mousepad is pretty important](http://www.tested.com/tech/accessories/1850-the-real-benefits-of-an-expensive-gaming-mousepad/) for gamers as it provides the competitive edge we need. It allows for precise cursor movements which are crucial for competitive play. Any wrong mouse movement can result in a death, or worse, a loss. Such instances can be avoided or reduced with a quality mousepad. 
+
+* TOC
+{:toc}
 
 Though a gaming mouse can work on most surfaces, competitive gaming requires tracking on a more optimized surface. 
 
