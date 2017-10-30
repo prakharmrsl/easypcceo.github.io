@@ -16,7 +16,7 @@ Of course, you are not just sitting in any old chair. As a PC enthusiast, you'll
 
 Aside from feeling like a god, here are a few reasons why you need to invest in a gaming chair:
 
-### Health: If you're a true gamer, odds are you've spent four or more hours in a row behind your monitor with a keyboard and mouse in hand. 
+**Health:** If you're a true gamer, odds are you've spent four or more hours in a row behind your monitor with a keyboard and mouse in hand. 
 
 If you're [sitting for a prolonged period of time](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005), it can begin to take a toll on your back, muscles, tendons, and other parts of your body. Buying an ergonomic and comfortable gaming chair will dramatically reduce the risk of back pain and bad bosture. 
 
@@ -24,11 +24,11 @@ If you're [sitting for a prolonged period of time](https://www.mayoclinic.org/he
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bLBKUbnLYTs" frameborder="0" allowfullscreen></iframe>
 </div> 
 
-### Style: You've already spent plenty of money on your gaming setup. From the desktop itself, to the monitor, keyboard, mouse, mousepad, headset, and the [desk](/best-gaming-desks/), you've probably already spent plenty of money. 
+**Style:** You've already spent plenty of money on your gaming setup. From the desktop itself, to the monitor, keyboard, mouse, mousepad, headset, and the [desk](/best-gaming-desks/), you've probably already spent plenty of money. 
 
 If you truly want to be proud of your gaming setup, you need a sweet gaming chair. It's the final touch to your gaming setup. 
 
-### Experience: The PC gaming experience is superior to the console gaming experience. While it can be a bit more expensive, it's worth it in the long run. 
+**Experience:** The PC gaming experience is superior to the console gaming experience. While it can be a bit more expensive, it's worth it in the long run. 
 
 If you want the most out of your games, PC is the way to go. Part of the PC gaming experience is your gaming setup. More specifically, the look and feel of your setup. A gaming chair completes the picture.
 
