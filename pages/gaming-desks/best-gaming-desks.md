@@ -306,12 +306,12 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 
 **7.** Last but certainly not least is the [Arozzi Arena Gaming Desk](http://amzn.to/2yWXvZl). It's the perfect desk for the ultimate gaming setup. 
 
+* TOC
+{:toc}
+
 The 160cm/5'3 inches width allows for a sweet triple monitor setup. The 80cm/2' 7.5 inches length gives you plenty of room for your mouse, keyboard and other peripherals. 
 
 The desk surface features a microfiber water-resistant material wellsuited for the use of a mouse. It's available in five colors, and the feet can be adjusted to suit your needs. It's also easily transported, as the desk breaks down into three seperate sections.
-
-* TOC
-{:toc}    
 
 This desk is the most expensive on the list, but for good reason. It has plenty of space for all components and peripherals. Moreover, it looks and feels great. The height can be adjusted, and the design is impeccable. It's earned the number one spot on the list, and rightfully so. 
 
