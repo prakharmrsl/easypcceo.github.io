@@ -7,9 +7,6 @@ seotitle: "5 Best Gaming Chairs of 2017 You'll Love"
 
 After building your gaming PC, hooking up your monitor and plugging in your peripherals, it's time to pull a chair up to your [gaming desk](/best-gaming-desks/) and start playing. 
 
-* TOC
-{:toc}
-
 Of course, you are not just sitting in any old chair. As a PC enthusiast, you'll only settle for the best. This top list highlights the 5 best gaming chairs of 2017. 
 
 ## 3 Reasons Why You NEED a Proper Gaming Chair
@@ -197,7 +194,6 @@ It has a sleek black/blue leather-like vinly upholstery, providing comfort durin
 ## DX Racer Formula Series Racing Gaming Chair - $299
 ![DX Racer Formula Series Racing Gaming Chair](/img/chair/DX-racer.png){: .img-small .img-right}
 
-
 **5.** The [DX Racer Formula Series Racing Gaming Chair](http://amzn.to/2xmtRrP) is another great choice if you have a bit more money to spend. While the chair featured in this article is yellow, it actually comes in 11 different colors/styles. 
 
 This chair is ergonomic, and ships with a free headrest/lumbard cushion. The seat has a strong mesh and PU cover. Its backrest is a bit higher than other chairs to further support your neck and back. The armrests are adjustable, and the chair frame even ships with a lifetime warrenty. 
@@ -214,3 +210,6 @@ This chair is ergonomic, and ships with a free headrest/lumbard cushion. The sea
 * Price
 
 [View on Amazon](http://amzn.to/2xmtRrP){: .big-button}
+
+* TOC
+{:toc}
