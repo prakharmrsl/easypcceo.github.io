@@ -189,10 +189,10 @@ It has a sleek black/blue leather-like vinly upholstery, providing comfort durin
 
 **5.** The [DX Racer Formula Series Racing Gaming Chair](http://amzn.to/2xmtRrP) is another great choice if you have a bit more money to spend. While the chair featured in this article is yellow, it actually comes in 11 different colors/styles. 
 
+This chair is ergonomic, and ships with a free headrest/lumbard cushion. The seat has a strong mesh and PU cover. Its backrest is a bit higher than other chairs to further support your neck and back. The armrests are adjustable, and the chair frame even ships with a lifetime warrenty. 
+
 * TOC
 {:toc}
-
-This chair is ergonomic, and ships with a free headrest/lumbard cushion. The seat has a strong mesh and PU cover. Its backrest is a bit higher than other chairs to further support your neck and back. The armrests are adjustable, and the chair frame even ships with a lifetime warrenty. 
 
 **Pros:**
 
