@@ -62,7 +62,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 		<td><a href="http://amzn.to/2yMayKb"><img class="table-image" src="/img/chair/SPACE.png" /></a></td>
 		<td>SPACE Seating Professional AirGrid Office Chair</td>
 		<td>40 lbs</td>
-		<td><a class="big-button" href="http://amzn.to/2yMayKb">Check price</a></td>
+		<td><a class="big-button" href="http://amzn.to/2yMayKb">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-Racer.png" /></a></td>
@@ -195,9 +195,6 @@ It has a sleek black/blue leather-like vinly upholstery, providing comfort durin
 
 This chair is ergonomic, and ships with a free headrest/lumbard cushion. The seat has a strong mesh and PU cover. Its backrest is a bit higher than other chairs to further support your neck and back. The armrests are adjustable, and the chair frame even ships with a lifetime warrenty. 
 
-* TOC
-{:toc}
-
 **Pros:**
 
 * Lumbar/neck support
@@ -210,3 +207,6 @@ This chair is ergonomic, and ships with a free headrest/lumbard cushion. The sea
 * Price
 
 [View on Amazon](http://amzn.to/2xmtRrP){: .big-button}
+
+* TOC
+{:toc}
