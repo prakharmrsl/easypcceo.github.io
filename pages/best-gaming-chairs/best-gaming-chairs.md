@@ -58,7 +58,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 		<td><a href="http://amzn.to/2yMayKb"><img class="table-image" src="/img/chair/SPACE.png" /></a></td>
 		<td>SPACE Seating Professional AirGrid Office Chair</td>
 		<td>40 lbs</td>
-		<td><a class="big-button" href="http://amzn.to/2yMayKb">Check Price</a></td>
+		<td><a class="big-button" href="http://amzn.to/2yMayKb">Check price</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-racer.png" /></a></td>
