@@ -17,6 +17,10 @@ Aside from feeling like a god, here are a few reasons why you need to invest in 
 
 If you're [sitting for a prolonged period of time](https://www.mayoclinic.org/healthy-lifestyle/adult-health/expert-answers/sitting/faq-20058005), it can begin to take a toll on your back, muscles, tendons, and other parts of your body. Buying an ergonomic and comfortable gaming chair will dramatically reduce the risk of back pain and bad bosture. 
 
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bLBKUbnLYTs?start=10" frameborder="0" allowfullscreen></iframe>
+</div>
+
 **Style:** You've already spent plenty of money on your gaming setup. From the desktop itself, to the monitor, keyboard, mouse, mousepad, headset, and the [desk](/best-gaming-desks/), you've probably already spent plenty of money. 
 
 If you truly want to be proud of your gaming setup, you need a sweet gaming chair. It's the final touch to your gaming setup. 
