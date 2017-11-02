@@ -86,9 +86,6 @@ Lastly, check to see if the chair is able to **recline**. It's often nice to lea
 
 **Design:** Before you buy, consider what kind of chair would go well with your setup. Do you want a modern feel? Maybe something more traditional, like an office chair? 
 
-* TOC
-{:toc}
-
 This really is in the eyes of the beholder. Figure out what you like and go from there! 
 
 **Material:** Last but certainly not least, the material of your chair is an important consideration. 
