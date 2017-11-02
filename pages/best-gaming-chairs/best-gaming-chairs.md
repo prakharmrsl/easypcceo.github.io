@@ -64,7 +64,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-racer.png" /></a></td>
 		<td>DX Racer Formula Series Racing Gaming Chair</td>
 		<td>57 lbs</td>
-		<td><a clas=s=href="http://amzn.to/2xmtRrP">Check Price</a></td>
+		<td><a class"big-button" href="http://amzn.to/2xmtRrP">Check Price</a></td>
 
 		
 	</tr>
