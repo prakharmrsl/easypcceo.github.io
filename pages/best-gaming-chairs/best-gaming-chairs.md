@@ -61,10 +61,10 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 		<td><a class="big-button" href="http://amzn.to/2yMayKb">Check price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-racer.png" /></a></td>
+		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-Racer.png" /></a></td>
 		<td>DX Racer Formula Series Racing Gaming Chair</td>
 		<td>57 lbs</td>
-		<td><a class"big-button" href="http://amzn.to/2xmtRrP">Check Price</a></td>
+		<td><a class="big-button" href="http://amzn.to/2xmtRrP">Check Price</a></td>
 
 		
 	</tr>
@@ -185,7 +185,7 @@ It has a sleek black/blue leather-like vinly upholstery, providing comfort durin
 [View on Amazon](http://amzn.to/2y7h9ga){: .big-button}
 
 ## DX Racer Formula Series Racing Gaming Chair - $299
-![DX Racer Formula Series Racing Gaming Chair](/img/chair/DX-racer.png){: .img-small .img-right}
+![DX Racer Formula Series Racing Gaming Chair](/img/chair/DX-Racer.png){: .img-small .img-right}
 
 **5.** The [DX Racer Formula Series Racing Gaming Chair](http://amzn.to/2xmtRrP) is another great choice if you have a bit more money to spend. While the chair featured in this article is yellow, it actually comes in 11 different colors/styles. 
 
