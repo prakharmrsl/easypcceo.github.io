@@ -1,5 +1,5 @@
 ---
-title: Mining Ethereum with the Radeon R9 295X2: Buy This Miner?
+title: "Mining Ethereum with the Radeon R9 295X2: Buy This Miner?"
 permalink: "/crypto-mining/ethereum-hardware/r9-295-x2-review/"
 layout: page
 seotitle: "R9 295X2 Review: Good Miner for Ethereum and Other Coins?" 
