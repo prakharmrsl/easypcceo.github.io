@@ -69,7 +69,7 @@ This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU w
 
 ## Radeon R9 295X2 Mining Profitability & Payback Period 
 
-As stated previously, you'll generate around $226 annually with this GPU. While mining Ethereum is profitable, it's still nowhere close to the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
+As stated previously, you'll generate around $226 annually with this GPU. The Radeon R9 295X2 has a payback period of just over two years.  While mining Ethereum is profitable, it's still nowhere near the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
 
 For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) generates yearly returns of over $800. It's definitely worth the time to check it out! 
 
