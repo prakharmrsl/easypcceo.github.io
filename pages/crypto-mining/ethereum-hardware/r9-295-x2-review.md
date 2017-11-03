@@ -22,7 +22,7 @@ Our rating: **4/5**
 ## Ethereum Mining in 2017 
 ![Radeon R9 295X2](/img/cryptocurrency/gpu/r9-295-x2.png){: .img-right .img-small}
 
-Ethereum is sitting comfortably one of the most popular [cryptocurrencies](/crypto-mining/) of 2017, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
+Ethereum is sitting comfortably as one of the most popular [cryptocurrencies](/crypto-mining/) of 2017, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
 
 Why?
 
