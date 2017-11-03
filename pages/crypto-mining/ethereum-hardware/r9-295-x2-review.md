@@ -57,6 +57,9 @@ The Radeon R9 295X2 has the highest hash rate among Ethereum mining GPUs.
 
 This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU will have a return of $225.45 annually. Evidently, it's the best choice if you're looking to mine Ethereum. 
 
+* TOC
+{:toc}
+
 **Specifications of the Radeon R9 295X2:**
 
 * Hash Rate: 46 MH/s
@@ -103,6 +106,3 @@ For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/)
 	</tr>
 	
 </table> 
-
-* TOC
-{:toc}
