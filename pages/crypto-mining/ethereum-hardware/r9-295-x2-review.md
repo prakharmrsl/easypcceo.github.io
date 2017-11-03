@@ -22,7 +22,7 @@ Our rating: **4/5**
 ## Ethereum Mining in 2017 
 ![Radeon R9 295X2](/img/cryptocurrency/gpu/r9-295-x2.png){: .img-right .img-small}
 
-Ethereum is sitting comfortably one of the most popular cryptocurrencies of 2017, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
+Ethereum is sitting comfortably one of the most popular [cryptocurrencies](/crypto-mining/) of 2017, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
 
 Why?
 
@@ -34,7 +34,7 @@ Today we're taking a look at your projected earnings with the most powerful Ethe
 
 ## The Best (and most profitable) Ethereum Miner on the Market
 
-The Radeon R9 295X2 has the highest hash rate among Ethereum mining GPUs. 
+The Radeon R9 295X2 has the highest [hash rate](https://99bitcoins.com/what-is-bitcoin-hash/) among Ethereum mining GPUs. 
 
 <table class="basic-table" align="center">
 	<tr>
@@ -69,6 +69,8 @@ This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU w
 As stated previously, you'll generate around $226 annually with this GPU. The Radeon R9 295X2 has a payback period of just over two years.  While mining Ethereum is profitable, it's still nowhere near the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
 
 For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) generates yearly returns of over $800. It's definitely worth the time to check it out! 
+
+Your mining profitability may vary. You can use this [mining profitability calculator](https://www.cryptocompare.com/mining/calculator/eth?HashingPower=46&HashingUnit=MH%2Fs&PowerConsumption=500&CostPerkWh=0.12) to approximate your earnings! 
 
 <table class="basic-table" align="center">
 	<tr>
