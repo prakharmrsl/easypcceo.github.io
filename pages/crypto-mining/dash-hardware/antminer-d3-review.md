@@ -23,7 +23,7 @@ Our rating: **5/5**
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
-Dash is becoming ever more popular in 2017, and so are X11 Dash miners. 
+[Dash](/crypto-mining/dash-hardware/) is becoming ever more popular in 2017, and so are X11 Dash miners. 
 
 Why? 
 
@@ -50,13 +50,13 @@ The Antminer D3 boasts incredible hashing power and relatively low power consump
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
 		<td>15 GH/s</td>
 		<td>1200 W</td>
-		<td>2,461%</td>
+		<td>63%</td>
 		<td>$2,700</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
 	</tr>
 </table>
 
-This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 2,000%. After power costs of around $3.00 per day, you'll generate over $90.00 per day in revenue. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/).
+This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 60%. After power costs of around $3.00 per day, you'll generate over $800 per year in revenue. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/).
 
 The return on investment is out of this world. Sadly, they are selling out very quickly. We recommend ordering the next available Antminer D3. 
 
@@ -69,15 +69,13 @@ The return on investment is out of this world. Sadly, they are selling out very 
 
 ## Price
 
-You can find the Antminer D3 for $8,000 on [Amazon](http://amzn.to/2wn6YoE). While this is a bit on the high side, it's well worth your investment. If it's out of stock on Amazon, you can probably find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) too.
+You can find the Antminer D3 for $2,000 on [Amazon](http://amzn.to/2wn6YoE). While this is a bit on the high side, it's well worth your investment. If it's out of stock on Amazon, you can probably find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) too.
 
-This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself in only 3 months. 
-
-We're surprised the price of this miner isn't higher. The ROI is off the charts. 
+This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself very quickly. 
 
 ## Your Profitability with the Antminer D3 
 
-Considering the crazy high hash rate of the Antminer D3, it's safe to see you'll make plenty of money with the Antminer D3. 
+Considering the crazy high hash rate of the Antminer D3, it's safe to see you'll make plenty of money. 
 
 However, your projected profits may vary based on where you live and your electricity cost. 
 
@@ -110,8 +108,6 @@ Power consumption plays a large role in your profit margin. That being said, it'
 ## Return on Investment
 
 We cannot stress this enough: **The Antminer D3 is the MOST profitable miner on the market today.** 
-
-Its payback period is merely 3 months. If you buy 3 miners, you could generate over $90,000 annually. 
 
 Everyone is focused on mining [Bitcoin](https://www.buybitcoinworldwide.com/mining/hardware/), when they should really be focused on Dash mining. 
 
