@@ -78,6 +78,8 @@ Your mining profitability may vary. You can use this [mining profitability calcu
 
 While this miner has a good annual return, the [Radeon HD 7990](/crypto-mining/ethereum-hardware/radeon-hd-7990-review/) shows nearly **the same performance for half the price!**
 
+## Radeon R9 295X2 Compared to Other Ethereum Mining Hardware
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>

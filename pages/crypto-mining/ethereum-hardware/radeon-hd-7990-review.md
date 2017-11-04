@@ -76,6 +76,8 @@ For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/)
 
 Your mining profitability may vary. You can use this [mining profitability calculator](https://www.cryptocompare.com/mining/calculator/eth?HashingPower=46&HashingUnit=MH%2Fs&PowerConsumption=500&CostPerkWh=0.12) to approximate your earnings! 
 
+## Radeon HD 7990 Compared to Other Ethereum Mining Hardware
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>
