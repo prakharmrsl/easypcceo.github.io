@@ -29,9 +29,13 @@ This Antminer is very similar to the Antminer S9 series. However, it is a bit ta
 
 Each hashing board requires two PCI-E power connections and one forward controller. That makes nine power connections total. 
 
+[Buy the Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+
+## Powering the Antminer L3+
+
 It is important to buy the right power supply for this miner, as it does not ship with a power supply included. 
 
-The Antminer APW5 power supply is recommended. You can find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) 
+The **Antminer APW5 power supply** is recommended. You can find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) 
 
 The APW5 power supply can provide up to 1300 W / 110 V or 2600 W over 205 V+. 
 
