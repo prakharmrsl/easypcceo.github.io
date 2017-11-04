@@ -7,7 +7,7 @@ seotitle: "Radeon HD 7990 Review: Good Miner for Ethereum and Other Coins?"
 
 **Pros**
 
-* Hash rate (Second highest among Ethereum mining GPUs)
+* Hash rate (Second highest among [Ethereum mining GPUs](/crypto-mining/ethereum-hardware/)
 * Power consumption 
 * Price (Budget friendly)
 
@@ -82,7 +82,7 @@ Your mining profitability may vary. You can use this [mining profitability calcu
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
-		<td>Radeon R9 295 X2</td>
+		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
 		<td>46 MH/s</td>
 		<td>$600</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
