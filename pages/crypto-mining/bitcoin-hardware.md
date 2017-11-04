@@ -119,4 +119,3 @@ This miner is great for hobbyists who also are looking to make some money.
 ![Bitcoin Facts](https://bitcoinplay.net/wp-content/uploads/2017/08/bitcoin-fact-2.png)
 
 This infographic is courtesy of [Josh Wardini](https://bitcoinplay.net/58-insane-facts-about-bitcoin/). 
-
