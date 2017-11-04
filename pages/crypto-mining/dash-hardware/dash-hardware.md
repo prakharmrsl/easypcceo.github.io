@@ -130,6 +130,14 @@ You can find other X11 mining cards below:
 * [SAPPHIRE R9 Nano (20 Mh/s for X11)](https://www.amazon.com/gp/product/B015121DMA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015121DMA&linkCode=as2&tag=cryptocurrency06-20&linkId=353099044be8d6cf91a42e810e5ba223)
 * [GIGABYTE R9 390 (14 Mh/s for x11)](https://www.amazon.com/gp/product/B00ZU48KFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZU48KFI&linkCode=as2&tag=cryptocurrency06-20&linkId=81de325a93a9def050f74f853181e035)
 
+## What is an ASIC?
+
+An **ASIC**, or **Application Specific Integrated Circuit**, is a specialized piece of hardware specifically designed for [mining cryptocurrencies](/crypto-mining/). 
+
+They are often more power efficient than their regular mining GPU alternatives, and have higher hash rates as well. Unfortunately, they often tend to be more expensive; however, they have a higher ROI. In the end, they are often worth the money.
+
+For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) is the most profitable Dash mining ASIC, generating a profit of $800 annually.  
+
 ---
 
 ## How to Mine Dash 

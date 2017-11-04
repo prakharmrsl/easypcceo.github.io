@@ -12,7 +12,7 @@ Litecoin is faster than Bitcoin, and focuses on smaller transactions.
 
 There will only ever be 84 million Litecoins mined. Some may disagree, but many draw the comparison that Litecoin is to Bitcoin as silver is to gold.
 
-One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute block time.  
+One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute [block time](https://steemit.com/bitcoin/@ghayas/what-does-block-time-mean-in-cryptocurrency).  
 
 For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses script, whereas Bitcoin uses the SHA-256 algorithm. 
 
@@ -22,9 +22,11 @@ Script relies heavily on lots of high-speed Ram, and is often referred to as the
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
 
 
-If you are interested in mining Litecoin, the best Litecoin mining hardware ASIC is probably the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) is probably the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
 This miner is the fastest Litecoin mining ASIC on the market today. It can mine at a speed of 504 MH/s with a max power consumption of 800 W.
+
+As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Zcash](/crypto-mining/zcash-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors.
 
 This Antminer is very similar to the Antminer S9 series. However, it is a bit taller than the S9 and has four hashing boards instead of three. 
 
