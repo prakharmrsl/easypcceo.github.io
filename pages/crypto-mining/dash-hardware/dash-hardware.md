@@ -134,7 +134,7 @@ You can find other X11 mining cards below:
 
 An **ASIC**, or **Application Specific Integrated Circuit**, is a specialized piece of hardware specifically designed for [mining cryptocurrencies](/crypto-mining/). 
 
-They are often more power efficient than their regular mining GPU alternatives, and have higher hash rates as well. Unfortunately, they often tend to be more expensive; however, they have a higher ROI. In the end, they are often worth the money.
+They are often more power efficient than their regular mining GPU alternatives, and have higher hash rates as well. Unfortunately, they tend to be more expensive; however, they have a higher ROI. In the end, they are often worth the money.
 
 For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) is the most profitable Dash mining ASIC, generating a profit of $800 annually.  
 
