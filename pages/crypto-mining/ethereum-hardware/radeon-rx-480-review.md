@@ -35,7 +35,7 @@ Today we're taking a look at your projected earnings with the [Radeon RX 480](ht
 
 ## The Best Budget Ethereum Mining GPU on the Market
 
-The RX 480 has the second highest [hash rate](https://99bitcoins.com/what-is-bitcoin-hash/) among Ethereum mining GPUs, second only to the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/). However, it has the lowest power consumption, drawing only 150W from the wall. 
+The RX 480 has the third highest [hash rate](https://99bitcoins.com/what-is-bitcoin-hash/) among Ethereum mining GPUs. However, it has the lowest power consumption, drawing only 150W from the wall. 
 
 Due to its power efficiency, it is the most profitable Ethereum mining GPU. Furthermore, it is the cheapest among the [3 best Ethereum mining GPUs](/crypto-mining/ethereum-hardware). That being said, it pays itself off in the least amount of time, and generates the most profit. 
 
@@ -58,7 +58,7 @@ Due to its power efficiency, it is the most profitable Ethereum mining GPU. Furt
 	</tr>
 </table>
 
-This GPU has a hash rate of 25 MH/s, and it only draws 150W from the wall. Each GPU will have a return of $277.53 annually. While it's slightly less than the Radeon HD 7990, **the initial investment is much lower.** Evidently, it's the best choice if you're looking to mine Ethereum. 
+This GPU has a hash rate of 25 MH/s, and it only draws 150W from the wall. Each GPU will have a return of $277.74 annually. While it's slightly less than the Radeon HD 7990, **the initial investment is much lower.** Evidently, it's the best choice if you're looking to mine Ethereum. 
 
 **Specifications of the Radeon HD 7990:**
 
