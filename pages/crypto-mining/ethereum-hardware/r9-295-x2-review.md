@@ -32,7 +32,7 @@ Today we're taking a look at your projected earnings with the most powerful Ethe
 
 ![Profit](/img/cryptocurrency/r9-295-x2-review/profit.png)
 
-## The Best Ethereum Miner on the Market
+## The Most Powerful Ethereum Miner on the Market
 
 The Radeon R9 295X2 has the highest [hash rate](https://99bitcoins.com/what-is-bitcoin-hash/) among Ethereum mining GPUs. 
 
@@ -55,7 +55,7 @@ The Radeon R9 295X2 has the highest [hash rate](https://99bitcoins.com/what-is-b
 	</tr>
 </table>
 
-This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU will have a return of $225.45 annually. Evidently, it's the best choice if you're looking to mine Ethereum. 
+This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU will have a return of $276.80 annually. Evidently, it's a good choice if you're looking to mine Ethereum. 
 
 **Specifications of the Radeon R9 295X2:**
 
@@ -66,7 +66,11 @@ This GPU has a hash rate of 46 MH/s, and it draws 500W from the wall. Each GPU w
 
 ## Radeon R9 295X2 Mining Profitability & Payback Period 
 
-As stated previously, you'll generate around $226 annually with this GPU. The Radeon R9 295X2 has a payback period of just over two years.  While mining Ethereum is profitable, it's still nowhere near the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
+As stated previously, you'll generate around $226 annually with this GPU. The Radeon R9 295X2 has a payback period of just over two years.  
+
+Although the R9 295X2 is a great choice, the [Radeon RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) **is the best Ethereum miner available right now.** Not only is it the cheapest, it's also the most power efficient. 
+
+While mining Ethereum is profitable, it's still nowhere near the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
 
 For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) generates yearly returns of over $800. It's definitely worth the time to check it out! 
 

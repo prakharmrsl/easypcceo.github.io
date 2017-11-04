@@ -68,7 +68,7 @@ This GPU has a hash rate of 36 MH/s, and it draws 375W from the wall. Each GPU w
 
 As stated previously, you'll generate around $220 annually with this GPU. The Radeon HD 7990 has a payback period of just over one year. 
 
-While the Radeon HD 7990 is a great choice, the [Radeon RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) **is the best Ethereum miner available right now.** Not only is it the cheapest, it's also the most power efficient. 
+Although the Radeon HD 7990 is a great choice, the [Radeon RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) **is the best Ethereum miner available right now.** Not only is it the cheapest, it's also the most power efficient. 
 
 While mining Ethereum is profitable, it's still nowhere near the profitability seen with [Dash mining](/crypto-mining/dash-hardware/). 
 
