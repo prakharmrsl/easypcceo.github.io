@@ -23,11 +23,13 @@ As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-m
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
-That being said, here are the top 3 Best Zcash mining GPUs: 
+**Here are the 3 best Zcash mining GPUs:**
 
 ## Sapphire Radeon RX 480
+![RX 480](/img/cryptocurrency/gpu/rx480.jpg){: .img-right .img-small}
 
-The [Sapphire Radeon RX 480](https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b) is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+
+The [Sapphire Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
 
 Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
@@ -35,11 +37,13 @@ The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 w
 
 Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
 
-<a href="https://www.amazon.com/gp/product/B01NAEFAHC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01NAEFAHC&linkCode=as2&tag=cryptocurrency06-20&linkId=6237ff99f7e40f32ccc8ecd04c4f515b" class="big-button">Buy RX 480 Graphics Card</a>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Buy RX 480 Graphics Card</a>
 
 ## Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card
+![RX 580 Nitro+](/img/cryptocurrency/gpu/rx-580-nitro.jpg){: .img-right .img-small}
 
-The [Sapphire Radeon RX 580 Nitro+](https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f) is a great choice for anyone looking to mine Zcash. 
+
+The [Sapphire Radeon RX 580 Nitro+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is a great choice for anyone looking to mine Zcash. 
 
 The AMD 500 series are popular among miners, as they are cheaper, and easyier to set up. Furthermore, they pack quite a punch when it comes to mining. 
 
@@ -47,11 +51,13 @@ This GPU only draws 150 watts at max load, which makes it decently efficient, co
 
 This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash.  
 
-<a href="https://www.amazon.com/gp/product/B06ZZGXTTK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06ZZGXTTK&linkCode=as2&tag=cryptocurrency06-20&linkId=010da69d2fcbb9314f7c9e4e0df9a94f" class="big-button"> Buy RX 580 Graphics Card </a>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button"> Buy RX 580 Graphics Card </a>
 
 ## NVIDIA GeForce GTX 1070 Founders Edition
+![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png){: .img-right .img-small}
 
-Surprisingly, the [GeForce GTX 1070 founders edition](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b) boasts excellent performance for its price, especially when optimized for mining. 
+
+Surprisingly, the [GeForce GTX 1070 founders edition](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) boasts excellent performance for its price, especially when optimized for mining. 
 
 Using [NiceHashMiner](https://www.nicehash.com/) the 1070 has the power to mine at 31 MH/s, while only consuming 180 watts at max load. 
 
@@ -63,7 +69,7 @@ After a few tweaks to best suit mining, this card is powerful and efficient. I w
 
 Many may assume that AMD cards are the only option for miners. This is simply not true.
 
-[Buy GTX 1070 FE Graphics Card](https://www.amazon.com/gp/product/B01GLRX81I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01GLRX81I&linkCode=as2&tag=cryptocurrency06-20&linkId=d10aa5bb4f5fef3b27134a488387dd4b){: .big-button}
+[Buy GTX 1070 FE Graphics Card](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
 ## Setting Up Passive Income with Zcash Mining 
 
