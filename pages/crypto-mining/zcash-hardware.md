@@ -32,7 +32,7 @@ Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, th
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><img class="table-image" src="/img/cryptocurrency/gpu/rx480.jpg" /></a></td>
+		<td><img class="table-image" src="/img/cryptocurrency/gpu/rx480.jpg" /></td>
 		<td>Sapphire Radeon R9 480X</td>
 		<td>27 MH/s</td>
 		<td>$250</td>
