@@ -6,6 +6,7 @@ seotitle: "#1 Best Litecoin Mining Hardware ASIC 2017"
 ---
 
 ## What is Litecoin? 
+![Litecoin Logo](/img/cryptocurrency/litecoin-logo.png){: .img-right .img-small}
 
 Litecoin is faster than Bitcoin, and focuses on smaller transactions. 
 
