@@ -9,6 +9,8 @@ seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2017) "
 
 Monero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
 
+As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
+
 ## Best Monero Mining Hardware 
 
 Comparitively to [Ethereum](/crypto-mining/ethereum-hardware), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit)s for mining Monero. 

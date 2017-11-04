@@ -37,6 +37,8 @@ Today we're taking a look at the newest and most profitable X11 Dash Miner. With
 
 The Antminer D3 boasts incredible hashing power and relatively low power consumption. 
 
+As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>
