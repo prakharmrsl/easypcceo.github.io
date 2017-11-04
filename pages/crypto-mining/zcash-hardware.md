@@ -23,7 +23,39 @@ As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-m
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
 
-**Here are the 3 best Zcash mining GPUs:**
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>GPU</th>
+		<th>Hash Rate</th>
+		<th>Price</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><img class="table-image" src="/img/cryptocurrency/gpu/rx480.jpg" /></a></td>
+		<td>Sapphire Radeon R9 480X</td>
+		<td>27 MH/s</td>
+		<td>$250</td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-580-nitro.jpg" /></a></td>
+		<td>Sapphire Radeon RX 580 Nitro+</td>
+		<td>29 MH/s</td>
+		<td>$300</td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		
+	</tr>
+	<tr>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx1070.png" /></a></td>
+		<td>GeForce GTX 1070 Founders Edition</td>
+		<td>31 MH/s</td>
+		<td>$400</td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		
+	</tr>
+	
+</table>
 
 ## Sapphire Radeon RX 480
 ![RX 480](/img/cryptocurrency/gpu/rx480.jpg){: .img-right .img-small}
