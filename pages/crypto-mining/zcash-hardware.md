@@ -92,3 +92,6 @@ The answer is yes, as long as you invest in one of the GPUs listed above. Mining
 This is how you determine your return on investment. 
 
 You want a GPU that isn't terribly expensive, but has enough hashing power to make the electricity bill worth it. All three of the above GPUs will give you an excellent return on investment. 
+
+* TOC
+{:toc}
