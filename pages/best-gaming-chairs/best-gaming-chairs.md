@@ -74,7 +74,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 	</tr>
 </table>
 
-## 3 Things to Consider Before You Buy 
+## 4 Things to Consider Before You Buy 
 
 A quality gaming chair can be a bit expensive. While it's well worth the money, you should get the most bang out of your gaming chair buck. Here are a few things to consider before you buy: 
 
