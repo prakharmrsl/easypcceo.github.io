@@ -89,7 +89,7 @@ Furthermore, having a sweet gaming desk completes your setup. Think about it: yo
 
 From a health standpoint, having the right desk is also important. If your desk isn't the right height for you, it will affect your posture and more than likely cause [back pain.](http://www.health.com/health/gallery/0,,20355520,00.html) 
 
-Lastly, you'll need enough space for all of your peripherals. As a PC gamer, you need room for monitor(s), keyboard, mouse and mousepad, etc. Ideally you'd want your PC on the desk as well. 
+Lastly, you'll need enough space for all of your peripherals. As a PC gamer, you need room for monitor(s), keyboard, mouse and mousepad, your [gaming chair](/best-gaming-chairs/), etc. Ideally you'd want your PC on the desk as well. 
 
 It's not smart to store your PC on the floor, especially carpet flooring, as it'll easily collect dust which obstructs airflow. In addition, carpet suffocates the PSU fan if your PSU is mounted on the bottom of your case. 
 
