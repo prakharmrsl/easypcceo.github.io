@@ -210,5 +210,7 @@ This chair is ergonomic, and ships with a free headrest/lumbard cushion. The sea
 
 ![Infographic](/img/infographic/chairs.png)
 
+If you're interested in using this infographic for your website, please [contact me!](/contact/)
+
 * TOC
 {:toc}
