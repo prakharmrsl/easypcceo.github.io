@@ -149,6 +149,9 @@ Well, it's quite simple. A 60 Hz monitor refreshes 60 times per second. A 144 Hz
 
 What's the big deal?
 
+* TOC
+{:toc}
+
 If your gaming PC is achieving 100+ fps, yet your monitor only refreshes 60 times per second, you won't be getting the most out of your gaming PC. You'll only be able to see 60 fps, even if your PC is capable of more. 
 
 Some may say humans can't tell the difference after 30 fps. While this may be true if you're watching television, gaming is different.
