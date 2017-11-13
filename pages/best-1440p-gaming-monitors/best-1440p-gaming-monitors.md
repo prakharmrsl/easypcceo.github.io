@@ -130,11 +130,7 @@ The fine details of the display will be crisper and easier to see. In fast paced
 
 ## 3 Things to Consider BEFORE You Buy a 1440p Gaming Monitor
 
-* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive, as you have to buy a 1440p monitor. 
-
-This is only the beginning. 
-
-The real challenge is building a gaming PC that can handle this high resolution. Your GPU will have to process 78% more pixels, which isn't easy. Luckily for you, we have gaming PCs capable of flawless 1440p gaming for as low as $800. If this is in your budget, then go for it! 
+* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive, as you have to buy a 1440p monitor. This is only the beginning. The real challenge is building a gaming PC that can handle this high resolution. Your GPU will have to process 78% more pixels, which isn't easy. Luckily for you, we have gaming PCs capable of flawless 1440p gaming for as low as $800. If this is in your budget, then go for it! 
 
 * **Is it worth it for you?:** 1440p gaming is really only for PC gaming enthusiasts and competitive e-sports players. While 1440p gaming is nice, it may not be worth the money for you. If you're okay with 1080p, it's much cheaper and definitely not a bad alternative. 
 
