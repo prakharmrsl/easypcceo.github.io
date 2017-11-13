@@ -118,6 +118,7 @@ True gaming monitors offer stunning resolutions, vibrant colors, and lightning f
 Furthermore, if you spend $500, $800, $1000 or more on a gaming PC, you'll want the full experience. If your PC is capable of gaming in 1440p, why game in 720p or 1080p? If you're only going to use a low resolution TV, there's no point in building a gaming PC. You might as well stick to console. 
 
 ## Why Upgrade from 1080p? 
+![Triple Monitor Setup](/img/1440p-monitors/trio.jpg)
 
 1080p monitors have become a staple of PC gaming in 2017, and for good reason. The display is pretty good, not to mention they're cheap as well. For most, 1080p is sufficient. However, if you have the extra money, we strongly recommend the upgrade to 1440p.
 
