@@ -2,7 +2,7 @@
 layout: page
 title: "The Best 1440p Gaming Monitors of 2017"
 permalink: "/best-gaming-monitors/"
-seotitle: "3 Best 1440p Monitors of 2017 (Comparison)""
+seotitle: "3 Best 1440p Gaming Monitors of 2017 (Comparison)"
 ---
 
 If you’re a gamer ready to buy the monitor of your dreams, this guide will help you find the best choice for you. We'll be taking a look at the three best 1440p monitors your money can buy in 2017. 
