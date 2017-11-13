@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Best 1440p Gaming Monitors of 2017"
-permalink: "/best-gaming-monitors/"
+permalink: "/best-1440p-gaming-monitors/"
 seotitle: "3 Best 1440p Gaming Monitors of 2017 (Comparison)"
 ---
 
