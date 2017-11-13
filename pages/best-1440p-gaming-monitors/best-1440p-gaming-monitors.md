@@ -129,7 +129,7 @@ The fine details of the display will be crisper and easier to see. In fast paced
 
 ## 3 Things to Consider BEFORE You Buy a 1440p Gaming Monitor
 
-* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive. First of all, you have to buy a 1440p monitor. 
+* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive, as you have to buy a 1440p monitor. 
 
 This is only the beginning. 
 
