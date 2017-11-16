@@ -323,14 +323,36 @@ This is where we get extremely in depth. We're going to cover everything you cou
 
 We know buying a gaming PC isn't always easy, especially if it is your first time around. It can be overwhelming to figure out what parts to buy, especially if you need to make a little bit of money go a long way. 
 
-* TOC
-{:toc}
-
 Furthermore, once you buy the parts, then you actually have to build the computer! 
 
 Or do you? 
 
 We'll talk about all of that and more very soon. **Scroll down to read more!**
+
+<div id="contentswrapper">
+
+<div id="box">
+
+<h2><a href="#why-build-a-gaming-pc">1.0: Why Build a Gaming PC?</a></h2>>
+<h3><a href="#advantages-of-pc-gaming">1.1: Advantages of PC Gaming</a></h3>
+<h3><a href="#better-graphicsframerates">1.2: Better Graphics/Framerates</a></h3>
+<h3><a href="#flexibility">1.3: Flexibility</h3>
+<h3><a href="#pc-exclusives">1.4: PC Exclusives</a></h3>
+<h3><a href="#the-keyboard-and-mouse">1.5: The Keyboard and Mouse</a></h3>
+<h3><a href="#cheaper-in-the-long-run">1.6: Cheaper in the Long Run</a></h3>
+<h3><a href="#mature-community">1.7: Mature Community</a></h3>
+
+<h2><a href="#how-to-build-a-dirt-cheap-gaming-pc-in-3-easy-steps">2.0: How to Build a Dirt Cheap Gaming PC in 3 Easy Steps</a></h2>
+<h2><a href="#console-vs.-pc">3.0: Console vs. PC</a></h2>
+<h2><a href="#how-to-find-the-right-parts-for-you">4.0: How to Find the Right Parts for You</a></h2>
+<h3><a href="#what-is-my-budget">3.1: What is my budget?</a></h3>
+<h3><a href="#what-games-do-i-want-to-play">3.2: What games do I want to play?</a></h3>
+<h2><a href="#finding-the-parts-for-you">4.0: Finding the Parts for You</a></h2>
+<h2><a href="#custom-built-or-prebuilt">5.0: Custom Built or Prebuilt?</a></h2>
+<h3><a href="#viable-prebuilt-options">5.1: Viable Prebuilt Options</a></h3>
+<h2><a href="#8-things-to-consider-before-you-buy">6.0: 8 Things to Consider Before You Buy</a></h2>
+</div>
+</div>
 
 ## Why Build a Gaming PC? 
 
@@ -353,6 +375,81 @@ But to enjoy all of these things, you have to spend a ton of money, right?
 Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
 
 This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
+
+## Advantages of PC Gaming 
+
+PC gaming has many advantages over console gaming. After all, they don't call us the PC Master Race for nothing. We're going to illustrate some of the many **pros of PC gaming**. Keep reading, as some of them may not very obvious. 
+
+### Better Graphics/Framerates
+
+PC gaming will *always* have superior graphics and framerates than consoles. PCs can game in true 1080p, 1440p, and even 4K with over 60 frames per second and 16x MSAA. 
+
+Consoles can only game in 1080p and in some cases 720p. Usually the games' resolutions are upscaled, meaning most games aren't in true 1080p. In addition, it's rare that consoles game in true 60 fps. 
+
+*Why do PCs have superior graphics/framerates?* 
+
+All consoles have the exact same hardware inside. Game developers are aware of the hardware in the consoles, and they can optimize their games to run smoothly on said hardware. 
+
+This is why when you buy a console game, you don't have to worry about being able to run it. You can just pop the disc in your Xbox and start playing. 
+
+On the flip side, developers don't know what's in your PC, as every PC is a bit different. That being said, they can't optimize their game to run smoothly on your PC. Instead, they release a beautiful game and require you to meet certain spec requirements. 
+
+If you have good hardware in your rig, you'll be able to play the games with higher graphics and resolutions. If you want to, you can buy the most expensive hardware (or at least higher end hardware) and run the games with extreme settings. 
+
+With consoles, you're limited to default settings and graphics which are much worse than on the PC. 
+
+### Flexibility 
+
+PC gaming is also much more flexible than console. Consoles all ship the same. They look the same and they perform the same. 
+
+PCs are all unique. They perform differently and you can design your PC exactly the way you want it. 
+
+In addition, if a part of your PC breaks, you can cheaply replace that part. However, if a part in a console breaks, you can't just buy a replacement part. Rather, you have to buy an entirely brand new console. 
+
+If you want to upgrade your PC in the future, that option is also available to you. If you own a console and want to upgrade, your options are quite limited. 
+
+For any substantial improvement, you'll have to wait for the next line of consoles. As you know, Sony and Microsoft waited many years between the PS3/Xbox 360 and the PS4/Xbox One. 
+
+With PC, you have the ability to choose when, what, and how. 
+
+### PC Exclusives 
+
+PC has so many amazing games which cannot be found on console. Games like Counter Strike, Rust, PUBG, Star Citizen, and more. Steam also has a diverse selection of free to play games, such as Team Fortress 2. 
+
+Even games that can be played on console are better on the PC. The gameplay is more fluid and dynamic. 
+
+### The Keyboard and Mouse
+![Keyboard](/img/misc/keyboard.jpg)
+
+Console controllers are awesome for kicking it on the couch with your buddies and playing casual video games. However, there's a reason why consoles games have aim assist and PC games don't. 
+
+A keyboard and mouse is much easier to use than a controller, especially if you're playing a competitive shooter. 
+
+Some gaming mice feature over 16000 DPI. They can accurately trace every little movement. Joysticks don't allow the same precision. While it can be a bit tricky to master at first, using a keyboard and mouse is far superior to a controller. 
+
+If you want the benefits of PC but you're still in love with your controller, you can easily plug your controller into your PC or buy an adapter and use your Xbox or PS4 controller with your PC. 
+
+However, if you choose to go this route and you play competitive shooters, other players using the keyboard and mouse will most likely beat you. We recommend using the keyboard and mouse. 
+
+### Cheaper in the Long Run 
+
+Most people believe it costs a fortune to be a PC gamer. Fortunately, this is the farthest from the truth. You can build a brand new gaming PC for just $400. If you buy used parts and you know where to look, you can build one for just $200. 
+
+That being said, it doesn't have to be expensive. In fact, there are other hidden benefits as well. 
+
+First of all, unlike Xbox Live, you don't need to pay for steam. The membership is free. 
+
+Speaking of Steam, they have *amazing* deals. The Steam Summer and Winter sales are absolutely insane. You can find popular AAA titles at least 50% off. There are also lots of fun free to play games. 
+
+There are also websites such as [G2A.com](https://www.g2a.com/) where you can find games even cheaper than Steam. If you account for these factors, PC gaming can easily be cheaper than console gaming over the course of a year or so. 
+
+### Mature Community 
+
+While its possible to build a cheap gaming PC, most believe it's very expensive. On top of this, it can be hard for first time builders to construct their first gaming PC. 
+
+With this in mind, it's easy to understand why most parents buy consoles for their children. Their kids don't have to worry about building the PC or installing drivers, etc. They also think it's cheaper. 
+
+Due to this, most PC gamers are at least in high school if not older. If you're tired of young and annoying kids talking in the microphone and you're looking for a more mature community, PC is the place for you. 
 
 ## How to Build a Dirt Cheap Gaming PC in 3 Easy Steps
 
@@ -656,78 +753,3 @@ It's much wiser to invest this money in your gaming PC. Later on down the line i
 If you don't have enough money to buy the best parts, that's okay. Just be patient and save your money.
 
 It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
-
-## Advantages of PC Gaming 
-
-PC gaming has many advantages over console gaming. After all, they don't call us the PC Master Race for nothing. We're going to illustrate some of the many **pros of PC gaming**. Keep reading, as some of them may not very obvious. 
-
-### Better Graphics/Framerates
-
-PC gaming will *always* have superior graphics and framerates than consoles. PCs can game in true 1080p, 1440p, and even 4K with over 60 frames per second and 16x MSAA. 
-
-Consoles can only game in 1080p and in some cases 720p. Usually the games' resolutions are upscaled, meaning most games aren't in true 1080p. In addition, it's rare that consoles game in true 60 fps. 
-
-*Why do PCs have superior graphics/framerates?* 
-
-All consoles have the exact same hardware inside. Game developers are aware of the hardware in the consoles, and they can optimize their games to run smoothly on said hardware. 
-
-This is why when you buy a console game, you don't have to worry about being able to run it. You can just pop the disc in your Xbox and start playing. 
-
-On the flip side, developers don't know what's in your PC, as every PC is a bit different. That being said, they can't optimize their game to run smoothly on your PC. Instead, they release a beautiful game and require you to meet certain spec requirements. 
-
-If you have good hardware in your rig, you'll be able to play the games with higher graphics and resolutions. If you want to, you can buy the most expensive hardware (or at least higher end hardware) and run the games with extreme settings. 
-
-With consoles, you're limited to default settings and graphics which are much worse than on the PC. 
-
-### Flexibility 
-
-PC gaming is also much more flexible than console. Consoles all ship the same. They look the same and they perform the same. 
-
-PCs are all unique. They perform differently and you can design your PC exactly the way you want it. 
-
-In addition, if a part of your PC breaks, you can cheaply replace that part. However, if a part in a console breaks, you can't just buy a replacement part. Rather, you have to buy an entirely brand new console. 
-
-If you want to upgrade your PC in the future, that option is also available to you. If you own a console and want to upgrade, your options are quite limited. 
-
-For any substantial improvement, you'll have to wait for the next line of consoles. As you know, Sony and Microsoft waited many years between the PS3/Xbox 360 and the PS4/Xbox One. 
-
-With PC, you have the ability to choose when, what, and how. 
-
-### PC Exclusives 
-
-PC has so many amazing games which cannot be found on console. Games like Counter Strike, Rust, PUBG, Star Citizen, and more. Steam also has a diverse selection of free to play games, such as Team Fortress 2. 
-
-Even games that can be played on console are better on the PC. The gameplay is more fluid and dynamic. 
-
-### The Keyboard and Mouse
-![Keyboard](/img/misc/keyboard.jpg)
-
-Console controllers are awesome for kicking it on the couch with your buddies and playing casual video games. However, there's a reason why consoles games have aim assist and PC games don't. 
-
-A keyboard and mouse is much easier to use than a controller, especially if you're playing a competitive shooter. 
-
-Some gaming mice feature over 16000 DPI. They can accurately trace every little movement. Joysticks don't allow the same precision. While it can be a bit tricky to master at first, using a keyboard and mouse is far superior to a controller. 
-
-If you want the benefits of PC but you're still in love with your controller, you can easily plug your controller into your PC or buy an adapter and use your Xbox or PS4 controller with your PC. 
-
-However, if you choose to go this route and you play competitive shooters, other players using the keyboard and mouse will most likely beat you. We recommend using the keyboard and mouse. 
-
-### Cheaper in the Long Run 
-
-Most people believe it costs a fortune to be a PC gamer. Fortunately, this is the farthest from the truth. You can build a brand new gaming PC for just $400. If you buy used parts and you know where to look, you can build one for just $200. 
-
-That being said, it doesn't have to be expensive. In fact, there are other hidden benefits as well. 
-
-First of all, unlike Xbox Live, you don't need to pay for steam. The membership is free. 
-
-Speaking of Steam, they have *amazing* deals. The Steam Summer and Winter sales are absolutely insane. You can find popular AAA titles at least 50% off. There are also lots of fun free to play games. 
-
-There are also websites such as [G2A.com](https://www.g2a.com/) where you can find games even cheaper than Steam. If you account for these factors, PC gaming can easily be cheaper than console gaming over the course of a year or so. 
-
-### Mature Community 
-
-While its possible to build a cheap gaming PC, most believe it's very expensive. On top of this, it can be hard for first time builders to construct their first gaming PC. 
-
-With this in mind, it's easy to understand why most parents buy consoles for their children. Their kids don't have to worry about building the PC or installing drivers, etc. They also think it's cheaper. 
-
-Due to this, most PC gamers are at least in high school if not older. If you're tired of young and annoying kids talking in the microphone and you're looking for a more mature community, PC is the place for you. 
