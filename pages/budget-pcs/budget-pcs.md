@@ -329,13 +329,13 @@ Or do you?
 
 We'll talk about all of that and more very soon. **Scroll down to read more!**
 
-<div id="contentswrapper">
+<div id="base">
 <div id="box">
 
 <h2><a href="#why-build-a-gaming-pc">1.0: Why Build a Gaming PC?</a></h2>
 <h3><a href="#advantages-of-pc-gaming">1.1: Advantages of PC Gaming</a></h3>
 <h3><a href="#better-graphicsframerates">1.2: Better Graphics/Framerates</a></h3>
-<h3><a href="#flexibility">1.3: Flexibility</h3>
+<h3><a href="#flexibility">1.3: Flexibility</a></h3>
 <h3><a href="#pc-exclusives">1.4: PC Exclusives</a></h3>
 <h3><a href="#the-keyboard-and-mouse">1.5: The Keyboard and Mouse</a></h3>
 <h3><a href="#cheaper-in-the-long-run">1.6: Cheaper in the Long Run</a></h3>
