@@ -342,7 +342,7 @@ We'll talk about all of that and more very soon. **Scroll down to read more!**
 <h3><a href="#mature-community">1.7: Mature Community</a></h3>
 
 <h2><a href="#how-to-build-a-dirt-cheap-gaming-pc-in-3-easy-steps">2.0: How to Build a Dirt Cheap Gaming PC in 3 Easy Steps</a></h2>
-<h2><a href="#console-vs.-pc">3.0: Console vs. PC</a></h2>
+<h2><a href="#console-vs-pc">3.0: Console vs. PC</a></h2>
 <h2><a href="#how-to-find-the-right-parts-for-you">4.0: How to Find the Right Parts for You</a></h2>
 <h3><a href="#what-is-my-budget">3.1: What is my budget?</a></h3>
 <h3><a href="#what-games-do-i-want-to-play">3.2: What games do I want to play?</a></h3>
