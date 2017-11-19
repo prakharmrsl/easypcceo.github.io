@@ -48,7 +48,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3-review/d3-profit.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/L3.jpg" /></a></td>
 		<td>504 MH/s</td>
 		<td>800 W</td>
 		<td>392%</td>
@@ -105,36 +105,3 @@ Everyone is focused on mining [Bitcoin](https://www.buybitcoinworldwide.com/mini
 In 2017, it's nearly **impossible** to turn a profit mining Bitcoin. 
 
 Evidently, it's quite easy to profitably mine Litecoin. Get started now! 
-
-## Antminer L3+ Compared to Other Hardware
-
-<table class="basic-table" align="center">
-	<tr>
-		<th>PIC</th>
-		<th>Miner</th>
-		<th>Hash Rate</th>
-		<th>Price</th>
-		<th>Shop</th>
-	</tr>
-	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
-		<td>Antminer L3+</td>
-		<td>15 GH/s</td>
-		<td>$8000</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
-	</tr>
-	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=baikal+mini+asic&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/baikal-mini.png" /></a></td>
-		<td>Baikal Mini ASIC</td>
-		<td>300 MH/s</td>
-		<td>$550</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=baikal+mini+asic&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
-	</tr>
-	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=baikal+giant+a900&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/baikal-giant-a900.jpg" /> </a></td>
-		<td>Baikal Giant A900 ASIC</td>
-		<td>900 MH/s</td>
-		<td>$2400</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=baikal+giant+a900&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop </a></td>
-	</tr>
-</table>
