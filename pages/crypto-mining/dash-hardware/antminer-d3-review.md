@@ -52,7 +52,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
 		<td>15 GH/s</td>
 		<td>1200 W</td>
-		<td>63%</td>
+		<td>47%</td>
 		<td>$2,700</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
 	</tr>
