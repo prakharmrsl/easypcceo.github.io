@@ -19,6 +19,8 @@ Finding the right harware for mining Zcash can be difficult. It is important to 
 
 As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
 
+**[Litecoin](/crypto-mining/litecoin-hardware/) mining with the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) and [Dash](/crypto-mining/dash-hardware/) with the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) are the most profitable in 2017!**
+
 ## Zcash Mining Hardware
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 
