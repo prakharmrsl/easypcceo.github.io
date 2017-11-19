@@ -58,9 +58,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	</tr>
 </table>
 
-This miner has a hash rate of 15 GH/s. This is astronomically high, yielding a daily return of over 60%. After power costs of around $3.00 per day, you'll generate over $800 per year in revenue. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/).
-
-The return on investment is out of this world. Sadly, they are selling out very quickly. We recommend ordering the next available Antminer D3. 
+This miner has a hash rate of 15 GH/s. This hash rate is astronomically high, yielding a daily return of over 60%. After power costs of around $3.00 per day, you'll generate over $600 per year in revenue. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/). However, the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) Litecoin ASIC is far more profitable.
 
 **Specifications of the Antminer D3:**
 
