@@ -61,7 +61,7 @@ This miner has a hash rate of 504 MH/s. This is pretty high, yielding a daily re
 
 **Specifications of the Antminer L3+:**
 
-* Hash Rate: 504 MS/s
+* Hash Rate: 504 MH/s
 * Power consumption: 800W (at the wall, with Bitmain's [APW5 PSU](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg))
 * Hashing algorithm: Scrypt (proof of work)
 
