@@ -48,7 +48,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/L3.jpg" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/L3.png" /></a></td>
 		<td>504 MH/s</td>
 		<td>800 W</td>
 		<td>392%</td>
