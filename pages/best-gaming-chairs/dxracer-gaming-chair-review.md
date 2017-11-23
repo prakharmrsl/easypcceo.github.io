@@ -58,4 +58,4 @@ I used to use a regular kitchen chair to sit on during my gaming sessions. After
 
 When I finally upgraded to a proper gaming chair, my back pain was gone, not to mention I felt like a king sitting in my gaming throne. 
 
-## The 4 Lines of DXRacer Chairs 
+## The 4 Lines of DXRacer Chairs
