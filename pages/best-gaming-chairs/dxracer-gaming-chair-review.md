@@ -102,7 +102,7 @@ When I finally upgraded to a proper gaming chair, my back pain was gone, not to 
 
 As mentioned previously, there are a multitude of different DXRacer gaming chairs. These gaming chairs are all awesome and unique, but we've chosen our three favorite for you to check out. 
 
-### DX Racer Formula Series Racing Style Gaming Chair 
+### DXRacer Formula Series Racing Style Gaming Chair 
 
 ![DXRacer Formula Series](/img/chair/formula.jpg){: .img-middle}
 
@@ -122,4 +122,29 @@ This is a convential style chair with a black nylon base. It has 2" casters and 
 	<li>Accessories: Lumbar cushion and headrest cushion</li>
 	<li>Price: $299.00-$349.00 (Free Shipping)</li>
 </ul>
+<a class="big-button" href="http://amzn.to/2A0N3Qe">Buy Now</a>
 </div>
+
+### DXRacer King Series Gaming Chair 
+
+![DXRacer King Series](/img/chair/king.jpg){: .img-middle}
+
+**2.** If you want to feel like a king, the King Series is the way to go. They're manufactured under strict quality standards to offer the consumer the ultimate level of luxury. 
+
+This chair has adjustable armrests and an adjustable back rest. You can also adjust the height of the chair to your liking. Its construnction is solid with a sturdy aluminium base. It also has 3" casters and a strong mesh lining for your comfort. 
+
+<div class="specs-box">
+<h3 class="text-center">Specifications</h3>
+<ul>
+	<li>Max user height: 188 cm / 6 ft 2 in</li>
+	<li>Max weight: 275 lbs / 124.74 kg</li>
+	<li>8 models available</li>
+	<li>Chair height: 52-55 inches (adjustable)</li>
+	<li>Base: Black strong aluminium</li>
+	<li>Casters (wheels): 3" PU</li>
+	<li>Accessories: Lumbar cusion and headrest cushion</li>
+	<li>Price: $439.00-$499.00 (Free Shipping)</li>
+</ul>
+<a class="big-button" href="http://amzn.to/2zxT3AI">Buy Now</a>
+
+###
