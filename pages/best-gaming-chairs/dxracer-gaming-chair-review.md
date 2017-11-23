@@ -1,5 +1,5 @@
 ---
-title: DXRacer Gaming Chairs: The Best Gaming Chairs on the Market? 
+title: "DXRacer Gaming Chairs: The Best Gaming Chairs on the Market?"" 
 permalink: "/best-gaming-chairs/dxracer-gaming-chair-review/"
 layout: page
 seotitle: "DXRacer Gaming Chair Review: The Best Gaming Chair?"
