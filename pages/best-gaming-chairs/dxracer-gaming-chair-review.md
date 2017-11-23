@@ -18,34 +18,34 @@ DXRacer gaming chairs offer full back support with a high backrest. They allow g
 </div>
 </div>
 
-## Why Buy a DXRacer?</h2> 
+## Why Buy a DXRacer?
 
 We believe that DXRacer gaming chairs offer a variety of health benefits, not to mention they look awesome too.
 
 <div class="text-box-grey">
-### Back Support 
+<h3> Back Support</h3> 
 
-DXRacers provide support to the entirety of your spine. The average gamer spends over 6 hours per week behind the screen. If you're anything like me, that number is probably even higher. 
+<p>DXRacers provide support to the entirety of your spine. The average gamer spends over 6 hours per week behind the screen. If you're anything like me, that number is probably even higher. </p>
 
-That being said, ensuring proper back support is important if you want to prevent damage to your back/spine further on down the line. 
+<p>That being said, ensuring proper back support is important if you want to prevent damage to your back/spine further on down the line. </p>
 
-### Adjustability 
+<h3> Adjustability </h3>
 
-DXRacer gaming chairs have a stable, five-point metal base with a gas spring, allowing the height to be adjusted to better meet the users' criteria.  
+<p>DXRacer gaming chairs have a stable, five-point metal base with a gas spring, allowing the height to be adjusted to better meet the users' criteria. </p> 
 
-The chair also has a tilt mechanism that allows the backrest to be lowered to any angle down to 130°. 
+<p>The chair also has a tilt mechanism that allows the backrest to be lowered to any angle down to 130°. </p>
 
-Even the armrests are adjustable. This is an important factor that is often forgotten. If your armrests aren't the proper height, you'll grow uncomfortable quite quickly. 
+<p>Even the armrests are adjustable. This is an important factor that is often forgotten. If your armrests aren't the proper height, you'll grow uncomfortable quite quickly. </p>
 
-### Customizability
+<h2> Customizability </h2>
 
-DXRacer gaming chairs are among the most customizable chairs on the market today. They offer a variety of different lines in different sizes and colors. You'll be able to find the perfect chair for you and your setup. 
+<p>DXRacer gaming chairs are among the most customizable chairs on the market today. They offer a variety of different lines in different sizes and colors. You'll be able to find the perfect chair for you and your setup. </p>
 
-### Durability 
+<h3> Durability </h3>
 
-The chairs are designed with high quality steel to ensure they'll last. It will also keep its shape due to the sponge material used for padding. 
+<p>The chairs are designed with high quality steel to ensure they'll last. It will also keep its shape due to the sponge material used for padding. </p>
 
-One of the most important traits of a gaming chair is it's durability. You don't want to spend a lot of money on a gaming chair if it'll break on you shortly after the purchase. With a DXRacer, you won't have to worry about it giving out on you. They're designed to last a lifetime. 
+<p>One of the most important traits of a gaming chair is it's durability. You don't want to spend a lot of money on a gaming chair if it'll break on you shortly after the purchase. With a DXRacer, you won't have to worry about it giving out on you. They're designed to last a lifetime. </p>
 </div>
 
 ## The Importance of a Quality Gaming Chair 
