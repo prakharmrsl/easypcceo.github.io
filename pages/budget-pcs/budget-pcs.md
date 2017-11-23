@@ -41,7 +41,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 	<tr>
 		<td><b>$700</b></td>
 		<td>Phoenix</td>
-		<td><img class="table-image" src="/img/case/solarm1.png" /></td>
+		<td><img class="table-image" src="/img/case/bitfenix-comrade.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/700/">View</a></td>
 	</tr>
 	<tr>
