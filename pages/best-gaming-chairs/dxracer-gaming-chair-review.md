@@ -4,7 +4,7 @@ permalink: "/best-gaming-chairs/dxracer-gaming-chair-review/"
 layout: page
 seotitle: "DXRacer Gaming Chair Review: The Best Gaming Chair?"
 ---
-![DXRacer gaming chair](/img/chair/dxracer.jpg)
+![DXRacer gaming chair](/img/chair/dxracer.jpg){: .img-middle}
 
 DXRacer chairs are probably the most popular [gaming chairs](/best-gaming-chairs/) out right now. They're all over YouTube and Twitch, as the most popular YouTubers and streamers seem to have them, and for good reason. 
 
@@ -50,6 +50,9 @@ We believe that DXRacer gaming chairs offer a variety of health benefits, not to
 </div>
 
 ## The Importance of a Quality Gaming Chair 
+
+![Dxracer gaming chair - orange](/img/chair/dxracer2.jpg){: .img-middle}
+
 
 While you can sit on any old chair, we highly recommend investing in a proper gaming chair. For starters, racing style gaming chairs look awesome. When you sit down in your gaming chair in front of your gaming setup, you'll feel like a champion.
 

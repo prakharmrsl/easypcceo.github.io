@@ -484,7 +484,10 @@ tr:nth-child(odd) {
 }
 
 .img-middle {
-  align: middle;
+  max-width: 50%;
+  text-align: center;
+  margin: auto;
+  display: block;
 }
 
 .money {
