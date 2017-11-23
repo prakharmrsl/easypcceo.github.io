@@ -23,7 +23,7 @@ DXRacer gaming chairs offer full back support with a high backrest. They allow g
 We believe that DXRacer gaming chairs offer a variety of health benefits, not to mention they look awesome too.
 
 <div class="text-box-grey">
-<h3> Back Support</h3> 
+<h2> Back Support</h2> 
 
 <p>DXRacers provide support to the entirety of your spine. The average gamer spends over 6 hours per week behind the screen. If you're anything like me, that number is probably even higher. </p>
 
