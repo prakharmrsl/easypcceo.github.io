@@ -18,10 +18,14 @@ DXRacer gaming chairs offer full back support with a high backrest. They allow g
 </div>
 </div>
 
+<div class="header-box">
 ## Why Buy a DXRacer? 
 
 We believe that DXRacer gaming chairs offer a variety of health benefits, not to mention they look awesome too. 
 
+</div>
+
+<div class="text-box-grey">
 ### Back Support 
 
 DXRacers provide support to the entirety of your spine. The average gamer spends over 6 hours per week behind the screen. If you're anything like me, that number is probably even higher. 
@@ -45,6 +49,7 @@ DXRacer gaming chairs are among the most customizable chairs on the market today
 The chairs are designed with high quality steel to ensure they'll last. It will also keep its shape due to the sponge material used for padding. 
 
 One of the most important traits of a gaming chair is it's durability. You don't want to spend a lot of money on a gaming chair if it'll break on you shortly after the purchase. With a DXRacer, you won't have to worry about it giving out on you. They're designed to last a lifetime. 
+</div>
 
 ## The Importance of a Quality Gaming Chair 
 
