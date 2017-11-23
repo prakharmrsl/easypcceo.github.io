@@ -572,8 +572,9 @@ tr:nth-child(odd) {
 .text-box-grey {
   width: auto;
   height: auto;
-  background: #c2c4c6;
   text-align: center;
+  border: 3px solid #c2c4c6;
+  border-radius: 20px;
 }
 
 .header-box {
