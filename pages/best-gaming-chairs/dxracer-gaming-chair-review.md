@@ -4,6 +4,7 @@ permalink: "/best-gaming-chairs/dxracer-gaming-chair-review/"
 layout: page
 seotitle: "DXRacer Gaming Chair Review: The Best Gaming Chair?"
 ---
+![DXRacer gaming chair](/img/chair/dxracer.jpg)
 
 DXRacer chairs are probably the most popular [gaming chairs](/best-gaming-chairs/) out right now. They're all over YouTube and Twitch, as the most popular YouTubers and streamers seem to have them, and for good reason. 
 
