@@ -55,6 +55,18 @@ Before you start mining, you'll probably want to know if it's worth your money.
 
 </div>
 
+## Should you Mine Dash?
+
+While Dash mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. 
+
+However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Dash mining ASICs.
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## Is Dash Mining Profitable? 
 
 The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').

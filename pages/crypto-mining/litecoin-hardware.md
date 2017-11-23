@@ -18,6 +18,18 @@ For miners, Litecoin's different mining algorithm also plays a big part. Litecoi
 
 Script relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
 
+## Should you Mine Litecoin?
+
+While Litecoin mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. 
+
+However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the best Litecoin mining ASIC.
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## The Best Litecoin Mining ASIC Hardware 
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
 

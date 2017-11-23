@@ -49,6 +49,18 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
+## Should you Mine Ethereum? 
+
+While Ethereum mining is profitable, it's not even close to the profitability of [Dash mining](/crypto-mining/dash-hardware/) or [Litecoin mining](/crypto-mining/litecoin-hardware/). 
+
+If you're mining Ethereum only because you want to acquire cryptocurrency, it may be a better idea to just buy it. 
+
+Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Ethereum mining GPUs. 
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## Ethereum Mining Profitability 
 
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
