@@ -111,7 +111,7 @@ As mentioned previously, there are a multitude of different DXRacer gaming chair
 This is a convential style chair with a black nylon base. It has 2" casters and ships with a lumbar cushion for further support. Unfortunately, it has a max recommended weight of 180 lbs. If you're a bit heavier than this, you'll probably need a different chair.
 
 <div class="specs-box">
-<h3 text-align="center">Specifications</h3>
+<h3 class="text-center">Specifications</h3>
 <ul>
 	<li>Max user height: up to 178 cm / 5 ft 10 in</li>
 	<li>Max weight: 180 lbs / 81.65 kg</li>
