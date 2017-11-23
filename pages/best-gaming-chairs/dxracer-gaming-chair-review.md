@@ -19,9 +19,9 @@ DXRacer gaming chairs offer full back support with a high backrest. They allow g
 </div>
 
 <div class="header-box">
-## Why Buy a DXRacer? 
+<h2 id="why-buy-a-dxracer"> Why Buy a DXRacer?</h2> 
 
-We believe that DXRacer gaming chairs offer a variety of health benefits, not to mention they look awesome too. 
+<p>We believe that DXRacer gaming chairs offer a variety of health benefits, not to mention they look awesome too.</p> 
 
 </div>
 
