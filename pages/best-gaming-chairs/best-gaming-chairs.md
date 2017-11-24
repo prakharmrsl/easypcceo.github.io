@@ -66,7 +66,7 @@ If you want the most out of your games, PC is the way to go. Part of the PC gami
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2xmtRrP"><img class="table-image" src="/img/chair/DX-Racer.png" /></a></td>
-		<td>DX Racer Formula Series Racing Gaming Chair</td>
+		<td><a href="/best-gaming-chairs/dxracer-gaming-chair-review/">DX Racer Formula Series Racing Gaming Chair</a></td>
 		<td>57 lbs</td>
 		<td><a class="big-button" href="http://amzn.to/2xmtRrP">Check Price</a></td>
 
@@ -191,7 +191,7 @@ It has a sleek black/blue leather-like vinly upholstery, providing comfort durin
 ## DX Racer Formula Series Racing Gaming Chair - $299
 ![DX Racer Formula Series Racing Gaming Chair](/img/chair/DX-Racer.png){: .img-small .img-right}
 
-**5.** The [DX Racer Formula Series Racing Gaming Chair](http://amzn.to/2xmtRrP) is another great choice if you have a bit more money to spend. While the chair featured in this article is yellow, it actually comes in 11 different colors/styles. 
+**5.** The [DX Racer Formula Series Racing Gaming Chair](/best-gaming-chairs/dxracer-gaming-chair-review/) is another great choice if you have a bit more money to spend. While the chair featured in this article is yellow, it actually comes in 11 different colors/styles. 
 
 This chair is ergonomic, and ships with a free headrest/lumbard cushion. The seat has a strong mesh and PU cover. Its backrest is a bit higher than other chairs to further support your neck and back. The armrests are adjustable, and the chair frame even ships with a lifetime warrenty. 
 
@@ -206,7 +206,7 @@ This chair is ergonomic, and ships with a free headrest/lumbard cushion. The sea
 
 * Price
 
-[View on Amazon](http://amzn.to/2xmtRrP){: .big-button}
+[Read our Review](/best-gaming-chairs/dxracer-gaming-chair-review/){: .big-button}
 
 ![Infographic](/img/infographic/chairs.png)
 
