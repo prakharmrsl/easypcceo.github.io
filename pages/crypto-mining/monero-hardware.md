@@ -11,6 +11,16 @@ Monero is a cryptocurrency focused on fungibility and the privacy of its users. 
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
 
+## Should you Mine Monero?
+
+While Monero mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit.
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## Best Monero Mining Hardware 
 
 Comparitively to [Ethereum](/crypto-mining/ethereum-hardware), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit)s for mining Monero. 
