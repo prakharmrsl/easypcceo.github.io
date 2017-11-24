@@ -122,8 +122,9 @@ This is a convential style chair with a black nylon base. It has 2" casters and 
 	<li>Accessories: Lumbar cushion and headrest cushion</li>
 	<li>Price: $299.00-$349.00 (Free Shipping)</li>
 </ul>
-<a class="big-button" href="http://amzn.to/2A0N3Qe">Buy Now</a>
 </div>
+
+<a class="big-button" href="http://amzn.to/2A0N3Qe">Buy Now</a>
 
 ### DXRacer King Series Gaming Chair 
 
@@ -145,6 +146,34 @@ This chair has adjustable armrests and an adjustable back rest. You can also adj
 	<li>Accessories: Lumbar cusion and headrest cushion</li>
 	<li>Price: $439.00-$499.00 (Free Shipping)</li>
 </ul>
+</div>
+
 <a class="big-button" href="http://amzn.to/2zxT3AI">Buy Now</a>
 
-###
+### DXRacer Racing Series Gaming Chair
+
+![Racing Series Chair](/img/chair/racing.jpg){: .img-middle}
+
+**3.** The Racing series provides a comfortable sitting arrangement and guarantees overall enjoyment. The headrest is a soft cushion wide enough for the entire head to rest in place.
+
+Just about every aspect of the chair is perfected to make your life easier. The armrests provide comfort to your shoulders and wrists while gaming for hours. 
+
+It comes in several different models, each tailored to suit different needs. It also comes in a variety of different colors to perfectly suit your taste. 
+
+<div class="specs-box">
+<h3 class="text-center">Specifications</h3>
+<ul>
+	<li>Max user height: 185 cm / 6 ft 1 in</li>
+	<li>Max weight: 180 lbs / 81.65 kg</li>
+	<li>25+ models available</li>
+	<li>Chair height: 50-53 inches (adjustable)</li>
+	<li>Base: Black aluminium</li>
+	<li>Casters (wheels): 2" PU (OH/RB, OH/RE, OH/RL, OH/RW models) 3" PU (OH/RH, OH/RV models)</li>
+	<li>Accessories: Lumbar cusion and headrest cushion</li>
+	<li>Price: $299.00-$449.00 (Free Shipping)</li>
+</ul>
+</div>
+
+[Buy now](http://amzn.to/2zkqB1r){: .big-button}
+
+<div id="first-letter"><p>I</p></div>
