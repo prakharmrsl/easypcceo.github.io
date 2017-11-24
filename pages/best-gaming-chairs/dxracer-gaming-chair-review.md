@@ -176,4 +176,4 @@ It comes in several different models, each tailored to suit different needs. It 
 
 [Buy now](http://amzn.to/2zkqB1r){: .big-button}
 
-<div id="first-letter"><p>I</p></div>
+<div id="first-letter"><p>I</p></div>n
