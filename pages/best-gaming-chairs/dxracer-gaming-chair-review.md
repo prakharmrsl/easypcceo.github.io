@@ -176,4 +176,10 @@ It comes in several different models, each tailored to suit different needs. It 
 
 [Buy now](http://amzn.to/2zkqB1r){: .big-button}
 
-<div id="first-letter"><p>I</p></div>n
+## In Conclusion
+
+The DXRacer gaming chair is an awesome product especially for the cost. No matter what line of chairs you choose, you'll get a great product. 
+
+Each line has several chairs in multiple colors. They're all durable, good looking, and ergonomic. In addition, they're a great deal. 
+
+If you're looking for a stylish, durable, and ergonomic gaming chair, DXRacer is the way to go. 
