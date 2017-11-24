@@ -11,6 +11,16 @@ With the value and popularity of Ethereum on the rise, it's clear that mining Et
 
 Before you invest your money in a great [Ethereum mining rig](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) or an Ethereum mining [GPU,](/crypto-mining/ethereum-hardware/) you'll need to know if it's even profitable. 
 
+## Should you Mine Ethereum?
+
+While Ethereum mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit.
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## Is Ethereum Mining Profitable? 
 
 The answer is yes. Ethereum can be mined with power efficient GPUs. On top of this, the value of Ethereum is steadily on the rise. 

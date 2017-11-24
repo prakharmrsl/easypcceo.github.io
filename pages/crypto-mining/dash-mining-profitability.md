@@ -9,6 +9,16 @@ As of late, the value of dash has been steadily increasing. Furthermore, its X11
 
 Since [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s can be used to mine Dash, the ROI (return on investment) is even greater. ASICs are designed specifically for mining. They have the highest hash rates and the lowest power consumption. 
 
+## Should you Mine Dash?
+
+While Dash mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit.
+
+**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+
+[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+
 ## Is Dash Mining Profitable? 
 
 Yes, yes it is. In fact, Dash is one of the most profitable currencies to mine in 2017.
