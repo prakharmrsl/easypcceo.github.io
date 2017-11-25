@@ -45,7 +45,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 </table>
 
 ## [Acer K272HUL](http://amzn.to/2zGjIYX) - $123
-![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-right .img-small}
+![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-middle}
 
 
 **1.** This is our pick for the budget-conscious gamers out there. This monitor is priced well for the high resolution panel and solid performance. This monitor is one of Acer’s K series monitors, delivering top-notch digital content. 
@@ -65,7 +65,7 @@ The color accuracy is very impressive, with no hint of light bleeding in the bac
 [Shop Now](http://amzn.to/2zGjIYX){: .big-button}
 
 ## [BenQ ZOWIE XL2730](http://amzn.to/2AIpdqs) - $499
-![BenQ ZOWIE](/img/1440p-monitors/zowie.png){: .img-right .img-small}
+![BenQ ZOWIE](/img/1440p-monitors/zowie.png){: .img-middle}
 
 
 **2.** If you have the extra money to spend, **this monitor is the best value for the money.** The BenQ ZOWIE XL2730 is listed just under $500 on Amazon. It's the perfect choice for any [e-sports](https://en.wikipedia.org/wiki/ESports) enthusiasts. 
@@ -89,7 +89,7 @@ This monitor even has a headphone hanger that pops out and retracts. At more tha
 [Shop now](http://amzn.to/2AIpdqs){: .big-button}
 
 ## [ASUS ROG SWIFT PG348Q](http://amzn.to/2yYkrYs) - $1200
-![ASUS ROG SWIFT](/img/1440p-monitors/rog.png){: .img-right .img-small}
+![ASUS ROG SWIFT](/img/1440p-monitors/rog.png){: .img-middle}
 
 **3.** The ASUS ROG SWIFT PG348Q is perfect for all the hardcore gamers out there willing to spend the money for the best quality. Although it is quite pricey, you'll be gaming on a monstrous 34-inch monitor that delivers outstanding performance. 
 
