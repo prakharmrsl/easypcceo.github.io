@@ -94,13 +94,14 @@ This monitor was designed to fit a budget. Plastic is the material of choice for
 The monitor is several inches thick, but flexes when a bit of pressure is applied. All in all, it's obvious that the monitor was designed with budget gamers in mind. 
 
 ## Controls
-![K272 side](/img/1440p-monitors/k272-side.jpg){: .img-middle}
 
 The control buttons of the monitor can be found on the lower right of the monitor. The controls allow the user to adjust contrast, color temperature, and brightness. 
 
 Once more, if you're looking for a monitor with extra features and complex controls, you'll probably have to raise your budget a bit. 
 
 ## Functionality/Image Quality of the Monitor 
+![K272 side](/img/1440p-monitors/k272-side.jpg){: .img-middle}
+
 
 As far as functionality goes, it boasts superb image quality for the price. The [RGB](https://en.wikipedia.org/wiki/RGB_color_model) colors look phenomenal. 
 
