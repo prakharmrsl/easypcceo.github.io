@@ -25,7 +25,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	<tr>
 		<td><a href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
 		<td>Acer K272HUL</td>
-		<td>27"; IPS; 60 Hz; 6 ms</td>
+		<td>27"; IPS; 60 Hz; 1 ms</td>
 		<td><a class="big-button" href="http://amzn.to/2zGjIYX">View on Amazon</a></td>
 	</tr>
 	<tr>
@@ -44,13 +44,13 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	</tr>	
 </table>
 
-## [Acer K272HUL](http://amzn.to/2zGjIYX) - $123
+## [Acer K272HUL](http://amzn.to/2zGjIYX) - $262
 ![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-middle}
 
 
 **1.** This is our pick for the budget-conscious gamers out there. This monitor is priced well for the high resolution panel and solid performance. This monitor is one of Acer’s K series monitors, delivering top-notch digital content. 
 
-The expansive LCD screen is equipped with a 2560x1440 resolution display along the [IPS panel](https://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/). With this monitor, you're guaranteed stunning images at all times. With a reseponse time of 6 ms, you won't have to worry about lagging in game. If you are fond of playing fast-paced FPS games, you will benefit from this responsive monitor. 
+The expansive LCD screen is equipped with a 2560x1440 resolution display along the [IPS panel](https://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/). With this monitor, you're guaranteed stunning images at all times. With a response time of 1 ms, you won't have to worry about lagging in game. If you are fond of playing fast-paced FPS games, you will benefit from this responsive monitor. 
 
 The color accuracy is very impressive, with no hint of light bleeding in the backlight. Furtheremore, there is not any shuttering or ghosting when playing a fast paced game. With the matte screen and IPS display, this monitor is a steal for the price.
 
@@ -60,7 +60,7 @@ The color accuracy is very impressive, with no hint of light bleeding in the bac
 * Display resolution: 2560x1440 
 * Aspect ratio: 16:9
 * Refresh rate: 60 Hz
-* Response time: 6 ms
+* Response time: 1 ms
 
 [Shop Now](http://amzn.to/2zGjIYX){: .big-button}
 
