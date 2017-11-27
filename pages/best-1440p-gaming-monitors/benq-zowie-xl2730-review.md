@@ -50,7 +50,7 @@ Moreover, game developers spend lots of time making their games look beautiful. 
 
 The [BenQ ZOWIE XL2730](http://amzn.to/2AIpdqs) is by far one of the best 1440p gaming monitors. **You can snag this monitor for $500.** 
 
-BenQ Zowie has been competing for the top spot by focusing on designing a monitor for E-sports. Their XL line is focused on competitive gaming, and fills in the gaps betweeen performance and price. 
+BenQ Zowie's XL line is focused on competitive gaming, and fills in the gaps betweeen performance and price. 
 
 This monitor features a beautiful 27 inch display and AMD's Freesync technology. 
 
@@ -79,7 +79,7 @@ This monitor features a beautiful 27 inch display and AMD's Freesync technology.
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
-		<td>BenQ ZOWIE XL2730</td>
+		<td><a href="/best-1440p-gaming-monitors/benq-zowie-xl2730-review/">BenQ ZOWIE XL2730</a></td>
 		<td>27"; TN; 144Hz; 1ms; FreeSync</td>
 		<td><a class="big-button" href="http://amzn.to/2AIpdqs">View on Amazon</a></td>
 		
@@ -112,13 +112,13 @@ The bezel of the monitor has five buttons on the lower-right side. They glow whi
 
 The XL2730 utilizes TN panel technology, allowing for a high refresh rate and low response time. The anti-glare coating does the monitor justice, eliminating any distracting reflections on the screen. 
 
-Before you buy this monitor, make sure your computer is up to the task. If your computer can't handle the native resolution of 2560 x 1440. 
+Before you buy this monitor, make sure your computer is up to the task. If your computer can't handle the native resolution of 2560 x 1440, maybe consider a 1080p monitor.  
 
 The monitor is a spectacular choice if you're a competitive [E-sports](https://en.wikipedia.org/wiki/ESports) gamer. This is not only thanks to the spectacular image quality, but to the high refresh rate and low respone time as well. 
 
-If you're a competitive gamer (the target audience of this monitor) then you'll benefit greatly from the TN panel technology. The 144 Hz refresh rate allows you to truly see 144 FPS in game. If you're playing a title such as CSGO, having the smoothest gameplay can be the edge you need to win. 
+If you're a competitive gamer (the target audience of this monitor) then you'll benefit greatly from the TN panel technology. The 144 Hz refresh rate allows you to truly see 144 FPS in game. If you're playing a title such as CSGO, having the smoothest gameplay can be the competitive edge you need to win. 
 
-Furthermore, the 1 ms respone time gives you the competitive edge you need to beat a player with say a 5 ms response time. 
+Furthermore, the 1 ms respone time gives you the competitive edge you need to beat a player with a 5 ms response time. 
 
 ## Conclusion
 
