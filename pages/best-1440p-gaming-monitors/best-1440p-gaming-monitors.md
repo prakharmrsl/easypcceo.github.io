@@ -24,7 +24,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
-		<td>Acer K272HUL</td>
+		<td><a href="/best-1440p-gaming-monitors/acer-k272hul-review/">Acer K272HUL</a></td>
 		<td>27"; IPS; 60 Hz; 1 ms</td>
 		<td><a class="big-button" href="http://amzn.to/2zGjIYX">View on Amazon</a></td>
 	</tr>
@@ -62,7 +62,7 @@ The color accuracy is very impressive, with no hint of light bleeding in the bac
 * Refresh rate: 60 Hz
 * Response time: 1 ms
 
-[Shop Now](http://amzn.to/2zGjIYX){: .big-button}
+[Read our Review](/best-1440p-gaming-monitors/acer-k272hul-review/){: .big-button}
 
 ## [BenQ ZOWIE XL2730](http://amzn.to/2AIpdqs) - $499
 ![BenQ ZOWIE](/img/1440p-monitors/zowie.png){: .img-middle}
