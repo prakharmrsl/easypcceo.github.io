@@ -67,13 +67,13 @@ It has plenty of video inputs, including an HDMI and display port, as well as bu
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
-		<td>Acer K272HUL</td>
+		<td><a href="/best-1440p-gaming-monitors/acer-k272hul-review/">Acer K272HUL</a></td>
 		<td>27"; IPS; 60 Hz; 1 ms</td>
 		<td><a class="big-button" href="http://amzn.to/2zGjIYX">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
-		<td>BenQ ZOWIE XL2730</td>
+		<td><a href="/best-1440p-gaming-monitors/benq-zowie-xl2730-review/">BenQ ZOWIE XL2730</a></td>
 		<td>27"; TN; 144Hz; 1ms; FreeSync</td>
 		<td><a class="big-button" href="http://amzn.to/2AIpdqs">View on Amazon</a></td>
 		
