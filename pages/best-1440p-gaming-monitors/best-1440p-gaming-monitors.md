@@ -37,7 +37,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2yYkrYs"><img class="table-image" src="/img/1440p-monitors/rog.png" /></a></td>
-		<td>ASUS ROG SWIFT PG348Q</td>
+		<td><a href="/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/">ASUS ROG SWIFT PG348Q</a></td>
 		<td>34"; Curved; IPS; 100Hz; 5ms; G-Sync</td>
 		<td><a class="big-button" href="http://amzn.to/2yYkrYs">View on Amazon</a></td>
 		
@@ -107,7 +107,7 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 * Refresh rate: 100 Hz
 * Response time: 5 ms 
 
-[Shop now](http://amzn.to/2yYkrYs){: .big-button}
+[Read our review](/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/){: .big-button}
 
 ## The Importance of a Gaming Monitor 
 

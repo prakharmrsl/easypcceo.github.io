@@ -80,7 +80,7 @@ It has plenty of video inputs, including an HDMI and display port, as well as bu
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2yYkrYs"><img class="table-image" src="/img/1440p-monitors/rog.png" /></a></td>
-		<td>ASUS ROG SWIFT PG348Q</td>
+		<td><a href="/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/">ASUS ROG SWIFT PG348Q</a></td>
 		<td>34"; Curved; IPS; 100Hz; 5ms; G-Sync</td>
 		<td><a class="big-button" href="http://amzn.to/2yYkrYs">View on Amazon</a></td>
 		
