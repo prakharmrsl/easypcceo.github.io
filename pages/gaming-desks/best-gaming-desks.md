@@ -171,7 +171,7 @@ The desk is very leight, weighing in at just under 45 pounds. Considering the pr
 </table>
 
 ## Flash Furniture Glass Gaming Desk
-![Flash Furniture Glass Desk](/img/desk/flash-furniture-glass.png){: .img-middle}
+![Flash Furniture Glass Desk](/img/desk/replace3.jpg){: .img-middle}
 
 
 **2.** The [Flash Furniture glass gaming desk](http://amzn.to/2zzespR) is one of my favorites on this list for many reasons. 
