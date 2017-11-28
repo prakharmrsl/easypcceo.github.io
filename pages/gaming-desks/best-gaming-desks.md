@@ -146,7 +146,7 @@ If you're interested in using this infographic for your website, please **contac
 Here begins the top 7 countdown of the best gaming deks in 2017. Bear in mind that this isn't ordered from best to worst, but rather ordered by the price tag. We're featuring 3 budget options, 2 mid-range and 2 enthusiast options. 
 
 ## Convenience Concepts Modern Student Desk - $76
-![Convenience Concepts Desk](/img/desk/student-desk.png){: .img-right .img-small}
+![Convenience Concepts Desk](/img/desk/student-desk.png){: .img-middle}
 
 
 **1.** The [Convenience Concepts Modern Student Desk](http://amzn.to/2zAywb7) is an excellent budget option. It features lots of storage space, and an easy no tools assembly. 
@@ -196,7 +196,7 @@ It also has beveled fornt legs, a cherry laminate finish and a privacy panel. Fo
 </table>
 
 ## Walker Edison Soreno 3-Piece Corner Gaming Desk
-![Walker Edison Soreno 3-Piece Corner Gaming Desk](/img/desk/walker-corner-desk.png){: .img-right .img-small}
+![Walker Edison Soreno 3-Piece Corner Gaming Desk](/img/desk/walker-corner-desk.png){: .img-middle}
 
 **3.** The [Walker Edison Soreno 3-Piece Corner Gaming Desk](http://amzn.to/2x6D7Ak) is a favorite among gamers. This is due to its "L-shape". The Walker Edison has a space in the bottom middle of the desk specifically for your PC. 
 
@@ -220,7 +220,7 @@ This desk is among the most versatile in this top list. Comparitively to the Fla
 </table>
 
 ## Atlantic Gaming Desk
-![Atlantic Gaming Desk](/img/desk/atlantic-gaming-desk.png){: .img-right .img-small}
+![Atlantic Gaming Desk](/img/desk/atlantic-gaming-desk.png){: .img-middle}
 
 
 **4.** The [Atlantic Gaming Desk](http://amzn.to/2x7ZMMF) was designed specifically with PC gamers in mind! It's an excellent choice for those with a single monitor setup. However, it may not be the BEST pick if you are rocking two or more monitors. 
@@ -249,7 +249,7 @@ It's safe to say this is a true gaming desk, deservant of a true PC gamer. Comin
 </table>
 
 ## Z-Line Designs Belaire Glass Desk
-![Z-Line Designs Belaire Glass Desk](/img/desk/belaire-glass.png){: .img-right .img-small}
+![Z-Line Designs Belaire Glass Desk](/img/desk/belaire-glass.png){: .img-middle}
 
 
 **5.** The [Z-Line Designs Belaire Glass Gaming Desk](http://amzn.to/2xR7sCn) has a sleek L-shaped design, ideal for corner placement. It features a sturdy metal frame with reinforced plates on the joints and a black powder coat finish. 
@@ -276,7 +276,7 @@ This desk is versatile and looks wonderful. It'll be the perfect addition to you
 </table>
 
 ## E-Blue USA Wireless Glowing LED Gaming Desk
-![Wireless Glowing LED Gaming Desk](/img/desk/glowing-desk.png){: .img-right .img-small}
+![Wireless Glowing LED Gaming Desk](/img/desk/glowing-desk.png){: .img-middle}
 
 
 **6.** The [E-Blue USA Wireless Glowing LED Gaming Desk](http://amzn.to/2zm6yio) is the world's first glowing desk for gamers. It allows you to control the glowing speed and effect with a wireless remote. 
@@ -301,7 +301,7 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 </table>
 
 ## Arozzi Arena Gaming Desk
-![Arozzi Arena Desk](/img/desk/arena-black.png){: .img-right .img-small}
+![Arozzi Arena Desk](/img/desk/arena-black.png){: .img-middle}
 
 
 **7.** Last but certainly not least is the [Arozzi Arena Gaming Desk](http://amzn.to/2yWXvZl). It's the perfect desk for the ultimate gaming setup. 
@@ -335,3 +335,4 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 At the end of the day, whether you're a casual gamer or a PC master race enthusiast, you deserve to sit behind the proper desk. 
 
 Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal. 
+
