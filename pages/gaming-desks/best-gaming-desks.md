@@ -171,7 +171,7 @@ The desk is very leight, weighing in at just under 45 pounds. Considering the pr
 </table>
 
 ## Flash Furniture Glass Gaming Desk
-![Flash Furniture Glass Desk](/img/desk/flash-furniture-glass.png){: .img-small .img-right}
+![Flash Furniture Glass Desk](/img/desk/flash-furniture-glass.png){: .img-middle}
 
 
 **2.** The [Flash Furniture glass gaming desk](http://amzn.to/2zzespR) is one of my favorites on this list for many reasons. 
@@ -196,7 +196,7 @@ It also has beveled fornt legs, a cherry laminate finish and a privacy panel. Fo
 </table>
 
 ## Walker Edison Soreno 3-Piece Corner Gaming Desk
-![Walker Edison Soreno 3-Piece Corner Gaming Desk](/img/desk/walker-corner-desk.png){: .img-middle}
+![Walker Edison Soreno 3-Piece Corner Gaming Desk](/img/desk/replace2.jpg){: .img-middle}
 
 **3.** The [Walker Edison Soreno 3-Piece Corner Gaming Desk](http://amzn.to/2x6D7Ak) is a favorite among gamers. This is due to its "L-shape". The Walker Edison has a space in the bottom middle of the desk specifically for your PC. 
 
@@ -249,7 +249,7 @@ It's safe to say this is a true gaming desk, deservant of a true PC gamer. Comin
 </table>
 
 ## Z-Line Designs Belaire Glass Desk
-![Z-Line Designs Belaire Glass Desk](/img/desk/belaire-glass.png){: .img-middle}
+![Z-Line Designs Belaire Glass Desk](/img/desk/replace.jpg){: .img-middle}
 
 
 **5.** The [Z-Line Designs Belaire Glass Gaming Desk](http://amzn.to/2xR7sCn) has a sleek L-shaped design, ideal for corner placement. It features a sturdy metal frame with reinforced plates on the joints and a black powder coat finish. 
@@ -306,9 +306,6 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 
 **7.** Last but certainly not least is the [Arozzi Arena Gaming Desk](http://amzn.to/2yWXvZl). It's the perfect desk for the ultimate gaming setup. 
 
-* TOC
-{:toc}
-
 The 160cm/5'3 inches width allows for a sweet triple monitor setup. The 80cm/2' 7.5 inches length gives you plenty of room for your mouse, keyboard and other peripherals. 
 
 The desk surface features a microfiber water-resistant material wellsuited for the use of a mouse. It's available in five colors, and the feet can be adjusted to suit your needs. It's also easily transported, as the desk breaks down into three seperate sections.
@@ -332,6 +329,9 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 
 ## Conclusion
 
+* TOC
+{:toc}
+
 At the end of the day, whether you're a casual gamer or a PC master race enthusiast, you deserve to sit behind the proper desk. 
 
-Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal. 
+Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal.
