@@ -159,14 +159,14 @@ The desk is very leight, weighing in at just under 45 pounds. Considering the pr
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>Standard</td>
 		<td>4.4/5</td>
-		<td><img class="table-image" src="/img/$.png" /></td>
-		<td><a href="http://amzn.to/2zAywb7"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$73</td>
+		<td><a class="big-button" href="http://amzn.to/2zAywb7">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -184,14 +184,14 @@ It also has beveled fornt legs, a cherry laminate finish and a privacy panel. Fo
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>Standard</td>
 		<td>3.8/5</td>
-		<td><img class="table-image" src="/img/$.png" /></td>
-		<td><a href="http://amzn.to/2zzespR"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$83</td>
+		<td><a class="big-button" href="http://amzn.to/2zzespR">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -208,14 +208,14 @@ This desk is among the most versatile in this top list. Comparitively to the Fla
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>L-Shaped</td>
 		<td>4.4/5</td>
-		<td><img class="table-image" src="/img/$.png" /></td>
-		<td><a href="http://amzn.to/2x6D7Ak"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$90</td>
+		<td><a class="big-button" href="http://amzn.to/2x6D7Ak"></a></td>
 	</tr>
 </table>
 
@@ -237,14 +237,14 @@ It's safe to say this is a true gaming desk, deservant of a true PC gamer. Comin
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>Standard</td>
 		<td>4.5/5</td>
-		<td><img class="money" src="/img/$$.png" /></td>
-		<td><a href="http://amzn.to/2x7ZMMF"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$107</td>
+		<td><a class="big-button" href="http://amzn.to/2x7ZMMF">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -264,14 +264,14 @@ This desk is versatile and looks wonderful. It'll be the perfect addition to you
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>L-Shaped</td>
 		<td>4.4/5</td>
-		<td><img class="money" src="/img/$$.png" /></td>
-		<td><a href="http://amzn.to/2xR7sCn"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$133</td>
+		<td><a class="big-button" href="http://amzn.to/2xR7sCn">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -289,14 +289,14 @@ Although it advertises a perfect surface for mice, unfortunately it doesn't seem
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>Standard</td>
 		<td>3.4/5</td>
-		<td><img class="money" src="/img/$$$.png" /></td>
-		<td><a href="http://amzn.to/2zm6yio"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$330</td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338223025&customid=&icep_uq=E-BLUE+USA+glowing+led+gaming+desk&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
 	</tr>
 </table>
 
@@ -319,14 +319,14 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 	<tr>
 		<th>Type</th>
 		<th>Review</th>
-		<th>Price Range</th>
+		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td>Standard</td>
 		<td>4.5/5</td>
-		<td><img class="money" src="/img/$$$.png" /></td>
-		<td><a href="http://amzn.to/2yWXvZl"><img class="table-image" src="/img/cart.png" /></a></td>
+		<td>$380</td>
+		<td><a class="big-button" href="http://amzn.to/2yWXvZl">View on Amazon</a></td>
 	</tr>
 </table>
 
