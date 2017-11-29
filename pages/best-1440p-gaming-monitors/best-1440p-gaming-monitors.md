@@ -68,7 +68,7 @@ I know there's a lot to consider when you're in the market for a new monitor. Th
 
 ## 1440p VS. 4K Resolution
 
-In our opinion, it's time for you to upgrade from 1080p to 1440p for *almost* all gammers. 
+In our opinion, it's time for you to upgrade from 1080p to 1440p for *almost* all gamers. 
 
 First of all unlike 4K monitors, 1440p monitors have come down in price a bit. There are [budget 1440p options](http://amzn.to/2zGjIYX) out there well under $300. You don't have to break the bank to game in 1440p resolution. However, 4K is still pretty pricey. 
 
@@ -82,7 +82,7 @@ You'll still need a good system to support 1440p gaming in 2017, but it's a heck
 
 [High Ground Gaming](https://www.highgroundgaming.com/best-1440p-gaming-monitors/) has a fantastic graphic showing the differences between resolutions. Here it is: 
 
-![Resolution Math](/img/1440p-monitors/resolution-math.jpg)
+![Resolution Math](/img/1440p-monitors/resolution-math.png)
 
 1440p is short for 2560 x 1440 pixels. That comes out to 3,686,500 million pixels. Compared to 4K's 8,294,400 pixels, 1440p will be far easier on your GPU.
 
