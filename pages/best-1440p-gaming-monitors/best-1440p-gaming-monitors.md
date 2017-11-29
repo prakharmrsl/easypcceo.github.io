@@ -285,4 +285,4 @@ The monitor has a flawless 25" display, delivering excellent performance for the
 * Refresh rate: 60 Hz
 * Response time: 6 ms 
 
-[View on Amazon](http://amzn.to/2j1WHZr){: big-button}
+[View on Amazon](http://amzn.to/2j1WHZr){: .big-button}
