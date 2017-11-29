@@ -286,3 +286,5 @@ The monitor has a flawless 25" display, delivering excellent performance for the
 * Response time: 6 ms 
 
 [View on Amazon](http://amzn.to/2j1WHZr){: .big-button}
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
