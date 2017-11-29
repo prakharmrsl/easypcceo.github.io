@@ -272,19 +272,3 @@ The Cooler Master GeminII M4 is the last CPU cooler on this list. Once again, it
 	</tr>
 	
 </table>
-
-[test](https://www.amazon.com/gp/cart/view.html/ref=lh_cart?&_encoding=UTF8&tag=flarp0c-20&linkCode=ur2&linkId=4abc3d6f4940a35407f793d61bb2c51d&camp=1789&creative=9325)
-
-<form method="GET" action="https://www.amazon.com/gp/aws/cart/add.html"> 
-<input type="hidden" name="AWSAccessKeyId" value="Access Key ID" /><br/> 
-<input type="hidden" name="AssociateTag" value="Associate Tag" /><br/> 
-<p>One Product<br/> 
-ASIN:<input type="B071XH7BV1" name="ASIN.1"/><br/> 
-Quantity:<input type="B075RWFCHB" name="Quantity.1"/><br/> 
-<p>Another Product<br/> 
-ASIN:<input type="text" name="ASIN.2"/><br/> 
-Quantity:<input type="text" name="Quantity.2"/><br/> 
-</p> 
-<input type="submit" name="add" value="add" /> 
-</form>
-
