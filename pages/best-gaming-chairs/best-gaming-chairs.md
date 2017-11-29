@@ -214,3 +214,5 @@ If you're interested in using this infographic for your website, please [contact
 
 * TOC
 {:toc}
+
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
