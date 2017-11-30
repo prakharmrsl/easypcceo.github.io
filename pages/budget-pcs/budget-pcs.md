@@ -59,7 +59,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 </table>
 </div>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold.</i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
