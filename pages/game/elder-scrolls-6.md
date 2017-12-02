@@ -48,8 +48,6 @@ Bethesda seems to announce games when they're close to release. It's not a shock
 Hopefully we'll hear something official from Bethesda in 2018 with a release date in 2019. 
 
 ## The Game is Well Worth the Wait 
-![Elder Scrolls 6](/img/games/es6/es6.jpg)
-
 
 Though The Elder Scrolls 6 may be a ways away, it might not be such a bad thing. 
 
