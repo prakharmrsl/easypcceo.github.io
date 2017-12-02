@@ -12,7 +12,7 @@ The Elder Scrolls 6 may feel like it's ages away, but that's probably not the ca
 Though Bethesda is focusing on The Evil Within 2 and Wolfenstein 2: The New Colossus, it seems that the sequel to Skyrim is in the works. Bethesda tries to deny these claims, though the new title seems inevitable. In the mean time, you can play Elder Scrolls Online on the [PC](http://amzn.to/2AzME7Y), [Xbox One](http://amzn.to/2ApbUeI), or [PS4](http://amzn.to/2jDJVA7). 
 
 ## Bethesda is Filling New Positions 
-![Bethesda](/img/games/es6/bethesda.png)
+![Bethesda](/img/games/es6/bethesda.png){: .img-middle}
 
 
 As of August 2017, Bethesda had 20 new roles advertised on their site ranging from Quest Designers to Concept Artists. Considering the October release of [Wolfenstein 2](http://amzn.to/2i7VezR) and [The Evil Within 2](http://amzn.to/2njVzVL), it's unlikely these positions were for either of these big titles. We can only hope these positions are for the new Elder Scrolls. 
