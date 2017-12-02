@@ -1,5 +1,5 @@
 ---
-title: "The Elder Scrolls VI is on the Way, and Here's Why:"" 
+title: "The Elder Scrolls VI is on the Way, and Here's Why:" 
 permalink: "/game/elder-scrolls-6/"
 layout: page
 seotitle: "5 Reasons Why You Should be Anticipating The Elder Scrolls 6"
