@@ -44,7 +44,6 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wired/Satellite Speakers</td>
 		<td>Low</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
-		
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/t40.png" /></a></td>
@@ -54,7 +53,6 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wireless</td>
 		<td>Medium-low</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
-		
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jIB67Z"><img class="table-image" src="/img/gaming-speakers/genius.png" /></a></td>
@@ -73,7 +71,6 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wired</td>
 		<td>Medium-low</td>
 		<td><a class="big-button" href="http://amzn.to/2jHKgS1">View on Amazon</a></td>
-		
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2An5miG"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
@@ -83,7 +80,6 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wired</td>
 		<td>Medium</td>
 		<td><a class="big-button" href="http://amzn.to/2An5miG">View on Amazon</a></td>
-		
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/audio-series.png" /></a></td>
@@ -93,7 +89,6 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wired</td>
 		<td>Medium</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on Amazon</a></td>
-		
 	</tr>
 <tr>
 	<td><a href="http://amzn.to/2nti4rw"><img class="table-image" src="/img/gaming-speakers/razer-l.png" /></a></td>
@@ -167,6 +162,5 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	<td>High</td>
 	<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</a></td>
 </tr>
-	
 </table>
 
