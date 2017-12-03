@@ -90,34 +90,34 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Medium</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on Amazon</a></td>
 	</tr>
-<tr>
-	<td><a href="http://amzn.to/2nti4rw"><img class="table-image" src="/img/gaming-speakers/razer-l.png" /></a></td>
-	<td><a href="http://amzn.to/2nti4rw">Razer Leviathan Elite Gaming and Music Sound Bar</a></td>
-	<td>PC/TV</td>
-	<td>1 Soundbar, 1 Subwoofer</td>
-	<td>Wired</td>
-	<td>Medium</td>
-	<td><a class="big-button" href="http://amzn.to/2nti4rw">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2ibGakT"><img class="table-image" src="/img/gaming-speakers/yamaha-ns.png" /></a></td>
-	<td><a href="http://amzn.to/2ibGakT">Yamaha NS-SP1800BL 5.1 Channel Home Theater Speaker Set</td>
-	<td>TV</td>
-	<td>5 Speakers, 1 Subwoofer</td>
-	<td>Wired</td>
-	<td>Medium</td>
-	<td><a class="big-button" href="http://amzn.to/2ibGakT">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z906" /></a></td>
-	<td><a href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
-	<td>PC</td>
-	<td>5 Speakeres, 1 Subwoofer</td>
-	<td>Wired</td>
-	<td>Medium High</td>
-	<td><a class="big-button" href="http://amzn.to/2noNtuV"> View on Amazon</a></td>
-</tr>
-<tr>
+    <tr>
+		<td><a href="http://amzn.to/2nti4rw"><img class="table-image" src="/img/gaming-speakers/razer-l.png" /></a></td>
+		<td><a href="http://amzn.to/2nti4rw">Razer Leviathan Elite Gaming and Music Sound Bar</a></td>
+		<td>PC/TV</td>
+		<td>1 Soundbar, 1 Subwoofer</td>
+		<td>Wired</td>
+		<td>Medium</td>
+		<td><a class="big-button" href="http://amzn.to/2nti4rw">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2ibGakT"><img class="table-image" src="/img/gaming-speakers/yamaha-ns.png" /></a></td>
+		<td><a href="http://amzn.to/2ibGakT">Yamaha NS-SP1800BL 5.1 Channel Home Theater Speaker Set</td>
+		<td>TV</td>
+		<td>5 Speakers, 1 Subwoofer</td>
+		<td>Wired</td>
+		<td>Medium</td>
+		<td><a class="big-button" href="http://amzn.to/2ibGakT">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z906" /></a></td>
+		<td><a href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
+		<td>PC</td>
+		<td>5 Speakeres, 1 Subwoofer</td>
+		<td>Wired</td>
+		<td>Medium High</td>
+		<td><a class="big-button" href="http://amzn.to/2noNtuV"> View on Amazon</a></td>
+	</tr>
+	<tr>
 		<td><a href="http://amzn.to/2no3scU"><img class="table-image" src="/img/gaming-speakers/soundsticks.png" /></a></td>
 		<td><a href="http://amzn.to/2no3scU">Harman Kardon SoundSticks Wireless</td>
 		<td>PC</td>
@@ -125,41 +125,41 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>Wireless</td>
 		<td>Medium-high</td>
 		<td><a class="big-button" href="http://amzn.to/2no3scU">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2ibxpHv"><img class="table-image" src="/img/gaming-speakers/bose.png" /></a></td>
-	<td><a href="http://amzn.to/2ibxpHv">Bose Acoustimass 10 Series V Home Theater Speaker System</td>
-	<td>TV</td>
-	<td>5 Speakers, 1 Subwoofer</td>
-	<td>Wired</td>
-	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2ibxpHv">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2jHMb9e"><img class="basic-table" src="/img/gaming-speakers/samsung-ht.png" /></a></td>
-	<td><a href="http://amzn.to/2jHMb9e">Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System</a></td>
-	<td>TV</td>
-	<td>7 Speakers</td>
-	<td>Wireless</td>
-	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2jHMb9e">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2jKMe42"><img class="table-image" src="/img/gaming-speakers/cinema-100.png" /></a></td>
-	<td><a href="http://amzn.to/2jKMe42">Paradigm Cinema 100 CT 5.1 Speakers</td>
-	<td>TV</td>
-	<td>5 Speakers, 1 Subwoofer</td>
-	<td>Wired</td>
-	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2jKMe42">View on Amazon</a></td>
-</tr>
-<tr>
-	<td><a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
-	<td><a href="http://amzn.to/2BGB1JY">Klipsch R-15PM Powered Monitors</a></td>
-	<td>PC/TV</td>
-	<td>2 Speakers</td>
-	<td>Wired/Wireless</td>
-	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</a></td>
-</tr>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2ibxpHv"><img class="table-image" src="/img/gaming-speakers/bose.png" /></a></td>
+		<td><a href="http://amzn.to/2ibxpHv">Bose Acoustimass 10 Series V Home Theater Speaker System</td>
+		<td>TV</td>
+		<td>5 Speakers, 1 Subwoofer</td>
+		<td>Wired</td>
+		<td>High</td>
+		<td><a class="big-button" href="http://amzn.to/2ibxpHv">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2jHMb9e"><img class="basic-table" src="/img/gaming-speakers/samsung-ht.png" /></a></td>
+		<td><a href="http://amzn.to/2jHMb9e">Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System</a></td>
+		<td>TV</td>
+		<td>7 Speakers</td>
+		<td>Wireless</td>
+		<td>High</td>
+		<td><a class="big-button" href="http://amzn.to/2jHMb9e">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2jKMe42"><img class="table-image" src="/img/gaming-speakers/cinema-100.png" /></a></td>
+		<td><a href="http://amzn.to/2jKMe42">Paradigm Cinema 100 CT 5.1 Speakers</td>
+		<td>TV</td>
+		<td>5 Speakers, 1 Subwoofer</td>
+		<td>Wired</td>
+		<td>High</td>
+		<td><a class="big-button" href="http://amzn.to/2jKMe42">View on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
+		<td><a href="http://amzn.to/2BGB1JY">Klipsch R-15PM Powered Monitors</a></td>
+		<td>PC/TV</td>
+		<td>2 Speakers</td>
+		<td>Wired/Wireless</td>
+		<td>High</td>
+		<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</a></td>
+	</tr>
 </table>
