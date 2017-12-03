@@ -15,7 +15,7 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 
 Surround sound in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
 
-Top 15 Speakers for the PC and Console 
+## Top 15 Speakers for the PC and Console 
 
 <table class="basic-table" align="center">
 	<tr>
@@ -82,7 +82,7 @@ Top 15 Speakers for the PC and Console
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
 		<td>Medium</td>
-		<td><a class="big-buton" href="http://amzn.to/2An5miG">View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2An5miG">View on Amazon</a></td>
 		
 	</tr>
 	<tr>
@@ -92,7 +92,7 @@ Top 15 Speakers for the PC and Console
 		<td>2 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
 		<td>Medium</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"></td>
+		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on Amazon</a></td>
 		
 	</tr>
 <tr>
@@ -111,7 +111,7 @@ Top 15 Speakers for the PC and Console
 	<td>5 Speakers, 1 Subwoofer</td>
 	<td>Wired</td>
 	<td>Medium</td>
-	<td><a class="big-button" href="http://amzn.to/2ibGakT"></td>
+	<td><a class="big-button" href="http://amzn.to/2ibGakT">View on Amazon</a></td>
 </tr>
 <tr>
 	<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z906" /></a></td>
@@ -156,7 +156,7 @@ Top 15 Speakers for the PC and Console
 	<td>5 Speakers, 1 Subwoofer</td>
 	<td>Wired</td>
 	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2jKMe42">View on Amazon</td>
+	<td><a class="big-button" href="http://amzn.to/2jKMe42">View on Amazon</a></td>
 </tr>
 <tr>
 	<td><a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
@@ -165,7 +165,7 @@ Top 15 Speakers for the PC and Console
 	<td>2 Speakers</td>
 	<td>Wired/Wireless</td>
 	<td>High</td>
-	<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</td>
+	<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</a></td>
 </tr>
 	
 </table>
