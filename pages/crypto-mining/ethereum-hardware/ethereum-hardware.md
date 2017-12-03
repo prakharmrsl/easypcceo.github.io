@@ -106,7 +106,7 @@ Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](h
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-rx-480-review/){: .big-button}
 
 ## Ethereum Mining Rigs 
-![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png){: .img-middle}
+![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png)
 
 Proof-of-work is the method used to mine Ethereum. Essentialy, your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. Finding this value is next to impossible. However, once the value is found the miner is rewarded with Ether.
 
