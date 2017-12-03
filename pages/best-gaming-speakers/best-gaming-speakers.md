@@ -1,6 +1,6 @@
 ---
-title: The 15 Best Gaming Speakers of 2017 
-permalink: "/best-gaming-mousepads/"
+title: "The 15 Best Gaming Speakers of 2017" 
+permalink: "/best-gaming-speakers/"
 layout: page
 seotitle: "15 Best Gaming Speakers of 2017 (Desk/TV)" 
 --- 
