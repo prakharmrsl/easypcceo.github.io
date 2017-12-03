@@ -105,6 +105,19 @@ Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](h
 
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-rx-480-review/){: .big-button}
 
+## Ethereum Mining Rigs 
+![Ethereum Mining Rigs](/img/gpu/mining-rig-1.jpg){: .img-middle}
+
+Proof-of-work is the method used to mine ethereum. Essentialy, your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. Finding this value is next to impossible. However, once the value is found, the miner is rewarded with Ether.
+
+That being said, the more powerful your mining hardware is, the more likely you are to successfully mine Ether, and in turn generate a profit. If you use one of the three GPUs mentioned above, you're off to a good start. 
+
+Using common sense, it is obvious that one Ethereum mining GPU won't be as effective as two. Two won't be as effective as three, so on and so forth. With this in mind, it's time to think about [Ethereum mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). 
+
+An Ethereum mining rig is a configuration of two or more Ethereum mining GPUs. In most cases a rig consists of four or more GPUs. Obviously they're more expensive than one GPU, but they also have far superior hashing power. At the end of the day, they're well worth the investment. 
+
+[Shop Ethereum mining rigs on eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+
 ## What is Ethereum? 
 
 Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/), much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
