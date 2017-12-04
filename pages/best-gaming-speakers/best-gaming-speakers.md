@@ -109,7 +109,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td><a class="big-button" href="http://amzn.to/2ibGakT">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z906" /></a></td>
+		<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z506" /></a></td>
 		<td><a href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
 		<td>PC</td>
 		<td>5 Speakeres, 1 Subwoofer</td>
