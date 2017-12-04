@@ -74,7 +74,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2An5miG"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
-		<td><a href="http://amzn.to/2An5miG">Logitech X-540 5.1 Surround Sound Speaker System</td>
+		<td><a href="http://amzn.to/2An5miG">Logitech X-540 5.1 Surround Sound Speaker System</a></td>
 		<td>PC</td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
@@ -101,7 +101,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ibGakT"><img class="table-image" src="/img/gaming-speakers/yamaha-ns.png" /></a></td>
-		<td><a href="http://amzn.to/2ibGakT">Yamaha NS-SP1800BL 5.1 Channel Home Theater Speaker Set</td>
+		<td><a href="http://amzn.to/2ibGakT">Yamaha NS-SP1800BL 5.1 Channel Home Theater Speaker Set</a></td>
 		<td>TV</td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
