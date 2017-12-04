@@ -28,7 +28,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2zY5lmd"><img class="table-image" src="/img/gaming-speakers/cyber-acoustics.png/" /></a></td>
+		<td><a href="http://amzn.to/2zY5lmd"><img class="table-image" src="/img/gaming-speakers/cyber-acoustics.png" /></a></td>
 		<td><a href="http://amzn.to/2zY5lmd">Cyber Acoustics Powered Speakers with Subwoofer</a></td>
 		<td>PC</td>
 		<td>2 Speakers, 1 Subwoofer</td>
@@ -115,11 +115,11 @@ Surround sound in particular is an important component of any gamer's setup. Not
 		<td>5 Speakeres, 1 Subwoofer</td>
 		<td>Wired</td>
 		<td>Medium High</td>
-		<td><a class="big-button" href="http://amzn.to/2noNtuV"> View on Amazon</a></td>
+		<td><a class="big-button" href="http://amzn.to/2noNtuV">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2no3scU"><img class="table-image" src="/img/gaming-speakers/soundsticks.png" /></a></td>
-		<td><a href="http://amzn.to/2no3scU">Harman Kardon SoundSticks Wireless</td>
+		<td><a href="http://amzn.to/2no3scU">Harman Kardon SoundSticks Wireless</a></td>
 		<td>PC</td>
 		<td>8 Speakers, 1 Subwoofer</td>
 		<td>Wireless</td>
@@ -128,7 +128,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ibxpHv"><img class="table-image" src="/img/gaming-speakers/bose.png" /></a></td>
-		<td><a href="http://amzn.to/2ibxpHv">Bose Acoustimass 10 Series V Home Theater Speaker System</td>
+		<td><a href="http://amzn.to/2ibxpHv">Bose Acoustimass 10 Series V Home Theater Speaker System</a></td>
 		<td>TV</td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
@@ -146,7 +146,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jKMe42"><img class="table-image" src="/img/gaming-speakers/cinema-100.png" /></a></td>
-		<td><a href="http://amzn.to/2jKMe42">Paradigm Cinema 100 CT 5.1 Speakers</td>
+		<td><a href="http://amzn.to/2jKMe42">Paradigm Cinema 100 CT 5.1 Speakers</a></td>
 		<td>TV</td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Wired</td>
