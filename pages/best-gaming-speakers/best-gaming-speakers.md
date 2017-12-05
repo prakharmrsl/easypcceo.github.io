@@ -211,3 +211,32 @@ The subwoofer that ships with this speaker set delivers excellent bass powered b
 It ships with a control box so you can place your speakers anywhere you'd like. They were designed specifically for gaming, delivering rich base and realistic audio. 
 
 Performance aside, these speakers look awesome too! 
+
+## [Logitech Z906 Surround Sound Speakers](http://amzn.to/2An5miG)
+
+<a href="http://amzn.to/2An5miG"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a>
+
+**6.** If you're looking for top of the line audio, the Logitech Z906 is a gaming speaker set to keep your eye on. 
+
+The speakers are powered by 500 watts of power all the way up to a monstrous 1000 watts. You'll shake windows with these powerful speakers!
+
+You can connect up to 6 devices, switching between devices at will. 
+
+## [Harman Kardon Soundsticks Wireless Gaming Speakers](http://amzn.to/2no3scU)
+
+<a href="http://amzn.to/2no3scU"><img class="table-image" src="/img/gaming-speakers/soundsticks.png" /></a>
+
+**7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful GPU. 
+
+While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable. 
+
+## [Klipsch R-15PM Powered Speakers](http://amzn.to/2BGB1JY)
+
+<a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a>
+
+**8.** While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. 
+
+These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono. 
+
+The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. They can even be mounted for your convenience! 
+
