@@ -45,14 +45,14 @@ If you want the most from your money, buying as many cheap CPUs is your best bet
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+Opteron+6272&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/6272.png" /></a></td>
-		<td>AMD Opteron 6272</td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+Opteron+6272&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">AMD Opteron 6272</a></td>
 		<td>415 H/s</td>
 		<td>$50</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+Opteron+6272&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
 	</tr>
-	<tr>">
+	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cpu/fx-8320.png" /></a></td>
-		<td>AMD FX 8320</td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">AMD FX 8320</a></td>
 		<td>330 H/s</td>
 		<td>$90</td>
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
