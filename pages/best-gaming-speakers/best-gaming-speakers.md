@@ -239,4 +239,3 @@ While the price tag is a bit high, they provide satisfying performance and power
 These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono. 
 
 The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. They can even be mounted for your convenience! 
-
