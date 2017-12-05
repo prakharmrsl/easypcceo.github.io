@@ -188,7 +188,7 @@ The surround sound makes you feel like you're really in the game, ensuring the m
 
 ## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
-<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/t40.png" /></a>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
 
 **3.** Creative has been producing high quality sound systems for a long time. [The Creative T40 Series II](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg lives up to expectations. The T40's are 3.5" taller than the T20's. If you can shell out the extra money, we recommend this line. It offers more power and a more complete audio range. 
 
@@ -214,7 +214,7 @@ Performance aside, these speakers look awesome too!
 
 ## [Logitech Z906 Surround Sound Speakers](http://amzn.to/2An5miG)
 
-<a href="http://amzn.to/2An5miG"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a>
+<a href="http://amzn.to/2An5miG"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
 
 **6.** If you're looking for top of the line audio, the Logitech Z906 is a gaming speaker set to keep your eye on. 
 
@@ -224,7 +224,7 @@ You can connect up to 6 devices, switching between devices at will.
 
 ## [Harman Kardon Soundsticks Wireless Gaming Speakers](http://amzn.to/2no3scU)
 
-<a href="http://amzn.to/2no3scU"><img class="table-image" src="/img/gaming-speakers/soundsticks.png" /></a>
+<a href="http://amzn.to/2no3scU"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
 
 **7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful GPU. 
 
@@ -232,10 +232,21 @@ While the price tag is a bit high, they provide satisfying performance and power
 
 ## [Klipsch R-15PM Powered Speakers](http://amzn.to/2BGB1JY)
 
-<a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a>
+<a href="http://amzn.to/2BGB1JY"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
 
 **8.** While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. 
 
 These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono. 
 
 The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. They can even be mounted for your convenience! 
+
+## Top 7 TV Compatible Gaming Speakers 
+
+## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
+
+**1.** Creative has been producing high quality sound systems for a long time. [The Creative T40 Series II](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is also compatible with a TV, and it lives up to expectations. The T40's are 3.5" taller than the T20's. If you can shell out the extra money, we recommend this line. It offers more power and a more complete audio range. 
+
+These speakers are compatible not only with a PC, but a TV as well and even your smart phone.
+
