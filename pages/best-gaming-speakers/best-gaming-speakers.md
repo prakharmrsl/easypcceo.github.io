@@ -13,7 +13,7 @@ In this list we're examining the 15 best PC and TV gaming speakers for your gami
 
 Whether you game behind a keyboard and mouse or on the couch, have no fear. Our list covers speakers compatible with a [gaming PC](/img/budget-pcs/) as well as a TV for all of you console gamers out there.
 
-Surround sound in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
+[Surround sound](https://www.lifewire.com/what-is-surround-sound-audio-2640440) in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
 
 ## Top 15 Speakers for the PC and Console 
 
@@ -218,7 +218,7 @@ Performance aside, these speakers look awesome too!
 
 **6.** If you're looking for top of the line audio, the Logitech Z906 is a gaming speaker set to keep your eye on. 
 
-The speakers are powered by 500 watts of power all the way up to a monstrous 1000 watts. You'll shake windows with these powerful speakers!
+The speakers are powered by 500 watts all the way up to a monstrous 1000 watts. You'll shake windows with these powerful speakers!
 
 You can connect up to 6 devices, switching between devices at will. 
 
@@ -226,7 +226,7 @@ You can connect up to 6 devices, switching between devices at will.
 
 <a href="http://amzn.to/2no3scU"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
 
-**7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful GPU. 
+**7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful [GPU](http://www.nvidia.com/object/what-is-gpu-computing.html). 
 
 While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable. 
 
