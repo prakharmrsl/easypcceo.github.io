@@ -215,7 +215,7 @@ This desk is among the most versatile in this top list. Comparitively to the Fla
 		<td>L-Shaped</td>
 		<td>4.4/5</td>
 		<td>$90</td>
-		<td><a class="big-button" href="http://amzn.to/2x6D7Ak"></a></td>
+		<td><a class="big-button" href="http://amzn.to/2x6D7Ak">View on Amazon</a></td>
 	</tr>
 </table>
 
