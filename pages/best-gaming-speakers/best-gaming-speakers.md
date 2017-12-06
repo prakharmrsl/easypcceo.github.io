@@ -111,7 +111,7 @@ Surround sound in particular is an important component of any gamer's setup. Not
 	<tr>
 		<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
 		<td><a href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
-		<td>PC</td>
+		<td>PC/TV</td>
 		<td>5 Speakeres, 1 Subwoofer</td>
 		<td>Wired</td>
 		<td>Medium High</td>
@@ -240,7 +240,7 @@ These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital 
 
 The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. They can even be mounted for your convenience! 
 
-## Top 7 TV Compatible Gaming Speakers 
+## Top 6 TV Compatible Gaming Speakers 
 
 ## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
@@ -249,3 +249,61 @@ The speakers have a built-in amplifier, eliminating the need for an aftermarket 
 **1.** Creative has been producing high quality sound systems for a long time. [The Creative T40 Series II](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is also compatible with a TV, and it lives up to expectations. The T40's are 3.5" taller than the T20's. If you can shell out the extra money, we recommend this line. It offers more power and a more complete audio range. 
 
 These speakers are compatible not only with a PC, but a TV as well and even your smart phone.
+
+## [Razer Leviathan Elite Gaming and Music Sound Bar](http://amzn.to/2nti4rw)
+
+<a href="http://amzn.to/2nti4rw"><img class="img-middle" src="/img/gaming-speakers/razer-l.png" /></a>
+
+**2.** Yes indeed, Razer has a sound bar. In fact, it's pretty solid. It's a crossover that can be used both with your TV and PC. It's a sleek piece of technology that blasts crisp and clear audio. 
+
+You can even use these speakers with your smartphone. It also comes with a 5.25" subwoofer. Firing downwards, it won't fail to deliver powerful bass. 
+
+## [Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System](http://amzn.to/2jHMb9e)
+
+<a href="http://amzn.to/2jHMb9e"><img class="img-middle" src="/img/gaming-speakers/samsung-ht.png" /></a>
+
+**3.** This home theatre system packss over 1000 watts of power. This setup is great for console gaming on a TV. It's an eight piece set of 7.1 speakers. 
+
+It also ships with a powerful subwoofer using over 200 watts. The in-game action will be more realistic than ever before. This system is also wonderful for watching movies if you want great sound quality. 
+
+This is quite the investment, but it's well worth the money. 
+
+## [Paradigm Cinema 100 CT 5.1 Gaming Speakers](http://amzn.to/2jKMe42)
+
+<a href="http://amzn.to/2jKMe42"><img class="img-middle" src="/img/gaming-speakers/cinema-100.png" /></a>
+
+**4.** This home theatre system is another great choice for console gaming. These speakers provide amazing sound quality for their price and size.
+
+There are two 5.25" drivers on each speaker, and a 1600-watt amplifier. It ships with six bass drivers and eight passive radiators.
+
+If you're looking for the best sound quality and a modest pricetag, check out these speakers. 
+
+## [Bose Acoustimass 10 Series V Home Theater Speaker](http://amzn.to/2ibxpHv)
+
+<a href="http://amzn.to/2ibxpHv"><img class="img-middle" src="/img/gaming-speakers/bose.png" /></a>
+
+**5.** If you've got $1000 to spare for a gaming speaker setup, this is our favorite. The Acoustimass 10 series has everything you need for an immersive audio experience. Whether you're racing in Daytona Speedway or battling on the beaches of Normandy, this setup will make it feel like you're really in the game. 
+
+They can mount to the wall, fitting any gaming setup/room configuration.  
+
+These speakers most resemble a home theatre system, but don't be fooled by their appearance. While the design is minimalistic, the performance is not. 
+
+<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha-ns.png" /></a>
+
+## [Yamaha NS-SP1800BL 5.1-Channel Home Theater Speaker Set](http://amzn.to/2ibGakT)
+
+<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha-ns.png" /></a>
+
+**6.** is a great speaker setup and for the low cost of just $150, you won't find a better deal. 5.1 channel surround sound with 2 front and back speakers. You even get a center speaker and a large subwoofer. 
+
+Unfortunately this speaker system requires a sound amplifier for optimal sound as it's a standalone 5.1 channel package. 
+
+However, having heard the sound quality of this system, I'd say it's well worth the money. 
+
+## Our Opinion on Gaming Speakers 
+
+If you're serious about gaming, we highly recommend investing in a high quality sound system for gaming. 
+
+Whether you're gaming on the PC or console, good sound quality is important. If you can't hear your opponent, they'll have the upper hand on you. Furthermore, having great surround sound and powerful base really throws you into the action. 
+
+It is our opinion that a great gaming speaker is a must for all serious gamers out there. Even when you're watching TV/movies, a good surround sound speaker system makes it that much beter. 
