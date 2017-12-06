@@ -288,8 +288,6 @@ They can mount to the wall, fitting any gaming setup/room configuration.
 
 These speakers most resemble a home theatre system, but don't be fooled by their appearance. While the design is minimalistic, the performance is not. 
 
-<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha-ns.png" /></a>
-
 ## [Yamaha NS-SP1800BL 5.1-Channel Home Theater Speaker Set](http://amzn.to/2ibGakT)
 
 <a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha-ns.png" /></a>
