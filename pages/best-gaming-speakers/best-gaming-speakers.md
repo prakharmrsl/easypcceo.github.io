@@ -196,7 +196,7 @@ These speakers are compatible not only with a PC, but a TV as well and even your
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](http://amzn.to/2jIB67Z) 
 
-<a href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
+<a href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/gaming.jpg" /></a>
 
 **4.** These speakers are sexy and sleek, perfect for PC gaming. There are dual input jacks compatible with PC, TV, DVD and other gaming devices. They even come in different colors. 
 
@@ -204,7 +204,7 @@ The subwoofer that ships with this speaker set delivers excellent bass powered b
 
 ## [AVerMedia Ballista Unity Gaming Speakers](http://amzn.to/2jHKgS1)
 
-<a href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/ballista-unity.png" /></a>
+<a href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/avermedia.jpg" /></a>
 
 **5.** The [AverMedia Ballista Unity Speakers](http://amzn.to/2jHKgS1) boast superb performance with 40 watts of power. They have dual satellite drivers and a powerful subwoofer. 
 
@@ -252,7 +252,7 @@ These speakers are compatible not only with a PC, but a TV as well and even your
 
 ## [Razer Leviathan Elite Gaming and Music Sound Bar](http://amzn.to/2nti4rw)
 
-<a href="http://amzn.to/2nti4rw"><img class="img-middle" src="/img/gaming-speakers/razer-l.png" /></a>
+<a href="http://amzn.to/2nti4rw"><img class="img-middle" src="/img/gaming-speakers/razer.png" /></a>
 
 **2.** Yes indeed, Razer has a sound bar. In fact, it's pretty solid. It's a crossover that can be used both with your TV and PC. It's a sleek piece of technology that blasts crisp and clear audio. 
 
@@ -260,7 +260,7 @@ You can even use these speakers with your smartphone. It also comes with a 5.25"
 
 ## [Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System](http://amzn.to/2jHMb9e)
 
-<a href="http://amzn.to/2jHMb9e"><img class="img-middle" src="/img/gaming-speakers/samsung-ht.png" /></a>
+<a href="http://amzn.to/2jHMb9e"><img class="img-middle" src="/img/gaming-speakers/samsung.jpg" /></a>
 
 **3.** This home theatre system packss over 1000 watts of power. This setup is great for console gaming on a TV. It's an eight piece set of 7.1 speakers. 
 
@@ -270,7 +270,7 @@ This is quite the investment, but it's well worth the money.
 
 ## [Paradigm Cinema 100 CT 5.1 Gaming Speakers](http://amzn.to/2jKMe42)
 
-<a href="http://amzn.to/2jKMe42"><img class="img-middle" src="/img/gaming-speakers/cinema-100.png" /></a>
+<a href="http://amzn.to/2jKMe42"><img class="img-middle" src="/img/gaming-speakers/paradigm.jpg" /></a>
 
 **4.** This home theatre system is another great choice for console gaming. These speakers provide amazing sound quality for their price and size.
 
@@ -280,7 +280,7 @@ If you're looking for the best sound quality and a modest pricetag, check out th
 
 ## [Bose Acoustimass 10 Series V Home Theater Speaker](http://amzn.to/2ibxpHv)
 
-<a href="http://amzn.to/2ibxpHv"><img class="img-middle" src="/img/gaming-speakers/bose.png" /></a>
+<a href="http://amzn.to/2ibxpHv"><img class="img-middle" src="/img/gaming-speakers/bose.jpg" /></a>
 
 **5.** If you've got $1000 to spare for a gaming speaker setup, this is our favorite. The Acoustimass 10 series has everything you need for an immersive audio experience. Whether you're racing in Daytona Speedway or battling on the beaches of Normandy, this setup will make it feel like you're really in the game. 
 
@@ -290,7 +290,7 @@ These speakers most resemble a home theatre system, but don't be fooled by their
 
 ## [Yamaha NS-SP1800BL 5.1-Channel Home Theater Speaker Set](http://amzn.to/2ibGakT)
 
-<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha-ns.png" /></a>
+<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha.jpg" /></a>
 
 **6.** is a great speaker setup and for the low cost of just $150, you won't find a better deal. 5.1 channel surround sound with 2 front and back speakers. You even get a center speaker and a large subwoofer. 
 
