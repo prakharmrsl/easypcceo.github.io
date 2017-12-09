@@ -741,4 +741,6 @@ If you don't have enough money to buy the best parts, that's okay. Just be patie
 
 It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
 
+![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
+
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
