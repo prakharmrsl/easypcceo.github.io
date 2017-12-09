@@ -5,11 +5,6 @@ layout: page
 seotitle: "7 Best Gaming Desks of 2017 (Comparison)"
 ---
 
-<a class="big-button" href="amazon.com">View on Amazon</a>
-
-[View on Amazon](amazon.com){: .big-button #}
-
-
 Whether you're a casual gamer or a PC enthusiast, you deserve the ultimate experience behind your mouse and keyboard. 
 
 While peripherals such as headsets, mice and mousepads, keyboards, and chairs are considered, the proper gaming desk is often overlooked.
