@@ -16,7 +16,7 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 [Surround sound](https://www.lifewire.com/what-is-surround-sound-audio-2640440) in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
 
 ## Top 15 Speakers for the PC and Console 
-
+<div class="vid-container">
 <table class="basic-table" align="center">
 	<tr>
 		<th>Image</th>
@@ -163,7 +163,7 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 		<td><a class="big-button" href="http://amzn.to/2BGB1JY">View on Amazon</a></td>
 	</tr>
 </table>
-
+</div>
 ## Top 8 PC Compatible Gaming Speakers 
 
 Here are the 8 best PC gaming speakers that will give you the most bang for your PC gaming buck. If you're on the hunt for TV speakers, take a look at the next section. 
