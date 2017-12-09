@@ -9,9 +9,6 @@ Whether you're a casual gamer or a PC enthusiast, you deserve the ultimate exper
 
 While peripherals such as headsets, mice and mousepads, keyboards, and chairs are considered, the proper gaming desk is often overlooked.
 
-
-<img src="/img/cpu/i5.png" />
-
 ![Ultimate Gaming Desk](/img/desks/header.jpg)
 
 Having a sweet gaming desk completes your setup and provides the necessary room and comfort for your PC and peripherals. 
