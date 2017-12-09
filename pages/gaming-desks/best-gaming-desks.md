@@ -5,9 +5,17 @@ layout: page
 seotitle: "7 Best Gaming Desks of 2017 (Comparison)"
 ---
 
+<a class="big-button" href="amazon.com">View on Amazon</a>
+
+[View on Amazon](amazon.com){: .big-button #}
+
+
 Whether you're a casual gamer or a PC enthusiast, you deserve the ultimate experience behind your mouse and keyboard. 
 
-While peripherals such as headsets, mice and mousepads, keyboards, and chairs are considered, the proper gaming desk is often overlooked. 
+While peripherals such as headsets, mice and mousepads, keyboards, and chairs are considered, the proper gaming desk is often overlooked.
+
+
+<img src="/img/cpu/i5.png" />
 
 ![Ultimate Gaming Desk](/img/desks/header.jpg)
 
@@ -327,6 +335,10 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 	</tr>
 </table>
 
+![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
+
+**[Contact me](/contact/) about using this infographic on your website!**
+
 ## Conclusion
 
 * TOC
@@ -337,3 +349,4 @@ At the end of the day, whether you're a casual gamer or a PC master race enthusi
 Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal.
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
+

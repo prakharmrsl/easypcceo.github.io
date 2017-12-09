@@ -96,6 +96,10 @@ This really is in the eyes of the beholder. Figure out what you like and go from
 
 The quality of the material you choose has a direct impact on the lifespan of the chair. Moreover, if you choose an uncomfortable material, you'll hate your chair. 
 
+![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
+
+**[Contact me](/contact/) about using this infographic on your website!**
+
 ## 5 Best Gaming Chairs of 2017 
 
 With the previous tips in mind, you are now equipped to choose the right chair for you. This list is not ordered from best to worse, but rather from lowest price to highest price. 
