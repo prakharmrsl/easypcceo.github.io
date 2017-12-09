@@ -341,4 +341,3 @@ At the end of the day, whether you're a casual gamer or a PC master race enthusi
 Not only improving the look of your setup, but the feel and ergonomics as well, a proper gaming desk is an essential component to every gamer's arsenal.
 
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
-
