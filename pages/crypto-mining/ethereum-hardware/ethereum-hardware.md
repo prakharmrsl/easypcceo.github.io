@@ -57,7 +57,9 @@ If you're mining Ethereum only because you want to acquire cryptocurrency, it ma
 
 Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Ethereum mining GPUs. 
 
-**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.
+
+**Buy $100+ of Bitcoin and get $10 of Bitcoin free. Just click the button below!**
 
 [Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
 

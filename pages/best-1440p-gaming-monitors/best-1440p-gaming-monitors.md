@@ -54,7 +54,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ncrqYj"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
-		<td><a href="#dell-ultrasharp-u2515hx---330">Dell UltraSharp U2515Hx</a>/</td>
+		<td><a href="#dell-ultrasharp-u2515hx---330">Dell UltraSharp U2515Hx</a></td>
 		<td>25" ; IPS ; 60 Hz ; 6 ms</td>
 		<td>4.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>

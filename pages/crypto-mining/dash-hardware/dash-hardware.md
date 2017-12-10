@@ -63,7 +63,9 @@ If you just want cryptocurrency, it is probably a better idea to buy it. Mining 
 
 However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Dash mining ASICs.
 
-**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
+For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.
+
+**Buy $100+ of Bitcoin and get $10 of Bitcoin free. Just click the button below!**
 
 [Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
 
