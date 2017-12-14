@@ -2,7 +2,7 @@
 title: "The Best 1440p Gaming Monitors of 2017"
 permalink: "/best-1440p-gaming-monitors/"
 layout: page
-seotitle: "5 Best 1440p Gaming Monitors of 2017 (Comparison)"
+seotitle: "9 Best 1440p Gaming Monitors of 2017 (Comparison)"
 ---
 
 ![ROG SWIFT](/img/1440p-monitors/header.png)
@@ -31,6 +31,13 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		<td><a class="big-button" href="http://amzn.to/2zGjIYX">Check Price</a></td>
 	</tr>
 	<tr>
+		<td><a href="http://amzn.to/2kkoLY6"><img class="table-image" src="/img/1440p-monitors/benq.png" /></a></td>
+		<td><a href="http://amzn.to/2kkoLY6">BenQ GW Series GW2765HT</a></td>
+		<td>27"; IPS; 60Hz; 4ms</td>
+		<td>4/5</td>
+		<td><a class="big-button" href="http://amzn.to/2iOcieR">Check Price</a></td>
+	</tr>
+	<tr>
 		<td><a href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/benq-zowie-xl2730-review/">BenQ ZOWIE XL2730</a></td>
 		<td>27"; TN; 144Hz; 1ms; FreeSync</td>
@@ -48,9 +55,16 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	<tr>
 		<td><a href="http://amzn.to/2ifHR4B"><img class="table-image" src="/img/1440p-monitors/asus-mx27aq.png" /></a></td>
 		<td><a href="#asus-designo-mx27aq---420">ASUS Designo MX27AQ</a></td>
-		<td>27" ; IPS ; 60 Hz ; 5 ms</td>
-		<td>4.5/5</td>
+		<td>27"; IPS; 144Hz; 1 ms</td>
+		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ifHR4B">Check Price</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2ATaFqs"><img class="table-image" src="/img/1440p-monitors/xg270.png" /></a></td>
+		<td><a href="http://amzn.to/2ATaFqs">Acer XG270HU</a></td>
+		<td>27"; TN; 144Hz ; 6 ms</td>
+		<td>4.5/5</td>
+		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ncrqYj"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
@@ -59,7 +73,27 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		<td>4.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
 	</tr>
-
+	<tr>
+		<td><a href="http://amzn.to/2AGXWIq"><img class="table-image" src="/img/1440p-monitors/samsung-s32.png" /></a></td>
+		<td><a href="http://amzn.to/2AGXWIq">Samsung S32D850T</a></td>
+		<td>32"; VA; 60Hz; 5 ms</td>
+		<td>3/5</td>
+		<td><a class="big-button" href="http://amzn.to/2AGXWIq">Check Price</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2ks9y7n"><img class="table-image" src="/img/1440p-monitors/asus-mg.png" /></a></td>
+		<td><a href="http://amzn.to/2ks9y7n">ASUS MG279Q</a></td>
+		<td>27"; IPS; 144Hz; 4 ms</td>
+		<td>4/5</td>
+		<td><a class="big-button" href="http://amzn.to/2ks9y7n">Check Price</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2BnjlWx"><img class="table-image" src="/img/1440p-monitors/swift.png" /></a></td>
+		<td><a href="http://amzn.to/2BnjlWx">ASUS ROG SWIFT PG279Q</a></td>
+		<td>27"; IPS; 165Hz; 4 ms</td>
+		<td>4/5</td>
+		<td><a class="big-button" href="http://amzn.to/2BnjlWx">Check Price</a></td>
+	</tr>
 </table>
 
 ## The Ultimate 1440p Monitor Buyer's Guide 2017
@@ -286,6 +320,48 @@ The monitor has a flawless 25" display, delivering excellent performance for the
 * Response time: 6 ms 
 
 [View on Amazon](http://amzn.to/2j1WHZr){: .big-button}
+
+## [BenQ GW Series GW2765HT](http://amzn.to/2B5x5Fh)
+![BenQ GW Series GW2765HT](/img/1440p-monitors/benq.png){: .img-middle}
+
+
+**6.** The BenQ GW Series GW2765HT features over 1 billion differentt colors. It has an HDMI port, DisplayPort, DVI port and a D-Sub port. 
+
+BenQ has ventured past TN panels, now utilizing the beauty of IPS displays. The color accuracy is impeccable. The black level performance is pretty good too. Lastly, another benefit of the IPS panel is the wide (and awesome) viewing angle.
+
+In latence terms, it's an amazing gaming monitor, especially if you're into games known for their superb graphics. 
+
+[View on Amazon](http://amzn.to/2B5x5Fh){: .big-button}
+
+## [Samsung S32D850T](http://amzn.to/2AGXWIq)
+![Samsung S32](/img/1440p-monitors/samsung-s32.png){: .img-middle}
+
+**7.** This monitor is pretty decent considering its price. It has nearly 100% sRGB coverage and superb contrast ratio/color temperature. The color accuracy is impressive as well. Lastly, it features a slightly larger panel. This is great for players looking to be immersed in the game.
+
+Unfortunately, it doesn't have the best brightness uniformity, and a slower response time of 5 ms. For the competitive gamers out there, this could be an issue. 
+
+All in all, for the price it's not bad. While there are better options out there, you won't be disappointed with the display. If you're on a lower budget, this could be the monitor for you. 
+
+[View on Amazon](http://amzn.to/2AGXWIq){: .big-button}
+
+## [ASUS MG279Q](http://amzn.to/2ks9y7n)
+
+**8.** While this monitor is a bit more expensive than the competition, it sports consistently good image quality. It also has genre-specific game modes and ergonomic options. It even has FreeSync technology and a refresh rate of 144Hz.
+
+Though it is a bit pricey, it's still a superb choice. If you have the extra money to spend, it's definitely not a bad display. Overall a great 1440p gaming monitor. 
+
+[View on Amazon](http://amzn.to/2ks9y7n){: .big-button}
+
+## [ASUS ROG SWIFT PG279Q](http://amzn.to/2BnjlWx)
+![ASUS ROG SWIFT PG279Q](/img/1440p-monitors/swift.png)
+
+**9.** Boasting excellent image quality, an IPS display, solid construction and an overall great gaming experience, the ASUS ROG SWIFT PG279Q is a popular pick. 
+
+Aside from the price and minor control issues, we didn't really come across anything we didn't like while using this display. The color accuracy and refresh rate are both superb. 
+
+All things considered, this is yet another great product from ASUS.
+
+[View on Amazon](http://amzn.to/2BnjlWx){: .big-button}
 
 ![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
 
