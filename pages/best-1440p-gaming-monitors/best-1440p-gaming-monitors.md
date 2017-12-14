@@ -345,6 +345,7 @@ All in all, for the price it's not bad. While there are better options out there
 [View on Amazon](http://amzn.to/2AGXWIq){: .big-button}
 
 ## [ASUS MG279Q](http://amzn.to/2ks9y7n)
+![Monitor](/img/1440p-monitors/asus-mg.png){: .img-middle}
 
 **8.** While this monitor is a bit more expensive than the competition, it sports consistently good image quality. It also has genre-specific game modes and ergonomic options. It even has FreeSync technology and a refresh rate of 144Hz.
 
