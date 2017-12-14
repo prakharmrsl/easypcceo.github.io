@@ -366,7 +366,7 @@ All things considered, this is yet another great product from ASUS.
 ## [Acer XG270HU](http://amzn.to/2ATaFqs)
 ![Acer XG270HU](/img/1440p-monitors/xg270.png){: .img-middle}
 
-This monitor competetes with higher-end displays at a lower price. It has a stylish design and features adaptive sync technology. 
+**10.** This monitor competetes with higher-end displays at a lower price. It has a stylish design and features adaptive sync technology. 
 
 Unfortunately, there isn't any height adjustability, and it has some problems with the viewing angle. 
 
