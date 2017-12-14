@@ -2,7 +2,7 @@
 title: "The Best 1440p Gaming Monitors of 2017"
 permalink: "/best-1440p-gaming-monitors/"
 layout: page
-seotitle: "9 Best 1440p Gaming Monitors of 2017 (Comparison)"
+seotitle: "10 Best 1440p Gaming Monitors of 2017 (Comparison)"
 ---
 
 ![ROG SWIFT](/img/1440p-monitors/header.png)
@@ -362,6 +362,17 @@ Aside from the price and minor control issues, we didn't really come across anyt
 All things considered, this is yet another great product from ASUS.
 
 [View on Amazon](http://amzn.to/2BnjlWx){: .big-button}
+
+## [Acer XG270HU](http://amzn.to/2ATaFqs)
+![Acer XG270HU](/img/1440p-monitors/xg270.png){: .img-middle}
+
+This monitor competetes with higher-end displays at a lower price. It has a stylish design and features adaptive sync technology. 
+
+Unfortunately, there isn't any height adjustability, and it has some problems with the viewing angle. 
+
+Despite these cons, it's an awesome display for gamers looking to play 1440p games on a budget. If I were you, I'd definitely check it out. 
+
+[View on Amazon](http://amzn.to/2ATaFqs){: .big-button}
 
 ![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
 
