@@ -94,6 +94,27 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2BnjlWx">Check Price</a></td>
 	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2kELUUW"><img class="table-image" src="/img/1440p-monitors/xg.png" /></a></td>
+		<td><a href="http://amzn.to/2kELUUW">ViewSonic XG2703-GS</a></td>
+		<td>27"; IPS; 165Hz; 4 ms</td>
+		<td>3/5</td>
+		<td><a class="big-button" href="http://amzn.to/2kELUUW">Check Price</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/xg.png" /></a></td>
+		<td><a href="http://amzn.to/2yMiwRW">Samsung CF791 Series</a></td>
+		<td>34"; VA; 100Hz; 4 ms</td>
+		<td>4.5/5</td>
+		<td><a class="big-button" href="http://amzn.to/2yMiwRW">Check Price</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2zjqaqy"><img class="table-image" src="/img/1440p-monitors/designo.png" /></a></td>
+		<td><a href="http://amzn.to/2zjqaqy">ASUS Designo MX34VQ</a></td>
+		<td>34"; VA; 60Hz; 4 ms</td>
+		<td>4/5</td>
+		<td><a class="big-button" href="http://amzn.to/2zjqaqy">Check Price</a></td>
+	</tr>
 </table>
 
 ## The Ultimate 1440p Monitor Buyer's Guide 2017
@@ -232,14 +253,6 @@ The expansive LCD screen is equipped with a 2560x1440 resolution display along t
 
 The color accuracy is very impressive, with no hint of light bleeding in the backlight. Furtheremore, there is not any shuttering or ghosting when playing a fast paced game. With the matte screen and IPS display, this monitor is a steal for the price.
 
-**Specs:** 
-
-* Display size: 27" 
-* Display resolution: 2560x1440 
-* Aspect ratio: 16:9
-* Refresh rate: 60 Hz
-* Response time: 1 ms
-
 [Read our Review](/best-1440p-gaming-monitors/acer-k272hul-review/){: .big-button}
 
 ## [BenQ ZOWIE XL2730](http://amzn.to/2AIpdqs) - $499
@@ -256,14 +269,6 @@ BenQ placed the bezel buttons on the front of the montior. They glow white white
 
 This monitor even has a headphone hanger that pops out and retracts. At more than 7cm long, this is a lovely and convenient addition to the XL2730. This monitor fills in the gap between price and performance, providing gamers with a competition-grade display and a quick 1ms response time. 
 
-**Specs:**
-
-* Display size: 27"
-* Display resolution: 2560x1440
-* Aspect ratio: 16:9
-* Refresh rate: 144 Hz
-* Response time: 1 ms
-
 [Read our Review](/best-1440p-gaming-monitors/benq-zowie-xl2730-review/){: .big-button}
 
 ## [ASUS ROG SWIFT PG348Q](http://amzn.to/2yYkrYs) - $1200
@@ -277,14 +282,6 @@ There are no buttons on the front of the PG348Q. Instead, the Power switch, a fi
 
 This monitor is aesthetically pleasing, with its gorgeous looking stand and cool under-glow. It's the monitor of choice for a dream gaming setup. If potential buyers can get past the price tag, it's the best all out gaming monitor. 
 
-**Specs:**
-
-* Display size: 34"
-* Display resolution: 3440x1440
-* Aspect ratio: 21:9
-* Refresh rate: 100 Hz
-* Response time: 5 ms 
-
 [Read our review](/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/){: .big-button}
 
 ## [ASUS Designo MX27AQ](http://amzn.to/2Af8KMG) - $420
@@ -292,14 +289,6 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 
 
 **4.** The ASUS Designo MX27AQ has it all. The IPS panel is absolutely stunning. It has a 27 inch display and delivers 100% sRGB colour space. It's even equipped with an awesome built-in speaker system and a 178 degree viewing angle. 
-
-**Specs:**
-
-* Display size: 27"
-* Display resolution: 2560 x 1440
-* Aspect ratio: 16:9
-* Refresh rate: 75 Hz
-* Response time: 5 ms 
 
 [View on Amazon](http://amzn.to/2Af8KMG){: .big-button}
 
@@ -310,14 +299,6 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 **5.** This monitor is a favorite among gamers. The screen can be adjusted to just about any position and angle. You can control the OSD (on-screen display) menu with four bottons on the bottom right of the screen.  
 
 The monitor has a flawless 25" display, delivering excellent performance for the price. It has awesome color reproduction and high resolution. 
-
-**Specs:**
-
-* Display size: 25"
-* Display resolution: 2560 x 1440
-* Aspect ratio: 16:9
-* Refresh rate: 60 Hz
-* Response time: 6 ms 
 
 [View on Amazon](http://amzn.to/2j1WHZr){: .big-button}
 
@@ -374,6 +355,35 @@ Unfortunately, there isn't any height adjustability, and it has some problems wi
 Despite these cons, it's an awesome display for gamers looking to play 1440p games on a budget. If I were you, I'd definitely check it out. 
 
 [View on Amazon](http://amzn.to/2ATaFqs){: .big-button}
+
+## [ViewSonic XG2703-GS](http://amzn.to/2kELUUW)
+![ViewSonic XG2703-GS](/img/1440p-monitors/xg.png){: .img-middle}
+
+**11.** This monitor's display is quite sharp, with a narrow 11mm bezel and a wide/deep base. It has a cable management hole to make your life a bit easier. 
+
+The IPS panel provides superb image quality, however it lags behind TN panels in response time. Overall, it's a good monitor for the money. It'd make a great addition to your gaming setup. 
+
+[View on Amazon](http://amzn.to/2kELUUW){: .big-button}
+
+## [Samsung CF791](http://amzn.to/2yMiwRW) - $750
+![Samsung CF791](/img/1440p-monitors/xg.png){: .img-middle}
+
+**12.** This 34" monitor has a stellar contrast ratio, and overall excellent picture quality. It is an ultrawide monitor with a beautiful (and giant) display. The color accuracy is phenomenal, as is the design of the monitor. The only negative of the display is its speakers. 
+
+They're not horrible, but they're not great either. Considering the price of the monitor, we'd expect a higher quality sound system. Of course, this problem is easily resolved with a great set of [gaming speakers](/best-gaming-speakers/). 
+
+[View on Amazon](http://amzn.to/2yMiwRW){: .big-button}
+
+## [ASUS Designo MX34VQ](http://amzn.to/2zjqaqy) - $750
+![ASUS Designo MX34VQ](/img/1440p-monitors/designo.png){: .img-middle}
+
+**13.** This ultrawide, AMD FreeSync enabled display has sharp picture quality, not to mention the stellar gaming performance. 
+
+Unlike the previous monitor, this display has powerful audio and a wireless charging station. Unfortunately there aren't any USB ports and the color accuracy isn't superb. 
+
+All in all, we think it's a nice monitor with great added features included a wireless charging base, gamer friendly settings and a high-quality sound system. 
+
+[View on Amazon](http://amzn.to/2zjqaqy){: .big-button}
 
 ![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
 
