@@ -2,7 +2,7 @@
 title: "The Best 1440p Gaming Monitors of 2017"
 permalink: "/best-1440p-gaming-monitors/"
 layout: page
-seotitle: "10 Best 1440p Gaming Monitors of 2017 (Comparison)"
+seotitle: "13 Best 1440p Gaming Monitors of 2017 (Comparison)"
 ---
 
 ![ROG SWIFT](/img/1440p-monitors/header.png)
@@ -102,7 +102,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		<td><a class="big-button" href="http://amzn.to/2kELUUW">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/xg.png" /></a></td>
+		<td><a href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/samsung.png" /></a></td>
 		<td><a href="http://amzn.to/2yMiwRW">Samsung CF791 Series</a></td>
 		<td>34"; VA; 100Hz; 4 ms</td>
 		<td>4.5/5</td>
@@ -366,7 +366,7 @@ The IPS panel provides superb image quality, however it lags behind TN panels in
 [View on Amazon](http://amzn.to/2kELUUW){: .big-button}
 
 ## [Samsung CF791](http://amzn.to/2yMiwRW) - $750
-![Samsung CF791](/img/1440p-monitors/xg.png){: .img-middle}
+![Samsung CF791](/img/1440p-monitors/samsung.png){: .img-middle}
 
 **12.** This 34" monitor has a stellar contrast ratio, and overall excellent picture quality. It is an ultrawide monitor with a beautiful (and giant) display. The color accuracy is phenomenal, as is the design of the monitor. The only negative of the display is its speakers. 
 
