@@ -210,9 +210,9 @@ You'll still need a good system to support 1440p gaming in 2017, but it's a heck
 
 1440p monitors have a higher pixel density than older, lower resolution monitors. Just about all of the graphical processing and 3D rendering takes place in the GPU. 
 
-Right now, the magic number for high resolution gaming seems to be 6GB. Most cards at this time can only push through 30 FPS at 4K resolutions. This is due to limitations of the GPU core. 
+Right now, the magic number for high-resolution gaming seems to be 6GB. Most cards at this time can only push through 30 FPS at 4K resolutions. This is due to limitations of the GPU core. 
 
-1440p is a bit more realistic, as GPU cores have the power necessary to process the high resolution. 
+1440p is a bit more realistic, as GPU cores have the power necessary to process the high-resolution. 
 
 ## 1440p Capable GPUs to Consider
 
@@ -257,7 +257,7 @@ Right now, the magic number for high resolution gaming seems to be 6GB. Most car
 
 While you can play games on any old TV with an HDMI input, why settle for less? 
 
-True gaming monitors offer stunning resolutions, vibrant colors, and lightning fast response times. As a member of the PC gaming master race, you deserve the best possible gaming experience. Don't limit yourself with an old television. 
+True gaming monitors offer stunning resolutions, vibrant colors, and lightning-fast response times. As a member of the PC gaming master race, you deserve the best possible gaming experience. Don't limit yourself with an old television. 
 
 Furthermore, if you spend $500, $800, $1000 or more on a gaming PC, you'll want the full experience. If your PC is capable of gaming in 1440p, why game in 720p or 1080p? If you're only going to use a low resolution TV, there's no point in building a gaming PC. You might as well stick to console. 
 
@@ -270,7 +270,7 @@ Why?
 
 While 1080p monitors have 2073600 pixels, 1440p monitors have 3686400 pixels. That is a 78% increase. Furthermore, 1440p monitors have a significantly higher [pixel density](http://www.tested.com/tech/371-why-pixel-density-matters-more-than-just-screen-size-or-resolution/). If you want the full experience of your gaming rig, 1440p is the way to go. 
 
-The fine details of the display will be crisper and easier to see. In fast paced competitve games, being able to pick out the little details can give you the edge you need to win. Moreover, game developers spend lots of time making their games look beautiful. The numbers say 1440p is 78% more beautiful than 1080p. It's time to make the switch.
+The fine details of the display will be crisper and easier to see. In fast-paced competitive games, being able to pick out the little details can give you the edge you need to win. Moreover, game developers spend lots of time making their games look beautiful. The numbers say 1440p is 78% more beautiful than 1080p. It's time to make the switch.
 
 ## 8 Things to Consider BEFORE You Buy a 1440p Gaming Monitor
 
@@ -278,7 +278,7 @@ The fine details of the display will be crisper and easier to see. In fast paced
 
 ## 3 More Things to Keep in Mind: 
 
-* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive, as you have to buy a 1440p monitor. This is only the beginning. The real challenge is building a gaming PC that can handle this high resolution. Your GPU will have to process 78% more pixels, which isn't easy. Luckily for you, we have gaming PCs capable of flawless 1440p gaming for as low as $800. If this is in your budget, then go for it! 
+* **Do you have the hardware?:** While 1440p gaming is awesome, not everyone can experience the luxury. First of all, it can be pretty darn expensive, as you have to buy a 1440p monitor. This is only the beginning. The real challenge is building a gaming PC that can handle this high-resolution. Your GPU will have to process 78% more pixels, which isn't easy. Luckily for you, we have gaming PCs capable of flawless 1440p gaming for as low as $800. If this is in your budget, then go for it! 
 
 * **Is it worth it for you?:** 1440p gaming is really only for PC gaming enthusiasts and competitive e-sports players. While 1440p gaming is nice, it may not be worth the money for you. If you're okay with 1080p, it's much cheaper and definitely not a bad alternative. 
 
@@ -310,11 +310,11 @@ In general, I'd say anything below 6 ms is acceptable. Anything higher is a bit 
 ![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-middle}
 
 
-**1.** This is our pick for the budget-conscious gamers out there. This monitor is priced well for the high resolution panel and solid performance. This monitor is one of Acer’s K series monitors, delivering top-notch digital content. 
+**1.** This is our pick for the budget-conscious gamers out there. This monitor is priced well for the high-resolution panel and solid performance. This monitor is one of Acer’s K series monitors, delivering top-notch digital content. 
 
 The expansive LCD screen is equipped with a 2560x1440 resolution display along the [IPS panel](https://www.slrlounge.com/what-is-an-ips-monitor-understanding-ips-displays/). With this monitor, you're guaranteed stunning images at all times. With a response time of 1 ms, you won't have to worry about lagging in game. If you are fond of playing fast-paced FPS games, you will benefit from this responsive monitor. 
 
-The color accuracy is very impressive, with no hint of light bleeding in the backlight. Furtheremore, there is not any shuttering or ghosting when playing a fast paced game. With the matte screen and IPS display, this monitor is a steal for the price.
+The color accuracy is very impressive, with no hint of light bleeding in the backlight. Furthermore, there is not any shuttering or ghosting when playing a fast paced game. With the matte screen and IPS display, this monitor is a steal for the price.
 
 [Read our Review](/best-1440p-gaming-monitors/acer-k272hul-review/){: .big-button}
 
@@ -328,7 +328,7 @@ It has a [TN](http://www.tnpanel.com/tn-vs-ips-va/) panel capable of a 144hz ref
 
 Although it may seem a bit too bland, the company is focusing on a less distracting design. The point of a nice monitor is to keep your eyes glued to the screen, not the accessories and unnecessary bling around it.
 
-BenQ placed the bezel buttons on the front of the montior. They glow white white when the display is in use, and a nice light amber while on standby. If you are not a fan of the lighting, it can be disabled or adjusted in the [OSD](http://whatis.techtarget.com/definition/on-screen-display-OSD). On the left side of the cabinet, BenQ has provided two USB 3.0 slots for additional data accessories and audio jacks to suit your listening devices. 
+BenQ placed the bezel buttons on the front of the monitor. They glow white when the display is in use, and a nice light amber while on standby. If you are not a fan of the lighting, it can be disabled or adjusted in the [OSD](http://whatis.techtarget.com/definition/on-screen-display-OSD). On the left side of the cabinet, BenQ has provided two USB 3.0 slots for additional data accessories and audio jacks to suit your listening devices. 
 
 This monitor even has a headphone hanger that pops out and retracts. At more than 7cm long, this is a lovely and convenient addition to the XL2730. This monitor fills in the gap between price and performance, providing gamers with a competition-grade display and a quick 1ms response time. 
 
@@ -341,9 +341,9 @@ This monitor even has a headphone hanger that pops out and retracts. At more tha
 
 Gaming performance was top notch in many tests but seemed to run best when the refresh rate was at 100HZ. This monitor has rich, accurate colors and a sharp image display. It also offers a generous selection of gamer-friendly features, such as crosshair-aiming targets, on-the-fly refresh rate toggling, and several gaming picture presets.
 
-There are no buttons on the front of the PG348Q. Instead, the Power switch, a five-way toggle button, and two hot keys are located on the right-rear of the cabinet. One button is a GamePlus hotkey that launches a menu, allowing you to select one of four crosshair-aiming targets, set game timers, and enable a Frames-Per-Second (FPS) counter. The other key launches the Turbo Mode feature, where you can choose one of seven refresh rates, ranging from 60Hz to 100Hz.
+There are no buttons on the front of the PG348Q. Instead, the Power switch, a five-way toggle button, and two hotkeys are located on the right-rear of the cabinet. One button is a GamePlus hotkey that launches a menu, allowing you to select one of four crosshair-aiming targets, set game timers, and enable a Frames-Per-Second (FPS) counter. The other key launches the Turbo Mode feature, where you can choose one of seven refresh rates, ranging from 60Hz to 100Hz.
 
-This monitor is aesthetically pleasing, with its gorgeous looking stand and cool under-glow. It's the monitor of choice for a dream gaming setup. If potential buyers can get past the price tag, it's the best all out gaming monitor. 
+This monitor is aesthetically pleasing, with its gorgeous looking stand and cool under-glow. It's the monitor of choice for a dream gaming setup. If potential buyers can get past the price tag, it's the best all-out gaming monitor. 
 
 [Read our review](/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/){: .big-button}
 
@@ -351,7 +351,7 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 ![ASUS Designo MX27AQ](/img/1440p-monitors/asus-mx27aq.png){: .img-middle}
 
 
-**4.** The ASUS Designo MX27AQ has it all. The IPS panel is absolutely stunning. It has a 27 inch display and delivers 100% sRGB colour space. It's even equipped with an awesome built-in speaker system and a 178 degree viewing angle. 
+**4.** The ASUS Designo MX27AQ has it all. The IPS panel is absolutely stunning. It has a 27 inch display and delivers 100% sRGB colour space. It's even equipped with an awesome built-in speaker system and a 178-degree viewing angle. 
 
 [View on Amazon](http://amzn.to/2Af8KMG){: .big-button}
 
@@ -359,9 +359,9 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 ![Dell UltraSharp](/img/1440p-monitors/1440p.png){: .img-middle}
 
 
-**5.** This monitor is a favorite among gamers. The screen can be adjusted to just about any position and angle. You can control the OSD (on-screen display) menu with four bottons on the bottom right of the screen.  
+**5.** This monitor is a favorite among gamers. The screen can be adjusted to just about any position and angle. You can control the OSD (on-screen display) menu with four buttons on the buttom right of the screen.  
 
-The monitor has a flawless 25" display, delivering excellent performance for the price. It has awesome color reproduction and high resolution. 
+The monitor has a flawless 25" display, delivering excellent performance for the price. It has awesome color reproduction and high-resolution. 
 
 [View on Amazon](http://amzn.to/2j1WHZr){: .big-button}
 
@@ -369,7 +369,7 @@ The monitor has a flawless 25" display, delivering excellent performance for the
 ![BenQ GW Series GW2765HT](/img/1440p-monitors/benq.png){: .img-middle}
 
 
-**6.** The BenQ GW Series GW2765HT features over 1 billion differentt colors. It has an HDMI port, DisplayPort, DVI port and a D-Sub port. 
+**6.** The BenQ GW Series GW2765HT features over 1 billion different colors. It has an HDMI port, DisplayPort, DVI port and a D-Sub port. 
 
 BenQ has ventured past TN panels, now utilizing the beauty of IPS displays. The color accuracy is impeccable. The black level performance is pretty good too. Lastly, another benefit of the IPS panel is the wide (and awesome) viewing angle.
 
@@ -444,14 +444,14 @@ They're not horrible, but they're not great either. Considering the price of the
 
 Unlike the previous monitor, this display has powerful audio and a wireless charging station. Unfortunately there aren't any USB ports and the color accuracy isn't superb. 
 
-All in all, we think it's a nice monitor with great added features included a wireless charging base, gamer friendly settings and a high-quality sound system. 
+All in all, we think it's a nice monitor with great added features including a wireless charging base, gamer-friendly settings and a high-quality sound system. 
 
 [View on Amazon](http://amzn.to/2zjqaqy){: .big-button}
 
 ## [AOC Agon AG352UCG](http://amzn.to/2yQ1oed) - $900
 ![AOC Agon AG352UCG](/img/1440p-monitors/aoc.png){: .img-middle}
 
-**14.** With a high price tag, poor selection of ports, some may be discouraged from purchasing this monitor. However, it features G-Sync compatibillity, a beautiful anti-glare display, and fantastic color accuracy.
+**14.** With a high price tag, poor selection of ports, some may be discouraged from purchasing this monitor. However, it features G-Sync compatibility, a beautiful anti-glare display, and fantastic color accuracy.
 
 All in all, there might be better monitors out there for the money, but it's not a bad choice, either. 
 
@@ -462,7 +462,7 @@ All in all, there might be better monitors out there for the money, but it's not
 
 **15.** This gamer-oriented 1440p monitor has a cool design. It features a USB hub and settings designed to suit your gaming needs. It supports G-Sync to prevent screen tearing and performed very well across the boards.
 
-Unfortunately, the price tag is pretty high; but it's worth it. The bottom line is this monitor is perfect for any high end gaming setup. 
+Unfortunately, the price tag is pretty high; but it's worth it. The buttom line is this monitor is perfect for any high end gaming setup. 
 
 [View on Amazon](http://amzn.to/2kEGeKJ){: .big-button}
 
@@ -512,7 +512,7 @@ This monitor is super affordable!
 ## [Eizo Foris FS2735](http://amzn.to/2kc7roz) - $700
 ![Eizo Foris](/img/1440p-monitors/eizo.png){: .img-middle}
 
-**21.** This bluetooth enabled 1440p gaming monitor is great for enthusiasts who can afford a more expensive display. It's excellent in both design and gaming performance. However, there are more popular models like the [Asus MG279Q](http://amzn.to/2B732Oy) that go for less. Despite this, it's still a good choice. 
+**21.** This Bluetooth enabled 1440p gaming monitor is great for enthusiasts who can afford a more expensive display. It's excellent in both design and gaming performance. However, there are more popular models like the [Asus MG279Q](http://amzn.to/2B732Oy) that go for less. Despite this, it's still a good choice. 
 
 [View on Amazon](http://amzn.to/2kc7roz){: .big-button}
 
