@@ -2,7 +2,7 @@
 title: A Closer Look at the Best Gaming Desks of 2017
 permalink: "/best-gaming-desks/"
 layout: page
-seotitle: "7 Best Gaming Desks of 2017 (Comparison)"
+seotitle: "9 Best Gaming Desks of 2017 (Comparison)"
 ---
 
 Whether you're a casual gamer or a PC enthusiast, you deserve the ultimate experience behind your mouse and keyboard. 
