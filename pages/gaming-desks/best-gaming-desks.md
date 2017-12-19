@@ -69,10 +69,20 @@ This guide will illustrate the **7 best gaming desks of 2017.** Don't fear if yo
 		<td><a href="http://amzn.to/2yWXvZl">Arozzi Arena Gaming Desk</a></td>
 		<td>Adjustable Height x 63"W x 32"L ; 86 lbs</td>
 		<td>$400</td>
-		
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2BusXfJ"><img class="table-image" src="/img/desk/oragami.png" /></a></td>
+		<td><a href="http://amzn.to/2BusXfJ">Origami Foldable Computer Desk</a></td>
+		<td>29" H x 51"W x 51"L ; 57 lbs</td>
+		<td>$91</td>
+	</tr>
+	<tr>
+		<td><a href="http://amzn.to/2BK0xAW"><img class="table-image" src="/img/desk/zline.png" /></a></td>
+		<td><a href="http://amzn.to/2BK0xAW">Z-Line Designs Cyrus Workstation</a></td>
+		<td>48"H x 26"W x 36"L ; 72 lbs</td>
+		<td>$110</td>
 	</tr>
 </table>
-
 ## The Importance of a Sweet Gaming Desk 
 
 Having the right desk for you completes your PC gaming setup. Sure you could use any old desk, but it wouldn't asthetically fit your setup. Furthermore, it probably wouldn't be too ergonomic either. 
@@ -324,6 +334,50 @@ This desk is the most expensive on the list, but for good reason. It has plenty 
 		<td>4.5/5</td>
 		<td>$380</td>
 		<td><a class="big-button" href="http://amzn.to/2yWXvZl">View on Amazon</a></td>
+	</tr>
+</table>
+
+## Origami Foldable Computer Desk
+![Origami Foldable Computer Desk](/img/desk/oragami.png){: .img-middle}
+
+**8.** This table opens and folds flat in just seconds for easy storage. Furthermore, no tools are required for setting up this gaming desk. The desk can hold 250 lbs per shelf, rendering it pretty sturdy. 
+
+It has a lower shelf, perfect for your gaming PC and/or your feet to rest atop. All in all, it's a FANTASTIC desk, especially considering it's sub $100. 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Type</th>
+		<th>Review</th>
+		<th>Price</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td>Standard</td>
+		<td>4/5</td>
+		<td>$90</td>
+		<td><a class="big-button" href="http://amzn.to/2BusXfJ">View on Amazon</a></td>
+	</tr>
+</table>
+
+## Z-Line Designs Cyrus Workstation 
+![Z-Line Designs Cyrus Workstation](/img/desk/zline.png){: .img-middle}
+
+**9.** This desk features a contemporary style with a cherry finish. It also has clear tempered glass and chrome cylinder glass supports.
+
+Additionally, it has a nice pull-out keyboard and mouse tray. The desk rests on castors for easy mobility, rendering it an all-around great choice. 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Type</th>
+		<th>Review</th>
+		<th>Price</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td>Standard</td>
+		<td>4/5</td>
+		<td>$110</td>
+		<td><a class="big-button" href="http://amzn.to/2BK0xAW">View on Amazon</a></td>
 	</tr>
 </table>
 
