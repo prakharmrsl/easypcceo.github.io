@@ -289,8 +289,7 @@ They can mount to the wall, fitting any gaming setup/room configuration.
 These speakers most resemble a home theatre system, but don't be fooled by their appearance. While the design is minimalistic, the performance is not. 
 
 ## [Yamaha NS-SP1800BL 5.1-Channel Home Theater Speaker Set](http://amzn.to/2ibGakT)
-
-<a href="http://amzn.to/2ibGakT"><img class="img-middle" src="/img/gaming-speakers/yamaha.jpg" /></a>
+![Yamaha NS-NSP1800BL](/img/gaming-speakers/yamaha-ns.png){: .img-middle}
 
 **6.** is a great speaker setup and for the low cost of just $150, you won't find a better deal. 5.1 channel surround sound with 2 front and back speakers. You even get a center speaker and a large subwoofer. 
 
