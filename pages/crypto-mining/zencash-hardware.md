@@ -85,7 +85,7 @@ Originally, cryptocurrencies were mined with the CPU. However, it was quickly di
 
 **1.** The [GeForce GTX 1080ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233406&customid=&icep_uq=GTX+1080ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is the best ZenCash mining GPU on the market today. If you're looking to generate passive income through mining ZenCash, this is the card for you. With a hashrate of 750 Sol/s and a power consumption of 330 W at the wall. With specifications like these, the mining profitability looks to be pretty high. Take a look: 
 
-![GTX 1080ti Mining Profitability](/img/cryptocurrency/gpu/1080ti-zencash-profit.png){: .img-middle}
+![GTX 1080ti Mining Profitability](/img/cryptocurrency/1080ti-zencash-profit.png)
 
 As you can see, you'll generate over $2000 annually per card. That being said, if you invest in more cards, you'll turn an even higher profit; maybe even consider a <a href="#zencash-mining-rigs">ZenCash mining rig.</a> 
 
@@ -111,7 +111,7 @@ As you can see, you'll generate over $2000 annually per card. That being said, i
 
 **2.** The [GeForce GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233406&customid=&icep_uq=GTX+1080ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is another great choice for ZenCash mining. It's about $150 cheaper than the GTX 1080ti. However, the yearly return is significantly less, sitting at about $1600 annually. 
 
-![GeForce GTX 1080](/img/cryptocurrency/gpu/1080-zencash-profit.png){: .img-middle}
+![GeForce GTX 1080](/img/cryptocurrency/1080-zencash-profit.png)
 
 While $1600 a year isn't bad at all, it's nowhere near $2600 per card. If you bought four 1080ti's you'd be spending roughly $2800 and you'd be generating $10,400 per year. If you bought four 1080's, you'd be spending about $2200 and you'd be making $6,400 per year. 
 
@@ -144,7 +144,7 @@ However, if you're just a hobbyist and you're not worried about your profits, it
 
 With such a low power consumption, it's a great GPU for the price. Take a look at the mining profitability calculator: 
 
-![1070 ZenCash Profit](/img/cryptocurrency/1070-zencash-profit.png){: .img-middle}
+![1070 ZenCash Profit](/img/cryptocurrency/1070-zencash-profit.png)
 
 As you can see, the yearly profit is nearly identical to that of the 1080's, but the card is about $100 cheaper. That being said, it's probably the better choice. 
 
