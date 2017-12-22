@@ -113,9 +113,3 @@ This miner draws about 845 W from the wall. It does not come with a power supply
 This miner is great for hobbyists who also are looking to make some money. 
 
 [Shop Antminer R4 ASIC Miners](https://www.amazon.com/gp/product/B01N3C30ZV/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N3C30ZV&linkId=15ce9ecca43fbc5cf90b8074af2f7d45){: .big-button}
-
-## 62 Insane Facts About Bitcoin 
-
-![Bitcoin Facts](https://bitcoinplay.net/wp-content/uploads/2017/08/bitcoin-fact-2.png)
-
-This infographic is courtesy of [Josh Wardini](https://bitcoinplay.net/58-insane-facts-about-bitcoin/). 

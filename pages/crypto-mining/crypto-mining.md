@@ -13,35 +13,50 @@ This is why you need to START MINING NOW!
 
 ## Top 7 Most Popular Cryptocurrencies:
 
-### 7. ZenCash
-![ZenCash Logo](/img/cryptocurrency/zencash-logo.png){: .img-right .img-small}
+### 1. Bitcoin
 
-[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2017!**
+![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-small .img-right}
 
-[View ZenCash mining graphics cards here](/crypto-mining/zencash-hardware/){: .big-button}
+In today's economy, every transaction we make must go through a bank or credit card company. 
 
-### 6. Zcash 
+They take a cut of the transaction, and we must believe that they won't make a mistake. 
 
-![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
+That's where <a href="https://bitcoin.org/en/">bitcoin</a> comes in. 
 
-<a href="https://z.cash/">Zcash</a> is based on <a href="https://bitcoin.org/en/">Bitcoin</a>, but has one key difference: 
+At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
 
-Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
+Every time a solution is acquired the reward is given as a bitcoin. 
 
-This means that the sender address, recipient address, and the amount sent is hidden from public view. 
+Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
-Many would consider Zcash the future of anonymous transaction. 
+[View Bitcoin mining graphics cards here](/crypto-mining/bitcoin-hardware/){: .big-button}
 
-NOTE: There will only ever be 21 million coins, so start mining NOW! 
+### 2. Ethereum 
 
-[View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
+![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right .img-small}
 
-![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
-### 5. Monero
+[Ethereum](https://ethereum.org/) is a platform specifically designed for people to build decentralized applications. 
 
-[Monero](/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
+Ethereum has become extremely valuable in the past month, rendering it a great choice for beginner miners. 
 
-[View Monero mining CPUs and GPUs here](/crypto-mining/monero-hardware/){: .big-button}
+It allows for peer-to-peer messaging, and a generalized blockchain. 
+
+The blockchain has a built in programming language. This allows people to use the blockchain for any kind of decentralized application. 
+
+It is online, and cryptographically secure. 
+
+[View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
+
+### 3. Litecoin 
+![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
+
+<a href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, only 84 million. 
+
+It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
+
+Lastly, it can be spent on almost anything. 
+
+[View Litecoin mining graphics cards here](/crypto-mining/litecoin-hardware/){: .big-button}
 
 ### 4. Dash 
 
@@ -60,50 +75,35 @@ Fees are virtually non-exisistent, as you control your own money.
 
 [View Dash mining graphics cards here](/crypto-mining/dash-hardware/){: .big-button}
 
-### 3. Litecoin 
-![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
+![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
+### 5. Monero
 
-<a href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, only 84 million. 
+[Monero](/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
 
-It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
+[View Monero mining CPUs and GPUs here](/crypto-mining/monero-hardware/){: .big-button}
 
-Lastly, it can be spent on almost anything. 
+### 6. Zcash 
 
-[View Litecoin mining graphics cards here](/crypto-mining/litecoin-hardware/){: .big-button}
+![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
-### 2. Ethereum 
+<a href="https://z.cash/">Zcash</a> is based on <a href="https://bitcoin.org/en/">Bitcoin</a>, but has one key difference: 
 
-![ETHEREUM](/img/cryptocurrency/ethereum-logo.png "ETHEREUM"){: .img-right .img-small}
+Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
 
-[Ethereum](https://ethereum.org/) is a platform specifically designed for people to build decentralized applications. 
+This means that the sender address, recipient address, and the amount sent is hidden from public view. 
 
-Ethereum has become extremely valuable in the past month, rendering it a great choice for beginner miners. 
+Many would consider Zcash the future of anonymous transaction. 
 
-It allows for peer-to-peer messaging, and a generalized blockchain. 
+NOTE: There will only ever be 21 million coins, so start mining NOW! 
 
-The blockchain has a built in programming language. This allows people to use the blockchain for any kind of decentralized application. 
+[View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
 
-It is online, and cryptographically secure. 
+### 7. ZenCash
+![ZenCash Logo](/img/cryptocurrency/zencash-logo.png){: .img-right .img-small}
 
-[View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
+[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2017!**
 
-### 1. Bitcoin
-
-![BITCOIN](/img/cryptocurrency/bitcoin-logo.png "BITCOIN"){: .img-small .img-right}
-
-In today's economy, every transaction we make must go through a bank or credit card company. 
-
-They take a cut of the transaction, and we must believe that they won't make a mistake. 
-
-That's where <a href="https://bitcoin.org/en/">bitcoin</a> comes in. 
-
-At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
-
-Every time a solution is acquired the reward is given as a bitcoin. 
-
-Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
-
-[View Bitcoin mining graphics cards here](/crypto-mining/bitcoin-hardware/){: .big-button}
+[View ZenCash mining graphics cards here](/crypto-mining/zencash-hardware/){: .big-button}
 
 ## Crypto Mining Guide 
 

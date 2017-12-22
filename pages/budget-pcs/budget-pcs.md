@@ -354,7 +354,6 @@ We'll talk about all of that and more very soon. **Scroll down to read more!**
 <h3><a href="#what-games-do-i-want-to-play">4.2: What games do I want to play?</a></h3>
 <h2><a href="#finding-the-parts-for-you">5.0: Finding the Parts for You</a></h2>
 <h2><a href="#custom-built-or-prebuilt">6.0: Custom Built or Prebuilt?</a></h2>
-<h3><a href="#viable-prebuilt-options">6.1: Viable Prebuilt Options</a></h3>
 <h2><a href="#8-things-to-consider-before-you-buy">7.0: 8 Things to Consider Before You Buy</a></h2>
 </div>
 </div>
@@ -380,6 +379,32 @@ But to enjoy all of these things, you have to spend a ton of money, right?
 Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
 
 This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
+
+## Viable Prebuilt Option 
+
+Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
+
+If you know what you're looking for, you can find some great prebuilt alternatives. 
+
+If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
+
+You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $340. 
+
+![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-right .img-small}
+
+The PC features: 
+
+* Intel Core i3-6100 
+* 8GB DDR3 Ram
+* 1TB Hard Drive
+
+This PC comes without a GPU. Don't worry, this problem is easily solved. 
+
+There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for a low cost. 
+
+After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for around $500 or less. This PC can easily game at 1080p. 
+
+[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
 
 ## Advantages of PC Gaming 
 
@@ -623,32 +648,6 @@ You can choose your own case, LED color scheme, shape, size, noise level, coolin
 If you only want to play a few games like Overwatch and CSGO for example, you don't have to buy a $1000 gaming PC. Instead, you can get the components you'd need to run those games, and nothing more. 
 
 On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too.
-
-## Viable Prebuilt Option 
-
-Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
-
-If you know what you're looking for, you can find some great prebuilt alternatives. 
-
-If you're on a lower budget, the [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is another great option. 
-
-You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $340. 
-
-![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-right .img-small}
-
-The PC features: 
-
-* Intel Core i3-6100 
-* 8GB DDR3 Ram
-* 1TB Hard Drive
-
-This PC comes without a GPU. Don't worry, this problem is easily solved. 
-
-There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for a low cost. 
-
-After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for around $500 or less. This PC can easily game at 1080p. 
-
-[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
 
 ## 8 Things to Consider Before You Buy
 
