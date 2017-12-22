@@ -2,7 +2,7 @@
 title: Best Budget Gaming PC Builds in 2017 
 permalink: "/budget-pcs/"
 layout: page
-seotitle: 5 Best Budget & Cheap Gaming PCs 2017 (Dirt Cheap)
+seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2017)
 ---
 
 It's 2017, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
