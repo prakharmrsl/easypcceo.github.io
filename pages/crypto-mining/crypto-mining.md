@@ -16,7 +16,7 @@ This is why you need to START MINING NOW!
 ### 7. ZenCash
 ![ZenCash Logo](/img/cryptocurrency/zencash-logo.png){: .img-right .img-small}
 
-[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipients address. In addition, **it's a great currency to mine in 2017!**
+[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2017!**
 
 [View ZenCash mining graphics cards here](/crypto-mining/zencash-hardware/){: .big-button}
 
@@ -129,7 +129,7 @@ The graphics card is used for solving the complex algorithms that form cryptocur
 
 ## How Mining Works 
 
-Cryptocurrencies consist of blocks of transaction. This is known as the blockchain.Each time a transaction takes place, the public blockchain is updated. 
+Cryptocurrencies consist of blocks of transaction. This is known as the blockchain. Each time a transaction takes place, the public blockchain is updated. 
 
 Miners put the transaction through a process in which they take the information and apply a formula to it. The end result is a sequence of letters and numbers that is far shorter than the original transaction. This is called a hash. 
 

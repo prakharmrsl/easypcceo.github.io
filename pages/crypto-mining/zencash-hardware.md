@@ -11,7 +11,7 @@ seotitle: "3 Best ZenCash Mining Hardware GPUs in 2017 (Comparison)"
 
 If you're reading this, you've probably heard about ZenCash; but what exactly is it? How is it different from other cryptocurrencies?
 
-ZenCash was created with the privacy of the users in mind. Many refer to it as a *privacy coin.* Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipients address. 
+ZenCash was created with the privacy of the users in mind. Many refer to it as a *privacy coin.* Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. 
 
 ZenCash is also used for anonymous publishing. Users can post anonymous messages on the blockchain. This basically means worldwide anonymous publishing. 
 
