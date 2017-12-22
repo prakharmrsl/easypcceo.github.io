@@ -80,7 +80,7 @@ If you use the right mining hardware, you'll see a great return on your investme
 
 Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market.
 
-Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
+Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
 ## Dash Mining Hardware
 

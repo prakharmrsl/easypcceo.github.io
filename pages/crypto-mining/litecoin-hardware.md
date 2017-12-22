@@ -38,7 +38,7 @@ If you are interested in mining Litecoin, the best Litecoin mining hardware [ASI
 
 This miner is the fastest Litecoin mining ASIC on the market today. It can mine at a speed of 504 MH/s with a max power consumption of 800 W.
 
-As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Zcash](/crypto-mining/zcash-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors.
+As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Zcash](/crypto-mining/zcash-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors.
 
 This Antminer is very similar to the Antminer S9 series. However, it is a bit taller than the S9 and has four hashing boards instead of three. 
 

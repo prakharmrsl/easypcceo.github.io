@@ -17,7 +17,7 @@ Zcash is based on a decentralized blockchain, just like [Bitcoin](/crypto-mining
 
 Finding the right harware for mining Zcash can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
 
-As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
+As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
 
 **NOTE: [Litecoin](/crypto-mining/litecoin-hardware/) mining with the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) and [Dash](/crypto-mining/dash-hardware/) with the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) are the most profitable in 2017!**
 
