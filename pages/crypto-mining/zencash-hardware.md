@@ -1,8 +1,8 @@
 ---
-title: ZenCash: Everything You Need to Know
+title: "ZenCash: Everything You Need to Know"
 permalink: "/crypto-mining/zencash-hardware/"
 layout: page
-seotitle: "3 Best ZenCash Mining Hardware GPUs in 2017 (Comparison) " 
+seotitle: "3 Best ZenCash Mining Hardware GPUs in 2017 (Comparison)" 
 ---
 
 ## What is ZenCash? 
