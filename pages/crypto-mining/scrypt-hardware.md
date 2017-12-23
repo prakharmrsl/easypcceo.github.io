@@ -1,13 +1,13 @@
 ---
 title: "The Scrypt Mining Algorithm: Everything You Need to Know"
-permalink: "/crypto-mining/scrypt-hardware/"
+permalink: "/crypto-mining/Scrypt-hardware/"
 layout: page
 seotitle: "#1 Best Scrypt Mining Hardware ASIC: Litecoin, Dogecoin, & More (2017)" 
 ---
  
-![Scrypt Mining](/img/cryptocurrency/scrypt.jpg)
+![Scrypt Mining](/img/cryptocurrency/Scrypt.jpg)
 
-If you're looking for the short answer, scrypt is a mining algorithm used by many popular cryptocurrencies. If you're looking for a longer, more in-depth response, keep reading. 
+If you're looking for the short answer, Scrypt is a mining algorithm used by many popular cryptocurrencies. If you're looking for a longer, more in-depth response, keep reading. 
 
 You've probably have heard a lot about popular [cryptocurrencies](/crypto-mining/) such as [Bitcoin](/crypto-mining/bitcoin-hardware/) or [Litecoin](/crypto-mining/litecoin-hardware/). However, you may not know too much about their mining algorithms. 
 
@@ -30,11 +30,11 @@ In more basic terms, your mining hardware is solving a mathematical equation, ve
 ## Best Scrypt ASIC Mining Hardware
 ![L3+ Miner](/img/cryptocurrency/L3-plus.jpg){: .img-middle}
 
-If you want to maximize your Scrypt mining profits, then the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is the [ASIC](https://en.bitcoin.it/wiki/ASIC) for you. With a daily return of 682%, you'll see profits of over $5,000 annually per card if you're mining [Litecoin](/crypto-mining/litecoin-hardware/). However, this ASIC can mine ALL cryptocurrencies that use the Scrypt algorithm! We were going to make a Scrypt mining hardware comparison, but this is the best scrypt mining hardware you can buy. 
+If you want to maximize your Scrypt mining profits, then the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is the [ASIC](https://en.bitcoin.it/wiki/ASIC) for you. With a daily return of 682%, you'll see profits of over $5,000 annually per card if you're mining [Litecoin](/crypto-mining/litecoin-hardware/). However, this ASIC can mine ALL cryptocurrencies that use the Scrypt algorithm! We were going to make a Scrypt mining hardware comparison, but this is the best Scrypt mining hardware you can buy. 
 
 **Take a look at your projected earnings with this ASIC miner:**
 
-<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/cryptocurrency/l3-scrypt-profit.png" /></a>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/cryptocurrency/l3-Scrypt-profit.png" /></a>
 
 As you can see, the profit margin with the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) are pretty high.
 
@@ -75,9 +75,9 @@ NOTE: It would take over 500 top tier graphics cards to equal the hashing power 
 
 Hashing power isn't the only thing to consider with Scrypt mining. Memory is also an important factor to consider. This is why Scrypt is often referred to as 'the memory hard problem'. 
 
-[Coindesk](https://www.coindesk.com/scrypt-miners-cryptocurrency-arms-race/) wrote a great piece on the matter, citing a quote from Mike Kular, the co-founder of Crypto Industries. 
+[Coindesk](https://www.coindesk.com/Scrypt-miners-cryptocurrency-arms-race/) wrote a great piece on the matter, citing a quote from Mike Kular, the co-founder of Crypto Industries. 
 
-"'The memory bandwidth is a function of how many input/output (IO) pins exist on the chips', says Kular. In FGPAs, as in ASICs, the process node (the size of the transistors, which governs how many logic gates will fit on a piece of silicon) are still, important, but they aren’t as important as with bitcoin. 'The gates aren’t the commanding factor. It’s about the I/O pins' said Kular, adding that the FGPA boards will have a memory bandwidth of 24.8GB/sec per board". This quote was pulled from [CoinDesk's article on the subject](https://www.coindesk.com/scrypt-miners-cryptocurrency-arms-race/). 
+"'The memory bandwidth is a function of how many input/output (IO) pins exist on the chips', says Kular. In FGPAs, as in ASICs, the process node (the size of the transistors, which governs how many logic gates will fit on a piece of silicon) are still, important, but they aren’t as important as with bitcoin. 'The gates aren’t the commanding factor. It’s about the I/O pins' said Kular, adding that the FGPA boards will have a memory bandwidth of 24.8GB/sec per board". This quote was pulled from [CoinDesk's article on the subject](https://www.coindesk.com/Scrypt-miners-cryptocurrency-arms-race/). 
 
 ## Which Coins use Scrypt? 
 ![Altcoins](/img/cryptocurrency/altcoins.png){: .img-middle}
