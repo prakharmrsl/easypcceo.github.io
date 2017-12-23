@@ -135,9 +135,9 @@ Miners put the transaction through a process in which they take the information 
 
 Each hash is a version of the hash used before it. Since each hash is based on the one prior, the next hash confirms the previous hash is legitimate.  
 
- For each block, miners use computers, more specifically GPUs to guess answers to a puzzle. When the answer is find, a coin is received as a reward. 
+For each block, miners use computers, more specifically GPUs to guess answers to a puzzle. When the answer is find, a coin is received as a reward. 
 
-The miners use unique header metadata through a hash function. When a valid hash is found, it is sent through the network and added to the public ledger.
+The miners use unique header metadata through a hash function. Different currencies use different mining algorithm. For example, [Scrypt](/crypto-mining/scrypt-hardware/) is used by the popular currency [Litecoin](/crypto-mining/litecoin-hardware/). When a valid hash is found, it is sent through the network and added to the public ledger.
 
 There's no way to cheat the system and fake the work, which is why the method used for all cryptocurrencies as of today is called "proof of work". Ethereum is revolutionary in that it is trying to move away from proof-of-work and intead use "proof of stake" (see our guide on [Ethereum Mining](/crypto-mining/ethereum-hardware/)).
 

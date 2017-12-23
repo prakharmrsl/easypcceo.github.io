@@ -57,6 +57,20 @@ As you can see, the profit margin with the [Antminer L3+](http://rover.ebay.com/
 	</tr>
 </table>  
 
+## Powering the Antminer L3+
+
+It is important to buy the right power supply for this miner, as it does not ship with a power supply included. 
+
+The **Antminer APW5 power supply** is recommended. You can find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) 
+
+The APW5 power supply can provide up to 1300 W / 110 V or 2600 W over 205 V+. 
+
+If you don't want this power supply and would prefer a more conventional power supply, the [EVGA Supernova 1050 GS](https://www.amazon.com/gp/product/B00SOXNKAM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SOXNKAM&linkCode=as2&tag=cryptocurrency06-20&linkId=de2675c9e53e633c7b9ee74a8e67e76f) is recommended and can be found on [Amazon](https://www.amazon.com/gp/product/B00SOXNKAM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SOXNKAM&linkCode=as2&tag=cryptocurrency06-20&linkId=de2675c9e53e633c7b9ee74a8e67e76f)
+
+Just make sure the PSU that you choose can provide at least 850 W with 9 6-pin PCI-E connectors, uses a single 12 V rail, and has a gold or platinum efficiency rating. 
+
+NOTE: It would take over 500 top tier graphics cards to equal the hashing power of one [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)! 
+
 ## The Memory Hard Problem
 
 Hashing power isn't the only thing to consider with Scrypt mining. Memory is also an important factor to consider. This is why Scrypt is often referred to as 'the memory hard problem'. 

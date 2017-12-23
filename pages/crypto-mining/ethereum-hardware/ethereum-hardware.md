@@ -73,6 +73,8 @@ Look no further. We are here to tell you that if you use the above mining GPUs, 
 
 As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $276.80 USD per card each year. If you invest in multiple cards, you will make even more passive income.
 
+Comparitively to [Scrypt](/crypto-mining/scrypt-hardware/), Ethereum's mining algorithm is very profitable. 
+
 While it is possible to turn a profit mining Ethereum, [X11 Dash mining](/crypto-mining/dash-hardware/) **is FAR more profitable.**
 
 This video will teach you how to begin mining Ethereum:

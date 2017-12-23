@@ -8,7 +8,7 @@ seotitle: "#1 Best Litecoin Mining Hardware ASIC 2017 (And More!)"
 ## What is Litecoin? 
 ![Litecoin Logo](/img/cryptocurrency/litecoin-logo.png){: .img-right .img-small}
 
-Litecoin is faster than [Bitcoin](/crypto-mining/bitcoin-hardware/), and focuses on smaller transactions. 
+Litecoin is faster than [Bitcoin](/crypto-mining/bitcoin-hardware/), and focuses on smaller transactions. It also has a different mining algorithm, known as [Scrypt](/crypto-mining/scrypt-hardware/).
 
 There will only ever be 84 million Litecoins mined. Some may disagree, but many draw the comparison that Litecoin is to Bitcoin as silver is to gold.
 
