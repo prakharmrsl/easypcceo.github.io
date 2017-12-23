@@ -16,7 +16,7 @@ One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin
 
 For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses scrypt, whereas Bitcoin uses the SHA-256 algorithm. 
 
-Script relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
+Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
 
 ## Should you Mine Litecoin?
 
