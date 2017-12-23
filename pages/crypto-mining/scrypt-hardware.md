@@ -27,10 +27,10 @@ The Mining Algorithm is as follows:
 
 In more basic terms, your mining hardware is solving a mathematical equation, verifying transactions on the database, or *blockchain*. When you successfully solve the algorithm, you're rewarded with cryptocurrency. 
 
-## Best Scrypt Mining ASIC
+## Best Scrypt ASIC Mining Hardware
 ![L3+ Miner](/img/cryptocurrency/L3-plus.jpg){: .img-middle}
 
-If you want to maximize your Scrypt mining profits, then the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is the [ASIC](https://en.bitcoin.it/wiki/ASIC) for you. With a daily return of 682%, you'll see profits of over $5,000 annually per card if you're mining [Litecoin](/crypto-mining/litecoin-hardware/). However, this ASIC can mine ALL cryptocurrencies that use the Scrypt algorithm!
+If you want to maximize your Scrypt mining profits, then the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is the [ASIC](https://en.bitcoin.it/wiki/ASIC) for you. With a daily return of 682%, you'll see profits of over $5,000 annually per card if you're mining [Litecoin](/crypto-mining/litecoin-hardware/). However, this ASIC can mine ALL cryptocurrencies that use the Scrypt algorithm! We were going to make a Scrypt mining hardware comparison, but this is the best scrypt mining hardware you can buy. 
 
 **Take a look at your projected earnings with this ASIC miner:**
 
