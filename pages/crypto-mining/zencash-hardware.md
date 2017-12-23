@@ -167,7 +167,7 @@ As you can see, the yearly profit is nearly identical to that of the 1080's, but
 
 ## Generating Passive Income with ZenCash Mining
 
-Before we talk about settup up passive income with ZenCash mining, we must first understand what passive income is. 
+Before we talk about setting up passive income with ZenCash mining, we must first understand what passive income is. 
 
 So, what is it? 
 

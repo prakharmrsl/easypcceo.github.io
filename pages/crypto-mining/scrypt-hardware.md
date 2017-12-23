@@ -88,7 +88,7 @@ You can use [this mining profitability calculator](https://minethecoin.com/coin/
 
 ## Generating Passive Income with Mining
 
-Before we talk about settup up passive income with mining, we must first understand what passive income is. 
+Before we talk about setting up up passive income with mining, we must first understand what passive income is. 
 
 So, what is it? 
 
