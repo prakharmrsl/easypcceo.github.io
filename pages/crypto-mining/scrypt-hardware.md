@@ -27,13 +27,6 @@ The Mining Algorithm is as follows:
 
 In more basic terms, your mining hardware is solving a mathematical equation, verifying transactions on the database, or *blockchain*. When you successfully solve the algorithm, you're rewarded with cryptocurrency. 
 
-
-## A Quick Overview of Hashing Algorithms
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b4b8ktEV4Bg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-</div>
-
 ## Best Scrypt Mining ASIC
 ![L3+ Miner](/img/cryptocurrency/L3-plus.jpg){: .img-middle}
 
@@ -79,6 +72,12 @@ There are many different cryptocurrencies that use the Scrypt algorithm, but the
 
 Other currencies such as Novacoin, FeatherCoin, GoldCoin, and Tagcoin use Scrypt. There are many, many more currencies than those listed on this page. [You can find a complete list of currencies that use the Scrypt algorithm here](http://altcoins.com/).
 
+## A Quick Overview of Hashing Algorithms
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b4b8ktEV4Bg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## What Makes a Profitable Cryptocurrency?
 
 Cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/) and [Litecoin](/crypto-mining/litecoin-hardware/) are profitable cryptocurrencies, due to their value and block difficulty. If a cryptocurrency is too difficult to mine, such as [Bitcoin](/crypto-mining/bitcoin-hardware), you'll waste too much money on electricity to turn a profit. 
@@ -87,7 +86,7 @@ However, if the cryptocurrency is easier to mine and/or more valuable, it's prob
 
 You can use [this mining profitability calculator](https://minethecoin.com/coin/zencash) to view your projected mining profitability with the cards below. You'll be able to see your projected earnings with each card. **NOTE: ZenCash is extremely profitable to mine!**
 
-## Generating Passive Income Mining
+## Generating Passive Income with Mining
 
 Before we talk about settup up passive income with mining, we must first understand what passive income is. 
 
