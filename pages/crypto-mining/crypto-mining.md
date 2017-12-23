@@ -21,7 +21,7 @@ In today's economy, every transaction we make must go through a bank or credit c
 
 They take a cut of the transaction, and we must believe that they won't make a mistake. 
 
-That's where <a href="https://bitcoin.org/en/">bitcoin</a> comes in. 
+That's where <a href="https://bitcoin.org/en/">Bitcoin</a> comes in. 
 
 At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
 
