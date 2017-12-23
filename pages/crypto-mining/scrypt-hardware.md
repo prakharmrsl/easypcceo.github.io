@@ -5,7 +5,7 @@ layout: page
 seotitle: "#1 Best Scrypt Mining Hardware ASIC: Litecoin, Dogecoin, & More (2017)" 
 ---
  
-![Scrypt Mining](/img/cryptocurrency/Scrypt.jpg)
+![Scrypt Mining](/img/cryptocurrency/scrypt.jpg)
 
 If you're looking for the short answer, Scrypt is a mining algorithm used by many popular cryptocurrencies. If you're looking for a longer, more in-depth response, keep reading. 
 
