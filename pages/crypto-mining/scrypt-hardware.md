@@ -34,7 +34,7 @@ If you want to maximize your Scrypt mining profits, then the [Antminer L3+](http
 
 **Take a look at your projected earnings with this ASIC miner:**
 
-<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/cryptocurrency/l3-Scrypt-profit.png" /></a>
+<a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/cryptocurrency/l3-scrypt-profit.png" /></a>
 
 As you can see, the profit margin with the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338233797&customid=&icep_uq=antminer+l3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) are pretty high.
 
