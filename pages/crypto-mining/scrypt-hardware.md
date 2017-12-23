@@ -104,5 +104,3 @@ If you invest in one or more mining ASIC, you have the potential to start genera
 
 * TOC
 {:toc}
-
-
