@@ -92,7 +92,7 @@ Unlike bitcoin, Zcash gives the user the option to encrypt the transaction.
 
 This means that the sender address, recipient address, and the amount sent is hidden from public view. 
 
-Many would consider Zcash the future of anonymous transaction. 
+Many would consider Zcash the future of anonymous transaction. Regular GPUs can be used to mine Zcash, such as the [GTX 1080](/crypto-mining/gtx-1080-review/)! 
 
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
 

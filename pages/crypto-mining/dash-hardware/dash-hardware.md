@@ -12,6 +12,10 @@ Unlike [Zcash](/crypto-mining/zcash-hardware/), [Monero](/crypto-mining/monero-h
 
 These cards are the fastest and most power efficient solution for mining cryptocurrency.
 
+What does this mean for your GPU?
+
+Well, even if you have powerful GPUs like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
+
 Before you start mining, you'll probably want to know if it's worth your money. 
 
 <table class="basic-table" align="center">

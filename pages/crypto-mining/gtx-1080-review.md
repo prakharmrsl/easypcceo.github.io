@@ -20,7 +20,7 @@ If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest th
 
 The [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) and [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080 Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) were originally released strictly to deliver maximum gaming performance. However, once miners got their hands on them, that quickly changed. Many employ them as [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) miners. 
 
-This review is going to illustrate the GTX 1080 hashrate, power consumption, and the overall mining performance of the GTX 1080 and 1080 Ti. 
+This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.com/what-is-bitcoin-hash/), power consumption, and the overall mining performance of the GTX 1080 and 1080 Ti. 
 
 ## GTX 1080 Ti Specs
 
@@ -36,7 +36,7 @@ This review is going to illustrate the GTX 1080 hashrate, power consumption, and
 * Boost Clock: 1733 MHz
 * Frame Buffer: 8 GB GDDR5**X** 
 
-Notice the bolded **X**. The 1080 series use GDDRX memory. Although it delivers better gaming performance (what the cards are designed for), it is actually worse for mining. These cards boast excellent gaming performance, but they definitely weren't designed to mine [Ethereum](/crypto-mining/ethereum-hardware/). However, they can be used to mine other <a href="#mining-other-altcoins">altcoins</a> effectively.
+Notice the bolded **X**. The 1080 series use [GDDRX](https://www.quora.com/What-is-the-difference-between-GDDR-and-DDR-memory) memory. Although it delivers better gaming performance (what the cards are designed for), it is actually worse for mining. These cards boast excellent gaming performance, but they definitely weren't designed to mine [Ethereum](/crypto-mining/ethereum-hardware/). However, they can be used to mine other <a href="#mining-other-altcoins">altcoins</a> effectively.
 
 ## GTX 1080 Hashrate: Ethereum
 
@@ -109,11 +109,11 @@ Considering the power consumption of the card, it's still not as profitable.
 
 Well, it outputs **740 Sol/s** at stock speeds; not bad. However, it's still drawing 285 W from the wall. If you reduce the power target, you can drop the hashrate to about **600 Sol/s** and the power consumption to around **150 W**. This will drastically increase the power/hash ratio. 
 
-![1080ti Zcash Mining](/img/cryptocurrency/1080ti-zcash.png)
+<a href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=740&HashingUnit=H%2Fs&PowerConsumption=285&CostPerkWh=0.12"><img src="/img/cryptocurrency/1080ti-zcash.png" /></a>
 
 ### Zcash Mining Conclusion
 
-If you underpower your card, the power/hash ratio improves, rendering Zcash mining slightly more profitable. However, you won't see the profits that you'd see with other hardware. That being said, you should only Zcash with a 1080 card if you already own the card.  
+If you underpower your card, the power/hash ratio improves, rendering Zcash mining slightly more profitable. However, you won't see the profits that you'd see with other hardware. That being said, you should only mine Zcash with a 1080 card if you already own the card.  
 
 ## Alternative Zcash Mining Hardware 
 
@@ -157,7 +157,7 @@ Here's a graphic we found on [1stminingrig.com](http://1stminingrig.com) that il
 
 ## Conclusion
 
-Unless you already own a GTX 1080 or 1080 Ti, we recommend looking elsewhere for [Ethereum](/crypto-mining/ethereum-hardware/) or [Zcash](/crypto-mining/zcash-hardware/) mining hardware. Unless you already own one, (in which case, go for it!) look elsewhere for mining hardware.
+We recommend looking elsewhere for [Ethereum](/crypto-mining/ethereum-hardware/) or [Zcash](/crypto-mining/zcash-hardware/) mining hardware. Unless you already own one, (in which case, go for it!) look elsewhere for mining hardware. However, other altcoins seem to be more profitable. 
 
 * TOC
 {:toc}
