@@ -161,3 +161,4 @@ We recommend looking elsewhere for [Ethereum](/crypto-mining/ethereum-hardware/)
 
 * TOC
 {:toc}
+
