@@ -1,5 +1,5 @@
 ---
-title: NVIDIA GeForce GTX 1080 Mining Performance 
+title: "NVIDIA GeForce GTX 1080 Mining Performance" 
 permalink: "/crypto-mining/gtx-1080-review/"
 layout: page
 seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2017)" 
@@ -7,7 +7,7 @@ seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2017)"
 
 <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a>
 
-**GTX 1080 Series Overall Scores:**
+**GTX 1080 Mining Overall Scores:**
 
 * Mining Performance: 4/5
 * Power Consumption: 3.5/5
@@ -38,12 +38,12 @@ This review is going to illustrate the GTX 1080 hashrate, power consumption, and
 
 Notice the bolded **X**. The 1080 series use GDDRX memory. Although it delivers better gaming performance (what the cards are designed for), it is actually worse for mining. These cards boast excellent gaming performance, but they definitely weren't designed to mine [Ethereum](/crypto-mining/ethereum-hardware/). However, they can be used to mine other <a href="#mining-other-altcoins">altcoins</a> effectively.
 
-## 1080 Series Ethereum Hashrate 
+## GTX 1080 Hashrate: Ethereum
 
 ### GTX 1080 
 ![GTX 1080](/img/cryptocurrency/gpu/gtx-1080.png){: .img-right .img-small}
 
-At stock speeds, the [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hashrate of **20.35 MH/s**. The 1080 falls behind the [AMD RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) which hashes at **24.86 MH/s**. Also at stock speeds, the 1080 draws **180 W**.
+At stock speeds, the [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) Ethereum mining hashrate is **20.35 MH/s**. The 1080 falls behind the [AMD RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) which hashes at **24.86 MH/s**. Also at stock speeds, the 1080 draws **180 W**.
 
 The 1080 has issues with VRAM timing, which could be to blame for the lower hashrate. Most in the [Ethereum mining](/crypto-mining/ethereum-hardware/) community agree that this miner isn't very profitable due to their higher price and power consumption. 
 
@@ -98,7 +98,7 @@ Due to high power consumption and cost, they're not very profitable. However, if
 	</tr>
 </table> 
 
-## 1080 Series Zcash Hashrate
+## GTX 1080 Hashrate: Zcash
 ![GTX 1080](/img/cryptocurrency/gpu/gtx-1080.png){: .img-right .img-small}
 
 At stock speeds, the [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hashrate of **500 Sol/s**. Not bad, but it still falls behind other [Zcash mining hardware](/crypto-mining/zcash-hardware/). 
