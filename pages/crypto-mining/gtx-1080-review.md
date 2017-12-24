@@ -14,7 +14,7 @@ seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2017)"
 * Cooling: 5/5
 * Price/Performance: 3/5 
 
-If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/). It's the best [Ethereum](/crypto-mining/ethereum-hardware/) on the market! 
+If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/). It's the best [Ethereum](/crypto-mining/ethereum-hardware/) miner on the market! 
 
 ## 1080 Series Mining Overview
 
@@ -158,3 +158,6 @@ Here's a graphic we found on [1stminingrig.com](http://1stminingrig.com) that il
 ## Conclusion
 
 Unless you already own a GTX 1080 or 1080 Ti, we recommend looking elsewhere for [Ethereum](/crypto-mining/ethereum-hardware/) or [Zcash](/crypto-mining/zcash-hardware/) mining hardware. Unless you already own one, (in which case, go for it!) look elsewhere for mining hardware.
+
+* TOC
+{:toc}
