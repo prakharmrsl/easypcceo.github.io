@@ -143,12 +143,6 @@ If you already have one card, it can't hurt to make a few extra bucks. If you're
 	</tr>
 </table>
 
-## Mining Other Altcoins 
-
-Here's a graphic we found on [1stminingrig.com](http://1stminingrig.com) that illustrates the 1080 series' performance mining other altcoins:
-
-![1080 Mining Other Altcoins](/img/cryptocurrency/1080-altcoins.jpg)
-
 ## Conclusion
 
 If you're looking for a singular powerful mining GPU, this isn't the one for you. However, if you're interested in buying a few cheaper GPUs, the 1050 Ti is a great option. In fact, it might be a better choice than buying one powerful GPU. [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) are both great currencies to mine, so get started now! 
