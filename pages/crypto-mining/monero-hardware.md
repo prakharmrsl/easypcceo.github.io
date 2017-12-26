@@ -13,15 +13,13 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 
 ## Should you Mine Monero?
 
-While Monero mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
+While Monero mining is profitable, it may not be the best idea for those simply looking to acquire cryptocurrency. 
 
-If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit.
+If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a sizable profit. 
 
-For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.
+There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105) that allow you to buy and sell cryptocurrencies. You can buy Monero directly on their exchange. You can also convert the Monero you've mined into other cryptocurrencies, or sell it for USD.
 
-**Buy $100+ of Bitcoin and get $10 of Bitcoin free. Just click the button below!**
-
-[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+[Buy Monero from Binance](https://www.binance.com/?ref=16557105){: .big-button}
 
 ## Best Monero Mining Hardware 
 

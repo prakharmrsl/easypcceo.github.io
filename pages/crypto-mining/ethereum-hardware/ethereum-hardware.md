@@ -49,6 +49,10 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
+## Trading Your Ethereum for Bitcoin, Litecoin, and USD
+
+If you want to convert your Ethereum into USD or any other form of currency, you can sell your Ethereum on an exchange like [Binance](https://www.binance.com/?ref=16557105). This platform allows you to convert your Ethereum into other alternative cryptocurrencies, and even currencies like Bitcoin and Litecoin.
+
 ## Should you Mine Ethereum? 
 
 While Ethereum mining is profitable, it's not even close to the profitability of [Dash mining](/crypto-mining/dash-hardware/) or [Litecoin mining](/crypto-mining/litecoin-hardware/). 
@@ -59,9 +63,9 @@ Mining hardware is very expensive, and unless you are mining on a large scale, i
 
 For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.
 
-**Buy $100+ of Bitcoin and get $10 of Bitcoin free. Just click the button below!**
+**Buy $100+ of Ethereum and get $10 of Bitcoin free. Just click the button below!**
 
-[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+[Buy Ethereum from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
 
 ## Ethereum Mining Profitability 
 
