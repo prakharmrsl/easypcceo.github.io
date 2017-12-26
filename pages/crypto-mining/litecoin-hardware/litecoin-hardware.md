@@ -129,4 +129,4 @@ The idea of a mining pool is pretty simple. Instead of mining on your own, a gro
 
 [Litecoinpool](https://www.litecoinpool.org/) is a popular Litecoin mining pool. 
 
-test 
+test
