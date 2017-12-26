@@ -49,19 +49,17 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
-## Trading Your Ethereum for Bitcoin, Litecoin, and USD
+## Trading Your Ethereum 
 
-If you want to convert your Ethereum into USD or any other form of currency, you can sell your Ethereum on an exchange like [Binance](https://www.binance.com/?ref=16557105). This platform allows you to convert your Ethereum into other alternative cryptocurrencies, and even currencies like Bitcoin and Litecoin.
+If you want to convert your Ethereum into any other cryptocurrency, you can do so on an exchange such as [Binance](https://www.binance.com/?ref=16557105). This platform allows you to convert your Ethereum into Bitcoin, Litecoin, and other alternative cryptocurrencies. 
+
+[Trade on Binance](https://www.binance.com/?ref=16557105){: .big-button}
 
 ## Should you Mine Ethereum? 
-
-While Ethereum mining is profitable, it's not even close to the profitability of [Dash mining](/crypto-mining/dash-hardware/) or [Litecoin mining](/crypto-mining/litecoin-hardware/). 
 
 If you're mining Ethereum only because you want to acquire cryptocurrency, it may be a better idea to just buy it. 
 
 Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Ethereum mining GPUs. 
-
-For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.
 
 **Buy $100+ of Ethereum and get $10 of Bitcoin free. Just click the button below!**
 
