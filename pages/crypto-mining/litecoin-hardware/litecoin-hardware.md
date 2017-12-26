@@ -18,7 +18,15 @@ For miners, Litecoin's different mining algorithm also plays a big part. Litecoi
 
 Script relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
 
-## Should you Mine Litecoin?
+## How to Maximize Your Litecoin Mining Profits
+
+In order to maximize your mining profits, choose a currency that's easy to mine. Instead of trying to mine a difficult algorithm like Bitcoin, you can mine easier cryptocurrencies. Use [What to Mine](https://whattomine.com/) to figure out the right cryptocurrency for you. 
+
+Then, simply convert your mined currency into Bitcoin or any other currency you like. You can do so using [Binance](https://www.binance.com/?ref=16557105), an online cryptocurrency exchange. This way, you'll maximize your profits.  
+
+[Sign up for Binance](https://www.binance.com/?ref=16557105){: .big-button}
+
+## Should You Mine Litecoin?
 
 While Litecoin mining is profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
 
@@ -26,7 +34,7 @@ If you just want cryptocurrency, it is probably a better idea to buy it. Mining 
 
 There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105) that allow you to buy and sell cryptocurrencies. You can buy Litecoin directly on their exchange. You can also convert the Litecoin you've mined into other cryptocurrencies, or sell it for USD.
 
-[Buy Litecoin from Binance](https://www.binance.com/?ref=16557105){: .big-button}
+[Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
 
 ## The Best Litecoin Mining ASIC Hardware 
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
@@ -112,8 +120,6 @@ If you are sceptical about getting involved with Litecoin, here are a few reason
 * It's easier to use Litecoin for smaller transactions 
 
 All in all, Litecoin is a reliable cryptocurrency that we recommend investing in. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wk1fcWrZhFo" frameborder="0" allowfullscreen></iframe>
 
 [You can purchase Litecoin here.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b)
 

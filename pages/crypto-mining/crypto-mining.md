@@ -7,9 +7,13 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs"
 
 Mining Bitcoin and other cryptocurrencies has become very popular. 
 
-As more and more begin to mine for cryptocurrency, it becomes harder and harder to successfully mine a bitcoin, litecoin, or any other form of cryptocurrency. 
+As more and more begin to mine for cryptocurrency, it becomes harder and harder to successfully mine a Bitcoin, Litecoin, or any other form of cryptocurrency. 
 
-This is why you need to START MINING NOW! 
+## Maximizing Your Mining Profits
+
+**In order to maximize your <a href="#how-mining-works">hashing power</a>, mine the currency that is the most profitable.** You can use [What to Mine](https://whattomine.com/) to figure out the right currency for you. 
+
+Instead of trying to mine a difficult algorithm like Bitcoin, you can mine easier cryptocurrencies. Then, simply convert your mined currency into Bitcoin or any other currency you like. You can do so using [Binance](https://www.binance.com/?ref=16557105), an online cryptocurrency exchange. This way, you'll maximize your profits.  
 
 ## Top 7 Most Popular Cryptocurrencies:
 
