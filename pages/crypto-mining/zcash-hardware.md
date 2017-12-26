@@ -21,16 +21,6 @@ As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-m
 
 **NOTE: [Litecoin](/crypto-mining/litecoin-hardware/) mining with the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) and [Dash](/crypto-mining/dash-hardware/) with the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) are the most profitable in 2017!**
 
-## Should you Mine Zcash?
-
-While Zcash mining is profitable, it may not be the best idea for those simply looking to acquire cryptocurrency. 
-
-If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a sizable profit. 
-
-There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105) that allow you to buy and sell cryptocurrencies. You can buy Zcash directly on their exchange. You can also convert the Zcash you've mined into other cryptocurrencies, or sell it for USD.
-
-[Buy Zcash from Binance](https://www.binance.com/?ref=16557105){: .big-button}
-
 ## Zcash Mining Hardware
 
 Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, the development of ASIC graphics cards for this cryptocurrency is unfeasible. 

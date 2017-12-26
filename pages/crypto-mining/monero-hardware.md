@@ -125,7 +125,7 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 
 ## How to Trade Monero for Other Cryptocurrencies & USD
 
-Since Monero is focused on privacy, there is no direct way to exchange Monero for regular currency (USD). This is because the government would have no way to track it. 
+Since Monero is focused on privacy, there is no direct way to exchange Monero for regular currency (USD). 
 
 Does this mean you can't exchange your Monero for USD?
 
