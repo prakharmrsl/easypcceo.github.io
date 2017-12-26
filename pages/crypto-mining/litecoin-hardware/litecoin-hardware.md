@@ -20,7 +20,7 @@ Script relies heavily on lots of high-speed Ram, and is often referred to as the
 
 ## Should you Mine Litecoin?
 
-While Litecoin mining is profitable, it may not be the best idea for those simply looking to acquire cryptocurrency. 
+While Litecoin mining is profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
 
 If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a sizable profit. 
 
