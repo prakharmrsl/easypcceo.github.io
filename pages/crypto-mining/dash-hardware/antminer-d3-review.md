@@ -58,7 +58,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	</tr>
 </table>
 
-This miner has a hash rate of 15 GH/s. The hash rate is astronomically high, yielding a daily return of over 40%. After power costs of around $3.00 per day, you'll generate over $600 per year in revenue. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/). However, the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) Litecoin ASIC is far more profitable.
+This miner has a hash rate of 15 GH/s. The hash rate is astronomically high, yielding a daily return of over 100%. After power costs of around $3.00 per day, **you'll generate over $1,000 per year in revenue**. Dash mining is [extremely profitable](/crypto-mining/dash-mining-profitability/) compared to other [cryptocurrencies](/crypto-mining/). However, the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) Litecoin ASIC is far more profitable.
 
 **Specifications of the Antminer D3:**
 
@@ -69,7 +69,7 @@ This miner has a hash rate of 15 GH/s. The hash rate is astronomically high, yie
 
 ## Price
 
-You can find the Antminer D3 around $1,200 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+You can find the Antminer D3 for around $1,200 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
 This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself very quickly. 
 
