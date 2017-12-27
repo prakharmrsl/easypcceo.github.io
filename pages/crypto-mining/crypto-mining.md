@@ -90,6 +90,8 @@ Fees are virtually non-exisistent, as you control your own money.
 
 [Monero](/crypto-mining/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
 
+**If you use one of the mining GPUs specified in our guide, you'll generate over $1,400 annually!**
+
 [View Monero mining CPUs and GPUs here](/crypto-mining/monero-hardware/){: .big-button}
 
 ### 6. Zcash 
