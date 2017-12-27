@@ -74,7 +74,7 @@ Just like anything else, there's strength in numbers. Instead of mining on your 
 
 That's the basic idea of a mining pool. A group of miners all mine together. Once a blockchain reward is received, (in this case, Vertcoin) each miner receives an equal portion of the work they put in. You're much more likely to successfully mine if you're a member of a minig pool. 
 
-Here are some mining pools to consider: 
+**Here are some mining pools to consider:** 
 
 * [Vertcoin Pool](https://poolmining.org/pool/vtc)
 * [VTC Mining Pool Hub](https://vertcoin.miningpoolhub.com/)
