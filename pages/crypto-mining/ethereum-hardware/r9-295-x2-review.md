@@ -9,7 +9,7 @@ seotitle: "R9 295X2 Review: Good Miner for Ethereum and Other Coins?"
 
 * Hash rate (Highest among Ethereum mining GPUs)
 * Power consumption 
-* ROI (**Over $1,000 a year per card!)
+* ROI (**Over $1,000 a year per card!**)
 
 **Cons**
 
@@ -17,7 +17,7 @@ seotitle: "R9 295X2 Review: Good Miner for Ethereum and Other Coins?"
 
 Our rating: **4.5/5**
 
-[Buy Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"} 
+[Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"} 
 
 ## Ethereum Mining in 2017 
 ![Radeon R9 295X2](/img/cryptocurrency/gpu/r9-295-x2.png){: .img-right .img-small}
