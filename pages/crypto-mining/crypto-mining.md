@@ -96,7 +96,7 @@ Unlike bitcoin, Zcash gives the user the option to encrypt the transaction.
 
 This means that the sender address, recipient address, and the amount sent is hidden from public view. 
 
-Many would consider Zcash the future of anonymous transaction. Regular GPUs can be used to mine Zcash, such as the [GTX 1080](/crypto-mining/gtx-1080-review/)! 
+Many would consider Zcash the future of anonymous transaction. Regular GPUs can be used to mine Zcash, such as the [GTX 1080](/crypto-mining/gtx-1080-review/)! In fact, it's also a great card for mining [Decred](/crypto-mining/decred-hardware/).
 
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
 
@@ -151,7 +151,7 @@ With this method, miners validate the hashes on the network, and they are reward
 
 Considering the information above, the importance of a powerful GPU is clear. The more powerful your GPU is, the faster you'll successfully mine coins. 
 
-However, powerful cards tend to use lots of electricity. That's why the efficiency of a card is equally important to consider. Sometimes, it's better to buy multiple low end GPUs with a great power/hash ratio. It may yield higher profits. The [GTX 1050 Ti](/crypto-mining/gtx-1050ti-review/) is a perfect example.  In fact, it's also a great card for mining [Decred](/crypto-mining/decred-hardware/).
+However, powerful cards tend to use lots of electricity. That's why the efficiency of a card is equally important to consider. Sometimes, it's better to buy multiple low end GPUs with a great power/hash ratio. It may yield higher profits. The [GTX 1050 Ti](/crypto-mining/gtx-1050ti-review/) is a perfect example.
 
 With the difficulty of mining increasing each day, an efficient GPU is critical. Some GPUs cost more in electricity than they generate in revenue. You can find efficient mining GPUs with the guides above. 
 
