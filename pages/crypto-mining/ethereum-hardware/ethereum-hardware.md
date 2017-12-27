@@ -15,6 +15,8 @@ Finding the right GPU for mining Ethereum can be difficult. It is important to b
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
+## Ethereum Mining Hardware to Maximize Your Profits
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>
@@ -55,29 +57,17 @@ If you want to convert your Ethereum into any other cryptocurrency, you can do s
 
 [Trade on Binance](https://www.binance.com/?ref=16557105){: .big-button target="_blank"}
 
-## Should you Mine Ethereum? 
-
-If you're mining Ethereum only because you want to acquire cryptocurrency, it may be a better idea to just buy it. 
-
-Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit. However, if you're a mining enthusiast or you want to give it a shot, this article will illustrate the three best Ethereum mining GPUs. 
-
-**Buy $100+ of Ethereum and get $10 of Bitcoin free. Just click the button below!**
-
-[Buy Ethereum from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
-
 ## Ethereum Mining Profitability 
 
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
-Look no further. We are here to tell you that if you use the above mining GPUs, you'll see a great return on your investment. 
+Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** 
 
 ![Ethereum Mining ROI](/img/cryptocurrency/r9-295-x2-review/profit.png "Ethereum Mining ROI")
 
-As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make $276.80 USD per card each year. If you invest in multiple cards, you will make even more passive income.
+As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make **over $1,000 annually per card each year.** If you invest in multiple cards, you will make even more passive income.
 
 Comparitively to [Scrypt](/crypto-mining/scrypt-hardware/), Ethereum's mining algorithm is very profitable. 
-
-While it is possible to turn a profit mining Ethereum, [X11 Dash mining](/crypto-mining/dash-hardware/) **is FAR more profitable.**
 
 This video will teach you how to begin mining Ethereum:
 
@@ -91,23 +81,23 @@ Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](htt
 
 However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/){:target="_blank"}.
 
-Below are the 3 best Ethereum mining GPUs:
+## The Best Ethereum Mining Hardware
 
-### Radeon R9 295X2
+### [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg(http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
-By far the most powerful Ethereum miner, the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/) has a hash rate of 46 MH/s, drawing 500 W from the wall. This means you'll see a yearly return of $276.80 USD annually per card. Some might think the [GTX 1080](/crypto-mining/gtx-1080-review/) is a more powerful alternative, but they'd be wrong.
+By far the most powerful Ethereum miner, the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/) has a hash rate of 46 MH/s, drawing 500 W from the wall. **This means you'll see a yearly return of $1,088.64 USD annually per card.** That's right, over $1,000 per card. Some might think the [GTX 1080](/crypto-mining/gtx-1080-review/) is a more powerful alternative, but they'd be wrong. **If you want to generate serious revenue by mining Ethereum, the [R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg(http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is your card of choice.**
 
 [Read our Review](/crypto-mining/ethereum-hardware/r9-295-x2-review/){: .big-button}
 
-### Radeon HD 7990 
+### [Radeon HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} 
 
-A powerful alternative to the R9 295X2, the [Radeon HD 7990](/crypto-mining/ethereum-hardware/radeon-hd-7990-review/) has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. You'll make $220.24 USD annually per card. 
+A powerful alternative to the R9 295X2, the [Radeon HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} has a hash rate of 36 MH/s. It consumes 300 W at max load. This means you'll save money on power consumption. **You'll make over $700 USD annually per card!**
 
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-hd-7990-review/){: .big-button}
 
-### Radeon RX 480 
+### [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} 
 
-Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $280.40 USD annually per card.
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. **You'll make over $700 USD annually per card!**
 
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-rx-480-review/){: .big-button}
 
