@@ -51,7 +51,7 @@ This Antminer is very similar to the Antminer S9 series. However, it is a bit ta
 
 Each hashing board requires two PCI-E power connections and one forward controller. That makes nine power connections total. 
 
-[Shop for Antminer L3+ at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
+[Read our Review](/crypto-mining/litecoin-hardware/antminer-l3-review/){: .big-button}
 
 ## Powering the Antminer L3+
 
