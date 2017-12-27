@@ -34,19 +34,19 @@ As you can see, it's a pretty powerful card. Though it was originally designed f
 		<td>216 W</td>
 		<td>$983.46</td>
 		<td>$750</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
+		<td><a target="_blank" {:target="_blank"}class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
 	</tr>
 </table>
 
-The [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) has a hashrate of 3793 MH/s when overclocked, and a power consumption of 216 watts (also overclocked). This is a pretty good hashrate/power consumption ratio. You'll see returns of nearly $1,000 per year. Remember, as the value of Decred rises, so do your projected earnings! 
+The [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} has a hashrate of 3793 MH/s when overclocked, and a power consumption of 216 watts (also overclocked). This is a pretty good hashrate/power consumption ratio. You'll see returns of nearly $1,000 per year. Remember, as the value of Decred rises, so do your projected earnings! 
 
 ## Decred Mining Profitability 
 
 Currently, Decred mining seems to be quite profitable. **In fact, with the popularity of Decred on the rise, it's probably a good idea to start mining now.**
 
-We used a mining calculator to project the annual return of the [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). Take a look: 
+We used a mining calculator to project the annual return of the [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Take a look: 
 
-<a href="https://whattomine.com/coins/152-dcr-blake-14r?utf8=%E2%9C%93&hr=3793&p=216&fee=0.0&cost=0.12&hcost=0.0&commit=Calculate"><img src="/img/cryptocurrency/decred-profit.png" /></a>
+<a target="_blank" href="https://whattomine.com/coins/152-dcr-blake-14r?utf8=%E2%9C%93&hr=3793&p=216&fee=0.0&cost=0.12&hcost=0.0&commit=Calculate"><img src="/img/cryptocurrency/decred-profit.png" /></a>
 
 You can use [this mining calculator](https://whattomine.com/coins/152-dcr-blake-14r?utf8=%E2%9C%93&hr=3793&p=216&fee=0.0&cost=0.12&hcost=0.0&commit=Calculate){:target="_blank"} to estimate your own mining performance. 
 
@@ -58,7 +58,7 @@ It is a multi-platform digtal cryptocurrency, and supports Windows, MacOS and Li
 
 ## Should You Invest in Decred? 
 
-The popularity of Decred is on the rise. **Here's 4 reasons why Decred is worth your time (and money!):**
+The popularity of Decred is on the rise. **Here's 4 reasons why Decred is worth your time and money:**
 
 **1.** It has a great development team, possibly one of the best in the space
 
@@ -77,16 +77,16 @@ That's the basic idea of a mining pool. A group of miners all mine together. Onc
 
 Here are some mining pools to consider: 
 
-* [Supernova](https://dcr.suprnova.cc/)
-* [CoinMine](https://www2.coinmine.pl/dcr/)
-* [Pool.MN](https://pool.mn/dcr/)
-* [DecredPool](http://www.decredpool.org/)
+* [Supernova](https://dcr.suprnova.cc/){:target="_blank"}
+* [CoinMine](https://www2.coinmine.pl/dcr/){:target="_blank"}
+* [Pool.MN](https://pool.mn/dcr/){:target="_blank"}
+* [DecredPool](http://www.decredpool.org/){:target="_blank"}
 
 ## How to Trade Decred for Other Cryptocurrencies & USD
 
 You're going to have to exchange your Decred for Bitcoin first. **Here's how:** 
 
-**Step 1.** Sign up for an account on an online exchange such as [Binance](https://www.binance.com/?ref=16557105).
+**Step 1.** Sign up for an account on an online exchange such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}.
 
 ![Binance Signup](/img/cryptocurrency/binance/signup.png)
 
