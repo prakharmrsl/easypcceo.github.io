@@ -56,7 +56,7 @@ Just make sure the PSU that you choose can provide at least 850 W with 9 6-pin P
 
 NOTE: It would take over 500 top tier graphics cards to equal the hashing power of one [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}! 
 
-### Expected Earnings w/ Antminer L3+ 
+## Expected Earnings w/ Antminer L3+ 
 ![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
 
 With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
