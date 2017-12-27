@@ -72,7 +72,7 @@ p {
 
 a {
   color: $blue;
-  text-decoration: underline;
+  text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
