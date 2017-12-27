@@ -14,9 +14,9 @@ There will only ever be 84 million Litecoins mined. Some may disagree, but many 
 
 One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute [block time](https://steemit.com/bitcoin/@ghayas/what-does-block-time-mean-in-cryptocurrency){:target="_blank"}.  
 
-For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses script, whereas Bitcoin uses the SHA-256 algorithm. 
+For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses scrypt, whereas Bitcoin uses the SHA-256 algorithm. 
 
-Script relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
+Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
 
 ## Should You Mine Litecoin?
 
