@@ -12,7 +12,7 @@ Litecoin is faster than [Bitcoin](/crypto-mining/bitcoin-hardware/), and focuses
 
 There will only ever be 84 million Litecoins mined. Some may disagree, but many draw the comparison that Litecoin is to Bitcoin as silver is to gold.
 
-One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute [block time](https://steemit.com/bitcoin/@ghayas/what-does-block-time-mean-in-cryptocurrency).  
+One of the key differences between Litecoin and [Bitcoin](/crypto-mining/bitcoin-hardware/) is the 2.5 minute time to generate a block, opposed to Bitcoin's 10 minute [block time](https://steemit.com/bitcoin/@ghayas/what-does-block-time-mean-in-cryptocurrency){:target="_blank"}.  
 
 For miners, Litecoin's different mining algorithm also plays a big part. Litecoin uses script, whereas Bitcoin uses the SHA-256 algorithm. 
 
@@ -24,9 +24,9 @@ While Litecoin mining is profitable, it may not be the best idea for those who a
 
 If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a sizable profit. 
 
-There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105) that allow you to buy and sell cryptocurrencies. You can buy Litecoin directly on their exchange. You can also convert the Litecoin you've mined into other cryptocurrencies, or sell it for USD.
+There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"} that allow you to buy and sell cryptocurrencies. You can buy Litecoin directly on their exchange. You can also convert the Litecoin you've mined into other cryptocurrencies, or sell it for USD.
 
-[Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+[Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
 ## The Best Litecoin Mining ASIC Hardware 
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
