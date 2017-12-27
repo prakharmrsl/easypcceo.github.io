@@ -112,6 +112,5 @@ While this miner has a great annual return, the [Radeon HD 7990](/crypto-mining/
 	
 </table>
 
-
 * TOC
 {:toc}
