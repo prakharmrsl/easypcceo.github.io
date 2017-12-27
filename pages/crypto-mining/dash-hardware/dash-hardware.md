@@ -27,7 +27,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="/crypto-mining/dash-hardware/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
+		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td><a target="_blank" href="/crypto-mining/dash-hardware/antminer-d3-review/">Antminer D3</a></td>
 		<td>15 GH/s</td>
 		<td>$2700</td>
