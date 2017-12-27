@@ -26,6 +26,17 @@ If you want cryptocurrency right now, it's probably better to buy it. You can bu
 
 [Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
+## Expected Earnings w/ Antminer L3+ 
+![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
+
+With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
+
+You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+
+Keep in mind that this Antminer does NOT come with a power supply. You can buy a power supply for this Antminer directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} as well.
+
+These are highly sought-after miners. They are often out of stock, and are shipped out in batches. Keep your eye out for the next batch that is expected to ship, and pre-order early. 
+
 ## The Best Litecoin Mining ASIC Hardware 
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
 
@@ -55,17 +66,6 @@ If you don't want this power supply and would prefer a more conventional power s
 Just make sure the PSU that you choose can provide at least 850 W with 9 6-pin PCI-E connectors, uses a single 12 V rail, and has a gold or platinum efficiency rating. 
 
 NOTE: It would take over 500 top tier graphics cards to equal the hashing power of one [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}! 
-
-## Expected Earnings w/ Antminer L3+ 
-![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
-
-With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
-
-You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
-
-Keep in mind that this Antminer does NOT come with a power supply. You can buy a power supply for this Antminer directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} as well.
-
-These are highly sought-after miners. They are often out of stock, and are shipped out in batches. Keep your eye out for the next batch that is expected to ship, and pre-order early. 
 
 ## Litecoin Mining Profitability 
 
