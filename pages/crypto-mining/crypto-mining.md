@@ -47,7 +47,9 @@ It allows for peer-to-peer messaging, and a generalized blockchain.
 
 The blockchain has a built in programming language. This allows people to use the blockchain for any kind of decentralized application. 
 
-It is online, and cryptographically secure. 
+It is online, and cryptographically secure. Similarly to [Vertcoin](/crypto-mining/vertcoin-hardware/), there aren't any ASICs designed for Ethereum. 
+
+Does this mean you can't make money? **Of course not!**
 
 **If you're mining with one of our suggested mining GPUs, you'll generate over $1,000 annually per card.** 
 

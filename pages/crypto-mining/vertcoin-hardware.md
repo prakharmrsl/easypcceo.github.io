@@ -82,5 +82,17 @@ That's the basic idea of a mining pool. A group of miners all mine together. Onc
 
 We strongly recommend checking out a Vertcoin mining pool. It's a great way to maximize your earnings.
 
+## A Decentralized Cryptocurrency 
+
+Vertcoin is decentralized, and was designed to resist centralization. 
+
+As mentioned previously, it can't be mined with an ASIC. Because of this, your average Joe can mine Vertcoin. Each change will be validated by the Vertcoin network which is widely distributed. 
+
+The Vertcoin dev team works hard to prevent the creation of an ASIC for Vertcoin. They also want to insure regular GPUs (GTX 1070, 1080, etc.) can be used to mine effectively. This allows the average person to mine, instead of huge 
+
+## Vertcoin Wallets
+
+You'll need to download a wallet to your computer or use a wallet on an exchange like [Binance](https://www.binance.com/?ref=16557105) or Bitrex. We recommend downloading your own wallet, as it's more secure. You won't have the private keys to your wallet on an exchange. You can read more about [Vertcoin wallets here](https://www.cryptoking.io/wallets/vertcoin/). 
+
 * TOC
 {:toc}

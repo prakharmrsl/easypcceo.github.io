@@ -15,7 +15,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 
 ## Best Monero Mining Hardware 
 
-Comparitively to [Ethereum](/crypto-mining/ethereum-hardware), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"}s for mining Monero. 
+Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"}s for mining Monero. 
 
 However, there are other viable options. Your CPU and GPU can both be utilized to mine. 
 
