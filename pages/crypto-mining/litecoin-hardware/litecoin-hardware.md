@@ -18,14 +18,6 @@ For miners, Litecoin's different mining algorithm also plays a big part. Litecoi
 
 Script relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. 
 
-## How to Maximize Your Litecoin Mining Profits
-
-In order to maximize your mining profits, choose a currency that's easy to mine. Instead of trying to mine a difficult algorithm like Bitcoin, you can mine easier cryptocurrencies. Use [What to Mine](https://whattomine.com/) to figure out the right cryptocurrency for you. 
-
-Then, simply convert your mined currency into Bitcoin or any other currency you like. You can do so using [Binance](https://www.binance.com/?ref=16557105), an online cryptocurrency exchange. This way, you'll maximize your profits.  
-
-[Sign up for Binance](https://www.binance.com/?ref=16557105){: .big-button}
-
 ## Should You Mine Litecoin?
 
 While Litecoin mining is profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
