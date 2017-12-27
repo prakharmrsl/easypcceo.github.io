@@ -20,11 +20,9 @@ Script relies heavily on lots of high-speed Ram, and is often referred to as the
 
 ## Should You Mine Litecoin?
 
-While Litecoin mining is profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
+While Litecoin mining is **VERY** profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
 
-If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a sizable profit. 
-
-There are awesome exchanges online such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"} that allow you to buy and sell cryptocurrencies. You can buy Litecoin directly on their exchange. You can also convert the Litecoin you've mined into other cryptocurrencies, or sell it for USD.
+If you want cryptocurrency right now, it's probably better to buy it. You can buy it directly from an exchange like Coinbase without having to invest in mining hardware. 
 
 [Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
@@ -34,7 +32,7 @@ There are awesome exchanges online such as [Binance](https://www.binance.com/?re
 
 If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"} is probably the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
-This miner is the fastest Litecoin mining ASIC on the market today. It can mine at a speed of 504 MH/s with a max power consumption of 800 W.
+This miner is the fastest Litecoin mining ASIC on the market today. It can mine at a speed of **504 MH/s** with a max power consumption of **800 W**.
 
 As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Zcash](/crypto-mining/zcash-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors.
 
@@ -42,9 +40,8 @@ This Antminer is very similar to the Antminer S9 series. However, it is a bit ta
 
 Each hashing board requires two PCI-E power connections and one forward controller. That makes nine power connections total. 
 
-While mining Litecoin may be profitable, **Dash mining with the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) is still the most profitable cryptocurrency to mine!** 
+[Shop for Antminer L3+ at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
-[Buy the Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 ## Powering the Antminer L3+
 
 It is important to buy the right power supply for this miner, as it does not ship with a power supply included. 
@@ -64,23 +61,21 @@ NOTE: It would take over 500 top tier graphics cards to equal the hashing power 
 
 With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
 
-You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} or from [Bitmain](https://shop.bitmain.com/productDetail.htm?pid=00020170527035042898QfL59MbG0666){:target="_blank"}.
+You can buy one directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
-Keep in mind that this Antminer does NOT come with a power supply. You can buy a power supply for this Antminer directly from [Amazon](https://www.amazon.com/gp/product/B00SOXNKAM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00SOXNKAM&linkCode=as2&tag=cryptocurrency06-20&linkId=de2675c9e53e633c7b9ee74a8e67e76f), [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} or Bitmain.
+Keep in mind that this Antminer does NOT come with a power supply. You can buy a power supply for this Antminer directly from [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=apw5+power+supply&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} as well.
 
 These are highly sought-after miners. They are often out of stock, and are shipped out in batches. Keep your eye out for the next batch that is expected to ship, and pre-order early. 
 
 ## Litecoin Mining Profitability 
 
-Trying to begin mining for Litecoin today can prove to be very difficult. With Startup costs and electricity bills, some might stay away from mining altogether. 
-
-However, using the Antminer L3+, mining Litecoin is very profitable. 
+**Using the Antminer L3+, mining Litecoin is very profitable**. 
 
 ![Litecoin Profit](/img/cryptocurrency/litecoin-profit.png "Antminer L3+ Profit")
 
-With the current price of Litecoin, you'll make your money back in just one month with this miner. If left running 24/7, you'll generate a passive income of $15,341.15 annually per miner. This is after the cost of electricity. 
+With the current price of Litecoin, you'll make your money back within a year of buying this miner. **You'll generate nearly $6,000 annually with each one**.
 
-If you choose to invest in more than one miner, you could potentially generate lots of revenue each year. 
+If you choose to invest in more than one miner, you could potentially generate lots more revenue each year. 
 
 That being said, using the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a profitable option. 
 
