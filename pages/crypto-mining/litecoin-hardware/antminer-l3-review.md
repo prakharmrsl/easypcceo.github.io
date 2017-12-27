@@ -70,7 +70,7 @@ This miner has a hash rate of 504 MH/s. This is pretty high, yielding a daily re
 
 You can find the Antminer L3+ for around $4,300 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
-Considering the ROI of nearly $6,000 {:target="_blank"}{:target="_blank"}{:target="_blank"}{:target="_blank"}.annually, we recommend you purchase an Antminer L3+ right away. 
+Considering the ROI of nearly $6,000 annually, we recommend you purchase an Antminer L3+ right away. 
 
 ## Your Profitability with the Antminer L3+ 
 
