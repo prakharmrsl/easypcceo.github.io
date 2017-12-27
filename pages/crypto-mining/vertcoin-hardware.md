@@ -79,3 +79,8 @@ That's the basic idea of a mining pool. A group of miners all mine together. Onc
 * [Vertcoin Pool](https://poolmining.org/pool/vtc)
 * [VTC Mining Pool Hub](https://vertcoin.miningpoolhub.com/)
 * [Verters Pool](https://pool.verters.com/)
+
+We strongly recommend checking out a Vertcoin mining pool. It's a great way to maximize your earnings.
+
+* TOC
+{:toc}
