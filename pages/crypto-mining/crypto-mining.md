@@ -49,6 +49,8 @@ The blockchain has a built in programming language. This allows people to use th
 
 It is online, and cryptographically secure. 
 
+**If you're mining with one of our suggested mining GPUs, you'll generate over $1,000 annually per card.** 
+
 [View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
 
 ### 3. Litecoin 

@@ -15,23 +15,21 @@ Before you invest your money in a great [Ethereum mining rig](http://rover.ebay.
 
 While Ethereum mining is profitable, it may not be the best idea for those simply looking to acquire currency. 
 
-If you just want cryptocurrency, it is probably a better idea to buy it. Mining hardware is very expensive, and unless you are mining on a large scale, it's hard to turn a profit.
+**For those looking to acquire cryptocurrency right now, buying Ethereum is a better investment.**
 
-**For those looking to acquire cryptocurrency, buying Bitcoin is a better investment.**
-
-[Buy Bitcoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+[Buy Etherum from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
 
 ## Is Ethereum Mining Profitable? 
 
-The answer is yes. Ethereum can be mined with power efficient GPUs. On top of this, the value of Ethereum is steadily on the rise. 
+**The answer is yes**. Ethereum can be mined with power efficient GPUs. On top of this, the value of Ethereum is steadily on the rise. 
 
 Both of these factors are fantastic reasons to mine Ethereum. 
 
 Take a look at the graphic below: 
 
-![Ethereum Mining Profitability](/img/cryptocurrency/ethereum-mining-profitability.png)
+![Ethereum Mining Profitability](/img/cryptocurrency/r9-295-x2-review/profit.png)
 
-This is the projected mining profitability of the [Radeon R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295+X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). As you can see, you'll make over $800 USD annually per card. This means you'll break even in less than a year and generate passive income. 
+This is the projected mining profitability of the [Radeon R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114720&customid=&icep_uq=Radeon+R9+295+X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. As you can see, **you'll make over $1000 USD annually per card.** This means you'll break even in less than a year and generate passive income. 
 
 Since the price of Ethereum is steadily rising, your profit margin will increase even more. 
 
