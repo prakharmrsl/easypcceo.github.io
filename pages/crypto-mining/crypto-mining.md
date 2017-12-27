@@ -25,7 +25,7 @@ In today's economy, every transaction we make must go through a bank or credit c
 
 They take a cut of the transaction, and we must believe that they won't make a mistake. 
 
-That's where <a href="https://bitcoin.org/en/">Bitcoin</a> comes in. 
+That's where <a target="_blank" href="https://bitcoin.org/en/">Bitcoin</a> comes in. 
 
 At the heart of bitcoin, there is a mathematical problem. Miners solve these problems.
 
@@ -54,7 +54,7 @@ It is online, and cryptographically secure.
 ### 3. Litecoin 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
 
-<a href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, only 84 million. 
+<a target="_blank" href="https://litecoin.org/">Litecoin</a> is a decentralized cryptocurrency. There is a finite amount in existence, only 84 million. 
 
 It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
 
@@ -67,7 +67,7 @@ Lastly, it can be spent on almost anything.
 
 ![DASH](/img/cryptocurrency/dash.jpg "DASH"){: .img-right .img-small}
 
-<a href="https://www.dash.org/">Dash</a> is the first form of digital cash that works like physical cash. 
+<a target="_blank" href="https://www.dash.org/">Dash</a> is the first form of digital cash that works like physical cash. 
 
 You hold your own money, maintaining full control. You maintain total privacy, and your transactions can't be tracked. 
 
@@ -90,7 +90,7 @@ Fees are virtually non-exisistent, as you control your own money.
 
 ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
-<a href="https://z.cash/">Zcash</a> is based on <a href="https://bitcoin.org/en/">Bitcoin</a>, but has one key difference: 
+<a target="_blank" href="https://z.cash/">Zcash</a> is based on <a target="_blank" href="https://bitcoin.org/en/">Bitcoin</a>, but has one key difference: 
 
 Unlike bitcoin, Zcash gives the user the option to encrypt the transaction. 
 

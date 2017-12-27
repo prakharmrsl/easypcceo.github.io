@@ -7,7 +7,7 @@ seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2017"
 
 ## Ethereum Mining Hardware 
 
-In order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit) (Graphics Processing Unit). Originally, the CPU was used for mining, but miners quickly discovered the GPU was far more efficient and effective for mining. 
+In order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit){:target="_blank"} (Graphics Processing Unit). Originally, the CPU was used for mining, but miners quickly discovered the GPU was far more efficient and effective for mining. 
 
 ![Ethereum Logo](/img/cryptocurrency/ethereum-logo.png){: .img-right .img-small}
 
@@ -24,26 +24,26 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
-		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
+		<td><a target="_blank" href="/crypto-mining/ethereum-hardware/r9-295-x2-review/"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
+		<td><a target="_blank" href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
 		<td>46 MH/s</td>
 		<td>$600</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
-		<td><a href="/crypto-mining/ethereum-hardware/radeon-rx-480-review/">Radeon RX 480</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
+		<td><a target="_blank" href="/crypto-mining/ethereum-hardware/radeon-rx-480-review/">Radeon RX 480</a></td>
 		<td>25 MH/s</td>
 		<td>$300</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
-		<td><a href="/crypto-mining/ethereum-hardware/radeon-hd-7990-review/">Radeon HD 7990</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
+		<td><a target="_blank" href="/crypto-mining/ethereum-hardware/radeon-hd-7990-review/">Radeon HD 7990</a></td>
 		<td>36 MH/s</td>
 		<td>$350</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	
@@ -51,9 +51,9 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 
 ## Trading Your Ethereum 
 
-If you want to convert your Ethereum into any other cryptocurrency, you can do so on an exchange such as [Binance](https://www.binance.com/?ref=16557105). This platform allows you to convert your Ethereum into Bitcoin, Litecoin, and other alternative cryptocurrencies. 
+If you want to convert your Ethereum into any other cryptocurrency, you can do so on an exchange such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}. This platform allows you to convert your Ethereum into Bitcoin, Litecoin, and other alternative cryptocurrencies. 
 
-[Trade on Binance](https://www.binance.com/?ref=16557105){: .big-button}
+[Trade on Binance](https://www.binance.com/?ref=16557105){: .big-button target="_blank"}
 
 ## Should you Mine Ethereum? 
 
@@ -63,7 +63,7 @@ Mining hardware is very expensive, and unless you are mining on a large scale, i
 
 **Buy $100+ of Ethereum and get $10 of Bitcoin free. Just click the button below!**
 
-[Buy Ethereum from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button}
+[Buy Ethereum from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
 ## Ethereum Mining Profitability 
 
@@ -89,7 +89,7 @@ This video will teach you how to begin mining Ethereum:
 
 Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
 
-However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/).
+However, regular GPUs can be used to mine Ethereum. In 2017, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/){:target="_blank"}.
 
 Below are the 3 best Ethereum mining GPUs:
 
@@ -107,7 +107,7 @@ A powerful alternative to the R9 295X2, the [Radeon HD 7990](/crypto-mining/ethe
 
 ### Radeon RX 480 
 
-Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $280.40 USD annually per card.
+Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is not only the cheapest GPU in this list, it is also easily the most economic GPU. This card has a hash rate of 25 MH/s while only drawing 150 W at max load. You'll make $280.40 USD annually per card.
 
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-rx-480-review/){: .big-button}
 
@@ -118,17 +118,17 @@ Proof-of-work is the method used to mine Ethereum. Essentialy, your mining hardw
 
 That being said, the more powerful your mining hardware is the more likely you are to successfully mine Ether, and in turn generate a profit. If you use one of the three GPUs mentioned above, you're off to a good start. 
 
-Using common sense, it is obvious that one Ethereum mining GPU won't be as effective as two. Two won't be as effective as three, so on and so forth. With this in mind, it's time to think about [Ethereum mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). 
+Using common sense, it is obvious that one Ethereum mining GPU won't be as effective as two. Two won't be as effective as three, so on and so forth. With this in mind, it's time to think about [Ethereum mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. 
 
 An Ethereum mining rig is a configuration of two or more Ethereum mining GPUs. In most cases a rig consists of four or more GPUs. Obviously they're more expensive than one GPU, but they also have far superior hashing power. At the end of the day, they're well worth the investment. Sometimes, it's better to buy a few cheaper, less powerful GPUs. For example, the [GTX 1050 Ti](/crypto-mining/gtx-1050ti-review/) doesn't have a very high hashrate. However, it doesn't consume much power either. In fact, four 1050 Ti's is the same price as one R9 295X2 and they have a higher profit ratio. 
 
-[Shop Ethereum mining rigs on eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Shop Ethereum mining rigs on eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ## What is Ethereum? 
 
-Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/), much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
+Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/){:target="_blank"}, much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
 
-Ethereum is a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/).
+Ethereum is a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/){:target="_blank"}.
 
 There are real figure heads who run Ethereum, unlike Bitcoin, which is owned by nobody. Ethereum also features decentralized apps. The Ethereum blockchain is the base, and other people can build decentralized blockchains on top of Ethereum. 
 
@@ -138,7 +138,7 @@ In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders 
 
 ## Benefits of Mining Ethereum
 
-Ethereum is projected to increase in value even more than it already has. Mining is a great way to generate [passive income](http://www.investopedia.com/terms/p/passiveincome.asp). 
+Ethereum is projected to increase in value even more than it already has. Mining is a great way to generate [passive income](http://www.investopedia.com/terms/p/passiveincome.asp){:target="_blank"}. 
 
 Look at it this way: 
 
@@ -157,7 +157,7 @@ A smart contract is computer code that is built into the blockchain network that
 * TOC
 {:toc}
 
-[Ameer Rosic](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ) uses 'if this than that' logic to explain smart contracts. If we create a code online on the blockchain, and someone puts money into the contract, the next action will be executed. This may be a digital contract being sent to somebody's email, for example. This trigger may execute something else, so on and so on.  
+[Ameer Rosic](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ){:target="_blank"} uses 'if this than that' logic to explain smart contracts. If we create a code online on the blockchain, and someone puts money into the contract, the next action will be executed. This may be a digital contract being sent to somebody's email, for example. This trigger may execute something else, so on and so on.  
 
 He uses a vending machine as a real life example. You input the code B6 into the vending machine. The vending machine takes this code, and then executes the code. The candy bar labled B6 is then dispensed. 
 
@@ -175,7 +175,7 @@ This process will take a while. Imagine if instead, this whole process was on a 
 
 A car could be uploaded to the blockchain. You, the customer, sees the car. You want to buy the car, and since it's on the blockchain with a smart contract, you can buy it instantaneously. You pay with crypto, and the car is bought in real time. Everything is executed on the smart contract. You now own the title and all information about the car. 
 
-It is easy to see how revolutionary this technology is, and how crucial it is to [invest in Ethereum now](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ).
+It is easy to see how revolutionary this technology is, and how crucial it is to [invest in Ethereum now](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ){:target="_blank"}.
 
 ## Investing in Ethereum 
 
@@ -185,7 +185,7 @@ Many people want Ethereum but become frustrated when mining doesn't yield the am
 
 The easiest way to acquire Ethereum and Ethereum Classic is to purchase it. 
 
-[You can start investing here](https://www.youtube.com/channel/UCaPSoa3hoxgouMd8YdlUwXQ)
+[You can start investing here](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
 ## Ethereum vs. Bitcoin 
 
