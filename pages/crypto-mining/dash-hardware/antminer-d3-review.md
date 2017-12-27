@@ -7,17 +7,17 @@ seotitle: "Antminer D3 Review: Buy This Miner?"
 
 **Pros**
 
-* Price (considering the ROI, it's a steal!)
 * Hash Rate (15 GH/s is astronomically high!)
 * Power consumption 
 
 **Cons**
 
 * Doesn't include PSU
+* Price
 
-Our rating: **5/5**
+Our rating: **4/5**
 
-[Buy Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
+[Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ## Dash Mining in 2017
 
@@ -31,7 +31,7 @@ Dash mining is extremely profitable, as long as you have proper Dash mining hard
 
 Today we're taking a look at the newest and most profitable X11 Dash Miner. With this ASIC miner, you'll see an incredible return on your investment, shown below: 
 
-![Antminer D3 Profit](/img/cryptocurrency/antminer-d3-review/d3-profit.png)
+![Antminer D3 Profit](/img/cryptocurrency/dash-profit.png)
 
 ## The Best (and most profitable) Dash Miner on the Market
 
@@ -52,9 +52,9 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
 		<td>15 GH/s</td>
 		<td>1200 W</td>
-		<td>47%</td>
-		<td>$2,700</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a></td>
+		<td>101%</td>
+		<td>$1,200</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -69,7 +69,7 @@ This miner has a hash rate of 15 GH/s. The hash rate is astronomically high, yie
 
 ## Price
 
-You can find the Antminer D3 for $2,000 on [Amazon](http://amzn.to/2wn6YoE){:target="_blank"}. While this is a bit on the high side, it's well worth your investment. If it's out of stock on Amazon, you can probably find it on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} too.
+You can find the Antminer D3 around $1,200 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
 This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself very quickly. 
 
