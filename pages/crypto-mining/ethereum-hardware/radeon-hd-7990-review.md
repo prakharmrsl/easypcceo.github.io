@@ -31,7 +31,7 @@ It's a profitable currency to mine, especially with the [Radeon R9 295X2](http:/
 
 Today we're taking a look at your projected earnings with the [Radeon HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+HD+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
-![Profit](/img/cryptocurrency/hd-7990-review/profit.png)
+![Profit](/img/cryptocurrency/hd-7990-review/profit1.png)
 
 ## The Best Budget Ethereum Mining GPU on the Market
 
