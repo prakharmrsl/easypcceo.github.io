@@ -24,35 +24,35 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 		<td>Extreme Budget Gamer</td>
 		<td><img class="table-image" src="/img/case/cougar mx200.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/400/">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1">Add to Cart</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
 		<td>Perfect Balance</td>
 		<td><img class="table-image" src="/img/case/nzxt s340.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/500/">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1">Add to Cart</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
 		<td>Stealth Gamer</td>
 		<td><img class="table-image" src="/img/case/cuboid-r1png.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/600/">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1">Add to Cart</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
 		<td>Phoenix</td>
 		<td><img class="table-image" src="/img/case/bitfenix-comrade.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/700/">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1">Add to Cart</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
 		<td>Monster</td>
 		<td><img class="table-image" src="/img/case/nzxt-s340-black.png" /></td>
 		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1">Add to Cart</a></td>
 		
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 		<td>Prebuilt PC</td>
 		<td><img class="table-image" src="/img/misc/prebuilt/inspiron-3650.png" /></td>
 		<td><a class="big-button" href="#viable-prebuilt-option">View</a></td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B019TTJD6O&Quantity.1=1&ASIN.2=B01MCU1ERO&Quantity.2=1">Add to Cart</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B019TTJD6O&Quantity.1=1&ASIN.2=B01MCU1ERO&Quantity.2=1">Add to Cart</a></td>
 	</tr>
 </table>
 </div>
@@ -81,37 +81,37 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	<tr>
 		<td><b>CPU</b></td>
 		<td>Intel Pentium G4560</td>
-		<td><a class="big-button" href="http://amzn.to/2xpDb2e">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpDb2e">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
 		<td>MSI Pro Series Intel B250</td>
-		<td><a class="big-button" href="http://amzn.to/2yOgqBj">Buy</a></td>	
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2yOgqBj">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
 		<td>Corsair Vengeance LPX 4GB DDR4-2400</td>
-		<td><a class="big-button" href="http://amzn.to/2z5K8ms">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2z5K8ms">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
 		<td>Seagate 500 GB Pipeline</td>
-		<td><a class="big-button" href="http://amzn.to/2y71Zea">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y71Zea">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
 		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
-		<td><a class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
 		<td>EVGA 450W</td>
-		<td><a class="big-button" href="http://amzn.to/2xpDV7w">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpDV7w">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">View</a></td>
@@ -119,7 +119,7 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 ## The Perfect Balance ($500) 
@@ -134,37 +134,37 @@ You are still spending a relatively small amount on the PC, but it is still enou
 	<tr>
 		<td><b>CPU</b></td>
 		<td>Ryzen 3 1200</td>
-		<td><a class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
 		<td>ASRock - AB350M Micro ATX</td>
-		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
 		<td>Ballistix Sport LT 8GB DDR4-2400 MHz</td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
 		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
 		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
-		<td><a class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
 		<td>EVGA 400W</td>
-		<td><a class="big-button" href="http://amzn.to/2xoDISb">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xoDISb">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>NZXT S340 (White)</td>
-		<td><a class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/500/">View</a></td>
@@ -172,7 +172,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
 ## The Stealth Gamer ($600) 
 ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
@@ -186,37 +186,37 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 	<tr>
 		<td><b>CPU</b></td>
 		<td>Ryzen 3 1200</td>
-		<td><a class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
 		<td>ASRock - AB350M Micro ATX</td>
-		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
 		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
 		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
 		<td>ASUS GeForce GTX 1060 3GB Dual-Fan</td>
-		<td><a class="big-button" href="http://amzn.to/2xpy913">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpy913">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
 		<td>EVGA 450W</td>
-		<td><a class="big-button" href="http://amzn.to/2z7dMaW">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2z7dMaW">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>DIYPC - Cuboid-R</td>
-		<td><a class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/600/">View</a></td>
@@ -224,7 +224,7 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
 
 ![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
 ## The Phoenix ($700)
@@ -235,37 +235,37 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 	<tr>
 		<td><b>CPU</b></td>
 		<td>Ryzen 5 1400</td>
-		<td><a class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
 		<td>ASRock - AB350M Micro ATX</td>
-		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
 		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
 		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
 		<td>EVGA GeForce GTX 1060 6GB SC GAMING Edition</td>
-		<td><a class="big-button" href="http://amzn.to/2z5rmvohttp://amzn.to/2y6t4hw">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2z5rmvohttp://amzn.to/2y6t4hw">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
 		<td>EVGA 430W</td>
-		<td><a class="big-button" href="http://amzn.to/2xqv9Gi">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xqv9Gi">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>Bitfenix - Comrade</td>
-		<td><a class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/700/">View</a></td>
@@ -273,7 +273,7 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
 
 
 ![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
@@ -289,37 +289,37 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 	<tr>
 		<td><b>CPU</b></td>
 		<td>Ryzen 5 1400</td>
-		<td><a class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
 		<td>ASRock - AB350M Micro ATX</td>
-		<td><a class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
 		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
 		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
 		<td>Zotac - GeForce GTX 1070 8GB Mini</td>
-		<td><a class="big-button" href="http://amzn.to/2yxZt29">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2yxZt29">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
 		<td>EVGA 450W</td>
-		<td><a class="big-button" href="http://amzn.to/2ywGghh">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywGghh">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>NZXT S340 (Black)</td>
-		<td><a class="big-button" href="http://amzn.to/2ywq5QS">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywq5QS">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/800/">View</a></td>
@@ -327,7 +327,7 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
 
 ## The Full Guide
 
@@ -396,9 +396,9 @@ Can you built a budget prebuilt gaming pc?
 
 The answer is yes.
 
-The [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) is a great option.
+The [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"}{:target="_blank"} is a great option.
 
-You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277) for just $340. 
+You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"} for just $340. 
 
 ![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.jpg){: .img-right .img-small}
 
@@ -410,11 +410,11 @@ The PC features:
 
 This PC comes without a GPU. Don't worry, this problem is easily solved. 
 
-There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg). You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) for a low cost. 
+There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for a low cost. 
 
 After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for around $500 or less. This PC can easily game at 1080p. 
 
-[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button}
+[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button target="_blank"}
 
 ## Advantages of PC Gaming 
 
@@ -479,9 +479,9 @@ That being said, it doesn't have to be expensive. In fact, there are other hidde
 
 First of all, unlike Xbox Live, you don't need to pay for steam. The membership is free. 
 
-Speaking of Steam, they have *amazing* deals. The Steam Summer and Winter sales are absolutely insane. You can find popular AAA titles at least 50% off. There are also lots of fun [free to play games](https://www.pcinvasion.com/the-best-free-pc-games). 
+Speaking of Steam, they have *amazing* deals. The Steam Summer and Winter sales are absolutely insane. You can find popular AAA titles at least 50% off. There are also lots of fun [free to play games](https://www.pcinvasion.com/the-best-free-pc-games){:target="_blank"}. 
 
-There are also websites such as [G2A.com](https://www.g2a.com/) where you can find games even cheaper than Steam. If you account for these factors, PC gaming can easily be cheaper than console gaming over the course of a year or so. 
+There are also websites such as [G2A.com](https://www.g2a.com/){:target="_blank"} where you can find games even cheaper than Steam. If you account for these factors, PC gaming can easily be cheaper than console gaming over the course of a year or so. 
 
 ### Mature Community 
 
@@ -503,7 +503,7 @@ eBay is an excellent tool if you know how to use it. If you follow this step by 
 
 The first step to building a dirt cheap gaming PC is finding an old desktop on eBay. 
 
-[View Desktop PCs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center}
+[View Desktop PCs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center target="_blank"}
 
 You're going to have to filter through lots of desktops. This may take some time. 
 
@@ -550,9 +550,9 @@ This is why we purchased an older desktop PC and salvaged the parts. The older c
 
 That being said, finding the right GPU is important. 
 
-Return to eBay, and search for your GPU of choice. For this example, we'll use the [GeForce GTX 1050 ti](https://www.amazon.com/gp/product/B01MF7EQJZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MF7EQJZ&linkCode=as2&tag=flarp0c-20&linkId=b30aa04fcbfda1074ebc6672538b4918). This GPU is powerful, cheap, and great for a low end budget. 
+Return to eBay, and search for your GPU of choice. For this example, we'll use the [GeForce GTX 1050 ti](https://www.amazon.com/gp/product/B01MF7EQJZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MF7EQJZ&linkCode=as2&tag=flarp0c-20&linkId=b30aa04fcbfda1074ebc6672538b4918){:target="_blank"}. This GPU is powerful, cheap, and great for a low end budget. 
 
-[View GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=gtx+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center}
+[View GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=gtx+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center target="_blank"}
 
 Don't be afraid to buy a used GPU. I've bought many used GPUs on eBay with no problem at all. Just read the reviews of the seller and make sure they're trusted. 
 
@@ -688,7 +688,7 @@ You could probably salvage an optical drive, hard drive, case, power supply, and
 
 Even if you don't have an old desktop laying around, you could buy one on eBay. This brings us to our next point. 
 
-[Salvage Old Parts](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Salvage Old Parts](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ### Buy used parts
 
@@ -708,7 +708,7 @@ Why?
 
 Any well optimized title will harness the power of the GPU over the CPU. As long as your CPU can keep up, you can focus your money on the GPU. 
 
-[View Budget Gaming CPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=Pentium+G4560&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[View Budget Gaming CPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=Pentium+G4560&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ### Focus on the GPU 
 
@@ -718,7 +718,7 @@ If you're on a budget, you should cut corners elsewhere and focus that money tow
 
 We recommend the GTX 1050 ti as the best budget gaming GPU. 
 
-[View GTX 1050 ti on Amazon](http://amzn.to/2xb0SXA){: .big-button}
+[View GTX 1050 ti on Amazon](http://amzn.to/2xb0SXA){: .big-button target="_blank"}
 
 ### Look for Deals
 
