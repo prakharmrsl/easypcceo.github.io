@@ -81,6 +81,8 @@ Fees are virtually non-exisistent, as you control your own money.
 
 [Dash](/crypto-mining/dash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), and [Monero](/crypto-mining/monero-hardware/) **are the MOST profitable currencies to mine!** 
 
+**If you mine with one of the ASICs specified in our guide, you'll generate over $1,000 per year.**
+
 [View Dash mining graphics cards here](/crypto-mining/dash-hardware/){: .big-button}
 
 ![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
