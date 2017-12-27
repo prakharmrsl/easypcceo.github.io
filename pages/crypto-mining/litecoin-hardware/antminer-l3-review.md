@@ -17,7 +17,7 @@ seotitle: "Antminer L3+ Review: Buy This Miner?"
 
 Our rating: **5/5**
 
-[Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+[Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ## Litecoin Mining in 2017
 
