@@ -24,28 +24,28 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/acer-k272hul-review/">Acer K272HUL</a></td>
 		<td>27"; IPS; 60 Hz; 1 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2zGjIYX">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2BB6oJ1"><img class="table-image" src="/img/1440p-monitors/pixio.png" /></a></td>
-		<td><a href="http://amzn.to/2BB6oJ1">Pixio PX277</a></td>
+		<td><a target="_blank" href="http://amzn.to/2BB6oJ1"><img class="table-image" src="/img/1440p-monitors/pixio.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2BB6oJ1">Pixio PX277</a></td>
 		<td>27"; IPS; 144 Hz; 4 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2BB6oJ1">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kkoLY6"><img class="table-image" src="/img/1440p-monitors/benq.png" /></a></td>
-		<td><a href="http://amzn.to/2kkoLY6">BenQ GW Series GW2765HT</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kkoLY6"><img class="table-image" src="/img/1440p-monitors/benq.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kkoLY6">BenQ GW Series GW2765HT</a></td>
 		<td>27"; IPS; 60Hz; 4ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2iOcieR">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/benq-zowie-xl2730-review/">BenQ ZOWIE XL2730</a></td>
 		<td>27"; TN; 144Hz; 1ms; FreeSync</td>
 		<td>5/5</td>
@@ -53,127 +53,127 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 		
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2yYkrYs"><img class="table-image" src="/img/1440p-monitors/rog.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2yYkrYs"><img class="table-image" src="/img/1440p-monitors/rog.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/">ASUS ROG SWIFT PG348Q</a></td>
 		<td>34"; Curved; IPS; 100Hz; 5ms; G-Sync</td>
 		<td>3.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2yYkrYs">Check Price</a></td>
 	</tr>	
 	<tr>
-		<td><a href="http://amzn.to/2ifHR4B"><img class="table-image" src="/img/1440p-monitors/asus-mx27aq.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ifHR4B"><img class="table-image" src="/img/1440p-monitors/asus-mx27aq.png" /></a></td>
 		<td><a href="#asus-designo-mx27aq---420">ASUS Designo MX27AQ</a></td>
 		<td>27"; IPS; 144Hz; 1 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ifHR4B">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2B76gRZ"><img class="table-image" src="/img/1440p-monitors/lg.png" /></a></td>
-		<td><a href="http://amzn.to/2B76gRZ">LG 27UD68P</a></td>
+		<td><a target="_blank" href="http://amzn.to/2B76gRZ"><img class="table-image" src="/img/1440p-monitors/lg.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2B76gRZ">LG 27UD68P</a></td>
 		<td>27"; IPS; 60Hz; 4 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2B76gRZ">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2ATaFqs"><img class="table-image" src="/img/1440p-monitors/xg270.png" /></a></td>
-		<td><a href="http://amzn.to/2ATaFqs">Acer XG270HU</a></td>
+		<td><a target="_blank" href="http://amzn.to/2ATaFqs"><img class="table-image" src="/img/1440p-monitors/xg270.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ATaFqs">Acer XG270HU</a></td>
 		<td>27"; TN; 144Hz ; 6 ms</td>
 		<td>4.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2ncrqYj"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ncrqYj"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
 		<td><a href="#dell-ultrasharp-u2515hx---330">Dell UltraSharp U2515Hx</a></td>
 		<td>25" ; IPS ; 60 Hz ; 6 ms</td>
 		<td>4.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2AGXWIq"><img class="table-image" src="/img/1440p-monitors/samsung-s32.png" /></a></td>
-		<td><a href="http://amzn.to/2AGXWIq">Samsung S32D850T</a></td>
+		<td><a target="_blank" href="http://amzn.to/2AGXWIq"><img class="table-image" src="/img/1440p-monitors/samsung-s32.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2AGXWIq">Samsung S32D850T</a></td>
 		<td>32"; VA; 60Hz; 5 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2AGXWIq">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2ks9y7n"><img class="table-image" src="/img/1440p-monitors/asus-mg.png" /></a></td>
-		<td><a href="http://amzn.to/2ks9y7n">ASUS MG279Q</a></td>
+		<td><a target="_blank" href="http://amzn.to/2ks9y7n"><img class="table-image" src="/img/1440p-monitors/asus-mg.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ks9y7n">ASUS MG279Q</a></td>
 		<td>27"; IPS; 144Hz; 4 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2ks9y7n">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2BnjlWx"><img class="table-image" src="/img/1440p-monitors/swift.png" /></a></td>
-		<td><a href="http://amzn.to/2BnjlWx">ASUS ROG SWIFT PG279Q</a></td>
+		<td><a target="_blank" href="http://amzn.to/2BnjlWx"><img class="table-image" src="/img/1440p-monitors/swift.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2BnjlWx">ASUS ROG SWIFT PG279Q</a></td>
 		<td>27"; IPS; 165Hz; 4 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2BnjlWx">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kELUUW"><img class="table-image" src="/img/1440p-monitors/xg.png" /></a></td>
-		<td><a href="http://amzn.to/2kELUUW">ViewSonic XG2703-GS</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kELUUW"><img class="table-image" src="/img/1440p-monitors/xg.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kELUUW">ViewSonic XG2703-GS</a></td>
 		<td>27"; IPS; 165Hz; 4 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2kELUUW">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/samsung.png" /></a></td>
-		<td><a href="http://amzn.to/2yMiwRW">Samsung CF791 Series</a></td>
+		<td><a target="_blank" href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/samsung.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2yMiwRW">Samsung CF791 Series</a></td>
 		<td>34"; VA; 100Hz; 4 ms</td>
 		<td>4.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2yMiwRW">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2zjqaqy"><img class="table-image" src="/img/1440p-monitors/designo.png" /></a></td>
-		<td><a href="http://amzn.to/2zjqaqy">ASUS Designo MX34VQ</a></td>
+		<td><a target="_blank" href="http://amzn.to/2zjqaqy"><img class="table-image" src="/img/1440p-monitors/designo.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2zjqaqy">ASUS Designo MX34VQ</a></td>
 		<td>34"; VA; 60Hz; 4 ms</td>
 		<td>4/5</td>
 		<td><a class="big-button" href="http://amzn.to/2zjqaqy">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2yQ1oed"><img class="table-image" src="/img/1440p-monitors/aoc.png" /></a></td>
-		<td><a href="http://amzn.to/2yQ1oed">AOC Agon AG352UCG</a></td>
+		<td><a target="_blank" href="http://amzn.to/2yQ1oed"><img class="table-image" src="/img/1440p-monitors/aoc.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2yQ1oed">AOC Agon AG352UCG</a></td>
 		<td>35"; VA; 60Hz; 4 ms</td>
 		<td>3.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2yQ1oed">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kEGeKJ"><img class="table-image" src="/img/1440p-monitors/x34.png" /></a></td>
-		<td><a href="http://amzn.to/2kEGeKJ">Acer Predator X34</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kEGeKJ"><img class="table-image" src="/img/1440p-monitors/x34.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kEGeKJ">Acer Predator X34</a></td>
 		<td>34"; IPS; 100Hz; 4 ms</td>
 		<td>3.5/5</td>
 		<td><a class="big-button" href="http://amzn.to/2kEGeKJ">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kFg0I5"><img class="table-image" src="/img/1440p-monitors/acer.png" /></a></td>
-		<td><a href="http://amzn.to/2kFg0I5">Acer XR382CQK</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kFg0I5"><img class="table-image" src="/img/1440p-monitors/acer.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kFg0I5">Acer XR382CQK</a></td>
 		<td>38"; IPS; 75Hz; 5 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2kFg0I5">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2B6Bcls"><img class="table-image" src="/img/1440p-monitors/dell.png" /></a></td>
-		<td><a href="http://amzn.to/2B6Bcls">Dell S2417DG</a></td>
+		<td><a target="_blank" href="http://amzn.to/2B6Bcls"><img class="table-image" src="/img/1440p-monitors/dell.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2B6Bcls">Dell S2417DG</a></td>
 		<td>24"; TN; 165Hz; 1 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2B6Bcls">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2yQskKC"><img class="table-image" src="/img/1440p-monitors/xr34.png" /></a></td>
-		<td><a href="http://amzn.to/2yQskKC">Acer XR341CK</a></td>
+		<td><a target="_blank" href="http://amzn.to/2yQskKC"><img class="table-image" src="/img/1440p-monitors/xr34.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2yQskKC">Acer XR341CK</a></td>
 		<td>34"; IPS; 75Hz; 4 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2yQskKC">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kcM4DD"><img class="table-image" src="/img/1440p-monitors/z35.png" /></a></td>
-		<td><a href="http://amzn.to/2kcM4DD">Acer Predator Z35</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kcM4DD"><img class="table-image" src="/img/1440p-monitors/z35.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kcM4DD">Acer Predator Z35</a></td>
 		<td>34"; IPS; 75Hz; 4 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2kcM4DD">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2kc7roz"><img class="table-image" src="/img/1440p-monitors/eizo.png" /></a></td>
-		<td><a href="http://amzn.to/2kc7roz">Eizo Foris FS2735</a></td>
+		<td><a target="_blank" href="http://amzn.to/2kc7roz"><img class="table-image" src="/img/1440p-monitors/eizo.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2kc7roz">Eizo Foris FS2735</a></td>
 		<td>27"; IPS; 144Hz; 4 ms</td>
 		<td>3/5</td>
 		<td><a class="big-button" href="http://amzn.to/2kc7roz">Check Price</a></td>
@@ -226,7 +226,7 @@ Right now, the magic number for high-resolution gaming seems to be 6GB. Most car
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2Agzqwx"><img class="table-image" src="/img/gpu/zotac-1060.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2Agzqwx"><img class="table-image" src="/img/gpu/zotac-1060.png" /></a></td>
 		<td><a href="#acer-k272hul---262">ZOTAC GeForce GTX 1060 Mini</a></td>
 		<td>1.5 GHz</td>
 		<td>6GB</td>
@@ -234,7 +234,7 @@ Right now, the magic number for high-resolution gaming seems to be 6GB. Most car
 		<td><a class="big-button" href="http://amzn.to/2Agzqwx">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2AerXhP"><img class="table-image" src="/img/gpu/evga-geforce-gtx-1070-black-edition.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2AerXhP"><img class="table-image" src="/img/gpu/evga-geforce-gtx-1070-black-edition.png" /></a></td>
 		<td><a href="#benq-zowie-xl2730---499">EVGA GeForce 1070 SC GAMING ACX 3.0 Black Edition</a></td>
 		<td>1.6 GHz</td>
 		<td>8GB</td>
@@ -243,7 +243,7 @@ Right now, the magic number for high-resolution gaming seems to be 6GB. Most car
 		
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2jwMljY"><img class="table-image" src="/img/gpu/msi-1080.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2jwMljY"><img class="table-image" src="/img/gpu/msi-1080.png" /></a></td>
 		<td><a href="#asus-rog-swift-pg348q---120">MSI Gaming GeForce GTX 1080</a></td>
 		<td>1.8 GHz</td>
 		<td>8GB</td>
