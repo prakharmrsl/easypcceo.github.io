@@ -112,6 +112,15 @@ If you want the most from your money, buying as many cheap CPUs is your best bet
 	</tr>
 </table>
 
+## The Most Powerful (and very profitable) Monero Mining GPU
+![XFX R9 295X2](/img/gpu/xfx-295-x2.png){: .img-middle}
+
+The most powerful Monero mining GPU is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=XFX+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day. Take a look: 
+
+![Monero Mining Profits](/img/cryptocurrency/monero-gpu.png)
+
+Monero mining is a great way to set up passive income, especially with the [R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=XFX+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+
 ## Monero Mining Pools 
 
 It's always a great idea to join a [Monero mining pool](http://moneropools.com/){:target="_blank"}. This way, your chances of success are greatly increased, and you still receive rewards proportional to the work you contributed. 
@@ -122,6 +131,18 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 * [MinerGate](https://minergate.com/){:target="_blank"}
 * [Nanopool](https://xmr.nanopool.org/){:target="_blank"}
 * [monero.crypto-pool](https://monero.crypto-pool.fr/){:target="_blank"}
+
+## Monero Mining Profitability 
+
+**Mining Monero is a profitable option**. As you can see from the image above, you have the possibility to generate over $1,400 per card! 
+
+Electricity prices differ. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
+
+## Monero Mining Algorithm 
+
+CryptoNight is Monero's [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system) mining algorithm. 
+
+It is memory intensive, and as a result, CryptoNight benefits the casual miner. If you don't want to invest in expensive specialized hardware, Monero is probably the right cryptocurrency for you. 
 
 ## How to Trade Monero for Other Cryptocurrencies & USD
 
@@ -195,19 +216,3 @@ Finally, our fourth and final step.
 
 Navigate to "Buy/Sell" on Coinbase. Then, click Sell. Now, all you have to do is select the bank to which you'd like your currency deposited. Select the amount of BTC to deposit, and hit "Sell Bitcoin". **It's that easy!**
 
-
-## Monero Mining Profitability 
-
-Mining Monero is a profitable option. As you can see from the image below, the [RX 470](http://amzn.to/2fpumhd) will generate nearly $400 annually per card. 
-
-![Monero Mining Profit](/img/cryptocurrency/monero-mining-profit.png)
-
-You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
-
-While Monero mining can be profitable, [Dash mining](/crypto-mining/dash-hardware/) **is the MOST profitable cryptocurrency to mine!**
-
-## Monero Mining Algorithm 
-
-CryptoNight is Monero's [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system) mining algorithm. 
-
-It is memory intensive, and as a result, CryptoNight benefits the casual miner. If you don't want to invest in expensive specialized hardware, Monero is probably the right cryptocurrency for you. 
