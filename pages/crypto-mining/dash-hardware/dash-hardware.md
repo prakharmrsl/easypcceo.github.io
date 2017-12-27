@@ -28,7 +28,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 	</tr>
 	<tr>
 		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
-		<td><a target="_blank" href="/crypto-mining/dash-hardware/antminer-d3-review/">Antminer D3</a></td>
+		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/">Antminer D3</a></td>
 		<td>15 GH/s</td>
 		<td>$2700</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
@@ -63,10 +63,9 @@ Before you start mining, you'll probably want to know if it's worth your money.
 
 The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
 
-* TOC
-{:toc}
+If you use the right mining hardware, you'll see a great return on your investment. **The Antminer D3 shows a yearly return of nearly $1300!** 
 
-If you use the right mining hardware, you'll see a great return on your investment. 
+![Dash Profitability](/img/cryptocurrency/dash-profit.png)
 
 Once you break even, you'll have a great source of passive income. Using an ASIC card is the best way to go, as they are the most powerful and efficient miners on the market.
 
@@ -76,7 +75,7 @@ Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/),
 
 ### [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
-The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a brand new ASIC miner and **it's by far the best miner on this list.** 
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is by far the best miner on this list.  
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
@@ -86,9 +85,7 @@ This miner has a hash rate of 15 GH/s and uses 1200 watts from the wall.
 
 While the power consumption might seem a bit high, the hashing power of this miner makes up for it. 
 
-You'll spend $3.46 per day on electricity and see a return of $247.77 per day. This is a 7169% return on electricity cost each day. 
-
-[Cryptocompare](https://www.cryptocompare.com/mining/bitmain/antminer-d3-miner/){:target="_blank"} estimates a yearly return of over $30,000 per miner. 
+You'll spend $3.46 per day on electricity and see a return of **$1,281.74 per year**. This is a 101% return on investment each day.  
 
 [Read our Review](/crypto-mining/dash-hardware/antminer-d3-review/){: .big-button}
 
@@ -204,3 +201,6 @@ Other types of coins like Bitcoin that are on a public ledger can be more easily
 If, for example, you bought coins online, and they were previously used on the Silk Road, the government can come and take them from you because they were involved in illegal activity. Keep in mind, however, that this is highly unlikely and as of today, Bitcoin is a sound investment. 
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
+
+* TOC
+{:toc}

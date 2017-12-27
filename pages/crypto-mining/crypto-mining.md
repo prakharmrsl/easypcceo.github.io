@@ -62,6 +62,8 @@ It has low transaction fees and fast transaction times. It can be bought and sol
 
 Lastly, it can be spent on almost anything. 
 
+**With the Antminer specified in our guide, you'll generate nearly $6,000 annually.**
+
 [View Litecoin mining graphics cards here](/crypto-mining/litecoin-hardware/){: .big-button}
 
 ### 4. Dash 
