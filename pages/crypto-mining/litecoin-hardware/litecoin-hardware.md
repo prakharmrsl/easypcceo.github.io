@@ -120,3 +120,6 @@ Mining pools are a great option for most people, especially those who may not ha
 The idea of a mining pool is pretty simple. Instead of mining on your own, a group of people mine together. This makes the mining process faster. Once a coin is mined, all contributors receive a piece of the pie, directly proportional to their contribution. 
 
 [Litecoinpool](https://www.litecoinpool.org/){:target="_blank"} is a popular Litecoin mining pool. 
+
+* TOC
+{:toc}
