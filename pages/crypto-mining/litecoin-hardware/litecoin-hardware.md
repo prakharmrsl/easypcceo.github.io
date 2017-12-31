@@ -21,7 +21,7 @@ Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the
 ## Just Looking to Acquire Litecoin?
 <a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
 
-Don't get me wrong, mining Litecoin with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
+Don't get me wrong, mining Litecoin with our suggested mining hardware is *very profitable*. However, if you just want to get Litecoin, it's probably not the fastest route. 
 
 If you're just looking to buy Litecoin, you should check out popular exchanges like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b). They make it quick and easy to buy Litecoin.  
 
