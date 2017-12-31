@@ -2,7 +2,7 @@
 title: "Acer K272HUL Review: 1440p on a Budget"
 permalink: "/best-1440p-gaming-monitors/acer-k272hul-review/"
 layout: page
-seotitle: "Acer K272HUL Review: Best Budget 1440p Monitor of 2017?"
+seotitle: "Acer K272HUL Review: Best Budget 1440p Monitor of 2018?"
 ---
 
 ![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-middle}

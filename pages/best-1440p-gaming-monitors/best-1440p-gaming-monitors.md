@@ -1,13 +1,13 @@
 ---
-title: "The Best 1440p Gaming Monitors of 2017"
+title: "The Best 1440p Gaming Monitors of 2018"
 permalink: "/best-1440p-gaming-monitors/"
 layout: page
-seotitle: "21 Best 1440p Gaming Monitors of 2017 (Comparison)"
+seotitle: "21 Best 1440p Gaming Monitors of 2018 (Comparison)"
 ---
 
 ![ROG SWIFT](/img/1440p-monitors/header.png)
 
-If you’re a gamer ready to buy the monitor of your dreams, this guide will help you find the best choice for you. We'll be taking a look at the three best 1440p monitors your money can buy in 2017. 
+If you’re a gamer ready to buy the monitor of your dreams, this guide will help you find the best choice for you. We'll be taking a look at the three best 1440p monitors your money can buy in 2018. 
 
 The technology in monitors has matured drastically in the past few years, excelling your gaming experience. Finding the right gaming monitor for your budget can be difficult, as there are many choices. 
 
@@ -180,7 +180,7 @@ Typically, high quality and low cost don’t go hand in hand. This being the cas
 	</tr>
 </table>
 
-## The Ultimate 1440p Monitor Buyer's Guide 2017
+## The Ultimate 1440p Monitor Buyer's Guide 2018
 
 I know there's a lot to consider when you're in the market for a new monitor. This guide is aimed to simplify the buying process by giving you all of the tools you need to make an informed decision. 
 
@@ -192,11 +192,11 @@ First of all unlike 4K monitors, 1440p monitors have come down in price a bit. T
 
 Second of all, it's pretty unlikely that your system can even handle 4K. It takes a pretty beefy setup to game in 4k with max settings. After all, if you're going to shell out the money for a 4k monitor, you'd probably be expecting the best possible settings. Unless you have at least a GTX 1070 (preferrably a GTX 1080 which can run over $700) than you probably won't be able to properly game in 4k. 
 
-In addition, most games support 1440p resolution, but it's harder to find a well optimized game that seamlessly supports 4K resolution. All in all, 1440p makes more sense in 2017. 
+In addition, most games support 1440p resolution, but it's harder to find a well optimized game that seamlessly supports 4K resolution. All in all, 1440p makes more sense in 2018. 
 
-## 1440p Monitors in 2017
+## 1440p Monitors in 2018
 
-You'll still need a good system to support 1440p gaming in 2017, but it's a heck of a lot easier than 4k. A GTX 1060 can support most games in 1440p resolution, and it's far cheaper than a 1070 or 1080. 
+You'll still need a good system to support 1440p gaming in 2018, but it's a heck of a lot easier than 4k. A GTX 1060 can support most games in 1440p resolution, and it's far cheaper than a 1070 or 1080. 
 
 [High Ground Gaming](https://www.highgroundgaming.com/best-1440p-gaming-monitors/){:target="_blank"} has a fantastic graphic showing the differences between resolutions. Here it is: 
 
@@ -264,7 +264,7 @@ Furthermore, if you spend $500, $800, $1000 or more on a gaming PC, you'll want 
 ## Why Upgrade from 1080p? 
 ![Triple Monitor Setup](/img/1440p-monitors/trio.jpg)
 
-1080p monitors have become a staple of PC gaming in 2017, and for good reason. The display is pretty good, not to mention they're cheap as well. For most, 1080p is sufficient. However, if you have the extra money, we strongly recommend the upgrade to 1440p.
+1080p monitors have become a staple of PC gaming in 2018, and for good reason. The display is pretty good, not to mention they're cheap as well. For most, 1080p is sufficient. However, if you have the extra money, we strongly recommend the upgrade to 1440p.
 
 Why?
 

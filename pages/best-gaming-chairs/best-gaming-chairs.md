@@ -1,13 +1,13 @@
 ---
-title: The Ultimate Gaming Chairs of 2017
+title: The Ultimate Gaming Chairs of 2018
 permalink: "/best-gaming-chairs/"
 layout: page
-seotitle: "5 Best Gaming Chairs of 2017 You'll Love"
+seotitle: "5 Best Gaming Chairs of 2018 You'll Love"
 ---
 
 After building your gaming PC, hooking up your monitor and plugging in your peripherals, it's time to pull a chair up to your [gaming desk](/best-gaming-desks/) and start playing. 
 
-Of course, you are not just sitting in any old chair. As a PC enthusiast, you'll only settle for the best. This top list highlights the 5 best gaming chairs of 2017. 
+Of course, you are not just sitting in any old chair. As a PC enthusiast, you'll only settle for the best. This top list highlights the 5 best gaming chairs of 2018. 
 
 ## 3 Reasons Why You NEED a Proper Gaming Chair
 
@@ -100,7 +100,7 @@ The quality of the material you choose has a direct impact on the lifespan of th
 
 **[Contact me](/contact/) about using this infographic on your website!**
 
-## 5 Best Gaming Chairs of 2017 
+## 5 Best Gaming Chairs of 2018
 
 With the previous tips in mind, you are now equipped to choose the right chair for you. This list is not ordered from best to worse, but rather from lowest price to highest price. 
 

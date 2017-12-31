@@ -2,7 +2,7 @@
 title: "Monero Mining Hardware"
 permalink: "/crypto-mining/monero-hardware/"
 layout: page
-seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2017) " 
+seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2018) " 
 ---
 
 ![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}

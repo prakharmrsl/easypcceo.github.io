@@ -2,7 +2,7 @@
 title: Cooler Master Hyper 212 Evo Review
 permalink: "/cpu-coolers/hyper-212-evo-review/"
 layout: page
-seotitle: "Cooler Master Hyper 212 Evo Review 2017"
+seotitle: "Cooler Master Hyper 212 Evo Review 2018"
 ---
 
 ### Pros 

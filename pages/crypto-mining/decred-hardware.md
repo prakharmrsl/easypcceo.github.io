@@ -2,7 +2,7 @@
 title: "Decred Mining: Hardware, Mining Pools, & More"
 permalink: "/crypto-mining/decred-hardware/"
 layout: page
-seotitle: "#1 Best Decred Mining Hardware GPU: Hashrate, Power Consumption, & More (2017)" 
+seotitle: "#1 Best Decred Mining Hardware GPU: Hashrate, Power Consumption, & More (2018)" 
 ---
 ![GTX 1080 Ti](/img/cryptocurrency/gpu/gtx-1080ti.png){: .img-middle}
  

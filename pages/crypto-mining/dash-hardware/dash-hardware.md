@@ -2,7 +2,7 @@
 title: Dash ASICs and GPUs    
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
-seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2017 (And How to Mine!)" 
+seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2018 (And How to Mine!)" 
 --- 
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
@@ -61,7 +61,7 @@ Before you start mining, you'll probably want to know if it's worth your money.
 
 ## Is Dash Mining Profitable? 
 
-The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2017 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2017](/crypto-mining/dash-mining-profitability/)').
+The value of dash is on the rise, and the time is now to get in on the action. **Dash mining in 2018 is extremely profitable** (see our guide '[3 Reasons Why Dash Mining is Profitable in 2018](/crypto-mining/dash-mining-profitability/)').
 
 If you use the right mining hardware, you'll see a great return on your investment. **The Antminer D3 shows a yearly return of nearly $1300!** 
 

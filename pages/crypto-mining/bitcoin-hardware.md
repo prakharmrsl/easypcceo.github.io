@@ -2,7 +2,7 @@
 title: Bitcoin Mining Hardware ASICs and GPUs  
 permalink: "/crypto-mining/bitcoin-hardware/"
 layout: page
-seotitle: "5 Best Bitcoin Mining Hardware ASICs and GPUs 2017 " 
+seotitle: "5 Best Bitcoin Mining Hardware ASICs and GPUs 2018 " 
 ---
 
 ## What is Bitcoin? 
@@ -92,7 +92,7 @@ The [Avalon6](https://www.amazon.com/gp/product/B01AKU94HY/ref=as_li_tl?ie=UTF8&
 
 ![Avalon6 Profit](/img/cryptocurrency/gpu/asic/avalon6-profit.png "Avalon 6 Profit")
 
-With the extreme difficulty of and complexity of mining Bitcoin, this miner does not prove very profitable either. However, it is still a great option for hobbyists. If you have access to low cost electricity, and you're willing to optimize the miner, it can still be profitbale in 2017. 
+With the extreme difficulty of and complexity of mining Bitcoin, this miner does not prove very profitable either. However, it is still a great option for hobbyists. If you have access to low cost electricity, and you're willing to optimize the miner, it can still be profitbale in 2018. 
 
 NOTE: This miner does NOT include a powersupply. We recommend the [Dell L1100E-S0 1100W PSU.](https://www.amazon.com/gp/product/B014VUHHP0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B014VUHHP0&linkCode=as2&tag=cryptocurrency06-20&linkId=87c94875cc1b621a3c0136f01cd29c94) 
 

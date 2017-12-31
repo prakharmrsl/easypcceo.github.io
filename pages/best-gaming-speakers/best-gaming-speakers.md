@@ -1,8 +1,8 @@
 ---
-title: "The 15 Best Gaming Speakers of 2017" 
+title: "The 15 Best Gaming Speakers of 2018" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "15 Best Gaming Speakers of 2017 (Desk/TV)" 
+seotitle: "15 Best Gaming Speakers of 2018 (Desk/TV)" 
 --- 
 
 Sound is nearly as important as graphics when it comes to gaming. In some cases even more important, as sometimes it's possible to hear the footsteps of your enemy before you see them. 

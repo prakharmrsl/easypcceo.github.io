@@ -2,7 +2,7 @@
 title: "Litecoin ASICs and GPUs" 
 permalink: "/crypto-mining/litecoin-hardware/"
 layout: page
-seotitle: "#1 Best Litecoin Mining Hardware ASIC 2017" 
+seotitle: "#1 Best Litecoin Mining Hardware ASIC 2018" 
 ---
 
 ## What is Litecoin? 

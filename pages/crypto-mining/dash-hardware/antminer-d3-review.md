@@ -19,11 +19,11 @@ Our rating: **4/5**
 
 [Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
-## Dash Mining in 2017
+## Dash Mining in 2018
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
-[Dash](/crypto-mining/dash-hardware/) is becoming ever more popular in 2017, and so are X11 Dash miners. 
+[Dash](/crypto-mining/dash-hardware/) is becoming ever more popular in 2018, and so are X11 Dash miners. 
 
 Why? 
 
@@ -111,7 +111,7 @@ We cannot stress this enough: **The Antminer D3 is the MOST profitable miner on 
 
 Everyone is focused on mining [Bitcoin](https://www.buybitcoinworldwide.com/mining/hardware/){:target="_blank"}, when they should really be focused on Dash mining. 
 
-In 2017, it's nearly **impossible** to turn a profit mining Bitcoin. 
+In 2018, it's nearly **impossible** to turn a profit mining Bitcoin. 
 
 Evidently, it's quite easy to profitably mine Dash. Get started now! 
 

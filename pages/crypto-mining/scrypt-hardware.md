@@ -2,7 +2,7 @@
 title: "The Scrypt Mining Algorithm: Everything You Need to Know"
 permalink: "/crypto-mining/scrypt-hardware/"
 layout: page
-seotitle: "#1 Best Scrypt Mining Hardware ASIC: Litecoin, Dogecoin, & More (2017)" 
+seotitle: "#1 Best Scrypt Mining Hardware ASIC: Litecoin, Dogecoin, & More (2018)" 
 ---
  
 ![Scrypt Mining](/img/cryptocurrency/scrypt.jpg)

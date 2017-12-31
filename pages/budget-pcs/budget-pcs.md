@@ -1,11 +1,11 @@
 ---
-title: Best Budget Gaming PC Builds in 2017 
+title: Best Budget Gaming PC Builds in 2018
 permalink: "/budget-pcs/"
 layout: page
-seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2017)
+seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 ---
 
-It's 2017, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
+It's 2018, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
 
 However, expensive components may prevent you from pulling the trigger. Fortunately for you, this guide will walk  you through five budget gaming PCs that **won't break the bank.** 
 
@@ -65,7 +65,7 @@ Furthermore, I'll cover every aspect of PC gaming and answer any questions a new
 </table>
 </div>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. Some components may have been adjusted to fit the budget.</i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
@@ -119,7 +119,7 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 ## The Perfect Balance ($500) 
@@ -172,7 +172,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
 ## The Stealth Gamer ($600) 
 ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
@@ -224,7 +224,7 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
 
 ![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
 ## The Phoenix ($700)
@@ -273,7 +273,7 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
 
 
 ![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
@@ -327,7 +327,7 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 	
 </table>
 
-<p><i>*prices fluctuate daily. All budgets are within a $30 threshold. <a target="_blank" href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
 
 ## The Full Guide
 

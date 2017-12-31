@@ -2,7 +2,7 @@
 title: Cooler Master Vortex Plus Review
 permalink: "/cpu-coolers/vortex-plus-review/"
 layout: page
-seotitle: "Cooler Master Vortex Plus Review 2017"
+seotitle: "Cooler Master Vortex Plus Review 2018"
 ---
 
 ### Pros 

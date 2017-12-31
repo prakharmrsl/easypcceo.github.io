@@ -2,7 +2,7 @@
 title: "BenQ ZOWIE XL2730: Fantastic 1440p for $500?"
 permalink: "/best-1440p-gaming-monitors/benq-zowie-xl2730-review/"
 layout: page
-seotitle: "BenQ ZOWIE XL2730 Review: The Best Value 1440p Monitor? (2017)"
+seotitle: "BenQ ZOWIE XL2730 Review: The Best Value 1440p Monitor? (2018)"
 ---
 
 ![BenQ ZOWIE](/img/1440p-monitors/zowie.png){: .img-middle}

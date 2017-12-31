@@ -1,8 +1,8 @@
 ---
-title: The Profitability of Mining Ethereum in 2017 
+title: The Profitability of Mining Ethereum in 2018 
 permalink: "/crypto-mining/ethereum-mining-profitability/"
 layout: page
-seotitle: "3 Reasons Why Ethereum Mining is Profitable in 2017" 
+seotitle: "3 Reasons Why Ethereum Mining is Profitable in 2018" 
 ---
 
 Ethereum is second only to Bitcoin in value. Mining Ethereum has driven the prices of GPUs sky high (see our guide on [Ethereum mining GPUs](/crypto-mining/ethereum-hardware/)). 
@@ -103,7 +103,7 @@ Regardless of the functionality or importance of smart contracts, lots of people
 
 The long term benefits proof of stake has to offer are clear. It will save electricity and lower if not eliminate hardware costs.  
 
-However, mining still has its place in 2017. The shift to proof of stake is by no means mainstream, and we still largely depend on miners to validate the transactions in the [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/).
+However, mining still has its place in 2018. The shift to proof of stake is by no means mainstream, and we still largely depend on miners to validate the transactions in the [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/).
 
 Smart contracts and proof of stake will cause the value of Ethereum to increase further and further, rendering it an extremely profitable cryptocurrenct to mine. 
 

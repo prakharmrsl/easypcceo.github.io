@@ -1,8 +1,8 @@
 ---
-title: The Profitability of Mining Dash in 2017 
+title: The Profitability of Mining Dash in 2018 
 permalink: "/crypto-mining/dash-mining-profitability/"
 layout: page
-seotitle: "3 Reasons Why Dash Mining is Profitable in 2017" 
+seotitle: "3 Reasons Why Dash Mining is Profitable in 2018" 
 ---
 
 As of late, the value of dash has been steadily increasing. Furthermore, its X11 algorithm is miner friendly, providing a great return on investment. 
@@ -21,9 +21,9 @@ If you just want cryptocurrency, it is probably a better idea to buy it. Mining 
 
 ## Is Dash Mining Profitable? 
 
-Yes, yes it is. In fact, Dash is one of the most profitable currencies to mine in 2017.
+Yes, yes it is. In fact, Dash is one of the most profitable currencies to mine in 2018.
 
-![Dash Value 2017](/img/cryptocurrency/dash-value.png)
+![Dash Value 2018](/img/cryptocurrency/dash-value.png)
 
 Its X11 mining algorithm was intended to decentralize hashing power by making it easier to mine. 
 

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Best Enthusiast Gaming PC Builds 2017
+title: Best Enthusiast Gaming PC Builds 2018
 permalink: /enthusiast-pcs/
-seotitle: 3 Best Enthusiast Gaming PCs 2017
+seotitle: 3 Best Enthusiast Gaming PCs 2018
 ---
 
-## Enthusiast High End Gaming Rigs in 2017
+## Enthusiast High End Gaming Rigs in 2018
 
 PC gaming has many benefits, including superior graphics, higher frame rates, more flexiblity, PC exclusive titles, keyboard and mouse, etc. 
 
@@ -13,7 +13,7 @@ Though it's possible to enjoy these perks on a budget, spending a bit more money
 
 [PC gaming on a budget](/budget-pcs/) is definitely possible, but spending the extra money goes a long way.  
 
-## Top 3 Enthusiast Gaming PCs 2017: 
+## Top 3 Enthusiast Gaming PCs 2018: 
 
 ![Fractal Design - Focus G (White)](/img/case/fractaldesign-focusg.jpg "Fractal Design - Focus G (White)"){: .img-right .img-small}
 

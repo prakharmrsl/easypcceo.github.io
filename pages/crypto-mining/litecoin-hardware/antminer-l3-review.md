@@ -19,11 +19,11 @@ Our rating: **5/5**
 
 [Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
-## Litecoin Mining in 2017
+## Litecoin Mining in 2018
 
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-small .img-right}
 
-[Litecoin](/crypto-mining/Litecoin-hardware/) is becoming ever more popular in 2017, and so are Litecoin miners. 
+[Litecoin](/crypto-mining/Litecoin-hardware/) is becoming ever more popular in 2018, and so are Litecoin miners. 
 
 Why? 
 
@@ -103,6 +103,6 @@ We cannot stress this enough: **The Antminer L3+ is the MOST profitable miner on
 
 Everyone is focused on mining [Bitcoin](https://www.buybitcoinworldwide.com/mining/hardware/), when they should really be focused on Litecoin mining. 
 
-In 2017, it's nearly **impossible** to turn a profit mining Bitcoin. 
+In 2018, it's nearly **impossible** to turn a profit mining Bitcoin. 
 
 Evidently, it's quite easy to profitably mine Litecoin. Get started now! 

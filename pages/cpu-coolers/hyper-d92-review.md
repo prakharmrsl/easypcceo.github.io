@@ -2,7 +2,7 @@
 title: Cooler Master Hyper D92 Review
 permalink: "/cpu-coolers/hyper-d92-review/"
 layout: page
-seotitle: "Cooler Master Hyper D92 Review 2017"
+seotitle: "Cooler Master Hyper D92 Review 2018"
 ---
 
 ### Pros 

@@ -1,8 +1,8 @@
 ---
-title: Gaming Mousepads to Look Out for in 2017   
+title: Gaming Mousepads to Look Out for in 2018   
 permalink: "/best-gaming-mousepads/"
 layout: page
-seotitle: "5 Best Gaming Mousepads in 2017 (Comparison)" 
+seotitle: "5 Best Gaming Mousepads in 2018 (Comparison)" 
 --- 
 
 While playing your favourite video games on your PC, you may not feel the need for a gaming mousepad, as you are satisfied with the function of your gaming mouse. 

@@ -115,7 +115,7 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 ### 7. ZenCash
 ![ZenCash Logo](/img/cryptocurrency/zencash-logo.png){: .img-right .img-small}
 
-[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2017!**
+[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2018!**
 
 [View ZenCash mining graphics cards here](/crypto-mining/zencash-hardware/){: .big-button}
 

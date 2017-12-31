@@ -20,10 +20,10 @@ Our rating: **5/5**
 
 [Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+HD+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"} 
 
-## Ethereum Mining in 2017 
+## Ethereum Mining in 2018 
 ![Radeon HD 7990](/img/cryptocurrency/gpu/hd-7990.png){: .img-right .img-small}
 
-Ethereum is sitting comfortably as one of the most popular [cryptocurrencies](/crypto-mining/) of 2017, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
+Ethereum is sitting comfortably as one of the most popular [cryptocurrencies](/crypto-mining/) of 2018, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
 
 Why?
 

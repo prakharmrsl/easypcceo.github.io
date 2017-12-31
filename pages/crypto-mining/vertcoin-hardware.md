@@ -2,7 +2,7 @@
 title: "Vertcoin Mining: Hardware, Mining Pools, & More"
 permalink: "/crypto-mining/vertcoin-hardware/"
 layout: page
-seotitle: "#1 Best Vertcoin Mining Hardware GPU: Hashrate, Power Consumption, & More (2017)" 
+seotitle: "#1 Best Vertcoin Mining Hardware GPU: Hashrate, Power Consumption, & More (2018)" 
 ---
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234948&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/gpu/gtx-1080ti.png" /></a>
  
