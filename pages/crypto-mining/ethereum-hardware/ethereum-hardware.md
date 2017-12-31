@@ -55,11 +55,16 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	
 </table> 
 
-## Trading Your Ethereum 
+## Just Looking to Acquire Ethereum? 
+<a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
 
-If you want to convert your Ethereum into any other cryptocurrency, you can do so on an exchange such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}. This platform allows you to convert your Ethereum into Bitcoin, Litecoin, and other alternative cryptocurrencies. 
+Don't get me wrong, mining Ethereum with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
 
-[Trade on Binance](https://www.binance.com/?ref=16557105){: .big-button target="_blank"}
+If you're just looking to buy Ethereum, you should check out popular exchanges like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) or Gemini. They make it quick and easy to buy Ethereum. 
+
+Once you buy your Ethereum, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
+
+On the other hand, if you're interested in generating passive income, **you can make over $1,000 per card!** 
 
 ## Ethereum Mining Profitability 
 
