@@ -35,7 +35,7 @@ Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, th
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/1080.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/1080ti.png" /></a></td>
 		<td>Gigabyte GTX 1080 Ti Aorus</td>
 		<td>800 Sol/s</td>
 		<td>$900</td>
