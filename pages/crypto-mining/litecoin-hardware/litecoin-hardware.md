@@ -18,7 +18,7 @@ For miners, Litecoin's different mining algorithm also plays a big part. Litecoi
 
 Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. [Vertcoin](/crypto-mining/vertcoin-hardware/) uses Scrypt too, but it implements the Adaptive N-Factor. You can read more about that [here](/crypto-mining/vertcoin-hardware/).
 
-## Just Looking to Acquire Ethereum? 
+## Just Looking to Acquire Litecoin?
 <a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
 
 Don't get me wrong, mining Litecoin with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
