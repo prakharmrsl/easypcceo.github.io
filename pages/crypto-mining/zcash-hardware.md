@@ -19,7 +19,7 @@ Finding the right harware for mining Zcash can be difficult. It is important to 
 
 As we have seen with other popular cryptocurrencies such as [Ethereum](/crypto-mining/ethereum-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors. 
 
-**NOTE: [Litecoin](/crypto-mining/litecoin-hardware/) mining with the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) and [Dash](/crypto-mining/dash-hardware/) with the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) are the most profitable in 2018!**
+**NOTE: [Litecoin](/crypto-mining/litecoin-hardware/) mining with the [Antminer L3+](/crypto-mining/litecoin-hardware/antminer-l3-review/) is the most profitable in 2018!**
 
 ## Zcash Mining Hardware
 
@@ -31,79 +31,77 @@ Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, th
 		<th>GPU</th>
 		<th>Hash Rate</th>
 		<th>Price</th>
+		<th>Annual Return</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><img class="table-image" src="/img/cryptocurrency/gpu/rx480.jpg" /></td>
-		<td>Sapphire Radeon R9 480X</td>
-		<td>27 MH/s</td>
-		<td>$250</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/1080.png" /></a></td>
+		<td>Gigabyte GTX 1080 Ti Aorus</td>
+		<td>800 Sol/s</td>
+		<td>$900</td>
+		<td>$1,819.89</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-580-nitro.jpg" /></a></td>
-		<td>Sapphire Radeon RX 580 Nitro+</td>
-		<td>29 MH/s</td>
-		<td>$300</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/1070ti.png" /></a></td>
+		<td>ASUS ROG STRIX GTX 1070 TI Advanced Addition</td>
+		<td>535 Sol/s</td>
+		<td>$650</td>
+		<td>$1268.43</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 		
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx1070.png" /></a></td>
-		<td>GeForce GTX 1070 Founders Edition</td>
-		<td>31 MH/s</td>
-		<td>$400</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/rx-480.png" /></a></td>
+		<td>MSI RADEON RX 480</td>
+		<td>320 Sol/s</td>
+		<td>$300</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 		
 	</tr>
 	
 </table>
 
-## Sapphire Radeon RX 480
-![RX 480](/img/cryptocurrency/gpu/rx480.jpg){: .img-right .img-small}
+## Sapphire Radeon RX 480 1080ti2png
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/1080ti2.png" /></a>
 
 
-The [Sapphire Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a card that should never be overloooked. One would be wrong to dismiss the AMD RX 400 series graphics cards, as they are a powerful tool in a miner's tool belt.
+The [Gigabyte GTX 1080 Ti Aorus](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a card that can make you some serious money if you employ it in your mining rig. Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
 
-Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
+This card has a hashrate of 800 Sol/s and a power consumption of 260 W. **This hashrate/power consumption ratio yields an annual return of over $1,800!** 
 
-The RX 480, after a few tweaks, can easily generate 27 MH/s. It only draws 150 watts at max load, making it an efficient and powerful choice for miners. 
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Shop Lowest Prices</a>
 
-Due to the effectiveness of this card, it is out of stock quite often. Now is the time to buy.This card, along with the RX 580, show superb performance for their price range. 
-
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Buy RX 480 Graphics Card</a>
-
-## Sapphire Radeon RX 580 Nitro+ Limited Edition Graphics Card
-![RX 580 Nitro+](/img/cryptocurrency/gpu/rx-580-nitro.jpg){: .img-right .img-small}
+## ASUS ROG STRIX GTX 1070 TI Advanced Addition
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/1070ti.png" /></a>
 
 
-The [Sapphire Radeon RX 580 Nitro+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a great choice for anyone looking to mine Zcash. 
+The [ASUS ROG STRIX GTX 1070 TI Advanced Addition](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a great choice for anyone looking to mine Zcash. 
 
-The AMD 500 series are popular among miners, as they are cheaper, and easyier to set up. Furthermore, they pack quite a punch when it comes to mining. 
+It has a hashrate of 535 Sol/s and a power consumption of 125 W. However, this is at 70% TDP. This card has the best hashrate/power consumption ratio when underpowered. This means your profits are the highest! 
 
-This GPU only draws 150 watts at max load, which makes it decently efficient, considering its top speed of 29 MH/s.
+In fact, **with this GPU you can expect to see an annual return of over $1,250!**   
 
-This card doesn't come perfectly equipped for miners straight out of the box, though with some slight tweaks, it is well suited for mining Zcash.  
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Shop Lowest Prices</a>
 
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button"> Buy RX 580 Graphics Card </a>
+## MSI RADEON RX 480
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/rx-480.png" /></a>
 
-## NVIDIA GeForce GTX 1070 Founders Edition
-![GTX 1070 FE](/img/cryptocurrency/gpu/gtx1070.png){: .img-right .img-small}
+Surprisingly, the [MSI RADEON RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} boasts excellent performance for its price, especially when optimized for mining. 
 
+When you buy an RX 480, you can expect to see a large profit margin. It has a hashrate of 320 Sol/s and a power consumption of 130 W. **With this power consumption/hashrate ratio, you can expect to see a yearly return of $700!**
 
-Surprisingly, the [GeForce GTX 1070 founders edition](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} boasts excellent performance for its price, especially when optimized for mining. 
+Please note that while it's the cheapest, it also has the lowest hashrate. However, this doesn't mean it's a bad miner. In fact, the power/hashrate ratio is pretty good, which is probably one of the most important factors to consider when buying a mining GPU. If you're on a budget, this is the Zcash miner for you. 
 
-Using [NiceHashMiner](https://www.nicehash.com/){:target="_blank"} the 1070 has the power to mine at 31 MH/s, while only consuming 180 watts at max load. 
+[Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
 
-When you buy the GTX 1070  FE, not only are you getting an excellent mining tool, you are saving money on electricity as well.
+## Zcash Mining Profitability 
 
-This card is by far the best zcash miner due to its incredible price to performance ratio. 
+Zcash seems to be a profitable cryptocurrency to mine in 2018. In fact, you can expect to see profits just shy of $2,000 annually! Take a look at the projected earnings with a [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
-After a few tweaks to best suit mining, this card is powerful and efficient. I would highly recommend this card to anyone looking to mine zcash. 
+![Zcash mining profits](/img/cryptocurrency/zcash-profit.png)
 
-Many may assume that AMD cards are the only option for miners. This is simply not true.
-
-[Buy GTX 1070 FE Graphics Card](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button}
+**As you can see, Zcash mining in 2018 is very profitable.** As the value of Zcash rises, so do your mining profits! 
 
 ## Setting Up Passive Income with Zcash Mining 
 
