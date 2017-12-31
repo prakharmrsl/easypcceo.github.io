@@ -18,13 +18,16 @@ For miners, Litecoin's different mining algorithm also plays a big part. Litecoi
 
 Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the 'memory hard problem'. [Vertcoin](/crypto-mining/vertcoin-hardware/) uses Scrypt too, but it implements the Adaptive N-Factor. You can read more about that [here](/crypto-mining/vertcoin-hardware/).
 
-## Should You Mine Litecoin?
+## Just Looking to Acquire Ethereum? 
+<a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
 
-While Litecoin mining is **VERY** profitable, it may not be the best idea for those who are simply looking to acquire cryptocurrency. 
+Don't get me wrong, mining Litecoin with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
 
-If you want cryptocurrency right now, it's probably better to buy it. You can buy it directly from an exchange like Coinbase without having to invest in mining hardware. 
+If you're just looking to buy Litecoin, you should check out popular exchanges like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b). They make it quick and easy to buy Litecoin.  
 
-[Buy Litecoin from Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
+Once you buy your Litecoin, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
+
+On the other hand, if you're interested in generating passive income, **you can make nearly $6,000 annually per card!** 
 
 ## Expected Earnings w/ Antminer L3+ 
 ![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
