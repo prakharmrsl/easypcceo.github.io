@@ -59,7 +59,7 @@ Zcash uses equihash as its mining algorithm. Due to this, much like ethereum, th
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/1080ti2.png" /></a>
 
 
-The [Gigabyte GTX 1080 Ti Aorus](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a card that can make you some serious money if you employ it in your mining rig. Much to the dismay of the modern day gamer, AMD graphics cards are amazing at mining for Zcash. 
+The [Gigabyte GTX 1080 Ti Aorus](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a card that can make you some serious money if you employ it in your mining rig. Much to the dismay of the modern day gamer, AMD graphics cards are amazing at Zcash mining. 
 
 This card has a hashrate of 800 Sol/s and a power consumption of 260 W. **This hashrate/power consumption ratio yields an annual return of over $1,800!** 
 
@@ -94,7 +94,7 @@ Zcash seems to be a profitable cryptocurrency to mine in 2018. In fact, you can 
 
 ![Zcash mining profits](/img/cryptocurrency/zcash-profit.png)
 
-**As you can see, Zcash mining in 2018 is very profitable.** As the value of Zcash rises, so do your mining profits! 
+**As you can see, Zcash mining in 2018 is very profitable.** As the value of Zcash rises, so do your mining profits! You can check your mining profitability [with this profitability calculator](https://www.cryptocompare.com/mining/calculator/zec?HashingPower=320&HashingUnit=H%2Fs&PowerConsumption=130&CostPerkWh=0.12){:target="_blank"}. 
 
 ## Setting Up Passive Income with Zcash Mining 
 
