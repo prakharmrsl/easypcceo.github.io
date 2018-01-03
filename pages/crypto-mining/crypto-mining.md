@@ -51,7 +51,7 @@ It is online, and cryptographically secure. Similarly to [Vertcoin](/crypto-mini
 
 Does this mean you can't make money? **Of course not!**
 
-**If you're mining with one of our suggested mining GPUs, you'll generate over $1,000 annually per card.** 
+**If you're mining with one of our suggested mining GPUs, you'll generate over $1,400 annually per card.** 
 
 [View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
 

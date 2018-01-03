@@ -27,7 +27,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	<tr>
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
-		<td>$1,088.64</td>
+		<td>$1,454.18</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
@@ -56,7 +56,7 @@ If you're just looking to buy Ethereum, you should check out popular exchanges l
 
 Once you buy your Ethereum, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
 
-On the other hand, if you're interested in generating passive income, **you can make over $1,000 per card!** 
+On the other hand, if you're interested in generating passive income, **you can make over $1,400 per card!** 
 
 ## Ethereum Mining Profitability 
 
@@ -64,7 +64,7 @@ Before you spend money on an expensive mining GPU, you probably want to know if 
 
 Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** 
 
-![Ethereum Mining ROI](/img/cryptocurrency/r9-295-x2-review/profit.png "Ethereum Mining ROI")
+![Ethereum Mining ROI](/img/cryptocurrency/ethereum-mining-profitability.png "Ethereum Mining ROI")
 
 As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make **over $1,000 annually per card each year.** If you invest in multiple cards, you will make even more passive income.
 
@@ -86,7 +86,7 @@ However, regular GPUs can be used to mine Ethereum. In 2018, Ethereum mining is 
 
 ### [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} - $600
 
-By far the most powerful Ethereum miner, the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/) has a hash rate of 46 MH/s, drawing 500 W from the wall. **This means you'll see a yearly return of $1,088.64 USD annually per card.** That's right, over $1,000 per card. Some might think the [GTX 1080](/crypto-mining/gtx-1080-review/) is a more powerful alternative, but they'd be wrong. **If you want to generate serious revenue by mining Ethereum, the [R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is your card of choice.**
+By far the most powerful Ethereum miner, the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/) has a hash rate of 46 MH/s, drawing 500 W from the wall. **This means you'll see a yearly return of $1,454.18 USD annually per card.** That's right, over $1,400 per card. Some might think the [GTX 1080](/crypto-mining/gtx-1080-review/) is a more powerful alternative, but they'd be wrong. **If you want to generate serious revenue by mining Ethereum, the [R9 295 X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is your card of choice.**
 
 [Read our Review](/crypto-mining/ethereum-hardware/r9-295-x2-review/){: .big-button}
 
