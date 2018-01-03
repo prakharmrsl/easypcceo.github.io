@@ -87,7 +87,7 @@ Your mining profitability may vary. You can use this [mining profitability calcu
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
 		<td>46 MH/s</td>
 		<td>$600</td>
-		<td>$1,088.64</td>
+		<td>$1,454.18</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
