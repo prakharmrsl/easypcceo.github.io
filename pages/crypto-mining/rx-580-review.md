@@ -20,7 +20,7 @@ If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest th
 
 The [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} was originally designed for gaming. Once miners got their hands on it back in the summer of 2017, the price skyrocketed. Since then it's come back down, making it much more affordable for those looking to start mining. 
 
-Unfortunately, the RX 580 consumes more power than its predecessor, the [RX 480](/crypto-mining/ethereum-hardware/rx-480-review/). It also has the same hashrate. While this is disappointing, miners have found a way to optimize this GPU for mining by tweaking the BIOS. If you overclock/underpower the GPU it becomes far more profitable for mining. 
+Unfortunately, the RX 580 consumes more power than its predecessor, the [RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/). It also has the same hashrate. While this is disappointing, miners have found a way to optimize this GPU for mining by tweaking the [BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820){:target="_blank"}. If you overclock/underpower the GPU it becomes far more profitable for mining. 
 
 **This video guide explains how you can do this with your RX 580:**
 
@@ -42,15 +42,17 @@ Let's take a look at the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-
 * 29 MH/s
 * Power Consumption: 153 W 
 
-Let's take a look at your projected earnings while overclocking: 
+Here are your projected earnings after overclocking:  
 
 <a target="_blank" href="https://www.cryptocompare.com/mining/calculator/eth?HashingPower=29&HashingUnit=MH%2Fs&PowerConsumption=153&CostPerkWh=0.12"><img src="/img/cryptocurrency/rx-580-review/profit.png" /></a>
 
 As you can see, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} seems pretty promising when modifications are made in the BIOS. While it's not the [best Ethereum miner](/crypto-mining/ethereum-hardware/r9-295-x2-review/), it'll deliver pretty good performance for its price of just $350. 
 
+[You can check your own Ethereum mining profitability with this calculator](https://www.cryptocompare.com/mining/calculator/eth?HashingPower=29&HashingUnit=MH%2Fs&PowerConsumption=153&CostPerkWh=0.12){:target="_blank"}.
+
 ## Ethereum Mining Conclusion 
 
-Should you use the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for mining Ethereum? 
+Should you use the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for Ethereum mining? 
 
 It's a yes from me. 
 
@@ -62,32 +64,30 @@ Although it shows sub-par performance at stock speeds, it can really turn into a
 	<tr>
 		<th>PIC</th>
 		<th>GPU</th>
-		<th>Hash Rate</th>
-		<th>Price</th>
+		<th>Yearly Return</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/"><img class="table-image" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
-		<td>46 MH/s</td>
-		<td>$600</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td>$1,454.18</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/radeon-rx-480-review/">Radeon RX 480</a></td>
-		<td>25 MH/s</td>
-		<td>$300</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td>$719.62</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 		
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/radeon-hd-7990-review/">Radeon HD 7990</a></td>
-		<td>36 MH/s</td>
-		<td>$350</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td>$869.12</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		
 	</tr>
+	
 </table> 
 
 ## RX 580 Hashrate: Zcash 
@@ -106,6 +106,8 @@ Here's the projected Zcash mining performance:
 <a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=399&HashingUnit=H%2Fs&PowerConsumption=140&CostPerkWh=0.12"><img src="/img/cryptocurrency/rx-580-review/zcash.png" /></a>
 
 If you tweak some settings in the BIOS you can probably expect even better mining performance. Remember, it's all about the power/hash ratio! 
+
+[You can check your own Zcash mining profitability with this calculator](https://www.cryptocompare.com/mining/calculator/zec?HashingPower=399&HashingUnit=H%2Fs&PowerConsumption=140&CostPerkWh=0.12){:target="_blank"}.
 
 ## Alternative Zcash Mining Hardware 
 
