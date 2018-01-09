@@ -29,6 +29,23 @@ Once you buy your Litecoin, you can exchange it for Bitcoin and other currencies
 
 On the other hand, if you're interested in generating passive income, **you can make nearly $6,000 annually per card!** 
 
+## Litecoin Mining Hardware to Maximize Your Profits 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>ASIC</th>
+		<th>Yearly Return</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/l3-table.png" /> </a></td>
+		<td><a href="/crypto-mining/litecoin-hardware/antminer-l3-review/">Antminer L3+</a></td>
+		<td>$5,813.73</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
+	</tr>
+</table>
+
 ## Expected Earnings w/ Antminer L3+ 
 ![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
 

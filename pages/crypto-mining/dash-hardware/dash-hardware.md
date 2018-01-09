@@ -21,7 +21,7 @@ Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-108
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>
-		<th>GPU</th>
+		<th>ASIC</th>
 		<th>Yearly Return</th>
 		<th>Buy</th>
 	</tr>
