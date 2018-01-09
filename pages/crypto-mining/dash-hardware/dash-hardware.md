@@ -2,7 +2,7 @@
 title: Dash ASICs and GPUs    
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
-seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2018 (And How to Mine!)" 
+seotitle: "#1 Best Dash Mining Hardware GPU and ASIC (2018)" 
 --- 
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
@@ -10,45 +10,27 @@ seotitle: "3 Best Dash Mining Hardware GPUs and ASICs 2018 (And How to Mine!)"
 
 Unlike [Zcash](/crypto-mining/zcash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Monero](/crypto-mining/monero-hardware/), and [Ethereum](/crypto-mining/ethereum-hardware/), ASIC cards can be used to mine Dash. 
 
-These cards are the fastest and most power efficient solution for mining cryptocurrency.
+This ASIC miner is the fastest and most power efficient solution for mining Dash.
 
 What does this mean for your GPU?
 
-Well, even if you have powerful GPUs like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
+Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
 
-Before you start mining, you'll probably want to know if it's worth your money. 
+## Dash Mining Hardware to Maximize Your Profits 
 
 <table class="basic-table" align="center">
 	<tr>
 		<th>PIC</th>
-		<th>Miner</th>
-		<th>Hash Rate</th>
-		<th>Price</th>
-		<th>Shop</th>
+		<th>GPU</th>
+		<th>Yearly Return</th>
+		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/">Antminer D3</a></td>
-		<td>15 GH/s</td>
-		<td>$2700</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
+		<td>$1,281.74</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
-	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/baikal-mini.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Baikal Mini ASIC</a></td>
-		<td>300 MH/s</td>
-		<td>$550</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/baikal-giant-a900.jpg" /> </a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Baikal Giant A900 ASIC</a></td>
-		<td>900 MH/s</td>
-		<td>$2400</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop </a> </td>
-		
-	</tr>
-	
 </table>
 
 ## Dash in a Nutshell
@@ -71,55 +53,21 @@ Once you break even, you'll have a great source of passive income. Using an ASIC
 
 Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
-## Dash Mining Hardware
+## [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} - $1300
 
-### [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
-
-The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is by far the best miner on this list.  
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is by far the best miner on the market.
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
-The initial investment for this ASIC miner is the highest of the three. However, this miner will pay itself back quite quickly. The return on investment you'll see from this miner is absolutely incredible. 
+The initial investment for this ASIC miner is quite high. However, this miner will pay itself back quickly; the return on investment you'll see from this miner is superb. 
 
-This miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
 
 While the power consumption might seem a bit high, the hashing power of this miner makes up for it. 
 
 You'll spend $3.46 per day on electricity and see a return of **$1,281.74 per year**. This is a 101% return on investment each day.  
 
 [Read our Review](/crypto-mining/dash-hardware/antminer-d3-review/){: .big-button}
-
-### [Baikal Mini ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
-
-The Baikal Mini [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} miner is easily one of the most efficient ASIC miners on the market today. 
-
-It is only 135mm(L) x 135mm(W) x 108mm(H). That being said, it is obviously extremely small. How does it fair in terms of Hash rate and power consumption?
-
-Consuming only 75 watts at max load, this miner has a hash rate of 300MH/s. 
-
-Considering it only uses 75 watts, it is obvious to see why this is a great miner. 
-
-![MINI SPECS](/img/cryptocurrency/gpu/mini-specs.png "MINI SPECS")
-
-[Shop Baikal Mini ASIC Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+mini+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
-
-### [Baikal Giant A900 ASIC Miner](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
-
-This ASIC features extremely low power consumption, of just 216 W from the wall with a hash rate of 900 MH/s.
-
-You'll get a great return on your investment for the hardware, especially considering the value of Dash is going up. [Cryptocompare](https://www.cryptocompare.com/) estimates an income of about $700 USD per month with this card. 
-
-![Baikal Giant A900](/img/cryptocurrency/gpu/baikal-giant-a900.jpg "Baikal Giant A900"){: .img-small .img-right}
-
-This miner is especially good for beginners, as it is simple and easy to optimize. Unfortunately it does not ship with a power supply, but you can buy any ATX power supply with the appropriate wattage and it will get the job done. 
-
-![Giant A900 Specs](/img/cryptocurrency/gpu/giant-a900-specs.png "Giant A900 Specs")
-
-This is a multi-algorithm ASIC miner, which means it can mine X11/X13/X14/X15/Quark/Qubit. However, Dash is the easily the most profitable cryptocurrency to mine with this ASIC, as it reaches 900 MH/s. It only uses 217 W at max load. 
-
-With the Baikal Giant-A900 miner, you'll see a weekly return of $87.53 USD and a monthly return of $375.13 USD per miner. With returns of $4,500 USD annually per miner, this is a sound investment. If you invest in more than one miner, your profits will be even greater. 
-
-[Shop Baikal Giant A900 ASIC Miners](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338112809&customid=dash-miners&icep_uq=baikal+giant+a900+miner&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank{:target="_blank"}
 
 ## Non-ASIC Mining Hardware 
 
