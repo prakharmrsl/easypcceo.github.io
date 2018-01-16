@@ -23,56 +23,48 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 		<th>Speaker</th>
 		<th>Includes</th>
 		<th>Cost</th>
-		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2zY5lmd"><img class="table-image" src="/img/gaming-speakers/cyber-acoustics.png" /></a></td>
 		<td><a href="http://amzn.to/2zY5lmd">Cyber Acoustics CA-3602a Powered Speakers with Subwoofer</a></td>
 		<td>2 Speakers, 1 Subwoofer</td>
 		<td>Low</td>
-		<td><a class="big-button" href="http://amzn.to/2zY5lmd">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/ca30.png" /></a></td>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Cyber Acoustics CA-5402 Platinum Series 5.1 Speakers for Gaming</a></td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Low</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/t40.png" /></a></td>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Creative GigaWorks T40 Series II 2.0 Gaming Speakers</a></td>
 		<td>2 Speakers</td>
 		<td>Medium-low</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jIB67Z"><img class="table-image" src="/img/gaming-speakers/genius.png" /></a></td>
 		<td><a href="http://amzn.to/2jIB67Z">Genius SW-G2.1 2000 Gaming Speakers</a></td>
 		<td>2 Speakers, 1 Subwoofer</td>
 		<td>Medium-low</td>
-		<td><a class="big-button" href="http://amzn.to/2jIB67Z">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jHKgS1"><img class="table-image" src="/img/gaming-speakers/ballista-unity.png" /></a></td>
 		<td><a href="http://amzn.to/2jHKgS1">AVerMedia Ballista Unity Gaming Speakers</a></td>
 		<td>2 Speakers, 1 Subwoofer</td>
 		<td>Medium-low</td>
-		<td><a class="big-button" href="http://amzn.to/2jHKgS1">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2An5miG"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
 		<td><a href="http://amzn.to/2An5miG">Logitech X-540 5.1 Surround Sound Speaker System</a></td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Medium</td>
-		<td><a class="big-button" href="http://amzn.to/2An5miG">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gaming-speakers/audio-series.png" /></a></td>
 		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Corsair Gaming Audio Series SP2500 PC Speaker System</a></td>
 		<td>2 Speakers, 1 Subwoofer</td>
 		<td>Medium</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Corsair+Gaming+Audio+Series+SP2500+PC+Speaker+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
     <tr>
 		<td><a href="http://amzn.to/2nti4rw"><img class="table-image" src="/img/gaming-speakers/razer-l.png" /></a></td>
@@ -86,49 +78,42 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 		<td><a href="http://amzn.to/2ibGakT">Yamaha NS-SP1800BL 5.1 Channel Home Theater Speaker Set</a></td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>Medium</td>
-		<td><a class="big-button" href="http://amzn.to/2ibGakT">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2noNtuV"><img class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
 		<td><a href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
 		<td>5 Speakeres, 1 Subwoofer</td>
 		<td>Medium High</td>
-		<td><a class="big-button" href="http://amzn.to/2noNtuV">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2no3scU"><img class="table-image" src="/img/gaming-speakers/soundsticks.png" /></a></td>
 		<td><a href="http://amzn.to/2no3scU">Harman Kardon SoundSticks Wireless</a></td>
 		<td>8 Speakers, 1 Subwoofer</td>
 		<td>Medium-high</td>
-		<td><a class="big-button" href="http://amzn.to/2no3scU">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ibxpHv"><img class="table-image" src="/img/gaming-speakers/bose.png" /></a></td>
 		<td><a href="http://amzn.to/2ibxpHv">Bose Acoustimass 10 Series V Home Theater Speaker System</a></td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>High</td>
-		<td><a class="big-button" href="http://amzn.to/2ibxpHv">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jHMb9e"><img class="basic-table" src="/img/gaming-speakers/samsung-ht.png" /></a></td>
 		<td><a href="http://amzn.to/2jHMb9e">Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System</a></td>
 		<td>7 Speakers</td>
 		<td>High</td>
-		<td><a class="big-button" href="http://amzn.to/2jHMb9e">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2jKMe42"><img class="table-image" src="/img/gaming-speakers/cinema-100.png" /></a></td>
 		<td><a href="http://amzn.to/2jKMe42">Paradigm Cinema 100 CT 5.1 Speakers</a></td>
 		<td>5 Speakers, 1 Subwoofer</td>
 		<td>High</td>
-		<td><a class="big-button" href="http://amzn.to/2jKMe42">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2BGB1JY"><img class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
 		<td><a href="http://amzn.to/2BGB1JY">Klipsch R-15PM Powered Monitors</a></td>
 		<td>2 Speakers</td>
 		<td>High</td>
-		<td><a class="big-button" href="http://amzn.to/2BGB1JY">Shop Lowest Prices</a></td>
 	</tr>
 </table>
 
