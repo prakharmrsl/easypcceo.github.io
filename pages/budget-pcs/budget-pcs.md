@@ -394,7 +394,7 @@ Though many prebuilt gaming PCs aren't worth the time or the money, there are so
 
 If you know what you're looking for, you can find some great prebuilt alternatives. 
 
-Can you built a budget prebuilt gaming pc? 
+Can you build a budget prebuilt gaming pc? 
 
 The answer is yes.
 
