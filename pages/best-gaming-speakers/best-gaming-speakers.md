@@ -272,3 +272,6 @@ If you're serious about gaming, we highly recommend investing in a high quality 
 Whether you're gaming on the PC or console, good sound quality is important. If you can't hear your opponent, they'll have the upper hand on you. Furthermore, having great surround sound and powerful base really throws you into the action. 
 
 It is our opinion that a great gaming speaker is a must for all serious gamers out there. Even when you're watching TV/movies, a good surround sound speaker system makes it that much beter. 
+
+* TOC
+{:toc}
