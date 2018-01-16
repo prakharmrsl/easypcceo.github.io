@@ -71,7 +71,6 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 		<td><a href="http://amzn.to/2nti4rw">Razer Leviathan Elite Gaming and Music Sound Bar</a></td>
 		<td>1 Soundbar, 1 Subwoofer</td>
 		<td>Medium</td>
-		<td><a class="big-button" href="http://amzn.to/2nti4rw">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a href="http://amzn.to/2ibGakT"><img class="table-image" src="/img/gaming-speakers/yamaha-ns.png" /></a></td>
