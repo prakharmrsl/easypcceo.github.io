@@ -388,6 +388,8 @@ This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p re
 
 ## Viable Prebuilt Option 
 
+![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.png){: .img-middle}
+
 Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
 
 If you know what you're looking for, you can find some great prebuilt alternatives. 
@@ -399,8 +401,6 @@ The answer is yes.
 The [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"}{:target="_blank"} is a great option.
 
 You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"} for just $340. 
-
-![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.png){: .img-right .img-small}
 
 The PC features: 
 
