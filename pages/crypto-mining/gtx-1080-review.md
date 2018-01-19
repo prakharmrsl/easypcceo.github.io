@@ -18,9 +18,36 @@ If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest th
 
 ## 1080 Series Mining Overview
 
-The [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) and [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080 Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) were originally released strictly to deliver maximum gaming performance. However, once miners got their hands on them, that quickly changed. Many employ them as [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) miners. 
+The [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) and [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) were originally released strictly to deliver maximum gaming performance. However, once miners got their hands on them, that quickly changed. Many employ them as [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) miners. 
 
 This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.com/what-is-bitcoin-hash/), power consumption, and the overall mining performance of the GTX 1080 and 1080 Ti. 
+
+## GTX 1080 Mining Profits 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>GPU</th>
+		<th>Ethereum Profits</th>
+		<th>Zcash Profits</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">GTX 1080</a></td>
+		<td>$585.63 Annually</td>
+		<td>$1,286.81 Annually</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080ti.png" /></a></td>
+		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">GTX 1080 Ti</a></td>
+		<td>$976.96 Annually</td>
+		<td>$1,613.55 Annually</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080Ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		
+	</tr>
+</table> 
 
 ## GTX 1080 Hashrate: Ethereum
 
