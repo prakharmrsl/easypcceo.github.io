@@ -22,22 +22,6 @@ The [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=
 
 This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.com/what-is-bitcoin-hash/), power consumption, and the overall mining performance of the GTX 1080 and 1080 Ti. 
 
-## GTX 1080 Ti Specs
-
-* Architecture: Pascal
-* Memory Speed: 11 Gbps
-* Boost Clock: 1582 MHz
-* Frame Buffer: 11 GB GDDR5**X**
-
-## GTX 1080 Specs
-
-* Architecture: Pascal
-* Memory Speed: 10 Gbps
-* Boost Clock: 1733 MHz
-* Frame Buffer: 8 GB GDDR5**X** 
-
-Notice the bolded **X**. The 1080 series use [GDDRX](https://www.quora.com/What-is-the-difference-between-GDDR-and-DDR-memory) memory. Although it delivers better gaming performance (what the cards are designed for), it is actually worse for mining. These cards boast excellent gaming performance, but they definitely weren't designed to mine [Ethereum](/crypto-mining/ethereum-hardware/). However, they can be used to mine other <a href="#mining-other-altcoins">altcoins</a> effectively.
-
 ## GTX 1080 Hashrate: Ethereum
 
 ### GTX 1080 
@@ -148,6 +132,22 @@ If you underpower your card, the power/hash ratio improves, rendering Zcash mini
 		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 </table>
+
+## GTX 1080 Ti Specs
+
+* Architecture: Pascal
+* Memory Speed: 11 Gbps
+* Boost Clock: 1582 MHz
+* Frame Buffer: 11 GB GDDR5**X**
+
+## GTX 1080 Specs
+
+* Architecture: Pascal
+* Memory Speed: 10 Gbps
+* Boost Clock: 1733 MHz
+* Frame Buffer: 8 GB GDDR5**X** 
+
+Notice the bolded **X**. The 1080 series use [GDDRX](https://www.quora.com/What-is-the-difference-between-GDDR-and-DDR-memory) memory. Although it delivers better gaming performance (what the cards are designed for), it is actually worse for mining. These cards boast excellent gaming performance, but they definitely weren't designed to mine [Ethereum](/crypto-mining/ethereum-hardware/). However, they can be used to mine other <a href="#mining-other-altcoins">altcoins</a> effectively.
 
 ## Mining Other Altcoins 
 
