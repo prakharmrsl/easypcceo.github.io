@@ -100,7 +100,7 @@ The [GTX 1060](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=
 
 Take a look at your projected earnings: 
 
-<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=320&HashingUnit=H%2Fs&PowerConsumption=100&CostPerkWh=0.12&MiningPoolFee=1"><img src="/img/cryptocurrency/zcash.png" /></a>
+<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=320&HashingUnit=H%2Fs&PowerConsumption=100&CostPerkWh=0.12&MiningPoolFee=1"><img src="/img/cryptocurrency/gtx-1060-zcash.png" /></a>
 
 $678 annually per card is pretty good considering the initial investment. Still, [Ethereum mining](/crypto-mining/ethereum-hardware/) is more profitable. You can increase your profits with a <a href="#mining-rigs">mining rig</a>.
 
@@ -145,13 +145,14 @@ We'd only recommend using this GPU for mining if it's already in your system at 
 </table>
 
 ## Mining Rigs 
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338246015&customid=&icep_uq=mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/gpu/eth-mining-rig.png" /></a>
 
 A cryptocurrency [mining rig](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338246015&customid=&icep_uq=mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a great way to maximize your profits. The power of 6 mining GPUs is 6X more powerful than one mining GPU! 
 
 You can find [mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338246015&customid=&icep_uq=mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338246015&customid=&icep_uq=mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for a great price. As mentioned previously, they're the best way to maximize your income. 
 
 Proof-of-work is the method used to mine Ethereum, Zcash, and just about every other minable cryptocurrency including [Bitcoin](/crypto-mining/bitcoin-hardware/). Essentialy your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. Finding this value is next to impossible. However, once the value is found the miner is rewarded with Ether.
+
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338246015&customid=&icep_uq=mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img src="/img/gpu/eth-mining-rig.png" /></a>
 
 That being said, the more powerful your mining hardware is the more likely you are to successfully mine Ether, and in turn generate a profit. If you use one of the three GPUs mentioned above, you're off to a good start. 
 
