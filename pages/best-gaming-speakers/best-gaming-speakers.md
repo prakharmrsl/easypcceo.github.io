@@ -97,7 +97,7 @@ Whether you game behind a keyboard and mouse or on the couch, have no fear. Our 
 		<td>High</td>
 	</tr>
 	<tr>
-		<td><a href="http://amzn.to/2jHMb9e"><img class="basic-table" src="/img/gaming-speakers/samsung-ht.png" /></a></td>
+		<td><a href="http://amzn.to/2jHMb9e"><img class="table-image" src="/img/gaming-speakers/samsung-ht.png" /></a></td>
 		<td><a href="http://amzn.to/2jHMb9e">Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System</a></td>
 		<td>7 Speakers</td>
 		<td>High</td>
