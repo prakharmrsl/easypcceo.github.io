@@ -148,6 +148,8 @@ The network is legitimized by miners. Different currencies use different algorit
 
 The faster the GPU can guess and check solutions, the more likely it is to successfully solve the problem. When this happens, a block reward is received. This means the miner who successfully solves the block receives 12.5 Bitcoins directly deposited into their mining wallet. 
 
+![Mining Image](/img/cryptocurrency/mining.jpg)
+
 Your GPU also consumes electricity. It's important to make sure your GPU has a high hashrate and low power consumption, as this ratio really determines your profits. If you pay more in electricity than you generate in mined cryptocurrency, you'll lose money! 
 
 It takes about 10 minutes for miners to verify one block. Every time a block is added to the blockchain, the previous layer is sealed off. This ensures the same person can't send the same Bitcoin twice.  
