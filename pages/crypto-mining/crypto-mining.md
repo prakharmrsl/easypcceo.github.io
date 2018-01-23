@@ -15,7 +15,7 @@ As more and more begin to mine for cryptocurrency, it becomes harder and harder 
 
 Instead of trying to mine a difficult algorithm like Bitcoin, you can mine easier cryptocurrencies. Then, simply convert your mined currency into Bitcoin or any other currency you like. You can do so using [Binance](https://www.binance.com/?ref=16557105), an online cryptocurrency exchange. This way, you'll maximize your profits.  
 
-## Top 7 Most Popular Cryptocurrencies:
+## Top 6 Most Popular Cryptocurrencies:
 
 ### 1. Bitcoin
 
@@ -112,13 +112,6 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 
 [View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
 
-### 7. ZenCash
-![ZenCash Logo](/img/cryptocurrency/zencash-logo.png){: .img-right .img-small}
-
-[ZenCash](/crypto-mining/zencash-hardware/) was created with the privacy of the users in mind. Many refer to it as a *privacy coin.*Transactions are secure and off-the-grid, allowing you to send Zen directly to the recipient's address. In addition, **it's a great currency to mine in 2018!**
-
-[View ZenCash mining graphics cards here](/crypto-mining/zencash-hardware/){: .big-button}
-
 ## Crypto Mining Guide 
 
 This guide will teach you the basics of mining for cryptocurrencies.
@@ -143,19 +136,33 @@ The graphics card is used for solving the complex algorithms that form cryptocur
 
 ## How Mining Works 
 
-Cryptocurrencies consist of blocks of transaction. This is known as the blockchain. Each time a transaction takes place, the public blockchain is updated. 
+Cryptocurrency mining may seem complicated, but it's really quite simple.
 
-Miners put the transaction through a process in which they take the information and apply a formula to it. The end result is a sequence of letters and numbers that is far shorter than the original transaction. This is called a hash. 
+Let's say Bob sends one Bitcoin to Bill. The transaction, like all other crypto transactions, is announced to everyone on the Bitcoin network. The transaction is posted on a huge database known as the **blockchain**, also commonly referred to as the **ledger**. 
 
-Each hash is a version of the hash used before it. Since each hash is based on the one prior, the next hash confirms the previous hash is legitimate.  
+Everyone can see the sender wallet address, recipient wallet address, and the amount of Bitcoins sent. However, the sender's name, location, etc. are kept private. 
 
-For each block, miners use computers, more specifically GPUs to guess answers to a puzzle. When the answer is find, a coin is received as a reward. 
+Everyone has their own copy of the blockchain, and everyone compares their information to ensure they have the same thing. 
 
-The miners use unique header metadata through a hash function. Different currencies use different mining algorithm. For example, [Scrypt](/crypto-mining/scrypt-hardware/) is used by the popular currency [Litecoin](/crypto-mining/litecoin-hardware/). When a valid hash is found, it is sent through the network and added to the public ledger.
+The network is legitimized by miners. Different currencies use different algorithms, Bitcoin's algorithm being SHA-256. Miners use their computer hardware (GPUs or ASICs) to rapidly guess and check solutions to the algorithm. It's so difficult that it'd be next to impossible for humans to solve it. 
 
-There's no way to cheat the system and fake the work, which is why the method used for all cryptocurrencies as of today is called "proof of work". Ethereum is revolutionary in that it is trying to move away from proof-of-work and intead use "proof of stake" (see our guide on [Ethereum Mining](/crypto-mining/ethereum-hardware/)).
+The faster the GPU can guess and check solutions, the more likely it is to successfully solve the problem. When this happens, a block reward is received. This means the miner who successfully solves the block receives 12.5 Bitcoins directly deposited into their mining wallet. 
 
-With this method, miners validate the hashes on the network, and they are rewarded with coins. 
+Your GPU also consumes electricity. It's important to make sure your GPU has a high hashrate and low power consumption, as this ratio really determines your profits. If you pay more in electricity than you generate in mined cryptocurrency, you'll lose money! 
+
+It takes about 10 minutes for miners to verify one block. Every time a block is added to the blockchain, the previous layer is sealed off. This ensures the same person can't send the same Bitcoin twice.  
+
+There are only 21 million Bitcoins that can exist, and currently about 16 million have been mined. Every 210,000 blocks, the block reward splits in half. When Bitcoin first came out, the block reward was 50 Bitcoins. 210,000 blocks later it became 25 Bitcoins, and now it's 12.5 Bitcoins. 
+
+As the block reward halves, theoretically the price of Bitcoin (or whatever currency you're mining) should increase accordingly. Once all Bitcoin are mined, the price should be much higher. At this point in time, miners will receive rewards in the form of transaction fees which are deducted from every transaction. 
+
+This ensures the mining incentive is generally the same at all times. Cryptocurrencies couldn't exist without miners! 
+
+You might find the information in this video useful:
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kubGCSj5y3k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Importance of a Powerful and Efficient GPU 
 

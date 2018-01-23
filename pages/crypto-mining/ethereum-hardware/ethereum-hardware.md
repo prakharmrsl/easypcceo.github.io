@@ -62,7 +62,7 @@ On the other hand, if you're interested in generating passive income, **you can 
 
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
-Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** 
+Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** However, you can't use any GPU. Some are better than others when it comes to mining. For example, the [GTX 1060](/crypto-mining/gtx-1060-review/) is a great GPU for gaming, but it's not the best mining GPU on the market in its price range. 
 
 ![Ethereum Mining ROI](/img/cryptocurrency/ethereum-mining-profitability.png "Ethereum Mining ROI")
 
