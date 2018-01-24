@@ -243,4 +243,3 @@ Small in size, capture cards enable you to record your videos effortlessly.
 With them, you can share your gameplays, set up a stream, craft a YouTube Channel, build a library of video clips and more. Some of the capture cards even come with additional software which will enable you to add voiceovers and edit your recordings. 
 
 There are a wide variety of capture cards available in the market which vary in terms of features, functionality and budget. You may find it difficult to choose the right capture for your particular needs. To make it easy for you to choose the ideal card, we have compiled the list of best capture cards of 2018. 
-
