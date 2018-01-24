@@ -11,8 +11,6 @@ This guide is going to highlight the best capture card for PS4, Xbox One, stream
 
 We're going to be taking a look at the best internal and external capture card, giving you the best bang for your gaming buck! 
 
-![Capture Card](/img/capture-cards/header.jpg){: .img-middle}
-
 ## Best External Capture Cards 
 
 There are two different kinds of capture cards, interanl and external. We're going to give you the best of both world, comparing both options. The following cards are strictly external, ideal for those looking to record console gameplay. 
@@ -52,7 +50,7 @@ External capture cards are convenient and easy to use. Most simply require a USB
 		<td><a target="_blank" href="http://amzn.to/2rytewY"><img alt="Elgato Game Capture HD60S" class="table-image" src="/img/capture-cards/hd60s.png" /></a></td>
 		<td><a target="_blank" href="http://amzn.to/2rytewY">Elgato Game Capture HD60S</a></td>
 		<td>5/5</td>
-		<td><a target="_blank" href="http://amzn.to/2rytewY">Compare Lowest Prices</a></td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2rytewY">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -190,8 +188,6 @@ Internal capture cards provide a multitude of advantages over external cards.
 
 Although they're not portable, they do provide the lowest latency and typically the highest overall video quality. They connect via your motherboard's PCIe connector which is faster than a USB 3.0 connection. 
 
-![HD60 Pro](/img/capture-cards/hd60pro.jpg){: .img-middle}
-
 ## A Closer Look: 4 Best Internal Capture Cards 
 
 <table class="basic-table" align="center">
@@ -222,7 +218,7 @@ Although they're not portable, they do provide the lowest latency and typically 
 		
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2DsVRgt"><img alt="Blackmagic Design Intensity Pro 4K" class="table-image" src="/img/capture-cards/blackmagic.png" /></td>
+		<td><a target="_blank" href="http://amzn.to/2DsVRgt"><img alt="Blackmagic Design Intensity Pro 4K" class="table-image" src="/img/capture-cards/blackmagic.png" /></a></td>
 		<td><a target="_blank" href="http://amzn.to/2DsVRgt">Blackmagic Design Intensity Pro 4K</a></td>
 		<td>4/5</td>
 		<td><a target="_blank" href="http://amzn.to/2DsVRgt">Compare Lowest Prices</a></td>
