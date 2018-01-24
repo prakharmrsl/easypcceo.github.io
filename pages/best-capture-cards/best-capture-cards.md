@@ -11,11 +11,50 @@ This guide is going to highlight the best capture card for PS4, Xbox One, stream
 
 We're going to be taking a look at the best internal and external capture card, giving you the best bang for your gaming buck! 
 
-We're going to be looking at both cheap and more expensive capture cards, but each one is the best capture card for the money. 
+![Capture Card](/img/capture-cards/header.jpg){: .img-middle}
 
 ## Best External Capture Cards 
 
 There are two different kinds of capture cards, interanl and external. We're going to give you the best of both world, comparing both options. The following cards are strictly external, ideal for those looking to record console gameplay. 
+
+External capture cards are convenient and easy to use. Most simply require a USB connection to a computer and an HDMI input. Some don't even require a computer, making recording on the go possible. 
+
+## A Closer Look: 4 Best External Capture Cards
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Review</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2DFKLrT"><img alt="Epiphan AV.io 4K" class="table-image" src="/img/capture-cards/avio.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2DFKLrT">Epiphan AV.io 4K</a></td>
+		<td>5/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2DFKLrT">Compare Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2DvKZyv"><img alt="Razer Ripsaw" class="table-image" src="/img/capture-cards/ripsaw.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2DvKZyv">Razer Ripsaw</a></td>
+		<td>4/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2DvKZyv">Compare Lowest Prices</a></td>
+		
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2E7u7zo"><img class="table-image" alt="AVerMedia Live Gamer Portable 2" src="/img/capture-cards/portable2.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2E7u7zo">AVerMedia Live Gamer Portable 2</a></td>
+		<td>4.5/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2E7u7zo">Compare Lowest Prices</a></td>
+		
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2rytewY"><img alt="Elgato Game Capture HD60S" class="table-image" src="/img/capture-cards/hd60s.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2rytewY">Elgato Game Capture HD60S</a></td>
+		<td>5/5</td>
+		<td><a target="_blank" href="http://amzn.to/2rytewY">Compare Lowest Prices</a></td>
+	</tr>
+</table>
 
 ## [Elgato Game Capture HD60S](http://amzn.to/2rytewY){:target="_blank"} - $160
 <a target="_blank" href="http://amzn.to/2rytewY"><img alt="Elgato Game Capture HD60S" class="img-middle" src="/img/capture-cards/hd60s.png" /></a>
@@ -41,7 +80,13 @@ It has a light emitting diode which changes to red in order to indicate an error
 
 * **Supports HDMI and component AV inputs** - The Razer Ripsaw supports both HDMI and component AV inputs and records at a smooth 60 FPS, even at 1080p resolution. This gives it an edge over other capture cards.
 * **Capability to separate the microphone input from the auxiliary** - The capture card lets you separate the microphone input from the auxiliary. This allows you to give a running commentary of what is happening on the screen and provide the perfect accompanying track. 
-* **Supports most commonly used streaming software** - The Razer Ripsaw comes with the USB 3.0 cable which is used to power the device. The card also comes with HDMI, AV Multi, component AV and 3.5mm audio cables which get you going straight away. It is designed to work with some of the most commonly used and popular streaming softwares like OBS and XSplit. 
+* **Supports most commonly used streaming software** - The Razer Ripsaw comes with the USB 3.0 cable which is used to power the device. The card also comes with HDMI, AV Multi, component AV and 3.5mm audio cables which get you going straight away. It is designed to work with some of the most commonly used and popular streaming softwares like OBS and XSplit.
+
+Elgato is a great company; you can always count on them to create quality products. 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/psF8bhyGnZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+</div>
 
 ## [Pyle PVRC43](http://amzn.to/2E3ldTj){:target="_blank"} - $50
 <a target="_blank" href="http://amzn.to/2E3ldTj"><img alt="Pyle PVRC43" class="img-middle" src="/img/capture-cards/pvrc43.png" />
@@ -126,7 +171,63 @@ RECentral 3 Software is also included which lets you stream while capturing simu
 * **Use without a PC** - You can use the capture card without a PC. Its microSD card slot enables you to capture footage at any time and anywhere without requiring your computer.
 * **Record on the go** - You just need to tap on the hot button to initiate capture in 1080p resolution and 60 FPS.
 
+## [Epiphan AV.io 4K](http://amzn.to/2DFKLrT){:target="_blank"} - $500
+<a target="_blank" href="http://amzn.to/2DFKLrT"><img alt="Epiphan AV.io 4K" class="img-middle" src="/img/capture-cards/avio.png" /></a>
+
+**9.** This capture card is offered by Epiphan Systems which is an elite AV equipment manufacturing company founded in Ottawa, Canada.
+
+The [Epiphan AV.io 4K](http://amzn.to/2DFKLrT){:target="_blank"} provides support for both DVI-D and HDMI video and audio inputs. The card can seamlessly record UHD 4K at 30 FPS and FHD 1080p at 60 FPS. AV.io 4K is a complete plug-and-play device and can be used directly with macOS, Windows and Linux. Additionally, it employs USB 3.0 SuperSpeed for achieving uncompressed and high-quality video capture with optional scaling.
+
+**Features:**
+
+* **Easiest way to capture 4K video** - The plug and play AV.io 4K capture card is auto-detected by Mac, Windows and Linux operating systems. To capture HDMI video sources, simply connect the included cables from your video source to the capture card and then connect it to your computer through USB.
+* **Choose your resolution** - The card captures resolutions up to 4096 x 2160 with 4K UHD video streaming at 30 FPS and 1080p resolution at 60 FPS. You are given the choice to use your video at its original resolution or let the card scale it for you to give you exactly what you need.
+* **4K streaming at any location** - Due to its size, it can fit in your pocket. Being a USB video grabber, its HDMI capture  works perfectly up to 4K on any computer.
+
 ## Best Internal Capture Cards 
+
+Internal capture cards provide a multitude of advantages over external cards.
+
+Although they're not portable, they do provide the lowest latency and typically the highest overall video quality. They connect via your motherboard's PCIe connector which is faster than a USB 3.0 connection. 
+
+![HD60 Pro](/img/capture-cards/hd60pro.jpg){: .img-middle}
+
+## A Closer Look: 4 Best Internal Capture Cards 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>PIC</th>
+		<th>Name</th>
+		<th>Review</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2F8TGza"><img class="table-image" alt="Elgato Game Capture 4K60 Pro" src="/img/capture-cards/pro.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2F8TGza">Elgato Game Capture 4K60 Pro</a></td>
+		<td>5/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2F8TGza">Compare Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2GffLxc"><img class="table-image" alt="AVerMedia Live Gamer HD 2" src="/img/capture-cards/live-gamer-2.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2GffLxc">AVerMedia Live Gamer HD 2</a></td>
+		<td>4/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2GffLxc">Compare Lowest Prices</a></td>
+		
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2DCnwz5"><img alt="elgato game capture hd60 pro" class="table-image" src="/img/capture-cards/hd60.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2DCnwz5">Elgato Game Capture HD60 Pro</a></td>
+		<td>4.5/5</td>
+		<td><a class="big-button" target="_blank" href="http://amzn.to/2DCnwz5">Compare Lowest Prices</a></td>
+		
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://amzn.to/2DsVRgt"><img alt="Blackmagic Design Intensity Pro 4K" class="table-image" src="/img/capture-cards/blackmagic.png" /></td>
+		<td><a target="_blank" href="http://amzn.to/2DsVRgt">Blackmagic Design Intensity Pro 4K</a></td>
+		<td>4/5</td>
+		<td><a target="_blank" href="http://amzn.to/2DsVRgt">Compare Lowest Prices</a></td>
+	</tr>
+</table>
 
 ## [Hauppauge Colossus 2](http://amzn.to/2BoeRLl){:target="_blank"} - $135
 <a target="_blank" href="http://amzn.to/2BoeRLl"><img alt="Hauppauge Colossus 2" class="img-middle" src="/img/capture-cards/colossus.png" /></a>
@@ -218,19 +319,6 @@ The card doesn't stress your CPU which is great for those looking to stream and 
 
 * **Captures full HD videos** - The capture card records full high definition videos at 1080p resolution with a frame rate of 60 FPS with an H.264 hardware encoder.
 * **Compatibility** - The capture card is compatible with popular streaming softwares. It lets you share directly to YouTube, Twitch and more with its built-in commentary and RECentral software.
-
-## [Epiphan AV.io 4K](http://amzn.to/2DFKLrT){:target="_blank"} - $500
-<a target="_blank" href="http://amzn.to/2DFKLrT"><img alt="Epiphan AV.io 4K" class="img-middle" src="/img/capture-cards/avio.png" /></a>
-
-This capture card is offered by Epiphan Systems which is an elite AV equipment manufacturing company founded in Ottawa, Canada.
-
-The [Epiphan AV.io 4K](http://amzn.to/2DFKLrT){:target="_blank"} provides support for both DVI-D and HDMI video and audio inputs. The card can seamlessly record UHD 4K at 30 FPS and FHD 1080p at 60 FPS. AV.io 4K is a complete plug-and-play device and can be used directly with macOS, Windows and Linux. Additionally, it employs USB 3.0 SuperSpeed for achieving uncompressed and high-quality video capture with optional scaling.
-
-**Features:**
-
-* **Easiest way to capture 4K video** - The plug and play AV.io 4K capture card is auto-detected by Mac, Windows and Linux operating systems. To capture HDMI video sources, simply connect the included cables from your video source to the capture card and then connect it to your computer through USB.
-* **Choose your resolution** - The card captures resolutions up to 4096 x 2160 with 4K UHD video streaming at 30 FPS and 1080p resolution at 60 FPS. You are given the choice to use your video at its original resolution or let the card scale it for you to give you exactly what you need.
-* **4K streaming at any location** - Due to its size, it can fit in your pocket. Being a USB video grabber, its HDMI capture  works perfectly up to 4K on any computer.
 
 ## Do You Need a Capture Card? 
 

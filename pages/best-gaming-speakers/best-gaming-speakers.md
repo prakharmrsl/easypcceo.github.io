@@ -5,13 +5,17 @@ layout: page
 seotitle: "15 Best Gaming Speakers of 2018 (Desk/TV)" 
 --- 
 
-Sound is nearly as important as graphics when it comes to gaming. In some cases even more important, as sometimes it's possible to hear the footsteps of your enemy before you see them. 
+If you don't have a great sound system, you're losing out. 
 
-In this list we're examining the 15 best PC and TV gaming speakers for your gaming setup. 
+Literally. 
+
+If you can't hear your opponents in-game, they're going to have an edge on you. 
+
+In titles like CS:GO, Battlefield, Call of Duty and more, footsteps are important. 
+
+Further still, a nice sound system is the perfect addition to your gaming setup. Whether you're tearing it up on the battlefield or watching a movie, good speakers can make or break the experience. 
 
 ![Gaming Speakers Overview](/img/gaming-speakers/overview.png){: .img-middle}
-
-Whether you game behind a keyboard and mouse or on the couch, have no fear. Our list covers speakers compatible with a [gaming PC](/img/budget-pcs/) as well as a TV for all of you console gamers out there.
 
 [Surround sound](https://www.lifewire.com/what-is-surround-sound-audio-2640440) in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
 
