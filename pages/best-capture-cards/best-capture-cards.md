@@ -1,5 +1,5 @@
 ---
-title: The Best Capture Cards for Your Money in 2018
+title: The Best External & Internal Capture Cards for Your Money in 2018
 permalink: "/best-capture-cards/"
 layout: page
 seotitle: 17 Best Capture Cards of 2018 (Comparison)
@@ -9,11 +9,11 @@ Here's the deal:
 
 This guide is going to highlight the best capture card for PS4, Xbox One, streaming, PC gaming, and more. 
 
-We're going to be taking a look at the best internal and external capture card, giving you the best bang for your gaming buck! 
+We're going to be taking a look at the best internal and external capture card, giving you the best bang for your gaming buck! For more information regarding internal graphics cards, <a href="#best-internal-capture-cards">click here</a>.
 
 ## Best External Capture Cards 
 
-There are two different kinds of capture cards, interanl and external. We're going to give you the best of both world, comparing both options. The following cards are strictly external, ideal for those looking to record console gameplay. 
+There are two different kinds of capture cards, interanl and external. We're going to give you the best of both worlds, comparing both options. The following cards are strictly external, ideal for those looking to record console gameplay. 
 
 External capture cards are convenient and easy to use. Most simply require a USB connection to a computer and an HDMI input. Some don't even require a computer, making recording on the go possible. 
 
