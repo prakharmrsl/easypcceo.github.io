@@ -1,11 +1,9 @@
 ---
 title: The Best Capture Cards for Your Money in 2018
-permalink: "/best-capture-card/"
+permalink: "/best-capture-cards/"
 layout: page
 seotitle: 17 Best Capture Cards of 2018 (Comparison)
 ---
-
-![Capture Cards Header](/img/capture-cards/header.jpg)
 
 Here's the deal: 
 
@@ -30,7 +28,7 @@ There are two different kinds of capture cards, interanl and external. We're goi
 * **Quick USB 3.0 connectivity** - HD60S connects to your PC by employing the cutting edge USB 3.0 technology which is quite faster than the older USB versions. The high transfer speed of this capture card is crucial for live streaming as it helps to reduce latency.
 * **Instant streaming, recording, and commentary** - By completely automating the process with its built-in YouTube and Twitch streaming capabilities, HD60S makes sharing your game footage easier. 
 
-## [Razer Ripsaw](http://amzn.to/2DvKZyv){target="_blank"} - $170
+## [Razer Ripsaw](http://amzn.to/2DvKZyv){:target="_blank"} - $170
 <a target="_blank" href="http://amzn.to/2DvKZyv"><img alt="Razer Ripsaw" class="img-middle" src="/img/capture-cards/ripsaw.png" /></a>
 
 **2.** The [Razer Ripsaw](http://amzn.to/2DvKZyv){:target="_blank"} is offered by Razer Inc, a leading gaming company founded in San Diego. The capture card was designed to be sleek, fulfilling the need of those who feel brightly colored gaming hardware unpleasant to look at. 
