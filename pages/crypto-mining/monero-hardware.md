@@ -1,5 +1,5 @@
 ---
-title: "Monero Mining Hardware"
+title: "Monero Mining Hardware Comparison"
 permalink: "/crypto-mining/monero-hardware/"
 layout: page
 seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2018) " 
@@ -7,23 +7,27 @@ seotitle: "5 Best Monero Mining Hardware GPUs and ASICs (2018) "
 
 ![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
 
+The time is now to start mining Monero. 
+
+Here's why: 
+
+Monero's mining algorithm is designed to be both CPU and GPU friendly.
+
+*This makes it profitable to mine with extremely cheap mining hardware*. 
+
+This guide is going to highlight the best gpu for mining Monero.
+
 Monero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
 
-As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
+## Cryptonight Mining Hardware
 
-**If you'd like to learn how to exchange your Monero for other cryptocurrencies or regular currency such as USD, click <a href="#how-to-trade-monero-for-other-cryptocurrencies--usd">here</a>.**
-
-## Best Monero Mining Hardware 
-
-Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there aren't any [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"}s for mining Monero. 
-
-However, there are other viable options. Your CPU and GPU can both be utilized to mine. 
-
-Monero's mining algorithm uses a [Proof of Work](https://www.bitcoinmining.com/what-is-proof-of-work/){:target="_blank"} system called CryptoNight. It was designed to be efficient with the harware of the casual user. 
+Monero's mining algorithm uses a [Proof of Work](https://www.bitcoinmining.com/what-is-proof-of-work/){:target="_blank"} system called **CryptoNight**. It was designed to be efficient with the harware of the casual user. 
 
 The algorithm reduces the performance gap, in turn reducing the efficiency gap between GPUs and CPUs for mining. ASICs are not practical for mining Monero. 
 
 If you want the most from your money, buying as many cheap CPUs is your best bet. 
+
+As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
 
 ## Best Monero Mining CPUs to Consider: 
 
@@ -115,11 +119,17 @@ If you want the most from your money, buying as many cheap CPUs is your best bet
 ## The Most Powerful (and very profitable) Monero Mining GPU
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gpu/xfx-295x2.png" /></a>
 
-The most powerful Monero mining GPU is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day. Take a look: 
+The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day. Take a look: 
 
 ![Monero Mining Profits](/img/cryptocurrency/monero-gpu.png)
 
 Monero mining is a great way to set up passive income, especially with the [R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+
+## Monero ASIC
+
+Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there is not a Cryptonight [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} available for mining monero. 
+
+However, there are other viable options. Your CPU and GPU can both be utilized to mine. 
 
 ## Monero Mining Pools 
 
@@ -138,11 +148,11 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 
 Electricity prices differ. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
 
-## Monero Mining Algorithm 
+## Monero USB Miner 
 
-CryptoNight is Monero's [Proof of Work](https://en.wikipedia.org/wiki/Proof-of-work_system) mining algorithm. 
+Unfortunately there aren't any dedicated USB ASICs for Monero (cryptonight) mining. 
 
-It is memory intensive, and as a result, CryptoNight benefits the casual miner. If you don't want to invest in expensive specialized hardware, Monero is probably the right cryptocurrency for you. 
+On the bright side, you can buy cheap CPUs and still generate a nice profit! 
 
 ## How to Trade Monero for Other Cryptocurrencies & USD
 
