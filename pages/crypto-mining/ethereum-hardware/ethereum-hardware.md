@@ -242,8 +242,6 @@ If you're just looking to buy Ethereum, you should check out popular exchanges l
 
 Once you buy your Ethereum, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
 
-On the other hand, if you're interested in generating passive income, **you can make over $1,400 per card!**
-
 ## How to Start Mining Ethereum 
 
 <div class="vid-container">
