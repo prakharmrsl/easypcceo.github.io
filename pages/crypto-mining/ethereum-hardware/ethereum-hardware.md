@@ -61,9 +61,8 @@ As you can see, the above graph shows the return on investment of the Radeon R9 
 If you invest in multiple cards, you will make even more passive income.
 
 ## Ethereum Mining ASIC? 
-![Ethereum Mining ASIC](/img/cryptocurrency/eth-asic.png){: .img-middle}
 
-Ethereum does not support the use of ASIC hardware. This is because the [Ethereum development team](https://www.ethereum.org/foundation){:target="_blank"} purposely designed Ethereum to be ASIC resistant. 
+Ethereum does not support the use of ASIC hardware. This is because the [Ethereum development team](https://www.ethereum.org/foundation){:target="_blank"} purposely designed Ethereum to be ASIC resistant.
 
 Why? 
 
@@ -222,7 +221,7 @@ Many people want Ethereum but become frustrated when mining doesn't yield the am
 
 The easiest way to acquire Ethereum and Ethereum Classic is to purchase it. 
 
-[You can purchase Ethereum from an exchange like Coinbase quite easily.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
+[You can purchase Ethereum from an exchange like Coinbase quite easily.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"}
 
 ## Ethereum vs. Bitcoin 
 
