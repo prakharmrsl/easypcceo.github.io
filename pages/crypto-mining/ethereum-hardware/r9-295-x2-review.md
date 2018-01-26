@@ -20,7 +20,7 @@ Our rating: **4.5/5**
 [Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"} 
 
 ## Ethereum Mining in 2018 
-![Radeon R9 295X2](/img/cryptocurrency/gpu/r9-295-x2.png){: .img-right .img-small}
+![Radeon R9 295X2](/img/cryptocurrency/gpu/r9-295-x2.png){: .img-middle}
 
 Ethereum is sitting comfortably as one of the most popular [cryptocurrencies](/crypto-mining/) of 2018, second only to [Bitcoin](/crypto-mining/bitcoin-hardware/). Furthermore, mining Ethereum has become quite popular. 
 
