@@ -15,9 +15,9 @@ Monero's mining algorithm is designed to be both CPU and GPU friendly.
 
 *This makes it profitable to mine with extremely cheap mining hardware*. 
 
-This guide is going to highlight the best gpu for mining Monero.
-
 Monero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
+
+This guide is going to highlight the best GPU for mining Monero.
 
 ## Cryptonight Mining Hardware
 
