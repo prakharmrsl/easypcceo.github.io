@@ -4,6 +4,7 @@ permalink: "/crypto-mining/ethereum-hardware/"
 layout: page
 seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2018 (UPDATED)" 
 ---
+![Ethereum Logo](/img/cryptocurrency/ethereum-logo.png){: .img-right .img-small}
 
 Here's the deal: 
 
@@ -12,8 +13,6 @@ Ethereum mining in 2018 is *significantly* more profitable than [mining other al
 However, not all Ethereum mining hardware was created equal. 
 
 Lucky for you, this guide provides you with **the three most profitable Ethereum mining hardware GPUs!** 
-
-![Ethereum Logo](/img/cryptocurrency/ethereum-logo.png){: .img-right .img-small}
 
 ## Ethereum Mining Hardware to Maximize Your Profits
 
@@ -62,7 +61,7 @@ As you can see, the above graph shows the return on investment of the Radeon R9 
 If you invest in multiple cards, you will make even more passive income.
 
 ## Ethereum Mining ASIC? 
-![Ethereum Mining ASIC(/img/cryptocurrency/eth-asic.png)
+![Ethereum Mining ASIC](/img/cryptocurrency/eth-asic.png)
 
 Ethereum does not support the use of ASIC hardware. This is because the [Ethereum development team](https://www.ethereum.org/foundation){:target="_blank"} purposely designed Ethereum to be ASIC resistant. 
 
@@ -120,7 +119,7 @@ Finding the right GPU for mining Ethereum can be difficult. It is important to b
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
-## Ethereum Mining Rigs ![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png)
+## Ethereum Mining Rigs 
 
 Proof-of-work is the method used to mine Ethereum. Essentialy, your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. 
 
@@ -129,6 +128,8 @@ Here's the catch:
 Finding this value is next to impossible. 
 
 That being said, the more powerful your mining hardware is the more likely you are to successfully mine Ether, and in turn generate a profit. If you use one of the three GPUs mentioned above, you're off to a good start. 
+
+![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png)
 
 Of course, *the more GPUs you employ in your rig, the more money you'll make.*
 
