@@ -2,8 +2,18 @@
 title: "Litecoin ASICs and GPUs" 
 permalink: "/crypto-mining/litecoin-hardware/"
 layout: page
-seotitle: "#1 Best Litecoin Mining Hardware ASIC 2018" 
+seotitle: "#1 Best Litecoin Mining Hardware ASICs 2018 (Updated)" 
 ---
+![Litecoin Logo](/img/cryptocurrency/litecoin-logo.png){: .img-right .img-small}
+
+
+Okay, listen up:
+
+*Litecoin mining is very profitable in 2018*. 
+
+This guide is going to provide you with the best Litecoin miner to maximize your profits. 
+
+There are plenty of Litecoin ASICs out there, but not all Litecoin mining hardware was created equal. 
 
 ## What is Litecoin? 
 ![Litecoin Logo](/img/cryptocurrency/litecoin-logo.png){: .img-right .img-small}
@@ -102,6 +112,14 @@ That being said, using the [Antminer L3+](http://rover.ebay.com/rover/1/711-5320
 You can [check your Litecoin mining profitability with this online calculator](https://www.coinwarz.com/calculators/litecoin-mining-calculator){:target="_blank"}
 
 If you don't want to start mining Litecoin, it is still a reliable and safe cryptocurrency to own. [You can buy Litecoin here](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"}
+
+## Best Litecoin Mining Software
+
+In order to mine Litecoin, you'll need to install mining software.
+
+There are many different software options out there, so it can be tough to choose. 
+
+You can follow [this guide](http://www.reviewoutlaw.com/how-to-mine-litecoins-on-windows/){:target="_blank"} to find and setup the best mining software for you!
 
 ## Practicality of Litecoin 
 
