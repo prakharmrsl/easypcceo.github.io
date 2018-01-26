@@ -15,7 +15,7 @@ We've but together five awesome builds ranging from $400-$800.
 
 We promise we've got the perfect gaming PC no matter what your budget is! 
 
-**Take a look:** 
+## The Best Budget Gaming PC Builds
 
 <div id="overview">
 <table class="basic-table" align="center">
