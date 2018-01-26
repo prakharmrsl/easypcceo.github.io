@@ -16,7 +16,6 @@ This guide is going to provide you with the best Litecoin miner to maximize your
 There are plenty of Litecoin ASICs out there, but not all Litecoin mining hardware was created equal. 
 
 ## What is Litecoin? 
-![Litecoin Logo](/img/cryptocurrency/litecoin-logo.png){: .img-right .img-small}
 
 Litecoin is faster than [Bitcoin](/crypto-mining/bitcoin-hardware/), and focuses on smaller transactions. 
 
