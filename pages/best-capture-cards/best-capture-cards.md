@@ -9,13 +9,13 @@ Here's the deal:
 
 This guide is going to highlight the best capture card for PS4, Xbox One, streaming, PC gaming, and more. 
 
-We're going to be taking a look at the best internal and external capture card, giving you the best bang for your gaming buck! For more information regarding internal graphics cards, <a href="#best-internal-capture-cards">click here</a>.
+We're going to be taking a look at the best internal and external capture cards, giving you the best bang for your gaming buck! For more information regarding internal graphics cards, <a href="#best-internal-capture-cards">click here</a>.
 
 ## Best External Capture Cards 
 
 There are two different kinds of capture cards, interanl and external. We're going to give you the best of both worlds, comparing both options. The following cards are strictly external, ideal for those looking to record console gameplay. 
 
-External capture cards are convenient and easy to use. Most simply require a USB connection to a computer and an HDMI input. Some don't even require a computer, making recording on the go possible. 
+Among the many benefits of external capture cards, they are convenient and easy to use. Most simply require a USB connection to a computer and an HDMI input. Some don't even require a computer, making recording on the go possible. 
 
 ## A Closer Look: 4 Best External Capture Cards
 
@@ -61,8 +61,8 @@ External capture cards are convenient and easy to use. Most simply require a USB
 
 **Features:**
 
-* **Outstanding video quality** - A full HD 1080p output, a maximum 40 Mbps bit rate, and a frame rate of up to 60 FPS. These are all responsible for the HD60S’s excellent price to performance. 
-* **Quick USB 3.0 connectivity** - HD60S connects to your PC by employing the cutting edge USB 3.0 technology which is quite faster than the older USB versions. The high transfer speed of this capture card is crucial for live streaming as it helps to reduce latency.
+* **Outstanding video quality** - A full HD 1080p output, a maximum [40 Mbps bit rate](http://help.encoding.com/knowledge-base/article/understanding-bitrates-in-video-files/){:target="_blank"}, and a frame rate of up to 60 FPS. These are all responsible for the HD60S’s excellent price to performance. 
+* **Quick USB 3.0 connectivity** - HD60S connects to your PC by employing the cutting edge USB 3.0 technology which is quite faster than the older USB versions. The high transfer speed of this capture card is crucial for live streaming as it helps to reduce latency. [You can read more about USB 3.0 technology on Wikipedia.](https://en.wikipedia.org/wiki/USB_3.0){:target="_blank"}
 * **Instant streaming, recording, and commentary** - By completely automating the process with its built-in YouTube and Twitch streaming capabilities, HD60S makes sharing your game footage easier. 
 
 ## [Razer Ripsaw](http://amzn.to/2DvKZyv){:target="_blank"} - $170
@@ -109,7 +109,7 @@ The [HDML-Cloner Box Evolve 2](http://amzn.to/2DwoTMi){:target="_blank"} is a sl
 
 **Features:**
 
-* **4K processing** - It can process videos in a 4K resolution. This is a rare feature present among capture cards nowadays, as 4K resolution still isn't mainstream like 1080p. Though the Evolve 2 may not be able to record videos at this high resolution, the downscaled 1080p version of the video is H.264-encoded which means that the video will still retain high quality.
+* **4K processing** - It can process videos in [4K resolution](https://www.cnet.com/news/tv-resolution-confusion-1080p-2k-uhd-4k-and-what-they-all-mean/){:target="_blank"}. This is a rare feature present among capture cards nowadays, as 4K resolution still isn't mainstream like 1080p. Though the Evolve 2 may not be able to record videos at this high resolution, the downscaled 1080p version of the video is H.264-encoded which means that the video will still retain high quality.
 * **Storage options** - The Evolve 2 can store recorded footage in 3 different ways: a TF memory card (up to 32 GB), a USB flash drive ( up to 2TB) or directly on your computer.
 * **Remote control** - The capture card has its own remote control which resembles the regular remote control of a television set. 
 * **Editing software** - With the capture card comes Cloner Alliance’s own editing software. It is a very basic program. If you are keen to do any serious editing apart from trimming or splitting videos, you will have to opt for something more powerful.  
@@ -126,7 +126,7 @@ The [Game Capture HD Pro](http://amzn.to/2F8fdIm){:target="_blank"} offered by R
 **Features:**
 
 * **Video quality** - It records content in full high definition 1080p resolution, though only at 30 FPS. It lags behind some of the more powerful cards.
-* **264 encoding** - H.264 undoubtedly represents the best compression technology currently available. The card enables you to capture high quality content and save space.
+* **264 encoding** - [H.264](https://www.vcodex.com/an-overview-of-h264-advanced-video-coding/){:target="_blank"} undoubtedly represents the best compression technology currently available. The card enables you to capture high quality content and save space.
 * **Analogue connectors** - As the capture card was released towards the end of previous generation consoles, the Game Capture HD PRO contains a total of 10 RCA connectors in its design to facilitate this form of connection as well.
 * **Live Streaming** - It lets you stream console gameplay and commentary live directly to YouTube and TwitchTV. Also, you can auto test bandwidth for detecting live stream speed.
 * **Editing and personalization facility** - Users can edit H.264-encoded game videos and include one out of over 95 transitions, up to 6 picture-in-picture boxes, special effects, soundtracks, gamer-style text overlays and voice changed narration.

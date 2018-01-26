@@ -2,18 +2,18 @@
 title: Ethereum and Ethereum Classic Mining Hardware GPUs and ASICs 
 permalink: "/crypto-mining/ethereum-hardware/"
 layout: page
-seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2018" 
+seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2018 (UPDATED)" 
 ---
 
-## Ethereum Mining Hardware 
+Here's the deal: 
 
-Just like [Decred](/crypto-mining/decred-hardware/) and [Vertcoin](/crypto-mining/vertcoin-hardware/), in order to mine Ethereum, you need a powerful [GPU](https://en.wikipedia.org/wiki/Graphics_processing_unit){:target="_blank"} (Graphics Processing Unit). Originally, the CPU was used for mining, but miners quickly discovered the GPU was far more efficient and effective for mining. Currently, there are no ASICs for mining Ethereum.  
+Ethereum mining in 2018 is *significantly* more profitable than [mining other altcoins](/crypto-mining/). 
+
+However, not all Ethereum mining hardware was created equal. 
+
+Lucky for you, this guide provides you with **the three most profitable Ethereum mining hardware GPUs!** 
 
 ![Ethereum Logo](/img/cryptocurrency/ethereum-logo.png){: .img-right .img-small}
-
-Finding the right GPU for mining Ethereum can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
-
-As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
 ## Ethereum Mining Hardware to Maximize Your Profits
 
@@ -45,42 +45,56 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		
 	</tr>
 	
-</table> 
-
-## Just Looking to Acquire Ethereum? 
-<a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
-
-Don't get me wrong, mining Ethereum with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
-
-If you're just looking to buy Ethereum, you should check out popular exchanges like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) or Gemini. They make it quick and easy to buy Ethereum. 
-
-Once you buy your Ethereum, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
-
-On the other hand, if you're interested in generating passive income, **you can make over $1,400 per card!** 
+</table>  
 
 ## Ethereum Mining Profitability 
 
 Before you spend money on an expensive mining GPU, you probably want to know if you'll see a good return on your investment (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)).
 
-Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** However, you can't use any GPU. Some are better than others when it comes to mining. For example, the [GTX 1060](/crypto-mining/gtx-1060-review/) is a great GPU for gaming, but it's not the best mining GPU on the market in its price range. 
+Look no further. We are here to tell you that **if you use the above mining GPUs, you'll see a great return on your investment.** 
+
+However, you can't use any GPU. Some are better than others when it comes to mining. For example, the [GTX 1060](/crypto-mining/gtx-1060-review/) is a great GPU for gaming, but it's not the best mining GPU on the market in its price range. 
 
 ![Ethereum Mining ROI](/img/cryptocurrency/ethereum-mining-profitability.png "Ethereum Mining ROI")
 
-As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make **over $1,000 annually per card each year.** If you invest in multiple cards, you will make even more passive income.
+As you can see, the above graph shows the return on investment of the Radeon R9 295X2. As stated previously, you'll make **over $1,000 annually per card each year.** 
 
-Comparitively to [Scrypt](/crypto-mining/scrypt-hardware/), Ethereum's mining algorithm is very profitable. 
+If you invest in multiple cards, you will make even more passive income.
 
-This video will teach you how to begin mining Ethereum:
+## Ethereum Mining ASIC? 
+![Ethereum Mining ASIC(/img/cryptocurrency/eth-asic.png)
 
-<div class="vid-container">
+Ethereum does not support the use of ASIC hardware. This is because the [Ethereum development team](https://www.ethereum.org/foundation){:target="_blank"} purposely designed Ethereum to be ASIC resistant. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPzJbDI1yxo?rel=0&amp;start=78" frameborder="0" allowfullscreen></iframe>
+Why? 
 
-</div>
+Generally speaking, ASICs tend to centralize a currency that was once intended to be completely decentralized. 
 
-Unfortunately Ethereum's mining algorithm does not support the use of [ASIC](http://www.sigenics.com/blog/what-is-an-asic)s. 
+Let me explain: 
 
-However, regular GPUs can be used to mine Ethereum. In 2018, Ethereum mining is quite profitable. The following GPUs can mine Ethereum and [Ethereum Classic](https://blockgeeks.com/guides/what-is-ethereum-classic/){:target="_blank"}.
+ASICs are quite expensive, and the average person probably can't afford to spend several thousand dollars on one. Generally speaking, only [whales](https://www.ccn.com/bitcoin-whale/){:target="_blank"} can afford to buy them. 
+
+When they do, they buy a whole lot. 
+
+This is why a majority of Bitcoin mining takes place in China with thousands of ASIC miners housed in a warehouse owned by wealthy investors. 
+
+When a currency (Ethereum) is resistant to ASIC mining, the average person can afford to buy a GPU if they don't already have one. This allows everyone to verify the network instead of a select few with lots of power. 
+
+## Watch Out for VRAM! 
+
+Currently you'll need at least 3GB of dedicated video memory (VRAM) to mine Ethereum. 
+
+The amount of VRAM required to mine Ethereum steadily increases, and it's expected to reach 4GB in late 2018. 
+
+![DAG Size](/img/cryptocurrency/dag-size.jpg)
+
+The Ethereum Directed Acyclic Graph (DAG) file is stored in the GPU's VRAM. 
+
+It increases proportionally to mining difficulty. If you plan to mine with a GPU that doesn't have at least 3GB of VRAM, you won't be able to! 
+
+If you're considering the purchase of an Ethereum mining GPU, make sure it has plenty of VRAM in order to be future proof. 
+
+Both the [Radeon HD 7990](/crypto-mining/ethereum-hardware/radeon-hd-7990-review/) and the [R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/) are great choices! 
 
 ## The Best Ethereum Mining Hardware
 
@@ -102,30 +116,61 @@ Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](h
 
 [Read our Review](/crypto-mining/ethereum-hardware/radeon-rx-480-review/){: .big-button}
 
-## Ethereum Mining Rigs 
-![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png)
+Finding the right GPU for mining Ethereum can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
 
-Proof-of-work is the method used to mine Ethereum. Essentialy, your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. Finding this value is next to impossible. However, once the value is found the miner is rewarded with Ether.
+As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
+
+## Ethereum Mining Rigs ![Ethereum Mining Rigs](/img/gpu/eth-mining-rig.png)
+
+Proof-of-work is the method used to mine Ethereum. Essentialy, your mining hardware is cycling through every every single possible solution until the correct solution is eventually found. 
+
+Here's the catch: 
+
+Finding this value is next to impossible. 
 
 That being said, the more powerful your mining hardware is the more likely you are to successfully mine Ether, and in turn generate a profit. If you use one of the three GPUs mentioned above, you're off to a good start. 
 
-Using common sense, it is obvious that one Ethereum mining GPU won't be as effective as two. Two won't be as effective as three, so on and so forth. With this in mind, it's time to think about [Ethereum mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. 
+Of course, *the more GPUs you employ in your rig, the more money you'll make.*
 
-An Ethereum mining rig is a configuration of two or more Ethereum mining GPUs. In most cases a rig consists of four or more GPUs. Obviously they're more expensive than one GPU, but they also have far superior hashing power. At the end of the day, they're well worth the investment. Sometimes, it's better to buy a few cheaper, less powerful GPUs. For example, the [GTX 1050 Ti](/crypto-mining/gtx-1050ti-review/) doesn't have a very high hashrate. However, it doesn't consume much power either. In fact, four 1050 Ti's is the same price as one R9 295X2 and they have a higher profit ratio. 
+With this in mind, it's time to think about [Ethereum mining rigs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. 
 
-[Shop Ethereum mining rigs on eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Ethereum+mining+rig&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
+An Ethereum mining rig is a configuration of two or more Ethereum mining GPUs. In most cases a rig consists of four or more GPUs. Obviously they're more expensive than one GPU, but they also have far superior hashing power. 
+
+At the end of the day, they're well worth the investment. Sometimes, it's better to buy a few cheaper, less powerful GPUs. 
+
+For example, the [GTX 1050 Ti](/crypto-mining/gtx-1050ti-review/) doesn't have a very high hashrate. However, it doesn't consume much power either. In fact, buying four 1050 Ti's would cost you the same as buying one R9 295X2 and they have a higher profit ratio. 
+
+## Recommended Ethereum Mining Rig Configuration 
+
+We know it's not easy to choose the right parts for a mining rig, especially if you're new to crypto. 
+
+Here's a list of things you should keep in mind: 
+
+* A motherboard with enough PCI slots to accommodate your GPUs 
+* A Riser cable for each GPU 
+* DDR4 RAM (at least 4GB)
+* A case that provides sufficient airflow 
+* A power supply that can power all of your GPUs (careful, running multiple GPUs consumes a lot of electricity!)
+* SSDs are helpful as they increase read/write speeds
+* The proper [mining software](https://cryptosrus.com/ethereum-mining/){:target="_blank"}
+
+**Here are some components to consider:**
+
+* [Multiple RX 580 GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=rx+580&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [The same amount of USB Risers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=usb+risers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [Motherboard with the same amount of PCI slots](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=6+PCI+motherboard&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [4GB DDR4 RAM](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=4GB+DDR4+RAM&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [120 GB SSD](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=120GB+SSD&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [1300 watt PSU](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=1300w+psu&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
+* [Rackmount Server Case](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Rackmount+server+case+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
 ## What is Ethereum? 
 
 Ethereum is distributed among a [public blockchain](https://distributed.com/news/what-is-the-blockchain/){:target="_blank"}, much like [Bitcoin](/crypto-mining/bitcoin-hardware/). 
 
-Ethereum is a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/){:target="_blank"}.
+Ethereum has a completely different blockchain protocol than Bitcoin. Bitcoin's blockchain is based on proof of work. Ethereum's blockchain, although currently is based on proof of work, is soon to become based on [proof of stake](http://www.investopedia.com/news/ethereum-adopt-proofofstake/){:target="_blank"}.
 
-There are real figure heads who run Ethereum, unlike Bitcoin, which is owned by nobody. Ethereum also features decentralized apps. The Ethereum blockchain is the base, and other people can build decentralized blockchains on top of Ethereum. 
-
-Unlike Bitcoin, in the Ethereum blockchain, miners obtain Ether, the crypto token behind the network.  Ethereum's blockchain is its own currency. 
-
-In summary, Ethereum is a new blockchain seperate from Bitcoin with co-founders around the world. It has a different cryptocurrency which is Ether. It can be built upon using a decentralized blockchain. Above all, coming soon, Ethereum will move to proof of stake. 
+There are real figure heads who run Ethereum unlike Bitcoin, which is owned by nobody. Ethereum also features decentralized apps. The Ethereum blockchain is the base, and other people can build decentralized blockchains on top of Ethereum. 
 
 ## Benefits of Mining Ethereum
 
@@ -176,14 +221,33 @@ Many people want Ethereum but become frustrated when mining doesn't yield the am
 
 The easiest way to acquire Ethereum and Ethereum Classic is to purchase it. 
 
-[You can start investing here](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
+[You can purchase Ethereum from an exchange like Coinbase quite easily.](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){: .big-button target="_blank"}
 
 ## Ethereum vs. Bitcoin 
 
-Ethereum is currently the second largest cryptocurrency in the world, trailing Bitcoin. It's been growing rapidly, seeing an increase of about 4000% this year, as opposed to Bitcoin's growth of only 300%. 
+Ethereum is currently the second largest cryptocurrency in the world, trailing Bitcoin. 
 
 Interestingly, not only is it growing quickly, it's also becoming more widely used. 
 
 BTC is a way to store value, but because of its fees and slow transaction times, many are turning to ETH due to its better block time and technology. 
 
 However, [Bitcoin](/crypto-mining/bitcoin-hardware/) is still the #1 cryptocurrency today, and we believe it'll stay that way. 
+
+## Just Looking to Acquire Ethereum? 
+<a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
+
+Don't get me wrong, mining Ethereum with our suggested mining hardware is *very profitable*. However, if you just want to get Ethereum, it's probably not the fastest route. 
+
+If you're just looking to buy Ethereum, you should check out popular exchanges like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) or Gemini. They make it quick and easy to buy Ethereum. 
+
+Once you buy your Ethereum, you can exchange it for Bitcoin and other currencies on popular cryptocurrency exchanges like [Binance](https://www.binance.com/?ref=16557105). 
+
+On the other hand, if you're interested in generating passive income, **you can make over $1,400 per card!**
+
+## How to Start Mining Ethereum 
+
+<div class="vid-container">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPzJbDI1yxo?rel=0&amp;start=78" frameborder="0" allowfullscreen></iframe>
+
+</div>
