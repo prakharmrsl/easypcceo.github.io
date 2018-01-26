@@ -5,11 +5,18 @@ layout: page
 seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 ---
 
-It's 2018, and the time is now to buy your first gaming PC. Boasting incredible graphics and superior performance, if you want the most out of your games, PC is the way to go. 
+Listen up:
 
-However, expensive components may prevent you from pulling the trigger. Fortunately for you, this guide will walk  you through five budget gaming PCs that **won't break the bank.** 
+PC gaming is the best, end of story. 
 
-Furthermore, I'll cover every aspect of PC gaming and answer any questions a new builder could have. 
+If you don't know a thing about computers, have no fear; this guide was made just for you. 
+
+We've but together five awesome builds ranging from $400-$800. 
+
+We promise we've got the perfect gaming PC no matter what your budget is! 
+
+**Take a look:** 
+
 <div id="overview">
 <table class="basic-table" align="center">
 	<tr>
