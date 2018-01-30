@@ -17,22 +17,6 @@ Each transaction is recorded in a public network called the blockchain. Miners v
 
 Bitcoins are transferred directly person to person, which minimizes fees that are associated with most banks and credit card companies. 
 
-## Is Bitcoin Mining Profitable? 
-
-Profitable Bitcoin mining is next to impossible for the average person. 
-
-Here's why:
-
-Most Bitcoin mining is performed in China where electricity costs are low compared to the United States. Big companies own thousands of ASICs housed in a warehouse, all mining 24/7. 
-
-This makes it very difficult for the average person to turn a big profit by mining. 
-
-If you're looking to make money, we recommend you mine [other altcoins](/crypto-mining/). They're *far* more profitable, and they can be exchanged for Bitcoin on exchanges like [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}. 
-
-On the other hand, Bitcoin mining can be quite fun if you're a hobbyist, not to mention it helps the Bitcoin community. 
-
-For those just looking to obtain Bitcoin, it might be easier to buy it from an exchange like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"}. 
-
 ## Bitcoin Mining Hardware
 
 When Bitcoin was first invented, the CPU was used to mine. Quickly miners discovered that the GPU is far more effective. The prices of GPUs across the market skyrocketed as miners bought up all of the GPUs they could get their hands on. 
@@ -41,7 +25,6 @@ Eventually, an ASIC was invented specifically for efficiently mining Bitcoins.
 
 Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"}s. 
 
-Here's a look at the 5 best Bitcoin mining hardware ASICs: 
 
 <table class="basic-table">
 	<tr>
@@ -167,6 +150,22 @@ This miner draws about 845 W from the wall. It does not come with a power supply
 This miner is great for hobbyists who also are looking to make some money. 
 
 [Check Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+R4&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank" .big-button}
+
+## Is Bitcoin Mining Profitable? 
+
+Profitable Bitcoin mining is next to impossible for the average person. 
+
+Here's why:
+
+Most Bitcoin mining is performed in China where electricity costs are low compared to the United States. Big companies own thousands of ASICs housed in a warehouse, all mining 24/7. 
+
+This makes it very difficult for the average person to turn a big profit by mining. 
+
+If you're looking to make money, we recommend you mine [other altcoins](/crypto-mining/). They're *far* more profitable, and they can be exchanged for Bitcoin on exchanges like [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}. 
+
+On the other hand, Bitcoin mining can be quite fun if you're a hobbyist, not to mention it helps the Bitcoin community. 
+
+For those just looking to obtain Bitcoin, it might be easier to buy it from an exchange like [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b){:target="_blank"}. 
 
 ## ASICs' Impact on Decentralization 
 
