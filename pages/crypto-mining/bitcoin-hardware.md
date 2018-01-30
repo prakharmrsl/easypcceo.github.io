@@ -6,7 +6,7 @@ seotitle: "5 Best Bitcoin Mining Hardware ASICs & GPUs for 2018 (Updated)"
 ---
 
 ## What is Bitcoin? 
-<img alt="Bitcoin Logo" class="img-right img-small" src="/img/cryptocurrency/Bitcoin-logo.png" />
+<img alt="Bitcoin Logo" class="img-right img-small" src="/img/cryptocurrency/bitcoin-logo.png" />
 
 
 A Bitcoin is one unit of digital currency. It is considered a decentralized currency because it is not controlled by one person, bank, credit card company, or government.  
