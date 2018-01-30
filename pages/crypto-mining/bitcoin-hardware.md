@@ -170,7 +170,7 @@ This miner is great for hobbyists who also are looking to make some money.
 
 ## ASICs' Impact on Decentralization 
 
-ASICs are specifically developed for mining. They offer insanely high hashing power with low power consumption in comparison. 
+ASICs are specifically developed for mining. They offer insanely high hashing power with low electricity consumption in comparison. 
 
 They seem great at first glance, but they're actually not good for a decentralized cryptocurrency.
 
