@@ -213,3 +213,6 @@ Here are some mining pools to consider:
 * [BitFury](http://bitfury.com/)
 
 Happy mining! 
+
+* TOC
+{:toc}
