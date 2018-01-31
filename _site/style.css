@@ -886,6 +886,12 @@ code {
   margin-bottom: 10px;
   margin-top: 10px;
 }
+@media (max-width: 480px) {
+  .img-right {
+    float: none;
+    margin: auto;
+  }
+}
 
 .img-left {
   float: left;
