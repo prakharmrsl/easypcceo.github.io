@@ -13,8 +13,6 @@
       subhref: "/crypto-mining/monero-hardware/"
     - subtitle: "Zcash Mining"
       subhref: "/crypto-mining/zcash-hardware/"
-    - subtitle: "Cryptocurrency Mining"
-      subhref: "#"
   
 - name: Budget Gaming PCs 
   url: /budget-pcs/
@@ -29,11 +27,9 @@
       subhref: "/budget-pcs/700/"
     - subtitle: "$800 Build"
       subhref: "/budget-pcs/800/"
-    - subtitle: "Budget PCs"
-      subhref: "/budget-pcs/"
 
 - name: Gaming Peripherals
-  url: /enthusiast-pcs/
+  url: /gaming-peripherals/
   subcategories:
     - subtitle: "Gaming Desks"
       subhref: "/best-gaming-desks/"
