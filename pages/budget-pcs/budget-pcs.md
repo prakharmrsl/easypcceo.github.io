@@ -6,11 +6,7 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
-<<<<<<< HEAD
-	<img src="../img/profile/close.jpg" class="circle" alt="">
-=======
 	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
->>>>>>> bbb0aaca0f09dc15757adb1a685cad5919facdca
 	Jacob Tuwiner
 </h3>
 
