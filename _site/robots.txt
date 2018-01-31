@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://www.easypc.io/sitemap.xml
