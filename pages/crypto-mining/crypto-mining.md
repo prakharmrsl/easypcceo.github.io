@@ -5,6 +5,12 @@ layout: page
 seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2018 Updated)" 
 ---
 
+<h3 class="page-subtitle">
+	January 30, 2018 by 
+	<img src="../img/profile/headshot.png" class="circle" alt="">
+	Jacob Tuwiner
+</h3>
+
 Did you know that *over 3,000 new Bitcoins are mined every day?* 
 
 That being said, it's safe to say you can't waste any more time before you get in on the action. 

@@ -16,7 +16,7 @@
   </head>
 
   <body>
-    <div class="wrapper-masthead static">
+    <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
@@ -51,7 +51,14 @@
       </div>
     </div>
 
-    <div id="main" role="main" class="container">
+    <div class="hero">
+      <div class="hero-content">
+        <h2 class="text-center">Welcome to Easy PC</h2>
+        <p class="text-center"> Building your Dream PC, made easy</p>
+      </div>
+    </div>
+
+    <div id="main" role="main">
       {{ content }}
     </div>
 
@@ -64,7 +71,7 @@
           {% endfor %}
           </div>
           <div class="icons">
-            {% include svg-icons.html %}
+            {% include svg-icons.html %}           
           </div>
         </footer>
       </div>

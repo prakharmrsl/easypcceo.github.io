@@ -1,9 +1,47 @@
 - name: Crypto Mining
   url: /crypto-mining/
+  subcategories:
+    - subtitle: "Bitcoin Mining"
+      subhref: "/crypto-mining/bitcoin-hardware/"
+    - subtitle: "Ethereum Mining"
+      subhref: "/crypto-mining/ethereum-hardware/"
+    - subtitle: "Litecoin Mining"
+      subhref: "/crypto-mining/litecoin-hardware/"
+    - subtitle: "Dash Mining"
+      subhref: "/crypto-mining/dash-hardware/"
+    - subtitle: "Monero Mining"
+      subhref: "/crypto-mining/monero-hardware/"
+    - subtitle: "Zcash Mining"
+      subhref: "/crypto-mining/zcash-hardware/"
+    - subtitle: "Cryptocurrency Mining"
+      subhref: "#"
   
 - name: Budget Gaming PCs 
   url: /budget-pcs/
+  subcategories:
+    - subtitle: "$400 Build"
+      subhref: "#"
+    - subtitle: "$500 Build"
+      subhref: "#"
+    - subtitle: "$600 Build"
+      subhref: "#"
+    - subtitle: "$700 Build"
+      subhref: "#"
+    - subtitle: "$800 Build"
+      subhref: "#"
+    - subtitle: "Budget PCs"
+      subhref: "#"
 
-- name: Enthusiast PCs
+- name: Gaming Peripherals
   url: /enthusiast-pcs/
-
+  subcategories:
+    - subtitle: "Gaming Desks"
+      subhref: "#"
+    - subtitle: "Gaming Chairs"
+      subhref: "#"
+    - subtitle: "Gaming Monitors"
+      subhref: "#"
+    - subtitle: "Gaming Speakers"
+      subhref: "#"
+    - subtitle: "Capture Cards"
+      subhref: "#"

@@ -4,70 +4,134 @@ permalink: "/budget-pcs/"
 layout: page
 seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 ---
+<h3 class="page-subtitle">
+	January 30, 2018 by 
+	<img src="../img/profile/headshot.png" class="circle" alt="">
+	Jacob Tuwiner
+</h3>
 
-Listen up:
+<div class="title-block">
+	<div class="title-text">
+		<p>Listen up:</p>
 
-PC gaming is the best, end of story. 
+		<p>PC gaming is the best, end of story. </p>
 
-If you don't know a thing about computers, have no fear; this guide was made just for you. 
+		<p>If you don't know a thing about computers, have no fear; this guide was made just for you. </p>
 
-We've but together five awesome builds ranging from $400-$800. 
+		<p>We've but together five awesome builds ranging from $400-$800. </p>
 
-We promise we've got the perfect gaming PC no matter what your budget is! 
+		<p>We promise we've got the perfect gaming PC no matter what your budget is! </p>
+	</div>
+
+	<img src="/img/case/bitfenix-comrade.png" alt="" class="title-image">
+</div>
+
 
 ## The Best Budget Gaming PC Builds
-
 <div id="overview">
-<table class="basic-table" align="center">
+<table class="basic-table table-colorful" align="center">
 	<tr>
 		<th>Price</th>
 		<th>Name</th>
 		<th>Image</th>
-		<th>Build Guide</th>
+		<th>Components</th>
 		<th>Buy on Amazon</th>
 	</tr>
 	<tr>
 		<td><b>$400</b></td>
 		<td>Extreme Budget Gamer</td>
 		<td><img class="table-image" src="/img/case/cougar mx200.png" /></td>
-		<td><a class="big-button" href="/budget-pcs/400/">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1">Add to Cart</a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+			</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
 		<td>Perfect Balance</td>
 		<td><img class="table-image" src="/img/case/nzxt s340.png" /></td>
-		<td><a class="big-button" href="/budget-pcs/500/">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1">Add to Cart</a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+		</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
 		<td>Stealth Gamer</td>
 		<td><img class="table-image" src="/img/case/cuboid-r1png.png" /></td>
-		<td><a class="big-button" href="/budget-pcs/600/">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1">Add to Cart</a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+		</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
 		<td>Phoenix</td>
 		<td><img class="table-image" src="/img/case/bitfenix-comrade.png" /></td>
-		<td><a class="big-button" href="/budget-pcs/700/">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1">Add to Cart</a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+		</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
 		<td>Monster</td>
 		<td><img class="table-image" src="/img/case/nzxt-s340-black.png" /></td>
-		<td><a class="big-button" href="/budget-pcs/800/">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1">Add to Cart</a></td>
-		
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+		</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
 		<td>Prebuilt PC</td>
 		<td><img class="table-image" src="/img/misc/prebuilt/inspiron-3650.png" /></td>
-		<td><a class="big-button" href="#viable-prebuilt-option">View</a></td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B019TTJD6O&Quantity.1=1&ASIN.2=B01MCU1ERO&Quantity.2=1">Add to Cart</a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1500X</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>Patriot 8GB DDR4</li>
+			<li>Crucial 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B019TTJD6O&Quantity.1=1&ASIN.2=B01MCU1ERO&Quantity.2=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="#">Parts List</a>
+		</a></td>
 	</tr>
 </table>
 </div>
