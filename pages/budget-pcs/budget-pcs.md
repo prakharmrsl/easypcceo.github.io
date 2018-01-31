@@ -18,7 +18,7 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 
 		<p>If you don't know a thing about computers, have no fear; this guide was made just for you. </p>
 
-		<p>We've but together five awesome builds ranging from $400-$800. </p>
+		<p>We've put together five awesome builds ranging from $400-$800. </p>
 
 		<p>We promise we've got the perfect gaming PC no matter what your budget is! </p>
 	</div>
@@ -40,81 +40,81 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 	<tr>
 		<td><b>$400</b></td>
 		<td>Extreme Budget Gamer</td>
-		<td><img class="table-image" src="/img/case/cougar mx200.png" /></td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/cougar mx200.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1500X</li>
-			<li>ASUS GTX 1060 6GB</li>
-			<li>Patriot 8GB DDR4</li>
-			<li>Crucial 256GB SSD</li>
+			<li>Intel Pentium G4560</li>
+			<li>Gigabyte GeForce GTX 1050 Ti 4GB</li>
+			<li>Corsair Vengeance LPX 4GB DDR4-2400</li>
+			<li>Seagate 500GB</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#">Parts List</a>
+		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
 			</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
 		<td>Perfect Balance</td>
-		<td><img class="table-image" src="/img/case/nzxt s340.png" /></td>
+		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1500X</li>
-			<li>ASUS GTX 1060 6GB</li>
-			<li>Patriot 8GB DDR4</li>
-			<li>Crucial 256GB SSD</li>
+			<li>Ryzen 3 1200</li>
+			<li>Gigabyte GeForce GTX 1050 Ti 4GB</li>
+			<li>Ballistix Sport LT 8GB DDR4-2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#">Parts List</a>
+		<a class="big-button" href="#the-perfect-balance-500">Parts List</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
 		<td>Stealth Gamer</td>
-		<td><img class="table-image" src="/img/case/cuboid-r1png.png" /></td>
+		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1500X</li>
-			<li>ASUS GTX 1060 6GB</li>
-			<li>Patriot 8GB DDR4</li>
-			<li>Crucial 256GB SSD</li>
+			<li>AMD Ryzen 3 1200</li>
+			<li>ASUS GTX 1060</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#">Parts List</a>
+		<a class="big-button" href="#the-stealth-gamer-600">Parts List</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
 		<td>Phoenix</td>
-		<td><img class="table-image" src="/img/case/bitfenix-comrade.png" /></td>
+		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1500X</li>
+			<li>AMD Ryzen 5 1400</li>
 			<li>ASUS GTX 1060 6GB</li>
-			<li>Patriot 8GB DDR4</li>
-			<li>Crucial 256GB SSD</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#">Parts List</a>
+		<a class="big-button" href="#the-phoenix-700">Parts List</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
 		<td>Monster</td>
-		<td><img class="table-image" src="/img/case/nzxt-s340-black.png" /></td>
+		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1500X</li>
-			<li>ASUS GTX 1060 6GB</li>
-			<li>Patriot 8GB DDR4</li>
-			<li>Crucial 256GB SSD</li>
+			<li>AMD Ryzen 5 1400</li>
+			<li>GeForce GTX 1070 8GB Mini</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#">Parts List</a>
+		<a class="big-button" href="#the-monster-800">Parts List</a>
 		</a></td>
 	</tr>
 	<tr>
@@ -185,7 +185,7 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">Check out the Guide</a></td>
 </tr>
 	
 </table>
@@ -238,7 +238,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/500/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/500/">Check out the Guide</a></td>
 </tr>
 	
 </table>
@@ -290,7 +290,7 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/600/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/600/">Check out the Guide</a></td>
 </tr>
 	
 </table>
@@ -339,7 +339,7 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/700/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/700/">Check out the Guide</a></td>
 </tr>
 	
 </table>
@@ -393,7 +393,7 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywq5QS">Buy</a></td>
 	</tr>
 <tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/800/">View</a></td>
+	<td colspan="3"><a class="big-button" href="/budget-pcs/800/">Check out the Guide</a></td>
 </tr>
 	
 </table>
