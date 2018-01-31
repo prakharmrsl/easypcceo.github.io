@@ -6,7 +6,7 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
-	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
@@ -44,12 +44,12 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 		<td class="components">
 			<ul>
 			<li>Intel Pentium G4560</li>
-			<li>Gigabyte GeForce GTX 1050 Ti 4GB</li>
-			<li>Corsair Vengeance LPX 4GB DDR4-2400</li>
-			<li>Seagate 500GB</li>
+			<li>MSI GTX 1050 2GB</li>
+			<li>Crucial 8GB DDR4-2133</li>
+			<li>WD RE3 500GB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N9OZI64&Quantity.2=1&ASIN.3=B01ARGXM0Q&Quantity.3=1&ASIN.4=B00VS556S2&Quantity.4=1&ASIN.5=B01MG0733A&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B005LIDU5S&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01GUENTKC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
 		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
 			</a></td>
 	</tr>
@@ -156,33 +156,33 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
-		<td>MSI Pro Series Intel B250</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2yOgqBj">Buy</a></td>	
+		<td>MSI Pro Series Intel B250 PRO-VDH</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErI0bJ">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
-		<td>Corsair Vengeance LPX 4GB DDR4-2400</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2z5K8ms">Buy</a></td>
+		<td>Crucial 8GB DDR4-2133</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2FxE8W2">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
-		<td>Seagate 500 GB Pipeline</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y71Zea">Buy</a></td>
+		<td>WD RE3 500GB</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2GAwOtS">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
-		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+		<td>MSI GeForce GTX 1050 2GB</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErrZT6">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
-		<td>EVGA 450W</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpDV7w">Buy</a></td>
+		<td>APEVIA Venus 450W ATX Power Supply</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2E42dX6">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
 		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072F29JP4/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072F29JP4&linkId=8e7a1aa860b438bde64443e1e3ed9555">Buy</a></td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2DQGTB4">Buy</a></td>
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">Check out the Guide</a></td>
