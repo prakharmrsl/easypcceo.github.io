@@ -49,7 +49,7 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 			<li>WD RE3 500GB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01GUENTKC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
 		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
 			</a></td>
 	</tr>
@@ -176,8 +176,8 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
-		<td>APEVIA Venus 450W ATX Power Supply</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2E42dX6">Buy</a></td>
+		<td>Corsair CX 450 80+ Bronze Certified</td>
+		<td><a target="_blank" class="big-button" href="http://amzn.to/2FB8S8F">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
