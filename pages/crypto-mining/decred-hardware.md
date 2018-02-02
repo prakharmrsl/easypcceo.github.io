@@ -4,6 +4,12 @@ permalink: "/crypto-mining/decred-hardware/"
 layout: page
 seotitle: "#1 Best Decred Mining Hardware GPU: Hashrate, Power Consumption, & More (2018)" 
 ---
+<h3 class="page-subtitle">
+	January 30, 2018 by 
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
 ![GTX 1080 Ti](/img/cryptocurrency/gpu/gtx-1080ti.png){: .img-middle}
  
 Unlike other popular [cryptocurrencies](/crypto-mining/), there isn't an ASIC designed to mine Decred. For the time being, you'll have to stick with a mining [GPU](https://en.bitcoin.it/wiki/Mining){:target="_blank"}. 
