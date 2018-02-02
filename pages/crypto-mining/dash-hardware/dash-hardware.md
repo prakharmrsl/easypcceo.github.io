@@ -4,6 +4,12 @@ permalink: "/crypto-mining/dash-hardware/"
 layout: page
 seotitle: "#1 Best Dash Mining Hardware GPU and ASIC (2018)" 
 --- 
+<h3 class="page-subtitle">
+	January 14, 2018 by 
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
 

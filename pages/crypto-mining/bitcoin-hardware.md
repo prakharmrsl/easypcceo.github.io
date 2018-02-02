@@ -4,6 +4,12 @@ permalink: "/crypto-mining/bitcoin-hardware/"
 layout: page
 seotitle: "5 Best Bitcoin Mining Hardware ASICs & GPUs for 2018 (Updated)" 
 ---
+<h3 class="page-subtitle">
+	January 12, 2018 by 
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
 
 ## What is Bitcoin? 
 <img alt="Bitcoin Logo" class="img-right img-small" src="/img/cryptocurrency/bitcoin-logo.png" />

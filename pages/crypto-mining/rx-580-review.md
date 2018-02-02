@@ -4,6 +4,12 @@ permalink: "/crypto-mining/rx-580-review/"
 layout: page
 seotitle: "RX 580 Mining Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
 ---
+<h3 class="page-subtitle">
+	January 22, 2018 by 
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
 
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/rx-580.png" /></a>
 
