@@ -71,7 +71,7 @@ This card has a hashrate of 800 Sol/s and a power consumption of 260 W. **This h
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Shop Lowest Prices</a>
 
 ## ASUS ROG STRIX GTX 1070 TI Advanced Addition - $600
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/1070ti.png" /></a>
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/gtx-1070-zcash.png" /></a>
 
 
 The [ASUS ROG STRIX GTX 1070 TI Advanced Addition](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a great choice for anyone looking to mine Zcash. 
@@ -83,7 +83,7 @@ In fact, **with this GPU you can expect to see an annual return of over $1,250!*
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=ASUS+ROG+STRIX+GTX+1070+TI+Advanced+Addition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" class="big-button">Shop Lowest Prices</a>
 
 ## MSI RADEON RX 480 - $300
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/rx-480.png" /></a>
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/rx-480-zcash.png" /></a>
 
 Surprisingly, the [MSI RADEON RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=MSI+RADEON+RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} boasts excellent performance for its price, especially when optimized for mining. 
 
