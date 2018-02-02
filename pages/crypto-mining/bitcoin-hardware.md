@@ -6,7 +6,7 @@ seotitle: "5 Best Bitcoin Mining Hardware ASICs & GPUs for 2018 (Updated)"
 ---
 <h3 class="page-subtitle">
 	January 12, 2018 by 
-	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 

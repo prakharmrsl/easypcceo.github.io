@@ -5,8 +5,8 @@ layout: page
 seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
 ---
 <h3 class="page-subtitle">
-	January 19, 2018 by 
-	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	January 16, 2018 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 

@@ -6,7 +6,7 @@ seotitle: "3 Best Ethereum Mining Hardware GPUs and ASICs 2018 (Updated)"
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
-	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 

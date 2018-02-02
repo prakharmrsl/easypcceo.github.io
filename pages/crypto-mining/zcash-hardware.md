@@ -4,6 +4,11 @@ permalink: "/crypto-mining/zcash-hardware/"
 layout: page
 seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2018" 
 ---
+<h3 class="page-subtitle">
+	January 30, 2018 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
 
 ![ZCASH](/img/cryptocurrency/zcash.png "ZCASH"){: .img-right .img-small}
 
