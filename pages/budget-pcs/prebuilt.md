@@ -66,7 +66,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
-		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/case/xtreme.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="prebuilt-table-image" src="/img/case/xtreme.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Intel i5-7400</li>
@@ -81,7 +81,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
-		<td><a href="#"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
+		<td><a href="#"><img class="prebuilt-table-image" src="/img/prebuilt/800.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
