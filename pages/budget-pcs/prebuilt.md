@@ -46,7 +46,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>WD RE3 500GB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="/img/cart.png" alt="">
 		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
 			</a></td>
 	</tr>
@@ -61,7 +61,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2GGMcVP"><img class="table-image" src="../img/cart.png" alt="500 Prebuilt">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2GGMcVP"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
 		<a class="big-button" href="#the-perfect-balance-500">Parts List</a>
 		</a></td>
 	</tr>
@@ -76,12 +76,12 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="../img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/cart.png" alt="">
 		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
-		<td>$700</td>
+		<td><b>$700</b></td>
 		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/case/xtreme.png" /></a></td>
 		<td class="components">
 			<ul>
@@ -91,13 +91,12 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="../img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/cart.png" alt="">
 		<a class="big-button" href="#the-phoenix-700">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
-		<td>Monster</td>
 		<td><a href="#"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
 		<td class="components">
 			<ul>
@@ -107,7 +106,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>WD Caviar Blue 1TB + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="../img/cart.png" alt="800 Prebuilt gaming pc">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
