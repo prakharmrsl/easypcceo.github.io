@@ -1,9 +1,15 @@
 ---
-title: A Closer Look at the Best Gaming Desks of 2017
+title: A Closer Look at the Best Gaming Desks of 2018
 permalink: "/best-gaming-desks/"
 layout: page
-seotitle: "9 Best Gaming Desks of 2017 (Comparison)"
+seotitle: "9 Best Gaming Desks of 2018 (Comparison)"
 ---
+
+<h3 class="page-subtitle">
+	January 26, 2018 by 
+	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
 
 Whether you're a casual gamer or a PC enthusiast, you deserve the ultimate experience behind your mouse and keyboard. 
 
@@ -13,7 +19,7 @@ While peripherals such as headsets, mice and mousepads, keyboards, and chairs ar
 
 Having a sweet gaming desk completes your setup and provides the necessary room and comfort for your PC and peripherals. 
 
-This guide will illustrate the **9 best gaming desks of 2017.** Don't fear if you have a small room, as all sizes have been considred in this top list. We're featuring three budget options, two mid-range options, and lastly, two enthusiast options. 
+This guide will illustrate the **9 best gaming desks of 2018.** Don't fear if you have a small room, as all sizes have been considred in this top list. We're featuring three budget options, two mid-range options, and lastly, two enthusiast options. 
 
 ## Overview of the Desks
 
@@ -151,9 +157,9 @@ If you're interested in using this infographic for your website, please **contac
 
 ---
 
-## 9 Best Gaming Desks of 2017 (Comparison)
+## 9 Best Gaming Desks of 2018 (Comparison)
 
-Here begins the top 7 countdown of the best gaming deks in 2017. Bear in mind that this isn't ordered from best to worst, but rather ordered by the price tag. We're featuring 3 budget options, 2 mid-range and 2 enthusiast options. 
+Here begins the top 7 countdown of the best gaming deks in 2018. Bear in mind that this isn't ordered from best to worst, but rather ordered by the price tag. We're featuring 3 budget options, 2 mid-range and 2 enthusiast options. 
 
 ## Convenience Concepts Modern Student Desk - $76
 ![Convenience Concepts Desk](/img/desk/student-desk.png){: .img-middle}
