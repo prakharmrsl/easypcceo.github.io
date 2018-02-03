@@ -46,7 +46,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
-		<a class="big-button" href="#">PC Overview</a>
+		<a class="big-button" href="#dell-inspiron-i5675-gaming-desktop---500">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
@@ -61,7 +61,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/cart.png" alt="">
-		<a class="big-button" href="#">PC Overview</a>
+		<a class="big-button" href="#dell-inspiron-5675-gaming-pc---600">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
@@ -72,25 +72,40 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>Intel i5-7400</li>
 			<li>AMD Radeon RX 580 4GB</li>
 			<li>8GB DDR4 2400 MHz</li>
-			<li>WD Caviar Blue 1TB</li>
+			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/cart.png" alt="">
-		<a class="big-button" href="#the-phoenix-700">PC Overview</a>
+		<a class="big-button" href="#cyberpowerpc-gamer-extreme---700">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
-		<td><a href="#"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
+		<td><a href="#hp-pavillion-power-premium-gaming-pc---800"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
 			<li>AMD Radeon RX 580</li>
 			<li>8GB DDR4 2400 MHz</li>
-			<li>WD Caviar Blue 1TB + 256GB SSD</li>
+			<li>1TB 7200RPM + 256GB SSD</li>
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
+		<a class="big-button" href="#">PC Overview</a>
+		</a></td>
+	</tr>
+	<tr>
+		<td><b>$1,400</b></td>
+		<td><a href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Intel i7-7700K</li>
+			<li>GeForce GTX 1060 6GB</li>
+			<li>16GB DDR4 2400 MHz</li>
+			<li>1TB 7200RPM + 256GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
@@ -148,14 +163,13 @@ The only drawback of this gaming PC is graphics card's total VRAM. It's only 2GB
 
 Of course, this is to be expected on a budget like this especially with the extremely high cost of RAM and GPUs. Compared to a custom gaming PC, it's still a good deal. 
 
-In addition, you can always upgrade the graphics card in the future once prices cool off a bit. 
+In addition, you can always upgrade the graphics card in the future once prices cool off a bit. If you're able to save up an extra $100 for our $600 prebuilt PC option, you'll see far better performance.
 
 This video should give you an idea of the gaming performance you can expect with this gaming PC: 
 
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/EmUtz1wSn2Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
 
 
 
@@ -320,3 +334,53 @@ This video should give you an idea of the gaming performance you can expect with
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/gIIXIT1PB_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+
+<a href="http://amzn.to/2DYQOou"><img class="img-small img-right" src="/img/prebuilt/1400.png" /></a>
+## [SkyTech Omega Gaming PC](http://amzn.to/2DYQOou){:target="_blank"} - $1400 
+
+This is my pick for the best overkill gaming PC. If you've got a lot of money to spend and you want to turn up every setting to the max while shredding the competition, this is the PC for you. 
+
+Featuring an extremely powerful i7 CPU and a GTX 1060 6GB, this rig is a monster. 
+
+**NOTE:** If you wait for GPU prices to cool off, you can build a gaming PC like this one with a *GTX 1070* which is far superior than the GTX 1060. Unfortunately due to cryptocurrency mining, a GTX 1070 is just ridiculously expensive. 
+
+This PC has 16GB of DDR4 RAM, an SSD for your OS and games, as well as a water cooler which allows for extreme overclocking with your unlocked Intel i7 CPU. 
+
+<table class="basic-table" align="center">
+	<tr>
+		<td><b>CPU</b></td>
+		<td>Intel i7-7700K</td>
+	</tr>
+	<tr>
+		<td><b>RAM</b></td>
+		<td>16GB 2400 MHz</td>
+	</tr>
+	<tr>
+		<td><b>Storage</b></td>
+		<td>WD Caviar Blue 2TB 7200RPM & 240GB SSD</td>
+	</tr>
+	<tr>
+		<td>GPU</td>
+		<td>GeForce GTX 1060 6GB</td>
+	</tr>
+	<tr>
+		<td colspan="3"><a class="big-button" href="http://amzn.to/2DYQOou">Check Lowest Price on Amazon</a></td>
+	</tr>
+</table>
+
+**Pros:** 
+
+* Unlocked Intel i7 CPU
+* Water cooled (great overclocking potential!)
+* 16GB RAM
+* Lots of storage (2TB mass storage and 240GB SSD)
+* Windows 10 
+
+**Cons:**
+
+* High price tag 
+
+This PC is insanely powerful. If you are willing to drop $1,400 on a gaming computer, this is the one for you. 
+
+You can expect 60+ FPS in 1080p resolution max settings for just about all titles. Not only can you game with this PC, you can record, edit, render, stream, multitask, and more. 
