@@ -79,7 +79,7 @@ You'll experience wonderful surround sound, immersing you in the game and provid
 
 It's a 6 piece set (four 2" satellite speakers, a 2" center speaker and a 5.25" subwoofer). You'll be surprised with the quality of these speakers for the price. 
 
-The surround sound makes you feel like you're really in the game, ensuring the most bang for your PC gaming buck. 
+The surround sound makes you feel like you're really in the game, ensuring the most bang for your PC gaming buck. You'll be able to locate your opponent's footsteps with pinpoint accuracy with this speaker system, not to mention they're great for movies and TV too! 
 
 ## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 
@@ -87,7 +87,9 @@ The surround sound makes you feel like you're really in the game, ensuring the m
 
 **3.** Creative has been producing high quality sound systems for a long time. [The Creative T40 Series II](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) lives up to expectations. The T40's are 3.5" taller than the T20's. If you can shell out the extra money, we recommend this line. It offers more power and a more complete audio range. 
 
-These speakers are compatible not only with a PC, but a TV as well and even your smart phone.
+These speakers are compatible not only with a PC, but a TV as well and even your smart phone. 
+
+The bass really packs a punch, a large improvement from the last T20 generation. The treble is quite nice as well. Overall these speakers are superb, making the perfect addition to your gaming setup!
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](http://amzn.to/2jIB67Z) 
 
@@ -235,5 +237,47 @@ Whether you're gaming on the PC or console, good sound quality is important. If 
 
 It is our opinion that a great gaming speaker is a must for all serious gamers out there. Even when you're watching TV/movies, a good surround sound speaker system makes it that much beter. 
 
+## What to Look for in Gaming Speakers 
+
+If you're reading this, you're probably thinking about buying a new set of gaming speakers. Of course, it's easier said than done. 
+
+There are so many factors to consider, and at times it can be overwhelming. 
+
+Don't worry, we've got you covered!
+
+### Bass
+
+The first thing to you need to choose is whether or not your speakers have bass. 
+
+In my opinion, bass is an important part of a speaker system. It provides a nice kick and helps to truly immersify you in the game.
+
+### Surround Sound
+
+You can't experience true surround sound without bass. This brings us to our next point: you'll need to decide the level of surround sound you'd prefer. 
+
+You can choose a 5.1 system or a 2.1 system, but you won't find a 5.1 system without bass. 5.1 provide a far more immersive experience than a stero 2.1 speaker system.
+
+If you're going to be investing in a speaker system, you might as well go for the gold. We'd recommend a 5.1 surround sound system if you can afford one. 
+
+### Features
+
+You'll also need to think about any extra features you may want. Higher end speakers provide plenty of cool features like special audio controls which give you the ability to adjust audio quality.
+
+Lower end speakers usually just provide you with the basics like a power button and a volume knob. 
+
+## Making the Right Decision for You 
+
+You'll have to determine which room in your hosue you're going to setup the speakers. 
+
+If you're in a small space surrounded by neighbors like an apartment, you really shouldn't sound blasting 5.1 speakers.
+
+Unless you have a room just for gaming, saving space is probably important. Don't get a giant speaker set; rather, a small more compact option is probably best for you. 
+
+In addition, you'll need to check your PC to ensure it can even handle the speaker system. Not all rigs can support 5.1 surround sound. Check your motherboard's compatibility before you spend your hard earned money on speakers you can't even use.  
+
+Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
+
+
 * TOC
 {:toc}
+
