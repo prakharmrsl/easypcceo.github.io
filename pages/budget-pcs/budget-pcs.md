@@ -120,20 +120,20 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 		</a></td>
 	</tr>
 	<tr>
-		<td><b>$500</b></td>
-		<td>Prebuilt PC</td>
-		<td><a href="#viable-prebuilt-option"><img class="table-image" src="/img/misc/prebuilt/inspiron-3650.png" /></a></td>
+		<td><b>Prebuilt</b></td>
+		<td>Prebuilt PCs</td>
+		<td><a href="#viable-prebuilt-option"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Intel Core i3-6100</li>
-			<li>GeForce GTX 1050 Ti</li>
-			<li>8GB DDR3 Ram</li>
-			<li>WD Caviar Blue 1 TB</li>
+			<li>Intel i7-7700K</li>
+			<li>GeForce GTX 1060 6GB</li>
+			<li>16GB DDR4 2400 MHz</li>
+			<li>1TB 7200RPM + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B019TTJD6O&Quantity.1=1&ASIN.2=B01MCU1ERO&Quantity.2=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#viable-prebuilt-option">Parts List</a>
-		</a></td>
+		<td>
+		<a class="big-button" href="/budget-pcs/prebuilt/">View Prebuilt PCs</a>
+		</td>
 	</tr>
 </table>
 </div>
