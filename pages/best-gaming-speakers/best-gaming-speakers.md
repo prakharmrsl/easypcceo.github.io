@@ -273,6 +273,8 @@ If you're in a small space surrounded by neighbors like an apartment, you really
 
 Unless you have a room just for gaming, saving space is probably important. Don't get a giant speaker set; rather, a small more compact option is probably best for you. 
 
+![Gaming Speakers in Use](/img/gaming-speakers/use.jpg){: .img-middle}
+
 In addition, you'll need to check your PC to ensure it can even handle the speaker system. Not all rigs can support 5.1 surround sound. Check your motherboard's compatibility before you spend your hard earned money on speakers you can't even use.  
 
 Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
