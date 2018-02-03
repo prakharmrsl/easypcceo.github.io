@@ -17,6 +17,8 @@
 - name: Budget Gaming PCs 
   url: /budget-pcs/
   subcategories:
+    - subtitle: "Prebuilt PCs"
+      subhref: "/budget-pcs/prebuilt/"
     - subtitle: "$400 Build"
       subhref: "/budget-pcs/400/"
     - subtitle: "$500 Build"
