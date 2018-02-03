@@ -267,6 +267,12 @@ If you're looking for a PC that can game in 1080p, record, stream, edit, render,
 
 * Lacking an SSD, but at this budget it's perfectly understandable. In addition, it's easy to install one on your own! 
 
+This video should give you an idea of the gaming performance you can expect with this gaming PC: 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/HPT5_RmKGjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 
 <a target="_blank" href="http://amzn.to/2BZL7FH"><img class="img-small img-right" src="/img/case/xtreme.png" /></a>
 ## [CyberPowerPC Gamer Extreme](http://amzn.to/2BZL7FH){:target="_blank"} - ($700)
@@ -314,6 +320,8 @@ When this CPU is coupled with the power of the RX 580 4GB, it's pretty much game
 **Cons:** 
 
 * An SSD would've been nice, but this PC still kicks butt!
+
+This video should give you an idea of the gaming performance you can expect with this gaming PC: 
 
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/WxaFgaCwMMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -374,4 +382,3 @@ This video should give you an idea of the gaming performance you can expect with
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/gIIXIT1PB_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-
