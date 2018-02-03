@@ -1,8 +1,8 @@
 ---
-title: Prebuilt Gaming PCs: A Good Choice in 2018
+title: "Prebuilt Gaming PCs: A Good Choice in 2018"
 permalink: "/budget-pcs/prebuilt/"
 layout: page
-seotitle: 5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)
+seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)""
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
