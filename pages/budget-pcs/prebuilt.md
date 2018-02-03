@@ -36,7 +36,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
-		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/prebuilt/500.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img class="prebuilt-image" src="/img/prebuilt/500.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Ryzen 3 1200</li>
@@ -45,13 +45,13 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2ECKwM9"><img class="prebuilt-image" src="/img/cart.png" alt="500 Prebuilt">
 		<a class="big-button" href="#dell-inspiron-i5675-gaming-desktop---500">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
-		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="prebuilt-image" src="/img/prebuilt/600.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
@@ -60,13 +60,13 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="prebuilt-image" src="/img/cart.png" alt="">
 		<a class="big-button" href="#dell-inspiron-5675-gaming-pc---600">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
-		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/case/xtreme.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="prebuilt-image" src="/img/case/xtreme.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Intel i5-7400</li>
@@ -75,13 +75,13 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/cart.png" alt="">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="prebuilt-image" src="/img/cart.png" alt="">
 		<a class="big-button" href="#cyberpowerpc-gamer-extreme---700">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
-		<td><a href="#hp-pavillion-power-premium-gaming-pc---800"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
+		<td><a href="#hp-pavillion-power-premium-gaming-pc---800"><img class="prebuilt-image" src="/img/prebuilt/800.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
@@ -90,13 +90,13 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="prebuilt-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#hp-pavillion-power-premium-gaming-pc---800skytech-omega-gaming-pc---1400">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$1,400</b></td>
-		<td><a href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
+		<td><a href="http://amzn.to/2DYQOou"><img class="prebuilt-image" src="/img/prebuilt/1400.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Intel i7-7700K</li>
@@ -105,7 +105,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2DYQOou"><img class="prebuilt-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#skytech-omega-gaming-pc---1400">PC Overview</a>
 		</a></td>
 	</tr>
