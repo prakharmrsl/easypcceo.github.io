@@ -91,7 +91,7 @@ These speakers are compatible not only with a PC, but a TV as well and even your
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](http://amzn.to/2jIB67Z) 
 
-<a target="_blank" href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/gaming.jpg" /></a>
+<a target="_blank" href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/gaming.png" /></a>
 
 **4.** These speakers are sexy and sleek, perfect for PC gaming. There are dual input jacks compatible with PC, TV, DVD and other gaming devices. They even come in different colors. 
 
@@ -99,7 +99,7 @@ The subwoofer that ships with this speaker set delivers excellent bass powered b
 
 ## [AVerMedia Ballista Unity Gaming Speakers](http://amzn.to/2jHKgS1)
 
-<a target="_blank" href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/avermedia.jpg" /></a>
+<a target="_blank" href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/avermedia.png" /></a>
 
 **5.** The [AverMedia Ballista Unity Speakers](http://amzn.to/2jHKgS1) boast superb performance with 40 watts of power. They have dual satellite drivers and a powerful subwoofer. 
 
@@ -200,7 +200,7 @@ This is quite the investment, but it's well worth the money.
 
 ## [Paradigm Cinema 100 CT 5.1 Gaming Speakers](http://amzn.to/2jKMe42)
 
-<a target="_blank" href="http://amzn.to/2jKMe42"><img class="img-middle" src="/img/gaming-speakers/paradigm.jpg" /></a>
+<a target="_blank" href="http://amzn.to/2jKMe42"><img class="img-middle" src="/img/gaming-speakers/paradigm.png" /></a>
 
 **4.** This home theatre system is another great choice for console gaming. These speakers provide amazing sound quality for their price and size.
 
@@ -210,7 +210,7 @@ If you're looking for the best sound quality and a modest pricetag, check out th
 
 ## [Bose Acoustimass 10 Series V Home Theater Speaker](http://amzn.to/2ibxpHv)
 
-<a target="_blank" href="http://amzn.to/2ibxpHv"><img class="img-middle" src="/img/gaming-speakers/bose.jpg" /></a>
+<a target="_blank" href="http://amzn.to/2ibxpHv"><img class="img-middle" src="/img/gaming-speakers/bose.png" /></a>
 
 **5.** If you've got $1000 to spare for a gaming speaker setup, this is our favorite. The Acoustimass 10 series has everything you need for an immersive audio experience. Whether you're racing in Daytona Speedway or battling on the beaches of Normandy, this setup will make it feel like you're really in the game. 
 
