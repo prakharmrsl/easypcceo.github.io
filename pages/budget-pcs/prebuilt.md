@@ -91,7 +91,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
-		<a class="big-button" href="#">PC Overview</a>
+		<a class="big-button" href="#hp-pavillion-power-premium-gaming-pc---800skytech-omega-gaming-pc---1400">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
@@ -106,7 +106,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			</ul>
 		</td>
 		<td><a class="block-cart" target="_blank" href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
-		<a class="big-button" href="#">PC Overview</a>
+		<a class="big-button" href="#skytech-omega-gaming-pc---1400">PC Overview</a>
 		</a></td>
 	</tr>
 </table>
