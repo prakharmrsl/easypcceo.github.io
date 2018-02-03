@@ -279,6 +279,5 @@ In addition, you'll need to check your PC to ensure it can even handle the speak
 
 Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
 
-
 * TOC
 {:toc}
