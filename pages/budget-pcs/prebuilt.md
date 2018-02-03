@@ -36,7 +36,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
-		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/prebuilt/500.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img id="fivehundred-table-prebuilt" src="/img/prebuilt/500.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Ryzen 3 1200</li>
@@ -51,7 +51,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
-		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img id="sixhundred-table-prebuilt" src="/img/prebuilt/600.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
