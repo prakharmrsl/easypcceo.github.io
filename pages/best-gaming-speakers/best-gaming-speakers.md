@@ -2,7 +2,7 @@
 title: "The 15 Best Gaming Speakers of 2018" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "15 Best Gaming Speakers of 2018 (Desk/TV)" 
+seotitle: "15 Best Gaming Speakers of 2018 for PC/Console (Updated)" 
 --- 
 <h3 class="page-subtitle">
 	January 30, 2018 by 
