@@ -6,7 +6,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
-	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
@@ -16,7 +16,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 
 		<p>GPU and RAM prices are insanely high, making it quite hard to build a gaming PC in a cost effective manner.</p>
 
-		<p>While I used to always recommend building a custom rig, at this point in time it seems prebuitl PCs are a better option.</p>
+		<p>While I used to always recommend building a custom rig, at this point in time it seems prebuit PCs are a better option.</p>
 
 		<p>Of course, not all prebuilt PCs are a good bang for your buck.</p>
 
@@ -52,7 +52,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
-		<td><a href="#"><img class="table-image" src="/img/prebuilt/500.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/prebuilt/500.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Ryzen 3 1200</li>
@@ -61,13 +61,13 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>1TB 7200RPM</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2GGMcVP"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
-		<a class="big-button" href="#the-perfect-balance-500">Parts List</a>
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
+		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
-		<td><a href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
@@ -106,7 +106,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>WD Caviar Blue 1TB + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/prebuilt/800.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
@@ -169,14 +169,10 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
-![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
-## The Perfect Balance ($500) 
+<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" class="img-right img-small" src="/img/prebuilt/500.png" /></a>
+## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
 
-The secret to building a cheap and powerful gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
 
-On a budget, $500 is often the price range I recommend.
-
-You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
 
 <table class="basic-table" align="center">
 	<tr>
@@ -223,7 +219,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
 ## [Dell Inspiron 5675 Gaming PC](http://amzn.to/2FHqfVe){:target="_blank"} - $600
-<a href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
+<a target="_blank" href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
 
 This $600 prebuilt gaming PC is one of my personal favorites. It looks great and more importantly, it can game like nobody's business. 
 
