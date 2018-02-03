@@ -22,7 +22,6 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 
 		<p>We searched every corner of the market and hand picked the 5 best prebuilt gaming PCs for the money, just for you. Take a look:</p>
 	</div>
-
 	<a target="_blank" href="http://amzn.to/2BZL7FH"><img src="/img/case/xtreme.png" alt="Best Prebuilt Gaming PC" class="title-image"></a>
 </div>
 
@@ -34,21 +33,6 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 		<th>Image</th>
 		<th>Components</th>
 		<th>Buy on Amazon</th>
-	</tr>
-	<tr>
-		<td><b>$400</b></td>
-		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/cougar mx200.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Intel Pentium G4560</li>
-			<li>MSI GTX 1050 2GB</li>
-			<li>Crucial 8GB DDR4-2133</li>
-			<li>WD RE3 500GB</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="/img/cart.png" alt="">
-		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
-			</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
@@ -113,58 +97,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 </table>
 </div>
 
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
-![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
-
-## The Extreme Budget Gamer ($400) 
-
-You might think a good gaming PC goes for around $700-$800. If you bought your PC prebuilt from a big company, this may be the case. However, if you build the PC yourself, you can score awesome components for just $400. That's right, **just $400.**
-
-This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
-
-Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Intel Pentium G4560</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpDb2e">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>MSI Pro Series Intel B250 PRO-VDH</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErI0bJ">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>Crucial 8GB DDR4-2133</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2FxE8W2">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD RE3 500GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2GAwOtS">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>MSI GeForce GTX 1050 2GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErrZT6">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>Corsair CX 450 80+ Bronze Certified</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2FB8S8F">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2DQGTB4">Buy</a></td>
-	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">Check out the Guide</a></td>
-</tr>	
-</table>
 <a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" id="prebuilt-five-hundred" src="/img/prebuilt/500.png" /></a>
 
 
@@ -223,6 +156,9 @@ This video should give you an idea of the gaming performance you can expect with
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/EmUtz1wSn2Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+
+
+
 ## [Dell Inspiron 5675 Gaming PC](http://amzn.to/2FHqfVe){:target="_blank"} - $600
 <a target="_blank" href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
 
@@ -272,6 +208,7 @@ This video should give you an idea of the gaming performance you can expect with
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/HPT5_RmKGjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
 
 
 <a target="_blank" href="http://amzn.to/2BZL7FH"><img class="img-small img-right" src="/img/case/xtreme.png" /></a>
@@ -328,6 +265,7 @@ This video should give you an idea of the gaming performance you can expect with
 </div>
 
 
+
 <a target="_blank" href="http://amzn.to/2BRguS5"><img alt="$800 prebuilt gaming PC" class="img-right img-small" src="/img/prebuilt/800.png" /></a>
 
 ## [HP Pavillion Power Premium Gaming PC](http://amzn.to/2BRguS5){:target="_blank"} - $800
@@ -382,3 +320,4 @@ This video should give you an idea of the gaming performance you can expect with
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/gIIXIT1PB_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
