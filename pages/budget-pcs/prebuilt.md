@@ -97,7 +97,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
-		<td><a href="#"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
+		<td><a href="#"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>AMD Ryzen 5 1400</li>
@@ -106,7 +106,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 			<li>WD Caviar Blue 1TB + 256GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/prebuilt/800.png" alt="800 Prebuilt gaming pc">
+		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
 		<a class="big-button" href="#">PC Overview</a>
 		</a></td>
 	</tr>
