@@ -114,7 +114,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 
 
 ## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
-<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" id="prebuilt-five-hundred" src="/img/prebuilt/500.png" /></a>
+<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" class="img-right img-small" src="/img/prebuilt/500.png" /></a>
 
 
 The little brother of our $600 prebuilt gaming PC, the [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} is our pick for the best prebuilt gaming PC for around $500. 
