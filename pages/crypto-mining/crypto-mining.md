@@ -15,7 +15,9 @@ Did you know that *over 3,000 new Bitcoins are mined every day?*
 
 That being said, it's safe to say you can't waste any more time before you get in on the action. 
 
-Cryptocurrencies are in, and they're here to stay. 
+Cryptocurrencies are in, and they're here to stay.
+
+This guide is designed to provide you with the best cryptocurrency mining hardware. 
 
 Don't get left behind, start mining now!
 
