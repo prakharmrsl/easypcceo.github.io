@@ -402,3 +402,6 @@ However, prebuilt PCs are a good option.
 For example, the $800 prebuilt PC build in this guide may cost $1,000 or more if you tried to build it on your own. 
 
 It's a great way to save money especially if you're looking to get into the PC gaming community. 
+
+* TOC
+{:toc}
