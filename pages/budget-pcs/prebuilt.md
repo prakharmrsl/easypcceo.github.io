@@ -163,13 +163,11 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 	</tr>
 <tr>
 	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">Check out the Guide</a></td>
-</tr>
-	
+</tr>	
 </table>
+<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" id="prebuilt-five-hundred" src="/img/prebuilt/500.png" /></a>
 
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
-<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" class="img-right img-small" src="/img/prebuilt/500.png" /></a>
 ## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
 
 
