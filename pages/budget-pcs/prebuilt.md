@@ -113,10 +113,9 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 </div>
 
 
+## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
 <a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" id="prebuilt-five-hundred" src="/img/prebuilt/500.png" /></a>
 
-
-## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
 
 The little brother of our $600 prebuilt gaming PC, the [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} is our pick for the best prebuilt gaming PC for around $500. 
 
@@ -225,8 +224,9 @@ This video should give you an idea of the gaming performance you can expect with
 
 
 
-<a target="_blank" href="http://amzn.to/2BZL7FH"><img class="img-small img-right" src="/img/case/xtreme.png" /></a>
 ## [CyberPowerPC Gamer Extreme](http://amzn.to/2BZL7FH){:target="_blank"} - ($700)
+<a target="_blank" href="http://amzn.to/2BZL7FH"><img class="img-small img-right" src="/img/case/xtreme.png" /></a>
+
 
 [This $700 gaming PC](http://amzn.to/2BZL7FH){:target="_blank"} from CyberPowerPC really packs a punch for its pricetag. 
 
@@ -280,9 +280,10 @@ This video should give you an idea of the gaming performance you can expect with
 
 
 
-<a target="_blank" href="http://amzn.to/2BRguS5"><img alt="$800 prebuilt gaming PC" class="img-right img-small" src="/img/prebuilt/800.png" /></a>
 
 ## [HP Pavillion Power Premium Gaming PC](http://amzn.to/2BRguS5){:target="_blank"} - $800
+<a target="_blank" href="http://amzn.to/2BRguS5"><img alt="$800 prebuilt gaming PC" class="img-right img-small" src="/img/prebuilt/800.png" /></a>
+
 
 I couldn't believe my eyes when I stumbled across the [Newest Flagship HP Pavilion Power Premium Gaming VR Ready Desktop](http://amzn.to/2BRguS5){:target="_blank"} gaming PC on Amazon for only $800. It has an AMD Radeon RX 580 which would cost you around $550 alone. 
 
@@ -336,8 +337,9 @@ This video should give you an idea of the gaming performance you can expect with
 </div>
 
 
-<a href="http://amzn.to/2DYQOou"><img class="img-small img-right" src="/img/prebuilt/1400.png" /></a>
 ## [SkyTech Omega Gaming PC](http://amzn.to/2DYQOou){:target="_blank"} - $1400 
+<a href="http://amzn.to/2DYQOou"><img class="img-small img-right" src="/img/prebuilt/1400.png" /></a>
+
 
 This is my pick for the best overkill gaming PC. If you've got a lot of money to spend and you want to turn up every setting to the max while shredding the competition, this is the PC for you. 
 
