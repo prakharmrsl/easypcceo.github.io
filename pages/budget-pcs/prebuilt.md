@@ -386,3 +386,19 @@ This PC has 16GB of DDR4 RAM, an SSD for your OS and games, as well as a water c
 This PC is insanely powerful. If you are willing to drop $1,400 on a gaming computer, this is the one for you. 
 
 You can expect 60+ FPS in 1080p resolution max settings for just about all titles. Not only can you game with this PC, you can record, edit, render, stream, multitask, and more. 
+
+## Benefits of a Prebuilt Gaming PC in 2018 
+
+If you'd asked me my opinion of prebuilt gaming PCs a year ago I'd tell you they're a ripoff. Most prebuilts were overpriced and underpowered; and there are still many overpriced prebuilts on the market.
+
+However, if you know where to look they can be very beneficial, especially now. 
+
+Let me explain: 
+
+A combination of cryptocurrency mining and a VRAM shortage has driven the price of GPUs skyhigh. Furthermore, smartphone production is driving the price of RAM quite high as well. That being said, it's a difficult time to build your own gaming PC.
+
+However, prebuilt PCs are a good option. 
+
+For example, the $800 prebuilt PC build in this guide may cost $1,000 or more if you tried to build it on your own. 
+
+It's a great way to save money especially if you're looking to get into the PC gaming community. 
