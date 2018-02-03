@@ -91,7 +91,7 @@ These speakers are compatible not only with a PC, but a TV as well and even your
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](http://amzn.to/2jIB67Z) 
 
-<a target="_blank" href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/gaming.png" /></a>
+<a target="_blank" href="http://amzn.to/2jIB67Z"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
 
 **4.** These speakers are sexy and sleek, perfect for PC gaming. There are dual input jacks compatible with PC, TV, DVD and other gaming devices. They even come in different colors. 
 
@@ -99,7 +99,7 @@ The subwoofer that ships with this speaker set delivers excellent bass powered b
 
 ## [AVerMedia Ballista Unity Gaming Speakers](http://amzn.to/2jHKgS1)
 
-<a target="_blank" href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/avermedia.png" /></a>
+<a target="_blank" href="http://amzn.to/2jHKgS1"><img class="img-middle" src="/img/gaming-speakers/overview.png" /></a>
 
 **5.** The [AverMedia Ballista Unity Speakers](http://amzn.to/2jHKgS1) boast superb performance with 40 watts of power. They have dual satellite drivers and a powerful subwoofer. 
 
