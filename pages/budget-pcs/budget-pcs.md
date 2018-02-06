@@ -417,7 +417,7 @@ This Easy PC CPU guide will help you navigate the complex marketplace so that yo
 **Tier 1: Extreme Budget** - Intel Pentium G4560
 <a target="_blank" href="http://amzn.to/2BWUDZD"><img class="img-middle" alt="Pentium G4560" src="/img/cpu/pentium.png" /></a>
 
-Coming in at about $75.00 the Intel Pentium G4560 is an excellent choice for budget computers. Besides being viable for everyday usage, this budget beast is a workhorse, capable of keeping up with gaming and resource-intensive multimedia functions. 
+Coming in at about $75.00 the [Intel Pentium G4560](http://amzn.to/2BWUDZD){:target="_blank"} is an excellent choice for budget computers. Besides being viable for everyday usage, this budget beast is a workhorse, capable of keeping up with gaming and resource-intensive multimedia functions. 
 
 This CPU is a dual-core chip on Intel’s Kaby Lake microarchitecture, launched in 2016. In addition to the two cores, there is a total of four threads, which ensure that multitasking is smooth and seamless. 
 
@@ -430,7 +430,7 @@ The onboard graphics chip is capable of outputting 4K resolution at 60 Hz. Altho
 **Tier 2: Low Budget - Ryzen 3 1200** 
 <a target="_blank" href="http://amzn.to/2EHxRrx"><img class="img-middle" alt="r3-1200" src="/img/cpu/ryzen3.png" /></a>
 
-In the next tier, the AMD Ryzen 3 1200 is a fantastic CPU capable of powering a more powerful system. The price consistently hovers around the $110.00 mark, making it a low-price, high-performance processor. 
+In the next tier, the [AMD Ryzen 3 1200](http://amzn.to/2EHxRrx){:target="_blank"} is a fantastic CPU capable of powering a more powerful system. The price consistently hovers around the $110.00 mark, making it a low-price, high-performance processor. 
 
 This chip runs a quad-core design aboard the AMD Zen platform, an improvement on the notably less expensive Intel Pentium G4560. There are a total of four threads to supplement the four cores. 
 
@@ -443,7 +443,7 @@ In terms of processing capability, featuring the Ryzen 3 1200 in a build will an
 **Tier 3: Medium Budget - Intel Core i5-7500** 
 <a target="_blank" href="http://amzn.to/2E57sma"><img class="img-middle" alt="i5-7500" src="/img/cpu/i5-7500.png" /></a>
 
-Priced at $200.00, the Intel Core i5-7500 is an excellent option for gaming builds under the $1000.00 mark. Like the Pentium G4560, this CPU runs of the Kaby Lake infrastructure. 
+Priced at $200.00, the [Intel Core i5-7500](http://amzn.to/2E57sma){:target="_blank"} is an excellent option for gaming builds under the $1000.00 mark. Like the Pentium G4560, this CPU runs of the Kaby Lake infrastructure. 
 
 Powered by a quad-core, four thread platform, the Core i5-7500 is an excellent chip for almost any intensive task and is sufficient for any game. Despite its power, it has a minuscule TDP of 65W, akin to that of the Ryzen 3 1200. 
 
@@ -454,7 +454,7 @@ The processor is capable of outputting 4K video at 60 Hz via DisplayPort. Though
 **Tier 4: High Budget - Intel Core i5-8600k**
 <a target="_blank" href="http://amzn.to/2BZG47m"><img class="img-middle" alt="i5-8600k" src="/img/cpu/i5-8600k.png" /></a>
 
-Sticking with Intel CPUs in the next price tier, the Core i5-8600k is an extremely powerful processor that will last many years and will never bottleneck a system. 
+Sticking with Intel CPUs in the next price tier, the [Core i5-8600k](http://amzn.to/2BZG47m){:target="_blank"} is an extremely powerful processor that will last many years and will never bottleneck a system. 
 
 Priced around $260.00, it is one of the flagship chips of the 8th generation of Intel Core processors. This chip was released in late 2017 and will be a viable option for quite a while. Based at 3.60 GHz clock speed, this powerhouse is capable of turbo-boosting up to an impressive 4.30 GHz, and that is before overclocking. 
 
@@ -467,7 +467,7 @@ As an absolute powerhouse, this CPU allows for smooth, efficient performance for
 **Tier 5: Maximum Performance Budget - Intel Core i7-8700k**
 <a target="_blank" href="http://amzn.to/2GT7EH5"><img class="img-middle" alt="i7-8700k" src="/img/cpu/i7-8700k.png" /></a>
 
-If you have an almost unlimited budget and are looking for maximum performance and extreme capabilities, the expensive Intel Core i7-8700k is a viable option. This processor can handle any task thrown at it with ease. 
+If you have an almost unlimited budget and are looking for maximum performance and extreme capabilities, the expensive [Intel Core i7-8700k](http://amzn.to/2GT7EH5){:target="_blank"} is a viable option. This processor can handle any task thrown at it with ease. 
 
 Despite its monstrous performance, it comes with a hefty price tag, coming in around $375.00. At a base frequency of 3.7 GHz, the i7-8700k can turbo-boost up to 4.7 GHz. Since the processor is unlocked, it can safely be overclocked to almost 5.0 GHz given proper cooling. 
 
