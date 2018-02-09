@@ -483,6 +483,12 @@ It is clear that there must be sufficient computing power from the CPU to enact 
 
 As a general rule of thumb, you should spend more on your graphics card than you do on your processor if you intend to game. 
 
+## Choosing Parts for Your First Gaming PC 
+
+![First Gaming PC Infographic](/img/infographic/first-gaming-pc-infographic.png)
+
+
+
 ## The Full Guide
 
 This is where we get extremely in depth. We're going to cover everything you could possibly want to know about gaming PCs. You can scroll down a bit to find a table of contents which outlines the guide, section by section. 
