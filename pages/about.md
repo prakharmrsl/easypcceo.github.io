@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+seotitle: "About Jacob Tuwiner & Easy PC"
 ---
 
 Easy PC is a website designed to help beginner builders with their first PCs. 
