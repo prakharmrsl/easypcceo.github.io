@@ -11,9 +11,9 @@ My name is Jacob Tuwiner. I'm the owner and creator of Easy PC, a site designed 
 
 I used to be a console gamer back in the day, until I played on my friend's gaming PC for the first time. I couldn't believe my eyes when I saw Battlefield 4 in true 1080p resolution with ultra settings, 60 FPS. I also loved raiding someone's base in Rust which is still my favorite game to this day! From that moment on I knew I had to build a gaming PC.
 
-I used some of my bar mitzvah money to build my first gaming PC. I researched which components would best fit my budget and watched tons of videos on YouTube about PC building. 
-
 ![ME](/img/profile/headshot.png){: .circle .img-right .img-small}
+
+I used some of my bar mitzvah money to build my first gaming PC. I researched which components would best fit my budget and watched tons of videos on YouTube about PC building. 
 
 Then the day arrived. All of my parts finally came in the mail and I assembled my first PC.
 
