@@ -31,7 +31,6 @@
       subhref: "/budget-pcs/800/"
 
 - name: Gaming Peripherals
-  url: 
   subcategories:
     - subtitle: "Gaming Desks"
       subhref: "/best-gaming-desks/"
@@ -43,4 +42,3 @@
       subhref: "/best-gaming-speakers/"
     - subtitle: "Capture Cards"
       subhref: "/best-capture-cards/"
-      
