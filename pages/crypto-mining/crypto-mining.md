@@ -298,4 +298,3 @@ Finally, our fourth and final step.
 ![Sell](/img/cryptocurrency/binance/usd.png)
 
 Navigate to "Buy/Sell" on Coinbase. Then, click Sell. Now, all you have to do is select the bank to which you'd like your currency deposited. Select the amount of BTC to deposit, and hit "Sell Bitcoin". **It's that easy!**
-
