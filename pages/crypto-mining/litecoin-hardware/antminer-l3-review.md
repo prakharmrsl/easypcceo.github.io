@@ -17,7 +17,7 @@ seotitle: "Antminer L3+ Review: Buy This Miner?"
 
 Our rating: **5/5**
 
-[Shop at the Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
+[Shop at the Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: .big-button target="_blank"}
 
 ## Litecoin Mining in 2018
 
@@ -49,12 +49,12 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/L3.png" /></a></td>
+		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/L3.png" /></a></td>
 		<td>504 MH/s</td>
 		<td>800 W</td>
 		<td>691%</td>
 		<td>$4,300</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338114640&customid=&icep_uq=antminer+l3%2B+litecoin&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Compare Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -68,7 +68,7 @@ This miner has a hash rate of 504 MH/s. This is pretty high, yielding a daily re
 
 ## Price
 
-You can find the Antminer L3+ for around $4,300 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=antminer+d3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+You can find the Antminer L3+ for around [$3,000](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}.
 
 Considering the ROI of nearly $6,000 annually, we recommend you purchase an Antminer L3+ right away. 
 
