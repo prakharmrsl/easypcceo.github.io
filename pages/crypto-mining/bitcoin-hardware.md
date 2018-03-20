@@ -2,7 +2,7 @@
 title: The Most Powerful Bitcoin Mining Hardware ASICs 
 permalink: "/crypto-mining/bitcoin-hardware/"
 layout: page
-seotitle: "5 Best Bitcoin Mining Hardware ASICs & GPUs for 2018 (Updated)" 
+seotitle: "5 Best Bitcoin Mining Hardware ASICs of 2018 (SHA-256)" 
 ---
 <h3 class="page-subtitle">
 	January 12, 2018 by 

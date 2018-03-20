@@ -2,7 +2,7 @@
 title: Zcash Mining Hardware GPUs   
 permalink: "/crypto-mining/zcash-hardware/"
 layout: page
-seotitle: "3 Best Zcash Mining Hardware GPUs and ASICs 2018" 
+seotitle: "3 Best Zcash Mining Hardware GPUs of 2018 (Updated)" 
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
