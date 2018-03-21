@@ -39,6 +39,8 @@ Every time a solution is acquired the reward is given as a bitcoin.
 
 Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
+**If you're mining with our suggested mining hardware, you can expect to earn nearly $2,000 annually per card!**
+
 [View Bitcoin mining graphics cards here](/crypto-mining/bitcoin-hardware/){: .big-button}
 
 ### 2. Ethereum 
