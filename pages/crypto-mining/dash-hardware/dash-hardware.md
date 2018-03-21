@@ -60,18 +60,15 @@ Once you break even, you'll have a great source of passive income. Using an ASIC
 
 Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
-## [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate
-){:target="_blank"} - $1300
+## [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} - $1300
 
-The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate
-){:target="_blank"} is by far the best miner on the market.
+The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} is by far the best miner on the market.
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
 The initial investment for this ASIC miner is quite high. However, this miner will pay itself back quickly; the return on investment you'll see from this miner is superb. 
 
-The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate
-){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
+The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
 
 While the power consumption might seem a bit high, the hashing power of this miner makes up for it. 
 

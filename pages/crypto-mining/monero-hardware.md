@@ -2,7 +2,7 @@
 title: "Monero Mining Hardware Comparison"
 permalink: "/crypto-mining/monero-hardware/"
 layout: page
-seotitle: "5 Best Monero Mining Hardware GPUs & CPUs of 2018 (Cryptonight Mining) " 
+seotitle: "5 Best Monero Mining Hardware GPUs & CPUs 2018 (Cryptonight) " 
 ---
 <h3 class="page-subtitle">
 	January 23, 2018 by 

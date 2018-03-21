@@ -37,45 +37,64 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 		<th>IMG</th>
 		<th>Name</th>
 		<th>Hash Rate</th>
-		<th>Cost</th>
+		<th>Rating</th>
 		<th>Shop</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="antminer s5" src="/img/cryptocurrency/gpu/asic/s5.png" /></a></td>
 		<td>Antminer S5</td>
 		<td>1.16 TH/s</td>
-		<td>$140</td>
+		<td>2/5</td>
 		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="Antminer S7" src="/img/cryptocurrency/gpu/asic/s7.png" /></a></td>
 		<td>Antminer S7</td>
 		<td>4.73 TH/s</td>
-		<td>$490</td>
+		<td>3/5</td>
 		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" alt="Antminer S9" src="/img/cryptocurrency/gpu/asic/s9.png" /></a></td>
 		<td>Antminer S9</td>
 		<td>14 TH/s</td>
-		<td>$3,000</td>
+		<td>5/5</td>
 		<td><a class="big-button" target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+R4&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="Antminer R4" src="/img/cryptocurrency/gpu/asic/r4.png" /></a></td>
 		<td>Antminer R4</td>
 		<td>8.6 TH/s</td>
-		<td>$1,000</td>
+		<td>4/5</td>
 		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+R4&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Avalon6&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Avalon6" class="table-image" src="/img/cryptocurrency/gpu/asic/avalon6.png" /></a></td>
 		<td>Avalon6</td>
 		<td>3.5 TH/s</td>
-		<td>$560</td>
+		<td>3.5/5</td>
 		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Avalon6&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 </table>
+
+## Antminer S9 - The Ultimate Bitcoin Miner
+<a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img alt="antminer s9" class="img-right img-small" src="/img/cryptocurrency/gpu/asic/s9.jpg" /></a>
+
+
+The [Antminer S9](https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} is a superb ASIC miner, and is likely to remain profitable for a long time. This miner, though expensive, has a hash rate of 14 TH/s – the S9 demonstrates impressive computing power. 
+
+This ASIC draws 1350 W from the wall, and it is recommended that the Antminer APW-12 1600 Watt PSU be used to power the ASIC. 
+
+The Antminer S9 is an expensive ASIC, but it's worth every penny. Not only is it one of the most powerful miners on the market, it is also energy efficient. It only uses .1 Joules per Gigahash. It is over 2 times as efficient as the Antminer S7. 
+
+With the Antminer S9, **you can expect to generate over $1,900 annually per chip**. Take a look: 
+
+[Antminer S9 Annual Profits](/img/cryptocurrency/s9-profit.jpg)
+
+We recommend getting involved in a [Bitcoin mining pool](https://en.Bitcoin.it/wiki/Comparison_of_mining_pools) to maximize your profits. The Antminer S9 is the most profitable ASIC on the market. 
+
+[Check Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank" .big-button}
+
 ## Antminer S5
 ![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-small}
 
@@ -112,20 +131,6 @@ Unfortunately, based on today's [Bitcoin block difficulty](https://en.bitcoin.it
 NOTE: It is recommended to use the [Bitmain APW3 1600W Antminer power supply.](https://www.amazon.com/gp/product/B01N8UDFTF/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N8UDFTF&linkId=e71b7f5b4c9cb657557c96011a355f7c){:target="_blank"}
 
 [Check Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank" .big-button}
-
-## Antminer S9
-![Antminer S9](/img/cryptocurrency/gpu/asic/s9.jpg "Antminer S9"){: .img-small .img-right}
-
-
-The [Antminer S9](https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} is a eat piece of hardware, and is likely to remain profitable for a long time. This miner, though expensive, has a hash rate of 14 TH/s. It has incredibly high processing power. 
-
-This ASIC draws 1350 W from the wall, and it is recommended that the Antminer APW-12 1600 Watt PSU be used to power the ASIC. 
-
-Though this miner is quite powerful, it is very unlikely that one unit will successfully mine a Bitcoin in a short amount of time. We recommend getting involved in a [Bitcoin mining pool.](https://en.Bitcoin.it/wiki/Comparison_of_mining_pools)
-
-The Antminer S9 is an expensive ASIC, but it's worth every penny. Not only is it one of the most powerful miners on the market, it is also energy efficient. It only uses .1 Joules per Gigahash. It is over 2 times as efficient as the Antminer S7. 
-
-[Check Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank" .big-button}
 
 ## Avalon6 
 ![Avalon6](/img/cryptocurrency/gpu/asic/avalon6.jpg "Avalon6"){: .img-small .img-right}
