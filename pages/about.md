@@ -63,3 +63,5 @@ This site is affiliated with Amazon and eBay. Commissions are earned from purcha
 Keep in mind that the price you pay is the same. These commissions help me maintain and operate this site to help more people build their first rig!
 
 If you have any questions, [contact me using this form](/contact/).
+
+Thanks for checking out my site!
