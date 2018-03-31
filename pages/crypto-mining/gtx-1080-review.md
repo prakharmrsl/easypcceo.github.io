@@ -10,7 +10,7 @@ seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2018)"
 	Jacob Tuwiner
 </h3>
 
-<a href="https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="img-middle" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a>
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a>
 
 **GTX 1080 Mining Overall Scores:**
 
@@ -23,7 +23,7 @@ If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest th
 
 ## 1080 Series Mining Overview
 
-The [GTX 1080](https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate) and [GTX 1080 Ti](https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate) were originally released strictly to deliver maximum gaming performance. However, once miners got their hands on them, that quickly changed. Many employ them as [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) miners. 
+The [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} and [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} were originally released strictly to deliver maximum gaming performance. However, once miners got their hands on them, that quickly changed. Many employ them as [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/) miners. 
 
 This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.com/what-is-bitcoin-hash/), power consumption, and the overall mining performance of the GTX 1080 and 1080 Ti. 
 
@@ -38,18 +38,18 @@ This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.co
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a href="https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a></td>
-		<td><a href="https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">GTX 1080</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">GTX 1080</a></td>
 		<td>20.35 MH/s</td>
 		<td>$1,286.81 Annually</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Compare Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080ti.png" /></a></td>
-		<td><a href="https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">GTX 1080 Ti</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx-1080ti.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">GTX 1080 Ti</a></td>
 		<td>32.04 MH/s</td>
 		<td>$1,613.55 Annually</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Compare Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
 		
 	</tr>
 </table> 
@@ -59,14 +59,14 @@ This review is going to illustrate the GTX 1080 [hashrate](https://99bitcoins.co
 ### GTX 1080 
 ![GTX 1080](/img/cryptocurrency/gpu/gtx-1080.png){: .img-right .img-small}
 
-At stock speeds, the [GTX 1080](https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate) Ethereum mining hashrate is **20.35 MH/s**. The 1080 falls behind the [AMD RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) which hashes at **24.86 MH/s**. Also at stock speeds, the 1080 draws **180 W**.
+At stock speeds, the [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} Ethereum mining hashrate is **20.35 MH/s**. The 1080 falls behind the [AMD RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) which hashes at **24.86 MH/s**. Also at stock speeds, the 1080 draws **180 W**.
 
 The 1080 has issues with VRAM timing, which could be to blame for the lower hashrate. Most in the [Ethereum mining](/crypto-mining/ethereum-hardware/) community agree that this miner isn't very profitable due to their higher price and power consumption. 
 
 ### GTX 1080 Ti
 ![GTX 1080 Ti](/img/cryptocurrency/gpu/gtx-1080ti.png){: .img-right .img-small}
 
-The [GTX 1080 Ti](https://cryptodrilling.com/products/msi-gaming-geforce-gtx-1080-ti-11gb-gdrr5x-352-bit-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate) (at stock speeds) has a hashrate of **32.04 MH/s**. It draws **250 W**, also at stock speeds. 
+The [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} (at stock speeds) has a hashrate of **32.04 MH/s**. It draws **250 W**, also at stock speeds. 
 
 When overclocked, it achieved **up to 35 MH/s**. 
 
@@ -95,29 +95,29 @@ Due to high power consumption and cost, they're not very profitable. However, if
 		<td><a href="/crypto-mining/ethereum-hardware/r9-295-x2-review/">Radeon R9 295 X2</a></td>
 		<td>46 MH/s</td>
 		<td>$600</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-480-8gb.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/radeon-rx-480-review/">Radeon RX 480</a></td>
 		<td>25 MH/s</td>
 		<td>$300</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
 		<td><a href="/crypto-mining/ethereum-hardware/radeon-hd-7990-review/">Radeon HD 7990</a></td>
 		<td>36 MH/s</td>
 		<td>$350</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 </table> 
 
 ## GTX 1080 Hashrate: Zcash
 ![GTX 1080](/img/cryptocurrency/gpu/gtx-1080.png){: .img-right .img-small}
 
-At stock speeds, the [GTX 1080](https://cryptodrilling.com/collections/mining-gpu/products/msi-gaming-geforce-gtx-1080-8gb-gddr5x-sli-vr-ready-graphics-card?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} has a hashrate of **500 Sol/s**. Not bad, but it still falls behind other [Zcash mining hardware](/crypto-mining/zcash-hardware/). 
+At stock speeds, the [GTX 1080](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338234274&customid=&icep_uq=gtx+1080&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} has a hashrate of **500 Sol/s**. Not bad, but it still falls behind other [Zcash mining hardware](/crypto-mining/zcash-hardware/). 
 
 Considering the power consumption of the card, it's still not as profitable. 
 
@@ -125,7 +125,7 @@ Considering the power consumption of the card, it's still not as profitable.
 
 Well, it outputs **740 Sol/s** at stock speeds; not bad. However, it's still drawing 285 W from the wall. If you reduce the power target, you can drop the hashrate to about **600 Sol/s** and the power consumption to around **150 W**. This will drastically increase the power/hash ratio. 
 
-<a href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=740&HashingUnit=H%2Fs&PowerConsumption=285&CostPerkWh=0.12"><img src="/img/cryptocurrency/1080ti-zcash.png" /></a>
+<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=740&HashingUnit=H%2Fs&PowerConsumption=285&CostPerkWh=0.12"><img src="/img/cryptocurrency/1080ti-zcash.png" /></a>
 
 ### Zcash Mining Conclusion
 
@@ -146,22 +146,22 @@ If you underpower your card, the power/hash ratio improves, rendering Zcash mini
 		<td>Sapphire Radeon R9 480X</td>
 		<td>27 MH/s</td>
 		<td>$250</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=RX+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-580-nitro.jpg" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/rx-580-nitro.jpg" /></a></td>
 		<td>Sapphire Radeon RX 580 Nitro+</td>
 		<td>29 MH/s</td>
 		<td>$300</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Sapphire+Radeon+RX+580+Nitro%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 		
 	</tr>
 	<tr>
-		<td><a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx1070.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/gtx1070.png" /></a></td>
 		<td>GeForce GTX 1070 Founders Edition</td>
 		<td>31 MH/s</td>
 		<td>$400</td>
-		<td><a class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
+		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=NVIDIA+GeForce+GTX+1070+Founders+Edition&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Now</a></td>
 	</tr>
 </table>
 
