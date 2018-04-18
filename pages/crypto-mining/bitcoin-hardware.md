@@ -87,9 +87,7 @@ This ASIC draws 1350 W from the wall, and it is recommended that the Antminer AP
 
 The Antminer S9 is an expensive ASIC, but it's worth every penny. Not only is it one of the most powerful miners on the market, it is also energy efficient. It only uses .1 Joules per Gigahash. It is over 2 times as efficient as the Antminer S7. 
 
-With the Antminer S9, **you can expect to generate over $1,900 annually per chip**. Take a look: 
-
-![Antminer S9 Annual Profits](/img/cryptocurrency/antminer-s9-profit.jpeg)
+With the Antminer S9, **you can expect to generate over $1,900 annually per chip**. 
 
 We recommend getting involved in a [Bitcoin mining pool](https://en.Bitcoin.it/wiki/Comparison_of_mining_pools) to maximize your profits. The Antminer S9 is the most profitable ASIC on the market. 
 
