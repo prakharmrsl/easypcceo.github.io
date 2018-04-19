@@ -17,6 +17,10 @@ seotitle: "Antminer L3+ Review: Buy This Miner?"
 
 Our rating: **5/5**
 
+**NOTE:** *You can shop at the lowest prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}*. They currently accept Bitcoin as their main source of payment, as do most major ASIC vendors. They'll be adding additional forms of payment soon, including bank transfers and credit/debit cards.
+
+Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.  
+
 [Shop at the Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: .big-button target="_blank"}
 
 ## Litecoin Mining in 2018

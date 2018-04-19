@@ -54,7 +54,11 @@ Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
 
 
-If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"} is probably the [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}
+If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"} is probably the [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}. 
+
+**NOTE:** *You can shop at the best prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}.* They primarily accept payment in Bitcoin, as do most ASIC vendors. They'll be adding additional forms of payment in the future. 
+
+Mining is far more profitable when you use multiple ASICs. For large orders, or more information, please [contact me](/contact/). 
 
 This miner is the fastest Litecoin mining ASIC on the market today. It can mine at a speed of **504 MH/s** with a max power consumption of **800 W**.
 
