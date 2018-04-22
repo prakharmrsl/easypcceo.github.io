@@ -17,6 +17,8 @@ seotitle: "Antminer D3 Review: Buy This Miner?"
 
 Our rating: **4/5**
 
+**NOTE:** *If you are interested in purchasing an Antminer D3, you can shop at the lowest prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}. Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
+
 [Shop Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: .big-button target="_blank"}
 
 ## Dash Mining in 2018

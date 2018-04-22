@@ -66,6 +66,8 @@ The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/product
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
+**NOTE:** *If you are interested in purchasing an Antminer D3, you can shop at the lowest prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}. Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
+
 The initial investment for this ASIC miner is quite high. However, this miner will pay itself back quickly; the return on investment you'll see from this miner is superb. 
 
 The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
