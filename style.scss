@@ -30,6 +30,9 @@ body {
   max-width: 1170px;
   padding: 0 50px;
   width: 100%;
+  @include mobile {
+    padding: 0 10px;
+  }
 }
 
 h1, h2, h3, h4, h5, h6 {
