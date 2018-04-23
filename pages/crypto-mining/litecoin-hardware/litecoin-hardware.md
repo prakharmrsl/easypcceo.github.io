@@ -5,7 +5,7 @@ layout: page
 seotitle: "The Best Litecoin Mining Hardware ASIC (Updated for 2018)" 
 ---
 <h3 class="page-subtitle">
-	January 26, 2018 by 
+	Updated April 23, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -103,6 +103,12 @@ With earnings like this, it is a good idea to invest in the [Antminer L3+](https
 
 These are highly sought-after miners. They are often out of stock, and are shipped out in batches. Keep your eye out for the next batch that is expected to ship, and pre-order early. 
 
+## Litecoin Overview
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ccv31JU0-MU?start=115" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Litecoin Mining Profitability 
 
 **Using the Antminer L3+, mining Litecoin is very profitable**. 
@@ -163,7 +169,25 @@ Mining pools are a great option for most people, especially those who may not ha
 
 The idea of a mining pool is pretty simple. Instead of mining on your own, a group of people mine together. This makes the mining process faster. Once a coin is mined, all contributors receive a piece of the pie, directly proportional to their contribution. 
 
-[Litecoinpool](https://www.litecoinpool.org/){:target="_blank"} is a popular Litecoin mining pool. 
+[Litecoinpool](https://www.litecoinpool.org/){:target="_blank"} is a popular Litecoin mining pool.
+
+## Scrypt Mining Algorithm 
+
+Litecoin's developers noticed a few things about Bitcoin: 
+
+* Transactions took a long time
+* Bitcoin wasn't practical for everyday transactions
+* ASICs were centralizing the cryptocurrency 
+
+They decided to create Litecoin, an alternative to Bitcoin. 
+
+The token's creators implemented a new Proof-of-Work algorithm known as Scrypt. 
+
+The development team saw what happened to Bitcoin – Bitmain and their ASICs deteriorated the network and caused block difficulty to increase far too quickly. 
+
+Scrypt was designed to be ASIC resistant – unfortunately, after a while, ASICs were developed for Litecoin as well. 
+
+In addition to being 'ASIC resistant', Litecoin was designed to have faster transaction speeds, therefore making it a practical alternative to Bitcoin for everyday transactions. 
 
 * TOC
 {:toc}
