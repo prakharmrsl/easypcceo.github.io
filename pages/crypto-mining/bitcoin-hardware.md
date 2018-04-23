@@ -88,7 +88,7 @@ It is the first ASIC from [Halong Mining](#halong-mining), a new startup company
 
 **NOTE:** The DragonMint 1600W power supply is strongly recommended for this ASIC, though not mandatory. Keep in mind that it does not ship with a power supply, so you'll have to buy one. 
 
-[Check Lowest Prices](https://halongmining.com/shop/dragonmint-16t-miner/){: target="_blank"}
+[Check Lowest Prices](https://halongmining.com/shop/dragonmint-16t-miner/){:  target="_blank" .big-button}
 
 ## Antminer S9 
 <a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img alt="antminer s9" class="img-right img-small" src="/img/cryptocurrency/gpu/asic/s9.jpg" /></a>
@@ -183,7 +183,7 @@ Notable members of the Bitcoin community have confirmed the chips to be real:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As I stated earlier in this thread, we have units, chips and full specs, so we know it is real. We also know about other people who received their units and they&#39;re now mining on the pool.<br><br>We have testing units and quality may change, also we don&#39;t know about delivery times.</p>&mdash; slush (@slushcz) <a href="https://twitter.com/slushcz/status/978293102791266304?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Here's a video of the 16T in action: 
+**Here's a video of the 16T in action:** 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SRCsQUyR7_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
