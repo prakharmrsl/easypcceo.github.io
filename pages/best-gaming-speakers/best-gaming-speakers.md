@@ -1,5 +1,5 @@
 ---
-title: "Gaming Speakers Comparison (PC & Console)" 
+title: "Gaming Speakers Comparison (PC, PS4 and Xbox One)" 
 permalink: "/best-gaming-speakers/"
 layout: page
 seotitle: "15 Best Gaming Speakers of 2018 for PC/Console (Updated)" 
