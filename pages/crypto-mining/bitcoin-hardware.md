@@ -5,7 +5,7 @@ layout: page
 seotitle: "5 Best Bitcoin Mining Hardware ASICs of 2018 (SHA-256)" 
 ---
 <h3 class="page-subtitle">
-	Updated January 12, 2018 by 
+	Updated April 23, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -41,11 +41,11 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="antminer s5" src="/img/cryptocurrency/gpu/asic/s5.png" /></a></td>
-		<td>Antminer S5</td>
-		<td>1.16 TH/s</td>
-		<td>2/5</td>
-		<td><a class="big-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Compare Lowest Prices</a></td>
+		<td><a target="_blank" href="https://halongmining.com/shop/dragonmint-16t-miner/"><img class="table-image" alt="Dragonmint 16t" src="/img/cryptocurrency/dragonmint-16t.jpg" /></a></td>
+		<td>Dragonmint T16</td>
+		<td>16 TH/s</td>
+		<td>5/5</td>
+		<td><a class="big-button" target="_blank" href="https://halongmining.com/shop/dragonmint-16t-miner/">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S7&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="Antminer S7" src="/img/cryptocurrency/gpu/asic/s7.png" /></a></td>
@@ -58,7 +58,7 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" alt="Antminer S9" src="/img/cryptocurrency/gpu/asic/s9.png" /></a></td>
 		<td>Antminer S9</td>
 		<td>14 TH/s</td>
-		<td>5/5</td>
+		<td>4/5</td>
 		<td><a class="big-button" target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Compare Lowest Prices</a></td>
 	</tr>
 	<tr>
@@ -77,7 +77,20 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 	</tr>
 </table>
 
-## Antminer S9 - The Ultimate Bitcoin Miner
+## Dragonmint T16 
+![Halong Mining Dragonmint T16](/img/cryptocurrency/dragonmint-16t.jpg){: .img-right .img-small}
+
+The Dragonmint T16 is the world's most advanced ASIC miner – utilizing a new DM8575 chip design, the Dragonmint T16 is the first to achieve 16 TH/s. 
+
+Despite its remarkable hashrate, the 16T remains power efficient, consuming just 0.075J/GH. As opposed to Bitmain's Antminer S9, which consumes 0.098J/GH, the Dragonmint T16 is clearly superior. 
+
+It is the first ASIC from [Halong Mining](#halong-mining), a new startup company specilazing in ASIC hardware. Bitmain's billion dollar monopoloy on the ASIC market is finally coming to an end! 
+
+**NOTE:** The DragonMint 1600W power supply is strongly recommended for this ASIC, though not mandatory. Keep in mind that it does not ship with a power supply, so you'll have to buy one. 
+
+[Check Lowest Prices](https://halongmining.com/shop/dragonmint-16t-miner/){: target="_blank"}
+
+## Antminer S9 
 <a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img alt="antminer s9" class="img-right img-small" src="/img/cryptocurrency/gpu/asic/s9.jpg" /></a>
 
 
@@ -96,22 +109,6 @@ We recommend getting involved in a [Bitcoin mining pool](https://en.Bitcoin.it/w
 **Mining is far more profitable when you utilize the power of multiple ASICs.** For large orders, please [contact me](/contact/).   
 
 [Check Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-s9-14-th-s-with-psu?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank" .big-button}
-
-## Antminer S5
-![Antminer S5](/img/cryptocurrency/gpu/asic/s5.png "Antminer S5"){: .img-right .img-small}
-
-
-The [Antminer S5](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} was realeased in 2014, and at the time it was one of the fastest Bitcoin miners on the market. Since its release, it has been surpassed by newer miners. 
-
-Is it still practical today? 
-
-If you're mining as a hobby, then the answer is yes. However, if you're looking to mine for serious profit, check out our other miners below.
-
-The Antminer S5 has a hash rate of 1.16 TH/s and a uses around 560-590 watts at max load. 
-
-NOTE: This miner does NOT include a powersupply. We recommend the [EVGA SuperNOVA 650 Watt 80+ Gold Certified PSU.](https://www.amazon.com/gp/product/B00K85X2AW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K85X2AW&linkCode=as2&tag=cryptocurrency06-20&linkId=7e3535363283f1ab2258a72f4904ebca){:target="_blank"}.
-
-[Check Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+S5&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank" .big-button}
 
 ## Antminer S7 
 ![Antminer S7](/img/cryptocurrency/gpu/asic/s7.jpg "Antminer S7"){: .img-small .img-right}
@@ -163,6 +160,34 @@ This miner draws about 845 W from the wall. It does not come with a power supply
 This miner is great for hobbyists who also are looking to make some money. 
 
 [Check Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+R4&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank" .big-button}
+
+## Halong Mining 
+
+When Halong Mining announced their newest ASIC, the Dragonmint 16T, they were met with doubt, as the cryptocurrency community has seen its fair share of fake startup companies and ICO exit scams. 
+
+It's hard to blame the company's skeptics, especially when Halong claimed their ASIC was "the most powerful and efficient ASIC chip to date". 
+
+Led by BtcDrak, one of the most prominent Bitcoin core developers, they spent more than $30 million dollars on research and development.
+
+BtcDrak remarked: 
+
+<blockquote>
+	<p>The project is motivated by, and driven to help facilitate greater decentralisation in Bitcoin mining at all levels, and make SHA-256 great again.
+	</p>
+</blockquote>
+
+Despite the community's pushback, Halong Mining proved themselves to be legitimate. Their first batch of miners shipped on schedule.
+
+Notable members of the Bitcoin community have confirmed the chips to be real: 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">As I stated earlier in this thread, we have units, chips and full specs, so we know it is real. We also know about other people who received their units and they&#39;re now mining on the pool.<br><br>We have testing units and quality may change, also we don&#39;t know about delivery times.</p>&mdash; slush (@slushcz) <a href="https://twitter.com/slushcz/status/978293102791266304?ref_src=twsrc%5Etfw">March 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Here's a video of the 16T in action: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SRCsQUyR7_I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+It's safe to say Bitmain has some competition!
 
 ## Is Bitcoin Mining Profitable? 
 
