@@ -191,7 +191,7 @@ Joining a mining pool will yield faster results, and increase your chances of su
 Zcash seems to be a profitable cryptocurrency to mine in 2018. In fact, you can expect to see profits just shy of $1,000 annually! Take a look at the projected earnings with a [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
 <figure>
-	<img class="img-middle" alt="projected Zcash earnings" src="/img/cryptocurrency/zcash-profit.jpeg" />
+	<img class="img-middle" alt="projected Zcash earnings" src="/img/cryptocurrency/zcash-profit.png" />
 	<figcaption>calculated for 1 ZEC "290.87"</figcaption>
 </figure>
 
