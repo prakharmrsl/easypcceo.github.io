@@ -1,11 +1,11 @@
 ---
-title: "The 15 Best Gaming Speakers of 2018" 
+title: "Gaming Speakers Comparison (PC & Console)" 
 permalink: "/best-gaming-speakers/"
 layout: page
 seotitle: "15 Best Gaming Speakers of 2018 for PC/Console (Updated)" 
 --- 
 <h3 class="page-subtitle">
-	January 30, 2018 by 
+	Updated April 23, 2018 by 
 	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -265,6 +265,34 @@ You'll also need to think about any extra features you may want. Higher end spea
 
 Lower end speakers usually just provide you with the basics like a power button and a volume knob. 
 
+## Setting Up Gaming Speakers
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/weLszjyTGzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Sound Bars
+
+Sound bars are a trendy gaming speakers solution. There are plenty of companies making soundbars that are both powerful and compact. If you buy a high-quality soundbar, you'll experience immersive sound quality at an affordable cost. 
+
+Furthermore, soundbars are sleek and sexy, perfect for your gaming setup! 
+
+Although they can come close to traditional 5.1 surround, you'll still probably want to invest in a dedicated subwoofer for maximum audio quality. 
+
+## Speakers or Headphones? 
+
+Headphones can eliminate background noise, allowing you to focuse solely on the game. 
+
+However, if you've ever played for more than a few hours at one time with headphones on, you know just how annoying – and painful – headphones can be. 
+
+Headphones operate with different drivers. Evidently, the sound quality of headphones doesn't rival that of dedicated speakers. 
+
+Although, gaming speakers don't allow you to communicate with fellow gamers – a gaming headset and microphone, on the other hand, provides an easy way to talk to your buddies. 
+
+This is especially important in multiplayer titles like Fortnite, PUBG, CS:GO, League of Legends, etc. 
+
+If you're playing a single-player campaign or watching a movie, gaming speakers are the way to go. If you like to play multiplayer games, especially games that require communication, headphones are probably your best bet. 
+
 ## Making the Right Decision for You 
 
 You'll have to determine which room in your hosue you're going to setup the speakers. 
@@ -279,5 +307,31 @@ In addition, you'll need to check your PC to ensure it can even handle the speak
 
 Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
 
-* TOC
-{:toc}
+<ul id="markdown-toc">
+  <li><a href="#a-closer-look-4-best-pc-gaming-speakers" id="markdown-toc-a-closer-look-4-best-pc-gaming-speakers">A Closer Look: 4 Best PC Gaming Speakers</a></li>
+  <li><a href="#top-8-pc-compatible-gaming-speakers" id="markdown-toc-top-8-pc-compatible-gaming-speakers">Top 8 PC Compatible Gaming Speakers</a></li>
+  <li></li>
+  
+  
+  
+  
+  
+  
+  
+  <li><a href="#a-closer-look-4-best-tvconsole-compatible-gaming-speakers" id="markdown-toc-a-closer-look-4-best-tvconsole-compatible-gaming-speakers">A Closer Look: 4 Best TV/Console Compatible Gaming Speakers</a></li>
+  <li><a href="#top-6-tv-compatible-gaming-speakers" id="markdown-toc-top-6-tv-compatible-gaming-speakers">Top 6 TV Compatible Gaming Speakers</a></li>
+  
+  
+  
+  
+  
+  
+  <li><a href="#our-opinion-on-gaming-speakers" id="markdown-toc-our-opinion-on-gaming-speakers">Our Opinion on Gaming Speakers</a></li>
+  <li><a href="#what-to-look-for-in-gaming-speakers" id="markdown-toc-what-to-look-for-in-gaming-speakers">What to Look for in Gaming Speakers</a>    <ul>
+      <li><a href="#bass" id="markdown-toc-bass">Bass</a></li>
+      <li><a href="#surround-sound" id="markdown-toc-surround-sound">Surround Sound</a></li>
+      <li><a href="#features" id="markdown-toc-features">Features</a></li>
+    </ul>
+  </li>
+  <li><a href="#making-the-right-decision-for-you" id="markdown-toc-making-the-right-decision-for-you">Making the Right Decision for You</a></li>
+</ul>
