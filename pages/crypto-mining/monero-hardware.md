@@ -162,7 +162,7 @@ The fork resulted in the launch of Monero Classic, which will maintain the origi
 
 Monero Classic's devlead, a pseudonymous developer known as PZ, has stated: 
 
-> "The emergence of specialized mining technology for any given cryptocurrency is a result of normal market economic activity, and shouldn’t be viewed as a disruptive or negative factor."
+> The emergence of specialized mining technology for any given cryptocurrency is a result of normal market economic activity, and shouldn’t be viewed as a disruptive or negative factor.
 
 PZ seems to believe the creation of dedicated mining hardware is inevitable, despite the ways in which ASICs affect centralization. 
 
