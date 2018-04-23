@@ -5,7 +5,7 @@ layout: page
 seotitle: "5 Best Monero Mining Hardware GPUs & CPUs 2018 (Cryptonight) " 
 ---
 <h3 class="page-subtitle">
-	January 23, 2018 by 
+	Updated April 23, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -126,7 +126,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 ## The Most Powerful (and very profitable) Monero Mining GPU
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gpu/xfx-295x2.png" /></a>
 
-The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day. Take a look: 
+The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day (calculated with 1 XMR = $356.56). Take a look: 
 
 ![Monero Mining Profits](/img/cryptocurrency/monero-gpu.png)
 
@@ -134,9 +134,56 @@ Monero mining is a great way to set up passive income, especially with the [R9 2
 
 ## Monero ASIC
 
-Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there is not a Cryptonight [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} available for mining monero. 
+Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there is not a Cryptonight [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} available for mining monero.
 
-However, there are other viable options. Your CPU and GPU can both be utilized to mine. 
+However, Bitmain has announced a new ASIC, called the Antminer X3. It is designed to mine Monero's Proof-of-Work algorithm, Cryptonight. 
+
+In an effort to counteract Bitmain's ASIC, the project devlead – Riccardo Spagni – noted that the token's protocol would be changed every six months to remain ASIC resistant. 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just a reminder that this WILL NOT work on Monero <a href="https://t.co/rhy6k2I4Yh">https://t.co/rhy6k2I4Yh</a></p>&mdash; Riccardo Spagni (@fluffypony) <a href="https://twitter.com/fluffypony/status/974182821437825024?ref_src=twsrc%5Etfw">March 15, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Why did Monero's devlead make this decision? 
+
+Many believe that ASICs lead to centralization, the opposite of cryptocurrencies' purpose. The average person can purchase a CPU or GPU to mine a particular coin. 
+
+On the other hand, ASIC miners are incredibly expensive. Companies like Bitmain give the first crack to corporations that operate large-scale mining farms. 
+
+Instead of many people confirming the network, the power rests in the hands of the few people who can afford to own and operate thousands of ASICs, thus centralizing the process. 
+
+In short, Monero's devlead made the call to keep Monero safe from corporate centralization.
+
+## Monero Classic Mining Hardware 
+![Monero Classic Logo](/img/cryptocurrency/monero-classic.jpg){: .img-right .img-small }
+
+Following Bitmain's Antminer X3 ASIC, the token hard-forked into 4 new Monero projects. 
+
+The forked resulted in the launch of Monero Classic, which will maintain the original Monero protocol. In turn, Monero Classic will remain ASIC compatible. 
+
+Monero Classic's devlead, a pseudonymous developer known as PZ, has stated: 
+
+>  "The emergence of specialized mining technology for any given cryptocurrency is a result of normal market economic activity, and shouldn’t be viewed as a disruptive or negative factor."
+
+PZ seems to believe the creation of dedicated mining hardware is inevitable, despite the ways in which ASICs affect centralization. 
+
+Conversely, Monero's core developers are against Monero ASICs, so much so, they are willing to change Monero's protocol twice a year. 
+
+**As the cryptocurrency community saw with Bitcoin ASICs, Cryptonight ASIC chips will drive mining difficulty through the roof, rendering traditional mining hardware i.e. CPUs and GPUs, completely and utterly useless.** 
+
+### Antminer X3 – Bitmain Scam? 
+![Antminer X3](/img/cryptocurrency/antminer-x3.jpg){: .img-right .img-small}
+
+Bitmain's first batch of Antminer X3 ASIC chips are set to ship in June of 2018 – despite their promising 'returns' of nearly $150,000 a month (calculated with 1 XMR = $281.69), it is a bit too good to be true. 
+
+The miner is designed to mine cryptonight, and Bitmain has advertised their hashrate to be 220 KH/s, drawing 550 W from the wall. 
+
+Monero has already forked – by the time these miners reach consumers, they'll be practically useless. Although there are other Cryptonight tokens, none of them are anywhere near being as profitable as Monero.
+
+## Monero in a Nutshell 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBvMPy9HHCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+</div>
 
 ## Monero Mining Pools 
 

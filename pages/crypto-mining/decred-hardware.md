@@ -5,7 +5,7 @@ layout: page
 seotitle: "#1 Best Decred Mining Hardware GPU: Hashrate, Power Consumption, & More (2018)" 
 ---
 <h3 class="page-subtitle">
-	January 30, 2018 by 
+	Updated January 30, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot" /></a>
 	Jacob Tuwiner
 </h3>

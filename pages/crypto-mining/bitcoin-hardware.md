@@ -5,7 +5,7 @@ layout: page
 seotitle: "5 Best Bitcoin Mining Hardware ASICs of 2018 (SHA-256)" 
 ---
 <h3 class="page-subtitle">
-	January 12, 2018 by 
+	Updated January 12, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
