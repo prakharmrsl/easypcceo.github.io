@@ -134,7 +134,7 @@ Monero mining is a great way to set up passive income, especially with the [R9 2
 
 ## Monero ASIC
 
-Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there is not a Cryptonight [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} available for mining monero.
+Comparitively to [Ethereum](/crypto-mining/ethereum-hardware) and [Vertcoin](/crypto-mining/vertcoin-hardware/), there is not a Cryptonight [ASIC](http://whatis.techtarget.com/definition/ASIC-application-specific-integrated-circuit){:target="_blank"} available for mining Monero.
 
 However, Bitmain has announced a new ASIC, called the Antminer X3. It is designed to mine Monero's Proof-of-Work algorithm, Cryptonight. 
 
@@ -158,11 +158,11 @@ In short, Monero's devlead made the call to keep Monero safe from corporate cent
 
 Following Bitmain's Antminer X3 ASIC, the token hard-forked into 4 new Monero projects. 
 
-The forked resulted in the launch of Monero Classic, which will maintain the original Monero protocol. In turn, Monero Classic will remain ASIC compatible. 
+The fork resulted in the launch of Monero Classic, which will maintain the original Monero protocol. In turn, Monero Classic will remain ASIC compatible. 
 
 Monero Classic's devlead, a pseudonymous developer known as PZ, has stated: 
 
->  "The emergence of specialized mining technology for any given cryptocurrency is a result of normal market economic activity, and shouldn’t be viewed as a disruptive or negative factor."
+> "The emergence of specialized mining technology for any given cryptocurrency is a result of normal market economic activity, and shouldn’t be viewed as a disruptive or negative factor."
 
 PZ seems to believe the creation of dedicated mining hardware is inevitable, despite the ways in which ASICs affect centralization. 
 
@@ -173,7 +173,7 @@ Conversely, Monero's core developers are against Monero ASICs, so much so, they 
 ### Antminer X3 – Bitmain Scam? 
 ![Antminer X3](/img/cryptocurrency/antminer-x3.jpg){: .img-right .img-small}
 
-Bitmain's first batch of Antminer X3 ASIC chips are set to ship in June of 2018 – despite their promising 'returns' of nearly $150,000 a month (calculated with 1 XMR = $281.69), it is a bit too good to be true. 
+Bitmain's first batch of Antminer X3 ASIC chips are set to ship in June of 2018 – despite their promising 'returns' of nearly $150,000 a year (calculated with 1 XMR = $281.69), it is a bit too good to be true. 
 
 The miner is designed to mine cryptonight, and Bitmain has advertised their hashrate to be 220 KH/s, drawing 550 W from the wall. 
 
