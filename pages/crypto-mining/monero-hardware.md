@@ -170,15 +170,16 @@ Conversely, Monero's core developers are against Monero ASICs, so much so, they 
 
 **As the cryptocurrency community saw with Bitcoin ASICs, Cryptonight ASIC chips will drive mining difficulty through the roof, rendering traditional mining hardware i.e. CPUs and GPUs, completely and utterly useless.** 
 
-### Antminer X3 – Bitmain Scam? 
-<figure>
-	<img class="img-right img-small" alt="Antminer X3" src="/img/cryptocurrency/antminer-x3.jpg">
-	<figcaption>Bitmain's Antminer X3</figcaption>
-</figure>
+## Antminer X3 – Bitmain Scam? 
 
 Bitmain's first batch of Antminer X3 ASIC chips are set to ship in June of 2018 – despite their promising 'returns' of nearly $150,000 a year (calculated with 1 XMR = $281.69), it is a bit too good to be true. 
 
 The miner is designed to mine cryptonight, and Bitmain has advertised their hashrate to be 220 KH/s, drawing 550 W from the wall. 
+
+<figure>
+	<img class="img-middle" alt="Antminer X3" src="/img/cryptocurrency/antminer-x3.jpg">
+	<figcaption>Bitmain's Antminer X3</figcaption>
+</figure>
 
 Monero has already forked – by the time these miners reach consumers, they'll be practically useless. Although there are other Cryptonight tokens, none of them are anywhere near being as profitable as Monero.
 
