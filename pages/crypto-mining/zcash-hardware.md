@@ -116,7 +116,7 @@ According to the project's blog, Equihash was chosen because it is ASIC resistan
 
 The algorithm was invented by Dmitry Khovratovich and Alex Biryukov, and is based on [Wagner's algorithm](https://en.wikipedia.org/wiki/Stoer%E2%80%93Wagner_algorithm){: target="_blank"}. 
 
-The algorithm requires a substantial amount of memory, which is why GPUs with more dedicated VRAM tend to be more profitable.  
+Equihash requires a substantial amount of memory, which is why GPUs with more dedicated VRAM tend to be more profitable.  
 
 ## Recommended Zcash Mining Setup 
 
@@ -135,7 +135,7 @@ With that in mind, here are some of the components you'll need:
 
 1. Motherboard: [Biostar Motherboard TB250-BTC](https://amzn.to/2HIA75S){: target="_blank"}
 2. Processor:  [Intel Celeron Kaby Lake](https://amzn.to/2K7J9Ys){: target="_blank"}
-3. [Crucial 4GB Single DDR4 2400](https://amzn.to/2qTmfeD){: target="_blank"}
+3. RAM: [Crucial 4GB Single DDR4 2400](https://amzn.to/2qTmfeD){: target="_blank"}
 4. SSD: [Kingspec 16GB](https://amzn.to/2Fb0CLM){: target="_blank"}
 5. Case: [Aluminum GPU Mining Case Rig Open Air Frame](https://amzn.to/2HM0WWA){: target="_blank"}
 6. Power Supply: [Corsair HX1200 1200W 80 Plus Platinum](https://amzn.to/2HlhOnO){: target="_blank"}
@@ -191,7 +191,7 @@ Joining a mining pool will yield faster results, and increase your chances of su
 Zcash seems to be a profitable cryptocurrency to mine in 2018. In fact, you can expect to see profits just shy of $1,000 annually! Take a look at the projected earnings with a [GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338210626&customid=&icep_uq=Gigabyte+GTX+1080+Ti+Aorus&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
 <figure>
-	<img class="img-middle" alt="projected Zcash earnings" src="/img/cryptocurrency/zcash-profit.jpg" />
+	<img class="img-middle" alt="projected Zcash earnings" src="/img/cryptocurrency/zcash-profit.jpeg" />
 	<figcaption>calculated for 1 ZEC "290.87"</figcaption>
 </figure>
 
