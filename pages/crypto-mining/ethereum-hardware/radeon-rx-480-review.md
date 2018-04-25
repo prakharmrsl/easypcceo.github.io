@@ -2,8 +2,14 @@
 title: "Mining Ethereum with the Radeon RX 480: Buy This Miner?"
 permalink: "/crypto-mining/ethereum-hardware/radeon-rx-480-review/"
 layout: page
-seotitle: "Radeon RX 480 Review: Good Miner for Ethereum and Other Coins?" 
+seotitle: "RX 480 Review: Hashrate, Power Consumption, & More! (2018)" 
 ---
+
+<h3 class="page-subtitle">
+	April 25th, 2018 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
 
 **Pros**
 
@@ -29,7 +35,7 @@ Why?
 
 It's a profitable currency to mine, especially with the [Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=Radeon+R9+295X2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
 
-Today we're taking a look at your projected earnings with the [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+Today we're taking a look at your projected earnings with the [Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. The RX 480's hashrate is impressive, especially considering its low power consumption. 
 
 ![Profit](/img/cryptocurrency/rx-480-review/profit1.png)
 
@@ -60,10 +66,10 @@ Due to its power efficiency, **the RX 480 is the most profitable Ethereum mining
 
 This GPU has a hash rate of 25 MH/s, and it only draws 150W from the wall. **Each GPU will have a return of over $700 annually**. While it's slightly less than the Radeon HD 7990, the initial investment is much lower. Evidently, it's the best choice if you're looking to mine Ethereum. 
 
-**Specifications of the Radeon HD 7990:**
+**Specifications:**
 
-* Hash Rate: 25 MH/s
-* Power Consumption: 150W (at the wall)
+* RX 480 Hash Rate: 25 MH/s
+* RX 480 Power Consumption: 150W (at the wall)
 * Profit Ratio per Day: 456%
 * Cost: $300
 
