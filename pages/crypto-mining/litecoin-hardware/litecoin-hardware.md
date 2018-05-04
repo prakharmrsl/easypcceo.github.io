@@ -43,10 +43,10 @@ Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/l3-table.png" /> </a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/l3-table.png" /> </a></td>
 		<td><a href="/crypto-mining/litecoin-hardware/antminer-l3-review/">Antminer L3+</a></td>
 		<td>$5,813.73</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Shop Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -54,9 +54,7 @@ Scrypt relies heavily on lots of high-speed Ram, and is often referred to as the
 ![Antminer L3+](/img/cryptocurrency/L3.jpg){: .img-right .img-small}
 
 
-If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"} is probably the [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}. 
-
-**NOTE:** *You can shop at the best prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}.* They primarily accept payment in Bitcoin, as do most ASIC vendors. They'll be adding additional forms of payment in the future. 
+If you are interested in mining Litecoin, the best Litecoin mining hardware [ASIC](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit){:target="_blank"} is probably the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. 
 
 Mining is far more profitable when you use multiple ASICs. For large orders, or more information, please [contact me](/contact/). 
 
@@ -82,7 +80,7 @@ If you don't want this power supply and would prefer a more conventional power s
 
 Just make sure the PSU that you choose can provide at least 850 W with 9 6-pin PCI-E connectors, uses a single 12 V rail, and has a gold or platinum efficiency rating. 
 
-NOTE: It would take over 500 top tier graphics cards to equal the hashing power of one [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}! 
+NOTE: It would take over 500 top tier graphics cards to equal the hashing power of one [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}! 
 
 ## Just Looking to Acquire Litecoin?
 <a target="_blank" href="https://www.binance.com/?ref=16557105"><img class="img-right img-small" src="/img/cryptocurrency/binance-logo.png" /></a>
@@ -98,7 +96,7 @@ On the other hand, if you're interested in generating passive income, **you can 
 ## Expected Earnings w/ Antminer L3+ 
 ![Litecoin Earnings](/img/cryptocurrency/litecoin-earnings.png "Antminer L3+ Earnings")
 
-With earnings like this, it is a good idea to invest in the [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
+With earnings like this, it is a good idea to invest in the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. Keep in mind that the value of Litecoin is steadily increasing. This means you can expect an even faster return. 
 
 
 These are highly sought-after miners. They are often out of stock, and are shipped out in batches. Keep your eye out for the next batch that is expected to ship, and pre-order early. 
@@ -119,7 +117,7 @@ With the current price of Litecoin, you'll make your money back within a year of
 
 If you choose to invest in more than one miner, you could potentially generate lots more revenue each year. 
 
-That being said, using the [Antminer L3+](https://cryptodrilling.com/collections/mining-hardware/products/antminer-l3-504-mh-s?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} is a profitable option. 
+That being said, using the [Antminer L3+](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338145148&customid=&icep_uq=Antminer+L3%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is a profitable option. 
 
 You can [check your Litecoin mining profitability with this online calculator](https://www.coinwarz.com/calculators/litecoin-mining-calculator){:target="_blank"}
 

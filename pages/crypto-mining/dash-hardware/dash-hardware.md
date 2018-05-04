@@ -35,8 +35,7 @@ Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-108
 		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td><a href="/crypto-mining/dash-hardware/antminer-d3-review/">Antminer D3</a></td>
 		<td>$1,281.74</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate
-">Shop Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -60,17 +59,17 @@ Once you break even, you'll have a great source of passive income. Using an ASIC
 
 Dash appears more profitable than [Ethereum](/crypto-mining/ethereum-hardware/), [Zcash](/crypto-mining/zcash-hardware/), [Litecoin](/crypto-mining/litecoin-harware/), [Monero](/crypto-mining/monero-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware/) mining.
 
-## [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} - $1300
+## [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} - $1300
 
-The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} is by far the best miner on the market.
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} is by far the best miner on the market.
 
 ![Antminer D3](/img/cryptocurrency/antminer-d3.png){: .img-small .img-right}
 
-**NOTE:** *If you are interested in purchasing an Antminer D3, you can shop at the lowest prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}. Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
+Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
 
 The initial investment for this ASIC miner is quite high. However, this miner will pay itself back quickly; the return on investment you'll see from this miner is superb. 
 
-The [Antminer D3](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
+The [Antminer D3](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} miner has a hash rate of 15 GH/s and uses 1200 watts from the wall. 
 
 While the power consumption might seem a bit high, the hashing power of this miner makes up for it. 
 
