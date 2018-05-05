@@ -67,7 +67,7 @@ The RX 470 ships with an 8-pin PCI-E power connector. Additionally, it has two g
 
 **Check out the RX 470's projected mining profitability:**
 
-![Ethereum Profits with RX 470 8GB](/img/cryptocurrency/rx-470-review/profits.png)
+![Ethereum Profits with RX 470 8GB](/img/cryptocurrency/rx-470-review/profitability.png)
 
 Despite the RX 470's adequate stock performance, it didn't see much of an improvement when overclocked. However, it does fairly well when underpowered – it is useable with merely 30%-40% fan speed, which saves power (and money). 
 
