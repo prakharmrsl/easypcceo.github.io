@@ -29,7 +29,7 @@ The 480's little brother, the RX 470, has also proven itself to be a worthy mini
 
 Furthermore, the RX 470 performs exceptionally well when its fans are underpowered to 30%-40%. 
 
-## RX 470 Mining Profits 
+## RX 470 Overview 
 
 <table class="basic-table" align="center">
 	<tr>
@@ -113,11 +113,25 @@ If you're on a lower budget, the RX 470 is a good option. However, if you have t
 
 ## RX 470 Hashrate: Zcash
 
+Now let's take a look at the RX 470's Zcash mining performance: 
 
+**Stock Performance:** 
+
+* Hashrate: 220 Sol/s 
+* Power consumption: 150 W 
+* Profit Ratio: 67% per day (calculated with 1 ZEC = 306.88)
+
+**Note:** *Sol/s and H/s are equivalent* 
+
+Mining Zcash with the RX 470 is not as profitable as Ethereum mining, though you can still make money. Take a look: 
+
+![Zcash Profit](/img/cryptocurrency/rx-470-review/zcash-profit.jpg)
+
+Remember that every card is unique – you may be able to achieve better performance by overclocking or underpowing your card. 
 
 ### Zcash Mining Conclusion
 
-
+For now, it seems as though Ethereum mining is more profitable with the RX 470. However, once Ethereum [swithces to Proof-of-Stake](https://coincentral.com/when-will-ethereum-mining-end/){: target="_blank"}, Zcash mining is a profitable alternative. 
 
 ## Alternative Zcash Mining Hardware 
 
@@ -155,20 +169,17 @@ If you're on a lower budget, the RX 470 is a good option. However, if you have t
 
 ## RX 470 Specs
 
-* Architecture: Pascal
-* Memory Speed: 11 Gbps
-* Boost Clock: 1582 MHz
-* Frame Buffer: 11 GB GDDR5**X**
-
-
-
-## Mining Other Altcoins 
-
-
+* Chipset: Radeon RX 470
+* Memory Size: 8GB 
+* Memory Type: GDDR5 
+* Core Clock: 1.12GHz
+* Boost Clock: 1.26GHz  
 
 ## Conclusion
 
+The RX 470 is a profitable GPU for Ethereum and Zcash mining, especially when you tweak settings in the BIOS to overclock or underpower the card, depending on what's best suited for your purposes. 
 
+The RX 480 is more profitable than its little brother, but the RX 470 is still a profitable solution for miners on a budget. Overall, the RX 470 is a good miner. 
 
 * TOC
 {:toc}
