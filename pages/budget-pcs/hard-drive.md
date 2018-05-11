@@ -12,8 +12,7 @@ seotitle: "3 Best Hard Drives For Gaming in 2018 (Internal/External)"
 
 Finding the right storage solution for your gaming PC can be difficult, especially with all of the options available to you. 
 
-<div id="overview">
-<table class="basic-table table-colorful" align="center">
+<table class="basic-table" align="center">
 	<tr>
 		<th>Name</th>
 		<th>Image</th>
@@ -45,7 +44,6 @@ Finding the right storage solution for your gaming PC can be difficult, especial
 		<td><a target="_blank" class="big-button" href="">Shop</a></td>
 	</tr>
 </table>
-</div>
 
 ## The Best Mechanical Drive for Gaming 
 
