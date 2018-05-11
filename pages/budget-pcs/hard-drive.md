@@ -32,7 +32,7 @@ Finding the right storage solution for your gaming PC can be difficult, especial
 			<li>Windows Operates Smoothly</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-buton" href="">Shop</a></td>
+		<td><a target="_blank" class="big-button" href="">Shop</a></td>
 	</tr>
 	<tr>
 		<td><b>Medium</b></td>
