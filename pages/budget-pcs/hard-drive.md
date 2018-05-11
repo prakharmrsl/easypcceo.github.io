@@ -15,14 +15,12 @@ Finding the right storage solution for your gaming PC can be difficult, especial
 <div id="overview">
 <table class="basic-table table-colorful" align="center">
 	<tr>
-		<th>Speed</th>
 		<th>Name</th>
 		<th>Image</th>
 		<th>Benefits</th>
 		<th>Buy on Amazon</th>
 	</tr>
 	<tr>
-		<td><b style="margin-left: 15px; width: 190px;">Fast</b></td>
 		<td>Solid State Drive (SSD)</td>
 		<td><a target="_blank" href=""><img class="table-image" src="/img/hdd/ssd-plus.png" /></a></td>
 		<td class="components">
@@ -35,7 +33,6 @@ Finding the right storage solution for your gaming PC can be difficult, especial
 		<td><a target="_blank" class="big-button" href="">Shop</a></td>
 	</tr>
 	<tr>
-		<td><b style="margin-left: 15px; width: 190px;">Medium</b></td>
 		<td>Mechanical Hard Drive (HDD)</td>
 		<td><a target="_blank" href=""><img class="table-image" src="/img/hdd/1tb.png" /></a></td>
 		<td class="components">
