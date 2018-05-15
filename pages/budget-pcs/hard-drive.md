@@ -21,6 +21,7 @@ This guide was designed for those of you who aren't sure what is best suited for
 		<th>Name</th>
 		<th>Image</th>
 		<th>Benefits</th>
+		<th>More</th>
 	</tr>
 	<tr>
 		<td>Solid State Drive (SSD)</td>
