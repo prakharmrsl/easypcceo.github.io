@@ -120,6 +120,7 @@ Lastly, the drive is *reliable*, which is the most important characteristic of a
 [View on Amazon](https://amzn.to/2Im1AqV){: .big-button target="_blank"}
 
 ## The Best Solid State Drive (SSD) for Gaming 
+![Samsung 860 Evo SSD](/img/hdd/860-evo.jpg){: .img-middle}
 
 When it comes to an SSD, you can't go wrong with the Samsung 860 EVO 250GB drive. It is a bit more expensive than traditional SSDs of this size, but well worth the money. 
 
@@ -144,4 +145,6 @@ If your OS and drivers are installed on your SSD, you'll notice the PC is far mo
 
 ## SSDs vs Hard Drives As Fast As Possible
 
+<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YQEjGKYXjw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
