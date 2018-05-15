@@ -121,4 +121,27 @@ Lastly, the drive is *reliable*, which is the most important characteristic of a
 
 ## The Best Solid State Drive (SSD) for Gaming 
 
-## The Best External Hard Drive for Gaming 
+When it comes to an SSD, you can't go wrong with the Samsung 860 EVO 250GB drive. It is a bit more expensive than traditional SSDs of this size, but well worth the money. 
+
+Samsung is a reliable brand – their drives have withstood the test of time, and proven themselves reliable and worth the extra money. I have one in my PC and I absolutely love it! 
+
+I've never had an issue with the drive, and the difference in speed between the Samsung EVO and my mechanical hard drive is like night and day. 
+
+**Specs:**
+
+* Capacity: 250GB
+* Interface: SATA 6 Gb/s
+* Cache: 512 MB
+* Form Factor: 2.5" 
+
+## Does Your Hard Drive Affect Framerate? 
+
+In short, no, the speed of your hard drive does not affect your in-game performance. 
+
+Hold your horses – before you decide to eliminate the SSD from your build, you should know that an SSD *does* significantly increase loading speed, as well as improve the overall performancce of your build. 
+
+If your OS and drivers are installed on your SSD, you'll notice the PC is far more responsive and loads far quicker. In fact, I'd say my gaming PC goes from completely off to ready for battle faster than my Xbox One. Seriosuly, buy an SSD! 
+
+## SSDs vs Hard Drives As Fast As Possible
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YQEjGKYXjw8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
