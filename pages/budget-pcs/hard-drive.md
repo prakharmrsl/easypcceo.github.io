@@ -101,7 +101,7 @@ External drives are best used for backing up files that you don't want to use. O
 
 ![WD Caviar Blue](/img/hdd/1tb.png){: .img-middle} 
 
-If you're looking for a solid hard drive, you really can't go wrong with the Western Digital Caviar Blue 1TB 7200 RPM mechanical hard drive. It's a favorite amongst the members of the PC Master Race, and for good reason. 
+If you're looking for a solid hard drive, you really can't go wrong with the [Western Digital Caviar Blue 1TB 7200 RPM mechanical hard drive](https://amzn.to/2Im1AqV){: target="_blank"}. It's a favorite amongst the members of the PC Master Race, and for good reason. 
 
 The drive is cheap, sitting comfortably below $50. Moreover, the price usually doesn't fluxuate a whole lot like we've seen with GPUs – in fact, I've never seen this drive sell for more than $50. 
 
@@ -122,7 +122,7 @@ Lastly, the drive is *reliable*, which is the most important characteristic of a
 ## The Best Solid State Drive (SSD) for Gaming 
 ![Samsung 860 Evo SSD](/img/hdd/860-evo.jpg){: .img-middle}
 
-When it comes to an SSD, you can't go wrong with the Samsung 860 EVO 250GB drive. It is a bit more expensive than traditional SSDs of this size, but well worth the money. 
+When it comes to an SSD, the [Samsung 860 EVO 250GB](https://amzn.to/2ILooEd){: target="_blank"} is the drive of choice. It is a bit more expensive than traditional SSDs of this size, but well worth the money. 
 
 Samsung is a reliable brand – their drives have withstood the test of time, and proven themselves reliable and worth the extra money. I have one in my PC and I absolutely love it! 
 
@@ -134,6 +134,8 @@ I've never had an issue with the drive, and the difference in speed between the 
 * Interface: SATA 6 Gb/s
 * Cache: 512 MB
 * Form Factor: 2.5" 
+
+[View on Amazon](https://amzn.to/2ILooEd){: target="_blank"}
 
 ## Does Your Hard Drive Affect Framerate? 
 
