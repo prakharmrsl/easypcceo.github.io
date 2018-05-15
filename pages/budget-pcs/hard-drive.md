@@ -75,7 +75,7 @@ A 240GB SSD will cost you around $60 – that's less than 1/4 the size of a 1TB 
 
 Despite their costliness, they significantly improve the performance of a PC. If Windows and drivers are installed on the SSD, the computer will boot from being completely off in just 30 seconds or less – moreover, if you load some of your favorite games on the SSD, they'll load incredibly quickly. 
 
-![HDD vs SSD2](/img/hdd/hdd-vs-ssd2.jpg){: .img-center}
+![HDD vs SSD2](/img/hdd/hdd-vs-ssd2.jpg){: .img-middle}
 
 240GB is the perfect amount to store your Windows, drivers, and some games. If you have the money, we *highly* recommend investing in a 1TB hard drive for movies, music, applications, files, etc. and a 240GB SSD for Windows, drivers and games. 
 
