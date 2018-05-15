@@ -33,7 +33,7 @@ This guide was designed for those of you who aren't sure what is best suited for
 			<li>Windows Operates Smoothly</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-best-mechanical-drive-for-gaming">View SSDs</td>
+		<td><a class="big-button" href="#the-best-mechanical-drive-for-gaming">View SSDs</a></td>
 	</tr>
 	<tr>
 		<td>Hard Disk Drive (HDD)</td>
@@ -45,7 +45,7 @@ This guide was designed for those of you who aren't sure what is best suited for
 			<li>Best Gigabyte/$ Ratio</li>
 			</ul>
 		</td>
-		<td><a class="big-buton" href="">View HDDs</a></td>
+		<td><a class="big-button" href="">View HDDs</a></td>
 	</tr>
 </table>
 
