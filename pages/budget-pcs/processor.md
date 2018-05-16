@@ -17,7 +17,6 @@ Below, we will list five CPUs, fitting any possible budget. The tiers will be ra
 Each chip will be thoroughly described, as will the platform that each processor functions on. Each synopsis will enumerate factors such as clock speed, number of cores, number of threads, TDP, and most importantly, price. 
 
 ## Best Gaming Processors (CPUs)
-<a target="_blank" href="http://amzn.to/2BWUDZD"><img class="img-middle" alt="Pentium G4560" src="/img/cpu/pentium.png" /></a>
 
 <table class="basic-table" align="center">
 	<tr>
