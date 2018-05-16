@@ -161,6 +161,8 @@ We looked around and found this card's mining performance with other altcoins. T
 
 At first glance, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} seems to be a bad choice. Of course, you should never judge a book by its cover. After modifications in the BIOS, the GPU proves itself mining both [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/). **You can expect returns of over $1,000 per card!** If you're interested in purchasing a mining GPU, we would recommend the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} as a good choice. 
 
+However, the [RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) may be a better choice. If you're on a budget and looking for a cheaper mining GPU, maybe consider the [RX 470](/crypto-mining/rx-470-review/) as well. 
+
 [Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
 * TOC

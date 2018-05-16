@@ -17,9 +17,9 @@ seotitle: "Antminer D3 Review: Buy This Miner?"
 
 Our rating: **4/5**
 
-**NOTE:** *If you are interested in purchasing an Antminer D3, you can shop at the lowest prices via our trusted vendor's [website](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: target="_blank"}. Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
+**NOTE:** *Mining is far more profitable if you use multiple ASICs. [Contact me](/contact/) for large orders and more information.*  
 
-[Shop Lowest Prices](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){: .big-button target="_blank"}
+[Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
 
 ## Dash Mining in 2018
 
@@ -51,12 +51,12 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
 		<td>15 GH/s</td>
 		<td>1200 W</td>
 		<td>101%</td>
 		<td>$1,200</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Shop Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 </table>
 
@@ -71,7 +71,7 @@ This miner has a hash rate of 15 GH/s. The hash rate is astronomically high, yie
 
 ## Price
 
-You can find the Antminer D3 for around $1,200 on [eBay](https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate){:target="_blank"}.
+You can find the Antminer D3 for around $1,200 on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
 
 This is the most profitable [Dash miner](/crypto-mining/dash-hardware/) on the market. It'll pay for itself very quickly. 
 
@@ -128,11 +128,11 @@ Evidently, it's quite easy to profitably mine Dash. Get started now!
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /> </a></td>
 		<td>Antminer D3</td>
 		<td>15 GH/s</td>
 		<td>$8000</td>
-		<td><a target="_blank" class="big-button" href="https://cryptodrilling.com/collections/mining-hardware/products/antminer-d3?afmc=1c&utm_campaign=1c&utm_source=leaddyno&utm_medium=affiliate">Shop</a></td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=baikal+mini+asic&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/baikal-mini.png" /></a></td>
