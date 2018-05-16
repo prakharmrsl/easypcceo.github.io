@@ -40,7 +40,7 @@ Each chip will be thoroughly described, as will the platform that each processor
 	Tier 2: Low Budget - Ryzen 3 1200
 	<tr>
 		<td>AMD Ryzen 3 1200</td>
-		<td><a target="_blank" href="http://amzn.to/2EHxRrx"><img class="table-image" src="/img/cpu/ryzen-3-1200.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2EHxRrx"><img class="table-image" src="/img/cpu/ryzen31200.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Overclocking</li>
