@@ -52,14 +52,14 @@ Each chip will be thoroughly described, as will the platform that each processor
 	<tr>
 		<td>Intel Core i5-7500</td>
 		<td><a target="_blank" href="http://amzn.to/2E57sma"><img class="table-image" alt="i5-7500" src="/img/cpu/i5-7500.png" /></a></td>
-		<td>
+		<td class="components">
 			<ul>
 				<li>Good Pair w/ Most Powerful GPUs</li>
 				<li>i5 Known for Gaming Performance</li>
 				<li>Kaby Lake Architecture</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#tier-3-medium-budget---intel-core-i5-7500">CPU Overview</a></td>
+		<td><a class="big-button" href="#tier-3-medium-budget---intel-core-i5-7500">CPU Overview</a></td>
 	</tr>
 </table>
 
