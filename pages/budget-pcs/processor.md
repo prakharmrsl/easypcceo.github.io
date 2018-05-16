@@ -35,19 +35,20 @@ Each chip will be thoroughly described, as will the platform that each processor
 			<li>Great Budget CPU</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-best-solid-state-drive-ssd-for-gaming">CPU Overview</a></td>
+		<td><a class="big-button" href="#tier-1-extreme-budget---intel-pentium-g4560">CPU Overview</a></td>
 	</tr>
+	Tier 2: Low Budget - Ryzen 3 1200
 	<tr>
-		<td>Hard Disk Drive (HDD)</td>
-		<td><a target="_blank" href=""><img class="table-image" src="/img/hdd/1tb.png" /></a></td>
+		<td>AMD Ryzen 3 1200</td>
+		<td><a target="_blank" href="http://amzn.to/2EHxRrx"><img class="table-image" src="/img/cpu/ryzen3.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Cheap</li>
-			<li>Mass Storage</li>
-			<li>Best Gigabyte/$ Ratio</li>
+			<li>Overclocking</li>
+			<li>Cheap Quad-Core CPU</li>
+			<li>Incredible Performance/$</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-best-mechanical-drive-for-gaming">View HDDs</a></td>
+		<td><a class="big-button" href="#tier-2--">View HDDs</a></td>
 	</tr>
 </table>
 
@@ -59,7 +60,7 @@ Both companies produce high-quality components that will power your build, ensur
 
 This Easy PC CPU guide will help you navigate the complex marketplace so that you can be sure that your build will run well within any given budget.
 
-### Tier 1: Extreme Budget - Intel Pentium G4560
+## Tier 1: Extreme Budget - Intel Pentium G4560
 <a target="_blank" href="http://amzn.to/2BWUDZD"><img class="img-middle" alt="Pentium G4560" src="/img/cpu/pentium.png" /></a>
 
 Coming in at about $75.00 the [Intel Pentium G4560](http://amzn.to/2BWUDZD){:target="_blank"} is an excellent choice for budget computers. Besides being viable for everyday usage, this budget beast is a workhorse, capable of keeping up with gaming and resource-intensive multimedia functions. 
@@ -72,7 +73,7 @@ The quick speed and low TDP help reduce the power load required for the system, 
 
 The onboard graphics chip is capable of outputting 4K resolution at 60 Hz. Although this CPU is cheap, it is an excellent performer for most tasks. There is no need to worry about this chip bottlenecking your build. The price-to-performance ratio is optimal and the Pentium G4560 should be the immediate and clear choice for any budget builder. 
 
-### Tier 2: Low Budget - Ryzen 3 1200
+## Tier 2: Low Budget - Ryzen 3 1200
 <a target="_blank" href="http://amzn.to/2EHxRrx"><img class="img-middle" alt="r3-1200" src="/img/cpu/ryzen3.png" /></a>
 
 In the next tier, the [AMD Ryzen 3 1200](http://amzn.to/2EHxRrx){:target="_blank"} is a fantastic CPU capable of powering a more powerful system. The price consistently hovers around the $110.00 mark, making it a low-price, high-performance processor. 
@@ -85,7 +86,7 @@ A stable overclock can result in speeds of almost 4.0 GHz. Since the Ryzen 3 120
 
 In terms of processing capability, featuring the Ryzen 3 1200 in a build will annihilate gaming consoles, making them obsolete. This CPU is an excellent choice for the budget gamer who wants to play the newest games smoothly at 1080p.
 
-### Tier 3: Medium Budget - Intel Core i5-7500 
+## Tier 3: Medium Budget - Intel Core i5-7500 
 <a target="_blank" href="http://amzn.to/2E57sma"><img class="img-middle" alt="i5-7500" src="/img/cpu/i5-7500.png" /></a>
 
 Priced at $200.00, the [Intel Core i5-7500](http://amzn.to/2E57sma){:target="_blank"} is an excellent option for gaming builds under the $1000.00 mark. Like the Pentium G4560, this CPU runs of the Kaby Lake infrastructure. 
@@ -96,7 +97,7 @@ The base frequency is 3.40 GHz, boosting up to a maximum of 3.80 GHz. Sadly, tho
 
 The processor is capable of outputting 4K video at 60 Hz via DisplayPort. Though some say that the Ryzen 5 1400 is a better option at this price point, the Core i5-7500 proves to be a clear winner in terms of performance and efficiency. As it is a powerful CPU, the Core i5-7500 leaves room for future upgrades in other areas without fear of a noticeable bottleneck on performance. 
 
-### Tier 4: High Budget - Intel Core i5-8600k 
+## Tier 4: High Budget - Intel Core i5-8600k 
 <a target="_blank" href="http://amzn.to/2BZG47m"><img class="img-middle" alt="i5-8600k" src="/img/cpu/i5-8600k.png" /></a>
 
 Sticking with Intel CPUs in the next price tier, the [Core i5-8600k](http://amzn.to/2BZG47m){:target="_blank"} is an extremely powerful processor that will last many years and will never bottleneck a system. 
@@ -109,7 +110,7 @@ One important thing to note is that only DDR4-2666 RAM is compatible with the Co
 
 As an absolute powerhouse, this CPU allows for smooth, efficient performance for any task and any game. Video editing, live streaming, multitasking, and other intense processes are easily handled by the Intel Core i5-8600k, making it the ultimate high-budget CPU.  
 
-### Tier 5: Maximum Performance Budget - Intel Core i7-8700k
+## Tier 5: Maximum Performance Budget - Intel Core i7-8700k
 <a target="_blank" href="http://amzn.to/2GT7EH5"><img class="img-middle" alt="i7-8700k" src="/img/cpu/i7-8700k.png" /></a>
 
 If you have an almost unlimited budget and are looking for maximum performance and extreme capabilities, the expensive [Intel Core i7-8700k](http://amzn.to/2GT7EH5){:target="_blank"} is a viable option. This processor can handle any task thrown at it with ease. 
@@ -118,7 +119,7 @@ Despite its monstrous performance, it comes with a hefty price tag, coming in ar
 
 The processor holds six cores and supports Intel’s Hyper-Threading technology, hosting 12 total threads. Given its immense power, its TDP of 95W is surprisingly low. Like the other Intel processors, this CPU comes with onboard graphics and can output 4K video at 60 Hz. This chip is expensive, yet it is future-proof and can handle gaming easily, as well as intense workstation applications.
 
-### What A Processor Does and Why Expensive Ones Aren’t Crucial for Gaming
+## What A Processor Does and Why Expensive Ones Aren’t Crucial for Gaming
 
 In the simplest terms possible, the Central Processing Unit or CPU functions as the brain of a computer. Hooked into the motherboard, the CPU performs intricate calculations and sends instructions to various parts of the computer. 
 
