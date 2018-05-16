@@ -217,6 +217,9 @@ img {
   }
   .site-avatar {
     margin-top: 10px;
+    @media (max-width: 640px) {
+display: none;
+}
   }
   nav {
     margin: 0;
