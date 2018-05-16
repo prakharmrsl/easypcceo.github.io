@@ -27,7 +27,7 @@ Each chip will be thoroughly described, as will the platform that each processor
 	</tr>
 	<tr>
 		<td>Intel Pentium G4560</td>
-		<td><a target="_blank" href="http://amzn.to/2BWUDZD"><img class="table-image" src="/img/cpu/pentium.png" /></a></td>
+		<td><a target="_blank" href="http://amzn.to/2BWUDZD"><img class="table-image" src="/img/cpu/pentium.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Cost Effective</li>
