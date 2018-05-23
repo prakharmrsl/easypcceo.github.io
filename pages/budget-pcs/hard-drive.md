@@ -25,7 +25,7 @@ This guide was designed for those of you who aren't sure what is best suited for
 	</tr>
 	<tr>
 		<td>Solid State Drive (SSD)</td>
-		<td><a target="_blank" href=""><img class="table-image" src="/img/hdd/ssd-plus.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2ILooEd"><img class="table-image" src="/img/hdd/ssd-plus.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Significantly Increases Boot Speed</li>
@@ -37,7 +37,7 @@ This guide was designed for those of you who aren't sure what is best suited for
 	</tr>
 	<tr>
 		<td>Hard Disk Drive (HDD)</td>
-		<td><a target="_blank" href=""><img class="table-image" src="/img/hdd/1tb.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Im1AqV"><img class="table-image" src="/img/hdd/1tb.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Cheap</li>
