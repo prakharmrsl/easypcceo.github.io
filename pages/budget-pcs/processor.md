@@ -61,6 +61,30 @@ Each chip will be thoroughly described, as will the platform that each processor
 		</td>
 		<td><a class="big-button" href="#tier-3-medium-budget---intel-core-i5-7500">CPU Overview</a></td>
 	</tr>
+	<tr>
+		<td>Intel Core i5-8600k</td>
+		<td><a target="_blank" href="http://amzn.to/2BZG47m"><img class="table-image" alt="i5-8600k" src="/img/cpu/i5-8600k.png"/></a></td>
+		<td class="components">
+			<ul>
+				<li>Great for Overclocking</li>
+				<li>Lateset Intel Architecture</li>
+				<li>Awesome Pair w/ High End GPU</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#tier-4-high-budget---intel-core-i5-8600k">CPU Overview</a></td>
+	</tr>
+	<tr>
+		<td>Intel Core i7-8700k</td>
+		<td><a target="_blank" href="http://amzn.to/2GT7EH5"><img class="table-image" alt="i7-8700k" src="/img/cpu/i7-8700k.png"></a></td>
+		<td class="components">
+			<ul>
+				<li>Maximum Perfomance CPU</li>
+				<li>Great for Multitasking</li>
+				<li>Gaming Overkill</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#tier-5-maximum-performance-budget---intel-core-i7-8700k">CPU Overview</a></td>
+	</tr>
 </table>
 
 ## The Best Gaming CPUs to Consider 
@@ -139,3 +163,7 @@ Each processor has cores and threads, which are assigned various simultaneous ta
 It is clear that there must be sufficient computing power from the CPU to enact smooth gaming, but the Graphics Processing Unit or GPU plays a more crucial role. Therefore, as long as your processor does not bottleneck, meaning hinder the system’s performance, the processor is not the most important component of your build. 
 
 As a general rule of thumb, you should spend more on your graphics card than you do on your processor if you intend to game. 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGyGX7HHWL4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
