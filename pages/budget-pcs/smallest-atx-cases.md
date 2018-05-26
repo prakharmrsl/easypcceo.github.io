@@ -142,7 +142,5 @@ Before you pull the trigger on the case of your dreams, make sure that:
 **B.** Your CPU cooler will fit inside the case
 **C.** Your case has enough hard drive bays
 
-
-
 * TOC
 {: toc}
