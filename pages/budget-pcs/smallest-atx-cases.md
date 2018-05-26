@@ -75,7 +75,7 @@ Not only are they tasked with protecting your precious components, they must als
 			<ul>
 			<li>Beautiful Case Design</li>
 			<li>Ships with Three 120mm Fans</li>
-			<li>Constructed with Aluminum Alloy (Strong)</li>
+			<li>Constructed with Aluminum Alloy</li>
 			</ul>
 		</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2J8OIIo">View Lowest Prices</a></td>
@@ -96,7 +96,7 @@ Not only are they tasked with protecting your precious components, they must als
 
 ## Case Buying Guide
 
-![Carbide Air 540](/img/case/carbide-air-540.png)
+![Carbide Air 540](/img/case/carbide-air-540.png){: .img-middle}
 
 If you're interested in building a gaming PC, it is imperative that you choose the right case. Of course, that's easier said than done. 
 
@@ -138,9 +138,9 @@ Most gaming cases ship with fans included – many of them have cool looking LED
 
 Before you pull the trigger on the case of your dreams, make sure that: 
 
-**A.** Your graphics card will fit inside the case
-**B.** Your CPU cooler will fit inside the case
-**C.** Your case has enough hard drive bays
+<p><b>A.</b></p> Your graphics card will fit inside the case
+<p><b>B.</b></p> Your CPU cooler will fit inside the case
+<p><b>C.</b></p> Your case has enough hard drive bays
 
 * TOC
 {: toc}
