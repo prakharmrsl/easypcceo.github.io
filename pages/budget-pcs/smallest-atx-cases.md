@@ -138,9 +138,9 @@ Most gaming cases ship with fans included – many of them have cool looking LED
 
 Before you pull the trigger on the case of your dreams, make sure that: 
 
-* A. Your graphics card will fit inside the case
-* B. Your CPU cooler will fit inside the case
-* C. Your case has enough hard drive bays
+* Your graphics card will fit inside the case
+* Your CPU cooler will fit inside the case
+* Your case has enough hard drive bays
 
 
 * TOC
