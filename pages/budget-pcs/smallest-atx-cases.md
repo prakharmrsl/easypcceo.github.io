@@ -23,7 +23,7 @@ When it comes to building a gaming PC, choosing the right case is incredibly imp
 
 Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
 
-**Here are the best and the smallest ATX cases:**
+Finding the smallest full size ATX case in 2018 can be challenging. In an effort to make your life easier, **here are the best and the smallest ATX cases:**
 
 <table class="basic-table" align="center">
 	<tr>
@@ -283,12 +283,6 @@ Lastly, mini-ITX motherboards are 6.7 × 6.7 inches (170 x 170 mm), making them 
 
 Since cases are responsible for housing motherboards, cases are categorized in the same manner (ATX, micro-ATX, etc.) It's always important to ensure that the case you want is compatible with your motherboard's form factor. 
 
-## What Case Should You Buy? 
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aEHDTJMqmpc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
 ## A Great Case Is... 
 
 **1.** A great gaming case is strong. Avoid cases constructed with flimsy plastic – after all, your case is supposed to protect your parts and keep them from breaking, right? 
@@ -319,5 +313,24 @@ Before you pull the trigger on the case of your dreams, make sure that:
 
 Otherwise, you'll be quite disappointed!
 
+## Do You Need a 'Gaming' Case?
+
+Many companies advertise their cases as "gaming cases". Just because a case is outfitted with cool LED lights does not necessarily make it a gaming case. 
+
+Most uneducated customers will buy a case simply for its looks, without really considering the factors mentioned above. It is more important to find a functional case that provides good airflow and cable management. A good case must also be sturdy and cost effective. 
+
+Sure, a good looking case is always nice, but it is *not* necessary. If you're on a budget, especially a budget below $500, don't spend more than $50 on your case. In fact, I'd recommend spending $40 or less. 
+
+## Conclusion 
+
+Don't be fooled by advertisements and flashy lights. A great case is sturdy, provides good airflow, has a spacious interior, etc. 
+
+Of course, the more you pay, the higher quality case you'll have. Nowadays, there are so many case options to choose from it becomes overwhelming.
+
+It is a way to show off your personality – at the same time though, it's important to buy a case that's functional. If you are building a new gaming PC on a tight budget and you have an old computer laying around that you don't use anymore, don't be afraid to tear out the old parts to reuse the case! 
+
+At the end of the day, the your PC build comes down to your budget, your personal preferences, and what you're looking to do with your PC. That's the beauty of PC gaming – you can tailor your PC to suit your needs! 
+
 * TOC
 {: toc}
+
