@@ -406,7 +406,6 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 
 ![First Gaming PC Infographic](/img/infographic/first-gaming-pc-infographic.png)
 
-
 ## The Full Guide
 
 This is where we get extremely in depth. We're going to cover everything you could possibly want to know about gaming PCs. You can scroll down a bit to find a table of contents which outlines the guide, section by section. 
@@ -528,7 +527,9 @@ If you want to upgrade your PC in the future, that option is also available to y
 
 For any substantial improvement, you'll have to wait for the next line of consoles. As you know, Sony and Microsoft waited many years between the PS3/Xbox 360 and the PS4/Xbox One. 
 
-With PC, you have the ability to choose when, what, and how. 
+With PC, you have the ability to choose when, what, and how. Choosing your case is a perfect example. With so many options available, you can show your personality with the case you decide to house your parts with! 
+
+For more information on cases, check out our guide on the [smallest ATX cases](/budget-pcs/smallest-atx-cases/)!
 
 ### PC Exclusives 
 
