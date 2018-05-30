@@ -6,7 +6,7 @@ seotitle: "7 Smallest ATX Cases of 2018 (Best Cases Guaranteed!)"
 ---
 
 <h3 class="page-subtitle">
-	Updated May 26th, 2018 by 
+	Updated May 30th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
