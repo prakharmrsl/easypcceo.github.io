@@ -1,8 +1,8 @@
 ---
-title: "Gaming Speakers Comparison (PC, PS4 and Xbox One)" 
+title: "The Best Gaming Speakers of 2018 (PC, PS4 and Xbox One)" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "15 Best Gaming Speakers of 2018 for PC/Console (Updated)" 
+seotitle: "15 Best Gaming Speakers 2018 (Unmatched Sound Quality)" 
 --- 
 <h3 class="page-subtitle">
 	Updated April 23, 2018 by 
