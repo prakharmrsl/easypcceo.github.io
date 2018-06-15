@@ -80,7 +80,7 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 		</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Buy</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>AMD RX 580</td>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+580&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="AMD RX 580" src="/img/gpu/radeonrx580gaming.png"></a></td>
 		<td class="components">
@@ -91,9 +91,9 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 		</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+580&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Buy</a></td>
 	</tr>
-		<tr>
+	<tr>
 		<td>AMD Radeon HD 7990</td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><<img alt="radeon hd 7990" class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon hd 7990" class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></td>
 		<td class="components">
 			<ul>
 				<li>High ETH Hashrate</li>
