@@ -23,7 +23,7 @@ I checked everything and tried again. Nothing.
 
 Then I looked two more times and realized I made a novice mistake. I didn't connect the CPU power cable!
 
-I turned it on again. Bam! Everything was working properly. From that moment on I was a member of the PC Master Race. 
+I turned it on again. Bam! Everything was working properly. From that moment on I was a member of the PC gaming community. 
 
 Then I heard about Bitcoin, and I found it quite fascinating. I started researching cryptocurrencies and how they work and honestly I found the topic quite confusing at first. In fact, building my first gaming PC wasn't too easy for me either. 
 
@@ -52,9 +52,13 @@ It's not the most expensive build in the world, but it definitely suits my purpo
 
 I have social media too! 
 
-**Follow me on Twitter** [@easypcio](https://twitter.com/easypcio){:target="_blank"}
+**Follow me on Twitter** [@jacob_tuwiner](https://twitter.com/jacob_tuwiner){:target="_blank"}
 
 I also play PC games! If you want to play with me, [add me on steam!](http://steamcommunity.com/profiles/76561198122114157/){:target="_blank"}
+
+I am a writer for Cryptoslate, a cryptocurrency news website. Check out my [author profile](https://cryptoslate.com/author/jacob-tuwiner/){: target="_blank"}! 
+
+Check out my **LinkedIn** [here](https://www.linkedin.com/in/jacob-tuwiner-29277b142/){: target="_blank"}.
 
 ## Disclaimer
 
