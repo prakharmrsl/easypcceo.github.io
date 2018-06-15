@@ -9,7 +9,7 @@ seotitle: "7 Best GPUs for Mining Cryptocurrency: Bitcoin, Ethereum, & More (201
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-![GTX 1080 Ti](/img/gpu/gtx-1080ti){: .img-right .img-small}
+![GTX 1080 Ti](/img/gpu/gtx-1080ti.png){: .img-right .img-small}
 
 Here's the deal: 
 
@@ -72,7 +72,7 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 	</tr>
 	<tr>
 		<td>NVIDIA GeForce GTX 1080 Ti</td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="GeForce GTX 1080 Ti" src="/img/gpu/gtx-1080ti.png"></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="GeForce GTX 1080 Ti" src="/img/gpu/gtx-1080ti.png" /></a></td>
 		<td class="components">
 			<ul>
 				<li>Insanely Powerful</li>
@@ -83,7 +83,7 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 	</tr>
 	<tr>
 		<td>AMD RX 580</td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+580&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="AMD RX 580" src="/img/gpu/radeonrx580gaming.png"></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+580&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" alt="AMD RX 580" src="/img/gpu/radeonrx580gaming.png" /></a></td>
 		<td class="components">
 			<ul>
 				<li>Efficient Cooling</li>
