@@ -106,6 +106,5 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 </table>
 
 
-
 * TOC
 {:toc}
