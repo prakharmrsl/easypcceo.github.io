@@ -9,12 +9,13 @@ seotitle: "7 Best GPUs for Mining Cryptocurrency: Bitcoin, Ethereum, & More (201
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+![GTX 1080 Ti](/img/gpu/gtx-1080ti){: .img-right .img-small}
 
 Here's the deal: 
 
 I've compiled a list of the best GPUs for mining [Bitcoin](/crypto-mining/bitcoin-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and more popular cryptocurrencies in 2018. 
 
-When it comes to mining cryptocurrency, it's important to buy a powerful GPU with a high [hashrate](https://coinsutra.com/hash-rate-or-hash-power/){: target="_blank"}. A GPU with a high hashrate and low power consumption is ultimately what determines mining profitability. For more information regarding cryptocurrency mining, check out our [guide](/crypto-mining/). 
+When it comes to mining cryptocurrency, it's important to buy a powerful GPU with a high [hashrate](https://coinsutra.com/hash-rate-or-hash-power/){: target="_blank"}. Hashrate and power consumption ultimately determine mining profitability. For more information regarding cryptocurrency mining, check out our [guide](/crypto-mining/). 
 
 ## Best Mining GPUs 
 
