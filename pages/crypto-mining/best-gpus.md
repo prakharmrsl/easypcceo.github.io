@@ -1,6 +1,6 @@
 ---
 title: The Best GPUs for Cryptocurrency Mining in 2018 
-permalink: "/crypto-mining/bitcoin-hardware/"
+permalink: "/crypto-mining/best-gpus/"
 layout: page
 seotitle: "7 Best GPUs for Mining Cryptocurrency: Bitcoin, Ethereum, & More (2018)" 
 ---
