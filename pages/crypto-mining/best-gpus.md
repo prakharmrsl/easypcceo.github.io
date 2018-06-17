@@ -107,7 +107,7 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 
 ## [AMD Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
 
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon r9 295x2" class="img-middle" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a>
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon r9 295x2" class="img-middle" src="/img/cryptocurrency/gpu/r9-295x2.jpg" /></a>
 
 The [AMD Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} is one of the best mining GPUs on the market. Boasting an ETH hashrate of 45 MH/s and drawing 500W from the wall, this GPU is the most powerful Ethereum miner on the market.
 
