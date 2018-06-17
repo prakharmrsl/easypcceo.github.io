@@ -105,7 +105,17 @@ When it comes to mining cryptocurrency, it's important to buy a powerful GPU wit
 	</tr>
 </table>
 
-Hello
+## [AMD Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon r9 295x2" class="img-middle" src="/img/cryptocurrency/gpu/r9-295-x2.png" /></a>
+
+The [AMD Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} is one of the best mining GPUs on the market. Boasting an ETH hashrate of 45 MH/s and drawing 500W from the wall, this GPU is the most powerful Ethereum miner on the market.
+
+The 295X2 has 8GB of dedicated video memory, which is crucial for ETH mining. As time goes on, the amount of dedicated video memory will steadily increase, so it's important to buy a GPU like the R9 295X2 that has a lot of memory.
+
+If you want to generate serious revenue mining Ethereum, consider running multiple R9 295X2 GPUs in an [Ethereum mining rig](https://www.easypc.io/crypto-mining/ethereum-hardware/#ethereum-mining-rigs). 
+
+The R9 295X2 is also a proficient [Monero mining GPU](/crypto-mining/monero-hardware/). You'll be able to profitably mine various cryptocurrencies with this card. 
 
 * TOC
 {:toc}
