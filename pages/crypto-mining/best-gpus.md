@@ -155,7 +155,9 @@ The [NVIDIA GeForce GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0
 
 On the other hand, the GTX 1080 Ti is one of the most expensive GPUs on the market. You're better off choosing one of the GPUs mentioned higher up on this list, as they're cheaper and consume less electricity. The GTX 1080 Ti draws around 180W from the wall, a bit higher than more efficient mining GPUs. 
 
-Click [here](/crypto-mining/gtx-1080-review/) to read more about the GTX 1080 Ti's mining capabilities. 
+Click [here](/crypto-mining/gtx-1080-review/) to read more about the GTX 1080 Ti's mining capabilities.
+
+##  
 
 
 * TOC
