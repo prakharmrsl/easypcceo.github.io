@@ -183,6 +183,60 @@ The HD 7990 achieves 36 MH/s while drawing 375W from the wall. It's not quite as
 
 It's important to note that the HD 7990 is a long graphics card – make sure the GPU fits in your case before you buy it! If you'd like the best cooling possible, considering mounting your GPUs in a cryptocurrency mining rig rather than inside a traditional case. The rack mounts allow for better airflow, and they have more space for multiple mining GPUs. The more GPUs you have, the more profitable your mining operation will be! 
 
+## Popular Cryptocurrencies to Mine 
+
+<table class="basic-table">
+	<tr>
+		<th>Logo</th>
+		<th>Cryptocurrency</th>
+		<th>Mine</th>
+	</tr>
+	<tr>
+		<td><img alt="bitcoin-logo" class="table-image" src="/img/cryptocurrency/bitcoin-logo.png" /></td>
+		<td>Bitcoin</td>
+		<td><a class="big-button" href="/crypto-mining/bitcoin-hardware/">View our Guide</a></td>
+	</tr>
+	<tr>
+		<td><img alt="litecoin-logo" class="table-image" src="/img/cryptocurrency/litecoin-logo.png" /></td>
+		<td>Litecoin</td>
+		<td><a class="big-button" href="/crypto-mining/litecoin-hardware/">View our Guide</a></td>
+	</tr>
+	<tr>
+		<td><img alt="ethereum-logo" class="table-image" src="/img/cryptocurrency/ethereum-logo.png" /></td>
+		<td>Ethereum</td>
+		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a></td>
+	</tr>
+	<tr>
+		<td><img alt="monero-logo" class="table-image" src="/img/cryptocurrency/monero-logo.png" /></td>
+		<td>Monero</td>
+		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a>
+	</tr>
+	<tr>
+		<td><img alt="dash-logo" class="table-image" src="/img/cryptocurrency/dash.png" /></td>
+		<td>Dash</td>
+		<td><a class="big-button" href="/crypto-mining/dash-hardware/">View our Guide</a>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="zcash-logo" src="/img/cryptocurrency/zcash.png" /></td>
+		<td>ZCash</td>
+		<td><a class="big-button" href="/crypto-mining/zcash-hardware/">View our Guide</a>
+	</tr>
+	<tr>
+		<td><img alt="decred-logo" class="table-image" src="/img/cryptocurrency/decred-logo.png" /></td>
+		<td>Decred</td>
+		<td><a class="big-button" href="/crypto-mining/decred-hardware/">View our Guide</a>
+	</tr>
+	<tr>
+		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/vertcoin-logo.png" /></td>
+		<td>Vertcoin</td>
+		<td><a class="big-button" href="/crypto-mining/vertcoin-hardware/">View our Guide</a>
+	</tr>
+	<tr>
+		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/zencash-logo.png" /></td>
+		<td>Zencash</td>
+		<td><a class="big-button" href="/crypto-mining/zencash-hardware/">View our Guide</a>
+	</tr>
+
 ## Cryptocurrency Mining Profitability 
 
 Mining cryptocurrency is not as profitable as it was back in January of 2018 – the cryptocurrency market has retraced around 50% from where it was just 6 months ago. 
@@ -196,6 +250,19 @@ Take a look at your projected earnings with a Radeon RX 480:
 We're in the midst of a bearish market. Once the bulls return – and they will return – the crypto market cap will increase once again, and cryptocurrency mining will be even more profitable. It makes sense to acquire as much cheap cryptocurrency as you can while there's still time!
 
 ## Bitcoin Mining GPU 
+
+If you're interested in buying a GPU for Bitcoin mining, I regret to inform you that you can't mine Bitcoin with a GPU. Once Bitcoin mining ASICs were developed, Bitcoin's mining difficulty skyrocketed. If you tried mining Bitcoin with a GPU, you'd never turn a profit. 
+
+If you don't believe me, input any GPU's Bitcoin hashrate and power consumption into this [Bitcoin mining profitability calculator](https://www.cryptocompare.com/mining/calculator/btc?HashingPower=14&HashingUnit=MH%2Fs&PowerConsumption=150&CostPerkWh=0.12&MiningPoolFee=1){: target="_blank"}, and see for yourself. 
+
+Don't get discouraged – you can buy a [Bitcoin mining ASIC](/crypto-mining/bitcoin-hardware/) to profitably mine Bitcoin! 
+
+## Cryptocurrency Mining Pools 
+
+
+
+
+
 
 
 
