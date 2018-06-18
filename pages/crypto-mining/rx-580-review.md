@@ -56,6 +56,8 @@ As you can see, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?i
 
 [You can check your own Ethereum mining profitability with this calculator](https://www.cryptocompare.com/mining/calculator/eth?HashingPower=29&HashingUnit=MH%2Fs&PowerConsumption=153&CostPerkWh=0.12){:target="_blank"}.
 
+If you're interested, check out our guide about the [best mining GPUs](/crypto-mining/best-gpus/).
+
 ## Ethereum Mining Conclusion 
 
 Should you use the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for Ethereum mining? 

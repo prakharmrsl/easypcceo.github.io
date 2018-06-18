@@ -19,7 +19,7 @@ Cryptocurrencies are in, and they're here to stay.
 
 This guide is designed to provide you with the best cryptocurrency mining hardware. 
 
-Don't get left behind, start mining now!
+Don't get left behind, start mining with [the best mining GPUs](/crypto-mining/best-gpus/) now!
 
 ## Most Popular Cryptocurrencies:
 

@@ -19,7 +19,6 @@ Ethereum mining in 2018 is *significantly* more profitable than [mining other al
 However, not all Ethereum mining hardware was created equal. 
 
 Lucky for you, this guide provides you with **the three most profitable Ethereum mining hardware GPUs!** 
-
 ## Ethereum Mining Hardware to Maximize Your Profits
 
 <table class="basic-table" align="center">
@@ -123,6 +122,8 @@ Never underestimate the power of the Radeon RX 400 series. The [Radeon RX 480](h
 Finding the right GPU for mining Ethereum can be difficult. It is important to balance the power of the GPU with the cost of the GPU and the cost of electricity. 
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [ZenCash](/crypto-mining/zencash-hardware/), [Monero](/crypto-mining/monero-hardware/), [Dash](/crypto-mining/dash-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with these factors (see our guide on [Ethereum mining profitability](/crypto-mining/ethereum-mining-profitability/)). 
+
+Check out our top picks for the [best mining GPUs](/crypto-mining/best-gpus/) on the market!
 
 ## Ethereum Mining Rigs 
 
