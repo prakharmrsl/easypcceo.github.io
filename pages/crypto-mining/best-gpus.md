@@ -209,33 +209,34 @@ It's important to note that the HD 7990 is a long graphics card – make sure th
 	<tr>
 		<td><img alt="monero-logo" class="table-image" src="/img/cryptocurrency/monero-logo.png" /></td>
 		<td>Monero</td>
-		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a></td>
 	</tr>
 	<tr>
 		<td><img alt="dash-logo" class="table-image" src="/img/cryptocurrency/dash.png" /></td>
 		<td>Dash</td>
-		<td><a class="big-button" href="/crypto-mining/dash-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/dash-hardware/">View our Guide</a></td>
 	</tr>
 	<tr>
 		<td><img class="table-image" alt="zcash-logo" src="/img/cryptocurrency/zcash.png" /></td>
 		<td>ZCash</td>
-		<td><a class="big-button" href="/crypto-mining/zcash-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/zcash-hardware/">View our Guide</a></td>
 	</tr>
 	<tr>
 		<td><img alt="decred-logo" class="table-image" src="/img/cryptocurrency/decred-logo.png" /></td>
 		<td>Decred</td>
-		<td><a class="big-button" href="/crypto-mining/decred-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/decred-hardware/">View our Guide</a></td>
 	</tr>
 	<tr>
 		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/vertcoin-logo.png" /></td>
 		<td>Vertcoin</td>
-		<td><a class="big-button" href="/crypto-mining/vertcoin-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/vertcoin-hardware/">View our Guide</a></td>
 	</tr>
 	<tr>
 		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/zencash-logo.png" /></td>
 		<td>Zencash</td>
-		<td><a class="big-button" href="/crypto-mining/zencash-hardware/">View our Guide</a>
+		<td><a class="big-button" href="/crypto-mining/zencash-hardware/">View our Guide</a></td>
 	</tr>
+</table>
 
 ## Cryptocurrency Mining Profitability 
 
