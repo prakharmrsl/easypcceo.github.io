@@ -137,5 +137,16 @@ Unfortunately, the GTX 1070 is an expensive GPU. Although it's easily one of the
 
 Remember, you'll make more money if you mine where electricity is cheap. That's why the majority of cryptocurrency mining is done in China. On the other hand, the GTX 1070 is a profitable mining GPU no matter where you live. 
 
+## [AMD RX Vega 56](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+vega+56&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+vega+56&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" alt="vega 56 GPU" src="/img/gpu/vega-56.png"/></a>
+
+Out of the box, the [AMD RX Vega 56](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=amd+rx+vega+56&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} gets around 36 MH/s.
+
+The RX Vega 56 performs well, but compared to other GPUs on the market, it probably isn't worth your money. As of now, the Vega 56 is quite expensive. Moreover, it draws a considerable amount of power, making it an expensive GPU to run 24/7 in a mining rig. 
+
+If you already have an RX Vega 56 for gaming, it is definitely a profitable way to mine cryptocurrency. However, if you are already in the market for a new GPU, particularly for cryptocurrency mining, I'd recommend choosing one of the more profitable alternatives in this list. 
+
+
 * TOC
 {:toc}
