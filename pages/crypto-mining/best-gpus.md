@@ -121,5 +121,13 @@ The R9 295X2 is also a proficient [Monero mining GPU](/crypto-mining/monero-hard
 
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon rx 480" src="/img/gpu/rx-480.jpg" /></a>
 
+The [AMD Radeon RX 480](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+rx+480&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} is the most profitable Ethereum mining GPU on the market as of now – Ethereum is one of the most profitable cryptocurrencies to mine, meaning the Radeon RX 480 is a worthy investment. 
+
+The RX 480 has an Ethereum hashrate of around 25 MH/s and draws 150W from the wall. Even though it has a lower hashrate than the R9 295X2, it also has a lower power consumption. The R9 295X2 is a powerful miner, but you'll end up spending more on electricity with that card. 
+
+The RX 480 provides a great balance of power and efficiency, both of which are important traits of a cryptocurrency mining GPU. The RX 480 is also great for mining Monero, ZCash, etc. 
+
+
+
 * TOC
 {:toc}
