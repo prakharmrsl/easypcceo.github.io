@@ -173,6 +173,17 @@ This video does a great job showing you how to maximize your mining profits with
 
 For more information regarding the RX 580's mining performance, read our [RX 580 review](/crypto-mining/rx-580-review/).
 
+## [AMD Radeon HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="radeon hd 7990" class="table-image" src="/img/gpu/hd-7990.jpg" /></a>
+
+The [AMD Radeon HD 7990](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} is a good budget mining GPU. 
+
+The HD 7990 achieves 36 MH/s while drawing 375W from the wall. It's not quite as profitable as the Radeon RX 480 or the GTX 1070, but it still gets the job done. The card has three fans as opposed to just two, which allows for superior cooling. 
+
+It's important to note that the HD 7990 is a long graphics card – make sure the GPU fits in your case before you buy it! If you'd like the best cooling possible, considering mounting your GPUs in a cryptocurrency mining rig rather than inside a traditional case. The rack mounts allow for better airflow, and they have more space for multiple mining GPUs. The more GPUs you have, the more profitable your mining operation will be! 
+
+## Cryptocurrency Mining Profitability 
 
 
 * TOC
