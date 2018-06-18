@@ -147,6 +147,16 @@ The RX Vega 56 performs well, but compared to other GPUs on the market, it proba
 
 If you already have an RX Vega 56 for gaming, it is definitely a profitable way to mine cryptocurrency. However, if you are already in the market for a new GPU, particularly for cryptocurrency mining, I'd recommend choosing one of the more profitable alternatives in this list. 
 
+## [NVIDIA GeForce GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="GeForce GTX 1080 Ti" src="/img/gpu/gtx-1080ti.png" /></a>
+
+The [NVIDIA GeForce GTX 1080 Ti](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338326883&customid=&icep_uq=gtx+1080+ti&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"} is the most powerful gaming GPU on the market today. In addition, it's also a proficient cryptocurrency mining GPU. In fact, the GTX 1080 Ti can achieve around 32 MH/s if you tweak the right settings in the BIOS. The GTX 1080 Ti also boasts 11 GB of dedicated video memory (VRAM), which is very impressive.
+
+On the other hand, the GTX 1080 Ti is one of the most expensive GPUs on the market. You're better off choosing one of the GPUs mentioned higher up on this list, as they're cheaper and consume less electricity. The GTX 1080 Ti draws around 180W from the wall, a bit higher than more efficient mining GPUs. 
+
+Click [here](/crypto-mining/gtx-1080-review/) to read more about the GTX 1080 Ti's mining capabilities. 
+
 
 * TOC
 {:toc}
