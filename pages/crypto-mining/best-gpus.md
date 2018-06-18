@@ -272,7 +272,7 @@ Here are some popular mining pools to consider:
 * [BTC China](https://pool.btcc.com/)
 * [BitFury](http://bitfury.com/)
 
-If you'd like to understand why the majority of Bitcoin mining is performed in China in huge mining farms, click [here](/crypto-mining/bitcoin-hardware/#asics-impact-on-decentralization/).
+If you'd like to understand why the majority of Bitcoin mining is performed in China in huge mining farms, click [here](/crypto-mining/bitcoin-hardware/#asics-impact-on-decentralization).
 
 * TOC
 {:toc}
