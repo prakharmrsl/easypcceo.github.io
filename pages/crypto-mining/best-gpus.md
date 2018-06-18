@@ -185,6 +185,15 @@ It's important to note that the HD 7990 is a long graphics card – make sure th
 
 ## Cryptocurrency Mining Profitability 
 
+Mining cryptocurrency is not as profitable as it was back in January of 2018 – the cryptocurrency market has retraced around 50% from where it was just 6 months ago. 
+
+Although, that does not mean mining cryptocurrency is not profitable. With the right mining hardware, you can still generate passive income by mining cryptocurrency. 
+
+Take a look at your projected earnings with a Radeon RX 480: 
+
+![Current Mining Profitability](/img/cryptocurrency/profitability-now.jpg)
+
+We're in the midst of a bearish market. Once the bulls return – and they will return – the crypto market cap will increase once again, and cryptocurrency mining will be even more profitable. It makes sense to acquire as much cheap cryptocurrency as you can while there's still time!
 
 * TOC
 {:toc}
