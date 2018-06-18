@@ -191,7 +191,7 @@ Although, that does not mean mining cryptocurrency is not profitable. With the r
 
 Take a look at your projected earnings with a Radeon RX 480: 
 
-![Current Mining Profitability](/img/cryptocurrency/profitability-1.jpg)
+![Current Mining Profitability](/img/cryptocurrency/profitability-today.png)
 
 We're in the midst of a bearish market. Once the bulls return – and they will return – the crypto market cap will increase once again, and cryptocurrency mining will be even more profitable. It makes sense to acquire as much cheap cryptocurrency as you can while there's still time!
 
