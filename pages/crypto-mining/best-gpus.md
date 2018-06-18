@@ -261,10 +261,5 @@ Don't get discouraged – you can buy a [Bitcoin mining ASIC](/crypto-mining/bit
 
 
 
-
-
-
-
-
 * TOC
 {:toc}
