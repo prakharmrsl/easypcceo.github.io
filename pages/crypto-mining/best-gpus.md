@@ -260,7 +260,19 @@ Don't get discouraged – you can buy a [Bitcoin mining ASIC](/crypto-mining/bit
 
 ## Cryptocurrency Mining Pools 
 
+If you're interested in maximizing your mining profits (why wouldn't you be?) then you should participate in a cryptocurrency mining pool. There's strength in numbers, especially when you're mining. 
 
+Rather than trying to mine on your own, you can combine your hashing power with a bunch of other miners' hashing power. Then, all of you work together, which increases your odds of successfully validating a block. 
+
+Once a block is verified, you receive a cut of the block reward that is proportional to the computational power that you contributed. For example, if you were responsible for 40% of the computational power, you'd receive 40% of the block reward, after pool fees. 
+
+Here are some popular mining pools to consider: 
+
+* [Antpool](https://antpool.com/)
+* [BTC China](https://pool.btcc.com/)
+* [BitFury](http://bitfury.com/)
+
+If you'd like to understand why the majority of Bitcoin mining is performed in China in huge mining farms, click [here](/crypto-mining/bitcoin-hardware/#asics-impact-on-decentralization/).
 
 * TOC
 {:toc}
