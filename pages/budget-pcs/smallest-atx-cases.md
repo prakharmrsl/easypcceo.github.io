@@ -265,7 +265,7 @@ This case offers a stylish full sized form factor without being too big and bulk
 
 ## Case Buying Guide
 
-![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right img-small}
+![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right .img-small}
 
 If you're interested in building a gaming PC, it is imperative that you choose the [right case](https://www.computercaselab.com/what-makes-a-computer-case-the-best-for-gaming/){: target="_blank"}. Of course, that's easier said than done. 
 
