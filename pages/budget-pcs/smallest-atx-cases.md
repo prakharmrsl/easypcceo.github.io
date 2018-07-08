@@ -174,10 +174,8 @@ Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for 
 
 The case has a removable motherboard tray that supports ATX, micro-ATX and mini-ITX motherboards.  
 
-<figure>
-	<img class="img-right img-small" alt="HAF XB II EVO" src="/img/case/cooler-master-haf-insid.jpg" />
-	<figcaption>A quick look inside reveals the case's two compartments</figcaption>
-</figure>
+<img class="img-right img-small" alt="HAF XB II EVO" src="/img/case/cooler-master-haf-insid.jpg" />
+
 
 The case has carrying handles, making it ideal as a LAN box. The case can also be used as an HTPC, gaming PC, or as a test bench. The case is spacious and versatile, ready to handle whatever you throw at it! 
 
