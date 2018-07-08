@@ -3,6 +3,7 @@ title: "NVIDIA GeForce GTX 1050 Ti Mining Performance"
 permalink: "/crypto-mining/gtx-1050ti-review/"
 layout: page
 seotitle: "GTX 1050 Ti Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
+review: 5
 ---
 <h3 class="page-subtitle">
 	Updated January 28, 2018 by 

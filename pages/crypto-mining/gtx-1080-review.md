@@ -3,6 +3,7 @@ title: "The GTX 1080: Hashrate, Power Consumption, and More"
 permalink: "/crypto-mining/gtx-1080-review/"
 layout: page
 seotitle: "GTX 1080 Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
+review: 5
 ---
 <h3 class="page-subtitle">
 	January 16, 2018 by 

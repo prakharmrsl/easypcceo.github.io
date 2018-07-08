@@ -3,6 +3,7 @@ title: "The GTX 1060: Hashrate, Power Consumption, and More"
 permalink: "/crypto-mining/gtx-1060-review/"
 layout: page
 seotitle: "GTX 1060 Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
+review: 5
 ---
 <h3 class="page-subtitle">
 	January 13, 2018 by 
