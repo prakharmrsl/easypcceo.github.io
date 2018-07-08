@@ -3,6 +3,7 @@ title: "RX 580 Mining Review: Buy This Miner? "
 permalink: "/crypto-mining/rx-580-review/"
 layout: page
 seotitle: "RX 580 Mining Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
+review: 5
 ---
 <h3 class="page-subtitle">
 	January 22, 2018 by 
