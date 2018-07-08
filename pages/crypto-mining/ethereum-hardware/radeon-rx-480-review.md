@@ -3,6 +3,7 @@ title: "Mining Ethereum with the Radeon RX 480: Buy This Miner?"
 permalink: "/crypto-mining/ethereum-hardware/radeon-rx-480-review/"
 layout: page
 seotitle: "RX 480 Review: Hashrate, Power Consumption, & More! (2018)" 
+review: 5
 ---
 
 <h3 class="page-subtitle">
