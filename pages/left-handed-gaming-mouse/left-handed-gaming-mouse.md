@@ -15,7 +15,7 @@ seotitle: "7 Best Left Handed Gaming Mouse Reviews 2018 (Insane Precision)"
 
 **Listen up:**
 
-If you want to have the best possible PC gaming experience, it is *imperative* that you choose the right gaming mouse for you. 
+If you want to have the best possible PC gaming experience, it is *imperative* that you choose the right gaming mouse. 
 
 A mouse is far more precise and comfortable than a traditional console controller. However, finding the right mouse to suit your needs can be difficult. 
 
@@ -224,3 +224,22 @@ This mouse is simple and straightforward, unlike MMO mice that cram in as many b
 As far as performance is concerned, the Roccat Lua definitely gets the job done. Although it may not be up to par for professional competition, it is adequate for casual, and even semi-competitive gaming. 
 
 The mouse feels smooth and precise – I felt like my mouse strokes were met with the proper movements. The Roccat Lua is definitely one of the best in its price range. If you're looking for an affordable, comfortable, sleek mouse with good performance (without breaking the bank), the Roccat Lua is the mouse for you. 
+
+## How to Choose the Right Gaming Mouse
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rtt5qwYDasw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## 5 Things to Consider Before You Buy a Gaming Mouse 
+
+**Price:** Obviously, you're going to have to figure out how much you can afford to spend. If you're a competitive gamer, you're going to want to ensure you have a quality mouse, which may mean you have to spend more than you first thought. Don't be afraid to buy a used or refurbished mouse – I bought a used Razer Deathadder on eBay for $15 four years ago, and it still works perfectly. 
+
+**Macro Count:** This applies especially if you're an MMO gamer, but the number of macros on your mouse is still important regardless of your favorite genre. Macros can be incredibly helpful, but you don't necessarily need 10 or 20 of them, unless you're playing MMO games. My mouse has two, which is more than enough for me. 
+
+**Wired/Wireless:** Some people are hellbent on buying a wireless gaming mouse. That's all fine and dandy, but I've always preferred wired mice, because I never have to change the batteries and a direct connection is more responsive than a wireless connection. At the end of the day, it's really up to you. 
+
+**Max Polling Speed:** The polling rate determines how fast your mouse relays information to your computer. A higher rate is better than a slower polling rate. 
+
+**Ergonomics/Design:** The way the mouse looks and feels are both very important factors. You're going to be using the mouse a lot, so you want to make sure it fits comfortably in your hand. Otherwise, your hand will cramp and you won't have the best possible PC gaming experience. 
+
