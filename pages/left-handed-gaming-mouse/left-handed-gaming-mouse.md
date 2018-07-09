@@ -243,3 +243,5 @@ The mouse feels smooth and precise – I felt like my mouse strokes were met wit
 
 **Ergonomics/Design:** The way the mouse looks and feels are both very important factors. You're going to be using the mouse a lot, so you want to make sure it fits comfortably in your hand. Otherwise, your hand will cramp and you won't have the best possible PC gaming experience. 
 
+* TOC
+{:toc}
