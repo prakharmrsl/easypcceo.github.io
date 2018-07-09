@@ -491,6 +491,8 @@ There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.c
 
 After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for around $500 or less. This PC can easily game at 1080p. 
 
+If you don't like this case, you can always buy another one and transfer the components. Check out our guide on the [smallest atx cases!](/budget-pcs/smallest-atx-cases/)
+
 [View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button target="_blank"}
 
 ## Advantages of PC Gaming 

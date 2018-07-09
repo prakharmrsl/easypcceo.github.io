@@ -105,18 +105,6 @@ Fortunately for you, I've created this ultimate list of the best left handed gam
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2ugjvtl">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ugjvtl"><img alt="logitech g300 left handed gaming mouse" class="table-image" src="/img/left-handed-gaming-mouse/logitech-g300.png" /></a></td>
-		<td>Logitech G300 Gaming Mouse</td>
-		<td class="components">
-			<ul>
-				<li>Customizable LEDs</li>
-				<li>Nine programmable buttons</li>
-				<li>Up to 2,500 DPI</li>
-			</ul>
-		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2ugjvtl">Shop on Amazon</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="https://amzn.to/2MZCJLw"><img alt="Roccat Lua Tri-Button Gaming Mouse" class="table-image" src="/img/left-handed-gaming-mouse/roccat-lua-gaming-mouse.png" /></a></td>
 		<td>Roccat Lua Tri-Button Gaming Mouse</td>
 		<td class="components">
@@ -130,4 +118,109 @@ Fortunately for you, I've created this ultimate list of the best left handed gam
 	</tr>
 </table>
 
-## 
+## Best Budget Left Handed Gaming Mouse: Logitech G300 - $20
+<a target="_blank" href="https://amzn.to/2ugjvtl"><img alt="logitech g300 left handed gaming mouse" class="img-small img-right" src="/img/left-handed-gaming-mouse/logitech-g300.png" /></a>
+
+The [Logitech G300](https://amzn.to/2ugjvtl){: target="_blank"} isn't designed for professional competition – however, if you're a casual gamer on a budget, it's probably the right mouse for you. 
+
+The mouse is ambidextrous and symmetrical in design, meaning it can be wielded by both left handed and right handed PC gamers. 
+
+The side of the mouse is coated with rubber to aid your grip when your hands get sweaty – if you've ever had to clutch a 1v5 in CSGO, you know what I'm talking about... 
+
+The G300 is a wired mouse. Some people prefer wireless mice, but I prefer wired mice for a variety of reasons: 
+
+Firstly, a wired mouse delivers the fastest connection between your mouse and computer. If the G300 was wireless, you wouldn't be able to get a true 1,000 Hz ultrapolling rate that is imperative for accurate shots. 
+
+The G300 is a plug and play mouse, but you can download software from Logitech's website to customize your mouse. 
+
+Overall, it's a fantastic mouse for less than $20. 
+
+## Razer Naga Left Handed MMO Gaming Mouse - $80
+<a target="_blank" href="https://amzn.to/2KHglKl"><img alt="razer naga left handed mmo gaming mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/razer-naga.png" /></a>
+
+The [Razer Naga Left Handed MMO Gaming Mouse](https://amzn.to/2KHglKl){: target="_blank"} has 12 distinct and programmable macros – it was designed with MMO gamers in mind. 
+
+The mouse is perfect for MMO games because it features so many macros and keymaps. 
+
+If you use a claw grip, this mouse is not for you. The Naga is a large and heavy mouse, with a high profile.  
+
+Despite having so many buttons, the mouse's design makes it easy to use them. Each profile can store eight seperate keymaps, which allows for nearly 100 programmable buttons per profile. 
+
+The Naga's DPI range starts at 100 and goes all the way up to 8,200. 
+
+Since this mouse was designed for MMO use, it doesn't perform particularly well in FPS titles, for example, especially when compared to other mice that were designed for FPS games. 
+
+What's the verdict?
+
+If you're an MMO fan, this is probably the mouse for you – otherwise, keep browsing. 
+
+## SteelSeries Sensei Left Handed Gaming Mouse - $50
+<a target="_blank" href="https://amzn.to/2J4VT04"><img alt="steelseries sensei" class="img-right img-small" src="/img/left-handed-gaming-mouse/steelseries-sensei.png" /></a>
+
+The [SteelSeries Sensei](https://amzn.to/2J4VT04){: target="_blank"} is a fantastic gaming mouse. Its ambidextrous design is perfect for left handed gamers.
+
+The mouse is programmable without a PC, has 3 individual LED lighting zones that can be customized with SteelSeries' amazing software. 
+
+This mouse is equipped with a Pentium-equivalent CPU inside, which allows you to enjoy a whopping 11,400 DPI. It also has a monochrome LCD screen on the bottom of the mouse, so you can program it without a PC. 
+
+The Sensei has two LED rings on either side of the scroll wheel, a round LED between the DPI button and the wheel, and an LED in the SteelSeries logo. 
+
+You can choose from 16.8 million colors for each of the LED zones on the mouse. 
+
+The mouse also includes awesome features like FreeMove which eliminates path correction. 
+
+The mouse was designed with E-Sports in mind – in fact, some of the best gamers in the world helped with the mouse's design, including Fnatic, and iNcontrol. It's customizable, comfortable, and incredibly precise. 
+
+## Razer Deathadder Left Handed Edition - $75
+<a target="_blank" href="https://amzn.to/2J4nPRC"><img alt="Razer deathadder left handed edition" class="img-right img-small" src="/img/left-handed-gaming-mouse/razer-deathadder.png" /></a>
+
+The [Razer Deathadder](https://amzn.to/2J4nPRC){: target="_blank"} is one of my favorite mice – actually, it's been my mouse of choice for the past four years. 
+
+It's a larger mouse, but it fits very comfortably in my hand. The mouse has two programmable macros on the side, which are both large and easy to use. 
+
+As far as functionality is concerned, you won't have any issues with this mouse. I've found it incredibly precise and smooth – moreover, the build quality and design of this mouse is top notch. 
+
+The mouse is incredibly responsive. Razer boasts a lightning fast response time of just 1ms. There's an on-the-fly DPI adjustment button on the mouse, in addition to five independently programmable macros in total. 
+
+The mouse is designed just like the standard right handed mouse, but the features are mirrored to accomodate left handed gamers. 
+
+This mouse is strictly wired, something that's not an issue for me. However, if you're determined to buy a wireless gaming mouse, this isn't the one for you. But like I said, the wire has never been an issue for me. 
+
+Overall, I'd highly recommend this mouse. 
+
+## BenQ ZOWIE FK1 Ambidextrous Gaming Mouse - $60
+<a target="_blank" href="https://amzn.to/2u6JuEc"><img alt="benq zowie fk1 ambidextrous gaming mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/benq-zowie-fk1.png" /></a>
+
+This mouse was designed specifically with FPS gamersi n mind. The Zowie FK1 is one of the most widely used mice by professional CS:GO players. 
+
+At first glance, the mouse is simple – the mouse really shines when you put it in your hand. The FK1 fits like a glove. 
+
+For an ambidextrous mouse, the ergonomic design is impressive. The mouse has two programmable macros on each side of the mouse. 
+
+Unlike other ambidextrous mice I've tried, I didn't find myself accidentally pressing the macros. 
+
+As far as performance goes, the FK1 is flawless. The Avago 3310 sensor coupled with the mouse's ergonomic design renders this mouse my top pick on this list, especially for competitive gamers. 
+
+## SteelSeries Kana Left Handed Optical Gaming Mouse – $50
+<a target="_blank" href="https://amzn.to/2KZ6zPI"><img alt="steelseries kana optical gaming mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/steelseries-kana.png" /></a>
+
+The [SteelSeries Kana](https://amzn.to/2KZ6zPI){: target="_blank"} is compatible with SteelSeries Engine software, a driver for all of their mice. 
+
+The Kana allows you to choose 400, 800, 1600 or 3200 CPI, which are toggled when you press the CPI button in front of the scroll wheel. 
+
+The mouse is light and easy to use. I found it comfortable in my hand, although I still prefer my Razer Deathadder.
+
+The Kana is an accurate, smooth mouse. For the price, the Kana is a great mouse – however, I'd recommend shelling out the extra money for the SteelSeries Sensei for optimal performance. 
+
+## Roccat Lua Tri-Button Left Handed Gaming Mouse - $35
+<a target="_blank" href="https://amzn.to/2MZCJLw"><img alt="Roccat Lua Tri-Button Gaming Mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/roccat-lua-gaming-mouse.png" /></a>
+
+The [Roccat Lua Tri-Button mouse](https://amzn.to/2MZCJLw){: target="_blank"} is a comfortable, ambidextrous gaming mouse. Its lightweight design makes it easy to use, and textured side grips are also a nice touch. 
+
+You can tweak button height, weight, center of gravity, and any of the 10 to 20 macro buttons. I was surprised by the mouse's relatively low price tag because of the mouse's build quality and versatility. 
+
+This mouse is simple and straightforward, unlike MMO mice that cram in as many buttons as they possibly can. The mouse is plug and play with both Mac and PC, but you can customize the mouse with Roccat's software that you can find on their website. 
+
+As far as performance is concerned, the Roccat Lua definitely gets the job done. Although it may not be up to par for professional competition, it is adequate for casual, and even semi-competitive gaming. 
+
+The mouse feels smooth and precise – I felt like my mouse strokes were met with the proper movements. The Roccat Lua is definitely one of the best in its price range. If you're looking for an affordable, comfortable, sleek mouse with good performance (without breaking the bank), the Roccat Lua is the mouse for you. 

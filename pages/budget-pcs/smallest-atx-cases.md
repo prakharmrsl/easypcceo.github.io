@@ -15,7 +15,7 @@ seotitle: "7 Smallest ATX Case Reviews of 2018 (Best Cases Guaranteed!)"
 
 Here's the deal:
 
-If you're looking for the best (and the smallest) ATX cases money can buy, you've come to the right place. I've procured the ultimate list of the smallest ATX cases on the market. 
+If you're looking for the best (and the smallest) [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} cases money can buy, you've come to the right place. I've procured the ultimate list of the smallest ATX cases on the market. 
 
 ## The Smallest ATX Cases 
 
@@ -289,7 +289,7 @@ Since cases are responsible for housing motherboards, cases are categorized in t
 
 A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
 
-**2.** A great gaming case has fantastic airflow. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. *Airflow is incredibly important!* 
+**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. *Airflow is incredibly important!* 
 
 You may find this PC airflow guide helpful: 
 
