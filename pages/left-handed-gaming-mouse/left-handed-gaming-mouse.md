@@ -17,9 +17,9 @@ seotitle: "7 Best Left Handed Gaming Mouse Reviews 2018 (Insane Precision)"
 
 If you want to have the best possible PC gaming experience, it is *imperative* that you choose the right gaming mouse. 
 
-A mouse is far more precise and comfortable than a traditional console controller. However, finding the right mouse to suit your needs can be difficult. 
+A mouse is far more [precise](https://www.daskeyboard.com/blog/why-a-keyboard-and-mouse-provides-a-better-gaming-experience/){: target="_blank"} and comfortable than a traditional console controller. However, finding the right mouse to suit your needs can be difficult. 
 
-There are many factors to consider, including ergonomics, the type of grip you use, macros, DPI, LEDs, etc. If you're looking for a left handed gaming mouse, it can be even more difficult to find the right one. 
+There are many factors to consider, including [ergonomics](https://www.ergonomics.com.au/what-is-ergonomics/){: target="_blank"}, the type of grip you use, macros, [DPI](http://smallbusiness.chron.com/dpi-switch-mouse-66055.html){: target="_blank"}, LEDs, etc. If you're looking for a left handed gaming mouse, it can be even more difficult to find the right one. 
 
 Fortunately for you, I've created this ultimate list of the best left handed gaming mice on the market in 2018. 
 
@@ -133,7 +133,7 @@ Firstly, a wired mouse delivers the fastest connection between your mouse and co
 
 The G300 is a plug and play mouse, but you can download software from Logitech's website to customize your mouse. 
 
-Overall, it's a fantastic mouse for less than $20. 
+If you're building a [budget gaming PC](/budget-pcs/), maybe [$500](/budget-pcs/500/) or less, you're probably looking for a cheap mouse. If that's the case, the G300 is a fantastic mouse for less than $20. 
 
 ## Razer Naga Left Handed MMO Gaming Mouse - $80
 <a target="_blank" href="https://amzn.to/2KHglKl"><img alt="razer naga left handed mmo gaming mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/razer-naga.png" /></a>
@@ -182,9 +182,9 @@ As far as functionality is concerned, you won't have any issues with this mouse.
 
 The mouse is incredibly responsive. Razer boasts a lightning fast response time of just 1ms. There's an on-the-fly DPI adjustment button on the mouse, in addition to five independently programmable macros in total. 
 
-The mouse is designed just like the standard right handed mouse, but the features are mirrored to accomodate left handed gamers. 
+Designed just like the standard right handed mouse, the mouse features are mirrored to accomodate left handed gamers. 
 
-This mouse is strictly wired, something that's not an issue for me. However, if you're determined to buy a wireless gaming mouse, this isn't the one for you. But like I said, the wire has never been an issue for me. 
+This mouse is strictly [wired](https://rantopadusa.com/blogs/news/113955588-wired-vs-wireless-peripherals-which-is-better-for-gaming){: target="_blank"}, something that's not an issue for me. However, if you're determined to buy a wireless gaming mouse, this isn't the one for you. But like I said, the wire has never been an issue for me. 
 
 Overall, I'd highly recommend this mouse. 
 
@@ -206,7 +206,7 @@ As far as performance goes, the FK1 is flawless. The Avago 3310 sensor coupled w
 
 The [SteelSeries Kana](https://amzn.to/2KZ6zPI){: target="_blank"} is compatible with SteelSeries Engine software, a driver for all of their mice. 
 
-The Kana allows you to choose 400, 800, 1600 or 3200 CPI, which are toggled when you press the CPI button in front of the scroll wheel. 
+The Kana allows you to choose 400, 800, 1600 or 3200 CPI, which are toggled when you press the [CPI](https://steelseries.com/blog/the-cpi-lie-18){: target="_blank"} button in front of the scroll wheel. 
 
 The mouse is light and easy to use. I found it comfortable in my hand, although I still prefer my Razer Deathadder.
 
