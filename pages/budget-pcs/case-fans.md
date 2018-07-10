@@ -65,7 +65,48 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 	</tr>
 </table>
 
+## [ARCTIC F12 PWM Case Fan](https://amzn.to/2m8zQNb){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2m8zQNb"><img class="img-small img-right" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
 
+**1.** The [ARCTIC F12 PWM PST case fan](https://amzn.to/2m8zQNb){: target="_blank"} was designed to run quietly, while improving airflow and ventilation. 
+
+Your computer's motherboard utilizes the PWM function to run the fan at exactly at the right speed. This feature ensures your PC will be at the proper temperature. Moreover, because your fan won't be running faster than necessary, the PWM feature also helps to reduce noise. 
+
+The fan is also reversible – in other words, you can install it in a manner that will either draw cool air in your case (intake) or push warm air out of your case (exhaust). 
+
+The fan housing is actually two seperate sections, connected together with rubber grommets to help suppress the noise from vibrations. 
+
+*What's the bottom line here?*
+
+If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice. 
+
+## [Cooler Master JetFlo 120 Case Fan](https://amzn.to/2KYMRHa){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2KYMRHa"><img class="img-right img-small" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a>
+
+**2.** The [Cooler Master JetFlo 120 case fan](https://amzn.to/2KYMRHa){: target="_blank"} is ultra-thin, but don't underestimate its cooling power. 
+
+The blades spin from 800 to 2,000 RPM, thanks to the fan's high performance motor and fan blades which generate up to 95 CFM airflow. 
+
+Cooler Master's self-lubricating polyoxymethelene (POM) bearing gives this fan a lifespan of around 160,000 hours. You're definitely getting your money's worth out of this purchase. 
+
+You can choose from red, white, blue, and non-LED fans to match your PC's color scheme. Overall, this fan is delivering performance, style, and superb airflow, all for a low price. 
+
+At 1200 RPM with the included silent mode adapter, this fan emits 19 dBA. At 1600 RPM this fan emits 28 dBA.
+
+The corners of this fan are made of rubber, bolted to the fan's frame. This features cuts down on fan vibrations and helps to eliminate noise. 
+
+## [Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2L2nH7b"><img class="img-right img-small" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a>
+
+Although this fan may look plain, it is actually far from it. The [Noctua NF-F12 case fan](https://amzn.to/2L2nH7b){: target="_blank"} is designed with the new Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
+
+Integrated Anti-Vibration pads help to reduce noise, even when the Noctua NF-F12's 7 fans are spinning at full speed (1500 RPM). The fan ships with a low-noise adapter, which reduces the fan's maximum speed from 1500 RPM to 1200 RPM. 
+
+The NF-F12 uses Noctua's brand new SSO2 bearing. The rear magnet has been moved closer to the axis to deliver increased stability during operation. 
+
+The bearing shell of the fan is constructed entirely with brass – this fan is built to last. 
+
+Despite this fan's affordable price, it is one of Noctua's high performance fans, guarunteed to deliver fantastic airflow without making a lot of noise. 
 
 ## Best 140mm Case Fans 
 
