@@ -148,3 +148,6 @@ Despite this fan's affordable price, it is one of Noctua's high performance fans
 ## 120mm Case Fans vs. 140mm Case Fans 
 
 ## How to Install Case Fans 
+
+* TOC
+{:toc}
