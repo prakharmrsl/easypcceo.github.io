@@ -78,7 +78,7 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt-fn-v2.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt-fn-v2casefan.jpg" /></a></td>
 		<td>NZXT FN V2 Case Fan</td>
 		<td>$12</td>
 		<td>5/5</td>
