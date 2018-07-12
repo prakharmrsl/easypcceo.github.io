@@ -199,13 +199,13 @@ Before you buy your next set of case fans, it's important to consider the follow
 
 * Size – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
 
-* Noise – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want 
+* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want 
 
-* Airflow – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
+* **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
 
-* Type of Power Connector - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accomodate all of your fans. 
+* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accomodate all of your fans. 
 
-* Cosmetics – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
+* **Cosmetics** – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
 
 ## Best PC Fan for Gaming 
 
