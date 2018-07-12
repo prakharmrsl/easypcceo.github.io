@@ -166,6 +166,8 @@ At first glance, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?
 
 However, the [RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) may be a better choice. If you're on a budget and looking for a cheaper mining GPU, maybe consider the [RX 470](/crypto-mining/rx-470-review/) as well. 
 
+It's important to find a good cooling solution if you're interested in cryptocurrency mining, as your GPU(s) will get very hot. Check out our guide on the [best case fans](/budget-pcs/case-fans/)!
+
 [Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
 
 * TOC

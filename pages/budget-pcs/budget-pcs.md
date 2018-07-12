@@ -705,6 +705,8 @@ However, since gaming heavily relies on the graphics card rather than the CPU, t
 
 If you still don't know what parts to get, take a look at one of our five <a href="#overview">budget gaming PC builds.</a>
 
+Also, it's important that you have great case fans to cool your gaming PC. Check out our guide on the [best case fans](/budget-pcs/case-fans/)!
+
 ## Custom Built or Prebuilt? 
 
 There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 

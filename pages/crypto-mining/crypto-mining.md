@@ -182,6 +182,8 @@ However, powerful cards tend to use lots of electricity. That's why the efficien
 
 With the difficulty of mining increasing each day, an efficient GPU is critical. Some GPUs cost more in electricity than they generate in revenue. You can find efficient mining GPUs with the guides above. 
 
+It's important to find a good cooling solution if you're interested in cryptocurrency mining, as your GPU(s) will get very hot. Check out our guide on the [best case fans](/budget-pcs/case-fans/)!
+
 ## Factors that Affect the Efficiency of your GPU 
 
 You can't mine with any old graphics card.  
