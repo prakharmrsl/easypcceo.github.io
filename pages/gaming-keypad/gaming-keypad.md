@@ -11,9 +11,13 @@ seotitle: "7 Best Gaming Keypad Reviews of 2018 (Comparison)"
 </h3>
 <img class="img-right img-small" alt="Razer Tartarus V2 Gaming Keypad" src="/img/gaming-keypad/razer-tartarus-v2.png" />
 
-**Looking for the best gaming keypad on the market, without breaking the bank?**
+**Looking for the best gaming keypad on the market, that won't break the bank?**
 
 Good, you've come to the right place.
+
+A gaming keypad is a fantastic substitution for a gaming keyboard, especially if you play MMO games.
+
+So, here's the deal: 
 
 In this guide, I'll be highlighting the top 5 best gaming keypads money can buy in 2018. 
 
@@ -120,11 +124,34 @@ The center buttons are programmed to the WASD keys, but can be reprogrammed to y
 
 Unfortunately, the backlight is not customizable, but rather it remains a bright green color. However, you can adjust the brightness. 
 
-There is no tacticle distinction between the WASD keys, which I found to be a bit of a pain in the neck. There is an incredibly small indentation on the S key, but it's too small to make much of a difference. 
+There is no tacticle distinction between the WASD keys, which I found to be a bit of a pain in the neck. There is an incredibly small bump on the S key, but it's too small to make much of a difference. 
 
 The Orbweaver's thumb controls have been improved upon when compared to its predecessor, the Razer Nostromo. The joystick is positioned in a comfortable position for your thumb – in fact, I definitely enjoy using it. 
 
 The gaming keypad is comfortable and adjustable, to accomodate different gamers accordingly. Additionally, the buttons on the device are all programmable with Razer's Synapse 2.0 dashboard. You can remap keys and select different keymaps. This feature is especially useful when you're switching characters in an MMO, or switching games altogether. 
 
 My overall opinion of this gaming keypad is stupendous! 
+
+## [Logitech G13 Gaming Keypad](https://amzn.to/2LfcPmr){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2LfcPmr"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/logitech-g13.png" /></a>
+
+**4.** *What's this? A gaming keypad that is not made by Razer?!* Yes, now we're taking a look at a gaming keypad made by Logitech. In fact, the [Logitech G13 gaming keypad](https://amzn.to/2LfcPmr){: target="_blank"} is one of my favorites on this list. 
+
+The designers clearly had ergonomics in mind when they created this gaming keypad. Boasting 22 programmable buttons with interchangeable maps and profiles, onboard memory, comfort, and above all, control, the Logitech G13 is a strong contender. 
+
+If you're looking for all of the benefits of a traditional gaming keyboard without the bulk, the Logitech G13 is the gaming keypad for you. 
+
+The G13 has four sections: the wrist and palm rest, the keypad, the analog mini-joystick, and a display. It connects to your computer via a 7 foot long USB 2.0 cable. 
+
+Your fingers naturally rest in the proper position thanks to this keypad's ergonomic design. Each key is contoured, and the default WASD keys have bumps to help you locate them with touch rather than sight. Unlike the Razer Orbweaver, these bumps are easily noticeable. 
+
+Also unlike the Orbweaver, this keypad's backlighting color is entirely customizable. 
+
+The LCD screen can be used for macro recording, and monitoring your CPU and RAM usage. You can also use it as a stopwatch, or as an RSS reader. 
+
+The device is not plug and play. It comes with a software disc that you'll need to use to install drivers. 
+
+In conclusion, the Logitech G13 is an incredibly comfortable, well-performing gaming keypad. You can customize it to your liking. Overall, it is easily one of the best gaming keypads on the market, if not the best. 
+
+
 
