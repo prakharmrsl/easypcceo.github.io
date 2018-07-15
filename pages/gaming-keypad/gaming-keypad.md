@@ -39,7 +39,7 @@ In this guide, I'll be highlighting the top 5 best gaming keypads money can buy 
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2mfE31l"><img class="table-image" alt="Razer Tartarus V2 Gaming Keypad" src="/img/gaming-keypad/razer-tartarus-v2.png" /></a></td>
 		<td>Razer Tartarus V2 Chroma Gaming Keypad</td>
-		<td>4.5</td>
+		<td>4.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2mfE31l">Shop on Amazon</a></td>
 	</tr>
 	<tr>
@@ -153,5 +153,15 @@ The device is not plug and play. It comes with a software disc that you'll need 
 
 In conclusion, the Logitech G13 is an incredibly comfortable, well-performing gaming keypad. You can customize it to your liking. Overall, it is easily one of the best gaming keypads on the market, if not the best. 
 
+## [Best Budget Gaming Keypad: XFUNY](https://amzn.to/2Li3MkQ){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2Li3MkQ"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/xfuny.jpg" /></a>
 
+
+**5.** The [XFUNY gaming keypad](https://amzn.to/2Li3MkQ){: target="_blank"} is far cheaper than most of the other options on this list. Although it doesn't offer quite as many features as the keypads mentioned above, this keypad is a great way to dip your toe in the water before purchasing an incredibly expensive gaming keypad. 
+
+It has RGB backlighting, and the device works right out of the box. However, in order to customize the backlight settings and macros, you'll need to use the software installation disc that comes with the keypad. 
+
+There are 30 mechanical keys, each individually customizable. The mechanical keys click nicely, and feel crisp. The keypad's response time is great, especially for a $30 gaming keypad. From an aesthetic standpoint, the keypad is good looking. Furthermore, the keypad is well constructed – that is, it feels durable. 
+
+I found the XFUNY's performance compelling, especially for the low price of $30. 
 
