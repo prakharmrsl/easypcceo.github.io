@@ -9,6 +9,7 @@ seotitle: "7 Best Gaming Keypad Reviews of 2018 (Comparison)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+<img class="img-right img-small" alt="Razer Tartarus V2 Gaming Keypad" src="/img/gaming-keypad/razer-tartarus-v2.png" />
 
 **Looking for the best gaming keypad on the market, without breaking the bank?**
 
@@ -107,4 +108,23 @@ You can switch between three keymaps, which is convenient if you use different c
 
 ## [Razer Orbweaver Chroma - Elite RGB Gaming Keypad](https://amzn.to/2JlQOAS){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JlQOAS"><img class="img-right img-small" alt="Razer Orbweaver Chroma - Elite RGB " src="/img/gaming-keypad/razer-orbweaver.png" /></a>
+
+
+**3.** The [Razer Orbweaver Chroma - Elite RGB gaming keypad](https://amzn.to/2JlQOAS){: target="_blank"} provides the best thumb controls available, 20 programmable keys, and several adjustable parts for a comfortable gaming experience. 
+
+It has rubber padded feet, and three adjustable parts: the wrist rest, a thumb module with a joystick and two thumb buttons, and lastly, the keypad with 20 programmable buttons. 
+
+You'll enjoy easy access to all of the controls on this device, allowing you to game all throughout the day (or night) without straining your wrist, or your hand. 
+
+The center buttons are programmed to the WASD keys, but can be reprogrammed to your liking. The keys are mechanical, so they feel crisp and responsive – moreover, the keys are also backlit, allowing you to game during the night time. Oh, and it looks cool, too. 
+
+Unfortunately, the backlight is not customizable, but rather it remains a bright green color. However, you can adjust the brightness. 
+
+There is no tacticle distinction between the WASD keys, which I found to be a bit of a pain in the neck. There is an incredibly small indentation on the S key, but it's too small to make much of a difference. 
+
+The Orbweaver's thumb controls have been improved upon when compared to its predecessor, the Razer Nostromo. The joystick is positioned in a comfortable position for your thumb – in fact, I definitely enjoy using it. 
+
+The gaming keypad is comfortable and adjustable, to accomodate different gamers accordingly. Additionally, the buttons on the device are all programmable with Razer's Synapse 2.0 dashboard. You can remap keys and select different keymaps. This feature is especially useful when you're switching characters in an MMO, or switching games altogether. 
+
+My overall opinion of this gaming keypad is stupendous! 
 
