@@ -1,8 +1,8 @@
 ---
-title: "5 Cheap Gaming Keypad Options in 2018"
+title: "The Best Gaming Keypads of 2018"
 permalink: "/gaming-keypad/"
 layout: page
-seotitle: "5 Best Gaming Keypad Reviews of 2018 (Comparison)" 
+seotitle: "7 Best Gaming Keypad Reviews of 2018 (Comparison)" 
 ---
 <h3 class="page-subtitle">
 	Updated July 13th, 2018 by 
