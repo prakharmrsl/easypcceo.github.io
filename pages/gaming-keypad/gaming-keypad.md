@@ -164,4 +164,3 @@ It has RGB backlighting, and the device works right out of the box. However, in 
 There are 30 mechanical keys, each individually customizable. The mechanical keys click nicely, and feel crisp. The keypad's response time is great, especially for a $30 gaming keypad. From an aesthetic standpoint, the keypad is good looking. Furthermore, the keypad is well constructed – that is, it feels durable. 
 
 I found the XFUNY's performance compelling, especially for the low price of $30. 
-
