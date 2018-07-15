@@ -92,7 +92,19 @@ The Tartarus offers fantastic control. The wrist-support keeps your hand and wri
 
 Overall, the Razer Tartarus is a superb gaming keypad. 
 
+## [Razer Tartarus V2 Chroma Gaming Keypad](https://amzn.to/2mfE31l){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2mfE31l"><img class="img-right img-small" alt="Razer Tartarus V2 Gaming Keypad" src="/img/gaming-keypad/razer-tartarus-v2.png" /></a>
+		
+**2.** The [Razer Tartarus V2 Chroma gaming keypad](https://amzn.to/2mfE31l){: target="_blank"} has 25 programmable keys and a directional stick. It also features a full range of RGB lighting that is entirely customizable. 
 
+If you'r looking for a gaming keypad, the Tartarus V2 Chroma surely getes the job done. Although a gaming keypad is not incredibly useful for casual or FPS gamers, it is especially useful if you're an MMO fan. 
 
+You can adjust the V2's hand rest to one of two positions. The S key has a small notch to help you identify the key by touch, rather than having to look at it. This feature is especially useful, but not uncommon among traditional keyboards. 
 
+The keys rest atop Razer's mecha-membrane – although they aren't as crisp as mechanical keys, the mecha-membrane is still responsive. 
+
+You can switch between three keymaps, which is convenient if you use different characters in MMO games. This is, without question, an MMO device. 
+
+## [Razer Orbweaver Chroma - Elite RGB Gaming Keypad](https://amzn.to/2JlQOAS){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2JlQOAS"><img class="img-right img-small" alt="Razer Orbweaver Chroma - Elite RGB " src="/img/gaming-keypad/razer-orbweaver.png" /></a>
 
