@@ -300,6 +300,5 @@ Gaming keypads are a useful tool for PC gamers. They're ergonomic, small, and co
 
 Always keep your preferences in mind before making a purchase. If you buy any of the keypads listed above, your money will be well spent!
 
-
 * TOC
 {:toc}
