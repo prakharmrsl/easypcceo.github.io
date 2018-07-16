@@ -15,7 +15,7 @@ seotitle: "5 Best Gaming Keypad Reviews of 2018 (Comparison)"
 
 Good, you've come to the right place.
 
-A gaming keypad is a fantastic substitution for a gaming keyboard, especially if you play MMO games.
+A gaming keypad is a fantastic substitution for a gaming keyboard, especially if you play [MMO](https://en.wikipedia.org/wiki/Massively_multiplayer_online_game){: target="_blank"} games.
 
 So, here's the deal: 
 
@@ -55,22 +55,10 @@ In this guide, I'll be highlighting the top 5 best gaming keypads money can buy 
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2LfcPmr">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Li3MkQ"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/xfuny.jpg" /></a></td>
-		<td>XFUNY Gaming Keypad</td>
-		<td>3.5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Li3MkQ">Shop on Amazon</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="https://amzn.to/2unjaWv"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/delux-t9.jpg" /></a></td>
 		<td>DELUX T9 46-Key Gaming Keypad</td>
 		<td>4/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2unjaWv">Shop on Amazon</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2L9PpCl"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/aula.jpg" /></a></td>
-		<td>AULA One Handed Gaming Keyboard</td>
-		<td>4/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2L9PpCl">Shop on Amazon</a></td>
 	</tr>
 </table>
 
@@ -86,11 +74,11 @@ Recently, however, many companies have begun to create mini-keyboards, designed 
 
 The benefits of a gaming keypad cannot be overstated: 
 
-* **Ergonomic Design:** Most gaming keypads have been designed to provide a more comfortable alternative to a traditional gaming keyboard. Gaming keypads reduce fatigue after hours of gameplay. Moreover, they can be a safer way to play video games – that is, gaming keypads are more ergonomic, reducing the risk of hand injury that can occur from gaming for a prolonged period of time. 
+* **Ergonomic Design:** Most gaming keypads have been designed to provide a more comfortable alternative to a traditional gaming keyboard. Gaming keypads reduce fatigue after hours of gameplay. Moreover, they can be a safer way to play video games – that is, gaming keypads are more [ergonomic](https://www.merriam-webster.com/dictionary/ergonomics){: target="_blank"}, reducing the risk of hand injury that can occur from gaming for a prolonged period of time. 
 
 * **Smaller Form Factor:** If you want more desk space, or you're looking for a device that can comfortably rest on your lap, you'll probably find a gaming keypad incredibly beneficial. 
 
-* **Controls at Your Finger Tips:** All of the buttons on a gaming keypad are laid out in a manner that allows you to easily access each button without having to strain your hand your reach too far. 
+* **Controls at Your Finger Tips:** All of the buttons on a gaming keypad are laid out in a manner that allows you to easily access each one without having to strain your hand or reach too far. 
 
 ## [Razer Tartarus Chroma Expert RGB Gaming Keypad](https://amzn.to/2ul8WpM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ul8WpM"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/razer-tartarus.png" /></a>
@@ -159,13 +147,13 @@ The designers clearly had ergonomics in mind when they created this gaming keypa
 
 If you're looking for all of the benefits of a traditional gaming keyboard without the bulk, the Logitech G13 is the gaming keypad for you. 
 
-The G13 has four sections: the wrist and palm rest, the keypad, the analog mini-joystick, and a display. It connects to your computer via a 7 foot long USB 2.0 cable. 
+The G13 has four sections: the wrist and palm rest, the keypad, the analog mini-joystick, and a display. It connects to your computer via a 7 foot long [USB 2.0](https://www.diffen.com/difference/USB_2.0_vs_USB_3.0){: target="_blank"} cable. 
 
 Your fingers naturally rest in the proper position thanks to this keypad's ergonomic design. Each key is contoured, and the default WASD keys have bumps to help you locate them with touch rather than sight. Unlike the Razer Orbweaver, these bumps are easily noticeable. 
 
 Also unlike the Orbweaver, this keypad's backlighting color is entirely customizable. 
 
-The LCD screen can be used for macro recording, and monitoring your CPU and RAM usage. You can also use it as a stopwatch, or as an RSS reader. 
+The LCD screen can be used for macro recording, and monitoring your [CPU](https://www.webopedia.com/TERM/C/CPU.html){: target="_blank"} and RAM usage. You can also use it as a stopwatch, or as an RSS reader. 
 
 The device is not plug and play. It comes with a software disc that you'll need to use to install drivers. 
 
@@ -181,3 +169,137 @@ The keypad has a large wrist and palm wrest, which is incredibly comfortable, ev
 It is a backlit gaming keypad, and the backlight color can be configured without the use of a computer or software. Its WASD keys are red, and the rest of the keys on the keypad are black, with the exception of the red spacebar. 
 
 This gaming keypad is the perfect blend of comfort and affordability.
+
+## Gaming Keypad vs. Gaming Keyboard 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mPr9RpATPpY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Choosing the Right Gaming Keypad
+
+If you're in the market for a gaming keypad, you probably want to find the best gaming keypad for your money. It really all comes down to personal preference. Before you buy, keep the following in mind: 
+
+* **Key Type:** You'll have to decide whether you want a mechanical or membrane gaming keypad. Many prefer mechanical keys, but they are often more expensive and noisy. Mechanical keys need not be pressed all the way to register, which is why they are often the preferred key type. Membrane keys, on the other hand, are cheaper, which is their primary benefit. 
+
+* **Game Genre:** Whether or not you choose a gaming keypad is heavily dependent on the types of games you enjoy playing. If you're an FPS fan, a gaming keyboard is probably your best bet. Although, if you're an MMO gamer, you'll probably find a gaming keypad far more useful. You can program every key to your liking, and program multiple profiles and keymaps. 
+
+## Gaming Computers for Your Gaming Keypad
+
+<div id="overview">
+<table class="basic-table table-colorful" align="center">
+	<tr>
+		<th>Price</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Components</th>
+		<th>Build Guide</th>
+	</tr>
+	<tr>
+		<td><b>$400</b></td>
+		<td>Extreme Budget Gamer</td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/cougar mx200.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Intel Pentium G4560</li>
+			<li>MSI GTX 1050 2GB</li>
+			<li>Crucial 8GB DDR4-2133</li>
+			<li>WD RE3 500GB</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="https://www.easypc.io/budget-pcs/400/">View</a>
+			</a></td>
+	</tr>
+	<tr>
+		<td><b>$500</b></td>
+		<td>Perfect Balance</td>
+		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Ryzen 3 1200</li>
+			<li>Gigabyte GeForce GTX 1050 Ti 4GB</li>
+			<li>Ballistix Sport LT 8GB DDR4-2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="https://www.easypc.io/budget-pcs/500/">View</a>
+		</a></td>
+	</tr>
+	<tr>
+		<td><b>$600</b></td>
+		<td>Stealth Gamer</td>
+		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 3 1200</li>
+			<li>ASUS GTX 1060</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="https://www.easypc.io/budget-pcs/600/">View</a>
+		</a></td>
+	</tr>
+	<tr>
+		<td><b>$700</b></td>
+		<td>Phoenix</td>
+		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1400</li>
+			<li>ASUS GTX 1060 6GB</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="https://www.easypc.io/budget-pcs/700/">View</a>
+		</a></td>
+	</tr>
+	<tr>
+		<td><b>$800</b></td>
+		<td>Monster</td>
+		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1400</li>
+			<li>GeForce GTX 1070 8GB Mini</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
+		<a class="big-button" href="https://www.easypc.io/budget-pcs/800/">View</a>
+		</a></td>
+	</tr>
+	<tr>
+		<td><b>Prebuilt</b></td>
+		<td>Prebuilt PCs</td>
+		<td><a href="#viable-prebuilt-option"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Intel i7-7700K</li>
+			<li>GeForce GTX 1060 6GB</li>
+			<li>16GB DDR4 2400 MHz</li>
+			<li>1TB 7200RPM + 256GB SSD</li>
+			</ul>
+		</td>
+		<td>
+		<a class="big-button" href="/budget-pcs/prebuilt/">View Prebuilt PCs</a>
+		</td>
+	</tr>
+</table>
+</div>
+
+## Conclusion 
+
+Gaming keypads are a useful tool for PC gamers. They're ergonomic, small, and convenient. They're especially useful for MMO gamers, but they can also be utilized by FPS gamers, strategy gamers, and more. 
+
+Always keep your preferences in mind before making a purchase. If you buy any of the keypads listed above, your money will be well spent!
+
+
+* TOC
+{:toc}
