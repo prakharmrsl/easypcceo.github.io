@@ -181,4 +181,3 @@ The keypad has a large wrist and palm wrest, which is incredibly comfortable, ev
 It is a backlit gaming keypad, and the backlight color can be configured without the use of a computer or software. Its WASD keys are red, and the rest of the keys on the keypad are black, with the exception of the red spacebar. 
 
 This gaming keypad is the perfect blend of comfort and affordability.
-
