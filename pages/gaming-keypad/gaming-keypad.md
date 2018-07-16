@@ -2,7 +2,7 @@
 title: "The Best Gaming Keypads of 2018"
 permalink: "/gaming-keypad/"
 layout: page
-seotitle: "7 Best Gaming Keypad Reviews of 2018 (Comparison)" 
+seotitle: "5 Best Gaming Keypad Reviews of 2018 (Comparison)" 
 ---
 <h3 class="page-subtitle">
 	Updated July 13th, 2018 by 
@@ -73,6 +73,24 @@ In this guide, I'll be highlighting the top 5 best gaming keypads money can buy 
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2L9PpCl">Shop on Amazon</a></td>
 	</tr>
 </table>
+
+## What Is a Gaming Keypad
+
+A gaming keypad is basically a small keyboard designed specifically for gaming. It has less keys than a standard keyboard, and they are arranged in a more ergonomic fashion for gaming. 
+
+Unlike the mouse, which has been continually improved upon over the years, keyboards have remained relatively the same. 
+
+Recently, however, many companies have begun to create mini-keyboards, designed to improve the PC gamer's experience. These devices are known as gaming keypads. 
+
+## Why Should You Consider a Gaming Keypad? 
+
+The benefits of a gaming keypad cannot be overstated: 
+
+* **Ergonomic Design:** Most gaming keypads have been designed to provide a more comfortable alternative to a traditional gaming keyboard. Gaming keypads reduce fatigue after hours of gameplay. Moreover, they can be a safer way to play video games – that is, gaming keypads are more ergonomic, reducing the risk of hand injury that can occur from gaming for a prolonged period of time. 
+
+* **Smaller Form Factor:** If you want more desk space, or you're looking for a device that can comfortably rest on your lap, you'll probably find a gaming keypad incredibly beneficial. 
+
+* **Controls at Your Finger Tips:** All of the buttons on a gaming keypad are laid out in a manner that allows you to easily access each button without having to strain your hand your reach too far. 
 
 ## [Razer Tartarus Chroma Expert RGB Gaming Keypad](https://amzn.to/2ul8WpM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ul8WpM"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/razer-tartarus.png" /></a>
@@ -153,14 +171,14 @@ The device is not plug and play. It comes with a software disc that you'll need 
 
 In conclusion, the Logitech G13 is an incredibly comfortable, well-performing gaming keypad. You can customize it to your liking. Overall, it is easily one of the best gaming keypads on the market, if not the best. 
 
-## [Best Budget Gaming Keypad: XFUNY](https://amzn.to/2Li3MkQ){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2Li3MkQ"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/xfuny.jpg" /></a>
+## [Best Budget Gaming Keypad: DELUX T9](https://amzn.to/2unjaWv){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2unjaWv"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-keypad/delux-t9.jpg" /></a>
 
+The [DELUX T9 46-Key gaming keypad](https://amzn.to/2unjaWv){: target="_blank"} is a Kailh blue swtich keyboard. After using the keyboard, I found the keys to be clicky and responsive. 
 
-**5.** The [XFUNY gaming keypad](https://amzn.to/2Li3MkQ){: target="_blank"} is far cheaper than most of the other options on this list. Although it doesn't offer quite as many features as the keypads mentioned above, this keypad is a great way to dip your toe in the water before purchasing an incredibly expensive gaming keypad. 
+The keypad has a large wrist and palm wrest, which is incredibly comfortable, even after hours of gaming. On the left of the wrist and palm wrest, there is a triangular space button. It may sound strange, but it actually feels natural during gameplay. 
 
-It has RGB backlighting, and the device works right out of the box. However, in order to customize the backlight settings and macros, you'll need to use the software installation disc that comes with the keypad. 
+It is a backlit gaming keypad, and the backlight color can be configured without the use of a computer or software. Its WASD keys are red, and the rest of the keys on the keypad are black, with the exception of the red spacebar. 
 
-There are 30 mechanical keys, each individually customizable. The mechanical keys click nicely, and feel crisp. The keypad's response time is great, especially for a $30 gaming keypad. From an aesthetic standpoint, the keypad is good looking. Furthermore, the keypad is well constructed – that is, it feels durable. 
+This gaming keypad is the perfect blend of comfort and affordability.
 
-I found the XFUNY's performance compelling, especially for the low price of $30. 
