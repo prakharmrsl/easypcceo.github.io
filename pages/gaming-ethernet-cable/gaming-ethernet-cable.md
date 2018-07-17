@@ -40,7 +40,7 @@ In order to establish the best possible connection to your router, you'll want t
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2Jt4qdD">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2NT6sqV"><img class="table-image" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NT6sqV"><img class="table-image" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a></td>
 		<td>Importer520 Cat6 RJ45 50ft Cable</td>
 		<td>$8</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2NT6sqV">Shop on Amazon</a></td>
