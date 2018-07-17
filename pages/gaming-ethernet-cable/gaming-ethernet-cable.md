@@ -48,6 +48,14 @@ In order to establish the best possible connection to your router, you'll want t
 	</tr>
 </table>
 
+## How to Choose the Best Ethernet Cable for Gaming 
+
+If you're going to spend your hard earned money on an ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming ethernet cable: 
+
+* **Length:** The length of an ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or PC. I'd recommend finding an ethernet cable no longer than 300 feet. 
+
+* **Compatibility:** Ensure that your ethernet cable is compatible with your gaming system, whether it be an Xbox One, PS4, or PC. Many ethernet cables are manufactured by an OEM (Original Equipment Provider) brand. If so, it should work with your system without any issues. 
+
 ## Cat5e vs. Cat6 Ethernet Cables
 
 According to [Diffen.com](https://www.diffen.com/difference/Cat5e_vs_Cat6){: target="_blank"}: 
@@ -61,6 +69,10 @@ Essentially, Cat6 cables are newer, and are capable of transferring faster than 
 Both cables are interchangable, and work the same way. However, Cat6 cables are newer and faster. 
 
 If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the other cables in your network to Cat6. Otherwise, your old Cat5e cables will slow down the network. 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1VlywgqM9ig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## [Best Budget Gaming Ethernet Cable: Mediabridge RJ45 Cat5e 25ft Cable](https://amzn.to/2JvXEDJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="img-right img-small" alt="mediabridge rj45 gaming ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.jpeg" /></a>
