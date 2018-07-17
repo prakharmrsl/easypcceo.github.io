@@ -77,4 +77,21 @@ During my tests, I did not experience any network difficulty. I played several g
 
 For less than $10, this is a fantastic Cat5e gaming ethernet cable. 
 
-##
+## [RiteAV Cat6 50ft Cable](https://amzn.to/2Jt4qdD){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2Jt4qdD"><img class="img-right img-small" alt="RiteAV Cat6 50ft cable" src="/img/gaming-ethernet-cable/rite-av.jpg" /></a>
+
+The [RiteAV Cat6 50ft cable](https://amzn.to/2Jt4qdD){: target="_blank"} has 50 micron gold plated connectors for a fantastic data transmission. When I tested this cable, it passed each one with flying colors. Downloads were fast, my gaming connection was perfect (less than 15 ping), etc.
+
+Compared to my old Cat5e cables, I was surprised by the noticeable difference between the Cat5e and Cat6. Especially when you consider this cable's low cost, it only makes sense to upgrade. 
+
+If you're a gamer wanting to improve your connection, I'd highly recommend this ethernet cable. 
+
+## [Importer520 Cat6 RJ45 50ft Cable](https://amzn.to/2NT6sqV){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2NT6sqV"><img class="img-right img-small" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
+
+The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank"} has a standard PVC jacket, and male to male connectors iwth a snagless molded strain relief.
+
+The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
+
+As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea. 
+
