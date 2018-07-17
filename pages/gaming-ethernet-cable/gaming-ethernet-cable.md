@@ -47,3 +47,4 @@ In order to establish the best possible connection to your router, you'll want t
 	</tr>
 </table>
 
+
