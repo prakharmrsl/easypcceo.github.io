@@ -15,7 +15,7 @@ Experiencing connection issues during gameplay is incredibly frustrating. One mi
 
 The worst part is, if you're lagging, you can't really do anything about it – *or can you?*
 
-If you have slow WiFi, you'll have to upgrade your router or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
+If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
 In order to establish the best possible connection to your router, you'll want to use a high speed gaming ethernet cable.  
 
@@ -52,9 +52,9 @@ In order to establish the best possible connection to your router, you'll want t
 
 If you're going to spend your hard earned money on an ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming ethernet cable: 
 
-* **Length:** The length of an ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or PC. I'd recommend finding an ethernet cable no longer than 300 feet. 
+* **Length:** The length of an ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or [PC](/budget-pcs/). I'd recommend finding an ethernet cable no longer than 300 feet. 
 
-* **Compatibility:** Ensure that your ethernet cable is compatible with your gaming system, whether it be an Xbox One, PS4, or PC. Many ethernet cables are manufactured by an OEM (Original Equipment Provider) brand. If so, it should work with your system without any issues. 
+* **Compatibility:** Ensure that your ethernet cable is compatible with your gaming system, whether it be an Xbox One, PS4, or PC. Many ethernet cables are manufactured by an [OEM](https://en.wikipedia.org/wiki/Original_equipment_manufacturer){: target="_blank"} (Original Equipment Provider) brand. If so, it should work with your system without any issues. 
 
 ## Cat5e vs. Cat6 Ethernet Cables
 
