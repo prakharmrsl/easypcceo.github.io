@@ -107,3 +107,11 @@ The cable is 50 feet long, which means you can run the wire from your router to 
 
 As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea. 
 
+## Conclusion 
+
+If you want to improve your internet connection, a Cat5e or Cat6 cable is a great way to do so. A direct connection will always be faster than a wireless connection. If you decide to buy a Cat cable, make sure it is long enough to reach your gaming setup (but not too long, or it will hurt your connection.)
+
+Lastly, if you decide to upgrade to a Cat6 cable, you'll have to upgrade *all* of your ethernet cables, not just one. If you don't upgrade the rest, your Cat6 cable will still work because it is backwards compatible. Although, you'd be wasting your money on the Cat6 cable, because it would be slowed down by the Cat5e cables. A chain is only as strong as its weakest link. 
+
+* TOC
+{:toc}
