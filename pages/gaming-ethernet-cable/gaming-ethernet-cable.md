@@ -28,7 +28,7 @@ In order to establish the best possible connection to your router, you'll want t
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="table-image" alt="mediabridge rj45 gaming ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="table-image" alt="mediabridge rj45 gaming ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.jpeg" /></a></td>
 		<td>Mediabridge RJ45 Cat5e 25ft Cable</td>
 		<td>$7</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2JvXEDJ">Shop on Amazon</a></td>
