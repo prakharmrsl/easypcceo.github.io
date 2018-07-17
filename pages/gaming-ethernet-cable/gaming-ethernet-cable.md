@@ -77,7 +77,7 @@ If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the othe
 ## [Best Budget Gaming Ethernet Cable: Mediabridge RJ45 Cat5e 25ft Cable](https://amzn.to/2JvXEDJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="img-right img-small" alt="mediabridge rj45 gaming ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.jpeg" /></a>
 
-The ## [Mediabridge RJ45 Cat5e ](https://amzn.to/2JvXEDJ){: target="_blank"} is a great budget gaming ethernet cable. 
+The [Mediabridge RJ45 Cat5e ](https://amzn.to/2JvXEDJ){: target="_blank"} is a great budget gaming ethernet cable. 
 
 Measuring in at 25ft, the cable is long enough to reach your gaming setup, even if it's in another room. If you'd prefer a cable that is a different size, you can order a longer or shorter version of this ethernet cable. 
 
