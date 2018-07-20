@@ -87,7 +87,7 @@ The price of this tablet is obviously its biggest downside. Keep in mind, howeve
 Sure, you can game with it – you can also use it as a hybrid laptop with the attachable keyboard. If you have the money to spend, it is well worth the investment. 
 
 ## [Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2Nxo2PV){: target="_blank"}
-<td><a target="_blank" href="https://amzn.to/2Nxo2PV"><img class="img-right img-small" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a>
+<a target="_blank" href="https://amzn.to/2Nxo2PV"><img class="img-right img-small" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a>
 
 I decided to include one Apple product on this list in case you prefer IOS devices. 
 
