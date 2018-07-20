@@ -116,9 +116,10 @@ The tablet also has a 5-megapixel camera – although the K1's camera doesn't ri
 
 You can connect the tablet to a TV via the tablet's mini HDMI port. The tablet can be magnetically attached to a folding cover stand. On the right side, you'll find the power button, volume controls, and a microSD slot (with a maximum capacity of 200GB).
 
+The tablet is running the Android 5.0 Lollipop operating system. The tablet has 16GB of storage out of the box, but you can add a microSD card, as mentioned previously. 
 
-The K1 when out of the box runs a stock build of Android 5.0 Lollipop. Of the 16GB of internal storage, 11.24GB is available out of the box. Buying the device also gives you an option to join GeForce Now(billed monthly)Nvidia’s cloud service that streams popular PC games to the tablet. The app allows you to stream games at 1080p at up to 60 frames per second and can certainly give you a much better experience than what stock Android has to offer.
+You can opt to subscribe to GeForce Now, NVIDIA's cloud game streaming service. For a monthly fee, you'll be able to play popular PC games on your tablet in 1080p. 
 
-Performance of the device is outstanding as the device is powered by an ARM Cortex A15 CPU that clocks in at 2.2GHz, along with Nvidia’s own Tegra K1 192-core Kepler GPU and 2GB of RAM   The K1 offers a lot more than what most tablets had to offer back when it was released. The device can also be connected to a TV and used along with a Shield controller to give you a much better gaming experience. The device’s camera offers pretty decent picture clarity and can be used to point and shoot when on the go. The K1 is packed with a 5,200 mAh battery and promises up to 6 hours of back up (this can vary depending on usage)
+The device is powered by an ARM Cortex A15 CPU, clocking in at 2.2 GHz. It is also sporting NVIDIA's Tegra k1 192-core Kepler GPU and 2GB of dedicated RAM. 
 
-If you are looking for something that delivers quality and performance and doesn’t mind how old it is then the K1 might be a good device for you. Back when the device was launched it was one of the best of its kind and had a lot to offer. Overall if you don’t mind the Android interface and you just want a dedicated device to satisfy your gaming needs on the go then the K1 should be considered.
+The K1 provides a wonderful balance of price and perforance. I'd highly recommend the NVIDIA Shield K1 to anyone who wants a dedicated gaming tablet that won't break the bank. 
