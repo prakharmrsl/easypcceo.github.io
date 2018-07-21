@@ -32,13 +32,13 @@
 
 - name: Gaming Peripherals
   subcategories:
-    - subtitle: "Gaming Desks"
-      subhref: "/best-gaming-desks/"
-    - subtitle: "Gaming Chairs"
-      subhref: /best-gaming-chairs/"
-    - subtitle: "Gaming Monitors"
-      subhref: "/best-1440p-gaming-monitors/"
+    - subtitle: "Gaming Mice"
+      subhref: "/left-handed-gaming-mouse/"
+    - subtitle: "Gaming Keypad"
+      subhref: /gaming-keypad/"
+    - subtitle: "Gaming Case Fans"
+      subhref: "/case-fans/"
     - subtitle: "Gaming Speakers"
       subhref: "/best-gaming-speakers/"
-    - subtitle: "Capture Cards"
-      subhref: "/best-capture-cards/"
+    - subtitle: "Smallest ATX Cases"
+      subhref: "/smallest-atx-cases/"
