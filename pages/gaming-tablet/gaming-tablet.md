@@ -2,7 +2,7 @@
 title: "Best Gaming Tablets Money Can Buy in 2018"
 permalink: "/gaming-tablet/"
 layout: page
-seotitle: "5 Best Gaming Tablets in 2018 (Android & IOS)" 
+seotitle: "5 Best Gaming Tablets in 2018 (Android & iOS)" 
 ---
 <h3 class="page-subtitle">
 	Updated July 13th, 2018 by 
@@ -67,7 +67,7 @@ So, what are you waiting for? Keep reading to discover which gaming tablet is be
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2O7h05B">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2uQFo2E"><img class="table-image" alt="Microsoft Surface Pro 4" src="/img/gaming-tablet/microsoft-surface-pro4.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2uQFo2E"><img class="table-image" alt="Microsoft Surface Pro 4" src="/img/gaming-tablet/microsoft-surface-pro4.jpg" /></a></td>
 		<td>Microsoft Surface Pro 4</td>
 		<td class="components">
 			<ul>
@@ -79,7 +79,7 @@ So, what are you waiting for? Keep reading to discover which gaming tablet is be
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2uQFo2E">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2LBwUDP"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2LBwUDP"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.jpg" /></a></td>
 		<td>Samsung Galaxy Tab S3</td>
 		<td class="components">
 			<ul>
@@ -97,19 +97,19 @@ So, what are you waiting for? Keep reading to discover which gaming tablet is be
 
 The [Google Pixel C](https://amzn.to/2uCTRjD){: target="_blank"} is a 10.2-inch Android tablet, equipped with a 2560 x 1800 display. 
 
-The device's build quality is premium, and bridges the gap between Google's Chromebooks and Nexus's slates. 
+The device bridges the gap between Google's Chromebooks and Nexus's slates. 
 
 You can purchase a keyboard dock for the tablet, which transforms the Pixel C into a hybrid laptop. 
 
 The device's design is minimalistic, yet elegant. The tablet weighs in at 500g, which is as light as a feather. Unlike other tablets, the Pixel C does not have a physical home button.
 
-The device has a Type C USB port, a power/sleep button, and volume rockers on its bezel. 
+The device has a [Type C USB](https://en.wikipedia.org/wiki/USB-C){: target="_blank"} port, a power/sleep button, and volume rockers on its bezel. 
 
 The Type C port on the tablet can be used to charge other mobile devices. The tablet has impeccable sound quality, thanks to its dual stereo speakers on either side of it. If you want to plug in some headphones, the tablet also has a 3.5mm headphone jack. 
 
 If you like taking pictures, you'll enjoy the Google Pixel C's 8MP camera. I was pleased with the tablet's camera quality, but I wasn't blown away. 
 
-The Pixel C has a Tegra X1 64-bit quad-core processor, 3GB of dedicated RAM and a Maxwell GPU. Games load quickly and gameplay is smooth. Overall, it's a great gaming experience. 
+The Pixel C has a Tegra X1 64-bit quad-core processor, 3GB of dedicated RAM and a Maxwell [GPU](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/){: target="_blank"}. Games load quickly and gameplay is smooth. Overall, it's a great gaming experience. 
 
 The battery lasts for around 10 hours according to Google, but that is heavily dependent on how much you use the tablet, and what you're doing with it. 
 
@@ -131,9 +131,9 @@ Sure, you can game with it – you can also use it as a hybrid laptop with the a
 ## [Best Overall Tablet: Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2LumcC4){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2LumcC4"><img class="img-right img-small" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a>
 
-I decided to include one Apple product on this list in case you prefer IOS devices. 
+I decided to include one Apple product on this list in case you prefer iOS devices. 
 
-If you're going to go the IOS route, the [Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2LumcC4){: target="_blank"} is a fantastic choice. Combining the power of the 12.9-inch iPad Pro with the thin frame of the iPad Air, it's especially suited for light gaming.
+If you're going to go the [iOS](https://9to5mac.com/2017/04/04/what-does-ios-stand-for/){: target="_blank"} route, the [Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2LumcC4){: target="_blank"} is a fantastic choice. Combining the power of the 12.9-inch iPad Pro with the thin frame of the iPad Air, it's especially suited for light gaming.
 
 When this tablet was created, gaming was not on the top of their list of priorities. However, the iPad Pro is more than capable of gaming in high resolution. Moreover, it's a great tablet for doing, well, just about anything you'd do with a tablet. 
 
@@ -143,7 +143,7 @@ In addition, the iPad Pro is equipped with a 2.16 GHz processor and 2GB of RAM �
 
 This tablet also has a fantastic camera. If you're interested in taking high quality pictures, this tablet is fit for the task. 
 
-The iPad Pro is an all around great product – boasting a long lasting battery, beautiful display, great camera, and awesome gaming performance. You can even connect a keyboard to the tablet, transforming it into a makeshift laptop. 
+The iPad Pro is an all around great product, boasting a long lasting battery, beautiful display, great camera, and awesome gaming performance. You can even connect a keyboard to the tablet, transforming it into a makeshift laptop. 
 
 **Pros:** 
 
@@ -168,7 +168,7 @@ The tablet also has a 5-megapixel camera – although the K1's camera doesn't ri
 
 You can connect the tablet to a TV via the tablet's mini HDMI port. The tablet can be magnetically attached to a folding cover stand. On the right side, you'll find the power button, volume controls, and a microSD slot (with a maximum capacity of 200GB).
 
-The tablet is running the Android 5.0 Lollipop operating system. The tablet has 16GB of storage out of the box, but you can add a microSD card, as mentioned previously. 
+The tablet is running the [Android 5.0 Lollipop](https://www.android.com/versions/lollipop-5-0/){: target="_blank"} operating system. The tablet has 16GB of storage out of the box, but you can add a microSD card, as mentioned previously. 
 
 You can opt to subscribe to GeForce Now, NVIDIA's cloud game streaming service. For a monthly fee, you'll be able to play popular PC games on your tablet in 1080p. 
 
@@ -193,7 +193,7 @@ The K1 provides a wonderful balance of price and perforance. I'd highly recommen
 
 If you're a fan of the Windows operating system, you're looking for a lightweight and portable gaming tablet, the Microsoft Surface Pro 4 is going to be your best bet. 
 
-It is a compact tablet (292 x 201 x 8.4 mm), especially when compared to the other tablets on this list. It has a 12.3-inch LCD IPS screen, with a resolution of 2880 x 1800 pixels. 
+It is a compact tablet (292 x 201 x 8.4 mm), especially when compared to the other tablets on this list. It has a 12.3-inch LCD [IPS](https://en.wikipedia.org/wiki/IPS_panel){: target="_blank"} screen, with a resolution of 2880 x 1800 pixels. 
 
 You can purchase the tablet in several form factors, with storage space ranging from 128GB to 1TB. You also can choose between a Core M3, i5-6300U or i7-6650U. Lastly, you can choose between 8GB and 16GB of dedicated RAM. 
 
