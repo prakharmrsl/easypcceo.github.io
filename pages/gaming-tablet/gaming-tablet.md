@@ -235,4 +235,3 @@ Ensure your tablet is equipped with a good looking display, a long lasting batte
 
 * TOC
 {:toc}
-
