@@ -5,10 +5,12 @@ layout: page
 seotitle: "5 Best Gaming Tablets in 2018 (Android & iOS)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 13th, 2018 by 
+	Updated July 21st, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+
+<img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.png" />
 
 If you're anything like me, you *love* playing video games. Unfortunately, it's a bit hard to drag your gaming PC around with you everywhere you go. 
 
