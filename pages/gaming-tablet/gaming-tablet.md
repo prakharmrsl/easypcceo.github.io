@@ -22,40 +22,71 @@ So, what are you waiting for? Keep reading to discover which gaming tablet is be
 
 ## Best Gaming Tablets
 
-<table>
+<table class="basic-table">
 	<tr>
 		<th>IMG</th>
 		<th>Tablet</th>
+		<th>Benefits</th>
 		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2uCTRjD"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/google-pixel-c.png" /></a></td>
 		<td>Google Pixel C</td>
+		<td class="components">
+			<ul>
+				<li>High resolution display</li>
+				<li>Good battery</li>
+			</ul>
+		</td>
 		<td>$1,500</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2uCTRjD">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2LumcC4"><img class="table-image" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a></td>
 		<td>Apple iPad Pro</td>
+		<td class="components">
+			<ul>
+				<li>Retina display</li>
+				<li>Powerful CPU</li>
+			</ul>
+		</td>
 		<td>$600</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2LumcC4">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2O7h05B"><img class="table-image" alt="Apple iPad Pro" src="/img/gaming-tablet/nvidia-k1-tablet.png" /></a></td>
 		<td>NVIDIA Shield K1</td>
+		<td class="components">
+			<ul>
+				<li>Powerful GPU</li>
+				<li>Durable construction</li>
+			</ul>
+		</td>
 		<td>$400</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2O7h05B">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2uQFo2E"><img class="table-image" alt="Microsoft Surface Pro 4" src="/img/gaming-tablet/microsoft-surface-pro4.png" /></a></td>
 		<td>Microsoft Surface Pro 4</td>
+		<td class="components">
+			<ul>
+				<li>Responsive display</li>
+				<li>USB 3.0 Port</li>
+			</ul>
+		</td>
 		<td>$1,125</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2uQFo2E">Best Deal on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2LBwUDP"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.png" /></a></td>
 		<td>Samsung Galaxy Tab S3</td>
+		<td class="components">
+			<ul>
+				<li>Good all around tablet</li>
+				<li>Ergonomic</li>
+			</ul>
+		</td>
 		<td>$445</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2LBwUDP">Best Deal on Amazon</a></td>
 	</tr>
