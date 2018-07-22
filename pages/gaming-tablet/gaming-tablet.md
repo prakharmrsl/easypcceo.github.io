@@ -259,6 +259,12 @@ Before you buy your next gaming tablet – or any tablet for that matter – be 
 
 **Battery Life:** Nobody likes it when their tablet dies. Make sure you buy a tablet with adequate battery life. In addition, make sure you take care of your device's battery. Wait until your battery is nearly dead before charging, and don't leave your device charging past 100% overnight. Both of these things will shorten your battery's lifespan.  
 
+## Can You Game on a Tablet? 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLNsatpA_Oo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Conclusion 
 
 There aren't a whole lot of dedicated gaming tablets on the market, but that doesn't mean you can't find a powerful and mobile gaming device. 
