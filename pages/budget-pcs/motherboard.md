@@ -86,7 +86,31 @@ Keep reading to learn more about the best budget gaming motherboards!
 
 ## What Does a Motherboard Do? 
 
-## [MSI Pro Z270 SLI PLUS ATX Intel Motherboard](https://amzn.to/2uU6eXQ){: target="_blank"}
+All of your PC's components are connected to your motherboard. To put it simply, your motherboard allows your PC components to communicate with one another. 
+
+Without a motherboard, your PC parts wouldn't be able to do much of anything. 
+
+The processor, RAM, graphics card, hard drives, optical drives, case fans, M.2 storage and SSDs, CPU coolers, etc. all connect to your motherboard.
+
+![Motherboard Diagram](/img/mobo/mobo-diagram.jpg)
+ 
+Different motherboards have different CPU socket types, and different chipsets. The socket type of your motherboard will be either AMD or Intel. Moreover, different Intel CPUs are compatible with certain socket types – the same goes for AMD.
+
+For example, AMD Ryzen CPUs are only compatible with AM4 socket types, and Intel's newest line of 8th generation CPUs are only compatible with LGA 1151 sockets. 
+
+Motherboard chipsets are also important. If you want to overclock your CPU, you'll have to make sure your motherboard has the right chipset. 
+
+Intel Z370 chipsets are the best for overclocking, as they allow you to fully unlock your CPU's overclocking potential. Other chipsets, such as an Intel H370, for example, are more restrictive when it comes to overclocking. 
+
+There are so many things you have to consider when buying your motherboard, including size, number of fan connectors and its power rating, the socket type, chipset, how many PCI slots it has, RAM slots, maximum RAM frequency, maximum RAM capacity, etc. 
+
+As you can probably tell, it can quickly become overwhelming, especially for those who are new to the PC gaming community.
+
+That's why I've created this list of the 5 best gaming motherboards. If you choose one of the motherboards on this list, you really can't go wrong.
+
+So, keep reading to find the right motherboard for you! 
+
+## [Best Motherboard for Overclocking: MSI Pro Z270 SLI PLUS ATX Intel Motherboard](https://amzn.to/2uU6eXQ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2uU6eXQ"><img alt="MSI Pro Z270 SLI PLUS" class="img-right img-small" src="/img/mobo/msi-pro-z270-plus.png" /></a>
 
 This ATX motherboard has an LGA 1151 socket type, which is compatible with Intel's newest line of processors. It's also sporting an Intel Z270 chipset, which means you can fully unlock your CPU's overclocking potential. 
@@ -151,9 +175,11 @@ The motherboard is reliable, great for overclocking, and modestly priced. I'd hi
 
 ## Best Motherboard Brand
 
-## Best Motherboard for Overclocking
-
 ## Why do You Need a Good Motherboard for Gaming? 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cx8rS9_vNDo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## What to Look for in a Gaming Motherboard 
 
