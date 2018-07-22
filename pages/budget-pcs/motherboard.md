@@ -40,7 +40,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 	</tr>
 	<tr>
 		<td>ASUS ROG Strix H370-F Gaming Motherboard</td>
-		<td><a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="table-image" src="/img/mobo/asus-rog-strix-h370-f.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="table-image" src="/img/mobo/asus-rog-strix-h370-f.jpeg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Straightforward config</li>
