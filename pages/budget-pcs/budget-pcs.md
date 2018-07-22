@@ -241,11 +241,13 @@ You are still spending a relatively small amount on the PC, but it is still enou
 		<td>NZXT S340 (White)</td>
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
 	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/500/">Check out the Guide</a></td>
-</tr>
-	
 </table>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1">Buy This PC</a>
+	<br>
+	<a class="cta-button learn-button" href="/budget-pcs/500/">Read our Guide</a>
+</div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
 
