@@ -39,15 +39,15 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a class="big-button" href="https://amzn.to/2uDUB80">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
-		<td>GIGABYTE H370M D3H Micro-ATX Intel Motherboard</td>
-		<td><a target="_blank" href="https://amzn.to/2O8CPC3"><img alt="GIGABYTE H370M D3H" class="table-image" src="/img/mobo/gigabyte-h370m-d3h.png" /></a></td>
+		<td>ASUS ROG Strix H370-F Gaming Motherboard</td>
+		<td><a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="table-image" src="/img/mobo/asus-rog-strix-h370-f.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Straightforward Config</li>
 			<li>Reliable</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="https://amzn.to/2O8CPC3">Best Price on Amazon</a></td>
+		<td><a class="big-button" href="https://amzn.to/2JJydyG">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>MSI Pro Z270 SLI PLUS ATX Intel Motherboard</td>
@@ -84,10 +84,59 @@ Keep reading to learn more about the best budget gaming motherboards!
 	</tr>
 </table>
 
+## What Does a Motherboard Do? 
 
+## [ASUS ROG Strix H370-F Gaming Motherboard](https://amzn.to/2JJydy){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="img-right img-small" src="/img/mobo/asus-rog-strix-h370-f.jpg" /></a>
 
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uDUB80">Shop Best Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#what-does-a-motherboard-do">Read More</a>
-</div>
+H370 chipsets are generally cheaper than Z370 chipsets. However, they don't offer the same overclocking potential.
+
+They are full-featured motherboards with less of an emphasis on overclocking capabilities. If you want to overclock your CPU with an H370 motherboard, you won't be able to surpass Intel's default Turbo boot for the chip. 
+
+The maximum turbo frequency of RAM is 2,666 MHz, and you can't run two graphics cards in SLI format. 
+
+On the other hand, they're perfect for the average Joe looking to build a simple gaming PC. They surely get the job done, and better still, they're simple, straightforward, and easy to understand. 
+
+Despite their lack of overclocking potential, they still offer good performance at a fair price. 
+
+H370 chipsets support Intel's newest line of 8th generation Coffee Lake CPUs. You can also use M.2 drives and USB 3.1 Gen2. 
+
+The [ASUS ROG Strix H370-F gaming motherboard](https://amzn.to/2JJydy){: target="_blank"} has two M.2 PCIe slot, USB 3.1, RGB lighting, and high quality audio. For the price, it's packed with nice features. 
+
+The motherboard has six SATA ports that are lined up individually, which is a bit odd (most motherboards have them stacked atop one another.) 
+
+Unless you're serious about overclocking, this motherboard is probably a great fit for your next build. If you do choose an unlocked Intel CPU, however, go for a Z370 chipset instead. 
+
+## [Best Budget Gaming Motherboard: Gigabyte Aorus GA-AX370 Gaming 5 ATX AMD Motherboard](https://amzn.to/2O5kDsS){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2O5kDsS"><img alt="gigabyte-aorus-ga-ax370" class="img-right img-small" src="/img/mobo/gigabyte-aorus-ga-ax370.jpg" /></a>
+
+The [Gigabyte Aorus GA-AX370 Gaming 5](https://amzn.to/2O5kDsS){: target="_blank"} comes in at $170 on Amazon. It is a bit more expensive than other AM4 motherboards, but for good reason.
+
+It has a Z370 chipset, which is the best for overclocking. It is the only chipset that allows you to fully unlock your CPU's overclocking potential, and it is compatible with AMD's newest Ryzen CPUs. 
+
+By the way, Ryzen CPUs are well known for their unrivaled overclocking performance. They're okay at stock frequencies, but they're champions when overclocked. 
+
+With that being said, you'll probably want a motherboard with a Z370 chipset, which is designed specifically for overclocking.
+
+The motherboard has two LED headers, modest overclocking potential and a VRM heatsink assembly. It has three M.2 slots (in case you're not familiar, M.2 is an even faster f orm of storage than SSDs.)
+
+The board has 10-phase CPU power delivery, and memory support up to 4133MHz. Keep in mind, however, that [RAM](/budget-pcs/ram/) at this speed is both expensive and unnecessary for gaming. 
+
+Processor speeds almost surpass 5GHz, which is both impressive and important if you're interested in overclocking (which you should be).
+
+The motherboard is reliable, great for overclocking, and modestly priced. I'd highly recommend this board if you're going to include an AMD Ryzen 5 or Ryzen 7 CPU in your next gaming PC build. 
+
+## Motherboard Chipsets
+
+## Best Motherboard Brand
+
+## Best Motherboard for Overclocking
+
+## Why do You Need a Good Motherboard for Gaming? 
+
+## What to Look for in a Gaming Motherboard 
+
+## Conclusion 
+
+* TOC 
+{:toc}

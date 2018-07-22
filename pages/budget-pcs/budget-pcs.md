@@ -26,9 +26,6 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 	<img src="/img/case/bitfenix-comrade.png" alt="" class="title-image">
 </div>
 
-<font color="red">NOTE: GPU & RAM prices are soaring sky high, and some of the builds below may be overpriced because of this. Prebuilt gaming PCs are still cheap and they're a great way to save money if you're looking to get into the PC gaming community. Check out our guide on <a href="/budget-pcs/prebuilt/">prebuilt gaming PCs</a>! Otherwise, you're going to overspend on parts that you could get for a lower price.</font>
-
-
 ## The Best Budget Gaming PC Builds
 <div id="overview">
 <table class="basic-table table-colorful" align="center">

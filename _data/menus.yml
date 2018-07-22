@@ -33,12 +33,12 @@
 - name: Gaming Peripherals
   subcategories:
     - subtitle: "Gaming Mice"
-      subhref: "/left-handed-gaming-mouse/"
+      subhref: "/budget-pcs/left-handed-gaming-mouse/"
     - subtitle: "Gaming Keypad"
       subhref: /gaming-keypad/"
     - subtitle: "Gaming Case Fans"
-      subhref: "/case-fans/"
+      subhref: "/budget-pcs/case-fans/"
     - subtitle: "Gaming Speakers"
       subhref: "/best-gaming-speakers/"
     - subtitle: "Smallest ATX Cases"
-      subhref: "/smallest-atx-cases/"
+      subhref: "/budget-pcs/smallest-atx-cases/"
