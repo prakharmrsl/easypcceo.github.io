@@ -89,7 +89,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 Test
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uDUB80">See Best Price on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uDUB80">Shop Best Price</a>
 	<br>
 	<a class="cta-button learn-button" href="#what-does-a-motherboard-do">Read More</a>
 </div>
