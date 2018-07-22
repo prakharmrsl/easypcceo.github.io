@@ -295,11 +295,13 @@ It is sleek, refined, and low cost. For $600, you are getting a low profile PC t
 		<td>DIYPC - Cuboid-R</td>
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
 	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/600/">Check out the Guide</a></td>
-</tr>
-	
 </table>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1">Buy This PC</a>
+	<br>
+	<a class="cta-button learn-button" href="/budget-pcs/600/">Read our Guide</a>
+</div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
 
@@ -344,11 +346,13 @@ This gaming PC truly is majestic. While many brag about their several-thousand d
 		<td>Bitfenix - Comrade</td>
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
 	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/700/">Check out the Guide</a></td>
-</tr>
-	
 </table>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1">Buy This PC</a>
+	<br>
+	<a class="cta-button learn-button" href="/budget-pcs/700/">Read our Guide</a>
+</div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
 
@@ -397,12 +401,14 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 		<td><b>CASE</b></td>
 		<td>NZXT S340 (Black)</td>
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywq5QS">Buy</a></td>
-	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/800/">Check out the Guide</a></td>
-</tr>
-	
+	</tr>	
 </table>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1">Buy This PC</a>
+	<br>
+	<a class="cta-button learn-button" href="/budget-pcs/800/">Read our Guide</a>
+</div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
 
