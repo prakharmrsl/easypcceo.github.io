@@ -87,7 +87,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 ## What Does a Motherboard Do? 
 
 ## [ASUS ROG Strix H370-F Gaming Motherboard](https://amzn.to/2JJydy){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="img-right img-small" src="/img/mobo/asus-rog-strix-h370-f.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="img-right img-small" src="/img/mobo/asus-rog-strix-h370-f.jpeg" /></a>
 
 H370 chipsets are generally cheaper than Z370 chipsets. However, they don't offer the same overclocking potential.
 
