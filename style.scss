@@ -1338,3 +1338,33 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.button-wrapper {
+  margin-bottom: 45px;
+  float: left;
+  width: 100%;
+  display: inline-block;
+  clear: both;
+}
+
+.buy-button {
+  font-weight: bold;
+  border-bottom: #2bb4ff;
+}
+
+.learn-button {
+  margin-left: 1%;
+  margin-top: -30px;
+  background: #fcbb44;
+}
+
+.cta-button {
+  color: white !important;
+  padding: 10px 0 7px 0% !important;
+  display: inline-block;
+  float: left;
+  border-bottom: 0px !important;
+  width: 50%;
+  text-align: center;
+  border-radius: 5px;
+}
