@@ -133,7 +133,7 @@ It has four DDR4 DIMM slots up to 4000MHz, Dual PCIe Gen3 x4 M.2 slots, and RGB 
 
 You'll enjoy high-end audio capacitors and an audio noise guard that seperates the motherboard's sensitive analog audio components from noise pollution at the PCB level. 
 
-Overall, you're getting a high-end motherboard with incredible overclocking potential and loads of features  for a low price. It's a steal!
+Overall, you're getting a high-end motherboard with incredible overclocking potential and loads of features  for a low price. This motherboard is great for anyone who wants to build a sweet Intel gaming PC on a budget of around [$700](/budget-pcs/700/). It's a steal!
 
 ## [Best Motherboard for Overclocking: MSI Pro Z270 SLI PLUS ATX Intel Motherboard](https://amzn.to/2uU6eXQ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2uU6eXQ"><img alt="MSI Pro Z270 SLI PLUS" class="img-right img-small" src="/img/mobo/msi-pro-z270-plus.png" /></a>
@@ -212,7 +212,17 @@ That's why I always recommend overclocking if you're going to buy a Ryzen CPU. E
 
 ## Motherboard Chipsets
 
+The importance of a motherboard's [chipset](https://en.wikipedia.org/wiki/Chipset){: target="_blank"} cannot be overstated. Your motherboard's chipset has a direct impact on overclocking potential, among other things.
+
+Although the difference between chipsets is nominal these days, choosing the right one for overclocking is crucial. 
+
+If you're going to be overclocking an Intel CPU, for example, you're going to want an Intel Z270 or Z370 chipset, rather than an H270 or H370 chipset. 
+
+You can read more about Intel chipsets [here](https://www.pcworld.com/article/3268063/components-processors/intel-motherboard-z370-vs-h370-vs-b360-vs-h310-8th-gen-cpu.html){: target="_blank"}. 
+
 ## Best Motherboard Brand
+
+There is no "best motherboard brand." There are many brands, and each has their supporters. If I were you, I'd read a bit about each one to decide which is best for you. 
 
 ## Why do You Need a Good Motherboard for Gaming? 
 
@@ -222,7 +232,37 @@ That's why I always recommend overclocking if you're going to buy a Ryzen CPU. E
 
 ## What to Look for in a Gaming Motherboard 
 
+Before you spend your hard earned money, ensure you consider the following: 
+
+**Size:**
+
+**Chipset:** As mentioned previously, this is going to have a direct impact on overclocking performance. If you're purchasing an unlocked K series Intel CPU (meant for overclocking) or a Ryzen CPU, make sure your chipset is overclocker friendly. 
+
+**Socket Type:** You're also going to have to make sure your motherboard is compatible with your CPU. If you buy a motherboard with the wrong socket type, your CPU won't fit. 
+
+**RAM Slots:** Most ATX motherboards have four DIMM slots. You'll want to know how many slots your motherboard has, its maximum supported RAM, and its maximum supported RAM frequency. Most motherboards these days suppport *at least* 16GB of RAM. I'd recommend at least 2400MHz RAM for gaming, especially if you're going for a Ryzen CPU. 
+
+**PCI Slots:** If you want to run multiple graphics cards in your computer, or you're considering an M.2 storage solution, you'll need a motherboard that supports both of those things. 
+
+**SLI/Crossfire Support:** If your motherboard has multiple PCI slots, odds are it either supports SLI or Crossfire, or even both. Still though, you need to check just to be sure. 
+
+**Fan Connectors:** If you plan on using a lot of case fans in your gaming PC, you'll need a motherboard with enough sys fan connectors for your build. If your fan doesn't have enough connectors, you can buy fan splitters (one end plugs into the motherboard, and the other end has two connectors, ultimately allowing you to connect two fans to one fan connector on your motherboard.) 
+
+**SATA Ports:** If you are going to use many hard drives or solid state drives, you're going to need plenty of SATA connectors. Most motherboards have at least 6 SATA ports, which should be more than enough. 
+
+**USB 3.0 Compatibility:** This one isn't super important, but it's always nice to have USB 3.0, especially in 2018. It'd be a good idea to buy a motherboard with USB 3.0 support to future proof your PC. 
+
+**Integrated Graphics:** You might want a motherboard with integrated graphics, but if you're going to build a gaming PC, this one doesn't matter. Integrated graphics can't handle gaming – that's why you buy a dedicated GPU. 
+
+**Extra Features:** Take note of any extra features you'd like. For example, RGB lighting, fan speed controllers, etc. 
+
 ## Conclusion 
+
+Motherboards connect all of your components, so it's imperative you choose the right one. 
+
+I prefer motherboards that support overclocking, but some don't have any desire to overclock. If that's you, buy a different chipset and save some money! 
+
+Lastly, make sure you don't buy the cheapest motherboard you can. Remember when I said your motherboard connects all of your components? Well, if it shorts out for some reason, you can damage or destory some or all of your components. Choose wisely! 
 
 * TOC 
 {:toc}
