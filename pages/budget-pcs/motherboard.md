@@ -86,6 +86,27 @@ Keep reading to learn more about the best budget gaming motherboards!
 
 ## What Does a Motherboard Do? 
 
+## [MSI Pro Z270 SLI PLUS ATX Intel Motherboard](https://amzn.to/2uU6eXQ){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2uU6eXQ"><img alt="MSI Pro Z270 SLI PLUS" class="img-right img-small" src="/img/mobo/msi-pro-z270-plus.png" /></a>
+
+This ATX motherboard has an LGA 1151 socket type, which is compatible with Intel's newest line of processors. It's also sporting an Intel Z270 chipset, which means you can fully unlock your CPU's overclocking potential. 
+
+Four 3800MHz DDR4 RAM slots can accomodate up to 64GB of memory. The motherboard also has 3 PCI-E x16 slots, and 3 PCI-E x1 slots. 
+
+this motherboard is a workhorse, and its [SLI](https://www.geforce.com/whats-new/guides/introduction-to-sli-technology-guide){: target="_blank"} branding means it was designed with gaming in mind. 
+
+The motherboard's southbridge and northbridge are both protected by heatsinks. The motherboard doesn't have any RGB lighting, but that's okay. 
+
+Instead, the motherboard has white lights on the back of the board, and an RGB light header (the header allows you to plug in your own custom RGB lighting, if you choose to do so.)
+
+Although the motherboard doesn't look flashy, it surely packs a punch.
+
+The motherboard has two M.2 sockets and six Sata 3 ports. It supports two-way SLI and three-way crossfire. Most people don't need more than two GPUs. 
+
+From a performance standpoint, the MSI Z270 SLI Plus is powerful and reliable. The board has good application speeds and great storage read/write speeds as well. Its CrstalDiskMark read and write speeds of 514MB/s and 500MB/s, just behind high end motherboards. 
+
+For the price of this board, it's a steal. It's not flashy, but it does offer solid performance at a fair price. 
+
 ## [ASUS ROG Strix H370-F Gaming Motherboard](https://amzn.to/2JJydy){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="img-right img-small" src="/img/mobo/asus-rog-strix-h370-f.jpeg" /></a>
 
