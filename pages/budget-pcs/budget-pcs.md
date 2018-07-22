@@ -493,7 +493,9 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 
 If you don't like this case, you can always buy another one and transfer the components. Check out our guide on the [smallest atx cases!](/budget-pcs/smallest-atx-cases/)
 
-[View on Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){: .big-button target="_blank"}
+Check out our guide on [prebuilt gaming PCs](/budget-pcs/prebuilt/)! 
+
+[View the Guide](/budget-pcs/prebuilt/){: .big-button}
 
 ## Advantages of PC Gaming 
 
@@ -576,70 +578,9 @@ Due to this, most PC gamers are at least in high school if not older. If you're 
 
 If you're on an extremely low budget, there are still options for you if you're interested in building a gaming PC. 
 
-eBay is an excellent tool if you know how to use it. If you follow this step by step guide, you can own a great gaming machine without breaking the bank.
+eBay is an excellent tool if you know how to use it. If you follow our step by step guide, you can easily build a cheap gaming PC for less than $300. 
 
-**Keep reading to find out how to build a 1080p gaming PC for $250!** 
-
-### Step 1: Find an old desktop for sale on eBay
-
-The first step to building a dirt cheap gaming PC is finding an old desktop on eBay. 
-
-[View Desktop PCs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center target="_blank"}
-
-You're going to have to filter through lots of desktops. This may take some time. 
-
-I'd recommend using eBay filters. Often you can find a listing that is advertised as "for parts or repair".
-
-![Filters eBay](/img/misc/ebay-how-to/filters.jpg)
-
-Many think that just because their PC won't power on, it's garbage. Little do they know, there are many parts inside the PC that can be salvaged. This will help you to save lots of money. 
-
-Finding an old used desktop is also a good path to take. 
-
-![Desktop eBay](/img/misc/ebay-how-to/desktop.png)
-
-After 10 minutes or so of browsing eBay listings, I found this PC for sale. 
-
-The PC is listed for $150 which is a pretty good price, but we'll get this PC for even less. 
-
-Make sure the PC doesn't have anything wrong with it, and check out the specs of the PC. 
-
-This Dell Optiplex 990 MT PC has: 
-
-* Intel Core i7-2600 3.4 GHz CPU
-* 8GB of DDR3 Ram
-* 500GB Hard Drive
-* DVD-Rom 
-
-Furthermore, you're getting the case, power supply, and motherboard all for the low price of $150. Now it's time for the next step.
-
-### Step 2: Negotiate a Price
-
-The price of this PC is already low, but we want it even lower. 
-
-Most listings allow you to make a "Best Offer". It's always a good idea to negotiate for a lower price. 
-
-![Best Offer](/img/misc/ebay-how-to/offer.png)
-
-Once a price is agreed upon, make the purchase. Now we move on to our third and final step. 
-
-### Step 3: Buy a GPU 
-
-The GPU is the most important part of any gaming PC. You really don't need the best processor to game. You don't even need a ton of ram. The GPU does all of the hard work. 
-
-This is why we purchased an older desktop PC and salvaged the parts. The older components are still more than capable of gaming. As long as the CPU won't bottleneck, you're good to go. 
-
-That being said, finding the right GPU is important. 
-
-Return to eBay, and search for your GPU of choice. For this example, we'll use the [GeForce GTX 1050 ti](https://www.amazon.com/gp/product/B01MF7EQJZ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01MF7EQJZ&linkCode=as2&tag=flarp0c-20&linkId=b30aa04fcbfda1074ebc6672538b4918){:target="_blank"}. This GPU is powerful, cheap, and great for a low end budget. 
-
-[View GPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=gtx+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button .text-center target="_blank"}
-
-Don't be afraid to buy a used GPU. I've bought many used GPUs on eBay with no problem at all. Just read the reviews of the seller and make sure they're trusted. 
-
-Once you find your GPU for sale on eBay, repeat the last step and await your parts to arrive! 
-
-There you have it, a cheap gaming PC! 
+**Read our [guide](/budget-pcs/300/) to find out how to build a 1080p gaming PC for $250!** 
 
 ## Console vs. PC
 
