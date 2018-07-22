@@ -43,7 +43,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="table-image" src="/img/mobo/asus-rog-strix-h370-f.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Straightforward Config</li>
+			<li>Straightforward config</li>
 			<li>Reliable</li>
 			</ul>
 		</td>
@@ -54,7 +54,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a target="_blank" href="https://amzn.to/2uU6eXQ"><img alt="MSI Pro Z270 SLI PLUS" class="table-image" src="/img/mobo/msi-pro-z270-plus.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Powerful Overclocking</li>
+			<li>Powerful overclocking</li>
 			<li>X-Boost</li>
 			</ul>
 		</td>
@@ -65,8 +65,8 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a target="_blank" href="https://amzn.to/2uEOr7A"><img alt="Asus Prime AM4 X370-Pro ATX AMD Motherboard" class="table-image" src="/img/mobo/asus-prime-x370-pro.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Incredible Performance</li>
-			<li>Aura Sync RGB Lighting</li>
+			<li>Incredible performance</li>
+			<li>Aura sync RGB lighting</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2uEOr7A">Best Price on Amazon</a></td>
@@ -76,8 +76,8 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a target="_blank" href="https://amzn.to/2O5kDsS"><img alt="gigabyte-aorus-ga-ax370" class="table-image" src="/img/mobo/gigabyte-aorus-ga-ax370.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>X370 Chipset</li>
-			<li>Great Price</li>
+			<li>X370 chipset</li>
+			<li>Great price</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2O5kDsS">Best Price on Amazon</a></td>
