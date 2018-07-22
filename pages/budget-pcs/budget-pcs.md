@@ -189,9 +189,9 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 </table>
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uDUB80">Buy This PC</a>
+	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1">Buy This PC</a>
 	<br>
-	<a class="cta-button learn-button" href="#what-does-a-motherboard-do">Read our Guide</a>
+	<a class="cta-button learn-button" href="/budget-pcs/400/">Read our Guide</a>
 </div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
