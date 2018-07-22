@@ -186,11 +186,13 @@ Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medi
 		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
 		<td><a target="_blank" class="big-button" href="http://amzn.to/2DQGTB4">Buy</a></td>
 	</tr>
-<tr>
-	<td colspan="3"><a class="big-button" href="/budget-pcs/400/">Check out the Guide</a></td>
-</tr>
-	
 </table>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uDUB80">Buy This PC</a>
+	<br>
+	<a class="cta-button learn-button" href="#what-does-a-motherboard-do">Read our Guide</a>
+</div>
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
 
