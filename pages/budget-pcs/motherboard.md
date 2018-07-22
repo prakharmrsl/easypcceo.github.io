@@ -39,7 +39,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 		<td><a class="big-button" href="https://amzn.to/2uDUB80">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
-		<td>ASUS ROG Strix H370-F Gaming Motherboard</td>
+		<td>ASUS ROG Strix H370-F Intel Gaming Motherboard</td>
 		<td><a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="table-image" src="/img/mobo/asus-rog-strix-h370-f.jpeg" /></a></td>
 		<td class="components">
 			<ul>
@@ -108,12 +108,37 @@ As you can probably tell, it can quickly become overwhelming, especially for tho
 
 That's why I've created this list of the 5 best gaming motherboards. If you choose one of the motherboards on this list, you really can't go wrong.
 
-So, keep reading to find the right motherboard for you! 
+So, keep reading to find the right motherboard for you!
+
+## [GIGABYTE Z370M ATX Intel Motherboard](https://amzn.to/2uDUB80){: target="_blank"} 
+<a target="_blank" href="https://amzn.to/2uDUB80"><img alt="gigabyte z370m atx intel motherboard" class="img-right img-small" src="/img/mobo/gigabyte-z370m.png" /></a>
+
+Most Z370 options are high-end motherboards, mostly used by enthusiast builders. Contrary to popular belief, there are entry-level Z370 motherboards out there.
+
+In fact, the [GIGABYTE Z370M ATX Intel motherboard](https://amzn.to/2uDUB80){: target="_blank"} is one of them. 
+
+Let's find out what it has to offer: 
+
+Since it has a Z370 chipset, this motherboard caters to those interested in overclocking their 8th generation Intel processors. 
+
+It has CrossFire Support, Intel USB 3.1 Gen1 with USB Type-C, Intel GbE LAN with 25KV protection, M.2, RGB Fusion, and Smart Fan 5 technology.
+
+According to [Gigabyte](https://www.gigabyte.com/Motherboard/Z370M-D3H-rev-10#kf){: target="_blank"}:
+
+<blockquote source="https://www.gigabyte.com/Motherboard/Z370M-D3H-rev-10#kf">
+<p>With Smart Fan 5 users can ensure that their gaming PC can maintain its performance while staying cool. Smart Fan 5 allows users to interchange their fan headers to reflect different thermal sensors at different locations on the motherboard. Not only that, with Smart Fan 5 more hybrid fan headers that support both PWM and Voltage mode fans have been introduced to make the motherboard more liquid cooling friendly.</p>
+</blockquote>
+
+It has four DDR4 DIMM slots up to 4000MHz, Dual PCIe Gen3 x4 M.2 slots, and RGB lighting strips in 7 different colors. 
+
+You'll enjoy high-end audio capacitors and an audio noise guard that seperates the motherboard's sensitive analog audio components from noise pollution at the PCB level. 
+
+Overall, you're getting a high-end motherboard with incredible overclocking potential and loads of features  for a low price. It's a steal!
 
 ## [Best Motherboard for Overclocking: MSI Pro Z270 SLI PLUS ATX Intel Motherboard](https://amzn.to/2uU6eXQ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2uU6eXQ"><img alt="MSI Pro Z270 SLI PLUS" class="img-right img-small" src="/img/mobo/msi-pro-z270-plus.png" /></a>
 
-This ATX motherboard has an LGA 1151 socket type, which is compatible with Intel's newest line of processors. It's also sporting an Intel Z270 chipset, which means you can fully unlock your CPU's overclocking potential. 
+The [MSI Pro Z270 SLI PLUS ATX Intel motherboard](https://amzn.to/2uU6eXQ){: target="_blank"} has an LGA 1151 socket type, which is compatible with Intel's newest line of processors. It's also sporting an Intel Z270 chipset, which means you can fully unlock your CPU's overclocking potential. 
 
 Four 3800MHz DDR4 RAM slots can accomodate up to 64GB of memory. The motherboard also has 3 PCI-E x16 slots, and 3 PCI-E x1 slots. 
 
@@ -131,7 +156,7 @@ From a performance standpoint, the MSI Z270 SLI Plus is powerful and reliable. T
 
 For the price of this board, it's a steal. It's not flashy, but it does offer solid performance at a fair price. 
 
-## [ASUS ROG Strix H370-F Gaming Motherboard](https://amzn.to/2JJydy){: target="_blank"}
+## [ASUS ROG Strix H370-F Intel Gaming Motherboard](https://amzn.to/2JJydy){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JJydyG"><img alt="ASUS ROG Strix H370-F Gaming Motherboard" class="img-right img-small" src="/img/mobo/asus-rog-strix-h370-f.jpeg" /></a>
 
 H370 chipsets are generally cheaper than Z370 chipsets. However, they don't offer the same overclocking potential.
@@ -170,6 +195,20 @@ The board has 10-phase CPU power delivery, and memory support up to 4133MHz. Kee
 Processor speeds almost surpass 5GHz, which is both impressive and important if you're interested in overclocking (which you should be).
 
 The motherboard is reliable, great for overclocking, and modestly priced. I'd highly recommend this board if you're going to include an AMD Ryzen 5 or Ryzen 7 CPU in your next gaming PC build. 
+
+
+## [Asus Prime AM4 X370-Pro ATX AMD Motherboard](https://amzn.to/2uEOr7A){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2uEOr7A"><img alt="Asus Prime AM4 X370-Pro ATX AMD Motherboard" class="img-right img-small" src="/img/mobo/asus-prime-x370-pro.png" /></a>
+
+If you're looking for a cheap motherboard that's still capable of overclocking, the [Asus Prime AM4 X370-Pro ATX AMD Motherboard](https://amzn.to/2uEOr7A){: target="_blank"} is your best bet. It still has many of the same features that you'd find in a more expensive motherboard, but it won't break the bank.
+
+The Prime X370-Pro has  four DDR4 RAM slots that support up to 64GB of 2666 or 3200MHz OC. It has two PCIe 3.0 126x slots and one PCIe 2.0 slot. 
+
+The motherboard has 8 SATA ports and an M.2 slot as well. 
+
+It also has great overclocking potential, which is espcially important if you're going to buy a Ryzen CPU. Don't get me wrong, Ryzen CPUs are great at stock frequencies, but they perform exceptionally well when overclocked. 
+
+That's why I always recommend overclocking if you're going to buy a Ryzen CPU. Even if it's your first time building a gaming computer, overclocking is surprisingly easy, and there are plenty of tutorials on YouTube. I'd highly recommend it!  
 
 ## Motherboard Chipsets
 
