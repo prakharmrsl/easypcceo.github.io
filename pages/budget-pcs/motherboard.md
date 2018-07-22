@@ -73,7 +73,7 @@ Keep reading to learn more about the best budget gaming motherboards!
 	</tr>
 	<tr>
 		<td>Gigabyte Aorus GA-AX370 Gaming 5 ATX AMD Motherboard</td>
-		<td><a target="_blank" href="https://amzn.to/2O5kDsS"><img alt="gigabyte-aorus-ga-ax370" class="table-image" src="/img/mobo/gigabyte-aorus-ga-ax370.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2O5kDsS"><img alt="gigabyte-aorus-ga-ax370" class="table-image" src="/img/mobo/gigabyte-aorus-ga-ax370.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>X370 Chipset</li>
