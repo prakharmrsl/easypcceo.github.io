@@ -74,5 +74,26 @@ For example, Google Chrome consumes a whole lot of RAM. I only have 8GB in my bu
 	<a class="cta-button learn-button" href="https://amzn.to/2NEBphF">Buy 16GB Kit</a>
 </div>
 
+## [Corsair Dominator Platinum](https://amzn.to/2uWUvrk){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2uWUvrk"><img alt="Corsair Dominator Platinum" class="img-right img-small" src="/img/ram/corsair-dominator-platinum.jpg" /></a>
+
+Corsair is often at the top of list for most people, as they consistently and reliably produce amazing products. Their Dominator Platinum series has remained largely popular, due to the incredibly performance of this RAM kit. 
+
+The Dominator Series features Corsair's DHX cooling technology, which allows for stable temperatures when overclocked at high frequencies. 
+
+Overclocking is effortless with Intel's [Z270 motherboards](/budget-pcs/motherboard/). Simply change the frequency divider in the BIOS. 
+
+Although the kit is on the expensive side, the Corsair Dominator series is probably the best RAM on the market. If you're interested in overclocking, or you want the best possible performance out of your new gaming rig, this is the RAM for you. 
+
+The RAM provides superb cooling, thanks to their heavy heatsink. 
+
+According to [Think Computers](https://thinkcomputers.org/corsair-dominator-platinum-ddr4-3200-16gb-memory-kit-review/){: target="_blank"}: 
+
+<blockquote source="https://thinkcomputers.org/corsair-dominator-platinum-ddr4-3200-16gb-memory-kit-review/">
+<p>When it comes to performance this kit is great! As a reminder this is the CMD16GX4M2B3200C16 kit which is a 16 GB (2x 8GB) kit that runs at 3200 MHz with timings of 16-18-18-36 at 1.35V. It performed great in all of our tests and currently sits as the best performing DDR4 memory kit we’ve tested to date! On top of that we were able to bring to kit up from its default speed of 3200 MHz all the way up to 3466 MHz without having to adjust timings or voltage! When it comes to DDR4 that is very impressive!</p>
+</blockquote>
+
+If you buy Corsair's Dominator series RAM, you will not be disappointed. 
+
 * TOC 
 {:toc}
