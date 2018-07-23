@@ -93,7 +93,11 @@ According to [Think Computers](https://thinkcomputers.org/corsair-dominator-plat
 <p>When it comes to performance this kit is great! As a reminder this is the CMD16GX4M2B3200C16 kit which is a 16 GB (2x 8GB) kit that runs at 3200 MHz with timings of 16-18-18-36 at 1.35V. It performed great in all of our tests and currently sits as the best performing DDR4 memory kit we’ve tested to date! On top of that we were able to bring to kit up from its default speed of 3200 MHz all the way up to 3466 MHz without having to adjust timings or voltage! When it comes to DDR4 that is very impressive!</p>
 </blockquote>
 
-If you buy Corsair's Dominator series RAM, you will not be disappointed. 
+If you buy Corsair's Dominator series RAM, you will not be disappointed. I couldn't find a 2x4GB kit on Amazon, so if you just want 8GB, I've linked you to eBay. You can buy a 2x8GB kit from Amazon. 
+
+<div class="button-wrapper">
+	<a class="cta-button learn-button" href="https://amzn.to/2Ob7aQm">Buy 16GB Kit</a>
+</div>
 
 ##
 
