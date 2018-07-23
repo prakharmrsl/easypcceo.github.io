@@ -12,19 +12,17 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 
-<div class="title-block">
-	<div class="title-text">
-		<p>Listen up:</p>
 
-		<p>PC gaming is the best, end of story. </p>
+Listen up:
 
-		<p>If you don't know a thing about computers, have no fear; this guide was made just for you. </p>
+PC gaming is the best, end of story. 
 
-		<p>We've put together five awesome builds ranging from $400-$800. </p>
+If you don't know a thing about computers, have no fear; this guide was made just for you. 
 
-		<p>We promise we've got the perfect gaming PC no matter what your budget is! </p>
-	</div>
-</div>
+We've put together five awesome builds ranging from $400-$800.
+
+We promise we've got the perfect gaming PC no matter what your budget is! 
+
 
 ## The Best Budget Gaming PC Builds
 <div id="overview">
