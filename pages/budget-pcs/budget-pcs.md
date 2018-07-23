@@ -24,8 +24,6 @@ seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
 
 		<p>We promise we've got the perfect gaming PC no matter what your budget is! </p>
 	</div>
-
-	<img src="/img/case/bitfenix-comrade.png" alt="" class="title-image">
 </div>
 
 ## The Best Budget Gaming PC Builds
