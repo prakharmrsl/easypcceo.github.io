@@ -1,17 +1,16 @@
 ---
-title: Cryptocurrency Mining Hardware 
+title: How to Mine Cryptocurrency for Profit (2018)
 permalink: "/crypto-mining/"
 layout: page
 seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2018 Updated)" 
 ---
-
-![Cryptocurrency Mining Page Header](/img/header/crypto-mining.jpg)
-
 <h3 class="page-subtitle">
 	Updated July 22nd, 2018 by 
 	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
 	Jacob Tuwiner
 </h3>
+
+![Cryptocurrency Mining Page Header](/img/header/crypto-mining.jpg)
 
 Did you know that *over 3,000 new Bitcoins are mined every day?* 
 
