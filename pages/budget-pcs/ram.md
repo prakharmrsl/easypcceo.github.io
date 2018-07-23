@@ -49,5 +49,14 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 	</tr>
 </table>
 
+## [G. Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="img-right img-small" src="/img/ram/g-skill-ripjaws-v.jpg" /></a>
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2Ob78rx">Buy 8GB Kit</a>
+	<br>
+	<a class="cta-button learn-button" href="https://amzn.to/2NEBphF">Buy 16GB Kit</a>
+</div>
+
 * TOC 
 {:toc}
