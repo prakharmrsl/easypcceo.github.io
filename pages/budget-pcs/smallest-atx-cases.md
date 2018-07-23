@@ -11,7 +11,7 @@ seotitle: "7 Smallest ATX Case Reviews of 2018 (Best Cases Guaranteed!)"
 	Jacob Tuwiner
 </h3>
 
-![NZXT H400i](/img/case/nzxt-h400i.jpg){: .img-right .img-small}
+![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg)
 
 Here's the deal:
 
