@@ -42,7 +42,7 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 		<td><a class="big-button" href="https://amzn.to/2uWUvrk">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
-		<td>G.Skill Tridentz RGB</td>
+		<td>G.Skill TridentZ RGB</td>
 		<td><a target="_blank" href="https://amzn.to/2JLn4gN"><img alt="g skill tridentz rgb" class="table-image" src="/img/ram/g-skill-tridentz-rgb.png" /></a></td>
 		<td>3200MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2JLn4gN">Best Price on Amazon</a></td>
@@ -93,13 +93,28 @@ According to [Think Computers](https://thinkcomputers.org/corsair-dominator-plat
 <p>When it comes to performance this kit is great! As a reminder this is the CMD16GX4M2B3200C16 kit which is a 16 GB (2x 8GB) kit that runs at 3200 MHz with timings of 16-18-18-36 at 1.35V. It performed great in all of our tests and currently sits as the best performing DDR4 memory kit we’ve tested to date! On top of that we were able to bring to kit up from its default speed of 3200 MHz all the way up to 3466 MHz without having to adjust timings or voltage! When it comes to DDR4 that is very impressive!</p>
 </blockquote>
 
-If you buy Corsair's Dominator series RAM, you will not be disappointed. I couldn't find a 2x4GB kit on Amazon, so if you just want 8GB, I've linked you to eBay. You can buy a 2x8GB kit from Amazon. 
+If you buy Corsair's Dominator series RAM, you will not be disappointed.
 
 <div class="button-wrapper">
 	<a class="btn-middle" href="https://amzn.to/2Ob7aQm">Buy 16GB Kit</a>
 </div>
 
-## 
+## [G.Skill TridentZ RGB](https://amzn.to/2JLn4gN){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2JLn4gN"><img alt="g skill tridentz rgb" class="img-right img-small" src="/img/ram/g-skill-tridentz-rgb.png" /></a>
+
+If you're a fan of RGB lighting, this is the RAM kit for you. It defintely adds personality to your gaming PC, as long as your case has a side panel window. 
+
+G.Skill announced TridentZ RGB memory in December. Now, it is available in nearly every capacity, speed, and latency one could ask for. 
+
+The RAM utilizes RGB diodes that emit bright and playful color. 
+
+Of course, looks aren't everything – this RAM passed all of my tests with flying colors. It's clocked at 3200MHz, which is great for gaming. It also has good overclocking potential, thanks to its effective heatsink. 
+
+Be ready to pay extra for the fancy RGB lighting. Personally, I'd prefer standard RAM without flashy lights. It'll get the job done just the same (if not better), and you'll save some money. On the other hand, if you want to spice up your build with cool colors, this is the RAM for you. 
+
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2NC0HN5">Buy 16GB Kit</a>
+</div>
 
 * TOC 
 {:toc}
