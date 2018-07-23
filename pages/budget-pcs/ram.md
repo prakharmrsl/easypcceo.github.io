@@ -99,7 +99,7 @@ If you buy Corsair's Dominator series RAM, you will not be disappointed. I could
 	<a class="cta-button learn-button" href="https://amzn.to/2Ob7aQm">Buy 16GB Kit</a>
 </div>
 
-##
+## g
 
 * TOC 
 {:toc}
