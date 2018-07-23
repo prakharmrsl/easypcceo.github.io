@@ -96,7 +96,7 @@ According to [Think Computers](https://thinkcomputers.org/corsair-dominator-plat
 If you buy Corsair's Dominator series RAM, you will not be disappointed. I couldn't find a 2x4GB kit on Amazon, so if you just want 8GB, I've linked you to eBay. You can buy a 2x8GB kit from Amazon. 
 
 <div class="button-wrapper">
-	<a class="cta-button learn-button" href="https://amzn.to/2Ob7aQm">Buy 16GB Kit</a>
+	<a class="big-button" href="https://amzn.to/2Ob7aQm">Buy 16GB Kit</a>
 </div>
 
 ## g
