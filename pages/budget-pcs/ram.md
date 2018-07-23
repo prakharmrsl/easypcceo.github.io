@@ -30,27 +30,43 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td>G. Skill Ripjaws V</td>
-		<td><a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="table-image ram-table" src="/img/ram/g-skill-ripjaws-v.jpg" /></a></td>
+		<td>G.Skill Ripjaws V</td>
+		<td><a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="table-image" src="/img/ram/g-skill-ripjaws-v.jpg" /></a></td>
 		<td>2400MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2A2fGOv">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Dominator Platinum</td>
-		<td><a target="_blank" href="https://amzn.to/2uWUvrk"><img alt="Corsair Dominator Platinum" class="ram-table table-image" src="/img/ram/corsair-dominator-platinum.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2uWUvrk"><img alt="Corsair Dominator Platinum" class="table-image" src="/img/ram/corsair-dominator-platinum.jpg" /></a></td>
 		<td>3200MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2uWUvrk">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
-		<td>G. Skill Tridentz RGB</td>
-		<td><a target="_blank" href="https://amzn.to/2JLn4gN"><img alt="g skill tridentz rgb" class="ram-table table-image" src="/img/ram/g-skill-tridentz-rgb.png" /></a></td>
+		<td>G.Skill Tridentz RGB</td>
+		<td><a target="_blank" href="https://amzn.to/2JLn4gN"><img alt="g skill tridentz rgb" class="table-image" src="/img/ram/g-skill-tridentz-rgb.png" /></a></td>
 		<td>3200MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2JLn4gN">Best Price on Amazon</a></td>
 	</tr>
 </table>
 
-## [G. Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"}
+## [G.Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="img-right img-small" src="/img/ram/g-skill-ripjaws-v.jpg" /></a>
+
+If you're looking for a great mid-range RAM kit, [G.Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"} is your best bet. It's fast, reliable – and best of all – it's cheap. 
+
+Ripjaws V Series Kit are 288-pin RAM sticks that can be run in a dual-channel configuration for even faster speeds. You can purchase this RAM in five different colors, including Radiant Silver, Blazing Red, Gunmetal Gray, Steel Blue, and Classic Black. 
+
+The neweset generation of RAM from G.Skill is both faster and more affordable. It's the perfect choice for budget builders, from a [$400](/budget-pcs/400/) budget to an [$800](/budget-pcs/800/) budget. 
+
+G.Skill is one of the best RAM manufacturers in the industry, especially when it comes to gaming. Their RAM often outperforms the competition at a lower price. The Ripjaws V series is no exception. The RAM overclocks well, too. 
+
+If you're on a tight budget, 8GB of RAM will suffice. 
+
+On the other hand, if you have a bit of extra cash on hand, I'd recommend going for a 16GB kit. Although 8GB of RAM will get the job done, 16GB is ideal.
+
+Many new games are starting to recommend 12GB to 16GB of RAM, not to mention the extra RAM also helps with multitasking. 
+
+For example, Google Chrome consumes a whole lot of RAM. I only have 8GB in my build, and I usually have to close my tabs on Google Chrome before launching a game in order to achieve optimal performance. 
 
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2Ob78rx">Buy 8GB Kit</a>
