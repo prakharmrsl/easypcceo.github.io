@@ -95,5 +95,7 @@ According to [Think Computers](https://thinkcomputers.org/corsair-dominator-plat
 
 If you buy Corsair's Dominator series RAM, you will not be disappointed. 
 
+##
+
 * TOC 
 {:toc}
