@@ -6,7 +6,7 @@ seotitle: "7 Smallest ATX Case Reviews of 2018 (Best Cases Guaranteed!)"
 ---
 
 <h3 class="page-subtitle">
-	Updated May 30th, 2018 by 
+	Updated July 22nd, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -304,6 +304,8 @@ You may find this PC airflow guide helpful:
 Most gaming cases ship with fans included – many of them have cool looking LEDs too. But before you're fooled by fancy lights, it's important to make sure your fans are quiet. Noisy fans can be especially annoying if you're sensitive to noise. 
 
 **4.** A great gaming case has enough room for your components! This may seem obvious, but some cases don't have enough room for CPU coolers and graphics cards. For example, the first time I built a gaming PC, the hard drive bays in my case got in the way of my graphics card!
+
+**5.** A great gaming case has good cable management options. This means there is plenty of space for your cables, and they can be run throughout the case in a neat and orderly fashion. Instead of bundling them up inside the case – which is both ugly and bad for airflow – you can run your cables in the back. This keeps your case looking clean and promotes good airflow.
 
 Before you pull the trigger on the case of your dreams, make sure that: 
 
