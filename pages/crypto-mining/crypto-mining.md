@@ -5,6 +5,8 @@ layout: page
 seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2018 Updated)" 
 ---
 
+![Cryptocurrency Mining Page Header](/img/header/crypto-mining.jpg)
+
 <h3 class="page-subtitle">
 	Updated July 22nd, 2018 by 
 	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
