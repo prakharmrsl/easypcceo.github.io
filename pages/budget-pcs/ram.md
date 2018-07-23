@@ -49,6 +49,10 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 	</tr>
 </table>
 
+## What is RAM? 
+
+## RAM's Impact on Gaming Performance 
+
 ## [G.Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="img-right img-small" src="/img/ram/g-skill-ripjaws-v.jpg" /></a>
 
@@ -115,6 +119,12 @@ Be ready to pay extra for the fancy RGB lighting. Personally, I'd prefer standar
 <div class="button-wrapper">
 	<a class="btn-middle" href="https://amzn.to/2NC0HN5">Buy 16GB Kit</a>
 </div>
+
+## Important Things to Consider
+
+## How to Install RAM
+
+## Conclusion 
 
 
 
