@@ -31,19 +31,19 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 	</tr>
 	<tr>
 		<td>G. Skill Ripjaws V</td>
-		<td><a target="_blank" href="https://amzn.to/2A2fGOv"><img margin-right="40px" alt="G Skill Ripjaws V 2x4GB RAM" class="table-image" src="/img/ram/g-skill-ripjaws-v.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="table-image ram-table" src="/img/ram/g-skill-ripjaws-v.jpg" /></a></td>
 		<td>2400MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2A2fGOv">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Dominator Platinum</td>
-		<td><a target="_blank" href="https://amzn.to/2uWUvrk"><img margin-right="40px" alt="Corsair Dominator Platinum" class="table-image" src="/img/ram/corsair-dominator-platinum.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2uWUvrk"><img alt="Corsair Dominator Platinum" class="ram-table table-image" src="/img/ram/corsair-dominator-platinum.jpg" /></a></td>
 		<td>3200MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2uWUvrk">Best Price on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>G. Skill Tridentz RGB</td>
-		<td><a target="_blank" href="https://amzn.to/2JLn4gN"><img margin-right="40px" alt="g skill tridentz rgb" class="table-image" src="/img/ram/g-skill-tridentz-rgb.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JLn4gN"><img alt="g skill tridentz rgb" class="ram-table table-image" src="/img/ram/g-skill-tridentz-rgb.png" /></a></td>
 		<td>3200MHz</td>
 		<td><a class="big-button" href="https://amzn.to/2JLn4gN">Best Price on Amazon</a></td>
 	</tr>
