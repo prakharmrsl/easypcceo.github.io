@@ -10,7 +10,7 @@ seotitle: "5 Best Gaming Graphics Card GPUs 2018 (AMD/NVIDIA Options)"
 	Jacob Tuwiner
 </h3>
 
-If you're buying components for a new gaming PC, make sure you buy the best graphics card that's within your budget.
+If you're buying components for a new [gaming PC](/budget-pcs/), make sure you buy the best graphics card that's within your budget.
 
 Graphics cards (GPUs) handle all 3D rendering. Any well optimized game is going to heavily rely on the power of your graphics card.
 
@@ -84,9 +84,9 @@ You won't be able to max out every AAA game in 1080p with ultra settings, but yo
 
 If you're interested in e-sports games like CS:GO, League of Legends, or Dota, this GPU is your best bet on a budget. 
 
-This GPU fits easily in any mini-ITX or micro-ATX case, given its smaller form factor. The card also has 4GB of dedicated GDDR5 VRAM, as opposed to merely 2GB. 
+The GTX 1050 Ti mini fits easily in any mini-ITX or micro-ATX case, given its smaller form factor. The card also has 4GB of dedicated GDDR5 VRAM, as opposed to merely 2GB. 
 
-Having 4GB of VRAM will help your card handle 1080p games with medium to high settings. As time goes on, more and more games will begin to demand 3GB and 4GB of VRAM, meaning this GPU is somewhat future proof. 
+Having 4GB of [VRAM](https://searchstorage.techtarget.com/definition/video-RAM){: target="_blank"} will help your card handle 1080p games with medium to high settings. As time goes on, more and more games will begin to demand 3GB and 4GB of VRAM, meaning this GPU is somewhat future proof. 
 
 It's not a powerhouse GPU, but it's a great bang for your PC gaming buck. 
 
@@ -110,7 +110,7 @@ This card is not designed for 1440p gaming – on the other hand, if 1080p at an
 
 The Gigabyte [RX 580 8GB](https://amzn.to/2NHkqLF){: target="_blank"} is faster than the GTX 1060, it's overclocked out of the box, and it has more dedicated VRAM, too. 
 
-The GPU is quiet overall, and the fans turn themselves off automatically when idling. This feature simultaneously saves energy and reduces noise. 
+The GPU is quiet overall, and the fans turn themselves off automatically when idling. This feature simultaneously saves energy and reduces noise. AMD cards are known to run hot, so consider buying a cheap set of [case fans](/budget-pcs/case-fans/) for your build.
 
 Although it is basically a rebranded RX 480 with the same Ellesmere GPU, it is made on a better 14nm process which allows for superior clock frequencies. The RX 580 is another great card for 1080p gaming, and can even handle 1440p if you turn down the settings. 
 
@@ -158,7 +158,7 @@ If you spent the majority of your budget on an i7 CPU and bought a low-end GPU o
 
 Don't get me wrong, you need a decent processor for gaming – but that doesn't mean you should spend your entire budget on one. Actually, it would be smart to do the contrary. 
 
-I'd get the best GPU you can that's within your budget, and then buy a CPU that is fast enough to keep up without bottlenecking. 
+I'd get the best GPU you can that's within your budget, and then buy a CPU that is fast enough to keep up without [bottlenecking](http://blog.logicalincrements.com/2017/09/what-cpu-gpu-computer-bottlenecks-how-to-detect-them/){: target="_blank"}. 
 
 Pairing a Ryzen 3 1200 with a GTX 1060 is smarter than pairing an Intel i7 with a GTX 1050, for example. 
 
