@@ -154,6 +154,8 @@ Some first time builders mistakenly believe the processor (CPU) is the most impo
 
 If you spent the majority of your budget on an i7 CPU and bought a low-end GPU or skipped it altogether and thought you'd be good to go, you were sorely mistaken. 
 
+![CPU vs GPU](/img/gpu/cpu-vs-gpu.jpg)
+
 Don't get me wrong, you need a decent processor for gaming – but that doesn't mean you should spend your entire budget on one. Actually, it would be smart to do the contrary. 
 
 I'd get the best GPU you can that's within your budget, and then buy a CPU that is fast enough to keep up without bottlenecking. 
@@ -162,8 +164,6 @@ Pairing a Ryzen 3 1200 with a GTX 1060 is smarter than pairing an Intel i7 with 
 
 Focus on the GPU first, and worry about the CPU later. 
 
-## Choose the Best Gaming GPU 
-
 ## How to Install a GPU 
 
 <div class="vid-container">
@@ -171,3 +171,12 @@ Focus on the GPU first, and worry about the CPU later.
 </div>
 
 ## Conclusion 
+
+Choosing the right gaming GPU is one of the most important parts of building a gaming PC. A faster GPU is going to yield higher FPS with better graphics and higher resolutions. 
+
+If you can, I'd recommend saving the extra money necessary to buy the best GPU for you. You don't necessarily need a GTX 1080, but buying a GTX 1070, or even a GTX 1060 is ideal. 
+
+However, if you're on a tight budget, there are still options available to you. Whatever you do, choose wisely! The GPU you purchase is going to have the most significant impact on your gaming experience, compared to the other components in your build. 
+
+* TOC
+{:toc}
