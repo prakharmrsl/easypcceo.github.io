@@ -166,7 +166,5 @@ RAM plays a crucial role in any computer, phone, or tablet. If you're building a
 
 If you're building an extreme budget $300 gaming PC (more on that [here](/budget-pcs/300/){: target="_blank"}), you can get away with DDR3. however, you're better off going with DDR4. First of all, the price isn't much higher. Secondly, a lot of newer CPUs from both Intel and AMD are only compatible with DDR4 RAM. 
 
-
-
 * TOC 
 {:toc}
