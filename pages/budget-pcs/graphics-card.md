@@ -1,5 +1,5 @@
 ---
-title: "Choosing The Best Gaming Graphics Card GPU in 2018"
+title: "Choosing The Best Gaming Graphics Card GPUs in 2018"
 permalink: "/budget-pcs/graphics-card/"
 layout: page
 seotitle: "5 Best Gaming Graphics Card GPUs 2018 (AMD/NVIDIA Options)" 
