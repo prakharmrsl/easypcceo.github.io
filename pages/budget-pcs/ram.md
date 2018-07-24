@@ -75,6 +75,8 @@ As far as RAM speed goes, you can definitely get away with 2400MHz RAM, unless y
 
 Most games will run well on 8GB of RAM, but having 16GB is ideal in 2018. More games are starting to recommend 12GB-16GB of RAM for the best performance. Additionally, some programs require a lot of RAM, such as Google Chrome. 
 
+![RAM in motherboard](/img/ram/ram-in-motherboard.png)
+
 My computer only has 8GB of RAM – I have no issues gaming, but I usually decided to close Google Chrome before launching a game in order to achieve the best possible framerate. 
 
 The amount and speed of your RAM has a more significant impact on your PC's performance if you have a Ryzen CPU. AMD's Ryzen CPUs' performance is heavily affected by RAM speed. 
@@ -150,8 +152,6 @@ Be ready to pay extra for the fancy RGB lighting. Personally, I'd prefer standar
 	<a class="btn-middle" href="https://amzn.to/2NC0HN5">Buy 16GB Kit</a>
 </div>
 
-## Important Things to Consider
-
 ## How to Install RAM
 
 In this video, you'll learn how to install DDR3 memory. DDR4 memory installation works the same way! 
@@ -161,6 +161,10 @@ In this video, you'll learn how to install DDR3 memory. DDR4 memory installation
 </div>
 
 ## Conclusion 
+
+RAM plays a crucial role in any computer, phone, or tablet. If you're building a computer with gaming in mind, buy at least 8GB. 
+
+If you're building an extreme budget $300 gaming PC (more on that [here](/budget-pcs/300/){: target="_blank"}), you can get away with DDR3. however, you're better off going with DDR4. First of all, the price isn't much higher. Secondly, a lot of newer CPUs from both Intel and AMD are only compatible with DDR4 RAM. 
 
 
 
