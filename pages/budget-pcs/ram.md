@@ -49,9 +49,39 @@ Keep reading to learn more about the best DDR4 gaming RAM in 2018!
 	</tr>
 </table>
 
-## What is RAM? 
+## What is RAM?
 
-## RAM's Impact on Gaming Performance 
+[RAM](https://en.wikipedia.org/wiki/Random-access_memory){: target="_blank"} is short for Random Access Memory, and happens to be one of the most important parts of a gaming PC. 
+
+If your RAM is too slow or you do not have enough, you'll have a miserable experience. 
+
+RAM is a lightning fast form of computer memory which stores all of the information your PC needs, either right now or in the near future. 
+
+Your computer's processor has a small cache of information which is where its most important information is stored. The information in a CPU's cache is being used now. 
+
+The information that is slightly less important – but still important – is stored in your computer's RAM. 
+
+All of the other information is stored in either an SSD or HDD, which are both slower than RAM. 
+
+RAM is like your short-term memory, whereas a mass storage drive is like long-term memory. 
+
+You can read more about RAM [here](https://www.digitaltrends.com/computing/what-is-ram/){: target="_blank"}. 
+
+## RAM's Impact on Gaming Performance
+
+If you're building a gaming PC in 2018, you'll want at least 8GB of RAM. DDR3 is fine, but DDR4 is optimal, especially if you want to future proof your build. 
+
+As far as RAM speed goes, you can definitely get away with 2400MHz RAM, unless you're building a $1,000+ gaming PC. In that case, you may want to bump up the frequency. 
+
+Most games will run well on 8GB of RAM, but having 16GB is ideal in 2018. More games are starting to recommend 12GB-16GB of RAM for the best performance. Additionally, some programs require a lot of RAM, such as Google Chrome. 
+
+My computer only has 8GB of RAM – I have no issues gaming, but I usually decided to close Google Chrome before launching a game in order to achieve the best possible framerate. 
+
+The amount and speed of your RAM has a more significant impact on your PC's performance if you have a Ryzen CPU. AMD's Ryzen CPUs' performance is heavily affected by RAM speed. 
+
+With that being said, I'd recommend at least 8GB of DDR4 2666MHz for a Ryzen CPU. 
+
+Moral of the story, if you're building a budget gaming PC in 2018, buy at least 8GB of DDR4 memory.  
 
 ## [G.Skill Ripjaws V DDR4 2400MHz RAM](https://amzn.to/2A2fGOv){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2A2fGOv"><img alt="G Skill Ripjaws V 2x4GB RAM" class="img-right img-small" src="/img/ram/g-skill-ripjaws-v.jpg" /></a>
@@ -123,6 +153,12 @@ Be ready to pay extra for the fancy RGB lighting. Personally, I'd prefer standar
 ## Important Things to Consider
 
 ## How to Install RAM
+
+In this video, you'll learn how to install DDR3 memory. DDR4 memory installation works the same way! 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BWr5Mb9cp38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Conclusion 
 
