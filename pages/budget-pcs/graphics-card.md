@@ -60,3 +60,33 @@ Lucky for you, I've compiled this list of the best gaming GPUs, from both team r
 		<td><a class="big-button" href="https://amzn.to/2mCaSFZ">Best Price on Amazon</a></td>
 	</tr>
 </table>
+
+## [ZOTAC GeForce GTX 1050 Ti Mini 4GB](https://amzn.to/2mAIeFo){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2mAIeFo"><img alt="ZOTAC GeForce GTX 1050 Ti Mini 4GB" class="img-right img-small" src="/img/gpu/zotac-gtx-1050ti.png" /></a>
+
+For $170, the [ZOTAC GeForce GTX 1050 Ti Mini 4GB](https://amzn.to/2mAIeFo){: target="_blank"} is a great GPU for a low budget gaming PC. 
+
+You won't be able to max out every AAA game in 1080p with ultra settings, but you'll definitely be able to enjoy your favorite games at medium settings. 
+
+If you're interested in e-sports games like CS:GO, League of Legends, or Dota, this GPU is your best bet on a budget. 
+
+This GPU fits easily in any mini-ITX or micro-ATX case, given its smaller form factor. The card also has 4GB of dedicated GDDR5 VRAM, as opposed to merely 2GB. 
+
+Having 4GB of VRAM will help your card handle 1080p games with medium to high settings. As time goes on, more and more games will begin to demand 3GB and 4GB of VRAM, meaning this GPU is somewhat future proof. 
+
+It's not a powerhouse GPU, but it's a great bang for your PC gaming buck. 
+
+## [Gigabyte GeForce GTX 1060 Windforce OC 3GB](https://amzn.to/2uL6xoy){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2uL6xoy"><img alt="Gigabyte GeForce GTX 1060 Windforce OC 3GB" class="img-right img-small" src="/img/gpu/gigabyte1060.png" /></a>
+
+Featuring a custom cooler and a factory overclock, the [Gigabyte GeForce GTX 1060 Windforce OC 3GB](https://amzn.to/2uL6xoy){: target="_blank"} is a fantastic midrange GPU. I love this GPU so much, I chose it for my gaming PC build.
+
+It's affordable, and holds its own in 1080p. I'm not able to play every game with ultra settings, but I do enjoy 60FPS in most games with medium-high settings. 
+
+I like to play Fortnite, PUBG, Battlefield, The Witcher 3, Assassin's Creed, Rust, GTA, etc. My GTX 1060 3GB handles all of these games well in 1080p. It's a good card for those on a [$600](/budget-pcs/600/) budget.
+
+The card has a core clock of 1556MHz, but it can be overclocked to 1582MHz by setting the card to its OC mode in Gigabyte's Xtreme Engine software. 
+
+The GTX 1060 3GB offers a significant performance bump over the GTX 1050 Ti, while remaining cheaper than the GTX 1060 6GB (the extra memory is quite pricey.)
+
+This card is not designed for 1440p gaming – on the other hand, if 1080p at an affordable price sounds like something that interests you, this is a great option. If you prefer something from AMD in the same price range, check out their [RX 570](https://amzn.to/2NBbur1){: target="_blank"}. 
