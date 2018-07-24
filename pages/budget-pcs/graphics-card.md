@@ -90,3 +90,31 @@ The card has a core clock of 1556MHz, but it can be overclocked to 1582MHz by se
 The GTX 1060 3GB offers a significant performance bump over the GTX 1050 Ti, while remaining cheaper than the GTX 1060 6GB (the extra memory is quite pricey.)
 
 This card is not designed for 1440p gaming – on the other hand, if 1080p at an affordable price sounds like something that interests you, this is a great option. If you prefer something from AMD in the same price range, check out their [RX 570](https://amzn.to/2NBbur1){: target="_blank"}. 
+
+## [Gigabyte AORUS Radeon RX 580 8GB](https://amzn.to/2NHkqLF){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2NHkqLF"><img alt="Gigabyte AORUS Radeon RX 580 8GB" class="img-right img-small" src="/img/gpu/gigabyte-aorus.png" /></a>
+
+The Gigabyte [RX 580 8GB](https://amzn.to/2NHkqLF){: target="_blank"} is faster than the GTX 1060, it's overclocked out of the box, and it has more dedicated VRAM, too. 
+
+The GPU is quiet overall, and the fans turn themselves off automatically when idling. This feature simultaneously saves energy and reduces noise. 
+
+Although it is basically a rebranded RX 480 with the same Ellesmere GPU, it is made on a better 14nm process which allows for superior clock frequencies. The RX 580 is another great card for 1080p gaming, and can even handle 1440p if you turn down the settings. 
+
+The card has four heatpipes that draw in heat from the GPU's core, which help to keep it cool during full load. The cooler handles heat well. 
+
+It was nearly impossible to find one of these cards a few months ago, thanks to cryptocurrency mining. Thankfully, prices have lowered once again – now, this GPU is not only easy to find, but affordable as well. 
+
+## [EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Black Edition 8GB](https://amzn.to/2O6y5gd){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2O6y5gd"><img alt="EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Black Edition 8GB" class="img-right img-small" src="/img/gpu/evga-gtx-1070.jpg" /></a>
+
+The [EVGA GeForce GTX 1070 SC GAMING ACX 3.0 Black Edition 8GB](https://amzn.to/2O6y5gd){: target="_blank"} GPU is a true powerhouse. 
+
+If you want to play all of the newest games in 1080p with ultra settings and respectable framerates, this is the best GPU for the job. It can even handle games in 1440p with respectable framerates. 
+
+Although you may not be able to crank everything up to the max, you'll still enjoy relatively high settings in stunning 1440p resolution. 
+
+Still, this GPU holds its own in both 1440p and 1080p. 
+
+The GPU runs silently while keeping the GPU cool at full load. The price to performance ratio of the GTX 1070 is among the best I've ever seen. It is decently more expensive than a GTX 1070 or an RX 580, but it's well worth the investment. 
+
+Its Pascal GP104 architecture is intriguing, though it is similar to Maxwell. The change to 16nm was a big one, allowing NVIDIA to keep power consumption below 200 watts. Having 8GB of dedicated GDDR5 VRAM is helpful for gaming, especially in 1440p. 
