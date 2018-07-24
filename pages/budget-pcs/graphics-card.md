@@ -61,6 +61,8 @@ Lucky for you, I've compiled this list of the best gaming GPUs, from both team r
 	</tr>
 </table>
 
+## What is a GPU? 
+
 ## [ZOTAC GeForce GTX 1050 Ti Mini 4GB](https://amzn.to/2mAIeFo){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2mAIeFo"><img alt="ZOTAC GeForce GTX 1050 Ti Mini 4GB" class="img-right img-small" src="/img/gpu/zotac-gtx-1050ti.png" /></a>
 
@@ -118,3 +120,20 @@ Still, this GPU holds its own in both 1440p and 1080p.
 The GPU runs silently while keeping the GPU cool at full load. The price to performance ratio of the GTX 1070 is among the best I've ever seen. It is decently more expensive than a GTX 1070 or an RX 580, but it's well worth the investment. 
 
 Its Pascal GP104 architecture is intriguing, though it is similar to Maxwell. The change to 16nm was a big one, allowing NVIDIA to keep power consumption below 200 watts. Having 8GB of dedicated GDDR5 VRAM is helpful for gaming, especially in 1440p. 
+
+## [ASUS GeForce GTX 1080 ROG STRIX 8GB](https://amzn.to/2mCaSFZ){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2mCaSFZ"><img alt="ASUS GeForce GTX 1080 ROG STRIX 8GB" class="img-right img-small" src="/img/gpu/gtx-1080-rogstrix.jpg" /></a>
+
+The [ASUS GeForce GTX 1080 ROG STRIX 8GB](https://amzn.to/2mCaSFZ){: target="_blank"} is an absolute monster. It is definitely overkill for the average PC gamer, but it's a great choice if you want to build an insanely powerful gaming PC. 
+
+This GPU can handle practically anything you throw at it, even in 1440p or ultra HD (4K). Despite its incredible performance, the GPU doesn't consume much power. It features customizable RGB lighting which is always cool, and new NVIDIA technologies including Ansel, FastSync, HEVC Video, and VR. 
+
+The card ships overclocked to a base of 1785MHz, and can achieve 1998MHz with NVIDIA's Boost 3.0 technology. ASUS's new heatsink does does a good job, keeping the card below 70 degrees celcius even during intense gaming. 
+
+The $600+ price of this card is high, especially compared to other cards on the list. On the other hand, this card is quiet, power efficient, and lastly, able to game in 1440p and 4K resolutions without difficulty. The ASUS STRIX should be an easy choice for anyone looking for an enthusiast GPU. 
+
+## Choose the Best Gaming GPU 
+
+## How to Install a GPU 
+
+## Conclusion 
