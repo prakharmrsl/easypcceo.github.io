@@ -63,6 +63,18 @@ Lucky for you, I've compiled this list of the best gaming GPUs, from both team r
 
 ## What is a GPU? 
 
+A Graphics Processing Unit (GPU) handles all 3D rendering when you're gaming. If you're thinking about building a gaming PC, the GPU is the most important component to consider. 
+
+According to [PC Mag](https://www.pcmag.com/encyclopedia/term/43886/gpu){: target="_blank"}:
+
+<blockquote source="https://www.pcmag.com/encyclopedia/term/43886/gpu">
+<p>(Graphics Processing Unit) A programmable logic chip (processor) specialized for display functions. The GPU renders images, animations and video for the computer's screen. GPUs are located on plug-in cards, in a chipset on the motherboard or in the same chip as the CPU</p>
+</blockquote>
+
+I'll try to sum things up: 
+
+If you're building a gaming PC, make sure you buy a great GPU! Otherwise, you won't be able to run the games you want to play, and you'll have terrible PC gaming experience. 
+
 ## [ZOTAC GeForce GTX 1050 Ti Mini 4GB](https://amzn.to/2mAIeFo){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2mAIeFo"><img alt="ZOTAC GeForce GTX 1050 Ti Mini 4GB" class="img-right img-small" src="/img/gpu/zotac-gtx-1050ti.png" /></a>
 
@@ -132,8 +144,30 @@ The card ships overclocked to a base of 1785MHz, and can achieve 1998MHz with NV
 
 The $600+ price of this card is high, especially compared to other cards on the list. On the other hand, this card is quiet, power efficient, and lastly, able to game in 1440p and 4K resolutions without difficulty. The ASUS STRIX should be an easy choice for anyone looking for an enthusiast GPU. 
 
+## Gaming CPU vs. Gaming GPU
+
+Doesn't a fast processor equate to great gaming performance?
+
+Not quite. 
+
+Some first time builders mistakenly believe the processor (CPU) is the most important component for gaming. This is probably due to companies like AMD and Intel advertising their processors as gaming CPUs. 
+
+If you spent the majority of your budget on an i7 CPU and bought a low-end GPU or skipped it altogether and thought you'd be good to go, you were sorely mistaken. 
+
+Don't get me wrong, you need a decent processor for gaming – but that doesn't mean you should spend your entire budget on one. Actually, it would be smart to do the contrary. 
+
+I'd get the best GPU you can that's within your budget, and then buy a CPU that is fast enough to keep up without bottlenecking. 
+
+Pairing a Ryzen 3 1200 with a GTX 1060 is smarter than pairing an Intel i7 with a GTX 1050, for example. 
+
+Focus on the GPU first, and worry about the CPU later. 
+
 ## Choose the Best Gaming GPU 
 
 ## How to Install a GPU 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nyDxrTHDjXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 ## Conclusion 
