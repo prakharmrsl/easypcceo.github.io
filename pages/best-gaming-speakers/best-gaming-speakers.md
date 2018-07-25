@@ -307,6 +307,28 @@ In addition, you'll need to check your PC to ensure it can even handle the speak
 
 Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
 
+## Frequently Asked Questions 
+
+I've added this section to answer some of the most frequently asked questions I receive about gaming speakers.
+
+**Can I use gaming speakers for music?** Although this one seem's pretty self-explanatory, I still get this question a lot. The answer is yes, of course you can! If you're looking for the best speakers for both gaming and music, go for a set with good bass. 
+
+**What should my budget be for a set of gaming speakers?** It really depends on the sound quality you're looking for. I wouldn't buy a set of $20 speakers for a home theater, and I wouldn't buy a set of $1,000 speakers for casual gaming. If you're looking for a pair of decent speakers, expect to drop at least a few hundred dollars. 
+
+**What is the best gaming speaker brand?** You can't go wrong with Razer or BOSE, but it is a matter of personal preference. 
+
+**Should I buy a dedicated subwoofer?** If you're serious about your bass, I'd recommend buying an aftermarket subwoofer and amplifier. 
+
+**Gaming speakers or headphones?** I prefer a gaming headset, because I think they are more convenient. I love my Razer headset – it has surround sound, and a good microphone. However, I also have a set of gaming speakers, because I like to watch movies from my bed, and I don't want to use a headset for that. Additionally, gaming speakers are great when you have friends over. 
+
+**How do I set up my gaming speakers?** I get this question a lot, and my answer is always the same: read your speakers' manual! Every set of gaming speakers, although similar, has a different setup process. You can check the speakers' manual, or watch the installation process on YouTube. 
+
+## Conclusion 
+
+A great set of gaming speakers is the perfect addition for your next gaming setup. 
+
+Buying speakers with immersive surround sound, deep bass and fantastic treble will take your gaming sound to the next level!
+
 <ul id="markdown-toc">
   <li><a href="#a-closer-look-4-best-pc-gaming-speakers" id="markdown-toc-a-closer-look-4-best-pc-gaming-speakers">A Closer Look: 4 Best PC Gaming Speakers</a></li>
   <li><a href="#top-8-pc-compatible-gaming-speakers" id="markdown-toc-top-8-pc-compatible-gaming-speakers">Top 8 PC Compatible Gaming Speakers</a></li>
