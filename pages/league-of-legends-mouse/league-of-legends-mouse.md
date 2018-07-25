@@ -164,4 +164,3 @@ It is also extremely lightweight, weighing in at just 107 grams. Overall, it's e
 
 ## Conclusion
 
-
