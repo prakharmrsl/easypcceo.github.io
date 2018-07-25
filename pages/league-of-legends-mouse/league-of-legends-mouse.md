@@ -166,5 +166,24 @@ It is also extremely lightweight, weighing in at just 107 grams. Overall, it's e
 
 ## Types of Mouse Grips
 
+**Palm Grip:** The palm grip is probably the most popular grip style, because it feels relaxed and natural. Bigger mice are ideal for the palm grip, especially those with a steeper back arch for hand support. 
+
+Mice that are suited for the palm grip usually suffer from mobility and agility issues, and are often times ill suited for games that demand many rapid mouse movements. 
+
+The palm grip is ergonomic and comfortable, but is the least accurate. If you're an FPS or MOBA gamer, this grip may not be the best for you. 
+
+**Claw Grip:**
+
+
+
+**Tip Grip:** 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KwZrJW-t-c0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Conclusion
+
+* TOC 
+{: toc}
 
