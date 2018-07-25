@@ -66,7 +66,7 @@ If you’re a competitive LOL player and you want to wield the best MOBA gaming 
 
 The [Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse](https://amzn.to/2A8rzT0){: target="_blank"} is suited for right-handed gamers, and it is compatible with every mouse grip style. 
 
-The mouse has six programmable macro buttons – moreover, it has pinky and ring finger support, which helps to prevent hand crams even after hours of gaming. 
+The mouse has six programmable macro buttons – moreover, it has pinky and ring finger support, which helps to prevent hand cramps even after hours of gaming. 
 
 The Mionix Castor comes in multiple colors which are highly customizable (over 16.8 million options). 
 
@@ -76,7 +76,7 @@ The answer is yes.
 
 The mouse ships with a 5,000DPI sensor. The cursor was responsive, and my mouse movements were smooth. Additionally, its ergonomic design keeps my hand comfortable, even after hours of use. 
 
-The mouse is especially well suited for League because of it has six programmable buttons. If you’re playing LOL competitively, programmable buttons are important. 
+The mouse is especially well suited for League because of its six programmable buttons. If you’re playing LOL competitively, programmable buttons are important. 
 
 <div class="button-wrapper">
 	<a class="btn-middle" href="https://amzn.to/2A8rzT0">Check Price on Amazon</a>
@@ -89,7 +89,7 @@ The Razer DeathAdder Elite came out during DeathAdder’s 10th anniversary back 
 
 It is a wired mouse, with a maximum DPI of 16,000 and a max polling rate of 1000Hz – evidently, the mouse’s specifications are impressive. During my tests, I thoroughly enjoyed using the mouse.
 
-So much so, that I decided to use it in my PC gaming setup. I’ve been using the DeathAdder Elite for several years, without any complaints!
+So much so, in fact, I decided to use it in my PC gaming setup. I’ve been using the DeathAdder Elite for several years, without any complaints!
 
 Although the Elite has a similar design to other DeathAdder models, it features several additional programmable buttons, which are great for League of Legends. There is a sleek curve to both sides of the mouse, making it perfect for a palm style grip. 
 
@@ -156,7 +156,7 @@ It has a metal scroll wheel that can click and spin freely for 15 seconds. The s
 
 It is more expensive than most wired gaming mice, but it's a price you'll have to pay for a good wireless mouse. 
 
-The mouse is ambidextrous, so both right handed and left handed users can use it. The mouse
+The mouse is ambidextrous, so both right handed and left handed users can use it. 
 
 It is also extremely lightweight, weighing in at just 107 grams. Overall, it's easily one of the best wireless gaming mice on the market today. 
 
