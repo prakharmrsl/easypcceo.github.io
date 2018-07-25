@@ -160,6 +160,10 @@ The mouse is ambidextrous, so both right handed and left handed users can use it
 
 It is also extremely lightweight, weighing in at just 107 grams. Overall, it's easily one of the best wireless gaming mice on the market today. 
 
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2LLw87c">Check Price on Amazon</a>
+</div>
+
 ## Types of Mouse Grips
 
 ## Conclusion
