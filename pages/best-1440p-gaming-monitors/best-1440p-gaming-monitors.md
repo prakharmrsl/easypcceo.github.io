@@ -447,6 +447,22 @@ This question is a bit broad. It depends on what kind of games you're playing. I
 
 In general, I'd say anything below 6 ms is acceptable. Anything higher is a bit too much for gaming. Ideally, 5 ms or lower is the best. If you're a competitive gamer, you need every edge you can get to win. You should look for a monitor with a 1 ms response time. 
 
+## 1440p Gaming Monitor FAQ (Frequently Asked Questions)
+
+I get a lot of questions about 1440p gaming, so I decided to make this FAQ section in an effort to answer the most common ones! 
+
+**Is 1440p gaming worth the money?** While this is just my opinion, I believe it is. If you'd asked this question two years ago, I would've told you to stick with 1080p gaming. However, things have changed. It's becoming both more affordable and convenient to game in 1080p. If you've never laid your eyes on a 1440p gaming monitor, you don't understand how much better looking a 1440p display is, as opposed to a 1080p display. 
+
+**What hardware do I need to game in 1440p?** Unfortunately, if your budget is less than $700, you're better off sticking to 1080p gaming. In order to game in 1440p with a decent framerate and graphical settings, you're going to want at least an RX 580 8GB, although I'd recommend the GTX 1070. As far as the CPU is concerned, go for a Ryzen 5 1400 or an Intel Core i5. Lastly, you're going to want *at least* 8GB of RAM, although 16GB is optimal. 
+
+**Do I need a special HDMI cable for 1440p?** Check your cable's specifications to see what it supports. Different cables have better graphical quality than others (VGA, DVI, HDMI, etc.)
+
+**Does resolution affect framerate?** Yes, as you increase resolution, your GPU has to work harder to render more pixels. If you have a powerful GPU like a GTX 1070, framerate shouldn't be an issue. 
+
+**What's better, 1080p with high settings or 1440p with low settings?** In my experience, it depends on the game, but in general I'd say I prefer 1440p over 1080p no matter the settings. 
+
+**What refresh rate should I look for?** This is an often debated topic. If you buy a 60Hz monitor and you're getting 100FPS, your eye will only see 60FPS. However, even if you had a 144Hz monitor, your eye is not capable of seeing 144 frames per second. Most movies are 30 FPS or less. Although, when you're playing you can feel the movements, so more FPS is better. My monitor is 60Hz and I don't have any complaints. In all honesty, a 60Hz monitor is probably fine unless you're an extremely competitive gamer. 
+
 * TOC
 {:toc}
 
