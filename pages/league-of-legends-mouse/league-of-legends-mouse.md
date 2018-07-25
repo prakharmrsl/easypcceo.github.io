@@ -144,7 +144,21 @@ A true MOBA mouse for League should have plenty of programmable buttons. This mo
 </div>
 
 ## [Best Wireless Mouse for League of Legends: Logitech G903](https://amzn.to/2LLw87c){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2LLw87c"><img class="table-image" alt="Logitech G903" src="/img/lol-gaming-mouse/logitech-g903.png" /></a>
+<a target="_blank" href="https://amzn.to/2LLw87c"><img class="img-small img-right" alt="Logitech G903" src="/img/lol-gaming-mouse/logitech-g903.png" /></a>
+
+If you don't want to deal with a corded gaming mouse, I'd highly recommend the [Logitech G903](https://amzn.to/2LLw87c){: target="_blank"}. It's a wireless mouse that uses the PMW3366 optical sensor, with a maximum DPI of 12,000.
+
+Unlike a wired mouse, you'll have to replace the battery every so often (about every 32 hours, without RGB lighting.) 
+
+It has 11 programmable buttons, which is perfect for a MOBA like League of Legends. It's one of the most ergonomic mice I've ever used, and has an amazing 'click feel.' The clicks sound crisp, too. 
+
+It has a metal scroll wheel that can click and spin freely for 15 seconds. The scroll is also notched, which is good for switching weapons in FPS shooters. 
+
+It is more expensive than most wired gaming mice, but it's a price you'll have to pay for a good wireless mouse. 
+
+The mouse is ambidextrous, so both right handed and left handed users can use it. The mouse
+
+It is also extremely lightweight, weighing in at just 107 grams. Overall, it's easily one of the best wireless gaming mice on the market today. 
 
 ## Types of Mouse Grips
 
