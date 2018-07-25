@@ -153,7 +153,7 @@ The speakers have a built-in amplifier, eliminating the need for an aftermarket 
 		<td>5/5</td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2LrKn4m"><img class="table-image" src="/img/gaming-speakers/razer-l.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2LrKn4m"><img class="table-image" src="/img/gaming-speakers/razer-leviathan.jpg" /></a></td>
 		<td><a target="_blank" href="https://amzn.to/2LrKn4m">Razer Leviathan Elite Gaming and Music Sound Bar</a></td>
 		<td>1 Soundbar, 1 Subwoofer</td>
 		<td>4/5</td>
