@@ -5,7 +5,7 @@ layout: page
 seotitle: "15 Best Gaming Speakers 2018 (Unmatched Sound Quality)" 
 --- 
 <h3 class="page-subtitle">
-	Updated April 23, 2018 by 
+	Updated July 25th, 2018 by 
 	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
