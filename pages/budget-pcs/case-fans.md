@@ -74,7 +74,7 @@ Your computer's motherboard utilizes the F12's PWM function to run the fan at th
 
 The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust). 
 
-The fan housing is actually two seperate sections, connected together with rubber grommets to help suppress the noise from vibrations. 
+The fan housing is actually two separate sections, connected together with rubber grommets to help suppress the noise from vibrations. 
 
 *What's the bottom line here?*
 
@@ -87,7 +87,7 @@ If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a grea
 
 The blades spin from 800 to 2,000 [RPM](https://www.quora.com/What-does-%E2%80%98fan-RPM%E2%80%99-mean){: target="_blank"}, thanks to the fan's high performance motor. The fan's blades generate  up to 95 CFM airflow. 
 
-Cooler Master's self-lubricating polyoxymethelene (POM) bearing gives this fan a lifespan of around 160,000 hours. You're definitely getting your money's worth out of this purchase. 
+Cooler Master's self-lubricating polyoxymethylene (POM) bearing gives this fan a lifespan of around 160,000 hours. You're definitely getting your money's worth out of this purchase. 
 
 You can choose from red, white, blue, and non-LED fans to match your PC's color scheme. Overall, this fan is delivering performance, style, and superb airflow, all for a low price. 
 
@@ -106,12 +106,12 @@ The NF-F12 uses Noctua's brand new SSO2 bearing. The rear magnet has been moved 
 
 The bearing shell of the fan is constructed entirely with brass – this fan is built to last. 
 
-Despite this fan's affordable price, it is one of Noctua's high performance fans, guarunteed to deliver fantastic airflow without making a lot of noise.
+Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
 
 ## [Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ufREJM"><img class="img-right img-small" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a>
 
-**4.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's life span, and helping its performance overall. 
+**4.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's lifespan, and helping its performance overall. 
 
 Its custom rotor design provides a balance between high airflow and static pressure. You can control the fan's speed, all the way up to 2,400 RPM. In addition, the colors of the fan are entirely customizable. 
 
@@ -157,11 +157,11 @@ As far as noise goes, the fan is very quiet. At its lowest speed it will only em
 
 **1.** If you're searching for a case fan that is capable of cooling even the hottest computers, look no further. If I had to describe the [NZXT FN V2 case fan](https://amzn.to/2u9tLEF){: target="_blank"} with one word, it would be performance. 
 
-The fan is rated at 50 CFM, and can spin at a rate of 1,000 RPM. The fan is quiet, only emiting 21 dBa. It comes in black and white. 
+The fan is rated at 50 CFM, and can spin at a rate of 1,000 RPM. The fan is quiet, only emitting 21 dBa. It comes in black and white. 
 
 The fan ships with sleeved cables and anti-vibration pads to increase performance and minimize noise during operation. 
 
-The fan is designed to last for a long time – actually, NZXT insures your purchase with a two-year warranty. 
+The fan is designed to last for a long time – actually, NZXT ensures your purchase with a two-year warranty. 
 
 Despite being a 140mm fan, the FN V2 is incredibly light, weighing in at 5.1 ounces. 
 
@@ -172,18 +172,18 @@ For a mere $12, you can't beat the price/performance of this 140mm case fan.
 
 **2.** The [Corsair Air Series AF140 case fan](https://amzn.to/2ubsRaq){: target="_blank"} really packs a punch for less than $15. 
 
-Spinning at 1200 RPM and only emiting 25.5 dBa, the AF140 is capable of regulating your PC's internal temperature without making too much noise. 
+Spinning at 1200 RPM and only emitting 25.5 dBa, the AF140 is capable of regulating your PC's internal temperature without making too much noise. 
 
-It's rated at 66.4 CFM, and Corsair recommends at least 3cm of clearance between the fan and anything else inside your case to insure the best possible airflow. 
+It's rated at 66.4 CFM, and Corsair recommends at least 3cm of clearance between the fan and anything else inside your case to ensure the best possible airflow. 
 
 The fan features LED lighting, and a variety of colors to choose from, including red, blue, white, and purple. The fan's blades are translucent and frosted, which creates a cool effect when the LEDs are turned on and the fan is spinning. 
 
-The AF140 is an ultra-thin, powerful, good looking and cheap 140mm case fan. It's a yes from me! 
+The AF140 is an ultra-thin, powerful, good-looking and cheap 140mm case fan. It's a yes from me! 
 
 ## [Corsair ML140 Pro LED Case Fan](https://amzn.to/2J8xRBj){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2J8xRBj"><img class="img-small img-right" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a>
 
-**3.** The [Corsair ML140 Pro LED case fan](https://amzn.to/2J8xRBj){: target="_blank"} has custom LEDs mounted to the center harness of the fan that give off extremely vibrant colors. You can choose from white, blue or red LEDs. 
+**3.** The [Corsair ML140 Pro LED case fan](https://amzn.to/2J8xRBj){: target="_blank"} has custom LEDs mounted to the center harness of the fan that gives off extremely vibrant colors. You can choose from white, blue or red LEDs. 
 
 Anti-vibration pads keep the fan quiet, even at top speed (1200 RPM). 
 
@@ -203,7 +203,7 @@ Before you buy your next set of case fans, it's important to consider the follow
 
 * **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
 
-* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accomodate all of your fans. 
+* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accommodate all of your fans. 
 
 * **Cosmetics** – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
 
@@ -225,13 +225,13 @@ If you want, choose fans that come with LEDs, as that's really the only differen
 
 Case fans are important because the components inside your PC generate *a lot* of heat. If you didn't have a CPU cooler on your CPU, for example, you could fry an egg on top of it. Seriously, look it up. 
 
-If your components get too hot, it can damage them and shorten their life span. You'll run into problems with your components malfunctioning if they get too hot. 
+If your components get too hot, it can damage them and shorten their lifespan. You'll run into problems with your components malfunctioning if they get too hot. 
 
 Most components are programmed to automatically shut down if they get too hot to avoid damage. So, either your PC will turn off over and over, or your components will be damaged. 
 
 CPUs and GPUs run especially hot – it is crucial that your PC draws in cool air and expels the warm air. 
 
-An efficient cooling system can increase performance and the lifespan of your computer.
+An efficient cooling system can increase the performance and the lifespan of your computer.
 
 ## 120mm Case Fans vs. 140mm Case Fans 
 

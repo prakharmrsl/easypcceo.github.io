@@ -182,7 +182,7 @@ As far as functionality is concerned, you won't have any issues with this mouse.
 
 The mouse is incredibly responsive. Razer boasts a lightning fast response time of just 1ms. There's an on-the-fly DPI adjustment button on the mouse, in addition to five independently programmable macros in total. 
 
-Designed just like the standard right handed mouse, the mouse features are mirrored to accomodate left handed gamers. 
+Designed just like the standard right handed mouse, the mouse features are mirrored to accommodate left handed gamers. 
 
 This mouse is strictly [wired](https://rantopadusa.com/blogs/news/113955588-wired-vs-wireless-peripherals-which-is-better-for-gaming){: target="_blank"}, something that's not an issue for me. However, if you're determined to buy a wireless gaming mouse, this isn't the one for you. But like I said, the wire has never been an issue for me. 
 
@@ -191,7 +191,7 @@ Overall, I'd highly recommend this mouse.
 ## BenQ ZOWIE FK1 Ambidextrous Gaming Mouse - $60
 <a target="_blank" href="https://amzn.to/2u6JuEc"><img alt="benq zowie fk1 ambidextrous gaming mouse" class="img-right img-small" src="/img/left-handed-gaming-mouse/benq-zowie-fk1.png" /></a>
 
-This mouse was designed specifically with FPS gamersi n mind. The Zowie FK1 is one of the most widely used mice by professional CS:GO players. 
+This mouse was designed specifically with FPS gamers in mind. The Zowie FK1 is one of the most widely used mice by professional CS:GO players. 
 
 At first glance, the mouse is simple – the mouse really shines when you put it in your hand. The FK1 fits like a glove. 
 
@@ -217,7 +217,7 @@ The Kana is an accurate, smooth mouse. For the price, the Kana is a great mouse 
 
 The [Roccat Lua Tri-Button mouse](https://amzn.to/2MZCJLw){: target="_blank"} is a comfortable, ambidextrous gaming mouse. Its lightweight design makes it easy to use, and textured side grips are also a nice touch. 
 
-You can tweak button height, weight, center of gravity, and any of the 10 to 20 macro buttons. I was surprised by the mouse's relatively low price tag because of the mouse's build quality and versatility. 
+You can tweak button height, weight, the center of gravity, and any of the 10 to 20 macro buttons. I was surprised by the mouse's relatively low price tag because of the mouse's build quality and versatility. 
 
 This mouse is simple and straightforward, unlike MMO mice that cram in as many buttons as they possibly can. The mouse is plug and play with both Mac and PC, but you can customize the mouse with Roccat's software that you can find on their website. 
 
