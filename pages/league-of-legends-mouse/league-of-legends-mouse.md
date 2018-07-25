@@ -43,7 +43,7 @@ If you’re a competitive LOL player and you want to wield the best MOBA gaming 
 	</tr>
 	<tr>
 		<td>Razer Naga Hex V2</td>
-		<td><a target="_blank" href="https://amzn.to/2JWNgVN"><img class="table-image" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JWNgVN"><img class="table-image" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2.jpg" /></a></td>
 		<td>$70</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2JWNgVN">Shop on Amazon</a></td>
 	</tr>
@@ -104,7 +104,7 @@ This mouse is great for League of Legends, but it can also be employed for use i
 </div>
 
 ## [Best Razer Mouse for League of Legends: Razer Naga Hex V2](https://amzn.to/2JWNgVN){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2JWNgVN"><img class="img-right img-small" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2" /></a>
+<a target="_blank" href="https://amzn.to/2JWNgVN"><img class="img-right img-small" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2.jpg" /></a>
 
 The Razer Naga Hex V2 is the second version of the Naga Hex. It utilizes a laser sensor and a wired connection to minimize input delay. This 1000Hz mouse has a maximum DPI of 16,000. 
 
@@ -143,8 +143,7 @@ A true MOBA mouse for League should have plenty of programmable buttons. This mo
 	<a class="btn-middle" href="https://amzn.to/2AbiwAT">Check Price on Amazon</a>
 </div>
 
-## [Best Wireless Mouse for League of Legends: Logitech G903](https://amzn.to/2LLw87c){: target="_blank"
-}
+## [Best Wireless Mouse for League of Legends: Logitech G903](https://amzn.to/2LLw87c){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2LLw87c"><img class="table-image" alt="Logitech G903" src="/img/lol-gaming-mouse/logitech-g903.png" /></a>
 
 ## Types of Mouse Grips
