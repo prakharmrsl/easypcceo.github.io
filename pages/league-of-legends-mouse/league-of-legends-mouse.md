@@ -172,17 +172,27 @@ Mice that are suited for the palm grip usually suffer from mobility and agility 
 
 The palm grip is ergonomic and comfortable, but is the least accurate. If you're an FPS or MOBA gamer, this grip may not be the best for you. 
 
-**Claw Grip:**
+**Claw Grip:** The claw grip is popular among RTS and FPS gamers. This style of grip may seem awkward, but it allows for incredibly precise mouse movements. 
 
+In games that require an incredibly high level of accuracy, this grip is ideal. The hand is arched up with less contact points on the mouse, forming a claw shape. 
 
+Mice made for the claw grip are usually smaller, lighter, and agile. In addition, you'll want a higher sensitivity for this grip style. 
 
-**Tip Grip:** 
+**Fingertip Grip:** This grip is the least common of the three. In order to perform the fingertip grip, the only contact points on the mouse are your fingertips. 
+
+You use the tips of your fingers to direct the motion of the mouse's rapid movements. Short, light, and agile mice are best suited for this type of grip.
+
+The fingertip grip is designed for speed. You're definitely going to want to turn up your sensitivity for this grip style.
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KwZrJW-t-c0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 ## Conclusion
+
+League of Legends is one of the most popular games in the world. If you're taking it seriously, you need a mouse that's light, agile, responsive, accurate, and comfortable.
+
+In addition, having plenty of programmable macro buttons at your fingertips is helpful, too. Make sure your mouse of choice meets the above criteria before you spend your hard-earned money!
 
 * TOC 
 {: toc}
