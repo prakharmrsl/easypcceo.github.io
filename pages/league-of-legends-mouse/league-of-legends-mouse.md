@@ -1,276 +1,154 @@
 ---
-title: "Best Gaming Tablets Money Can Buy in 2018"
-permalink: "/gaming-tablet/"
+title: "The Best Mice for League of Legends in 2018"
+permalink: "/league-of-legends-mouse/"
 layout: page
-seotitle: "5 Best Gaming Tablets in 2018 (Android & iOS)" 
+seotitle: "5 Best Mouse for League of Legends 2018 (Comparison)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 21st, 2018 by 
+	Updated July 24th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
-<img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.png" />
+If you’re a competitive PC gamer, you need a good gaming mouse. 
 
-If you're anything like me, you *love* playing video games. Unfortunately, it's a bit hard to drag your gaming PC around with you everywhere you go. 
+Just think about it: 
 
-That's where gaming tablets come in. Although there aren't too many gaming tablets on the market, I hand picked three that are excellent for gaming on the go. 
+If you’re playing against people with better PC gaming hardware than you, you’re already at a disadvantage. 
 
-The best part is, they're capable of much more than gaming. 
+That’s why I made this guide. I am highlighting the best gaming mice – more specifically, the best mouse for League of Legends. I'll be providing you with five different mouse options, so you can choose the one that's best for you.
 
-You'll be able to enjoy all of the benefits a tablet has to offer, in addition to fantastic gameplay. 
+If you’re a competitive LOL player and you want to wield the best MOBA gaming mouse on the market, you’ve come to the right place!
 
-So, what are you waiting for? Keep reading to discover which gaming tablet is best for you!
+## Best Mice for League of Legends
 
-## Best Gaming Tablets
-
-<table class="basic-table">
+<table>
 	<tr>
+		<th>Mouse</th>
 		<th>IMG</th>
-		<th>Tablet</th>
-		<th>Benefits</th>
 		<th>Price</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2uCTRjD"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/google-pixel-c.png" /></a></td>
-		<td>Google Pixel C</td>
-		<td class="components">
-			<ul>
-				<li>High resolution display</li>
-				<li>Good battery</li>
-			</ul>
-		</td>
-		<td>$1,500</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2uCTRjD">Best Deal on Amazon</a></td>
+		<td>Mionix Castor Ergonomic Optical Gaming Mouse</td>
+		<td><a target="_blank" href="https://amzn.to/2A8rzT0"><img class="table-image" alt="Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse" src="/img/lol-gaming-mouse/mionix-castor.jpg" /></a></td>
+		<td>$25</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2A8rzT0">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2LumcC4"><img class="table-image" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a></td>
-		<td>Apple iPad Pro</td>
-		<td class="components">
-			<ul>
-				<li>Retina display</li>
-				<li>Powerful CPU</li>
-			</ul>
-		</td>
-		<td>$600</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LumcC4">Best Deal on Amazon</a></td>
+		<td>Razer DeathAdder Elite</td>
+		<td><a target="_blank" href="https://amzn.to/2uQ8r7n"><img class="table-image" alt="Razer Deathadder Elite" src="/img/lol-gaming-mouse/razer-deathadder-elite.jpg" /></a></td>
+		<td>$50</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2uQ8r7n">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2O7h05B"><img class="table-image" alt="Apple iPad Pro" src="/img/gaming-tablet/nvidia-k1-tablet.png" /></a></td>
-		<td>NVIDIA Shield K1</td>
-		<td class="components">
-			<ul>
-				<li>Powerful GPU</li>
-				<li>Durable construction</li>
-			</ul>
-		</td>
-		<td>$400</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2O7h05B">Best Deal on Amazon</a></td>
+		<td>Razer Naga Hex V2</td>
+		<td><a target="_blank" href="https://amzn.to/2JWNgVN"><img class="table-image" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2" /></a></td>
+		<td>$70</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2JWNgVN">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2uQFo2E"><img class="table-image" alt="Microsoft Surface Pro 4" src="/img/gaming-tablet/microsoft-surface-pro4.jpg" /></a></td>
-		<td>Microsoft Surface Pro 4</td>
-		<td class="components">
-			<ul>
-				<li>Responsive display</li>
-				<li>USB 3.0 Port</li>
-			</ul>
-		</td>
-		<td>$1,125</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2uQFo2E">Best Deal on Amazon</a></td>
+		<td>BenQ ZOWIE FK1 E-Sports Ambidextrous Gaming Mouse</td>
+		<td><a target="_blank" href="https://amzn.to/2AbiwAT"><img class="table-image" alt="BenQ ZOWIE FK1 E-Sports Ambidextrous Gaming Mouse" src="/img/lol-gaming-mouse/zowie-fk1.jpg" /></a></td>
+		<td>$60</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2AbiwAT">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2LBwUDP"><img class="table-image" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.jpg" /></a></td>
-		<td>Samsung Galaxy Tab S3</td>
-		<td class="components">
-			<ul>
-				<li>Good all around tablet</li>
-				<li>Ergonomic</li>
-			</ul>
-		</td>
-		<td>$445</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LBwUDP">Best Deal on Amazon</a></td>
+		<td>Logitech G903</td>
+		<td><a target="_blank" href="https://amzn.to/2LLw87c"><img class="table-image" alt="Logitech G903" src="/img/lol-gaming-mouse/logitech-g903.png" /></a></td>
+		<td>$115</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2LLw87c">Shop on Amazon</a></td>
 	</tr>
 </table>
 
-## [Best HD Touchscreen Tablet: Google Pixel C 10.2-in HD 64GB Tablet](https://amzn.to/2uCTRjD){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2uCTRjD"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/google-pixel-c.png" /></a>
+## [Cheap Mouse for League of Legends: Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse](https://amzn.to/2A8rzT0){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2A8rzT0"><img class="img-right img-small" alt="Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse" src="/img/lol-gaming-mouse/mionix-castor.jpg" /></a>
 
-The [Google Pixel C](https://amzn.to/2uCTRjD){: target="_blank"} is a 10.2-inch Android tablet, equipped with a 2560 x 1800 display. 
+The [Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse](https://amzn.to/2A8rzT0){: target="_blank"} is suited for right-handed gamers, and it is compatible with every mouse grip style. 
 
-The device bridges the gap between Google's Chromebooks and Nexus's slates. 
+The mouse has six programmable macro buttons – moreover, it has pinky and ring finger support, which helps to prevent hand crams even after hours of gaming. 
 
-You can purchase a keyboard dock for the tablet, which transforms the Pixel C into a hybrid laptop. 
+The Mionix Castor comes in multiple colors which are highly customizable (over 16.8 million options). 
 
-The device's design is minimalistic, yet elegant. The tablet weighs in at 500g, which is as light as a feather. Unlike other tablets, the Pixel C does not have a physical home button.
+Now onto performance: is the Mionix Castor League of Legends worthy? 
 
-The device has a [Type C USB](https://en.wikipedia.org/wiki/USB-C){: target="_blank"} port, a power/sleep button, and volume rockers on its bezel. 
+The answer is yes.
 
-The Type C port on the tablet can be used to charge other mobile devices. The tablet has impeccable sound quality, thanks to its dual stereo speakers on either side of it. If you want to plug in some headphones, the tablet also has a 3.5mm headphone jack. 
+The mouse ships with a 5,000DPI sensor. The cursor was responsive, and my mouse movements were smooth. Additionally, its ergonomic design keeps my hand comfortable, even after hours of use. 
 
-If you like taking pictures, you'll enjoy the Google Pixel C's 8MP camera. I was pleased with the tablet's camera quality, but I wasn't blown away. 
+The mouse is especially well suited for League because of it has six programmable buttons. If you’re playing LOL competitively, programmable buttons are important. 
 
-The Pixel C has a Tegra X1 64-bit quad-core processor, 3GB of dedicated RAM and a Maxwell [GPU](https://blogs.nvidia.com/blog/2009/12/16/whats-the-difference-between-a-cpu-and-a-gpu/){: target="_blank"}. Games load quickly and gameplay is smooth. Overall, it's a great gaming experience. 
-
-The battery lasts for around 10 hours according to Google, but that is heavily dependent on how much you use the tablet, and what you're doing with it. 
-
-The price of this tablet is obviously its biggest downside. Keep in mind, however, that this tablet is capable of far more than merely gaming. 
-
-Sure, you can game with it – you can also use it as a hybrid laptop with the attachable keyboard. If you have the money to spend, it is well worth the investment. 
-
-**Pros:** 
-
-* High resolution display
-* Great battery life
-* Good audio 
-
-**Cons:**
-
-* Expensive
-* Fragile
-
-## [Best Overall Tablet: Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2LumcC4){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2LumcC4"><img class="img-right img-small" alt="Apple iPad Pro" src="/img/gaming-tablet/apple-ipad-pro.png" /></a>
-
-I decided to include one Apple product on this list in case you prefer iOS devices. 
-
-If you're going to go the [iOS](https://9to5mac.com/2017/04/04/what-does-ios-stand-for/){: target="_blank"} route, the [Apple iPad Pro 10.5-inch 64GB Tablet ](https://amzn.to/2LumcC4){: target="_blank"} is a fantastic choice. Combining the power of the 12.9-inch iPad Pro with the thin frame of the iPad Air, it's especially suited for light gaming.
-
-When this tablet was created, gaming was not on the top of their list of priorities. However, the iPad Pro is more than capable of gaming in high resolution. Moreover, it's a great tablet for doing, well, just about anything you'd do with a tablet. 
-
-Apple devices are well known for their reliability, because Apple optimizes their devices to run perfectly with Apple software. 
-
-In addition, the iPad Pro is equipped with a 2.16 GHz processor and 2GB of RAM – to top that off, the best part of the device is arguably its 264ppi pixel density display.
-
-This tablet also has a fantastic camera. If you're interested in taking high quality pictures, this tablet is fit for the task. 
-
-The iPad Pro is an all around great product, boasting a long lasting battery, beautiful display, great camera, and awesome gaming performance. You can even connect a keyboard to the tablet, transforming it into a makeshift laptop. 
-
-**Pros:** 
-
-* Powerful CPU
-* Good battery life
-* High resolution retina display
-
-**Cons:**
-
-* Price
-
-## [Best Gaming Tablet: NVIDIA Shield K1 8" Tablet](https://amzn.to/2O7h05B){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2O7h05B"><img class="img-right img-small" alt="Apple iPad Pro" src="/img/gaming-tablet/nvidia-k1-tablet.png" /></a>
-
-NVIDIA is a GPU manufacturing company – with that being said, it's safe to say they know how to design a gaming tablet. 
-
-The [NVIDIA Shield K1 8" tablet](https://amzn.to/2zW7MpT){: target="_blank"} was created specifically with gaming in mind. It is one of the best gaming tablets on the market.
-
-Featuring an 8-inch, 1920 x 1080 pixel display, it runs games with stunning visuals. It has speakers on the top and bottom of the tablet, which emit immserive sound.
-
-The tablet also has a 5-megapixel camera – although the K1's camera doesn't rival that of the iPad Pro, it is still decent. Besides, your main concern is probably gaming performance, not photography. 
-
-You can connect the tablet to a TV via the tablet's mini HDMI port. The tablet can be magnetically attached to a folding cover stand. On the right side, you'll find the power button, volume controls, and a microSD slot (with a maximum capacity of 200GB).
-
-The tablet is running the [Android 5.0 Lollipop](https://www.android.com/versions/lollipop-5-0/){: target="_blank"} operating system. The tablet has 16GB of storage out of the box, but you can add a microSD card, as mentioned previously. 
-
-You can opt to subscribe to GeForce Now, NVIDIA's cloud game streaming service. For a monthly fee, you'll be able to play popular PC games on your tablet in 1080p. 
-
-The device is powered by an ARM Cortex A15 CPU, clocking in at 2.2 GHz. It is also sporting NVIDIA's Tegra k1 192-core Kepler GPU and 2GB of dedicated RAM. 
-
-The K1 provides a wonderful balance of price and perforance. I'd highly recommend the NVIDIA Shield K1 to anyone who wants a dedicated gaming tablet that won't break the bank. 
-
-**Pros:**
-
-* Wide variety of games
-* Durable construction
-* Superb performance
-
-**Cons:**
-
-* Speaker location 
-* Expensive 
-
-## [Best Lightweight Gaming Tablet: Microsoft Surface Pro 4](){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2uQFo2E"><img class="img-small img-right" alt="Microsoft Surface Pro 4" src="/img/gaming-tablet/microsoft-surface-pro4.png" /></a>
-
-
-If you're a fan of the Windows operating system, you're looking for a lightweight and portable gaming tablet, the Microsoft Surface Pro 4 is going to be your best bet. 
-
-It is a compact tablet (292 x 201 x 8.4 mm), especially when compared to the other tablets on this list. It has a 12.3-inch LCD [IPS](https://en.wikipedia.org/wiki/IPS_panel){: target="_blank"} screen, with a resolution of 2880 x 1800 pixels. 
-
-You can purchase the tablet in several form factors, with storage space ranging from 128GB to 1TB. You also can choose between a Core M3, i5-6300U or i7-6650U. Lastly, you can choose between 8GB and 16GB of dedicated RAM. 
-
-Microsoft rates this device's battery life at 9 hours, but it really depends on how much you're using the device, and what you're doing with it. For example, snapping photos and playing 3D games will drain the battery far more quickly than listening to music on airplane mode. 
-
-I'd recommend the Core i5-6300U processor with 8GB of RAM and 256GB of storage. It is a powerful configuration that isn't too expensive. 
-
-**Pros:**
-
-* Powerful
-* Long lasting battery
-* Excellent display
-* Responsive 
-* Included smart pen 
-* USB 3.0 port
-
-**Cons:**
-
-* The keyboard for this tablet is subpar
-
-## [Samsung Galaxy Tab S3](https://amzn.to/2LBwUDP){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2LBwUDP"><img class="img-right img-small" alt="Razer Tartarus Chroma Expert RGB Gaming Keypad" src="/img/gaming-tablet/samsung-galaxy-tab-s3.png" /></a>
-
-It is difficult to find a tablet that is both thinner and lighter than the Samsung Tab S3. 
-
-The Samsung Galaxy Tab S3 is the best 10-inch tablet on the market. It looks good, and performs well, too. Samsung's Galaxy line has always been popular. In fact, one might argue Samsung is Apple's biggest rival in the mobile device market (and for good reason, too.)
-
-As long as you take decent care of the device, it'll last you a long time. Samsung constructs their devices with high quality materials, ensuring durable products that will withstand the test of time. 
-
-I found the tablet to be quite comfortable when I was holding it. Moreover, the Tab S3 really held its own in all of my tests. The battery life was impressive – the display was stunning – gameplay was smooth – overall, it was a wonderful experience. 
-
-**Pros:** 
-
-* Amazing design
-* Ergonomic
-* Responsive
-
-**Cons:**
-
-* Price
-
-## How to Buy the Best Gaming Tablet for You
-
-Before you buy your next gaming tablet – or any tablet for that matter – be sure to consider the following: 
-
-**Price:** I know this one is obvious, but I thought I'd include it anyway. Be sure to do your research, so that you purchase the best possible tablet within your budget. Also, remember that saving a bit extra for a premium product is smarter than buying a lower budget tablet that ultimately is not as good. 
-
-**Resolution:** The resolution of your tablet's display (1080p, 720p, etc.) is an important factor to consider as well. This well have a direct impact on the visual quality in-game. Settling for anything less than 720p (1280 x 720 pixels) is a bit absurd nowadays. In fact, I'm not even sure if you could find a gaming tablet on the market that doesn't have an HD display. Ideally, though, you want a tablet with a resolution of at least 1080p (1920 x 1080 pixels.) Apple's tablets, the iPad Pro included, has a retina display, which is well known for its stunning quality. Whatever the case may be, resolution is important. 
-
-**Internal Hardware:** The hardware inside your tablet is going to have the most significant impact on gaming performance. A gaming tablet should have (at least) a quad-core processor, several gigabytes of dedicated RAM, and most importantly of all, a dedicated GPU. The graphics card's primary function is to take care of all of the 3D rendering. **If you want a good gaming tablet, make sure it has a good GPU.** 
-
-**Operating System:** Your device's operating system is incredibly important – if your device is running an OS with poor and outdated drivers, or a limited game selection, you'll surely be disappointed. Apple devices are favorable because Apple optimizes their software to run well with their hardware. On the other hand, Android and Windows softwares are both created, and other hardware companies that manufacture tablets such as Samsung, Razer, NVIDIA, etc. create hardware as best they can that runs the software. This is why Apple devices seem to be more responsive after a longer period of time, as opposed to Android devices. On the flip side, Apple is more restrictive when it comes to what they allow you to do with their software. It's really a matter of personal preference. 
-
-**Screen Size:** Think about how big you want your screen to be. A bigger screen is optimal for gaming. On the other hand, you probably don't want a gigantic tablet, as mobility was the whole point of buying a tablet in the first place. 
-
-**Manufacturer:** Each manufacturer is different. I'm a big fan of Samsung when it comes to mobile devices, but everyone has their own personal preference. If you've never bought a tablet before, you'll probably be happy with a popular manufacturer like Samsung as well. If you already have a preference, stick to your guns! 
-
-**Internet Connectivity:** This one should go without saying. Make sure your tablet has a good WiFi adapter built-in to the device. Otherwise, you'll find yourself with poor connection during gameplay, something nobody wants! 
-
-**Storage:** If you're planning on downloading a plethora of different games, snapping a lot of photos, and downloading songs, you're going to want plenty of storage. I'd go for a minimum of 64GB, although you really can't go wrong with 240GB. If you're planning on connecting a keyboard to your tablet and using it as a hybrid laptop, you may want additional storage. In order to get a better idea of how much storage you need, you can look up file sizes of different games. You should also think about how much storage you use on your phone, because you'll probably end up using the same amount of storage on your tablet. 
-
-**Battery Life:** Nobody likes it when their tablet dies. Make sure you buy a tablet with adequate battery life. In addition, make sure you take care of your device's battery. Wait until your battery is nearly dead before charging, and don't leave your device charging past 100% overnight. Both of these things will shorten your battery's lifespan.  
-
-## Can You Game on a Tablet? 
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLNsatpA_Oo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2A8rzT0">Check Price on Amazon</a>
 </div>
 
-## Conclusion 
+## [Razer DeathAdder Elite](https://amzn.to/2uQ8r7n){: target="_blank"} 
+<a target="_blank" href="https://amzn.to/2uQ8r7n"><img class="img-right img-small" alt="Razer Deathadder Elite" src="/img/lol-gaming-mouse/razer-deathadder-elite.jpg" /></a>
 
-There aren't a whole lot of dedicated gaming tablets on the market, but that doesn't mean you can't find a powerful and mobile gaming device. 
+The Razer DeathAdder Elite came out during DeathAdder’s 10th anniversary back in 2016. 
 
-Ensure your tablet is equipped with a good looking display, a long lasting battery, powerful hardware, and well optimized software. You can't go wrong with one of the tablets listed above. Choose wisely! 
+It is a wired mouse, with a maximum DPI of 16,000 and a max polling rate of 1000Hz – evidently, the mouse’s specifications are impressive. During my tests, I thoroughly enjoyed using the mouse.
+
+So much so, that I decided to use it in my PC gaming setup. I’ve been using the DeathAdder Elite for several years, without any complaints!
+
+Although the Elite has a similar design to other DeathAdder models, it features several additional programmable buttons, which are great for League of Legends. There is a sleek curve to both sides of the mouse, making it perfect for a palm style grip. 
+
+In addition to the programmable buttons on the side of the mouse, the DeathAdder Elite features two additional buttons located right below the scroll wheel. They are discrete but easy to access with your finger during gameplay. 
+
+The DeathAdder Elite contains Razer’s Synapse 2.0 software. The Synapse software is used to manage buttons, button profiles, customize RGB lighting, and manage settings such as the DPI.
+
+This mouse is great for League of Legends, but it can also be employed for use in FPS games, battle royale games, and more. It’s an all-around mouse from a reputable company. 
+
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2uQ8r7n">Check Price on Amazon</a>
+</div>
+
+## [Best Razer Mouse for League of Legends: Razer Naga Hex V2](https://amzn.to/2JWNgVN){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2JWNgVN"><img class="img-right img-small" alt="Razer Naga Hex V2" src="/img/lol-gaming-mouse/razer-naga-hex-v2" /></a>
+
+The Razer Naga Hex V2 is the second version of the Naga Hex. It utilizes a laser sensor and a wired connection to minimize input delay. This 1000Hz mouse has a maximum DPI of 16,000. 
+
+The mouse also has 14 programmable buttons – although this may seem overwhelming, the design of the mouse makes the buttons easy to use. Furthermore, having 14 programmable buttons is ideal for MOBA games such as League of Legends
+
+There are seven buttons by the thumb. On top of the mouse, you have the typical left and right click buttons along with the scroll wheel. There is a DPI button located below the scroll wheel as well. 
+
+While this mouse is not the most aesthetically pleasing, it makes up for it in gameplay. This mouse has a raise on top instead of on the side, along with an elevated palm rest. To my surprise, I found this mouse quite comfortable during gameplay.
+
+The Naga Hex V2 also contains the Synapse Software which can be used to customize your experience.
+
+The lighting in the Hex V2 is also highly customizable. There are three separate zones, all of which can glow in unison, or separated to illuminate three different colors. 
+
+Overall, this mouse is best used best for MOBA gameplay. The buttons on the side can take a little getting used to, but the mouse surely gets the job done after a little bit of adjustment.  
+
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2JWNgVN">Check Price on Amazon</a>
+</div>
+
+## [BenQ ZOWIE FK1 E-Sports Ambidextrous Gaming Mouse](https://amzn.to/2AbiwAT){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2AbiwAT"><img class="img-right img-small" alt="BenQ ZOWIE FK1 E-Sports Ambidextrous Gaming Mouse" src="/img/lol-gaming-mouse/zowie-fk1.jpg" /></a>
+
+The BenQ ZOWIE FK1 has a simple and straightforward design. It is relatively light and uses the Avago 3310 optical sensor. 
+
+It has an adjustable DPI sensor – you can choose from 400, 800, 1600, and  3200 DPI. The mouse is ambidextrous, with thumb buttons on both the left and right side. 
+
+It is a “plug and play” mouse, meaning it doesn’t require any drivers for setup. This is especially good news if you want to hop right into the action!
+
+This mouse has an adjustable USB report rate of 125, 500, and 1000Hz. 
+
+The ZOWIE FK1 is employed not only for League of Legends gamers but professional FPS gamers as well. Counter-Strike: Global Offensive players love this mouse. 
+
+A true MOBA mouse for League should have plenty of programmable buttons. This mouse only has four, but it’s one of the best mice on the market. I’d recommend this mouse to anyone looking to play a mix of League of Legends, and other games too. 
+
+<div class="button-wrapper">
+	<a class="btn-middle" href="https://amzn.to/2AbiwAT">Check Price on Amazon</a>
+</div>
+
+## [Best Wireless Mouse for League of Legends: Logitech G903](https://amzn.to/2LLw87c){: target="_blank"
+}
+<a target="_blank" href="https://amzn.to/2LLw87c"><img class="table-image" alt="Logitech G903" src="/img/lol-gaming-mouse/logitech-g903.png" /></a>
+
+## Types of Mouse Grips
+
+## Conclusion
 
 
-* TOC
-{:toc}
