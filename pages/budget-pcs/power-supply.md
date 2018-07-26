@@ -27,7 +27,6 @@ That's why I've created this list of the best power supplies for gaming in 2018.
 		<th>Power Supply</th>
 		<th>IMG</th>
 		<th>Wattage</th>
-		<th>Buy</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2JV1hmR">Corsair CX450M Semi Modular Power Supply</a></td>
