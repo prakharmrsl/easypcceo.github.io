@@ -108,5 +108,11 @@ Buying a good power supply will provide you with many benefits, including:
 
 ## Conclusion   
 
+If you're building an expensive gaming rig, don't overlook the PSU. 
+
+Buying the right PSU will lower your power bill, future proof your build, and protect your components. 
+
+Before you buy, figure out how many watts your build requires, and go from there!
+
 * TOC
 {:toc}
