@@ -135,6 +135,56 @@ We promise we've got the perfect gaming PC no matter what your budget is!
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
+## Gaming PC Components
+
+<table>
+	<tr>
+		<th>IMG</th>
+		<th>Component</th>
+		<th>Guide</th>
+	</tr>
+	<tr>
+		<td><img alt="processor" class="table-image" src="/img/cpu/ryzen51400.png" /></td>
+		<td>Processor</td>
+		<td><a class="big-button" href="/budget-pcs/processor/">Learn About Processors</a></td>
+	</tr>
+	<tr>
+		<td><img alt="motherboard" class="table-image" src="/img/mobo/ab350-pro4.png" /></td>
+		<td>Motherboard</td>
+		<td><a class="big-button" href="/budget-pcs/motherboard/">Learn About Motherboards</a></td>
+	</tr>
+	<tr>
+		<td><img alt="ram" class="table-image" src="/img/ram/corsair-dominator-platinum.png" /></td>
+		<td>RAM</td>
+		<td><a class="big-button" href="/budget-pcs/ram/">Learn About RAM</a></td>
+	</tr>
+	<tr>
+		<td><img alt="Hard Drive" class="table-image" src="/img/hdd/1tb.png" /></td>
+		<td>Hard Drive</td>
+		<td><a class="big-button" href="/budget-pcs/hard-drive/">Learn About Hard Drives</a></td>
+	</tr>
+	<tr>
+		<td><img alt="Graphics Card" class="table-image" src="/img/gpu/gtx-1060-dual.png" /></td>
+		<td>Graphics Card</td>
+		<td><a class="big-button" href="/budget-pcs/graphics-card/">Learn About Graphics Cards</a></td>
+	</tr>
+	<tr>
+		<td><img alt="power-supply" class="table-image" src="/img/PSU/corsair-cxm-650w.png" /></td>
+		<td>Power Supply</td>
+		<td><a class="big-button" href="/budget-pcs/power-supply">Learn About Power Supplies</a></td>
+	</tr>
+	<tr>
+		<td><img alt="case" class="table-image" src="/img/case/comrade.png" /></td>
+		<td>Case</td>
+		<td><a class="big-button" href="/budget-pcs/smallest-atx-cases/">Learn About Cases</a></td>
+	</tr>
+	<tr>
+		<td><img alt="case fans" class="table-image" src="/img/case-fans/corsair-ml120.png"></td>
+		<td>Case Fans</td>
+		<td><a class="big-button" href="/budget-pcs/case-fans/">Learn About Case Fans</a></td>
+	</tr>
+</table>
+
 ![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
 
 ## The Extreme Budget Gamer ($400) 
