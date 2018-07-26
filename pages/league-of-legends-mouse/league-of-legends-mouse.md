@@ -164,6 +164,20 @@ It is also extremely lightweight, weighing in at just 107 grams. Overall, it's e
 	<a class="btn-middle" href="https://amzn.to/2LLw87c">Check Price on Amazon</a>
 </div>
 
+## Things to Keep in Mind
+
+**Ergonomics:** This is easily one of the most important things to consider if you're buying a gaming mouse. Whether you're playing League of Legends, Counter-Strike: Global Offensive, Battlefield or PUBG, you need a comfortable mouse. If you intend on gaming for hours on end, your hand will cramp if your mouse is not ergonomic. 
+
+**Grip Type:** There are many different grip styles, and each grip has a mouse design best suited for it. For example, a big mouse is best for a palm grip, whereas a smaller and lighter mouse is best suited for a claw grip.
+
+**Sensitivity:** Sensitivity is obviously important, but it is highly dependent on the person and the game you're playing. I prefer a lower sensitivity because I play FPS games like CS:GO. I like being able to track the head of my opponents, and I use a palm grip, so a slower sensitivity works best for me. If you prefer the claw grip or finger tip grip, you'll need a higher sensitivity. With a higher sensitivity, you'll have faster reaction times, and less accuracy. 
+
+**Wireless or Wired:** This one is completely based on personal preference. Each options has its own set of advantages and disadvantages. Wired mice are convenient in that they don't run out of battery and have a fast response time, but you can only use the mouse where the cable can reach, and the wire can become tangled. On the flip side, a wireless mouse is not restricted by a cable, but the batteries can die during gameplay, and response times are generally slower. 
+
+**Programmable Buttons:** Unlike common computer mice, a gaming mouse has additional buttons, usually referred to as macros. Choose a mouse with as many or as little buttons as you need for your preferred genre of game. I'd recommend a mouse with plenty of programmable buttons for League of Legends. 
+
+**Budget:** You'll find mice that vary in price, due to a difference in features, retailers, and performance. Think about what features you want, and the quality you're looking for. Both of these factors will determine how much you should be spending. (By the way, you can't go wrong with any of the mice listed above!)
+
 ## Types of Mouse Grips
 
 **Palm Grip:** The palm grip is probably the most popular grip style, because it feels relaxed and natural. Bigger mice are ideal for the palm grip, especially those with a steeper back arch for hand support. 
@@ -187,6 +201,16 @@ The fingertip grip is designed for speed. You're definitely going to want to tur
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KwZrJW-t-c0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+## Frequently Asked Questions (FAQ)
+
+I've been receiving many of the same questions with regards to LOL gaming mice, so I'm making this section to answer the most common ones I receive. 
+
+**How much should I spend on a mouse for League of Legends?** There is no set amount that you have to spend on a gaming mouse for League of Legends. Of course, if you spend more, odds are you're going to get a product of higher quality. Any of the options on this list are great, so choose the one that is best suited for your needs and budget. 
+
+**How many macros do you need for a League of Legends gaming mouse?** I've only played a few rounds of League myself, so it's safe to say I'm a bit of a noob. However, other serious players that I know have told me they like to have a lot of macros on their mouse. That's why I chose mice with plenty of macros for this list! 
+
+**Should I buy a wired or wireless mouse?** I've been using the Razer DeathAdder for years now, which is a wired mouse. I've never had any issues with it, nor do I desire buying a wireless mouse in the future. I never have to worry about replacing a battery, and the connection from my mouse to my computer is faster than a wireless connection. On the other hand, the difference between a wired/wireless mouse is negligible for the most part, so it comes down to a matter of preference.
 
 ## Conclusion
 
