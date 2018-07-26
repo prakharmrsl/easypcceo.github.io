@@ -28,58 +28,58 @@ With that being said, you really can't go wrong with a sweet 1440p gaming monito
 		<th>Shop</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2zGjIYX"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2LBqBTU"><img class="table-image" src="/img/1440p-monitors/k272.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/acer-k272hul-review/">Acer K272HUL</a></td>
 		<td>27"; IPS; 60 Hz; 1 ms</td>
 		<td>4/5</td>
-		<td><a class="big-button" href="http://amzn.to/2zGjIYX">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2LBqBTU">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2BB6oJ1"><img class="table-image" src="/img/1440p-monitors/pixio.png" /></a></td>
-		<td><a target="_blank" href="http://amzn.to/2BB6oJ1">Pixio PX277</a></td>
+		<td><a target="_blank" href="https://amzn.to/2OlAljU"><img class="table-image" src="/img/1440p-monitors/pixio.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2OlAljU">Pixio PX277</a></td>
 		<td>27"; IPS; 144 Hz; 4 ms</td>
 		<td>4/5</td>
-		<td><a class="big-button" href="http://amzn.to/2BB6oJ1">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2OlAljU">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2AIpdqs"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2AeODzE"><img class="table-image" src="/img/1440p-monitors/zowie.png" /></a></td>
 		<td><a href="/best-1440p-gaming-monitors/benq-zowie-xl2730-review/">BenQ ZOWIE XL2730</a></td>
 		<td>27"; TN; 144Hz; 1ms; FreeSync</td>
 		<td>5/5</td>
-		<td><a class="big-button" href="http://amzn.to/2AIpdqs">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2AeODzE">Check Price</a></td>
 		
 	</tr>	
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2ATaFqs"><img class="table-image" src="/img/1440p-monitors/xg270.png" /></a></td>
-		<td><a target="_blank" href="http://amzn.to/2ATaFqs">Acer XG270HU</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mJkJtD"><img class="table-image" src="/img/1440p-monitors/xg270.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2mJkJtD">Acer XG270HU</a></td>
 		<td>27"; TN; 144Hz ; 6 ms</td>
 		<td>4.5/5</td>
-		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2mJkJtD">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2ncrqYj"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Lr2XdG"><img class="table-image" src="/img/1440p-monitors/1440p.png" /></a></td>
 		<td><a href="#dell-ultrasharp-u2515hx---330">Dell UltraSharp U2515Hx</a></td>
 		<td>25" ; IPS ; 60 Hz ; 6 ms</td>
 		<td>4.5/5</td>
-		<td><a class="big-button" href="http://amzn.to/2ncrqYj">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2Lr2XdG">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2ks9y7n"><img class="table-image" src="/img/1440p-monitors/asus-mg.png" /></a></td>
-		<td><a target="_blank" href="http://amzn.to/2ks9y7n">ASUS MG279Q</a></td>
+		<td><a target="_blank" href="https://amzn.to/2LD6FQC"><img class="table-image" src="/img/1440p-monitors/asus-mg.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2LD6FQC">ASUS MG279Q</a></td>
 		<td>27"; IPS; 144Hz; 4 ms</td>
 		<td>4/5</td>
-		<td><a class="big-button" href="http://amzn.to/2ks9y7n">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2LD6FQC">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://amzn.to/2yMiwRW"><img class="table-image" src="/img/1440p-monitors/samsung.png" /></a></td>
-		<td><a target="_blank" href="http://amzn.to/2yMiwRW">Samsung CF791 Series</a></td>
+		<td><a target="_blank" href="https://amzn.to/2JYNWdd"><img class="table-image" src="/img/1440p-monitors/samsung.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2JYNWdd">Samsung CF791 Series</a></td>
 		<td>34"; VA; 100Hz; 4 ms</td>
 		<td>4.5/5</td>
-		<td><a class="big-button" href="http://amzn.to/2yMiwRW">Check Price</a></td>
+		<td><a class="big-button" href="https://amzn.to/2JYNWdd">Check Price</a></td>
 	</tr>
 </table>
 
-## [Acer K272HUL](http://amzn.to/2zGjIYX){:target="_blank"} - $262
+## [Acer K272HUL](https://amzn.to/2LBqBTU){:target="_blank"} - $262
 ![Acer K272HUL](/img/1440p-monitors/k272.png){: .img-middle}
 
 
@@ -91,7 +91,7 @@ The color accuracy is very impressive, with no hint of light bleeding in the bac
 
 [Read our Review](/best-1440p-gaming-monitors/acer-k272hul-review/){: .big-button}
 
-## [BenQ ZOWIE XL2730](http://amzn.to/2AIpdqs){:target="_blank"} - $499
+## [BenQ ZOWIE XL2730](https://amzn.to/2AeODzE){:target="_blank"} - $499
 ![BenQ ZOWIE](/img/1440p-monitors/zowie.png){: .img-middle}
 
 
@@ -107,10 +107,10 @@ This monitor even has a headphone hanger that pops out and retracts. At more tha
 
 [Read our Review](/best-1440p-gaming-monitors/benq-zowie-xl2730-review/){: .big-button}
 
-## [ASUS ROG SWIFT PG348Q](http://amzn.to/2yYkrYs){:target="_blank"} - $1200
+## [ASUS ROG SWIFT PG348Q](https://amzn.to/2uSsJgx){:target="_blank"} - $1200
 ![ASUS ROG SWIFT](/img/1440p-monitors/rog.png){: .img-middle}
 
-**3.** The ASUS ROG SWIFT PG348Q is perfect for all the hardcore gamers out there willing to spend the money for the best quality. Although it is quite pricey, you'll be gaming on a monstrous 34-inch monitor that delivers outstanding performance. 
+**3.** The [ASUS ROG SWIFT PG348Q](https://amzn.to/2uSsJgx){: target="_blank"} is perfect for all the hardcore gamers out there willing to spend the money for the best quality. Although it is quite pricey, you'll be gaming on a monstrous 34-inch monitor that delivers outstanding performance. 
 
 Gaming performance was top notch in many tests but seemed to run best when the refresh rate was at 100HZ. This monitor has rich, accurate colors and a sharp image display. It also offers a generous selection of gamer-friendly features, such as crosshair-aiming targets, on-the-fly refresh rate toggling, and several gaming picture presets.
 
@@ -120,11 +120,11 @@ This monitor is aesthetically pleasing, with its gorgeous looking stand and cool
 
 [Read our review](/best-1440p-gaming-monitors/asus-rog-swift-pg348q-review/){: .big-button}
 
-## [ASUS Designo MX27AQ](http://amzn.to/2Af8KMG){:target="_blank"} - $420
+## [ASUS Designo MX27AQ](https://amzn.to/2uRydIi){:target="_blank"} - $420
 ![ASUS Designo MX27AQ](/img/1440p-monitors/asus-mx27aq.png){: .img-middle}
 
 
-**4.** The ASUS Designo MX27AQ has it all. The IPS panel is absolutely stunning. It has a 27 inch display and delivers 100% sRGB colour space. It's even equipped with an awesome built-in speaker system and a 178-degree viewing angle.  
+**4.** The [ASUS Designo MX27AQ](https://amzn.to/2uRydIi){: target="_blank"} has it all. The IPS panel is absolutely stunning. It has a 27 inch display and delivers 100% sRGB colour space. It's even equipped with an awesome built-in speaker system and a 178-degree viewing angle.  
 
 The audio quality of the monitor is also good, with stereo speakers powered by ICEpower, and a MobileSound 3 chip with ASUS SonicMaster tuning. 
 
@@ -132,9 +132,9 @@ This monitor's frameless display technology is especially appealing to those usi
 
 If you want a high quality screen and you're not worried about 4K resolution, this is the monitor for you. 
 
-[View on Amazon](http://amzn.to/2Af8KMG){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2uRydIi){: .big-button target="_blank"}
 
-## [Dell UltraSharp U2515Hx](http://amzn.to/2j1WHZr){:target="_blank"} - $330
+## [Dell UltraSharp U2515Hx](https://amzn.to/2OhqyLH){:target="_blank"} - $330
 ![Dell UltraSharp](/img/1440p-monitors/1440p.png){: .img-middle}
 
 
@@ -150,13 +150,13 @@ The monitor has a refresh rate of 60Hz, which is on the low side for a gaming mo
 
 If you buy this monitor, you'll have a great 1440p gaming monitor at a reasonable price.
 
-[View on Amazon](http://amzn.to/2j1WHZr){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2OhqyLH){: .big-button target="_blank"}
 
-## [BenQ GW Series GW2765HT](http://amzn.to/2B5x5Fh){:target="_blank"} - $250
+## [BenQ GW Series GW2765HT](https://amzn.to/2K31J2u){:target="_blank"} - $300
 ![BenQ GW Series GW2765HT](/img/1440p-monitors/benq.png){: .img-middle}
 
 
-**6.** The BenQ GW Series GW2765HT features over 1 billion different colors. It has an HDMI port, DisplayPort, DVI port and a D-Sub port. 
+**6.** The [BenQ GW Series GW2765HT](https://amzn.to/2K31J2u){: target="_blank"} features over 1 billion different colors. It has an HDMI port, DisplayPort, DVI port and a D-Sub port. 
 
 BenQ has ventured past TN panels, now utilizing the beauty of IPS displays. The color accuracy is impeccable. The black level performance is pretty good too. Lastly, another benefit of the IPS panel is the wide (and awesome) viewing angle.
 
@@ -164,9 +164,9 @@ The monitor has a 60Hz refresh rate and a 4ms response time, which isn't anythin
 
 Overall, this monitor is a fantastic mid-range gaming monitor. For $320, you're getting a dependable product with great image quality. The overall design of the monitor is fitting for most people. 
 
-[View on Amazon](http://amzn.to/2B5x5Fh){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2K31J2u){: .big-button target="_blank"}
 
-## [Samsung S32D850T](http://amzn.to/2AGXWIq){:target="_blank"} - $380
+## [Samsung S32D850T](https://amzn.to/2NNuyCn){:target="_blank"} - $380
 ![Samsung S32](/img/1440p-monitors/samsung-s32.png){: .img-middle}
 
 **7.** This monitor is pretty decent considering its price. It has nearly 100% sRGB coverage and superb contrast ratio/color temperature. The color accuracy is impressive as well. Lastly, it features a slightly larger panel. This is great for players looking to be immersed in the game.
@@ -177,18 +177,26 @@ All in all, for the price it's not bad. While there are better options out there
 
 However, the monitor is better suited for office work than gaming, so consider another 1440p monitor on this list. 
 
-[View on Amazon](http://amzn.to/2AGXWIq){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2NNuyCn){: .big-button target="_blank"}
 
-## [ASUS MG279Q](http://amzn.to/2ks9y7n){:target="_blank"} - $540
+## [ASUS MG279Q](https://amzn.to/2mI1tgi){:target="_blank"} - $540
 ![Monitor](/img/1440p-monitors/asus-mg.png){: .img-middle}
 
 **8.** While this monitor is a bit more expensive than the competition, it sports consistently good image quality. It also has genre-specific game modes and ergonomic options. It even has FreeSync technology and a refresh rate of 144Hz.
 
+The panel offers 8-bit color depth, with excellent color accuracy, high contrast and amazing screen uniformity. 
+
+Thanks to Advanced Hyper Viewing Angle (AHVA) technology, this monitor also has a wide viewing angle, which is great when you have friends over. 
+
+The panel's build quality is excellent, and it has a narrow bezel, too. The controls in the back are nice, as there is a small joystick which you can use to navigate through the menus. 
+
+The display has an anti-glare layer, so annoying reflections are not a problem. 
+
 Though it is a bit pricey, it's still a superb choice. If you have the extra money to spend, it's definitely not a bad display. Overall a great 1440p gaming monitor. 
 
-[View on Amazon](http://amzn.to/2ks9y7n){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2mI1tgi){: .big-button target="_blank"}
 
-## [ASUS ROG SWIFT PG279Q](http://amzn.to/2BnjlWx){:target="_blank"} - $800
+## [ASUS ROG SWIFT PG279Q](https://amzn.to/2LoZzQq){:target="_blank"} - $710
 ![ASUS ROG SWIFT PG279Q](/img/1440p-monitors/swift.png)
 
 **9.** Boasting excellent image quality, an IPS display, solid construction and an overall great gaming experience, the ASUS ROG SWIFT PG279Q is a popular pick. 
@@ -199,38 +207,52 @@ The monitor has an attractive design, and an adjustable stand. Additionally, the
 
 All things considered, this is yet another great product from ASUS. It sets a new standard for G-Sync technology. 
 
-[View on Amazon](http://amzn.to/2BnjlWx){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2LoZzQq){: .big-button target="_blank"}
 
-## [Acer XG270HU](http://amzn.to/2ATaFqs){:target="_blank"} - $330
+## [Acer XG270HU](https://amzn.to/2JYjEHQ){:target="_blank"} - $350
 ![Acer XG270HU](/img/1440p-monitors/xg270.png){: .img-middle}
 
-**10.** This monitor competes with higher-end displays at a lower price. It has a stylish design and features adaptive sync technology. 
+**10.** This monitor competes with higher-end displays at a lower price. It has a stylish design and features G-Sync technology. 
 
 Unfortunately, there isn't any height adjustability, and it has some problems with the viewing angle. 
 
-Despite these cons, it's an awesome display for gamers looking to play 1440p games on a budget. If I were you, I'd definitely check it out. 
+It has a maximum refresh rate of 144Hz, and quick response times. Moreover, it has a stunning TN panel with 8-bit color depth, manufactured by AU Optronics. 
 
-[View on Amazon](http://amzn.to/2ATaFqs){: .big-button target="_blank"}
+The backlight is a white-LED edge arry that runs on constant current, therefore it is flicker-free. 
 
-## [ViewSonic XG2703-GS](http://amzn.to/2kELUUW){:target="_blank"} - $835
+ASUS isn't cutting corners when it comes to image quality, speed, and frame rate-matching. 
+
+It's an awesome display for gamers looking to play 1440p games on a budget. If I were you, I'd definitely check it out. 
+
+[View on Amazon](https://amzn.to/2JYjEHQ){: .big-button target="_blank"}
+
+## [ViewSonic XG2703-GS](https://amzn.to/2uT6ffl){:target="_blank"} - $835
 ![ViewSonic XG2703-GS](/img/1440p-monitors/xg.png){: .img-middle}
 
-**11.** This monitor's display is quite sharp, with a narrow 11mm bezel and a wide/deep base. It has a cable management hole to make your life a bit easier. 
+**11.** This monitor's display is quite sharp, with a narrow 11mm bezel and a wide/deep base. It also has a cable management hole, making your life a bit easier. 
 
-The IPS panel provides superb image quality, however it lags behind TN panels in response time. Overall, it's a good monitor for the money. It'd make a great addition to your gaming setup. 
+The IPS panel provides superb image quality, but it lags behind TN panels in response time.
 
-[View on Amazon](http://amzn.to/2kELUUW){: .big-button target="_blank"}
+The monitor has QHD resolution, 350cd/m² brightness, ULMB, 165Hz with an overclock, and plenty of gaming features. 
 
-## [Samsung CF791](http://amzn.to/2yMiwRW){:target="_blank"} - $750
+It's a luxury monitor, with superior image quality. The monitor's contrast, color saturation, and brightness are all fantastic. 
+
+I'd recommend this monitor to gamers who like playing visually pleasing, single-player games, rather than competitive games like CS:GO. The image quality of the monitor is great for immersive RPG games, but the response time is less than ideal for competitive titles. 
+
+Overall, it's a good monitor for the money. It'd make a great addition to your gaming setup. 
+
+[View on Amazon](https://amzn.to/2uT6ffl){: .big-button target="_blank"}
+
+## [Samsung CF791](https://amzn.to/2uSBfw1){:target="_blank"} - $750
 ![Samsung CF791](/img/1440p-monitors/samsung.png){: .img-middle}
 
 **12.** This 34" monitor has a stellar contrast ratio, and overall excellent picture quality. It is an ultrawide monitor with a beautiful (and giant) display. The color accuracy is phenomenal, as is the design of the monitor. The only negative of the display is its speakers. 
 
 They're not horrible, but they're not great either. Considering the price of the monitor, we'd expect a higher quality sound system. Of course, this problem is easily resolved with a great set of [gaming speakers](/best-gaming-speakers/). 
 
-[View on Amazon](http://amzn.to/2yMiwRW){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2uSBfw1){: .big-button target="_blank"}
 
-## [ASUS Designo MX34VQ](http://amzn.to/2zjqaqy){:target="_blank"} - $750
+## [ASUS Designo MX34VQ](https://amzn.to/2NMM5dR){:target="_blank"} - $750
 ![ASUS Designo MX34VQ](/img/1440p-monitors/designo.png){: .img-middle}
 
 **13.** This ultrawide, AMD FreeSync enabled display has sharp picture quality, not to mention the stellar gaming performance. 
@@ -239,58 +261,86 @@ Unlike the previous monitor, this display has powerful audio and a wireless char
 
 All in all, we think it's a nice monitor with great added features including a wireless charging base, gamer-friendly settings and a high-quality sound system. 
 
-[View on Amazon](http://amzn.to/2zjqaqy){: .big-button}
+[View on Amazon](https://amzn.to/2NMM5dR){: .big-button}
 
-## [AOC Agon AG352UCG](http://amzn.to/2yQ1oed){:target="_blank"} - $900
+## [AOC Agon AG352UCG](https://amzn.to/2uQgrVW){:target="_blank"} - $800
 ![AOC Agon AG352UCG](/img/1440p-monitors/aoc.png){: .img-middle}
 
-**14.** With a high price tag, poor selection of ports, some may be discouraged from purchasing this monitor. However, it features G-Sync compatibility, a beautiful anti-glare display, and fantastic color accuracy.
+**14.** With a high price tag and a poor selection of ports, some may be discouraged from purchasing this monitor. However, it features G-Sync compatibility, a beautiful anti-glare display, and fantastic color accuracy.
 
-All in all, there might be better monitors out there for the money, but it's not a bad choice, either. 
+These days, in order for a monitor to contend as a 'gaming monitor,' it must have G-Sync or FreeSync technology. 
 
-[View on Amazon](http://amzn.to/2yQ1oed){: .big-button target="_blank"}
+This ultrawide monitor is sporting an 1800mm curve radius, iwth a high-contrast 3440x1440 AMVA panel. 
 
-## [AOC Agon AG352UCG](http://amzn.to/2kEGeKJ){:target="_blank"} - $1000
+Picture quality is stunning, colors are vibrant, and a high refresh rate of 100Hz. 
+
+All in all, it's a good gaming monitor. 
+
+[View on Amazon](https://amzn.to/2uQgrVW){: .big-button target="_blank"}
+
+## [AOC Agon AG352UCG](https://amzn.to/2Ae6B5l){:target="_blank"} - $800
 ![AOC Agon](/img/1440p-monitors/x34.png){: .img-middle}
 
-**15.** This gamer-oriented 1440p monitor has a cool design. It features a USB hub and settings designed to suit your gaming needs. It supports G-Sync to prevent screen tearing and performed very well across the boards.
+**15.** This gamer-oriented 1440p monitor has a cool design. It features a USB hub and settings designed to suit every gamer's needs. It supports G-Sync to prevent screen tearing and performed very well across the boards in all of my tests.
 
-Unfortunately, the price tag is pretty high; but it's worth it. The buttom line is this monitor is perfect for any high end gaming setup. 
+Unfortunately, the price tag is pretty high; but it's worth it. Additionally, its price is actually lower when compared to other monitors in this weight class. 
 
-[View on Amazon](http://amzn.to/2kEGeKJ){: .big-button target="_blank"}
+This curved, ultra-wide display is attractive to gamers who are seeking maximum immersion. The extra width and wraparound effect combine to create an amazing gaming experience, because it encompasses more of the gamer's peripheral vision. 
 
-## [Acer XR382CQK](http://amzn.to/2kFg0I5){:target="_blank"} - $1000
+The monitor's contrast is 1700:1 (sequential) and 1900:1 (ANSI) after calibration, which is far higher than almost any other gaming monitor on the market. 
+
+The monitor has a 3440x1440 resolution, 1800R curve, amazing build quality, and it's stylish, too. 
+
+What's the bottom line here?
+
+This monitor is great for any high-end gaming setup.  
+
+[View on Amazon](https://amzn.to/2Ae6B5l){: .big-button target="_blank"}
+
+## [Acer XR382CQK](https://amzn.to/2JZ3wFJ){:target="_blank"} - $1000
 ![Acer XR382CQK](/img/1440p-monitors/acer.png){: .img-middle}
 
-**16.** This expensive, high-end gaming monitor comes packed with features including different modes to satisfy different game types. AMD FreeSync is also supported, and the monitor overall has solid performance. It offers accurate colors and sharp images, making it a great monitor for the money. 
+**16.** This expensive, high-end gaming monitor comes packed with features including different modes to satisfy different game types. 
 
-[View on Amazon](http://amzn.to/2kFg0I5){: .big-button target="_blank"}
+AMD FreeSync is also supported, and the monitor overall has solid performance. It offers accurate colors and sharp images, making it a great monitor for the money.
 
-## [Pixio PX277](http://amzn.to/2BB6oJ1){:target="_blank"} - $215
+With this monitor, connectivity options are abundant. At the rear of the monitor, there are two HDMI ports, and one doubles as a Mobile High-Definition Link (MHL) port. There's also a Display Port Input, a USB-C upstream port, a headphone jack, and a DisplayPort output that allows you to daisy-chain several monitors. 
+
+The monitor passed all of our gaming performance tests with flying colors. Fast motion appeared fluid, and was screen tearing free with FreeSync enabled. 
+
+The monitor has a 12.3ms input lag, which is less than ideal for competitive gaming, but negligible for casual gamers.  Once again, if you're looking for a monitor to immersify you in-game, this is a solid contender. 
+
+[View on Amazon](https://amzn.to/2JZ3wFJ){: .big-button target="_blank"}
+
+## [Pixio PX277](https://amzn.to/2AahepW){:target="_blank"} - $400
 ![Pixio](/img/1440p-monitors/pixio.png){: .img-middle}
 
-**17.** Sitting at around $400, this 1440p gaming monitor is an awesome display for budget gamers who want to experience 1440p resolution. The display has a 144Hz refresh rate and a 4 ms response time.
+**17.** Sitting at around $400, this 27-inch, 1440p gaming monitor is an awesome display for budget gamers who want to experience 1440p resolution. 
+
+The display has a 144Hz refresh rate and a 4 ms response time, which is pretty good for a monitor in this weight class. It'll do for both competitive and casual gaming. 
 
 Though it doesn't have the looks or features of higher-end models, it sure does have the performance to compete. 
 
-For the price, it's an EXCELLENT choice. 
+It has a 16:9 aspect ratio, an IPS display, and a 1000:1 (Static) contrast ratio. It has built-in speakers, an adjustable stand, and VESA compatibility (100x100).
 
-[View on Amazon](http://amzn.to/2BB6oJ1){: .big-button target="_blank"}
+For the price, it's an *excellent* choice. 
 
-## [LG 27UD68P](http://amzn.to/2B76gRZ){:target="_blank"} - $485
+[View on Amazon](https://amzn.to/2AahepW){: .big-button target="_blank"}
+
+## [LG 27UD68P](https://amzn.to/2LEbA3P){:target="_blank"} - $485
 ![LG 27UD68P](/img/1440p-monitors/lg.png){: .img-middle}
 
-**18.** This monitor is quite possibly one of the best in its class of midrange 1440p gaming monitors. Featuring 4K resolution and 1.07 billion different colors, its display is absolutely stunning. It even has Freesync support.
+**18.** This monitor is quite possibly one of the best in its class of midrange 1440p gaming monitors. Featuring 4K resolution and 1.07 billion different colors, its display is absolutely stunning. It even has Freesync support for a tear-free experience.
 
 It has an IPS display and a wide viewing angle. The bezel is narrow, making it a good choice for a multi-monitor setup. 
 
-And the best part of all? 
+Unfortunatly, it only has a 60Hz refresh rate, which is less than ideal for a gaming monitor in 2018. If you're looking for a 144Hz monitor, I'd look elsewhere. 
 
-This monitor is super affordable! 
+However, if you don't mind the 60Hz refresh rate, this monitor is super affordable, and great for gaming!
 
-[View on Amazon](http://amzn.to/2B76gRZ){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2LEbA3P){: .big-button target="_blank"}
 
-## [Dell S2417DG](http://amzn.to/2B6Bcls){:target="_blank"} - $390
+## [Dell S2417DG](https://amzn.to/2Af3V7w){:target="_blank"} - $390
 ![Dell S2417DG](/img/1440p-monitors/dell.png){: .img-middle}
 
 **19.** This monitor's TN panel has a fast refresh rate and response time. In addition, it has a wide viewing angle, and a colorful display, which improves after some calibration.
@@ -299,19 +349,27 @@ If you're interested in a low-budget 1440p gaming monitor, the Dell S2417DG is a
 
 The gaming performance was great in many different tests. The stand is fully adjustable as well. As for gaming monitors, you could do far worse. 
 
-[View on Amazon](http://amzn.to/2B6Bcls){: .big-button target="_blank"}
+[View on Amazon](https://amzn.to/2Af3V7w){: .big-button target="_blank"}
 
-## [Acer XR341CK](http://amzn.to/2yQskKC){:target="_blank"} - $675
+## [Acer XR341CK](https://amzn.to/2NJsSKb){:target="_blank"} - $620
 ![Acer XR341CK](/img/1440p-monitors/xr34.png){: .img-middle}
 
-**20.** This monitor has a fantastic design. The monitor is ultrawide and features an IPS panel. The FreeSync technology provides great gaming performance. It delivers sharp imagery and color accuracy too.
+**20.** This ultrawide monitor has a fantastic bezel-free design. The monitor features an IPS panel, FreeSync technology provides great gaming performance. It delivers sharp imagery and color accuracy too.
 
-[View on Amazon](http://amzn.to/2yQskKC){: .big-button target="_blank"}
+The only thing that beats gaming on a 1440p monitor is gaming on a curved ultrawide 1440p gaming monitor. It has a stylish 34-inch, 3440x1440 display. 
+
+It looks nearly identical to the Acer Predator X34, and has a 3,800R curvature radius. 
+
+The monitor is beautifully designed, and delivers sharp imagery and excellent gaming performance. 
+
+[View on Amazon](https://amzn.to/2NJsSKb){: .big-button target="_blank"}
 
 ## [Eizo Foris FS2735](http://amzn.to/2kc7roz){:target="_blank"} - $700
 ![Eizo Foris](/img/1440p-monitors/eizo.png){: .img-middle}
 
-**21.** This Bluetooth enabled 1440p gaming monitor is great for enthusiasts who can afford a more expensive display. It's excellent in both design and gaming performance. However, there are more popular models like the [Asus MG279Q](http://amzn.to/2B732Oy) that go for less. Despite this, it's still a good choice. 
+**21.** This Bluetooth enabled 1440p gaming monitor is great for enthusiasts who can afford a more expensive display. 
+
+It's excellent in both design and gaming performance. However, there are more popular models like the [Asus MG279Q](https://amzn.to/2NJJUb9) that go for less. 
 
 [View on Amazon](http://amzn.to/2kc7roz){: .big-button target="_blank"}
 
