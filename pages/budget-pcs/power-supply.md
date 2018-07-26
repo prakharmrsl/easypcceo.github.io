@@ -86,6 +86,8 @@ Overall, it's a fantastic CPU for enthusiasts builds that will be drawing a lot 
 
 **Efficiency:** Power supplies have different efficiency rating. All you need to know is the Plus ratings go 80+, Bronze, Silver, Gold, Platinum, and Titanium. As you progress up the efficiency scale, you'll be saving energy. All power supply ratings are based on the [80 Plus Standard](https://en.wikipedia.org/wiki/80_Plus){: target="_blank"}. PSUs are rated on their energy efficiency, just like all other electrical components. If your PC is incredibly power hungry, buy an efficient power supply to save on your electric bill!
 
+![PSU Cover](/img/PSU/cover.jpg)
+
 **Modular:** non-modular PSUs have all cables permanently attached. Semi-modular PSUs have some cables permanently attached (usually motherboard and CPU power cables), and others can be removed. Fully-modular PSUs allow you to remove all cables, if you wish to do so. Having a semi-modular or fully-modular power supply is ideal. Managing your cables is important to ensure your rig looks good and more importantly, to have good airflow. If there are a bunch of cables jammed inside a case, you'll have poor airflow. On the other hand, if you only use the cables you need, your PC will have better airflow. 
 
 **Compatibility:** It would be unfortunate if you bought a power supply, only to find out it is not compatible with your case or your motherboard. Always do your research to ensure everything is compatible before buying! 
