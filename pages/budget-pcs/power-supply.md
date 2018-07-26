@@ -76,7 +76,7 @@ I decided to save the best for last. The [EVGA SuperNOVA 850 G2](https://amzn.to
 
 This 850 Watt power supply is rated 80+ Gold, meaning it's insanely power efficient, hitting 90% efficiency under moderate load. EVGA is widely known as one of the best PSU producers, so rest assured you're getting a great product. 
 
-Featuring EVGA's ECO Thermal Control System, this PSU makes little-to-no noise under low noise. Even when it's running under a moderate or heavy load, it is still quiet. 
+Featuring EVGA's [ECO Thermal Control System](https://www.evga.com/support/faq/afmviewfaq.aspx?faqid=59433){: target="_blank"}, this PSU makes little-to-no noise under low noise. Even when it's running under a moderate or heavy load, it is still quiet. 
 
 Overall, it's a fantastic CPU for enthusiasts builds that will be drawing a lot of power. 
 
