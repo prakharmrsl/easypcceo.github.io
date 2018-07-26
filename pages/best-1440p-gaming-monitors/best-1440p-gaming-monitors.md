@@ -270,7 +270,7 @@ All in all, we think it's a nice monitor with great added features including a w
 
 These days, in order for a monitor to contend as a 'gaming monitor,' it must have G-Sync or FreeSync technology. 
 
-This ultrawide monitor is sporting an 1800mm curve radius, iwth a high-contrast 3440x1440 AMVA panel. 
+This ultrawide monitor is sporting an 1800mm curve radius, with a high-contrast 3440x1440 AMVA panel. 
 
 Picture quality is stunning, colors are vibrant, and a high refresh rate of 100Hz. 
 
