@@ -172,6 +172,8 @@ It is also extremely lightweight, weighing in at just 107 grams. Overall, it's e
 
 **Sensitivity:** Sensitivity is obviously important, but it is highly dependent on the person and the game you're playing. I prefer a lower sensitivity because I play FPS games like CS:GO. I like being able to track the head of my opponents, and I use a palm grip, so a slower sensitivity works best for me. If you prefer the claw grip or finger tip grip, you'll need a higher sensitivity. With a higher sensitivity, you'll have faster reaction times, and less accuracy. 
 
+![Mouse in Action](/img/lol-gaming-mouse/in-action.jpg)
+
 **Wireless or Wired:** This one is completely based on personal preference. Each options has its own set of advantages and disadvantages. Wired mice are convenient in that they don't run out of battery and have a fast response time, but you can only use the mouse where the cable can reach, and the wire can become tangled. On the flip side, a wireless mouse is not restricted by a cable, but the batteries can die during gameplay, and response times are generally slower. 
 
 **Programmable Buttons:** Unlike common computer mice, a gaming mouse has additional buttons, usually referred to as macros. Choose a mouse with as many or as little buttons as you need for your preferred genre of game. I'd recommend a mouse with plenty of programmable buttons for League of Legends. 
