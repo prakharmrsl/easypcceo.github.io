@@ -48,13 +48,13 @@ That's why I've created this list of the best power supplies for gaming in 2018.
 ## [Best Budget PSU 2018: Corsair CX450M Semi Modular Power Supply](https://amzn.to/2JV1hmR){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JV1hmR"><img class="img-small img-right" alt="Corsair CX450M Semi Modular Power Supply" src="/img/PSU/cx-450.png" /></a>
 
-The [Corsair CX450M Semi Modular Power Supply](https://amzn.to/2JV1hmR){: target="_blank"} is a 450 Watt power supply rated at 80 Plus Bronze. It is an ATX power supply, and it is semi-modular too, which is great for cable management. 
+The [Corsair CX450M Semi Modular Power Supply](https://amzn.to/2JV1hmR){: target="_blank"} is a 450 Watt power supply rated at 80 Plus Bronze. It is an [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} power supply, and it is semi-modular too, which is great for cable management. 
 
 If you're a casual PC gamer with a basic gaming PC ($500 budget), this is one of the best power supplies on the market for you. 
 
 It is power efficient, and its semi-modular support allows for easy cable management, thus improving airflow. 
 
-This PSU is stable, and it's manufactured by a reputable company. It uses Thermal Control Technology to keep the PSU quiet, even during heavy load. 
+This <a target="_blank" href="https://en.wikipedia.org/wiki/Power_supply_unit_(computer)">PSU</a> is stable, and it's manufactured by a reputable company. It uses Thermal Control Technology to keep the PSU quiet, even during heavy load. 
 
 The PSU has a matte black finish and black-sleeved cables, giving off a sleek and refined tech-look. It has low wattage, but it's great for beginner builds. The 5-year warranty is nice, too!
 
