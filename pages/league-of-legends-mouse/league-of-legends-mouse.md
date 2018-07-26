@@ -14,7 +14,7 @@ If you’re a competitive PC gamer, you need a good gaming mouse.
 
 Just think about it: 
 
-If you’re playing against people with better PC gaming hardware than you, you’re already at a disadvantage. 
+If you’re playing against people with better [PC gaming hardware](/budget-pcs/) than you, you’re already at a disadvantage. 
 
 That’s why I made this guide. I am highlighting the best gaming mice – more specifically, the best mouse for League of Legends. I'll be providing you with five different mouse options, so you can choose the one that's best for you.
 
@@ -66,7 +66,7 @@ If you’re a competitive LOL player and you want to wield the best MOBA gaming 
 
 The [Mionix Castor Multi-Color Ergonomic Optical Gaming Mouse](https://amzn.to/2A8rzT0){: target="_blank"} is suited for right-handed gamers, and it is compatible with every mouse grip style. 
 
-The mouse has six programmable macro buttons – moreover, it has pinky and ring finger support, which helps to prevent hand cramps even after hours of gaming. 
+The mouse has six programmable [macro](https://insider.razer.com/index.php?threads/what-are-macros.19193/){: target="_blank"} buttons – moreover, it has pinky and ring finger support, which helps to prevent hand cramps even after hours of gaming. 
 
 The Mionix Castor comes in multiple colors which are highly customizable (over 16.8 million options). 
 
@@ -74,7 +74,7 @@ Now onto performance: is the Mionix Castor League of Legends worthy?
 
 The answer is yes.
 
-The mouse ships with a 5,000DPI sensor. The cursor was responsive, and my mouse movements were smooth. Additionally, its ergonomic design keeps my hand comfortable, even after hours of use. 
+The mouse ships with a 5,000[DPI](https://smallbusiness.chron.com/dpi-switch-mouse-66055.html){: target="_blank"} sensor. The cursor was responsive, and my mouse movements were smooth. Additionally, its ergonomic design keeps my hand comfortable, even after hours of use. 
 
 The mouse is especially well suited for League because of its six programmable buttons. If you’re playing LOL competitively, programmable buttons are important. 
 
@@ -87,11 +87,11 @@ The mouse is especially well suited for League because of its six programmable b
 
 The Razer DeathAdder Elite came out during DeathAdder’s 10th anniversary back in 2016. 
 
-It is a wired mouse, with a maximum DPI of 16,000 and a max polling rate of 1000Hz – evidently, the mouse’s specifications are impressive. During my tests, I thoroughly enjoyed using the mouse.
+It is a wired mouse, with a maximum DPI of 16,000 and a max [polling rate](https://www.howtogeek.com/182702/mouse-dpi-and-polling-rates-explained-do-they-matter-for-gaming/){: target="_blank"} of 1000Hz – evidently, the mouse’s specifications are impressive. During my tests, I thoroughly enjoyed using the mouse.
 
 So much so, in fact, I decided to use it in my PC gaming setup. I’ve been using the DeathAdder Elite for several years, without any complaints!
 
-Although the Elite has a similar design to other DeathAdder models, it features several additional programmable buttons, which are great for League of Legends. There is a sleek curve to both sides of the mouse, making it perfect for a palm style grip. 
+Although the Elite has a similar design to other DeathAdder models, it features several additional programmable buttons, which are great for League of Legends. There is a sleek curve to both sides of the mouse, making it perfect for a [palm style grip](https://www.epicgear.com/en/technologies/types-of-mouse-grip){: target="_blank"}. 
 
 In addition to the programmable buttons on the side of the mouse, the DeathAdder Elite features two additional buttons located right below the scroll wheel. They are discrete but easy to access with your finger during gameplay. 
 
@@ -108,7 +108,7 @@ This mouse is great for League of Legends, but it can also be employed for use i
 
 The Razer Naga Hex V2 is the second version of the Naga Hex. It utilizes a laser sensor and a wired connection to minimize input delay. This 1000Hz mouse has a maximum DPI of 16,000. 
 
-The mouse also has 14 programmable buttons – although this may seem overwhelming, the design of the mouse makes the buttons easy to use. Furthermore, having 14 programmable buttons is ideal for MOBA games such as League of Legends
+The mouse also has 14 programmable buttons – although this may seem overwhelming, the design of the mouse makes the buttons easy to use. Furthermore, having 14 programmable buttons is ideal for [MOBA](https://en.wikipedia.org/wiki/Multiplayer_online_battle_arena){: target="_blank"} games such as League of Legends
 
 There are seven buttons by the thumb. On top of the mouse, you have the typical left and right click buttons along with the scroll wheel. There is a DPI button located below the scroll wheel as well. 
 
@@ -129,7 +129,7 @@ Overall, this mouse is best used best for MOBA gameplay. The buttons on the side
 
 The BenQ ZOWIE FK1 has a simple and straightforward design. It is relatively light and uses the Avago 3310 optical sensor. 
 
-It has an adjustable DPI sensor – you can choose from 400, 800, 1600, and  3200 DPI. The mouse is ambidextrous, with thumb buttons on both the left and right side. 
+It has an adjustable DPI sensor – you can choose from 400, 800, 1600, and  3200 DPI. The mouse is ambidextrous, with thumb buttons on both the left and right side. If you're looking for an awesome [left handed gaming mouse](/budget-pcs/left-handed-gaming-mouse/), this is the one for you! 
 
 It is a “plug and play” mouse, meaning it doesn’t require any drivers for setup. This is especially good news if you want to hop right into the action!
 
