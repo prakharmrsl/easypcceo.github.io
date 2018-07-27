@@ -16,6 +16,8 @@ In a 100 player fight to the death, you need every competitive edge you can get 
 
 Having the best mouse for Fortnite is going to take your game to the next level – that's why I've created this list of the 5 best mice for Fortnite: Battle Royale. 
 
+## Best Fortnite Mouse Options 
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>IMG</th>
