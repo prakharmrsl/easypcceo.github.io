@@ -12,7 +12,6 @@ seotitle: "5 Best Budget Gaming PC Builds + Prebuilt Options (2018)"
 
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 
-
 Listen up:
 
 PC gaming is the best, end of story. 
