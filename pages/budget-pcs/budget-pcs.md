@@ -1,8 +1,8 @@
 ---
-title: Best Budget Gaming PC Builds in 2018
+title: "Best Budget Gaming PC Builds in 2018"
 permalink: "/budget-pcs/"
 layout: page
-seotitle: 5 Best Budget Gaming PC Builds + Prebuilt Options (2018)
+seotitle: "5 Best Budget Gaming PC Builds + Prebuilt Options (2018)"
 ---
 <h3 class="page-subtitle">
 	January 30, 2018 by 
