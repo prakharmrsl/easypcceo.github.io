@@ -136,7 +136,7 @@ We promise we've got the perfect gaming PC no matter what your budget is!
 
 ## Gaming PC Components
 
-<table>
+<table class="basic-table" align="center">
 	<tr>
 		<th>IMG</th>
 		<th>Component</th>
@@ -165,7 +165,7 @@ We promise we've got the perfect gaming PC no matter what your budget is!
 	<tr>
 		<td><img alt="Graphics Card" class="table-image" src="/img/gpu/gtx-1060-dual.png" /></td>
 		<td>Graphics Card</td>
-		<td><a class="big-button" href="/budget-pcs/graphics-card/">More</a></td>
+		<td><a class="big-button" href="/budget-pcs/graphics-card/">Learn More</a></td>
 	</tr>
 	<tr>
 		<td><img alt="power-supply" class="table-image" src="/img/PSU/corsair-cxm-650w.png" /></td>
