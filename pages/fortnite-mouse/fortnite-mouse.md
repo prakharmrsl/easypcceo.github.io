@@ -150,7 +150,7 @@ The sensor is accurate, the mouse is comfortable, and of high quality, too.
 You can customize the lighting options with Razer's Synapse 2.0 software. Overall it's an excellent choice if you're loooking for the best mouse for Fortnite. 
 
 ## [Logitech G Pro](https://amzn.to/2NPNKiZ){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2NPNKiZ"><img class="img-right img-small" alt="logitech g pro" src="/img/logitech-g-pro.png" /></a>
+<a target="_blank" href="https://amzn.to/2NPNKiZ"><img class="img-right img-small" alt="logitech g pro" src="/img/fortnite-mouse/logitech-g-pro.png" /></a>
 
 A more basic version of Logitech's G502 model, the [Logitech G Pro](https://amzn.to/2NPNKiZ){: target="_blank"} is a great budget alternative. 
 
@@ -174,6 +174,8 @@ Before you spend your hard earned money on a gaming mouse, you need to consider 
 
 * **Polling Rate:** This measures the time it takes for your mouse input to reach your computer, and how often your computer will update your inputs on the screen. It's important that your mouse has a high polling rate. I'd recommend going for a mouse with a polling rate of 1,000Hz. This means your computer will update the cursor's position once every millisecond. 
 
+![Mouse cover](/img/fortnite-mouse/cover.jpg)
+
 * **Sensor:** A gaming mouse employs one of two sensors: an optical sensor, or a laser sensor. Optical sensors are slightly less accurate, but optical mice are usually cheaper. In my experience, the difference isn't really noticeable – however, if you're a professional or competitive gamer, I'd highly recommend going for a laser sensor, as it will give you the edge you need to compete with professionals. 
 
 * **Acceleration:** Mouse acceleration is not a good thing, especially when it comes to gaming. Basically, when you move your mouse very quickly across two inches of your mousepad, the cursor will move farther than if you had moved it two inches, but very slowly. If you're a gamer, you want to develop muscle memory so that you can quickly snap to your target. If you have mouse acceleration on, you won't be able to build up the muscle memory, and your shots will be inaccurate. 
@@ -182,9 +184,21 @@ Before you spend your hard earned money on a gaming mouse, you need to consider 
 
 ## Fortnite Mouse FAQ (Frequently Asked Questions)
 
-## 	
+**What grip style is best for Fortnite?** I believe the claw grip is one of the best grip styles for shooters, as players can easily snap from target to target. However, I use a palm grip, as it is the most comfortable for me. Try out different styles until you find one that works best for you! 
 
+**Do I need a lot of programmable buttons?** If you're looking for the best mouse for Fortnite, I'd recommend one with at least a few programmable macros. You can use them to deploy traps, and to lay down walls, ramps, floor panels, etc. In the heat of an intense build fight, having controls at the tip of your thumb is incredibly helpful. 
 
+**Should I buy a wired or wireless mouse?** Several years ago, I'd only recommend a wired mouse, because wireless mice often suffered from input delay. However, these days you can easily find a suitable wireless mouse, with minimal input delay when compared to a wired alternative. 
+
+**Can I use my Fortnite mouse for other games, too?** Of course! The Razer DeathAdder Elite and the Logitech G502 Proteus Spectrum are both incredibly versatile. You can use them for Fortnite, and virtually any other game you want to play! 
+
+## Conclusion 
+
+Fortnite: Battle Royale has taken the world by storm. It's a fun, competitive title that never seems to get old. 
+
+Building is unique to Fortnite, and it's a crucial skill to master if you want to maximize your Victory Royales. 
+
+Having a great gaming mouse is only going to help you achieve your goal! If you follow the tips highlighted in this guide, you'll winning more games than you'd ever thought possible. 
 
 * TOC
 {:toc}
