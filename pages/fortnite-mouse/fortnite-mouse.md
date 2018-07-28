@@ -55,7 +55,7 @@ Having the best mouse for Fortnite is going to take your game to the next level 
 		<td>$50</td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2NPNKiZ"><img class="table-image" alt="logitech g pro" src="/img/logitech-g-pro.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NPNKiZ"><img class="table-image" alt="logitech g pro" src="/img/fortnite-mouse/logitech-g-pro.png" /></a></td>
 		<td><a target="_blank" href="https://amzn.to/2NPNKiZ">Logitech G Pro</a></td>
 		<td>$40</td>
 	</tr>
