@@ -182,6 +182,12 @@ Before you spend your hard earned money on a gaming mouse, you need to consider 
 
 * **Lift Off Distance:** I usually play with a lower sensitivity, as I can more easily track targets. With that being said, often times I have to pick up my mouse to readjust it before I run out of room on the mousepad. If your mouse tracks movement even when it is high off of the mousepad, you'll be all over the place while readjusting the mouse. If you're looking for a gaming mouse, find one with a low lift off distance, so you'll stay on target when readjusting. This is especially important if you prefer a lower sensitivity. 
 
+## Best Mouse Settings for Fortnite 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lNyQIMPj5iE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Fortnite Mouse FAQ (Frequently Asked Questions)
 
 **What grip style is best for Fortnite?** I believe the claw grip is one of the best grip styles for shooters, as players can easily snap from target to target. However, I use a palm grip, as it is the most comfortable for me. Try out different styles until you find one that works best for you! 
