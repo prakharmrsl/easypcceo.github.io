@@ -85,7 +85,7 @@ Razer is a gaming company, so it's not surprising that this webcam is pretty muc
 
 The [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"} has done away with many fancy features – instead, Razer is offering streamers exactly what they want, without any additional bells and whistles. 
 
-If you decide to purchase the Kiyo, you'll enjoy good image quality and superb lighting, thanks to Razer's Light Ring. 
+If you decide to purchase the Kiyo, you'll enjoy good 1080p image quality and superb lighting, thanks to Razer's Light Ring. 
 
 The Light Ring is Razer's lighting detection technology – rather than wasting time trying to adjust your lighting before the stream, simply plug in your Razer Kiyo, and you're ready to begin! 
 
