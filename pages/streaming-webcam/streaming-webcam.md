@@ -72,6 +72,12 @@ As far as design goes, the C922 looks similar to its younger brother, the C920. 
 
 As you can see in this [review](https://www.pcworld.com/article/3127780/consumer-electronics/logitech-c922-review-like-the-c920-it-replaces-this-webcam-gets-the-job-done.html){: target="_blank"}, the C922's image quality is impressive, even in the dark. Overall, it's a fantastic camera for streaming, as it offers good image quality at an affordable price. 
 
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2Ka2O8T">Check Price on Amazon</a>
+	<br>
+	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c922+pro+stream&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
+</div>
+
 ## [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2NYlhrf"><img alt="Razer Kiyo" class="img-right img-small" src="/img/streaming-webcam/razer-kiyo.jpg" /></a>
 
@@ -82,6 +88,17 @@ The [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"} has done away with 
 If you decide to purchase the Kiyo, you'll enjoy good image quality and superb lighting, thanks to Razer's Light Ring. 
 
 The Light Ring is Razer's lighting detection technology – rather than wasting time trying to adjust your lighting before the stream, simply plug in your Razer Kiyo, and you're ready to begin! 
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2NYlhrf">Check Price on Amazon</a>
+	<br>
+	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=razer+kiyo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
+</div>
+
+## [Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2M7bqir"><img alt="microsoft lifecam hd-3000" class="table-image" src="/img/streaming-webcam/microsoft-lifecam-hd-3000.jpg" /></a>
+
+
 
 ## What to Consider Before You Buy
 
