@@ -59,6 +59,19 @@ If you're hunting for the best webcam for streaming, you're in luck – I've com
 	</tr>
 </table>
 
+## [Logitech C922 Pro Stream](https://amzn.to/2Ka2O8T){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2Ka2O8T"><img alt="Logitech C922 Pro Stream" class="img-right img-small" src="/img/streaming-webcam/logitech-c922.jpg" /></a>
+
+Logitech's new [C922 Pro Stream](https://amzn.to/2Ka2O8T){: target="_blank"} is an even better webcam than its already impressive predecessor, thee Logitech C920. 
+
+Boasting fantastic 1080p video quality and the ability to record in 60FPS, this camera is great for streaming. 
+
+The camera also supports background removal and impressive low-light correction, which is ideal for YouTubers and streamers alike. 
+
+As far as design goes, the C922 looks similar to its younger brother, the C920. If it ain't broke, don't fix it. 
+
+As you can see in this [review](https://www.pcworld.com/article/3127780/consumer-electronics/logitech-c922-review-like-the-c920-it-replaces-this-webcam-gets-the-job-done.html){: target="_blank"}, the C922's image quality is impressive, even in the dark. Overall, it's a fantastic camera for streaming, as it offers good image quality at an affordable price.  
+
 ## What to Consider Before You Buy
 
 **Video Quality:** If you want to build a following on a popular streaming platform like Twitch.tv, you have to stream with high quality video. It's important that you buy a webcam that's at least 720p HD. Otherwise, nobody is going to want to watch your stream, even if you're streaming amazing content. Think about it: why would someone want to watch your stream in low resolution when they could easily watch someone else who streams higher quality content?
