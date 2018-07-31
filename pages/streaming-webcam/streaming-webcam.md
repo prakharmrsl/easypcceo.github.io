@@ -95,10 +95,24 @@ The Light Ring is Razer's lighting detection technology – rather than wasting 
 	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=razer+kiyo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 </div>
 
-## [Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"}
+## [Best Budget Streaming Webcam: Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2M7bqir"><img alt="microsoft lifecam hd-3000" class="img-small img-right" src="/img/streaming-webcam/microsoft-lifecam-hd-3000.jpg" /></a>
 
+The [Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"} is an excellent webcam for anyone who wants to take their stream to the next level, without breaking the bank. 
 
+For around $20, you're getting a device capable of recording in 720p, which is perfect for video calls and stream face cams. As long as you keep the facecam small in proportion to the rest of your stream, your viewers won't be able to tell your video resolution is lower. 
+
+The camera also features automatic color correction, a noise-cancelling unidirectional microphone and a stand for both laptops and desktops. 
+
+I'd like to mention, however, although the noise cancelling microphone is nice, it's always best to use a dedicated microphone for streaming.
+
+This camera is a great way to dip your toe in the water without fully committing to an expensive camera. 
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2M7bqir">View on Amazon</a>
+	<br>
+	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=microsoft+lifecam+hd-3000&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+</div>
 
 ## What to Consider Before You Buy
 
