@@ -70,7 +70,18 @@ The camera also supports background removal and impressive low-light correction,
 
 As far as design goes, the C922 looks similar to its younger brother, the C920. If it ain't broke, don't fix it. 
 
-As you can see in this [review](https://www.pcworld.com/article/3127780/consumer-electronics/logitech-c922-review-like-the-c920-it-replaces-this-webcam-gets-the-job-done.html){: target="_blank"}, the C922's image quality is impressive, even in the dark. Overall, it's a fantastic camera for streaming, as it offers good image quality at an affordable price.  
+As you can see in this [review](https://www.pcworld.com/article/3127780/consumer-electronics/logitech-c922-review-like-the-c920-it-replaces-this-webcam-gets-the-job-done.html){: target="_blank"}, the C922's image quality is impressive, even in the dark. Overall, it's a fantastic camera for streaming, as it offers good image quality at an affordable price. 
+
+## [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2NYlhrf"><img alt="Razer Kiyo" class="img-right img-small" src="/img/streaming-webcam/razer-kiyo.jpg" /></a>
+
+Razer is a gaming company, so it's not surprising that this webcam is pretty much focused entirely on streaming. 
+
+The [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"} has done away with many fancy features – instead, Razer is offering streamers exactly what they want, without any additional bells and whistles. 
+
+If you decide to purchase the Kiyo, you'll enjoy good image quality and superb lighting, thanks to Razer's Light Ring. 
+
+The Light Ring is Razer's lighting detection technology – rather than wasting time trying to adjust your lighting before the stream, simply plug in your Razer Kiyo, and you're ready to begin! 
 
 ## What to Consider Before You Buy
 
