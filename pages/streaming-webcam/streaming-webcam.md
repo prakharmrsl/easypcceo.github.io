@@ -75,7 +75,7 @@ As you can see in this [review](https://www.pcworld.com/article/3127780/consumer
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c922+pro+stream&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="https://amzn.to/2Ka2O8T">View on Amazon</a>
+	<a class="cta-button learn-button" target="_blank" href="https://amzn.to/2Ka2O8T">View on Amazon</a>
 </div>
 
 ## [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"}
@@ -92,7 +92,7 @@ The Light Ring is Razer's lighting detection technology – rather than wasting 
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=razer+kiyo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="https://amzn.to/2NYlhrf">View on Amazon</a>
+	<a class="cta-button learn-button" target="_blank" href="https://amzn.to/2NYlhrf">View on Amazon</a>
 </div>
 
 ## [Best Budget Streaming Webcam: Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"}
@@ -111,7 +111,7 @@ This camera is a great way to dip your toe in the water without fully committing
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=microsoft+lifecam+hd-3000&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="https://amzn.to/2M7bqir">View on Amazon</a>
+	<a class="cta-button learn-button" target="_blank" href="https://amzn.to/2M7bqir">View on Amazon</a>
 </div>
 
 ## [Mevo](https://amzn.to/2Ma4lxG){: target="_blank"}
@@ -128,7 +128,7 @@ The microphone also features automatic color correction, a hi-fi microphone, and
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=mevo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="https://amzn.to/2Ma4lxG">View on Amazon</a>
+	<a class="cta-button learn-button" target="_blank" href="https://amzn.to/2Ma4lxG">View on Amazon</a>
 </div>
 
 ## [Logitech C930e](https://amzn.to/2v5hYaN){: target="_blank"}
@@ -149,7 +149,7 @@ It's expensive, but it is also one of the best webcams on the market. If you wan
 <div class="button-wrapper">
 	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c930e&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="https://amzn.to/2v5hYaN">View on Amazon</a>
+	<a class="cta-button learn-button" target="_blank" href="https://amzn.to/2v5hYaN">View on Amazon</a>
 </div>
 
 ## What to Consider Before You Buy
