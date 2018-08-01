@@ -66,22 +66,22 @@ Logitech's new [C922 Pro Stream](https://amzn.to/2Ka2O8T){: target="_blank"} is 
 
 Boasting fantastic 1080p video quality and the ability to record in 60FPS, this camera is great for streaming. 
 
-The camera also supports background removal and impressive low-light correction, which is ideal for YouTubers and streamers alike. 
+The camera also supports background removal and impressive [low-light correction](https://digital-photography-school.com/6-easy-steps-post-processing-low-light-photo-lightroom/){: target="_blank"}, which is ideal for YouTubers and streamers alike. 
 
 As far as design goes, the C922 looks similar to its younger brother, the C920. If it ain't broke, don't fix it. 
 
 As you can see in this [review](https://www.pcworld.com/article/3127780/consumer-electronics/logitech-c922-review-like-the-c920-it-replaces-this-webcam-gets-the-job-done.html){: target="_blank"}, the C922's image quality is impressive, even in the dark. Overall, it's a fantastic camera for streaming, as it offers good image quality at an affordable price. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2Ka2O8T">View on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c922+pro+stream&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c922+pro+stream&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+	<a class="cta-button learn-button" href="https://amzn.to/2Ka2O8T">View on Amazon</a>
 </div>
 
 ## [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2NYlhrf"><img alt="Razer Kiyo" class="img-right img-small" src="/img/streaming-webcam/razer-kiyo.jpg" /></a>
 
-Razer is a gaming company, so it's not surprising that this webcam is pretty much focused entirely on streaming. 
+[Razer](https://www.razer.com/){: target="_blank"} is a gaming company, so it's not surprising that this webcam is pretty much focused entirely on streaming. 
 
 The [Razer Kiyo](https://amzn.to/2NYlhrf){: target="_blank"} has done away with many fancy features – instead, Razer is offering streamers exactly what they want, without any additional bells and whistles. 
 
@@ -90,9 +90,9 @@ If you decide to purchase the Kiyo, you'll enjoy good 1080p image quality and su
 The Light Ring is Razer's lighting detection technology – rather than wasting time trying to adjust your lighting before the stream, simply plug in your Razer Kiyo, and you're ready to begin! 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2NYlhrf">View on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=razer+kiyo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=razer+kiyo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+	<a class="cta-button learn-button" href="https://amzn.to/2NYlhrf">View on Amazon</a>
 </div>
 
 ## [Best Budget Streaming Webcam: Microsoft Lifecam HD-3000](https://amzn.to/2M7bqir){: target="_blank"}
@@ -109,9 +109,9 @@ I'd like to mention, however, although the noise cancelling microphone is nice, 
 This camera is a great way to dip your toe in the water without fully committing to an expensive camera. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2M7bqir">View on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=microsoft+lifecam+hd-3000&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=microsoft+lifecam+hd-3000&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+	<a class="cta-button learn-button" href="https://amzn.to/2M7bqir">View on Amazon</a>
 </div>
 
 ## [Mevo](https://amzn.to/2Ma4lxG){: target="_blank"}
@@ -126,9 +126,9 @@ It can record in 1080p resolution, it has a wide field of view, and a decent bui
 The microphone also features automatic color correction, a hi-fi microphone, and Skype support. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2Ma4lxG">View on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=mevo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=mevo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+	<a class="cta-button learn-button" href="https://amzn.to/2Ma4lxG">View on Amazon</a>
 </div>
 
 ## [Logitech C930e](https://amzn.to/2v5hYaN){: target="_blank"}
@@ -136,7 +136,7 @@ The microphone also features automatic color correction, a hi-fi microphone, and
 
 The [C930e](https://amzn.to/2v5hYaN){: target="_blank"} is Logitech's most advanced HD webcam, but it's also one of the most expensive webcams on the market. 
 
-Unlike most HD webcams which rely on the PC to do all of the hard work, this webcam encodes its own video. 
+Unlike most HD webcams which rely on the PC to do all of the hard work, this webcam [encodes](http://coconut.co/what-is-video-encoding){: target="_blank"} its own video. 
 
 The result?
 
@@ -147,9 +147,9 @@ The webcam is capable of 1080p video recording and streaming, and it has a Zeiss
 It's expensive, but it is also one of the best webcams on the market. If you want a high quality facecam for your stream, this webcam is a strong contender. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2v5hYaN">View on Amazon</a>
+	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c930e&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 	<br>
-	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c930e&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+	<a class="cta-button learn-button" href="https://amzn.to/2v5hYaN">View on Amazon</a>
 </div>
 
 ## What to Consider Before You Buy
@@ -157,6 +157,8 @@ It's expensive, but it is also one of the best webcams on the market. If you wan
 **Video Quality:** If you want to build a following on a popular streaming platform like Twitch.tv, you have to stream with high quality video. It's important that you buy a webcam that's at least 720p HD. Otherwise, nobody is going to want to watch your stream, even if you're streaming amazing content. Think about it: why would someone want to watch your stream in low resolution when they could easily watch someone else who streams higher quality content?
 
 **Framerate:** These days, most people are streaming in 60FPS, rather than 30FPS. The video quality is noticeably smoother when streamed with a higher FPS rate. If you're streaming gameplay in 60FPS, for example, but your webcam can only capture 30FPS, it may look a bit wonky. I'd recommend streaming in all 30FPS or all 60FPS, rather than one of each. 
+
+![Webcam cover](/img/streaming-webcam/webcam-cover.jpg)
 
 **Connection Type:** Most webcams connect to your computer via a USB cable, but double check just to make sure your wecbam and your computer are compatible. 
 
@@ -170,21 +172,19 @@ The video captured from the webcam will be downsized on viewers' screens, so it 
 
 If you're going to display your facecam on the full screen, you'll want to go for a 1080p webcam. Higher resolution is never a bad thing!
 
-## Streaming Webcams Frequently Asked Questions (FAQ)
-
 ## How to Use a Streaming Webcam with OBS 
-
-This video will teach you how to configure a webcam with OBS, a popular streaming client. 
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X1BYw_Ah-bk?start=40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+*This video will teach you how to configure a webcam with OBS, a popular streaming client.*
+
 ## Conclusion
 
 Live streaming is growing ever more popular these days – no wonder you want to start streaming yourself! 
 
-Viewers enjoy streams with facecams more than streams without, probably because they feel more of a connection with the streamer if they can see them. After all, live interaction is one of the best parts of a stream.
+Viewers enjoy streams with [facecams](https://www.reddit.com/r/Twitch/comments/7jivh3/how_important_is_having_a_facecam_while_streaming/){: target="_blank"} more than streams without, probably because they feel more of a connection with the streamer if they can see them. After all, live interaction is one of the best parts of a stream.
 
 If you want to start streaming, including a facecam is crucial. However, cameras can be expensive. As long as you keep your facecam in the corner of your stream's screen, a 1080p webcam (or even a 720p webcam) will do the job. 
 
