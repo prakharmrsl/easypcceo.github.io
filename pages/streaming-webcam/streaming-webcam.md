@@ -131,7 +131,26 @@ The microphone also features automatic color correction, a hi-fi microphone, and
 	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=mevo&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
 </div>
 
+## [Logitech C930e](https://amzn.to/2v5hYaN){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2v5hYaN"><img alt="logitech c930e" class="img-right img-small" src="/img/streaming-webcam/logitech-c930e.png" /></a>
 
+The [C930e](https://amzn.to/2v5hYaN){: target="_blank"} is Logitech's most advanced HD webcam, but it's also one of the most expensive webcams on the market. 
+
+Unlike most HD webcams which rely on the PC to do all of the hard work, this webcam encodes its own video. 
+
+The result?
+
+Better video quality and a lighter load on your PC. The wide 90-degree field of view is great for videoconferencing and streaming, too. 
+
+The webcam is capable of 1080p video recording and streaming, and it has a Zeiss wide angle lens. 
+
+It's expensive, but it is also one of the best webcams on the market. If you want a high quality facecam for your stream, this webcam is a strong contender. 
+
+<div class="button-wrapper">
+	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2v5hYaN">View on Amazon</a>
+	<br>
+	<a class="cta-button learn-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338349767&customid=&icep_uq=logitech+c930e&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">View on eBay</a>
+</div>
 
 ## What to Consider Before You Buy
 

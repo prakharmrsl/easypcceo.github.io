@@ -2,7 +2,7 @@
 title: How to Mine Cryptocurrency for Profit (2018)
 permalink: "/crypto-mining/"
 layout: page
-seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2018 Updated)" 
+seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2018)" 
 ---
 <h3 class="page-subtitle">
 	Updated July 22nd, 2018 by 
