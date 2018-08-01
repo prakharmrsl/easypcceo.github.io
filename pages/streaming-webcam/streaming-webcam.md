@@ -174,7 +174,21 @@ If you're going to display your facecam on the full screen, you'll want to go fo
 
 ## How to Use a Streaming Webcam with OBS 
 
+This video will teach you how to configure a webcam with OBS, a popular streaming client. 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X1BYw_Ah-bk?start=40" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ## Conclusion
+
+Live streaming is growing ever more popular these days – no wonder you want to start streaming yourself! 
+
+Viewers enjoy streams with facecams more than streams without, probably because they feel more of a connection with the streamer if they can see them. After all, live interaction is one of the best parts of a stream.
+
+If you want to start streaming, including a facecam is crucial. However, cameras can be expensive. As long as you keep your facecam in the corner of your stream's screen, a 1080p webcam (or even a 720p webcam) will do the job. 
+
+They're a great way to dip your toe in the water without having to shell out a massive amount of money. You can't go wrong with any of the streaming webcams listed above! 
 
 * TOC
 {:toc}
