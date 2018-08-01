@@ -2,7 +2,7 @@
 title: "The Best 1440p Gaming Monitors of 2018"
 permalink: "/best-1440p-gaming-monitors/"
 layout: page
-seotitle: "21 Best 1440p Gaming Monitors of 2018 (Comparison)"
+seotitle: "21 Best 1440p Gaming Monitor Comparison (2018 Updated)"
 ---
 
 <h3 class="page-subtitle">
