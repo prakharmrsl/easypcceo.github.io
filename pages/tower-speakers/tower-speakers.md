@@ -89,3 +89,14 @@ Onkyo produces amazing products for those on a budget. Rather than a mid-level s
 The speakers are rated for 55Hz on the low end, but you won't need a subwoofer, as these speakers have impactful base. Overall, you can't go wrong with Onkyo's SKF-4800, especially considering its price. 
 
 This set of speakers is easily one of the best you'll find below $500.
+
+## [Klipsch R-24F (Pair)](https://amzn.to/2AJD5Vq){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2AJD5Vq"><img alt="Klipsch R-24F (Pair)" class="img-right img-small" src="/img/tower-speaker/klipsch-r-24f.png" /></a>
+
+The [Klipsch R-24F](https://amzn.to/2AJD5Vq){: target="_blank"} has consistently proven itself as a worthy contender in its weight class. The speaker yields great results across the boards: it is efficient, the design is attractive, and the speaker features smooth audio reproduction. 
+
+The speakers blast rumbling lows, clear mids and crisp highs, too. Unlike other floor standing tower speakers that sound muddy during hard-hitting bass, these speakers emit clear and impressive low bass frequencies. 
+
+These tower speakers each have two 8-inch IMG subwoofers and a 1-inch tweeter that is responsible for a lot of the midrange and high frequencies. 
+
+If you're looking for a pair of speakers that will provide you with depth and clarity that unmatched by any other speaker, consider a pair of Klipsch R24F speakers. 
