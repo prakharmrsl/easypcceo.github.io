@@ -105,7 +105,19 @@ The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank
 
 The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
 
-As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea. 
+As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
+
+## Gaming Ethernet Cable FAQ (Frequently Asked Questions)
+
+I get a lot of questions regarding this topic, so I've created this FAQ section to answer some of the more common ones. 
+
+**Does it matter which type of cable I use?** In my experience, it doesn't really matter a whole lot, but buying a Cat6 cable is always a good idea. However, if your internet connection is too slow for gaming in the first place, buying an expensive ethernet cable isn't going to help you. 
+
+**Can I use a wireless adapter instead?** Of course you can! I actually use a wireless adapter with my setup because I'm living in a college dorm, and it works well for me. Using a wired connection is only ideal if you need the fastest possible connection, and you're somewhat close to your router. 
+
+**How long can the cable be?** If your router is far away from your setup, you're going to need a long ethernet cable. Just remember that signal strength deteriorates as the cable becomes longer. Any of the cables on this list will do just fine.  
+
+**What's faster, wireless or wired?** Yes, sometimes I'm actually asked this question. Wired, of course!
 
 ## Conclusion 
 
