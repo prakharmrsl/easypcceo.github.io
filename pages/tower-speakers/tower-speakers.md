@@ -95,7 +95,7 @@ This set of speakers is easily one of the best you'll find below $500.
 
 The [Klipsch R-24F](https://amzn.to/2AJD5Vq){: target="_blank"} has consistently proven itself as a worthy contender in its weight class. The speaker yields great results across the boards: it is efficient, the design is attractive, and the speaker features smooth audio reproduction. 
 
-The speakers blast rumbling lows, clear mids and crisp highs, too. Unlike other floor standing tower speakers that sound muddy during hard-hitting bass, these speakers emit clear and impressive low bass frequencies. 
+The speakers blast rumbling lows, clear mids and crisp highs. Unlike other floor standing tower speakers that sound muddy during hard-hitting bass, these speakers emit clear and impressive low bass frequencies. 
 
 These tower speakers each have two 8-inch IMG subwoofers and a 1-inch tweeter that is responsible for a lot of the midrange and high frequencies. 
 
