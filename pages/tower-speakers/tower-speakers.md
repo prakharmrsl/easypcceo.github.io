@@ -12,7 +12,7 @@ seotitle: "5 Best Tower Speakers Under 500 in 2018 (Comparison)"
 
 If you're like me, you won't settle for anything less than the best sound quality. 
 
-Floor standing tower speakers are incredibly popular, because they sound fantastic. 
+Floor standing [tower speakers](https://www.klipsch.com/blog/what-to-look-for-when-purchasing-a-floorstanding-speaker){: target="_blank"} are incredibly popular, because they sound fantastic. 
 
 They're great for home theaters, gaming setups, and you can listen to music too (obviously). 
 
@@ -58,7 +58,7 @@ I've scoured the internet to compile my ultimate list of the 5 best tower speake
 
 The [T50](https://amzn.to/2M2xkqh){: target="_blank"} doesn't have any fancy features, but it definitely gets the job done. This 36.25" high enclosure speaker is a great speaker for those of you on a budget. 
 
-Drivers include a one-inch silk dome tweeter, a 6.5-inch composite cone woofer, and two 6.5 passive radiators. 
+Drivers include a one-inch silk dome tweeter, a 6.5-inch composite cone [woofer](https://en.wikipedia.org/wiki/Woofer){: target="_blank"}, and two 6.5 passive radiators. 
 
 If you want to set up a home theater system, buying a few Polk T50s is a good choice. The speaker's subwoofer handled explosions well, and dialogue sounded crisp and clear, too. 
 
@@ -82,9 +82,9 @@ Although it has a relatively low price tag, this speaker can hold its own, espec
 ## [Onkyo SKF-4800​ (Pair)](https://amzn.to/2M0bIuE){: target="_blank"} 
 <a target="_blank" href="https://amzn.to/2M0bIuE"><img alt="Onkyo SKF-4800" class="img-right img-small" src="/img/tower-speaker/onkyo-skf-4800.jpg " /></a>
 
-The [Onkyo SKF-4800​](https://amzn.to/2M0bIuE){: target="_blank"} is one of the best floor standing speakers for your money. Its one-inch soft dome tweeter radiates lovely high-frequency sound that accompany the speaker's amazing base. 
+The [Onkyo SKF-4800​](https://amzn.to/2M0bIuE){: target="_blank"} is one of the best floor standing speakers for your money. Its one-inch soft dome tweeter radiates lovely high-frequency sound that accompanies the speaker's amazing base. 
 
-Onkyo produces amazing products for those on a budget. Rather than a mid-level sound bar or home theater system, you can couple this speaker set with an Onkyo receiver to create an awesome surround sound system. 
+Onkyo produces superb products for those on a budget. Rather than a mid-level sound bar or home theater system, you can couple this speaker set with an Onkyo receiver to create an awesome surround sound system. 
 
 The speakers are rated for 55Hz on the low end, but you won't need a subwoofer, as these speakers have impactful base. Overall, you can't go wrong with Onkyo's SKF-4800, especially considering its price. 
 
@@ -99,7 +99,7 @@ The speakers blast rumbling lows, clear mids and crisp highs. Unlike other floor
 
 These tower speakers each have two 8-inch IMG subwoofers and a 1-inch tweeter that is responsible for a lot of the midrange and high frequencies. 
 
-If you're looking for a pair of speakers that will provide you with depth and clarity that unmatched by any other speaker, consider a pair of Klipsch R24F speakers. 
+If you're looking for a pair of speakers that will provide you with depth and clarity that is unmatched by any other, consider a pair of Klipsch R24F speakers. 
 
 ## [KEF Q550](https://amzn.to/2M4T18Y){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2M4T18Y"><img alt="KEF Q550" class="img-right img-small" src="/img/tower-speaker/kef-q550.jpg" /></a>
@@ -140,7 +140,7 @@ Cheap speakers will use cone tweeters, whereas more expensive (and higher qualit
 
 ## Wattage 
 
-Wattage is the amount of power consumed by each speaker. Consider watts per channel, as this measures how much potential each one has. 
+[Wattage](https://en.wikipedia.org/wiki/Watt){: target="_blank"} is the amount of power consumed by each speaker. Consider watts per channel, as this measures how much potential each one has. 
 
 Peak wattage is how much the speaker can withstand at maximum load, and can often be ignored. Continuous wattage is the average wattage the speaker consumes during general use. 
 
