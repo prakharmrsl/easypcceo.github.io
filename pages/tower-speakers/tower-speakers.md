@@ -136,6 +136,8 @@ The more drivers packed into one speaker, the better the speaker's sound quality
 
 Cheap speakers will use cone tweeters, whereas more expensive (and higher quality) models will use dome tweeters, which emit sound more effectively.  
 
+![Tower Speakers](/img/tower-speaker/speakers.jpg)
+
 ## Wattage 
 
 Wattage is the amount of power consumed by each speaker. Consider watts per channel, as this measures how much potential each one has. 
@@ -160,14 +162,19 @@ If you want serious bass, consider buying an aftermarket subwoofer to accompany 
 
 While you’re certainly able to get away with relying on the woofers in your floorstanding speakers – especially in the case of models like the GoldenEar Triton One, which have three huge 9” woofers (!) – we would always recommend buying an additional subwoofer. It will do the job that even the best floorstanding speakers can’t.
 
+## Home Theater vs. HiFi
 
-## What to Look for Before You Buy 
+Can you use floorstanding tower speakers in your home theater setup, or are they only sufficient for music? 
 
-## Tower Speakers FAQ (Frequently Asked Questions)
+Most people would say you should use floorstanding speakers for a home theater system. If you want to buy speakers for a HiFi music system, go for bookshelf speakers instead. 
+
+In reality, as long as you pair your floorstanding speakers with a good amp, they'll work perfectly well in a HiFi music setup. You'll get a bigger bang for your buck out of floorstanding tower speakers than you will with bookshelf speakers. 
 
 ## Conclusion 
 
+Floorstanding tower speakers are a great solution for a home theater system. They're also awesome for listening to music. All in all, you can't go wrong with a great set of tower speakers. They can even be used as gaming speakers! Although, if you want a pair of dedicated [gaming speakers](/best-gaming-speakers/), you'll want to look elsewhere. 
 
+Of course, you don't want to break the bank. That's why I compiled this list of the best tower speakers under 500 dollars. If you have any questions or you need further help, feel free to contact me! 
 
 * TOC
 {:toc}
