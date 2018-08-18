@@ -103,7 +103,7 @@ If you buy a dedicated ASIC miner, there's a chance you won't turn a profit if y
 
 Unless you have access to cheap electricity, mining may not be the best idea. 
 
-However, because the market is low, it is currently a *great* time to buy Litecoin. \
+However, because the market is low, it is currently a *great* time to buy Litecoin. 
 
 You can buy Litecoin from a popular exchange such as [Coinbase](https://www.coinbase.com/){: target="_blank"}. 
 
