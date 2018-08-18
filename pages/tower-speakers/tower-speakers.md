@@ -112,4 +112,62 @@ The speaker's feet use adjustable spikes at the ends which allow you to adjust t
 
 Every sound is detailed and homogeneous. Bass doesn't overpower the sound from other instruments, and it sounds great. Instruments like the violin and guitar are reproduced with clarity and texture, demonstrating the speaker's clarity. 
 
-In conclusion, no matter what genre of music played, the Q550 was fit for the task. I'd highly recommend this small floor standing speaker! 
+In conclusion, no matter what genre of music is being played, the Q550 was fit for the task. I'd highly recommend this small floor standing speaker! 
+
+## How to Position Tower Speakers
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEWQrQk83Cw?start=21" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Floorstanding vs. Bookshelf Speakers 
+
+To put it simply, bookshelf speakers are short and fat, while floorstanding speakers are tall and thin. Of course, there's more to it than that. 
+
+There are situations in which both floorstanding and bookshelf speakers could be used together. For example, in a home hifi setup with a stereo amp, both types of speakers are ideal for playing music. 
+
+Floorstanding speakers are often more powerful than bookshelf speakers, and usually deliver a more powerful and wider sound than bookshelf speakers. Floorstanding speakers are also great for those with limited space, as they don't take up much room on the floor. 
+
+## Speaker Drivers 
+
+Speaker drivers are the individual engines that produce sound by turning the electronic audio signals into something you can hear. 
+
+The more drivers packed into one speaker, the better the speaker's sound quality will be (in most cases). If a speaker has less than three drivers, it's probably a good idea to steer clear. 
+
+Cheap speakers will use cone tweeters, whereas more expensive (and higher quality) models will use dome tweeters, which emit sound more effectively.  
+
+## Wattage 
+
+Wattage is the amount of power consumed by each speaker. Consider watts per channel, as this measures how much potential each one has. 
+
+Peak wattage is how much the speaker can withstand at maximum load, and can often be ignored. Continuous wattage is the average wattage the speaker consumes during general use. 
+
+## Sensitivity 
+
+Also referred to as efficiency, speaker sensitivity measures how loud speakers can become when consuming a certain amount of power. 
+
+It's important to note that manufacturers don't have a testing standard, so you should consider sensitivity ratings lightly. 
+
+## Frequencies 
+
+Frequencies measure how low and high sounds are, in Hertz (Hz). Speakers with a wider frequency range can emit more detailed sound. Humans can only hear a maximum of 17,000 Hz. 
+
+This is where bass comes in. Bass is created by woofers, which are special drivers that are used to create low bass frequencies. Nearly all floorstanding speakers have at least one woofer, but higher end models have more than one. 
+
+Most of the time, floorstanding speakers' woofers are sufficient. However, if you want truly impactful bass, you're going to need to generate frequencies that are so low, they can't be heard, only felt. This takes a tremendous amount of power. 
+
+If you want serious bass, consider buying an aftermarket subwoofer to accompany your floorstanding speakers. 
+
+While you’re certainly able to get away with relying on the woofers in your floorstanding speakers – especially in the case of models like the GoldenEar Triton One, which have three huge 9” woofers (!) – we would always recommend buying an additional subwoofer. It will do the job that even the best floorstanding speakers can’t.
+
+
+## What to Look for Before You Buy 
+
+## Tower Speakers FAQ (Frequently Asked Questions)
+
+## Conclusion 
+
+
+
+* TOC
+{:toc}
