@@ -5,7 +5,7 @@ layout: page
 seotitle: "5 Best Tower Speakers Under 500 in 2018 (Comparison)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 13th, 2018 by 
+	Updated August 18th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -136,7 +136,7 @@ The more drivers packed into one speaker, the better the speaker's sound quality
 
 Cheap speakers will use cone tweeters, whereas more expensive (and higher quality) models will use dome tweeters, which emit sound more effectively.  
 
-![Tower Speakers](/img/tower-speaker/speakers.jpg)
+![Tower Speakers](/img/tower-speaker/speakers.jpg){: .img-middle}
 
 ## Wattage 
 
