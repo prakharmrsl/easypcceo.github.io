@@ -100,3 +100,16 @@ The speakers blast rumbling lows, clear mids and crisp highs. Unlike other floor
 These tower speakers each have two 8-inch IMG subwoofers and a 1-inch tweeter that is responsible for a lot of the midrange and high frequencies. 
 
 If you're looking for a pair of speakers that will provide you with depth and clarity that unmatched by any other speaker, consider a pair of Klipsch R24F speakers. 
+
+## [KEF Q550](https://amzn.to/2M4T18Y){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2M4T18Y"><img alt="KEF Q550" class="img-right img-small" src="/img/tower-speaker/kef-q550.jpg" /></a>
+
+The [KEF Q550](https://amzn.to/2M4T18Y){: target="_blank"} is the smallest floorstanding speaker in the Q-series. KEF is well known for their high-end products, and the Q550 is no different. 
+
+This speaker is rocking a contemporary modern look. The finish is made of a plastic film, which comes in either white or black. Overall, it looks very good. 
+
+The speaker's feet use adjustable spikes at the ends which allow you to adjust the height of the speaker. 
+
+Every sound is detailed and homogeneous. Bass doesn't overpower the sound from other instruments, and it sounds great. Instruments like the violin and guitar are reproduced with clarity and texture, demonstrating the speaker's clarity. 
+
+In conclusion, no matter what genre of music played, the Q550 was fit for the task. I'd highly recommend this small floor standing speaker! 
