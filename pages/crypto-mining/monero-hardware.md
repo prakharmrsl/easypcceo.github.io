@@ -10,8 +10,6 @@ seotitle: "5 Best Monero Mining Hardware GPUs & CPUs 2018 (Cryptonight) "
 	Jacob Tuwiner
 </h3>
 
-![Monero Header](/img/header/monero-hardware.jpg)
-
 The time is now to start mining Monero. 
 
 Here's why: 
