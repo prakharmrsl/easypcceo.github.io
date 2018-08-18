@@ -2,7 +2,7 @@
 title: "The Best Litecoin Miner ASIC of 2018" 
 permalink: "/crypto-mining/litecoin-hardware/"
 layout: page
-seotitle: "Best Litecoin Mining Hardware ASIC 2018 (Best Litecoin Miner)" 
+seotitle: "#1 Best Litecoin Miner 2018 (Litecoin Mining Hardware)" 
 ---
 <h3 class="page-subtitle">
 	Updated August 18th, 2018 by 

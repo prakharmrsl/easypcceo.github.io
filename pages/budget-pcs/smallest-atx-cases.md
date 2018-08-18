@@ -34,7 +34,7 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series 400C</td>
-		<td><a target="_blank" href="https://amzn.to/2GQU3io"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Clean Design</li>
@@ -42,11 +42,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Spacious</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2GQU3io">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series Air 540</td>
-		<td><a target="_blank" href="https://amzn.to/2LyqDZL"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Compact Case</li>
@@ -54,11 +54,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Fantastic Cable Management</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LyqDZL">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master HAF XB II EVO</td>
-		<td><a target="_blank" href="https://amzn.to/2sgnaq6"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Small Case, Plenty of Space</li>
@@ -66,11 +66,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Supports Full-Size CPU Coolers</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2sgnaq6">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>NZXT H400i</td>
-		<td><a target="_blank" href="https://amzn.to/2J8OIIo"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2vVdW5d"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Beautiful Case Design</li>
@@ -78,11 +78,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Constructed with Aluminum Alloy</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2J8OIIo">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2vVdW5d">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core V21 SPCC</td>
-		<td><a target="_blank" href="https://amzn.to/2LCRrrZ"><img class="table-image" src="/img/case/thermaltake-core-v21.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2wd4F7Z"><img class="table-image" src="/img/case/thermaltake-core-v21.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Low Profile Case</li>
@@ -90,11 +90,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Easy to Use</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LCRrrZ">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2wd4F7Z">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master MasterBox Lite 3.1 TG</td>
-		<td><a target="_blank" href="https://amzn.to/2ITSZ32"><img class="table-image" src="/img/case/masterbox-lite.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2MAEEcI"><img class="table-image" src="/img/case/masterbox-lite.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Lightweight</li>
@@ -102,11 +102,11 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Sleek Design</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2ITSZ32">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2MAEEcI">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core G3 Slim ATX Case</td>
-		<td><a target="_blank" href="https://amzn.to/2xjloKE"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Slim ATX Case Design</li>
@@ -114,15 +114,15 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			<li>Full-Size with Low Profile</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2xjloKE">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View Lowest Prices</a></td>
 	</tr>
 </table>
 
-## [Corsair Carbide Series 400C](https://amzn.to/2GQU3io){: target="_blank"} - $90
+## [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} - $90
 
-<a target="_blank" href="https://amzn.to/2GQU3io"><img class="img-right img-small" src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="img-right img-small" src="/img/case/corsair-carbide-400c.jpg" /></a>
 
-The [Corsair Carbide Series 400C](https://amzn.to/2GQU3io){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case. 
+The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case. 
 
 The $90 pricepoint is well placed, especially when compared to other cases of this quality. The 400C looks sleek and refined – even though it's a smaller case, the interior still supports up to E-ATX motherboards. 
 
@@ -138,11 +138,11 @@ Despite being a simple case, it still leaves plenty of room for customization. T
 
 Overall, it's a wonderful case manufactured by a reputable company. If you're looking for a small ATX case, the 400C is a strong contender. At the end of the day, it may simply come down to whether or not you desire 5.25" bays or not – for most (myself included), the lack of 5.25" bays is not a problem. 
 
-## [Corsair Carbide Series Air 540](https://amzn.to/2LyqDZL){: target="_blank"}
+## [Corsair Carbide Series Air 540](https://amzn.to/2MUOsLS){: target="_blank"}
 
-<a target="_blank" href="https://amzn.to/2LyqDZL"><img class="img-right img-small" src="/img/case/carbide-air-540.png" /></a>
+<a target="_blank" href="https://amzn.to/2MUOsLS"><img class="img-right img-small" src="/img/case/carbide-air-540.png" /></a>
 
-The [Air 540](https://amzn.to/2LyqDZL){: target="_blank"}'s cube shaped design definitely sets it apart from other cases. 
+The [Air 540](https://amzn.to/2MUOsLS){: target="_blank"}'s cube shaped design definitely sets it apart from other cases. 
 
 The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case, especially if they want their components housed in a low-profile case. 
 
@@ -162,11 +162,11 @@ What's the bottom line here?
 
 This case seems compact on the outside yet is spacious inside, with superb airflow. Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
 
-## [Cooler Master HAF XB II EVO](https://amzn.to/2sgnaq6){: target="_blank"} - $85
+## [Cooler Master HAF XB II EVO](https://amzn.to/2N0cAMT){: target="_blank"} - $85
 
-<a target="_blank" href="https://amzn.to/2sgnaq6"><img class="img-right img-small" src="/img/case/cooler-master-haf.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2N0cAMT"><img class="img-right img-small" src="/img/case/cooler-master-haf.jpg" /></a>
 
-Cooler Master's [HAF XB II EVO](https://amzn.to/2sgnaq6){: target="_blank"} is a versatile, compact case that is easily converted into an open air test bench. 
+Cooler Master's [HAF XB II EVO](https://amzn.to/2N0cAMT){: target="_blank"} is a versatile, compact case that is easily converted into an open air test bench. 
 
 The case has two 5.25-inch drive bays, two 3.5-inch drive bays, and six 2.5-inch drive bays. The case also has one front-facing 120mm fan, one rear 120mm fan, and one top-mounted 200mm fan.
 
@@ -189,13 +189,13 @@ Moral of the story?
 
 This case is well-built, has plenty of room that provides great airflow, and is incredibly versatile. Its small form-factor and carrying handles make it a great LAN box. The removable motherboard tray also turns this case into a convenient test bench. 
 
-## [NZXT H400i](https://amzn.to/2J8OIIo){: target="_blank"} - $150
+## [NZXT H400i](https://amzn.to/2vVdW5d){: target="_blank"} - $150
 
-<a target="_blank" href="https://amzn.to/2J8OIIo"><img class="img-right img-small" src="/img/case/nzxt-h400i.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2vVdW5d"><img class="img-right img-small" src="/img/case/nzxt-h400i.jpg" /></a>
 
 It's no surprise that an NZXT case is being featured on this list of the best small ATX cases. NZXT is a well-respected company known for their quality products. 
 
-The [H400i](https://amzn.to/2J8OIIo){: target="_blank"} micro-ATX case delivers the best of both worlds, a perfect cross between mini-ITX and full sized ATX. 
+The [H400i](https://amzn.to/2vVdW5d){: target="_blank"} micro-ATX case delivers the best of both worlds, a perfect cross between mini-ITX and full sized ATX. 
 
 The case has fantastic cooling support and cable management, not to mention its beautiful paint job and intuitive design. I'd recommend this case to new  builders because it is easy to work with. 
 
@@ -207,11 +207,11 @@ The case supports five drives, but four of them are 2.5" drives meant for an SSD
 
 This case is quite pricey, so I would not recommend it for budget builders. However, it is an incredibly high-quality case – if you have the money, you won't regret investing in the 400i. 
 
-## [Thermaltake Core V21 SPCC](https://amzn.to/2LCRrrZ){: target="_blank"} - $57
+## [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} - $57
 
-<a target="_blank" href="https://amzn.to/2LCRrrZ"><img class="img-right img-small" src="/img/case/thermaltake-core-v21.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2wd4F7Z"><img class="img-right img-small" src="/img/case/thermaltake-core-v21.jpg" /></a>
 
-The [Thermaltake Core V21 SPCC](https://amzn.to/2LCRrrZ){: target="_blank"} is a cube-shaped case that allows you to customize the panels and cooling how you like. 
+The [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} is a cube-shaped case that allows you to customize the panels and cooling how you like. 
 
 According to [Kit Guru](https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/){: target="_blank}: 
 
@@ -227,11 +227,11 @@ Considering the quality of the case and its low price, the V21 simply makes sens
 
 Click [here](https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/){: target="_blank"} for a full review of the Thermaltake Core V21 SPCC.
 
-## [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2ITSZ32){: target="_blank"} – $45
+## [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} – $45
 
-<a target="_blank" href="https://amzn.to/2ITSZ32"><img class="img-right img-small" src="/img/case/masterbox-lite.png" /></a>
+<a target="_blank" href="https://amzn.to/2MAEEcI"><img class="img-right img-small" src="/img/case/masterbox-lite.png" /></a>
 
-The [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2ITSZ32){: target="_blank"} may not be as low cost when compared to ultra budget cases, but it really gives you a great bang for your PC gaming buck. 
+The [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} may not be as low cost when compared to ultra budget cases, but it really gives you a great bang for your PC gaming buck. 
 
 The case has more room and better features than many of its competitors, which is why I decided to include it on this page. Despite being a micro-ATX case, it still has sufficient space for even some of the largest graphics cards and CPU coolers on the market. 
 
@@ -245,11 +245,11 @@ It's no surprise that another case by Cooler Master made the list – this time 
 
 Click [here](https://techguided.com/cooler-master-masterbox-lite-3-1-review/){: target="_blank"} for a full case review. 
 
-## [Thermaltake Core G3 Slim ATX Case](https://amzn.to/2xjloKE){: target="_blank"} - $70
+## [Thermaltake Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} - $70
 
-<a target="_blank" href="https://amzn.to/2xjloKE"><img class="img-right img-small" src="/img/case/thermaltake-core-g3.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2vTJbgT"><img class="img-right img-small" src="/img/case/thermaltake-core-g3.jpg" /></a>
 
-The second Thermaltake case on this list is the [Core G3 Slim ATX Case](https://amzn.to/2xjloKE){: target="_blank"}, which is also the second case from Thermaltake's Core series. 
+The second Thermaltake case on this list is the [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"}, which is also the second case from Thermaltake's Core series. 
 
 In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! 
 

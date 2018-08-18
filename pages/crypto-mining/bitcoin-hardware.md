@@ -77,7 +77,7 @@ Nowadays, the only way to mine Bitcoin is with [ASIC](https://en.wikipedia.org/w
 	</tr>
 </table>
 
-## Dragonmint T16 
+## Best ASIC Miner: Dragonmint T16 
 ![Halong Mining Dragonmint T16](/img/cryptocurrency/dragonmint-16t.jpg){: .img-right .img-small}
 
 The Dragonmint T16 is the world's most advanced ASIC miner – utilizing a new DM8575 chip design, the Dragonmint T16 is the first to achieve 16 TH/s. 
