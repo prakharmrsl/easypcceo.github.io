@@ -18,7 +18,7 @@ They're great for home theaters, gaming setups, and you can listen to music too 
 
 I've scoured the internet to compile my ultimate list of the 5 best tower speakers under 500, so you can enjoy the quality of an awesome sound system, without breaking the bank. 
 
-## Best Tower Speakers 
+## Best Tower Speakers (Under $500)
 
 <table class="basic-table">
 	<tr>
