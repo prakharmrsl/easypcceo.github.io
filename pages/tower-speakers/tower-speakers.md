@@ -166,7 +166,7 @@ While you’re certainly able to get away with relying on the woofers in your fl
 
 Can you use floorstanding tower speakers in your home theater setup, or are they only sufficient for music? 
 
-Most people would say you should use floorstanding speakers for a home theater system. If you want to buy speakers for a HiFi music system, go for bookshelf speakers instead. 
+Most people would say you should use floorstanding speakers for a home theater system. If you want to buy speakers for a [HiFi](https://www.whathifi.com/features/how-to-build-perfect-hi-fi-system){: target="_blank"} music system, go for bookshelf speakers instead. 
 
 In reality, as long as you pair your floorstanding speakers with a good amp, they'll work perfectly well in a HiFi music setup. You'll get a bigger bang for your buck out of floorstanding tower speakers than you will with bookshelf speakers. 
 
