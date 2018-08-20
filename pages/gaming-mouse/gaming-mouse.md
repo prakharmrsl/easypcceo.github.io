@@ -54,6 +54,32 @@ Luckily for you, I've created this list of the best (cheap) gaming mice on the m
 	</tr>
 </table>
 
+## [LINGYI Gaming Mouse](https://amzn.to/2MCmjMI){: target="_blank"} - $9
+<a target="_blank" href="https://amzn.to/2MCmjMI"><img class="img-small img-right" alt="lingyi gaming mouse" src="/img/mouse/lingyi-gaming-mouse.jpg" /></a>
+
+The [LINGYI Gaming Mouse](https://amzn.to/2MCmjMI){: target="_blank"} is a big and flashy gaming mouse. It's a bit over the top in my opinion, but it's incredibly comfortable to hold and easy to use. 
+
+Best of all? 
+
+This gaming mouse is dirt cheap! Simply plug in the mouse and you can adjust its lighting and DPI settings. The mouse's DPI starts at 1200 an goes up from there, which is pretty high – on the other hand, you can't ask for much more from an $8 gaming mouse. 
+
+It isn't the best mouse on the market, but it definitely offers a great bang for your buck, especially if you are on a tight budget. 
+
+## [Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} - $20
+<a target="_blank" href="https://amzn.to/2Plqdb7"><img class="img-right img-small" alt="Logitech G300s" src="/img/mouse/logitech-g300s.png" /></a>
+
+The [Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} is not cheaply made – it's actually an awesome mouse. It's sporting a durable build, a responsive and accurate sensor, not to mention an incredibly ergonomic grip. 
+
+So, why is this mouse so cheap? 
+
+It's an old mouse. Don't worry – an old mouse from Logitech is still superior to a new knockoff brand any day of the week. 
+
+It has an ambidextrous design, color backlighting, and six programmable macro buttons with three unique button profiles. 
+
+The mouse also has totally accurate DPI levels, which you can program yourself with Logitech's unique software.
+
+In all honesty, this mouse is a steal for a mere $20. 
+
 ## Cheap Gaming Mice for Fortnite
 ![Fortnite Logo](/img/fortnite-logo.png){: .img-right .img-small} 
 
