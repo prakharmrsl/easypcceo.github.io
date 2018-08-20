@@ -54,7 +54,8 @@ Luckily for you, I've created this list of the best (cheap) gaming mice on the m
 	</tr>
 </table>
 
-## Cheap Gaming Mice for Fortnite 
+## Cheap Gaming Mice for Fortnite
+![Fortnite Logo](/img/fortnite-logo.png){: .img-right .img-small} 
 
 Fortnite has become one of the most popular games in the world. 
 
@@ -65,6 +66,7 @@ If you're chasing a victory royale, you're going to need the [best mouse for For
 [Read Our Guide](/gaming-mouse/fortnite/){: .big-button}
 
 ## Cheap Gaming Mice for League of Legends
+![LOL Gaming Mouse](/img/lol-logo.png){: .img-right .img-small}
 
 League of Legends is insanely competitive. Professional gameplay is intense – if you want to stand a chance in the arena, you're going to need the right mouse for the job. 
 
