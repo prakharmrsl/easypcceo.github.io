@@ -127,6 +127,30 @@ Similar to the original DeathAdder, the DeathAdder Elite is only different in th
 
 Overall, this mouse is an excellent choice if you have the money in your budget. 
 
+## More Mouse Guides 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>IMG</th>
+		<th>Guide</th>
+		<th>Read the Guide</th>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="fortnite logo" src="/img/fortnite-logo.png" /></td>
+		<td>Best Mice for Fortnite</td>
+		<td><a class="big-button" href="/gaming-mouse/fortnite/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="league of legends logo" src="/img/lol-logo.png" /></td>
+		<td>Best Mice for League of Legends</td>
+		<td><a class="big-button" href="/gaming-mouse/league-of-legends/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="left hand logo" src="/img/left-hand.png" /></td>
+		<td>Best Left Handed Gaming Mice</td>
+		<td><a class="big-button" href="/gaming-mouse/left-handed/">Learn More</a></td>
+	</tr>
+</table>
 ## Cheap Gaming Mice for Fortnite
 
 Fortnite has become one of the most popular games in the world. 
