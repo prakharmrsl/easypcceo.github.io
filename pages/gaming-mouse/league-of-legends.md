@@ -98,7 +98,7 @@ In addition to the programmable buttons on the side of the mouse, the DeathAdder
 
 The DeathAdder Elite contains Razer’s Synapse 2.0 software. The Synapse software is used to manage buttons, button profiles, customize RGB lighting, and manage settings such as the DPI.
 
-This mouse is great for League of Legends, but it can also be employed for use in FPS games, battle royale games, and more. It’s an all-around mouse from a reputable company. 
+This mouse is great for League of Legends, but it can also be employed for use in FPS games, [battle royale games](/gaming-mouse/fortnite/), and more. It’s an all-around mouse from a reputable company. 
 
 <div class="button-wrapper">
 	<a class="btn-middle" href="https://amzn.to/2uQ8r7n">Check Price on Amazon</a>
@@ -130,7 +130,7 @@ Overall, this mouse is best used best for MOBA gameplay. The buttons on the side
 
 The BenQ ZOWIE FK1 has a simple and straightforward design. It is relatively light and uses the Avago 3310 optical sensor. 
 
-It has an adjustable DPI sensor – you can choose from 400, 800, 1600, and  3200 DPI. The mouse is ambidextrous, with thumb buttons on both the left and right side. If you're looking for an awesome [left handed gaming mouse](/budget-pcs/left-handed-gaming-mouse/), this is the one for you! 
+It has an adjustable DPI sensor – you can choose from 400, 800, 1600, and  3200 DPI. The mouse is ambidextrous, with thumb buttons on both the left and right side. If you're looking for an awesome [left handed gaming mouse](/gaming-mouse/left-handed/), this is the one for you! 
 
 It is a “plug and play” mouse, meaning it doesn’t require any drivers for setup. This is especially good news if you want to hop right into the action!
 

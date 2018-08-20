@@ -5,6 +5,12 @@ permalink: "/gaming-mouse/"
 seotitle: "5 Best & Cheapest Gaming Mouse Options Compared (2018 Updated)"
 ---
 
+<h3 class="page-subtitle">
+	Updated August 20th, 2018 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
 Here's the deal: 
 
 If you want to be a PC gamer, you *need* a great gaming mouse. 
@@ -127,6 +133,30 @@ Similar to the original DeathAdder, the DeathAdder Elite is only different in th
 
 Overall, this mouse is an excellent choice if you have the money in your budget. 
 
+## Mouse DPI Explained in 5 Minutes
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cAEb9a-dltk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Cheap Gaming Mouse Buying Guide 
+
+If you're new to the PC gaming community, or you just don't know what to look for in a gaming mouse, I've got your back. Be sure to consider the following before buying: 
+
+* **DPI:** DPI stands for dots per inch, and it measures mouse sensitivity. Adjusting your DPI will affect the speed of your mouse movement.  
+
+* **Programmable Buttons:** Almost all gaming mice have at least a few programmable buttons, known as macros. Most gamers prefer their mouse to have several macros, as they are often incredibly convenient. Instead of having to reach your hand across the keyboard, you can have all of your important controls right at the tip of your thumb. 
+
+* **Polling Rate:** Polling rate is how long it takes for the input from your mouse to reach your computer, and how quickly your computer will update your inputs. If you're buying a gaming mouse, it's important your mouse has a high polling rate, especially if you're a competitive gamer. Try to find a mouse with a polling rate of at least 1,000 Hertz.  
+
+![Mouse cover](/img/fortnite-mouse/cover.jpg)
+
+* **Sensor:** All mice – gaming mice included – use a sensor to track movement. The sensor is either an optical sensor or a laser sensor. Optical sensors are slightly less precise than laser sensors. However, they're also cheaper. In my opinion, the difference is negligible, but if you're an incredibly competitive gamer or you play FPS games which require accurate shots, go for a laser sensor. 
+
+* **Acceleration:** Mouse acceleration is not a good thing, especially when it comes to gaming. Basically, when you move your mouse very quickly across two inches of your mousepad, the cursor will move farther than if you had moved it two inches, but very slowly. If you're a gamer, you want to develop muscle memory so that you can quickly snap to your target. If you have mouse acceleration on, you won't be able to build up the muscle memory, and your shots will be inaccurate. 
+
+* **Lift Off Distance:** I usually play with a lower sensitivity, as I can more easily track targets. With that being said, often times I have to pick up my mouse to readjust it before I run out of room on the mousepad. If your mouse tracks movement even when it is high off of the mousepad, you'll be all over the place while readjusting the mouse. If you're looking for a gaming mouse, find one with a low lift off distance, so you'll stay on target when readjusting. This is especially important if you prefer a lower sensitivity. 
+
 ## More Mouse Guides 
 
 <table class="basic-table" align="center">
@@ -151,6 +181,7 @@ Overall, this mouse is an excellent choice if you have the money in your budget.
 		<td><a class="big-button" href="/gaming-mouse/left-handed/">Learn More</a></td>
 	</tr>
 </table>
+
 ## Cheap Gaming Mice for Fortnite
 
 Fortnite has become one of the most popular games in the world. 
@@ -179,3 +210,8 @@ Most people are right handed, therefore most mice are also designed for right ha
 However, that doesn't mean you can't find an awesome mouse for your left hand. There are plenty of [left handed](/gaming-mouse/left-handed/) and ambidextrous gaming mice on the market. 
 
 [Read Our Guide](/gaming-mouse/left-handed/){: .big-button}
+
+## Conclusion 
+
+* TOC
+{:toc}

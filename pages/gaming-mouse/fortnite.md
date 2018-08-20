@@ -116,6 +116,8 @@ If you'd prefer having access to all of the controls you need at the tip of your
 
 The mouse has interchangeable side panels, you can have the option of twelve, seven, or just two thumb buttons. The choice of macro buttons is awesome for Fortnite, especially when you're in the middle of an intense build fight. 
 
+If you also enjoy playing MOBA games like [League of Legends](/gaming-mouse/league-of-legends/), this mouse would be more than fit for the task, thanks to all of the programmable buttons.  
+
 What's the bottom line here?
 
 This mouse is ergonomic, accurate, durable, and has all of the controls you need at the tip of your thumb. 
@@ -123,7 +125,7 @@ This mouse is ergonomic, accurate, durable, and has all of the controls you need
 ## [Best Left Handed Fortnite Mouse: SteelSeries Sensei 310](https://amzn.to/2mQ6iEi){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2mQ6iEi"><img class="img-right img-small" alt="steelseries sensei 310" src="/img/fortnite-mouse/steelseries-sensei-310.png" /></a>
 
-If you're left handed, you may feel like you're at a disadvantage. Luckily for you, SteelSeries has an excellent left handed mouse option that can dominate in Fortnite. 
+If you're [left handed](/gaming-mouse/left-handed/), you may feel like you're at a disadvantage. Luckily for you, SteelSeries has an excellent left handed mouse option that can dominate in Fortnite. 
 
 The [SteelSeries Sensei 310](https://amzn.to/2mQ6iEi){: target="_blank"} is one of the few gaming mice on the market that's just as good in both your right or left hand. 
 

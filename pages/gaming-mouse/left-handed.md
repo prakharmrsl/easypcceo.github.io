@@ -140,7 +140,7 @@ If you're building a [budget gaming PC](/budget-pcs/), maybe [$500](/budget-pcs/
 
 The [Razer Naga Left Handed MMO Gaming Mouse](https://amzn.to/2KHglKl){: target="_blank"} has 12 distinct and programmable macros – it was designed with MMO gamers in mind. 
 
-The mouse is perfect for MMO games because it features so many macros and keymaps. 
+The mouse is perfect for MMO games because it features so many macros and keymaps. If you enjoy playing games like [League of Legends](/gaming-mouse/league-of-legends/), this mouse should be a strong contender on your list of possible candidates. 
 
 If you use a claw grip, this mouse is not for you. The Naga is a large and heavy mouse, with a high profile.  
 
@@ -169,7 +169,9 @@ You can choose from 16.8 million colors for each of the LED zones on the mouse.
 
 The mouse also includes awesome features like FreeMove which eliminates path correction. 
 
-The mouse was designed with E-Sports in mind – in fact, some of the best gamers in the world helped with the mouse's design, including Fnatic, and iNcontrol. It's customizable, comfortable, and incredibly precise. 
+The mouse was designed with E-Sports in mind – in fact, some of the best gamers in the world helped with the mouse's design, including Fnatic, and iNcontrol. It's customizable, comfortable, and incredibly precise.
+
+If you think you're going to spend any time playing shooter games like [Fortnite: Battle Royale](/gaming-mouse/fortnite/), this is the mouse for you.  
 
 ## Razer Deathadder Left Handed Edition - $75
 <a target="_blank" href="https://amzn.to/2J4nPRC"><img alt="Razer deathadder left handed edition" class="img-right img-small" src="/img/left-handed-gaming-mouse/razer-deathadder.png" /></a>
