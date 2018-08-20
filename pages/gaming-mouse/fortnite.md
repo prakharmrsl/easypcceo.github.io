@@ -1,6 +1,6 @@
 ---
 title: "The Best Gaming Mice for Fortnite: Battle Royale in 2018"
-permalink: "/fortnite-mouse/"
+permalink: "/gaming-mouse/fortnite/"
 layout: page
 seotitle: "7 Best Mouse for Fortnite in 2018 (Updated)" 
 ---

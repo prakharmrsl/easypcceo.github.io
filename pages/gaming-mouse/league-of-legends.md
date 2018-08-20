@@ -1,6 +1,6 @@
 ---
 title: "The Best Mice for League of Legends in 2018"
-permalink: "/league-of-legends-mouse/"
+permalink: "/gaming-mouse/league-of-legends/"
 layout: page
 seotitle: "5 Best Mouse for League of Legends 2018 (Comparison)" 
 ---
