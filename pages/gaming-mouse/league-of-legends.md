@@ -215,6 +215,31 @@ I've been receiving many of the same questions with regards to LOL gaming mice, 
 
 **Should I buy a wired or wireless mouse?** I've been using the Razer DeathAdder for years now, which is a wired mouse. I've never had any issues with it, nor do I desire buying a wireless mouse in the future. I never have to worry about replacing a battery, and the connection from my mouse to my computer is faster than a wireless connection. On the other hand, the difference between a wired/wireless mouse is negligible for the most part, so it comes down to a matter of preference.
 
+## More Mouse Guides 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>IMG</th>
+		<th>Guide</th>
+		<th>Read the Guide</th>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="fortnite logo" src="/img/fortnite-logo.png" /></td>
+		<td>Best Mice for Fortnite</td>
+		<td><a class="big-button" href="/gaming-mouse/fortnite/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="league of legends logo" src="/img/lol-logo.png" /></td>
+		<td>Best Mice for League of Legends</td>
+		<td><a class="big-button" href="/gaming-mouse/league-of-legends/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="left hand logo" src="/img/left-hand.png" /></td>
+		<td>Best Left Handed Gaming Mice</td>
+		<td><a class="big-button" href="/gaming-mouse/left-handed/">Learn More</a></td>
+	</tr>
+</table>
+
 ## Conclusion
 
 League of Legends is one of the most popular games in the world. If you're taking it seriously, you need a mouse that's light, agile, responsive, accurate, and comfortable.

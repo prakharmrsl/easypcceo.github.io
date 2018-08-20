@@ -233,6 +233,31 @@ The mouse feels smooth and precise – I felt like my mouse strokes were met wit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Rtt5qwYDasw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
+## More Mouse Guides 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>IMG</th>
+		<th>Guide</th>
+		<th>Read the Guide</th>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="fortnite logo" src="/img/fortnite-logo.png" /></td>
+		<td>Best Mice for Fortnite</td>
+		<td><a class="big-button" href="/gaming-mouse/fortnite/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="league of legends logo" src="/img/lol-logo.png" /></td>
+		<td>Best Mice for League of Legends</td>
+		<td><a class="big-button" href="/gaming-mouse/league-of-legends/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="left hand logo" src="/img/left-hand.png" /></td>
+		<td>Best Left Handed Gaming Mice</td>
+		<td><a class="big-button" href="/gaming-mouse/left-handed/">Learn More</a></td>
+	</tr>
+</table>
+
 ## 5 Things to Consider Before You Buy a Gaming Mouse 
 
 **Price:** Obviously, you're going to have to figure out how much you can afford to spend. If you're a competitive gamer, you're going to want to ensure you have a quality mouse, which may mean you have to spend more than you first thought. Don't be afraid to buy a used or refurbished mouse – I bought a used Razer Deathadder on eBay for $15 four years ago, and it still works perfectly. 

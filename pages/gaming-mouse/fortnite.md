@@ -201,6 +201,31 @@ Before you spend your hard earned money on a gaming mouse, you need to consider 
 
 **Can I use my Fortnite mouse for other games, too?** Of course! The Razer DeathAdder Elite and the Logitech G502 Proteus Spectrum are both incredibly versatile. You can use them for Fortnite, and virtually any other game you want to play! 
 
+## More Mouse Guides 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>IMG</th>
+		<th>Guide</th>
+		<th>Read the Guide</th>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="fortnite logo" src="/img/fortnite-logo.png" /></td>
+		<td>Best Mice for Fortnite</td>
+		<td><a class="big-button" href="/gaming-mouse/fortnite/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="league of legends logo" src="/img/lol-logo.png" /></td>
+		<td>Best Mice for League of Legends</td>
+		<td><a class="big-button" href="/gaming-mouse/league-of-legends/">Learn More</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image" alt="left hand logo" src="/img/left-hand.png" /></td>
+		<td>Best Left Handed Gaming Mice</td>
+		<td><a class="big-button" href="/gaming-mouse/left-handed/">Learn More</a></td>
+	</tr>
+</table>
+
 ## Conclusion 
 
 Fortnite: Battle Royale has taken the world by storm. It's a fun, competitive title that never seems to get old. 

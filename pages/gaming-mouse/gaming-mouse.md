@@ -149,13 +149,11 @@ If you're new to the PC gaming community, or you just don't know what to look fo
 
 * **Polling Rate:** Polling rate is how long it takes for the input from your mouse to reach your computer, and how quickly your computer will update your inputs. If you're buying a gaming mouse, it's important your mouse has a high polling rate, especially if you're a competitive gamer. Try to find a mouse with a polling rate of at least 1,000 Hertz.  
 
-![Mouse cover](/img/fortnite-mouse/cover.jpg)
+![Mouse cover](/img/mouse/mouse-cover.jpg)
 
 * **Sensor:** All mice – gaming mice included – use a sensor to track movement. The sensor is either an optical sensor or a laser sensor. Optical sensors are slightly less precise than laser sensors. However, they're also cheaper. In my opinion, the difference is negligible, but if you're an incredibly competitive gamer or you play FPS games which require accurate shots, go for a laser sensor. 
 
-* **Acceleration:** Mouse acceleration is not a good thing, especially when it comes to gaming. Basically, when you move your mouse very quickly across two inches of your mousepad, the cursor will move farther than if you had moved it two inches, but very slowly. If you're a gamer, you want to develop muscle memory so that you can quickly snap to your target. If you have mouse acceleration on, you won't be able to build up the muscle memory, and your shots will be inaccurate. 
-
-* **Lift Off Distance:** I usually play with a lower sensitivity, as I can more easily track targets. With that being said, often times I have to pick up my mouse to readjust it before I run out of room on the mousepad. If your mouse tracks movement even when it is high off of the mousepad, you'll be all over the place while readjusting the mouse. If you're looking for a gaming mouse, find one with a low lift off distance, so you'll stay on target when readjusting. This is especially important if you prefer a lower sensitivity. 
+* **Acceleration:** Mouse acceleration is evil. If you have it enabled, please, I'm begging you, turn it off. For those of you who don't know, mouse acceleration destroys your aim. If you move your mouse one inch, and you do it slowly, your cursor won't move very far. If you move your mouse one more inch, but you do it rapidly, your cursor will move farther. This is awful for your aim, because when you need to snap from target to target, your cursor will move a different amount even when you move the mouse the same distance. It's impossible to develop muscle memory like this which is important for aim. Moral of the story, don't buy a mouse that has mouse acceleration, and if you can, turn it off. 
 
 ## More Mouse Guides 
 
