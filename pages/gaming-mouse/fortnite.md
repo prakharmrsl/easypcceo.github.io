@@ -9,6 +9,7 @@ seotitle: "7 Best Mouse for Fortnite in 2018 (Updated)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+![Fortnite Logo](/img/fortnite-logo.png){: .img-right .img-small} 
 
 Fortnite has taken the world by storm. It's a fun game, and each round is different every time you play. 
 

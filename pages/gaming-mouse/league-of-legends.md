@@ -9,6 +9,7 @@ seotitle: "5 Best Mouse for League of Legends 2018 (Comparison)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+![LOL Gaming Mouse](/img/lol-logo.png){: .img-right .img-small}
 
 If you’re a competitive PC gamer, you need a good gaming mouse. 
 

@@ -65,7 +65,7 @@ This gaming mouse is dirt cheap! Simply plug in the mouse and you can adjust its
 
 It isn't the best mouse on the market, but it definitely offers a great bang for your buck, especially if you are on a tight budget. 
 
-## [Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} - $20
+## [Best Cheap Wired Gaming Mouse: Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} - $20
 <a target="_blank" href="https://amzn.to/2Plqdb7"><img class="img-right img-small" alt="Logitech G300s" src="/img/mouse/logitech-g300s.png" /></a>
 
 The [Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} is not cheaply made – it's actually an awesome mouse. It's sporting a durable build, a responsive and accurate sensor, not to mention an incredibly ergonomic grip. 
@@ -80,8 +80,24 @@ The mouse also has totally accurate DPI levels, which you can program yourself w
 
 In all honesty, this mouse is a steal for a mere $20. 
 
+## [Corsair Harpoon RGB](https://amzn.to/2OLNAJV){: target="_blank"} - $28
+<a target="_blank" href="https://amzn.to/2OLNAJV"><img class="img-right img-small" alt="corsair harpoon rgb" src="/img/mouse/corsair-harpoon-rgb.png" /></a>
+
+For less than $30, the [Corsair Harpoon RGB](https://amzn.to/2OLNAJV){: target="_blank"} is one heck of a mouse. 
+
+It doesn't offer any spectacular or fancy features, but from a functionality standpoint, this cheap gaming mouse does it all. 
+
+It has a great size and design. For example, the sides of the mouse have a grippy rubber texture to avoid slippage during gameplay. 
+
+Moreover, its sensor is accurate, and the mouse is comfortable even after prolonged use. The mouse has forward and back buttons on the left-side, and a convenient DPI switch below the mouse wheel. 
+
+The mouse even has an incredibly high maximum DPI of 16,000, which will surely suit your needs. 
+
+This mouse is our top pick if you have $30 to spare. 
+
+## [Razer DeathAdder Elite]() - $50
+
 ## Cheap Gaming Mice for Fortnite
-![Fortnite Logo](/img/fortnite-logo.png){: .img-right .img-small} 
 
 Fortnite has become one of the most popular games in the world. 
 
@@ -92,7 +108,6 @@ If you're chasing a victory royale, you're going to need the [best mouse for For
 [Read Our Guide](/gaming-mouse/fortnite/){: .big-button}
 
 ## Cheap Gaming Mice for League of Legends
-![LOL Gaming Mouse](/img/lol-logo.png){: .img-right .img-small}
 
 League of Legends is insanely competitive. Professional gameplay is intense – if you want to stand a chance in the arena, you're going to need the right mouse for the job. 
 
