@@ -602,7 +602,7 @@ Console controllers are awesome for kicking it on the couch with your buddies an
 
 A keyboard and mouse is much easier to use than a controller, especially if you're playing a competitive shooter. 
 
-Some gaming mice feature over 16000 DPI. They can accurately trace every little movement. Joysticks don't allow the same precision. While it can be a bit tricky to master at first, using a keyboard and mouse is far superior to a controller. Check out our guide about [gaming mice](/budget-pcs/left-handed-gaming-mouse/)! 
+Some gaming mice feature over 16000 DPI. They can accurately trace every little movement. Joysticks don't allow the same precision. While it can be a bit tricky to master at first, using a keyboard and mouse is far superior to a controller. Check out our guide about [gaming mice](/gaming-mouse/)! 
 
 If you want the benefits of PC but you're still in love with your controller, you can easily plug your controller into your PC or buy an adapter and use your Xbox or PS4 controller with your PC. 
 
