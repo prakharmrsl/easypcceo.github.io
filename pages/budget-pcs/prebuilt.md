@@ -35,21 +35,6 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 		<th>Buy on Amazon</th>
 	</tr>
 	<tr>
-		<td><b>$500</b></td>
-		<td><a target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/prebuilt/500.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 3 1200</li>
-			<li>AMD Radeon RX 560 2GB</li>
-			<li>8GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2ECKwM9"><img class="table-image" src="/img/cart.png" alt="500 Prebuilt">
-		<a class="big-button" href="#dell-inspiron-i5675-gaming-desktop---500">PC Overview</a>
-		</a></td>
-	</tr>
-	<tr>
 		<td><b>$600</b></td>
 		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
 		<td class="components">
@@ -111,66 +96,6 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 	</tr>
 </table>
 </div>
-
-
-## [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} - $500
-<a target="_blank" href="http://amzn.to/2ECKwM9"><img alt="500 prebuilt pc" class="img-right img-small" src="/img/prebuilt/500.png" /></a>
-
-
-The little brother of our $600 prebuilt gaming PC, the [Dell Inspiron i5675 Gaming Desktop](http://amzn.to/2ECKwM9){:target="_blank"} is our pick for the best prebuilt gaming PC for around $500. 
-
-This PC has a Ryzen 3 1200 which is an overclocking beast. The stock cooler that ships with the CPU is awesome; out of the box you can easily overclock this chip from 3.1 GHz to 3.8 GHz, some even achieving 4.0 GHz with the stock cooling solution. 
-
-This CPU alongside the Radeon RX 560 and 8GB of DDR4 2400 MHz RAM make a great budget gaming PC. Considering you're getting a PC of this quality and Windows 10 already installed, it's a good pick for budget conscious gamers. 
-
-You can expect 50+ FPS in most titles 1080p resolution with high settings. If you're willing to turn down some settings to low-medium, this PC shouldn't have a problem running games at 60+ FPS. 
-
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 3 1200</td>
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>8GB DDR4-2400 MHz</td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>1TB 7200RPM</td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>AMD Radeon RX 560 2GB</td>
-	</tr>
-	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2ECKwM9">Check Lowest Price on Amazon</a></td>
-	</tr>
-</table>
-
-**Pros:**
-
-* Affordable gaming PC 
-* Good performance
-* Windows 10 included
-
-**Cons:** 
-
-* GPU only has 2GB of VRAM
-
-The only drawback of this gaming PC is graphics card's total VRAM. It's only 2GB which isn't a lot for gaming in 2018 if you want 1080p, 60 FPS with high textures. 
-
-Of course, this is to be expected on a budget like this especially with the extremely high cost of RAM and GPUs. Compared to a custom gaming PC, it's still a good deal. 
-
-In addition, you can always upgrade the graphics card in the future once prices cool off a bit. If you're able to save up an extra $100 for our $600 prebuilt PC option, you'll see far better performance.
-
-This video should give you an idea of the gaming performance you can expect with this gaming PC: 
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/EmUtz1wSn2Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
 
 ## [Dell Inspiron 5675 Gaming PC](http://amzn.to/2FHqfVe){:target="_blank"} - $600
 <a target="_blank" href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
