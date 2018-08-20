@@ -1,6 +1,6 @@
 ---
 title: The Best Left Handed Gaming Mice (2018)
-permalink: "/budget-pcs/left-handed-gaming-mouse/"
+permalink: "/gaming-mouse/left-handed/"
 layout: page
 seotitle: "7 Best Left Handed Gaming Mouse Reviews 2018 (Insane Precision)" 
 ---
