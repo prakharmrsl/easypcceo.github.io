@@ -95,6 +95,23 @@ The mouse even has an incredibly high maximum DPI of 16,000, which will surely s
 
 This mouse is our top pick if you have $30 to spare. 
 
+## [SteelSeries Sensei 310](https://amzn.to/2L9sSkW){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2L9sSkW"><img class="img-small img-right" alt="steelseries sensei 310" src="/img/fortnite-mouse/steelseries-sensei-310.png" /></a>
+
+The [SteelSeries Sensei 310](https://amzn.to/2L9sSkW){: target="_blank"} is an ambidextrous gaming mouse, which means it can be used by [left handed](/gaming-mouse/left-handed/) gamers. 
+
+Moreover, it's one of the most ergonomic gaming mice on the market. It's a bit more expensive than the first few mice on this list, but I can assure you that it is well worth the investment. 
+
+The mouse features a low-profile design that is well suited for the [palm grip](https://www.epicgear.com/en/technologies/types-of-mouse-grip){: target="_blank"}. 
+
+The mouse also has several programmable macro buttons and textured hand grips on either side. 
+
+It has a high quality and accurate sensor that will ensure every move you make is on target. 
+
+Lastly, SteelSeries’ Engine software lets you personalize everything from LED lighting to DPI. 
+
+I’m right handed, but I loved this ambidextrous mouse. It’s great choice for any gamer!
+
 ## [Razer DeathAdder Elite]() - $50
 
 ## Cheap Gaming Mice for Fortnite
