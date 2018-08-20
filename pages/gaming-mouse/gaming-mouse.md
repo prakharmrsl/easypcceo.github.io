@@ -112,7 +112,20 @@ Lastly, SteelSeries’ Engine software lets you personalize everything from LED 
 
 I’m right handed, but I loved this ambidextrous mouse. It’s great choice for any gamer!
 
-## [Razer DeathAdder Elite]() - $50
+## [Razer DeathAdder Elite](https://amzn.to/2Lase6E){: target="_blank"} - $50
+<a target="_blank" href="https://amzn.to/2Lase6E"><img class="img-right img-small" alt="Razer DeathAdder Elite" src="/img/lol-gaming-mouse/razer-deathadder-elite.jpg" /></a>
+
+The [Razer DeathAdder Elite](https://amzn.to/2Lase6E){: target="_blank"} is the priciest mouse on this list, but for good reason. 
+
+It's comfortable, durable, accurate, and easy to use. I've tested plenty of different mice in my day, but this one is my favorite. 
+
+In fact, it's been my personal mouse for the past few years, without any complaint. 
+
+I can assure you that this mouse is incredibly comfortable, even after being used for a long time. It's a bigger mouse, so it's especially well suited for those who use a palm grip. 
+
+Similar to the original DeathAdder, the DeathAdder Elite is only different in that it has extra programmable buttons, which I've always enjoyed. 
+
+Overall, this mouse is an excellent choice if you have the money in your budget. 
 
 ## Cheap Gaming Mice for Fortnite
 
