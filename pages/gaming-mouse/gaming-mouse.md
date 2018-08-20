@@ -76,13 +76,13 @@ It isn't the best mouse on the market, but it definitely offers a great bang for
 
 The [Logitech G300s](https://amzn.to/2Plqdb7){: target="_blank"} is not cheaply made – it's actually an awesome mouse. It's sporting a durable build, a responsive and accurate sensor, not to mention an incredibly ergonomic grip. 
 
-So, why is this mouse so cheap? 
+So, why is this mouse dirt cheap? 
 
 It's an old mouse. Don't worry – an old mouse from Logitech is still superior to a new knockoff brand any day of the week. 
 
 It has an ambidextrous design, color backlighting, and six programmable macro buttons with three unique button profiles. 
 
-The mouse also has totally accurate DPI levels, which you can program yourself with Logitech's unique software.
+The mouse also has totally accurate [DPI](http://xahlee.info/kbd/mouse_dpi.html){: target="_blank"} levels, which you can program yourself with Logitech's unique software.
 
 In all honesty, this mouse is a steal for a mere $20. 
 
@@ -151,7 +151,7 @@ If you're new to the PC gaming community, or you just don't know what to look fo
 
 ![Mouse cover](/img/mouse/mouse-cover.jpg)
 
-* **Sensor:** All mice – gaming mice included – use a sensor to track movement. The sensor is either an optical sensor or a laser sensor. Optical sensors are slightly less precise than laser sensors. However, they're also cheaper. In my opinion, the difference is negligible, but if you're an incredibly competitive gamer or you play FPS games which require accurate shots, go for a laser sensor. 
+* **Sensor:** All mice – gaming mice included – use a sensor to track movement. The sensor is either an [optical](https://computer.howstuffworks.com/question631.htm){: target="_blank"} sensor or a [laser](https://www.digitaltrends.com/computing/optical-vs-laser-mouse-explanation/){: target="_blank"} sensor. Optical sensors are slightly less precise than laser sensors. However, they're also cheaper. In my opinion, the difference is negligible, but if you're an incredibly competitive gamer or you play FPS games which require accurate shots, go for a laser sensor. 
 
 * **Acceleration:** Mouse acceleration is evil. If you have it enabled, please, I'm begging you, turn it off. For those of you who don't know, mouse acceleration destroys your aim. If you move your mouse one inch, and you do it slowly, your cursor won't move very far. If you move your mouse one more inch, but you do it rapidly, your cursor will move farther. This is awful for your aim, because when you need to snap from target to target, your cursor will move a different amount even when you move the mouse the same distance. It's impossible to develop muscle memory like this which is important for aim. Moral of the story, don't buy a mouse that has mouse acceleration, and if you can, turn it off. 
 
@@ -182,7 +182,7 @@ If you're new to the PC gaming community, or you just don't know what to look fo
 
 ## Cheap Gaming Mice for Fortnite
 
-Fortnite has become one of the most popular games in the world. 
+[Fortnite](https://www.epicgames.com/fortnite/en-US/buy-now/battle-royale){: target="_blank"} has become one of the most popular games in the world. 
 
 Unlike other battle royale games, Fortnite implements a few things that set it apart from other titles: the game is free to play, it supports players cross platform – and of course – it's free to play. 
 
