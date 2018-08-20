@@ -211,5 +211,11 @@ However, that doesn't mean you can't find an awesome mouse for your left hand. T
 
 ## Conclusion 
 
+If you're gaming with a poor gaming mouse, it will break your PC gaming experience. That's exactly why finding the right mouse for you is so important. 
+
+Not only will it improve your game, but it will also make your overall experience more enjoyable. 
+
+That being said, a good gaming mouse doesn't have to be expensive. I hope this guide helped you along your journey finding the right gaming mouse for you! 
+
 * TOC
 {:toc}
