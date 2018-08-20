@@ -29,7 +29,7 @@ Luckily for you, I've created this list of the best (cheap) gaming mice on the m
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2MCmjMI">Check Price on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Plqdb7"><img class="table-image" alt="Logitech G300s" src="/img/mouse/logitech-g300s.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Plqdb7"><img class="table-image" alt="Logitech G300s" src="/img/mouse/logitech-g300s.png" /></a></td>
 		<td><a target="_blank" href="https://amzn.to/2Plqdb7">Logitech G300s</a></td>
 		<td>$20</td>
 		<td><a class="big-button" target="_blank" href="https://amzn.to/2Plqdb7">Check Price on Amazon</a></td>
