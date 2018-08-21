@@ -100,7 +100,7 @@ seotitle: "5 Best Prebuilt Gaming PCs on a Budget (2018 Updated)"
 ## [Dell Inspiron 5675 Gaming PC](http://amzn.to/2FHqfVe){:target="_blank"} - $600
 <a target="_blank" href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
 
-This $600 prebuilt gaming PC is one of my personal favorites. It looks great and more importantly, it can game like nobody's business. 
+This [$600 prebuilt gaming PC](/budget-pcs/prebuilt/600/) is one of my personal favorites. It looks great and more importantly, it can game like nobody's business. 
 
 This PC can handle 1080p gaming with no problem. Expect to see 60 FPS in almost all titles with a mix of high-ultra settings. 
 
@@ -126,7 +126,7 @@ If you're looking for a PC that can game in 1080p, record, stream, edit, render,
 		<td>AMD Radeon RX 570 4GB</td>
 	</tr>
 	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2FHqfVe">Check Lowest Price on Amazon</a></td>
+		<td colspan="3"><a class="big-button" href="/budget-pcs/prebuilt/600/">Read Our Guide</a></td>
 	</tr>
 </table>
 
