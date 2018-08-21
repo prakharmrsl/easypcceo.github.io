@@ -33,7 +33,7 @@
 - name: Gaming Peripherals
   subcategories:
     - subtitle: "Gaming Mice"
-      subhref: "/budget-pcs/left-handed-gaming-mouse/"
+      subhref: "/gaming-mouse/"
     - subtitle: "Gaming Keypad"
       subhref: /gaming-keypad/"
     - subtitle: "Gaming Case Fans"
