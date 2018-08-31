@@ -119,6 +119,26 @@ I get a lot of questions regarding this topic, so I've created this FAQ section 
 
 **What's faster, wireless or wired?** Yes, sometimes I'm actually asked this question. Wired, of course!
 
+## What If Your Router Is Too Far Away? 
+
+As mentioned previously, the length of your ethernet cable has a direct impact on network speed. If your cable is too long, your internet connection speed will suffer. 
+
+This could become an issue if your gaming setup is rather far from your router. Even if you have a cable that's long enough, you'll have to run the cable through hallways, rooms, and possibly behind walls. It can be a pain in the butt. 
+
+Luckily, there's a much easier – and cheaper – solution. You can buy something called a [powerline](https://www.techradar.com/news/networking/powerline-networking-what-you-need-to-know-930691){: target="_blank"} adapter. 
+
+It uses your home's existing infrastructure to send data from your router to your device, rather than with an ethernet cable. 
+
+![Powerline adapter](/img/gaming-ethernet-cable.jpg){: .img-middle}
+
+Simply plug one end of an ethernet cable into your router, and plug the other end into the powerline adapter. The powerline adapter can be plugged into any outlet near your router. 
+
+Next, in any other room in your house, plug the other powerline adapter into the wall, and then plug the ethernet cable from that adapter into your device. 
+
+The adapters use your home's electrical wiring to send a signal. It works surprisingly well, it's cheap, and convenient. This is my recommendation for those of you who aren't gaming near your router. 
+
+If you're going to use a powerline adapter, I'd recommend the [TP-Link AV1000 Gigabit Powerline](https://amzn.to/2NySQAj){: target="_blank"} adapter. 
+
 ## Conclusion 
 
 If you want to improve your internet connection, a Cat5e or Cat6 cable is a great way to do so. A direct connection will always be faster than a wireless connection. If you decide to buy a Cat cable, make sure it is long enough to reach your gaming setup (but not too long, or it will hurt your connection.)

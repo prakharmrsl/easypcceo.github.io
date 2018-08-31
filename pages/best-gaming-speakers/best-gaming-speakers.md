@@ -2,7 +2,7 @@
 title: "The Best Gaming Speakers of 2018 (PC, PS4 and Xbox One)" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "15 Best Gaming Speakers 2018 (Updated)" 
+seotitle: "15 Best Gaming Speakers: The Ultimate Guide (2018 Updated)" 
 --- 
 <h3 class="page-subtitle">
 	Updated July 25th, 2018 by 
