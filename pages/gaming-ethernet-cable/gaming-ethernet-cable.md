@@ -129,7 +129,7 @@ Luckily, there's a much easier – and cheaper – solution. You can buy somethi
 
 It uses your home's existing infrastructure to send data from your router to your device, rather than with an ethernet cable. 
 
-![Powerline adapter](/img/gaming-ethernet-cable.jpg){: .img-middle}
+![Powerline adapter](/img/gaming-ethernet-cable/powerline.jpg){: .img-middle}
 
 Simply plug one end of an ethernet cable into your router, and plug the other end into the powerline adapter. The powerline adapter can be plugged into any outlet near your router. 
 
