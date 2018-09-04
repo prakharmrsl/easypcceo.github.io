@@ -189,11 +189,33 @@ When I'm asked for my 120mm case fan recommendation that offers both silence and
 
 **4.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's lifespan, and helping its performance overall. 
 
+Similarly to a MagLev bullet train which levitates above the tracks, the Corsair ML120 PRO LED fan uses magnetic levitation to suspend the fan blades from the motor housing. This provides a (nearly) friction-less operation, which results in less noise and better performance. 
+
+* **Pack Quantity:** 1	
+* **Rubber Corners:** Yes	
+* **Corner Color:** White	
+* **LED Lit:** Yes – White	
+* **RPM:** 400 – 2400	
+* **CFM:** 12 – 75	
+* **Static Pressure:** 0.2 – 4.2	
+* **Noise (dBA):** 16 – 37		
+
 Its custom rotor design provides a balance between high airflow and static pressure. You can control the fan's speed, all the way up to 2,400 RPM. In addition, the colors of the fan are entirely customizable. 
 
 This fan looks absolutely awesome, and performs well, too. The fan comes in blue, red, white, and black, and the fan's [CFM](https://www.lumens.com/how-tos-and-advice/what-is-cfm.html){: target="_blank"} ranges from 12 to 75.
 
 As far as noise goes, the fan is very quiet. At its lowest speed it will only emit 16 dBa, and at maximum RPMs the fan emits around 37 dBa. 
+
+**Features:** 
+
+* **Magnetic Levitation Bearing:** Lower noise, higher performance, and a longer lifespan 
+* **Custom Rotor Design:** The perfect balance betweeen high airflow and high static pressure, operating perfectly no matter the circumstance 
+* **Color Customization:** You can choose the color of your fan's rubber corner pieces to match the rest of your build's color scheme, not to mention the fan's ultra-bright LEDs mounted to the center rotor. 
+* **
+
+According to Corsair, “if NASA designed a computer case fan – this would be it." The fan has an extensive range of speed control, ranging from 400 RPM to 2400 RPM, and static pressure from 0.2 to 4.2 mmAq. 
+
+
 
 ## Best 140mm Case Fans 
 
