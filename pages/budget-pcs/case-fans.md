@@ -154,6 +154,36 @@ The bearing shell of the fan is constructed entirely with brass – this fan is 
 
 Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
 
+**Specifications:**
+
+* **Size:**	120x120x25 mm
+* **Connector:** 4-pin PWM
+* **Bearing:** SSO2
+* **Blade Geometry:** Heptaperf™
+* **Frame Technology:**	Focused Flow™
+* **Rotational Speed:** 1500 RPM (+/- 10%)	
+* **Rotational Speed with L.N.A.:** 1200 RPM (+/- 10%)	
+* **Airflow:** 93,4 m³/h
+* **Airflow with L.N.A.:** 74,3 m³/h
+* **Acoustical Noise:**	22,4 dB(A)
+* **Acoustical Noise with L.N.A.:**	18,6 dB(A)
+* **Static Pressure:** 2,61 mm H2O
+* **Static Pressure with L.N.A.:** 1,83 mm H2O
+* **Max. Input Power:**	0,6 W
+* **Max. Input Current:** 0,05 A
+* **Voltage:** 12 V
+* **MTBF:**	> 150.000 h
+
+The NF-F12 is relatively old and widely available. As a consequence of its age, the price of the fan is lower now than when the fan was originally released. 
+
+Overall, it's a fantastic fan. Although it isn't the fastest 120mm fan out there, but it's easily one of the quitest fans. 
+
+There aren't really any cons associated with this fan, unless you don't like the fan's color scheme. Unlike other case fans, this fan is a combination of brown and beige. In my opinion, it's not a big deal, especially considering you're not able to see the fans inside the case. 
+
+Based on the fan's looks and performance, it's obvious that a lot of research and engineering has been invested to create this product. 
+
+When I'm asked for my 120mm case fan recommendation that offers both silence and performance, I'd recommend the NF-F12.
+
 ## [Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ufREJM"><img class="img-right img-small" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a>
 
