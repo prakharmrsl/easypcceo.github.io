@@ -2,10 +2,10 @@
 title: "The Best 120mm & 140mm Case Fans 2018"
 permalink: "/budget-pcs/case-fans/"
 layout: page
-seotitle: "7 Best Case Fans of 2018: 120mm & 140mm (Top Rated)" 
+seotitle: "7 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 10th, 2018 by 
+	Updated September 2nd, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -74,11 +74,33 @@ Your computer's motherboard utilizes the F12's PWM function to run the fan at th
 
 The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust). 
 
-The fan housing is actually two separate sections, connected together with rubber grommets to help suppress the noise from vibrations. 
+The fan housing is actually two separate sections, connected together with rubber grommets to help suppress the noise from vibrations.  
+
+**Features:** 
+
+* Patented PWM Sharing Technology (PST)
+* Extremely quiet
+* High air flow and static pressure
+* Low noise impeller
+* Fluid dynamic bearing extends service life
+
+GPUs and CPUs generate an significant amount of heat. Believe it or not, if it weren't for the CPU cooler, you could fry an egg on a CPU while it's operating. 
+
+Most people choose to install many case fans to keep their PC running cool. This option works, but it also generates more noise. With the new ARCTIC PWM fan, you can keep your case cool without generating a lot of noise. 
+
+The fan speed changes according to the system temperatures. The fan's innovative PST feature allows up to five fans (including a CPU fan) to connect to the ARCTIC PWM fan, and all of the fans will run at the same speed as the PWM fan. 
+
+When the system temp rises, all of the fans in the system will run faster to accomodate for the higher temperatures. On the other hand, if the case temperature falls, the fans will slow down, saving energy and emitting less noise. 
+
+*So, what are the main advantages of the ARCTIC F12 PWM fan?*
+
+**1.** Quiet fans keep your case cool during operation 
+**2.** Saves energy 
+**3.** Control fan speed of different fans with just one PWM signal 
 
 *What's the bottom line here?*
 
-If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice. 
+If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice.
 
 ## [Cooler Master JetFlo 120 Case Fan](https://amzn.to/2KYMRHa){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2KYMRHa"><img class="img-right img-small" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a>
@@ -94,6 +116,30 @@ You can choose from red, white, blue, and non-LED fans to match your PC's color 
 At 1200 RPM with the included silent mode adapter, this fan emits 19 [dBa](https://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa){: target="_blank"}. At 1600 RPM this fan emits 28 dBa.
 
 The corners of this fan are made of rubber, bolted to the fan's frame. This features cuts down on fan vibrations and helps to eliminate noise. 
+
+**Specifications:**
+
+* **LED Color:** Red / Blue / White / Dark (No LED)
+* **Dimensions:** 4.7 x 4.7 x 1 inch (120 x 120 x 25 mm)
+* **Fan Speed:** 800-2000 RPM (PWM) ± 10%; w/ silent adapter: 1600/1200 RPM (fixed)
+* **Air Flow (CFM):** 95 CFM ± 10%
+* **Air pressure (mmH2O):** 2.72 mmH2O ± 10%
+* **Life Expectancy:** 160,000 hrs
+* **Noise Level:** 19 dBA (1200 RPM with included silent mode adapter), 28 dBA (1600 RPM with included silent mode adapter), 36 dBA (without silent mode adapter)
+* **Bearing Type:** POM Bearing – CM 4th Gen. Bearing (POM: Polyoxymethelene)
+* **Connector:** 4-Pin (PWM)
+* **Voltage:** 12 VDC
+* **Power consumption:** 4.8W
+
+The JetFlo 120 is unique in nearly every way possible. From their inboard-mounted LED lighting to their unique frame design, this fan blows the competition out of the water. 
+
+Moreover, it provides a staggering 95CFM max airflow, so it's safe to say your parts will stay nice and cool. 
+
+Cooler Master also includes two different speed reducers to decrease both the speed and noise level of the fans. 
+
+Overall, it's an amazing fan, for an amazingly low price on [Amazon](https://amzn.to/2KYMRHa){: target="_blank"}. 
+
+Click [here](https://proclockers.com/reviews/cooling/cooler-master-jetflo-120-fan-review){: target="_blank"} for a full review of this fan. 
 
 ## [Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img class="img-right img-small" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a>
