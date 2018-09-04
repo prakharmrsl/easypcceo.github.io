@@ -94,9 +94,9 @@ When the system temp rises, all of the fans in the system will run faster to acc
 
 *So, what are the main advantages of the ARCTIC F12 PWM fan?*
 
-**1.** Quiet fans keep your case cool during operation 
-**2.** Saves energy 
-**3.** Control fan speed of different fans with just one PWM signal 
+1. Quiet fans keep your case cool during operation 
+2. Saves energy 
+3. Control fan speed of different fans with just one PWM signal 
 
 *What's the bottom line here?*
 
