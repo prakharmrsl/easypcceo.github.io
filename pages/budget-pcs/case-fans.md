@@ -25,6 +25,8 @@ Why?
 
 I've procured the 7 best case fans in 2018 – including the best 120mm case fans and the best 140mm case fans for your next gaming PC. 
 
+*Let's get started:*
+
 <div class="toc-box">
 <ul>
   <li><a href="#best-120mm-case-fans">Best 120mm Case Fans</a></li>
@@ -310,6 +312,34 @@ Spinning at 1200 RPM and only emitting 25.5 dBa, the AF140 is capable of regulat
 It's rated at 66.4 CFM, and Corsair recommends at least 3cm of clearance between the fan and anything else inside your case to ensure the best possible airflow. 
 
 The fan features LED lighting, and a variety of colors to choose from, including red, blue, white, and purple. The fan's blades are translucent and frosted, which creates a cool effect when the LEDs are turned on and the fan is spinning. 
+
+**Specifications:** 
+
+* **Fan Size:** 140mm x 25mm
+* **Bearing Type:** Sleeve
+* **Fan Type:** Quiet Edition
+* **Flow Type:** Airflow
+* **LED Color:** None
+* **Operating Voltage:** 12V
+* **PWM Control:** NO
+* **CORSAIR LINK compatibility:** NO
+* **Fan Model:** AF Series
+* **Package Quantity:** Single Fan
+* **Speed:** 1150 RPM
+* **Sound Level:** 24 dBA
+* **Power Draw:** .1A
+* **Static Pressure:** .84 mmH20
+* **Fan Airflow:** 67.8 CFM
+
+The selection of the proper fan can affect the performance of a specific application. For example, if the fan is being used for a low impedance application, (such as a case fan without a filter), the AF140 provides significantly more airflow than its brother, the SP140, while producing less noise as well. 
+
+Corsair's advanced hydraulic bearing engine design is clever. They took the common sleeve bearing design and improved it to rival the reliability of a high end product. 
+
+Sleeve bearings are known to emit less noise than fans with ball bearings, but their lack of lubrication usually means they have significantly shorter life spans. 
+
+Corsair took a sleeve bearing, and immersed it inside a tank of lubrication, next to the axle of the engine. The lubricant reduces friction and noise even further, while also ensuring the bearing will remain lubricated at all times. 
+
+Overall, Corsair's fans are usually high quality. The AF140 offers performance at an affordable price, with several different versions to choose from. 
 
 The AF140 is an ultra-thin, powerful, good-looking and cheap 140mm case fan. It's a yes from me! 
 
