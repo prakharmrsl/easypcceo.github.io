@@ -17,6 +17,18 @@ Here's the deal:
 
 If you're looking for the best (and the smallest) [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case money can buy, you've come to the right place. I've procured the ultimate "smallest ATX case" list so you can make the best decisision when purchasing your next case! 
 
+*Let's get started:* 
+
+<div class="toc-box">
+<ul>
+  <li><a href="#smallest-atx-case-options">Smallest ATX Case Options</a></li>
+  <li><a href="#case-buying-guide">Case Buying Guide</a></li>
+  <li><a href="a-great-case-is">A Great Case Is...</a></li>
+  <li><a href="#do-you-need-a-gaming-case">Do You Need a 'Gaming' Case?</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</div>
+
 ## Smallest ATX Case Options
 
 When it comes to building a gaming PC, choosing the right case is incredibly important. 
