@@ -204,18 +204,17 @@ Its custom rotor design provides a balance between high airflow and static press
 
 This fan looks absolutely awesome, and performs well, too. The fan comes in blue, red, white, and black, and the fan's [CFM](https://www.lumens.com/how-tos-and-advice/what-is-cfm.html){: target="_blank"} ranges from 12 to 75.
 
-As far as noise goes, the fan is very quiet. At its lowest speed it will only emit 16 dBa, and at maximum RPMs the fan emits around 37 dBa. 
+As far as noise goes, the fan is very quiet. At its lowest speed it will only emit 1wA6 dBa, and at maximum RPMs the fan emits around 37 dBa. 
 
 **Features:** 
 
 * **Magnetic Levitation Bearing:** Lower noise, higher performance, and a longer lifespan 
 * **Custom Rotor Design:** The perfect balance betweeen high airflow and high static pressure, operating perfectly no matter the circumstance 
 * **Color Customization:** You can choose the color of your fan's rubber corner pieces to match the rest of your build's color scheme, not to mention the fan's ultra-bright LEDs mounted to the center rotor. 
-* **
 
 According to Corsair, “if NASA designed a computer case fan – this would be it." The fan has an extensive range of speed control, ranging from 400 RPM to 2400 RPM, and static pressure from 0.2 to 4.2 mmAq. 
 
-
+In summary, not only does this fan keep your PC nice and cool, it does so quietly, and it looks great in the process. 
 
 ## Best 140mm Case Fans 
 
@@ -262,6 +261,43 @@ The fan ships with sleeved cables and anti-vibration pads to increase performanc
 The fan is designed to last for a long time – actually, NZXT ensures your purchase with a two-year warranty. 
 
 Despite being a 140mm fan, the FN V2 is incredibly light, weighing in at 5.1 ounces. 
+
+Specifications
+Model Number: RF-FN122-RB
+
+Dimensions: 120 x 120 x 27mm
+
+Fan Air Flow: 45 CFM
+
+Fan Air Pressure: 0.9 mm - H2O
+
+Fan Bearing: Rifle Bearing
+
+Fan Connector: 3-Pin
+
+Fan Input Power:1.92W
+
+Fan Current: 0.16A
+
+Included Accessories:
+
+3 to 4-Pin Molex Adapter x 1
+Screw x 4
+Fan Life: 40,000 hours /4 Years
+
+Fan Noise Level: 21 dBA
+
+Fan Speed: 1200 ± 15% RPM
+
+Fan Voltage: 12V DC
+
+Product Weight: 138.4 g
+
+UPC: 815671011916
+
+EAN: 5060301691166
+
+Warranty: 2 Years
 
 For a mere $12, you can't beat the price/performance of this 140mm case fan. 
 
