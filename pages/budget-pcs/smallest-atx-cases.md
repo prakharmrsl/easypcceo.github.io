@@ -6,7 +6,7 @@ seotitle: "7 Smallest ATX Case Reviews 2018 (Comparison)"
 ---
 
 <h3 class="page-subtitle">
-	Updated July 22nd, 2018 by 
+	Updated September 5th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
