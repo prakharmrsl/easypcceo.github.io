@@ -254,6 +254,12 @@ In summary, not only does this fan keep your PC nice and cool, it does so quietl
 
 **1.** If you're searching for a case fan that is capable of cooling even the hottest computers, look no further. If I had to describe the [NZXT FN V2 case fan](https://amzn.to/2u9tLEF){: target="_blank"} with one word, it would be performance. 
 
+**Features:** 
+
+* Anti-Vibration pads on every corner of the FN V2 to dampen vibrations 
+* Redesigned fan blades are thicker to provide more reliability and longevity 
+* No louder than 21 dBa at top speed 
+
 The fan is rated at 50 CFM, and can spin at a rate of 1,000 RPM. The fan is quiet, only emitting 21 dBa. It comes in black and white. 
 
 The fan ships with sleeved cables and anti-vibration pads to increase performance and minimize noise during operation. 
@@ -262,42 +268,22 @@ The fan is designed to last for a long time – actually, NZXT ensures your purc
 
 Despite being a 140mm fan, the FN V2 is incredibly light, weighing in at 5.1 ounces. 
 
-Specifications
-Model Number: RF-FN122-RB
+**Specifications:** 
 
-Dimensions: 120 x 120 x 27mm
+* **Dimensions:** 120 x 120 x 27mm
+* **Fan Air Flow:** 45 CFM
+* **Fan Air Pressure:** 0.9 mm - H2O
+* **Fan Bearing:** Rifle Bearing
+* **Fan Connector:** 3-Pin
+* **Fan Input Power:** 1.92W
+* **Fan Current:** 0.16A
+* **Fan Life:** 40,000 hours /4 Years
+* **Fan Noise Level:** 21 dBA
+* **Fan Speed:** 1200 ± 15% RPM
+* **Fan Voltage:** 12V DC
+* **Product Weight:** 138.4 g
 
-Fan Air Flow: 45 CFM
-
-Fan Air Pressure: 0.9 mm - H2O
-
-Fan Bearing: Rifle Bearing
-
-Fan Connector: 3-Pin
-
-Fan Input Power:1.92W
-
-Fan Current: 0.16A
-
-Included Accessories:
-
-3 to 4-Pin Molex Adapter x 1
-Screw x 4
-Fan Life: 40,000 hours /4 Years
-
-Fan Noise Level: 21 dBA
-
-Fan Speed: 1200 ± 15% RPM
-
-Fan Voltage: 12V DC
-
-Product Weight: 138.4 g
-
-UPC: 815671011916
-
-EAN: 5060301691166
-
-Warranty: 2 Years
+The FN V2 will most definitely fit most black and white variants of popular NZXT cases. This fan is ideal for chassis use – they're quiet, low RPMs, and low vibration. 
 
 For a mere $12, you can't beat the price/performance of this 140mm case fan. 
 
