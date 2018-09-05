@@ -25,16 +25,18 @@ Why?
 
 I've procured the 7 best case fans in 2018 – including the best 120mm case fans and the best 140mm case fans for your next gaming PC. 
 
-*Let's get started:* 
-
-* [Best 120mm Case Fans](#best-120mm-case-fans)
-* [Best 140mm Case Fans](#best-140mm-case-fans)
-* [What to Look for in Your Next Case Fans](#what-to-look-for-in-your-next-case-fans)
-* [Best PC Fan for Gaming](#best-pc-fan-for-gaming)
-* [How to Install Case Fans](#how-to-install-case-fans)
-* [The Importance of Case Fans](#the-importance-of-case-fans)
-* [120mm Case Fans vs. 140mm Case Fans](#120mm-case-fans-vs-140mm-case-fans)
-* [Conclusion](#conclusion)
+<div class="toc-box">
+<ul>
+  <li><a href="#best-120mm-case-fans">Best 120mm Case Fans</a></li>
+  <li><a href="#best-140mm-case-fans">Best 140mm Case Fans</a></li>
+  <li><a href="#what-to-look-for-in-your-next-case-fans">What to Look for in Your Next Case Fans</a></li>
+  <li><a href="#best-pc-fan-for-gaming">Best PC Fan for Gaming</a></li>
+  <li><a href="#how-to-install-case-fans">How to Install Case Fans</a></li>
+  <li><a href="#the-importance-of-case-fans">The Importance of Case Fans</a></li>
+  <li><a href="#120mm-case-fans-vs-140mm-case-fans">120mm Case Fans vs. 140mm Case Fans</a></li>
+  <li><a href="#conclusion">Conclusion</a></li>
+</ul>
+</div>
 
 ## Best 120mm Case Fans 
 
