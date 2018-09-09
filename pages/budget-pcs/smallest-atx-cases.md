@@ -1,4 +1,4 @@
-q---
+---
 title: The Smallest ATX Cases Money Can Buy 
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
