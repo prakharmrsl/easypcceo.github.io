@@ -4,12 +4,12 @@ permalink: "/budget-pcs/processor/"
 layout: page
 seotitle: "5 Best Processors for Gaming in 2018 (Intel/AMD)" 
 ---
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 <h3 class="page-subtitle">
 	Updated May 16th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 
 Finding the right processor for your gaming PC can be difficult, especially with all of the options available to you. 
 
