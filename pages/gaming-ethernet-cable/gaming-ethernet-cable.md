@@ -145,5 +145,6 @@ If you want to improve your internet connection, a Cat5e or Cat6 cable is a grea
 
 Lastly, if you decide to upgrade to a Cat6 cable, you'll have to upgrade *all* of your ethernet cables, not just one. If you don't upgrade the rest, your Cat6 cable will still work because it is backwards compatible. Although, you'd be wasting your money on the Cat6 cable, because it would be slowed down by the Cat5e cables. A chain is only as strong as its weakest link. 
 
+
 * TOC
 {:toc}
