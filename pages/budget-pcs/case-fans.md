@@ -10,7 +10,7 @@ seotitle: "7 Best Case Fans of 2018: 120mm & 140mm (Updated)"
 	Jacob Tuwiner
 </h3>
 ![Corsair ML140 Case Fan](/img/case-fans/corsair-ml140.png){: .img-right .img-small}
-
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 **Here's the deal:**
 
 Case fans play a crucial role in your PC – if your PC gets too hot, your components will [overheat](https://www.howtogeek.com/174288/how-to-tell-if-your-computer-is-overheating-and-what-to-do-about-it/){: target="_blank"} and become damaged or worse, destroyed. 

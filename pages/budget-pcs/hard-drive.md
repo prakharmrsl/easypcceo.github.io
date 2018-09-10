@@ -9,7 +9,7 @@ seotitle: "3 Best Hard Drives For Gaming in 2018 (Internal/External)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 Finding the right storage solution for your gaming PC can be difficult, especially with all of the options available to you. 
 
 This guide was designed for those of you who aren't sure what is best suited for your needs. We'll be taking a look at three storage solutions: mechanical drives, solid state drives, and external storage. 

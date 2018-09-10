@@ -9,7 +9,7 @@ seotitle: "5 Best Gaming Motherboards in 2018 (Intel/AMD)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 If you're reading this page, you've probably decided to build your own [budget gaming PC](/budget-pcs/) instead of buying a [prebuilt](/budget-pcs/prebuilt/) gaming computer. Bravo!
 
 Building your own gaming computer is both humbling and educational – however, choosing the right parts for your PC can be difficult. 

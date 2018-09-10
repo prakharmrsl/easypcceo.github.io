@@ -4,6 +4,7 @@ permalink: "/budget-pcs/power-supply/"
 layout: page
 seotitle: "3 Best Power Supply for Gaming 2018 (Comparison)" 
 ---
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 <h3 class="page-subtitle">
 	Updated July 26th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>

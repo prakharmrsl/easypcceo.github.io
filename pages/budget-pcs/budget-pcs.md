@@ -9,7 +9,7 @@ seotitle: "5 Best Budget Gaming PC Builds + Prebuilt Options (2018)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 
 Listen up:

@@ -9,7 +9,7 @@ seotitle: "5 Best Gaming Graphics Card GPUs 2018 (AMD/NVIDIA Options)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 If you're buying components for a new [gaming PC](/budget-pcs/), make sure you buy the best graphics card that's within your budget.
 
 Graphics cards (GPUs) handle all 3D rendering. Any well optimized game is going to heavily rely on the power of your graphics card.
