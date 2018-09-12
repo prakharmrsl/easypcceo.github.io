@@ -23,7 +23,7 @@ If you're looking for the best (and the smallest) [ATX](https://www.pcmag.com/en
 <ul>
   <li><a href="#smallest-atx-case-options">Smallest ATX Case Options</a></li>
   <li><a href="#case-buying-guide">Case Buying Guide</a></li>
-  <li><a href="a-great-case-is">A Great Case Is...</a></li>
+  <li><a href="#a-great-case-is">A Great Case Is...</a></li>
   <li><a href="#do-you-need-a-gaming-case">Do You Need a 'Gaming' Case?</a></li>
   <li><a href="#conclusion">Conclusion</a></li>
 </ul>
