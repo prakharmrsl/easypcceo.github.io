@@ -381,7 +381,7 @@ There is more plastic inside of the case. The power supply and the removable 3.5
 
 The case also has several cable cutouts, which are lined with rubber. There are three next to the motherboard tray. If you're installing a Micro-ATX or Mini-ITX board, you may find it difficult to use the cutouts all together. It really depends on the length of your cables. 
 
-![Corsair 400C inside](/img/case/400c-inside.png)
+![Corsair 400C inside](/img/case/400c-inside.png){: .img-middle}
 
 The 400C isn't a flashy case, but it's still a classy case with a low-profile. Despite its slightly smaller size, the case can hold a lot, thanks to Corsair's decision to get rid of 5.25-inch drive bays. The case doesn't have any fancy LED lighting, a common trait among gaming cases. However, it does ship with a nice side-panel window, and you can always add case fans with LEDs if you wish. 
 
@@ -415,7 +415,7 @@ Despite being a small ATX case, the Carbide Air 540 is very well designed. It's 
 
 The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style. The case measures 415 x 332 x 458mm (HxWxD). Surprisingly, this case can house motherboards as small as Mini-ITX all the way up to full-sized E-ATX boards, and has eight expansion slots in the back. 
 
-![Corsair Air 540 Side](/img/case/air-540-side.jpg)
+![Corsair Air 540 Side](/img/case/air-540-side.jpg){: .img-middle}
 
 It can house two 3.5-inch drives on the floor, and has a drive rack in the back which supports up to four 2.5-inch drives as well. It even supports two 5.25-inch drives. This is the smallest ATX case on our list, yet its interior seems more spacious than most mid-tower ATX cases on the market, thanks to Corsair's ingenious design. 
 
@@ -423,7 +423,7 @@ Beneath the ODD bays, you'll find two USB ports in addition to the HD Audio jack
 
 The left side of the case has thick plastic lines seperated by mesh, with a Corsair logo in the center. The right side of the case has flat textured plastic, where you'll find a pair of 5.25-inch bays and the front I/O panel. The left side of the case is mostly a tempered glass window, allowing you to see inside the case. The glass is lined with steel, ensuring the panel is sturdy. 
 
-![Air 540 Interior](/img/case/air-540-interior.png)
+![Air 540 Interior](/img/case/air-540-interior.png){: .img-middle}
 
 Behind the glass panel, you'll find the motherboard tray which can house anything up to Extended ATX motherboards, with nine cable management cutouts, eight of which have grommets in them. It also offers five tie points. You'll even find an incredibly large access hole for sockets on the EATX boards. 
 
@@ -455,7 +455,7 @@ What's the appeal here?
 
 The components on the second story enjoy unobstructed airflow, and at the same time, the heat from the PSU and hard drives are kept in their own enclosure. Moreover, the HAF XB's top and side panels can all be removed, which means the case could also be used as a test bench. 
 
-![Cooler Master HAF XB](/img/case/cooler-master-haf.jpg)
+![Cooler Master HAF XB](/img/case/cooler-master-haf.jpg){: .img-middle}
 
 The case is compatible with all modern tower-style coolers, and can support a 240mm radiator in addition to another 120mm radiator installed at the same time. The HAF XB also offers hot-swapping for two hard drives, and has carrying handles on the sides which make transportation easy. 
 
@@ -488,7 +488,7 @@ The case also has great cable management options, as you can run wiring through 
 
 The H400i shares the same overall tempered glass and steel design as its larger big brother, but it's been stepped down in size to a Micro-ATX Mini-Tower form factor. It's not technically an ATX case, but its interior is spacious and it comes in a small form factor, so I decided to include it on this list of the 7 smallest ATX cases. It's an incredibly well designed case, and has won several awards. 
 
-![NZXT-h400i](/img/case/nzxt-h400i.jpg)
+![NZXT-h400i](/img/case/nzxt-h400i.jpg){: .img-middle}
 
 Micro-ATX is in an awkward position, in between the two most popular form factors. ATX motherboards are loved by many due to their mainstream practicality, and Mini-ITX is admired because of the engineering 'wow' that goes into them. Micro-ATX boards, on the other hand, are somewhere in the middle. Most manufacturers have forgotten about them, instead focusing on ATX and Mini-ITX form factors. 
 
@@ -501,7 +501,7 @@ NZXT decided to do away with 5.25-inch bays altogether – that's right, this ca
 By removing the 5.25-inch bays, NZXT has freed up plenty of space for extra GPUs, fans, radiators, cables, etc. The spacious interior promotes airflow, the importance of which cannot be overstated.  
 
 <figure>
-<img alt="NZXT h400i" src="/img/case/h400i.png">
+<img class="img-middle" alt="NZXT h400i" src="/img/case/h400i.png">
 <figcaption><p>The H400i comes in a variety of colors, including black</p></figcaption>
 </figure>
 
@@ -534,7 +534,7 @@ Many small form factor cases restrict you in a variety of ways. You may not be a
 
 Thanks to the chassis' cuboid design, the V21 allows you to rearrange the panels to your liking. The case has clearance for a CPU cooler with a maximum height of 185mm, and a graphics card up to 350mm in length. The power supply can be up to 200mm long when you have the case's bottom fan installed. 
 
-![V21](/img/case/v21.jpg)
+![V21](/img/case/v21.jpg){: .img-middle}
 
 One of the side panels has a huge tempered-glass window, and the bottom of the case has a mesh filter for the power supply to prevent dust from clogging the exhaust fan. The panels are completely interchangeable, and can be installed in any order you choose. The front panel can be rotated and the I/O panel moved to one of the other locations, if you choose to do so. Evidently, the Thermaltake V21 is entirely customizable. 
 
@@ -542,7 +542,7 @@ The case has six hard drive bays, so it's safe to say you probably won't have an
 
 Unfortunately, the case only has a singular 20mm fan at the front of the chassis. You could rely on the singular fan, but it'd be wise to install extra case fans to ensure your components get proper airflow. You can install two 240mm radiators at the top of the case or a singular 280mm radiator. Believe it or not, you can actually mount a grand total of eight case fans in this small chassis, which is pretty darn impressive. 
 
-![V21 taken apart](/img/case/v21-inside.jpg)
+![V21 taken apart](/img/case/v21-inside.jpg){: .img-middle}
 
 One of the case's biggest drawbacks is noise – because it has a fairly open design with plenty of air intakes and dust filters, the noise from the fan isn't really contained. It's not unbearably loud, but the fan is definitely noticeable. Once you add additional fans, it'll be even louder. This issue can be combatted by installing a fan controller, which will help to keep the case fans spinning quietly. 
 
