@@ -548,6 +548,43 @@ One of the case's biggest drawbacks is noise – because it has a fairly open de
 
 The V21 is an impressive case. You can move the fans, radiators, and panels around to your heart's content, which gives you a lot of freedom to do as you wish with the case. Moreover, the case is incredibly cheap, especially considering all of the features included in this small form factor chassis. 
 
+### 6. Cooler Master MasterBox Lite 3.1 
+
+**Pros:** 
+
+* Build quality
+* Price
+* Features
+* Design
+* Looks
+* Spacious
+
+**Cons:** 
+
+* Only one pre-installed fan 
+
+Cooler Master's MasterBox Lite 3.1 is a budget-friendly Micro-ATX case. It's not dirt cheap, but it's definitely affordable, and considering the quality of the case, it's seriously a good deal. 
+
+The case has a side-panel window, which is always a nice touch. Although it is a small ATX case, it supports even the longest GPUs and the tallest CPU coolers, which goes to show how well the case was designed. Most case's of this size impose inconvenient restrictions on the builder. The MasterBox Lite 3.1 is a good-looking case, and if you want to spice things up a bit, you can always install case fans with cool LEDs to match the rest of your gaming setup.
+
+![Masterbox Lite](/img/case/masterbox-lite.jpg){: .img-middle}
+
+Unlike many other 'gaming' cases on the market, this chassis doesn't overdo it with flashy lights and features. It's subtle, yet sleek and refined. It has a minimalistic design with a modern look and feel. It has some accent colors as an added touch (you can choose between red, white, and black.) Cooler Master includes all three trim colors in the packaging, so you can change them depending on your build's color scheme, or how you're feeling that day. 
+
+The entire side panel is a glass window, so you'll want to make sure your cable management is on-point. Like many other cases of this size, it doesn't have an 5.25-inch drive bays, resulting in a far more spacious interior. Instead of having bulky 5.25-inch bays for optical drives that either wouldn't be installed or hardly used, the MasterBox Lite 3.1 has plenty of room for fans, radiators, GPUs, and CPU coolers. 
+
+![Masterbox interior](/img/case/masterbox-interior.jpg){: .img-middle}
+
+The interior of the case has an all-black finish, which I find quite aesthetically pleasing. It can fit GPUs as long as 380mm and heatsinks as tall as 158mm. Just about every GPU and CPU cooler on the market can fit inside of this case, meaning you can use this case to house any components you'd like, without restriction. 
+
+The case's dimensions are 456 x 208 x 381mm (HxWxD) and weighs in at around 9 lbs. It's small and light enough to be used as a LAN case, although it's lacking carrying handles, which would've been a nice touch. 
+
+I would've liked to see more fans pre-installed, by Thermaltake only decided to install one from the factory. However, the case can support up to four fans, and has space for a 240mm radiator on the front of the case and a 120mm radiator on the back of the case. 
+
+The PSU is mounted on the bottom of the case, which is ideal for cooling. Most Micro-ATX cases mount the PSU on top, so it's nice to see this design choice from Thermaltake. 
+
+Overall, it's a case full of features with a modest price. It's a yes from me!
+
 ## Conclusion 
 
 Don't be fooled by advertisements and flashy lights. A great case is sturdy, provides good airflow, has a spacious interior, etc. 
