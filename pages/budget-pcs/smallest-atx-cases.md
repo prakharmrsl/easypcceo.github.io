@@ -339,7 +339,7 @@ Sure, a good looking case is always nice, but it is *not* necessary. If you're o
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
 
-### 1. Corsair Carbide Series 400C 
+### Corsair Carbide Series 400C 
 
 **Pros:** 
 
@@ -391,7 +391,7 @@ What's the moral of the story here?
 
 If you're hunting for the best smallest ATX case, the Corsair Carbide 400C should be a strong contender on your list of possible candidates. 
 
-### 2. Corsair Carbide Series Air 540 
+### Corsair Carbide Series Air 540 
 
 **Pros:**
 
@@ -433,7 +433,7 @@ There are several other companies offering case's with a similar design, but man
 
 The case is aesthetically pleasing, delivers solid acoustic and thermal performance, and its design is truly revolutionary. If you're looking for an affordable and small ATX case, definitely check out Corsair's Air 540. 
 
-### 3. Cooler Master HAF XB II EVO 
+### Cooler Master HAF XB II EVO 
 
 **Pros:**
 
@@ -471,7 +471,7 @@ In summary, the HAF XB has a unqiue design. It can be used as a small ATX case, 
 
 The case also has great cable management options, as you can run wiring through the lower level of the case to the upper level where the second compartment houses most of your components. The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too. 
 
-### 4. NZXT H400i
+### NZXT H400i
 
 **Pros:** 
 
@@ -513,7 +513,7 @@ You can install up to four 2.5-inch drives, but there's only room for a single 3
 
 At the end of the day, the H400i is one of my favorite cases from NZXT. It has a spacious and well thought-out interior despite its small form factor. Its equally functional as it is aesthetically pleasing, and to top it all off, it's also reasonably priced. 
 
-### 5. Thermaltake Core V21 SPCC
+### Thermaltake Core V21 SPCC
 
 **Pros:**
 
@@ -548,7 +548,7 @@ One of the case's biggest drawbacks is noise – because it has a fairly open de
 
 The V21 is an impressive case. You can move the fans, radiators, and panels around to your heart's content, which gives you a lot of freedom to do as you wish with the case. Moreover, the case is incredibly cheap, especially considering all of the features included in this small form factor chassis. 
 
-### 6. Cooler Master MasterBox Lite 3.1 
+### Cooler Master MasterBox Lite 3.1 
 
 **Pros:** 
 
@@ -595,5 +595,19 @@ It is a way to show off your personality – at the same time though, it's impor
 
 At the end of the day, the your PC build comes down to your budget, your personal preferences, and what you're looking to do with your PC. That's the beauty of PC gaming – you can tailor your PC to suit your needs! 
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+  <li><a href="#smallest-atx-case-options" id="markdown-toc-smallest-atx-case-options">Smallest ATX Case Options</a></li>
+  <li><a href="#case-buying-guide" id="markdown-toc-case-buying-guide">Case Buying Guide</a></li>
+  <li><a href="#a-great-case-is" id="markdown-toc-a-great-case-is">A Great Case Is…</a></li>
+  <li><a href="#do-you-need-a-gaming-case" id="markdown-toc-do-you-need-a-gaming-case">Do You Need a ‘Gaming’ Case?</a></li>
+  <li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a>    <ul>
+      <li><a href="#1-corsair-carbide-series-400c" id="markdown-toc-1-corsair-carbide-series-400c">Corsair Carbide Series 400C</a></li>
+      <li><a href="#2-corsair-carbide-series-air-540" id="markdown-toc-2-corsair-carbide-series-air-540">Corsair Carbide Series Air 540</a></li>
+      <li><a href="#3-cooler-master-haf-xb-ii-evo" id="markdown-toc-3-cooler-master-haf-xb-ii-evo">Cooler Master HAF XB II EVO</a></li>
+      <li><a href="#4-nzxt-h400i" id="markdown-toc-4-nzxt-h400i">NZXT H400i</a></li>
+      <li><a href="#5-thermaltake-core-v21-spcc" id="markdown-toc-5-thermaltake-core-v21-spcc">Thermaltake Core V21 SPCC</a></li>
+      <li><a href="#6-cooler-master-masterbox-lite-31" id="markdown-toc-6-cooler-master-masterbox-lite-31">Cooler Master MasterBox Lite 3.1</a></li>
+    </ul>
+  </li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
