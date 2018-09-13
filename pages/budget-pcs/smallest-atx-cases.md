@@ -573,7 +573,7 @@ Unlike many other 'gaming' cases on the market, this chassis doesn't overdo it w
 
 The entire side panel is a glass window, so you'll want to make sure your cable management is on-point. Like many other cases of this size, it doesn't have an 5.25-inch drive bays, resulting in a far more spacious interior. Instead of having bulky 5.25-inch bays for optical drives that either wouldn't be installed or hardly used, the MasterBox Lite 3.1 has plenty of room for fans, radiators, GPUs, and CPU coolers. 
 
-![Masterbox interior](/img/case/masterbox-interior.jpg){: .img-middle}
+![Masterbox interior](/img/case/interior-masterbox.jpg){: .img-middle}
 
 The interior of the case has an all-black finish, which I find quite aesthetically pleasing. It can fit GPUs as long as 380mm and heatsinks as tall as 158mm. Just about every GPU and CPU cooler on the market can fit inside of this case, meaning you can use this case to house any components you'd like, without restriction. 
 
