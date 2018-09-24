@@ -152,9 +152,7 @@ Despite being a simple case, it still leaves plenty of room for customization. T
 Overall, it's a wonderful case manufactured by a reputable company. If you're looking for a small ATX case, the 400C is a strong contender. At the end of the day, it may simply come down to whether or not you desire 5.25" bays or not – for most (myself included), the lack of 5.25" bays is not a problem. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=corsair+carbide+series+400c&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2PorXR8">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2PorXR8">Check Price on Amazon</a>
 </div>
 
 ## [Corsair Carbide Series Air 540](https://amzn.to/2MUOsLS){: target="_blank"}
@@ -182,9 +180,7 @@ What's the bottom line here?
 This case seems compact on the outside yet is spacious inside, with superb airflow. Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=corsair+carbide+series+air+540&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
 </div>
 
 ## [Cooler Master HAF XB II EVO](https://amzn.to/2N0cAMT){: target="_blank"} - $85
@@ -215,9 +211,7 @@ Moral of the story?
 This case is well-built, has plenty of room that provides great airflow, and is incredibly versatile. Its small form-factor and carrying handles make it a great LAN box. The removable motherboard tray also turns this case into a convenient test bench. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=Cooler+Master+HAF+XB+II+EVO&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
 </div>
 
 ## [NZXT H400i](https://amzn.to/2vVdW5d){: target="_blank"} - $150
@@ -239,13 +233,10 @@ The case supports five drives, but four of them are 2.5" drives meant for an SSD
 This case is quite pricey, so I would not recommend it for budget builders. However, it is an incredibly high-quality case – if you have the money, you won't regret investing in the 400i. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=NZXT+h400i&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2vVdW5d">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2vVdW5d">Check Price on Amazon</a>
 </div>
 
 ## [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} - $57
-
 <a target="_blank" href="https://amzn.to/2wd4F7Z"><img class="img-right img-small" src="/img/case/thermaltake-core-v21.jpg" /></a>
 
 The [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} is a cube-shaped case that allows you to customize the panels and cooling how you like. 
@@ -265,13 +256,10 @@ Considering the quality of the case and its low price, the V21 simply makes sens
 Click [here](https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/){: target="_blank"} for a full review of the Thermaltake Core V21 SPCC.
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=thermaltake+core+v21+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2wd4F7Z">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2wd4F7Z">Check Price on Amazon</a>
 </div>
 
 ## [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} – $45
-
 <a target="_blank" href="https://amzn.to/2MAEEcI"><img class="img-right img-small" src="/img/case/masterbox-lite.png" /></a>
 
 The [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} may not be as low cost when compared to ultra budget cases, but it really gives you a great bang for your PC gaming buck. 
@@ -289,13 +277,10 @@ It's no surprise that another case by Cooler Master made the list – this time 
 Click [here](https://techguided.com/cooler-master-masterbox-lite-3-1-review/){: target="_blank"} for a full case review. 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=Cooler+Master+MasterBox+Lite+3.1+TG&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2MAEEcI">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2MAEEcI">Check Price on Amazon</a>
 </div>
 
 ## [Thermaltake Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} - $70
-
 <a target="_blank" href="https://amzn.to/2vTJbgT"><img class="img-right img-small" src="/img/case/thermaltake-core-g3.jpg" /></a>
 
 The second Thermaltake case on this list is the [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"}, which is also the second case from Thermaltake's Core series. 
@@ -313,9 +298,7 @@ It features four drive bays in total, two of which are 2.5" bays and the other t
 This case offers a stylish full sized form factor without being too big and bulky. It's one of the best (and the smallest) ATX cases money can buy! 
 
 <div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338384674&customid=&icep_uq=Thermaltake+Core+G3+Slim+ATX+Case&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price on eBay</a>
-	<br>
-	<a target="_blank" class="cta-button learn-button" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
+	<a class="btn-middle" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
 </div>
 
 ## Case Buying Guide
