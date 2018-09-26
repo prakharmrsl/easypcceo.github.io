@@ -2,7 +2,7 @@
 title: The Smallest ATX Cases Money Can Buy 
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "7 Smallest ATX Case Reviews 2018 (Comparison)" 
+seotitle: "7 Smallest ATX Case Reviews 2018 (Compact)" 
 ---
 <h3 class="page-subtitle">
 	Updated September 5th, 2018 by 
