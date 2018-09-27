@@ -117,7 +117,7 @@ When the system temp rises, all of the fans in the system will run faster to acc
 
 If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice.
 
-## [Cooler Master JetFlo 120 Case Fan](https://amzn.to/2KYMRHa){: target="_blank"}
+## [Best 120mm Case Fan: Cooler Master JetFlo 120 Case Fan](https://amzn.to/2KYMRHa){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2KYMRHa"><img class="img-right img-small" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a>
 
 **2.** The [Cooler Master JetFlo 120 case fan](https://amzn.to/2KYMRHa){: target="_blank"} is ultra-thin, but don't underestimate its cooling power. 
@@ -302,7 +302,7 @@ The FN V2 will most definitely fit most black and white variants of popular NZXT
 
 For a mere $12, you can't beat the price/performance of this 140mm case fan. 
 
-## [Corsair Air Series AF140 Case Fan](https://amzn.to/2ubsRaq){: target="_blank"}
+## [Best 140mm Case Fan: Corsair Air Series AF140 Case Fan](https://amzn.to/2ubsRaq){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ubsRaq"><img class="img-right img-small" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a>
 
 **2.** The [Corsair Air Series AF140 case fan](https://amzn.to/2ubsRaq){: target="_blank"} really packs a punch for less than $15. 

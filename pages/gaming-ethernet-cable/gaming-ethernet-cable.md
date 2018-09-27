@@ -17,7 +17,7 @@ The worst part is, if you're lagging, you can't really do anything about it – 
 
 If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
-In order to establish the best possible connection to your router, you'll want to use a high speed gaming ethernet cable.  
+In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable.  
 
 ## Best Gaming Ethernet Cables
 
@@ -105,13 +105,13 @@ The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank
 
 The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
 
-As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
+As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
 
 ## Gaming Ethernet Cable FAQ (Frequently Asked Questions)
 
 I get a lot of questions regarding this topic, so I've created this FAQ section to answer some of the more common ones. 
 
-**Does it matter which type of cable I use?** In my experience, it doesn't really matter a whole lot, but buying a Cat6 cable is always a good idea. However, if your internet connection is too slow for gaming in the first place, buying an expensive ethernet cable isn't going to help you. 
+**What is the best ethernet cable for gaming?** In my experience, it doesn't really matter a whole lot, but buying a Cat6 cable is always a good idea. However, if your internet connection is too slow for gaming in the first place, buying an expensive ethernet cable isn't going to help you. 
 
 **Can I use a wireless adapter instead?** Of course you can! I actually use a wireless adapter with my setup because I'm living in a college dorm, and it works well for me. Using a wired connection is only ideal if you need the fastest possible connection, and you're somewhat close to your router. 
 
