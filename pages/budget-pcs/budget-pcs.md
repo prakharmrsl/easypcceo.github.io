@@ -628,14 +628,6 @@ With this in mind, it's easy to understand why most parents buy consoles for the
 
 Due to this, most PC gamers are at least in high school if not older. If you're tired of young and annoying kids talking in the microphone and you're looking for a more mature community, PC is the place for you. 
 
-## How to Build a Dirt Cheap Gaming PC in 3 Easy Steps
-
-If you're on an extremely low budget, there are still options for you if you're interested in building a gaming PC. 
-
-eBay is an excellent tool if you know how to use it. If you follow our step by step guide, you can easily build a cheap gaming PC for less than $300. 
-
-**Read our [guide](/budget-pcs/300/) to find out how to build a 1080p gaming PC for $250!** 
-
 ## Console vs. PC
 
 ![Awesome Gaming Computer](/img/misc/gamingpc.jpg)
