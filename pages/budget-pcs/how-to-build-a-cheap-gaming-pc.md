@@ -56,6 +56,39 @@ Focus on the GPU, save elsewhere.
 
 ## Chapter 2: Expert Advice 
 
+I asked experts in the PC gaming industry for their number one tip to avoid overspending on your first gaming PC! Here's what they had to say: 
+
+### [Branton](https://twitter.com/PCGameHaven){: target="_blank"}, Founder of PC Game Haven: 
+![Branton](/img/roundup-contributors/branton.jpg){: .img-right .img-small .circle}
+
+The best way to avoid overspending on PC hardware is to have a plan based on research. You 
+wouldn't buy a house, a car, or even a TV without a bit of research and planning beforehand, so 
+the same should be said for computer hardware!
+
+Before you buy anything, you should gather a basic understanding of the parts used to build a 
+PC. That includes the various tiers, recent generations, and even compatibility concerns. You 
+don't have to become a master, but you should know what each part does, how it could impact 
+overall performance, and what its compatible with at the very least.	
+
+Once that's out of the way, you'll be much better equipped to avoid overspending.
+Whether you're building a new computer or just upgrading a single component, you should 
+always have a plan in place. This is when you want to be looking at benchmarks, reviews, and 
+comparisons; it's also when a basic understanding of generations, tiers, and compatibility comes 
+in handy. Forming a plan means either determining what a good upgrade path would be, or what 
+the best price vs performance build would be.
+
+If you can form a plan based on effective research, you'll probably never have to worry about 
+overspending.
+
+### Alan Bradley, Games Journalist for Rolling Stone:
+![Alan Bradley](/img/roundup-contributors/alan.jpg){: .img-right .img-small .circle} 
+
+My top tip for building a new PC, for first-timers or for veterans, is research, research, research. It may sound time-consuming or intimidating if you're first starting out, but once you've gotten a handle on some of the basic technical terms it's much less work than you think, and proper preparation can actually save you time (and a lot of money) in the long run. 
+
+Use a good parts picker website, read reviews and recommendations online, and always make sure the parts you're buying are compatible with one another and will fit in the case you've chosen. When I first started building PCs years ago I was in such a rush (and didn't have access to all the internet resources available now) that I ended up returning, or even worse damaging, a bunch of parts in my ignorance. Learn from my mistakes and do your homework — you'll thank me later!
+
+### Katharine Castle, Hardware Editor for Rock Paper Shotgun: 
+
 ## Chapter 3: The Broke Boy Method
 
 Now that you know the GPU is the most important component, it's time to introduce The Broke Boy method. After just three easy steps, you'll have yourself a gaming PC capable of 1080p gaming with 60+ FPS!
