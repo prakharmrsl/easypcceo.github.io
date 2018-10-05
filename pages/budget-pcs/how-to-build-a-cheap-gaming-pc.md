@@ -88,7 +88,7 @@ My top tip for building a new PC, for first-timers or for veterans, is research,
 Use a good parts picker website, read reviews and recommendations online, and always make sure the parts you're buying are compatible with one another and will fit in the case you've chosen. When I first started building PCs years ago I was in such a rush (and didn't have access to all the internet resources available now) that I ended up returning, or even worse damaging, a bunch of parts in my ignorance. Learn from my mistakes and do your homework — you'll thank me later!
 
 ### [Katharine](https://twitter.com/byrneinator?lang=en){: target="_blank"} Castle, Hardware Editor for Rock Paper Shotgun: 
-![Katharine](/img/roundup-contributors/katharine.jpg){: .img-right .img-small .circle}
+![Katharine](/img/roundup-contributors/katharine.jpeg){: .img-right .img-small .circle}
 
 For gaming PCs, the resolution of your monitor is the single most important thing in helping you decide what other components need to go in your system. If you're buying a 1920x1080 monitor, for example, then you don't need a wildly expensive graphics card that's intended for 2560x1440 or 4K resolutions. Everything else falls into place from there.
 
