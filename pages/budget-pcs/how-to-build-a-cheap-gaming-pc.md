@@ -80,14 +80,25 @@ the best price vs performance build would be.
 If you can form a plan based on effective research, you'll probably never have to worry about 
 overspending.
 
-### Alan Bradley, Games Journalist for Rolling Stone:
+### [Alan](https://twitter.com/chapelzero){: target="_blank"} Bradley, Games Journalist for Rolling Stone:
 ![Alan Bradley](/img/roundup-contributors/alan.jpg){: .img-right .img-small .circle} 
 
 My top tip for building a new PC, for first-timers or for veterans, is research, research, research. It may sound time-consuming or intimidating if you're first starting out, but once you've gotten a handle on some of the basic technical terms it's much less work than you think, and proper preparation can actually save you time (and a lot of money) in the long run. 
 
 Use a good parts picker website, read reviews and recommendations online, and always make sure the parts you're buying are compatible with one another and will fit in the case you've chosen. When I first started building PCs years ago I was in such a rush (and didn't have access to all the internet resources available now) that I ended up returning, or even worse damaging, a bunch of parts in my ignorance. Learn from my mistakes and do your homework — you'll thank me later!
 
-### Katharine Castle, Hardware Editor for Rock Paper Shotgun: 
+### [Katharine](https://twitter.com/byrneinator?lang=en){: target="_blank"} Castle, Hardware Editor for Rock Paper Shotgun: 
+![Katharine](/img/roundup-contributors/katharine.jpg){: .img-right .img-small .circle}
+
+For gaming PCs, the resolution of your monitor is the single most important thing in helping you decide what other components need to go in your system. If you're buying a 1920x1080 monitor, for example, then you don't need a wildly expensive graphics card that's intended for 2560x1440 or 4K resolutions. Everything else falls into place from there.
+
+You also don't need a super powerful CPU for gaming at 1080p - an Intel Core i5 or AMD Ryzen 5 is more than enough for the job. Just make sure that whatever CPU you do end up getting is compatible with your motherboard and CPU cooler (some CPUs come with one in the box), as you don't want to buy the wrong type and put yourself out of pocket or delay your PC building any further. Otherwise, storage and RAM are all much of a muchness these days when it comes to speed, so just get whatever's cheapest and it will do you just fine. 
+
+### Summary: 
+
+What's the main takeaway here? 
+
+Conduct thorough research *prior* to purchasing components, keep your intended gaming resolution in mind, and don't overspend on unnecessary components like the CPU or RAM! 
 
 ## Chapter 3: The Broke Boy Method
 
