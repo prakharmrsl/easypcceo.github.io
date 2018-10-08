@@ -770,5 +770,16 @@ If you take away anything from this article, it should be the following:
 
 Additionally, you can choose case fans that match your PC's color scheme. They're a great way to show your personality. 
 
-* TOC
-{:toc}
+<ul id="markdown-toc">
+  <li><a href="#best-120mm-case-fans" id="markdown-toc-best-120mm-case-fans">Best 120mm Case Fans</a></li>
+  <li><a href="#best-120mm-case-fan-cooler-master-jetflo-120-case-fan" id="markdown-toc-best-120mm-case-fan-cooler-master-jetflo-120-case-fan">Best 120mm Case Fan: Cooler Master JetFlo 120 Case Fan</a></li>
+  <li><a href="#best-140mm-case-fans" id="markdown-toc-best-140mm-case-fans">Best 140mm Case Fans</a></li>
+  <li><a href="#best-140mm-case-fan-corsair-air-series-af140-case-fan" id="markdown-toc-best-140mm-case-fan-corsair-air-series-af140-case-fan">Best 140mm Case Fan: Corsair Air Series AF140 Case Fan</a></li>
+  <li><a href="#what-to-look-for-in-your-next-case-fans" id="markdown-toc-what-to-look-for-in-your-next-case-fans">What to Look for in Your Next Case Fans</a></li>
+  <li><a href="#best-pc-fan-for-gaming" id="markdown-toc-best-pc-fan-for-gaming">Best PC Fan for Gaming</a></li>
+  <li><a href="#how-to-install-case-fans" id="markdown-toc-how-to-install-case-fans">How to Install Case Fans</a></li>
+  <li><a href="#the-importance-of-case-fans" id="markdown-toc-the-importance-of-case-fans">The Importance of Case Fans</a></li>
+  <li><a href="#120mm-case-fans-vs-140mm-case-fans" id="markdown-toc-120mm-case-fans-vs-140mm-case-fans">120mm Case Fans vs. 140mm Case Fans</a></li>
+  <li><a href="#budget-gaming-pcs-for-your-case-fans" id="markdown-toc-budget-gaming-pcs-for-your-case-fans">Budget Gaming PCs for Your Case Fans</a></li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
