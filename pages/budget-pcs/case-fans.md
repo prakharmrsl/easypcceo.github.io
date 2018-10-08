@@ -1,5 +1,5 @@
 ---
-title: "The Best 120mm & 140mm Case Fans 2018"
+title: "The Best 120mm & 140mm Computer Fans of 2018 (Case Fans)"
 permalink: "/budget-pcs/case-fans/"
 layout: page
 seotitle: "15 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
@@ -15,15 +15,15 @@ seotitle: "15 Best Case Fans of 2018: 120mm & 140mm (Updated)"
 
 Case fans play a crucial role in your PC – if your PC gets too hot, your components will [overheat](https://www.howtogeek.com/174288/how-to-tell-if-your-computer-is-overheating-and-what-to-do-about-it/){: target="_blank"} and become damaged or worse, destroyed. 
 
-With that being said, it's safe to say you should choose your next set of case fans carefully. 
+With that being said, it's safe to say you should choose your next set of pc fans carefully. 
 
-Good case fans need to be quiet, efficient, and of course, they have to provide great airflow. 
+The best case fans need to be quiet, efficient, and of course, they have to provide great airflow. 
 
 Well, it looks like you're in luck. 
 
 Why?
 
-I've procured the 7 best case fans in 2018 – including the best 120mm case fans and the best 140mm case fans for your next gaming PC. 
+I've procured the 7 best case fans in 2018 – including the best 120mm case fan and the best 140mm case fan for your next gaming PC. 
 
 *Let's get started:*
 
@@ -283,7 +283,7 @@ When I'm asked for my 120mm case fan recommendation that offers both silence and
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2L2nH7b">Check Price on Amazon</a>
 </div>
 
-## [Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
+## [Best RGB Case Fans: Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ufREJM"><img class="img-right img-small" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a>
 
 **6.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's lifespan, and helping its performance overall. 
