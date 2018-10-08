@@ -5,7 +5,7 @@ layout: page
 seotitle: "7 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
 ---
 <h3 class="page-subtitle">
-	Updated September 2nd, 2018 by 
+	Updated October 8th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -46,81 +46,69 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 	<tr>
 		<th>PIC</th>
 		<th>Fan</th>
-		<th>Price</th>
 		<th>Rating</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
+		<td><a target="_blank" href="https://amzn.to/2KYMRHa"><img class="table-image" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a></td>
+		<td>Cooler Master JetFlo 120 Case Fan</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2KYMRHa">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2BYulK6"><img class="table-image" alt="Noctua NF-A14 120mm case fan" src="/img/case-fans/noctua-nf-a14.jpg" /></a></td>
+		<td>Noctua NF-A14 FLX</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2BYulK6">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2E1VEFP"><img class="table-image" alt="Be Quiet! Silentwings3 120mm case fan" src="/img/case-fans/bequiet-silentwings3.jpg" /></a></td>
+		<td>Be Quiet! Silentwings3</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2E1VEFP">Shop on Amazon</a></td>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
 		<td>ARCTIC F12 PWM PST Case Fan</td>
-		<td>$25</td>
 		<td>4.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2m8zQNb">Shop on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2KYMRHa"><img class="table-image" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a></td>
-		<td>Cooler Master JetFlo 120 Case Fan</td>
-		<td>$20</td>
-		<td>4/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2KYMRHa">Shop on Amazon</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="https://amzn.to/2L2nH7b"><img class="table-image" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a></td>
 		<td>Noctua NF-F12 Case Fan</td>
-		<td>$20</td>
-		<td>5/5</td>
+		<td>4.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2L2nH7b">Shop on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2ufREJM"><img class="table-image" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a></td>
 		<td>Corsair ML120 Pro LED Case Fan</td>
-		<td>$100</td>
 		<td>4.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2ufREJM">Shop on Amazon</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2zWFJEK"><img class="table-image" alt="Corsair Air Series SP 120" src="/img/case-fans/sp-120.png" /></a></td>
+		<td>Corsair Air Series SP 120</td>
+		<td>4/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2zWFJEK">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2RuCjQl"><img class="table-image" alt="asiahorse solar eclipse mirage 120mm case fan" src="/img/case-fans/asiahorse-eclipse.jpg" /></a></td>
+		<td>ASIAHORSE Solar Eclipse Mirage</td>
+		<td>4/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2RuCjQl">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2C3wfsY"><img class="table-image" alt="Thermaltake Luna 12 Slim" src="/img/case-fans/thermaltake-luna.jpg" /></a></td>
+		<td>Thermaltake Luna 12 Slim</td>
+		<td>4/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2C3wfsY">Shop on Amazon</a></td>
+	</tr>
 </table>
-
-## [ARCTIC F12 PWM Case Fan](https://amzn.to/2m8zQNb){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2m8zQNb"><img class="img-small img-right" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
-
-**1.** The [ARCTIC F12 PWM PST case fan](https://amzn.to/2m8zQNb){: target="_blank"} was designed to run quietly, while improving airflow and ventilation. 
-
-Your computer's motherboard utilizes the F12's PWM function to run the fan at the right speed at all times. This feature ensures your PC will be at the proper temperature. Moreover, because your fan won't be running faster than necessary, the PWM feature also helps to reduce noise. 
-
-The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust). 
-
-The fan housing is actually two separate sections, connected together with rubber grommets to help suppress the noise from vibrations.  
-
-**Features:** 
-
-* Patented PWM Sharing Technology (PST)
-* Extremely quiet
-* High air flow and static pressure
-* Low noise impeller
-* Fluid dynamic bearing extends service life
-
-GPUs and CPUs generate an significant amount of heat. Believe it or not, if it weren't for the CPU cooler, you could fry an egg on a CPU while it's operating. 
-
-Most people choose to install many case fans to keep their PC running cool. This option works, but it also generates more noise. With the new ARCTIC PWM fan, you can keep your case cool without generating a lot of noise. 
-
-The fan speed changes according to the system temperatures. The fan's innovative PST feature allows up to five fans (including a CPU fan) to connect to the ARCTIC PWM fan, and all of the fans will run at the same speed as the PWM fan. 
-
-When the system temp rises, all of the fans in the system will run faster to accomodate for the higher temperatures. On the other hand, if the case temperature falls, the fans will slow down, saving energy and emitting less noise. 
-
-*So, what are the main advantages of the ARCTIC F12 PWM fan?*
-
-1. Quiet fans keep your case cool during operation 
-2. Saves energy 
-3. Control fan speed of different fans with just one PWM signal 
-
-*What's the bottom line here?*
-
-If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice.
 
 ## [Best 120mm Case Fan: Cooler Master JetFlo 120 Case Fan](https://amzn.to/2KYMRHa){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2KYMRHa"><img class="img-right img-small" alt="Cooler Master JetFlo" src="/img/case-fans/cooler-master-jetflo.jpg" /></a>
 
-**2.** The [Cooler Master JetFlo 120 case fan](https://amzn.to/2KYMRHa){: target="_blank"} is ultra-thin, but don't underestimate its cooling power. 
+**1.** The [Cooler Master JetFlo 120 case fan](https://amzn.to/2KYMRHa){: target="_blank"} is ultra-thin, but don't underestimate its cooling power. 
 
 The blades spin from 800 to 2,000 [RPM](https://www.quora.com/What-does-%E2%80%98fan-RPM%E2%80%99-mean){: target="_blank"}, thanks to the fan's high performance motor. The fan's blades generate  up to 95 CFM airflow. 
 
@@ -156,10 +144,92 @@ Overall, it's an amazing fan, for an amazingly low price on [Amazon](https://amz
 
 Click [here](https://proclockers.com/reviews/cooling/cooler-master-jetflo-120-fan-review){: target="_blank"} for a full review of this fan. 
 
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2KYMRHa">Check Price on Amazon</a>
+</div>
+
+## [Noctua NF-A14 FLX](https://amzn.to/2BYulK6){: target="_blank"}
+![Noctua NF-A14 FLX](/img/case-fans/noctua-nf-a14.jpg){: .img-right .img-small}
+
+**2.** The Noctua NF-4 is an exceptionally quiet 140mm fan with a square frame that complies with Noctua’s AAO (Advanced Acoustic Optimization) standard. Its square shape and 140mm mounting holes makes it ideal for use on water-cooling radiators. 
+
+Its sophisticated aerodynamic design measures flow acceleration channels. It also features suction side flow acceleration channels - when the speed of the air flow increases at the crucial outer blade regions, the suction side flow reduces, creating better efficiency and lower vortex noise.
+
+Noctua’s stepped inlet design adds turbulence to the influx and helps to facilitate the transition from nominal flow to turbulent flow. This, in turn, reduces the tonal intake noise, improves flow attachment and increases suction capacity, specifically in space-related environments.
+
+This fan has become a default choice among PC fanatics looking for a premium quality quiet 140mm fan. The NF-A14 provides higher static pressure and even better airflow and noise ratio than its much-acclaimed antecedent.
+
+The NF-A14 is a step ahead of the renowned quiet cooling performance of the award-winning NF-P14. Integrated anti-vibration pads made from extra-soft silicone minimizes the transmission of minute vibrations while at the same time maintaining full compatibility with all the standard screws and other mounting systems. The FLX version provides 1200/1050/900RPM speed setting through the supplied low-noise adaptors in order to ensure optimum flexibility that will assist in fine-tuning the fan for maximum ventilation performance or near-silent operation. 
+
+The NF-A14 FLX consumes only 0.96W of power despite its further improved performance, which amounts to a reduction of about 20% as compared to its predecessor. Noctua fans are famous for their perfect quality and outstanding durability. It features a lifespan rating of more than 150.000 hours and a full 6 year manufacturer’s warranty. The latest product of Noctua’s advanced smooth commutation drive system ensures excellent running smoothness by switching noises and can be purchased for $21.51
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2BYulK6">Check Price on Amazon</a>
+</div>
+
+## [Be Quiet! Silentwings3](https://amzn.to/2E1VEFP){: target="_blank"}
+
+**3.** Be Quiet Silentwings3 is a German product. As the fan's name would imply, it was designed to provide the best possible cooling performance while remaining silent. This fan has seven PWM fan blades with an optimized surface structure to ensure excellent airflow, and fan speed can be regulated in the motherboard’s BIOS. 
+
+The SilentWings3 has extremely high air pressure. This particular feature makes it a perfect choice for air-cooling systems and any other application that require optimum performance. The SilentWings3 has a high-performance to noise ratio with 28.6dBa at 2,200RPM and 120mm. Its 6-pole fan motor with three phases has a low power consumption. 
+
+The removable anti-vibration mountings also reduce the level of transmission of vibrations. Silentwing3 has an advanced fluid-dynamic bearing which enables a super-long life-span of 300,000h with a 3-year manufacturer’s warranty. This fan has a rubberized fan frame which is equipped with funnel-shaped air inlets for extremely high air pressure.
+
+Be Quiet Silentwing3 fans has a 70-75 CFM that provides efficient and silent cooling level that pulls cool air into the PC system with 4.44 W power consumption. Be quiet! Silentwings3 can be purchased for just $21.90.
+
+**Specifications:** 
+
+* **Brand:** Be Quiet!
+* **Model:** BL070
+* **Color:** Black
+* **Noise Level:** 25 - 30 dBa
+* **Fan Speed:** 2,200 RPM
+* **Cooling:** 75 CFM
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2E1VEFP">Check Price on Amazon</a>
+</div>
+
+## [ARCTIC F12 PWM Case Fan](https://amzn.to/2m8zQNb){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2m8zQNb"><img class="img-small img-right" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
+
+**4.** The [ARCTIC F12 PWM PST case fan](https://amzn.to/2m8zQNb){: target="_blank"} was designed to run quietly, while improving airflow and ventilation. 
+
+Your computer's motherboard utilizes the F12's PWM function to run the fan at the right speed at all times. This feature ensures your PC will be at the proper temperature. Moreover, because your fan won't be running faster than necessary, the PWM feature also helps to reduce noise. 
+
+The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust). 
+
+The fan housing is actually two separate sections, connected together with rubber grommets to help suppress the noise from vibrations.  
+
+**Features:** 
+
+* Patented PWM Sharing Technology (PST)
+* Extremely quiet
+* High air flow and static pressure
+* Low noise impeller
+* Fluid dynamic bearing extends service life
+
+GPUs and CPUs generate an significant amount of heat. Believe it or not, if it weren't for the CPU cooler, you could fry an egg on a CPU while it's operating. 
+
+Most people choose to install many case fans to keep their PC running cool. This option works, but it also generates more noise. With the new ARCTIC PWM fan, you can keep your case cool without generating a lot of noise. 
+
+The fan speed changes according to the system temperatures. The fan's innovative PST feature allows up to five fans (including a CPU fan) to connect to the ARCTIC PWM fan, and all of the fans will run at the same speed as the PWM fan. 
+
+When the system temp rises, all of the fans in the system will run faster to accomodate for the higher temperatures. On the other hand, if the case temperature falls, the fans will slow down, saving energy and emitting less noise. 
+
+*So, what are the main advantages of the ARCTIC F12 PWM fan?*
+
+1. Quiet fans keep your case cool during operation 
+2. Saves energy 
+3. Control fan speed of different fans with just one PWM signal 
+
+*What's the bottom line here?*
+
+If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice.
 ## [Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img class="img-right img-small" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a>
 
-**3.** Although this fan may look plain, it is actually far from it. The [Noctua NF-F12 case fan](https://amzn.to/2L2nH7b){: target="_blank"} is designed with the new Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
+**5.** Although this fan may look plain, it is actually far from it. The [Noctua NF-F12 case fan](https://amzn.to/2L2nH7b){: target="_blank"} is designed with the new Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
 
 Integrated Anti-Vibration pads help to reduce noise, even when the Noctua NF-F12's 7 fans are spinning at full speed (1500 RPM). The fan ships with a low-noise adapter, which reduces the fan's maximum speed from 1500 RPM to 1200 RPM. 
 
@@ -202,7 +272,7 @@ When I'm asked for my 120mm case fan recommendation that offers both silence and
 ## [Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ufREJM"><img class="img-right img-small" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a>
 
-**4.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's lifespan, and helping its performance overall. 
+**6.** The [Corsair ML120 Pro LED case fan](https://amzn.to/2ufREJM){: target="_blank"} has a magnetic bearing that keeps the fan quiet, in addition to prolonging the fan's lifespan, and helping its performance overall. 
 
 Similarly to a MagLev bullet train which levitates above the tracks, the Corsair ML120 PRO LED fan uses magnetic levitation to suspend the fan blades from the motor housing. This provides a (nearly) friction-less operation, which results in less noise and better performance. 
 
@@ -231,81 +301,126 @@ According to Corsair, “if NASA designed a computer case fan – this would be 
 
 In summary, not only does this fan keep your PC nice and cool, it does so quietly, and it looks great in the process. 
 
+## [Corsair Air Series SP 120](https://amzn.to/2zWFJEK){: target="_blank"}
+![Corsair Air Series SP120](/img/case-fans/sp-120.png){: .img-right .img-small}
+
+**7.** The Corsair Air Series SP 120 has a smooth design and vibrant LED lighting. The colors of the SP 120 rings are available in red, blue and white. It features a mounting screw and a voltage step-down adapter for lower speed operation, which also reduces noise. In addition, the fan ships with a 2-year warranty leaflet.
+
+They are designed to deliver air directly to high- temperature components with less noise and turbulence compared to ordinary fans. The custom-molded blades are translucent and are made with a frosted texture, so the light from the four LEDs brings out a dramatic effect. They are quieter than standard case fans, and they finish your system with a dramatic look.
+
+These are static pressure case fans. Static pressure is the measure of the rate at which a fan can push air in a highly restrictive environment, and SP120 series is perfect at this. It’s an ideal solution for heatsinks and radiators as well as drive bay intakes. Cooling today’s high- performance PCs is a difficult task, and a single fan design can’t meet all your needs. 
+
+The fans you use to pull hot air out of your PC case might not be the best fan to mount flush against a heatsink. The SP120 fans are designed with a wide body, low-pitch blades for use in a restricted space specifically for airflow through the radiator and heatsink as well as drive bay intakes and other locations where you are mounting a fan directly adjacent to a heat source. SP120 fans have a maximum-performance CFM of 62.74 and a low performance of 37.85 with just 7V-12voltage and power consumption of 0.26 W. The SP 120 radiates 23dBa at its lowest speed, but when cranked up to its maximum RPM of 2350 the fan will emit 35.3dBa.
+
+**Specifications:**
+
+* **Size:** 120mm
+* **Voltage:** 7V-12V
+* **Airflow:** 37.85 - 62.74 CFM
+* **Sound level:** 23 dBa - 35.3 dBa
+* **Speed:** 1450 - 2350 RPM 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2zWFJEK">Check Price on Amazon</a>
+</div>
+
+## [ASIAHORSE Solar Eclipse Mirage](https://amzn.to/2RuCjQl){: target="_blank"}
+![ASIAHORSE Solar Eclipse Mirage](/img/case-fans/asiahorse-eclipse.jpg){: .img-right .img-small}
+
+**8.** The [ASIAHORE Solar Eclipse Mirage](https://amzn.to/2RuCjQl){: target="_blank"} turbine high compression PC case fan has outstanding cooling performance that outweighs the traditional fan. The fan is designed with 16 rubber pad and a high-quality silicone mats to reduce vibration sound, thus ensuring it stays quiet during operation. The fan is sound-absorbing and quiet. 
+
+The fan features the following components; the main board 3PIN interface which can be connected to the motherboard 3PIN, the fan controller, an all copper core motor, FDB bearings, and a 40000 hour lifespan.
+
+This 120mm case fan has a great performance to noise ratio, only emitting 16dBa at 1200RPM and 120mm. Also, it has a 41.4 CFM that delivers an efficient and quiet cooling level. The fan is great for budget builders looking to make the most out of their PC gaming buck, as you can usually find this fan on Amazon for less than $15.
+
+**Specifications:** 
+
+* **Brand:** ASIAHORSE
+* **Model:** xfsw2004
+* **Speed:** 1200 RPM
+* **Airflow:** 41.4 CFM
+* **Noise Level:** 16 dBa 
+* **Size:** 120mm 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2RuCjQl">Check Price on Amazon</a>
+</div>
+
+## [Thermaltake Luna 12 Slim LED Series](https://amzn.to/2C3wfsY){: target="_blank"}
+![Thermaltake Luna 12 Slim](/img/case-fans/thermaltake-luna.jpg){: .img-right .img-small}
+
+**9.** The Thermaltake Luna 12 Slim LED series is a CPU cooling fan with a high-performance silent fan designed specifically for mini chassis. The Luna 12 slim LED was designed to be available in three vibrant colors; red, white and blue to add style to the chassis. 
+
+It features integrated anti-vibration pads and a self-lubricated hydraulic bearing with a high-quality friction reducing substance which lowers operation noise and also improves the efficiency and the lifecycle of the fan. 
+
+This fan has nine double-curved PWM blades which are designed to ensure optimal airflow. The fan blades deliver exceptional static pressure at a low noise level of 24dBa with a maximum rotation speed of 1400 RPM. This fan is only 15mm thick, which means it can be mounted on an ultra-thick radiator in PC cases. It can fit in places where a normal 25mm thick fan cannot. 
+
+The corners of the fan have rubber padding to reduce the noise from vibrations during operation. The fan has a CFM of 27.5 that provides efficient and silent cooling whether it is expelling hot air from the system or drawing cool air into the case. 
+
+Overall, this fan is great for its low price, especially considering its acoustic and thermal performance. On top of all of that, the fan can be mounted in tight spaces thanks to its slim design. 
+
+**Specifications:** 
+
+* **Fan Size:** 120mm
+* **Speed:** 1400 RPM
+* **Cooling:** 27.5 CFM
+* **Bearing Type:** Hydraulic
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2C3wfsY">Check Price on Amazon</a>
+</div>
+
 ## Best 140mm Case Fans 
 
 <table class="basic-table">
 	<tr>
 		<th>PIC</th>
 		<th>Fan</th>
-		<th>Price</th>
 		<th>Rating</th>
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a></td>
-		<td>NZXT FN V2 Case Fan</td>
-		<td>$12</td>
-		<td>5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2u9tLEF">Shop on Amazon</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
 		<td>Corsair Air Series AF140 Case Fan</td>
-		<td>$25</td>
 		<td>5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2ubsRaq">Shop on Amazon</a></td>
 	</tr>
 	<tr>
+		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a></td>
+		<td>NZXT FN V2 Case Fan</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2u9tLEF">Shop on Amazon</a></td>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="https://amzn.to/2J8xRBj"><img class="table-image" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a></td>
 		<td>Corsair ML140 Pro LED Case Fan</td>
-		<td>$25</td>
 		<td>4.5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2J8xRBj">Shop on Amazon</a></td>
 	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2yjpf7H"><img class="table-image" alt="Cougar Vortex" src="/img/case-fans/cougar-vortex.jpg" /></a></td>
+		<td>Cougar Vortex Case Fan</td>
+		<td>4.5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2yjpf7H">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2pI75Zq"><img class="table-image" alt="AeroCool Shark 140mm Case fan" src="/img/case-fans/aerocool-shark.jpg" /></a></td>
+		<td>AeroCool Shark Case Fan</td>
+		<td>4.5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2pI75Zq">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2Ru2S8e"><img class="table-image" alt="Rosewill RFBF 140mm case fan" src="/img/case-fans/rosewill-rfbf.jpg" /></a></td>
+		<td>Rosewill RFBF Case Fans (2-Pack)</td>
+		<td>4/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Ru2S8e">Shop on Amazon</a></td>
+	</tr>
 </table>
-
-## [NZXT FN V2 Case Fan](https://amzn.to/2u9tLEF){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2u9tLEF"><img class="img-right img-small" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a>
-
-**1.** If you're searching for a case fan that is capable of cooling even the hottest computers, look no further. If I had to describe the [NZXT FN V2 case fan](https://amzn.to/2u9tLEF){: target="_blank"} with one word, it would be performance. 
-
-**Features:** 
-
-* Anti-Vibration pads on every corner of the FN V2 to dampen vibrations 
-* Redesigned fan blades are thicker to provide more reliability and longevity 
-* No louder than 21 dBa at top speed 
-
-The fan is rated at 50 CFM, and can spin at a rate of 1,000 RPM. The fan is quiet, only emitting 21 dBa. It comes in black and white. 
-
-The fan ships with sleeved cables and anti-vibration pads to increase performance and minimize noise during operation. 
-
-The fan is designed to last for a long time – actually, NZXT ensures your purchase with a two-year warranty. 
-
-Despite being a 140mm fan, the FN V2 is incredibly light, weighing in at 5.1 ounces. 
-
-**Specifications:** 
-
-* **Dimensions:** 120 x 120 x 27mm
-* **Fan Air Flow:** 45 CFM
-* **Fan Air Pressure:** 0.9 mm - H2O
-* **Fan Bearing:** Rifle Bearing
-* **Fan Connector:** 3-Pin
-* **Fan Input Power:** 1.92W
-* **Fan Current:** 0.16A
-* **Fan Life:** 40,000 hours /4 Years
-* **Fan Noise Level:** 21 dBA
-* **Fan Speed:** 1200 ± 15% RPM
-* **Fan Voltage:** 12V DC
-* **Product Weight:** 138.4 g
-
-The FN V2 will most definitely fit most black and white variants of popular NZXT cases. This fan is ideal for chassis use – they're quiet, low RPMs, and low vibration. 
-
-For a mere $12, you can't beat the price/performance of this 140mm case fan. 
 
 ## [Best 140mm Case Fan: Corsair Air Series AF140 Case Fan](https://amzn.to/2ubsRaq){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ubsRaq"><img class="img-right img-small" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a>
 
-**2.** The [Corsair Air Series AF140 case fan](https://amzn.to/2ubsRaq){: target="_blank"} really packs a punch for less than $15. 
+**1.** The [Corsair Air Series AF140 case fan](https://amzn.to/2ubsRaq){: target="_blank"} really packs a punch for less than $15. 
 
 Spinning at 1200 RPM and only emitting 25.5 dBa, the AF140 is capable of regulating your PC's internal temperature without making too much noise. 
 
@@ -343,6 +458,44 @@ Overall, Corsair's fans are usually high quality. The AF140 offers performance a
 
 The AF140 is an ultra-thin, powerful, good-looking and cheap 140mm case fan. It's a yes from me! 
 
+## [NZXT FN V2 Case Fan](https://amzn.to/2u9tLEF){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2u9tLEF"><img class="img-right img-small" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a>
+
+**2.** If you're searching for a case fan that is capable of cooling even the hottest computers, look no further. If I had to describe the [NZXT FN V2 case fan](https://amzn.to/2u9tLEF){: target="_blank"} with one word, it would be performance. 
+
+**Features:** 
+
+* Anti-Vibration pads on every corner of the FN V2 to dampen vibrations 
+* Redesigned fan blades are thicker to provide more reliability and longevity 
+* No louder than 21 dBa at top speed 
+
+The fan is rated at 50 CFM, and can spin at a rate of 1,000 RPM. The fan is quiet, only emitting 21 dBa. It comes in black and white. 
+
+The fan ships with sleeved cables and anti-vibration pads to increase performance and minimize noise during operation. 
+
+The fan is designed to last for a long time – actually, NZXT ensures your purchase with a two-year warranty. 
+
+Despite being a 140mm fan, the FN V2 is incredibly light, weighing in at 5.1 ounces. 
+
+**Specifications:** 
+
+* **Dimensions:** 120 x 120 x 27mm
+* **Fan Air Flow:** 45 CFM
+* **Fan Air Pressure:** 0.9 mm - H2O
+* **Fan Bearing:** Rifle Bearing
+* **Fan Connector:** 3-Pin
+* **Fan Input Power:** 1.92W
+* **Fan Current:** 0.16A
+* **Fan Life:** 40,000 hours /4 Years
+* **Fan Noise Level:** 21 dBA
+* **Fan Speed:** 1200 ± 15% RPM
+* **Fan Voltage:** 12V DC
+* **Product Weight:** 138.4 g
+
+The FN V2 will most definitely fit most black and white variants of popular NZXT cases. This fan is ideal for chassis use – they're quiet, low RPMs, and low vibration. 
+
+For a mere $12, you can't beat the price/performance of this 140mm case fan. 
+
 ## [Corsair ML140 Pro LED Case Fan](https://amzn.to/2J8xRBj){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2J8xRBj"><img class="img-small img-right" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a>
 
@@ -354,7 +507,64 @@ Corsair's Advanced Magnetic Levitation bearing sets this fan apart from the comp
 
 You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. 
 
-I use these case fans in my PC, and I've never had any issues. They might work a bit too well! 
+I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
+
+## [Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"}
+![Cougar Vortex 140mm Case fan](/img/case-fans/cougar-vortex.jpg){: .img-right .img-small}
+
+**4.** The [Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"} is a hydrodynamic bearing PWM case fan. It has a 4-pin connector that allows the motherboard to control the fan speed from 800-1500RPM. The vortex fan blade is designed to reduce noise with the same high-performance as a normal case fan. 
+
+Despite operating at lower sound levels, the fan still delivers plenty of cool airflow to your precious components. This fan has a maximum airflow of 119.8CFM and minimum CFM of 70.5 with 1200RPM speeds and 19.2dBa which makes it a high static pressure fan. It has a 4-pin hydraulic bearing with a life expectancy of up to 150,000hours. 
+
+The hydraulic feature helps to keep the fan quiet will spinning at a high speed, and it prolongs the fans life expectancy by reducing friction during operation. The innovative blade design of the Vortex fans focuses on stable air flow and optimum cooling efficiency. This vortex has air-inlets with optimal aerodynamic dampers which reduces and prevents the transmission of vibrations. 
+
+**Specifications:** 
+
+* **Speed:** 1200 RPM
+* **Cooling:** 119.8 CFM
+* **Size:** 140mm
+* **Brand:** Cougar
+* **Model:** CFV12HP
+* **Connector:** 4-pin header
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2yjpf7H">Check Price on Amazon</a>
+</div>
+
+## [AeroCool Shark](https://amzn.to/2pI75Zq){: target="_blank"}
+![AeroCool Shark 140mm case fan](/img/case-fans/aerocool-shark.jpg){: .img-right .img-small}
+
+**5.** The AEROCOOL SHARK is a unique fan with a black color scheme and blue LEDs. The fan was designed with two modes of operation, silence mode (with 7V) and power mode (with 12V). This fan has 15 PWM blades that generate a moderate airflow of 82.6 CFM at 29dBa. 
+
+When the fan is running at 12V, it will spin at 1500 RPM and produce 82.6CFM, while only producing 32.5 CFM and spinning at a rate of 800 RPM when operating at 7V. The fan has an innovative liquid dynamic bearing that enhances the fan's rotation and anti-shock function. Moreover, it increases the fan's lifespan. 
+
+AEROCOOL SHARK Fan has some unique features including a voltage reduction cable that allows the fan to perform in two different modes (power or silent mode). The fan includes a 3-4 pin Molex converter, 4 anti-vibration rubber screws and 4 standard screws.
+
+**Specifications:**
+
+* **Brand:** AeroCool
+* **Model:** EN55468
+* **Size:** 140mm
+* **Airflow:** 82.6 CFM
+* **Speed:** 1500 RPM
+* **Voltage:** 7-12V
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2pI75Zq">Check Price on Amazon</a>
+</div>
+
+## [Rosewill RFBF](https://amzn.to/2Ru2S8e){: target="_blank"}
+![Rosewill RFBF](/img/case-fans/rosewill-rfbf.jpg){: .img-right .img-small}
+
+**6.** If you're looking for a case fan that is both silent and powerful, the Rosewill RFBF should be a strong contender on your list. It has 11 PWM fan blades that spin at a maximum speed of 1200 RPM. This pack of two case fans ships with a fan controller, and they produce a maximum airflow of 48.7 CFM, rendering them high static pressure fans. 
+
+The fans are black and feature fluid dynamic bearings which are largely responsible for the fans' ultra-quiet operation. The fan uses a three-pin connector or a Molex, and it comes with an LP4 adapter for cable compatibility. Its high-quality sleeve bearing helps to extend the fans' lifespan. 
+
+During intense operation, the fans aren't any louder than 30 dBa. If you're willing to turn down the fan speed a bit, you can run your fans at 200 RPM and only produce 23 dBa. 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2Ru2S8e">Check Price on Amazon</a>
+</div>
 
 ## What to Look for in Your Next Case Fans
 
