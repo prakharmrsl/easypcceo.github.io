@@ -2,7 +2,7 @@
 title: "The Best 120mm & 140mm Case Fans 2018"
 permalink: "/budget-pcs/case-fans/"
 layout: page
-seotitle: "7 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
+seotitle: "15 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
 ---
 <h3 class="page-subtitle">
 	Updated October 8th, 2018 by 
