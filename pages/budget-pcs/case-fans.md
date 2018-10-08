@@ -1,5 +1,5 @@
 ---
-title: "The Best 120mm & 140mm Computer Fans of 2018 (Case Fans)"
+title: "The Best Computer Fans of 2018 (120mm & 140mm)"
 permalink: "/budget-pcs/case-fans/"
 layout: page
 seotitle: "15 Best Case Fans of 2018: 120mm & 140mm (Updated)" 
