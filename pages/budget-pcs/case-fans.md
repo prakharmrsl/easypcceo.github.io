@@ -159,15 +159,20 @@ Noctua’s stepped inlet design adds turbulence to the influx and helps to facil
 
 This fan has become a default choice among PC fanatics looking for a premium quality quiet 140mm fan. The NF-A14 provides higher static pressure and even better airflow and noise ratio than its much-acclaimed antecedent.
 
-The NF-A14 is a step ahead of the renowned quiet cooling performance of the award-winning NF-P14. Integrated anti-vibration pads made from extra-soft silicone minimizes the transmission of minute vibrations while at the same time maintaining full compatibility with all the standard screws and other mounting systems. The FLX version provides 1200/1050/900RPM speed setting through the supplied low-noise adaptors in order to ensure optimum flexibility that will assist in fine-tuning the fan for maximum ventilation performance or near-silent operation. 
+The NF-A14 is a step ahead of the renowned quiet cooling performance of the award-winning NF-P14. Integrated anti-vibration pads made from extra-soft silicone minimizes the transmission of minute vibrations while at the same time maintaining full compatibility with all the standard screws and other mounting systems. 
 
-The NF-A14 FLX consumes only 0.96W of power despite its further improved performance, which amounts to a reduction of about 20% as compared to its predecessor. Noctua fans are famous for their perfect quality and outstanding durability. It features a lifespan rating of more than 150.000 hours and a full 6 year manufacturer’s warranty. The latest product of Noctua’s advanced smooth commutation drive system ensures excellent running smoothness by switching noises and can be purchased for $21.51
+The FLX version provides 1200/1050/900RPM speed setting through the supplied low-noise adaptors in order to ensure optimum flexibility that will assist in fine-tuning the fan for maximum ventilation performance or near-silent operation. 
+
+The NF-A14 FLX consumes only 0.96W of power despite its further improved performance, which amounts to a reduction of about 20% as compared to its predecessor. Noctua fans are famous for their perfect quality and outstanding durability. It features a lifespan rating of more than 150.000 hours and a full 6 year manufacturer’s warranty. 
+
+The latest product of Noctua’s advanced smooth commutation drive system ensures excellent running smoothness by switching noises and can be purchased for $21.51
 
 <div class="button-wrapper">
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2BYulK6">Check Price on Amazon</a>
 </div>
 
 ## [Be Quiet! Silentwings3](https://amzn.to/2E1VEFP){: target="_blank"}
+![bequiet silentwings3 case fan 120mm](/img/case-fans/bequiet-silentwings3.jpg){: .img-right .img-small}
 
 **3.** Be Quiet Silentwings3 is a German product. As the fan's name would imply, it was designed to provide the best possible cooling performance while remaining silent. This fan has seven PWM fan blades with an optimized surface structure to ensure excellent airflow, and fan speed can be regulated in the motherboard’s BIOS. 
 
@@ -226,6 +231,11 @@ When the system temp rises, all of the fans in the system will run faster to acc
 *What's the bottom line here?*
 
 If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a great choice.
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2m8zQNb">Check Price on Amazon</a>
+</div>
+
 ## [Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img class="img-right img-small" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a>
 
@@ -269,6 +279,10 @@ Based on the fan's looks and performance, it's obvious that a lot of research an
 
 When I'm asked for my 120mm case fan recommendation that offers both silence and performance, I'd recommend the NF-F12.
 
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2L2nH7b">Check Price on Amazon</a>
+</div>
+
 ## [Corsair ML120 Pro LED Case Fan](https://amzn.to/2ufREJM){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2ufREJM"><img class="img-right img-small" alt="Corsair ML120 Pro LED case fan" src="/img/case-fans/corsair-ml120.png" /></a>
 
@@ -300,6 +314,10 @@ As far as noise goes, the fan is very quiet. At its lowest speed it will only em
 According to Corsair, “if NASA designed a computer case fan – this would be it." The fan has an extensive range of speed control, ranging from 400 RPM to 2400 RPM, and static pressure from 0.2 to 4.2 mmAq. 
 
 In summary, not only does this fan keep your PC nice and cool, it does so quietly, and it looks great in the process. 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2ufREJM">Check Price on Amazon</a>
+</div>
 
 ## [Corsair Air Series SP 120](https://amzn.to/2zWFJEK){: target="_blank"}
 ![Corsair Air Series SP120](/img/case-fans/sp-120.png){: .img-right .img-small}
@@ -458,6 +476,10 @@ Overall, Corsair's fans are usually high quality. The AF140 offers performance a
 
 The AF140 is an ultra-thin, powerful, good-looking and cheap 140mm case fan. It's a yes from me! 
 
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2ubsRaq">Check Price on Amazon</a>
+</div>
+
 ## [NZXT FN V2 Case Fan](https://amzn.to/2u9tLEF){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2u9tLEF"><img class="img-right img-small" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a>
 
@@ -496,6 +518,10 @@ The FN V2 will most definitely fit most black and white variants of popular NZXT
 
 For a mere $12, you can't beat the price/performance of this 140mm case fan. 
 
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2u9tLEF">Check Price on Amazon</a>
+</div>
+
 ## [Corsair ML140 Pro LED Case Fan](https://amzn.to/2J8xRBj){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2J8xRBj"><img class="img-small img-right" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a>
 
@@ -508,6 +534,10 @@ Corsair's Advanced Magnetic Levitation bearing sets this fan apart from the comp
 You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. 
 
 I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2J8xRBj">Check Price on Amazon</a>
+</div>
 
 ## [Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"}
 ![Cougar Vortex 140mm Case fan](/img/case-fans/cougar-vortex.jpg){: .img-right .img-small}
