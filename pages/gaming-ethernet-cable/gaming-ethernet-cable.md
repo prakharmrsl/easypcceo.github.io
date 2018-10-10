@@ -1,8 +1,8 @@
 ---
-title: "The Best Gaming Ethernet Cable for Xbox One, PS4, & PC (2018)"
+title: "The Best Gaming Ethernet Cables of 2018"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "3 Best Gaming Ethernet Cable Reviews 2018 (Xbox One, PS4, PC)" 
+seotitle: "3 Best Ethernet Cable for Gaming on Xbox One, PS4, & PC (2018)" 
 ---
 <h3 class="page-subtitle">
 	Updated July 13th, 2018 by 
