@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Ethernet Cable for Gaming on Xbox One, PS4, & PC (2018)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 13th, 2018 by 
+	Updated October 10th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -89,7 +89,7 @@ During my tests, I did not experience any network difficulty. I played several g
 
 For less than $10, this is a fantastic Cat5e gaming ethernet cable. 
 
-## [RiteAV Cat6 50ft Cable](https://amzn.to/2Jt4qdD){: target="_blank"}
+## [Best Ethernet Cable for PC Gaming: RiteAV Cat6 50ft Cable](https://amzn.to/2Jt4qdD){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2Jt4qdD"><img class="img-right img-small" alt="RiteAV Cat6 50ft cable" src="/img/gaming-ethernet-cable/rite-av.jpg" /></a>
 
 The [RiteAV Cat6 50ft cable](https://amzn.to/2Jt4qdD){: target="_blank"} has 50 micron gold plated connectors for a fantastic data transmission. When I tested this cable, it passed each one with flying colors. Downloads were fast, my gaming connection was perfect (less than 15 ping), etc.
@@ -98,7 +98,7 @@ Compared to my old Cat5e cables, I was surprised by the noticeable difference be
 
 If you're a gamer wanting to improve your connection, I'd highly recommend this ethernet cable. 
 
-## [Importer520 Cat6 RJ45 50ft Cable](https://amzn.to/2NT6sqV){: target="_blank"}
+## [Best Ethernet Cable for PS4: Importer520 Cat6 RJ45 50ft Cable](https://amzn.to/2NT6sqV){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2NT6sqV"><img class="img-right img-small" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
 
 The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank"} has a standard PVC jacket, and male to male connectors iwth a snagless molded strain relief.
@@ -107,25 +107,32 @@ The cable is 50 feet long, which means you can run the wire from your router to 
 
 As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
 
+## [Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}  
+![Vandesail Cat7 Ethernet cable for gaming](/img/gaming-ethernet-cable/vandesail.png){: .img-right .img-small}
+
+Cat 7 ethernet cables are a bit overkill for gaming. In all honesty, you could definitely get away with a Cat 6 cable, or even a Cat 5e cable. However, if you want a great Cat 7 ethernet cable for gaming, I'd recommend the [Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}. 
+
+On the other hand, you'll probably want a great Cat 7 ethernet cable if you're a streamer. A Cat 7 generation cable is the best ethernet cable for streaming. If you're a serious streamer, you have to stream high quality video, which means you'll need a great ethernet cable. Cat 7 cables deliver the speed and performance you need to stream high quality content. 
+
 ## Types of Ethernet Cables
 
 Although you may not have known before, ethernet cables have been developed in different generations. Each new generation of cables has tighter twists in the copper wiring and faster data transfer speeds. Here are all of the different generations of ethernet cables: 
 
-**Cat3 (Category 3):** This is one of the oldest ethernet cable generations. It could only support a maximum frequency of 16 MHz – this is incredibly slow, especially when compared to the speed of modern ethernet cables. 
+**Cat 3 (Category 3):** This is one of the oldest ethernet cable generations. It could only support a maximum frequency of 16 MHz – this is incredibly slow, especially when compared to the speed of modern ethernet cables. 
 
-**Cat5 (Category 5):** Cat5 cables are used in some instances (usually by your grandparents), but they've pretty much become obsolete for the rest of the modern world. Cat5e largely replaced the older Cat5 generation. When the Cat5 was first released, it was applauded. It could transfer 10/100 Mbps over 100 meters of distance. 
+**Cat 5 (Category 5):** Cat5 cables are used in some instances (usually by your grandparents), but they've pretty much become obsolete for the rest of the modern world. Cat5e largely replaced the older Cat5 generation. When the Cat5 was first released, it was applauded. It could transfer 10/100 Mbps over 100 meters of distance. 
 
-**Cat5e (Category 5e):** The 'E' means enhanced and the Cat5e cables follows the strict IEEE standard. The Cat5e reduces interference from other wires, and have 1.5 - 2 twists / cm which results in an increased data transfer speed than the older Cat5 cables. Cat5e cables have become largely popular because they are budget friendly and effective. These cables use 4 data pairs as opposed to the Cat3 cables' 2 data pairs. The Cat5e cable can support 1000Mbps. Although this isn't as fast as a Cat6 cable, it surely gets the job done. 
+**Cat 5e (Category 5e):** The 'E' means enhanced and the Cat5e cables follows the strict IEEE standard. The Cat5e reduces interference from other wires, and have 1.5 - 2 twists / cm which results in an increased data transfer speed than the older Cat5 cables. Cat5e cables have become largely popular because they are budget friendly and effective. These cables use 4 data pairs as opposed to the Cat3 cables' 2 data pairs. The Cat5e cable can support 1000Mbps. Although this isn't as fast as a Cat6 cable, it surely gets the job done. 
 
-**Cat6 (Category 6):** The Cat6 ethernet cables have wires that are more twisted than older ethernet cable generations. The Cat 6 cable has 4 twists per cm, which is double that of Cat5e cables. The Cat6 cable can support speeds up to 10Gbps and frequencies up to 250MHz. 
+**Cat 6 (Category 6):** The Cat6 ethernet cables have wires that are more twisted than older ethernet cable generations. The Cat 6 cable has 4 twists per cm, which is double that of Cat5e cables. The Cat6 cable can support speeds up to 10Gbps and frequencies up to 250MHz. 
 
-**Cat6a (Category 6a):** The Cat6a cable can support bandiwdth frequences of up to 500MHz, and it can transmit data at 100 meters, which is 63 meters farther than a Cat6 cable can transmit 10Gbps. The covering is also stronger which helps to protect against Alien Crosstalk and improves the signal to noise ratio. 
+**Cat 6a (Category 6a):** The Cat6a cable can support bandiwdth frequences of up to 500MHz, and it can transmit data at 100 meters, which is 63 meters farther than a Cat6 cable can transmit 10Gbps. The covering is also stronger which helps to protect against Alien Crosstalk and improves the signal to noise ratio. 
 
 ![Cat7 Ethernet Cable](/img/gaming-ethernet-cable/cat7-cover.jpg){: .img-middle}
+ 
+**Cat 7 (Category 7):** This generation is still new and in testing, so it has not been adopted as a mainstream replacement for Cat5e and Cat6 cables. However, in lab conditions, the cable is able to transmit up to 100Gbps at a distance of 15 meters. It has extensive shielding on both the individual pairs within and the cable cover. The shielding must be grounded and a special GigaGate 45 (GG45) connector is needed to fully harness the high performance of the Cat7 cable. This cable is best used by enterprise networks and data centers, but they're probably a bit overkill for gaming. 
 
-**Cat7 (Category 7):** This generation is still new and in testing, so it has not been adopted as a mainstream replacement for Cat5e and Cat6 cables. However, in lab conditions, the cable is able to transmit up to 100Gbps at a distance of 15 meters. It has extensive shielding on both the individual pairs within and the cable cover. The shielding must be grounded and a special GigaGate 45 (GG45) connector is needed to fully harness the high performance of the Cat7 cable. This cable is best used by enterprise networks and data centers, but they're probably a bit overkill for gaming. 
-
-**Cat8 (Category 8):** This cable is still being tested, but it is rumored that the cable will be able to handle 25GB and 40Gb ethernet with faster transmission rates.
+**Cat 8 (Category 8):** This cable is still being tested, but it is rumored that the cable will be able to handle 25GB and 40Gb ethernet with faster transmission rates.
 
 ## Gaming Ethernet Cable FAQ (Frequently Asked Questions)
 
