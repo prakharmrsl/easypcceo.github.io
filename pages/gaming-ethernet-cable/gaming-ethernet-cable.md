@@ -17,7 +17,7 @@ The worst part is, if you're lagging, you can't really do anything about it – 
 
 If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
-In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable.  
+In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable. **Here is a list of the best gaming ethernet cables of 2018:**  
 
 ## Best Gaming Ethernet Cables
 
@@ -105,7 +105,7 @@ The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank
 
 The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
 
-As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
+As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea. This is also a great ethernet cable for PS4 Pro. This is also a great ethenet cable for gaming on the Xbox One. 
 
 ## [Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}  
 ![Vandesail Cat7 Ethernet cable for gaming](/img/gaming-ethernet-cable/vandesail.png){: .img-right .img-small}
@@ -116,7 +116,40 @@ However, if you want a great Cat 7 ethernet cable for gaming, I'd recommend the 
 
 On the other hand, you'll probably want a great Cat 7 ethernet cable if you're a streamer. A Cat 7 generation cable is the best ethernet cable for streaming. 
 
-If you're a serious streamer, you have to stream high quality video, which means you'll need a great ethernet cable. Cat 7 cables deliver the speed and performance you need to stream high quality content. 
+If you're a serious streamer, you have to stream high quality video, which means you'll need a great ethernet cable. Cat 7 cables deliver the speed and performance you need to stream high quality content.
+
+## What is Ethernet? 
+
+Ethernet refers to the most common LAN (Local Area Network) used today. A LAN is a connected network of computers (nodes) in a small area, such as a school or university, your home, or a data center. Ethernet is *not* wireless. Although it may seem odd that we're still using ethernet cables in a world of wireless connectivity, ethernet cables actually still serve an important purpose. 
+
+Ethernet has been around since the beginning of the 1970s, and they've become increasingly faster with each [new generation](#types-of-ethernet-cables) of cables. Today's best ethernet cables can support speeds up to 1,000 Mbps. Huge businesses that are technologically progressive have access to the newest ethernet cables that can transfer data with speeds up to 10,000 Mbps – unfortunately, the rest of us will have to wait a while before we can use them. 
+
+### Benefits of Ethernet vs. WiFi
+
+1. Stability 
+2. Security
+3. Flexibility
+
+Let's break these points down:
+
+**Stability:** Setting up a LAN network is more time-consuming and costly than a wireless network, but a LAN has several important benefits that wireless networks cannot provide. Firstly, WiFi signals are transmitted via radio waves. This means WiFi signals are prone to interference. 
+
+If you have a wired ethernet cable, connection interference is not an issue. You're far less likely to experience slowdowns and disconnections. Moreover, because each device is directly wired via ethernet, you don't have to share bandwidth between devices. 
+
+**Flexibility:** Ethernet cables can transfer data up to 100 meters away (that's a bit longer than a football field), which is much farther than a wireless signal can reach. In addition, most routers already have ethernet ports, so it isn't hard to make the switch. 
+
+**Security:** If you are dealing with sensitive information, an Ethernet cable also provides heightened security. Since your internet connection is physical, you maintain control of who is connected to your local network at all times. This frees up data for other users on your network while simultaneously preventing unwwanted and harmful security breaches. 
+
+### Disadvantages of Ethernet vs. WiFi 
+
+1. Cost
+2. Mobility 
+
+Let's break these points down: 
+
+**Cost:** Ethernet cables can be expensive, and depending on the complexity of your network, they can be *very* expensive. If you merely want one gaming ethernet cable for your PS4 or PC, it won't be costly at all. On the other hand, if you're the owner of a business – large or small – you'll need modems, firewalls, servers, and you'll probably have to pay someone to install it for you as well. 
+
+**Mobility:** If you're using WiFi, you can walk freely about your home or business while accessing the internet. It's incredibly convenient, and we often take this for granted. If you're using a wired connection, you won't be able to move around. Lastly, portable devices such as tablets, smartphones, netbooks and e-readers don't come equipped with ethernet ports. 
 
 ## Types of Ethernet Cables
 
