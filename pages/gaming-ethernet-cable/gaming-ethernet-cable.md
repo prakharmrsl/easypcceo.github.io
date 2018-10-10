@@ -107,6 +107,26 @@ The cable is 50 feet long, which means you can run the wire from your router to 
 
 As far as connection goes, the Importer520 is another fantastic gaming ethernet cable. It's a Cat6 ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 ethernet cable is a good idea.
 
+## Types of Ethernet Cables
+
+Although you may not have known before, ethernet cables have been developed in different generations. Each new generation of cables has tighter twists in the copper wiring and faster data transfer speeds. Here are all of the different generations of ethernet cables: 
+
+**Cat3 (Category 3):** This is one of the oldest ethernet cable generations. It could only support a maximum frequency of 16 MHz – this is incredibly slow, especially when compared to the speed of modern ethernet cables. 
+
+**Cat5 (Category 5):** Cat5 cables are used in some instances (usually by your grandparents), but they've pretty much become obsolete for the rest of the modern world. Cat5e largely replaced the older Cat5 generation. When the Cat5 was first released, it was applauded. It could transfer 10/100 Mbps over 100 meters of distance. 
+
+**Cat5e (Category 5e):** The 'E' means enhanced and the Cat5e cables follows the strict IEEE standard. The Cat5e reduces interference from other wires, and have 1.5 - 2 twists / cm which results in an increased data transfer speed than the older Cat5 cables. Cat5e cables have become largely popular because they are budget friendly and effective. These cables use 4 data pairs as opposed to the Cat3 cables' 2 data pairs. The Cat5e cable can support 1000Mbps. Although this isn't as fast as a Cat6 cable, it surely gets the job done. 
+
+**Cat6 (Category 6):** The Cat6 ethernet cables have wires that are more twisted than older ethernet cable generations. The Cat 6 cable has 4 twists per cm, which is double that of Cat5e cables. The Cat6 cable can support speeds up to 10Gbps and frequencies up to 250MHz. 
+
+**Cat6a (Category 6a):** The Cat6a cable can support bandiwdth frequences of up to 500MHz, and it can transmit data at 100 meters, which is 63 meters farther than a Cat6 cable can transmit 10Gbps. The covering is also stronger which helps to protect against Alien Crosstalk and improves the signal to noise ratio. 
+
+![Cat7 Ethernet Cable](/img/gaming-ethernet-cable/cat7-cover.jpg){: .img-middle}
+
+**Cat7 (Category 7):** This generation is still new and in testing, so it has not been adopted as a mainstream replacement for Cat5e and Cat6 cables. However, in lab conditions, the cable is able to transmit up to 100Gbps at a distance of 15 meters. It has extensive shielding on both the individual pairs within and the cable cover. The shielding must be grounded and a special GigaGate 45 (GG45) connector is needed to fully harness the high performance of the Cat7 cable. This cable is best used by enterprise networks and data centers, but they're probably a bit overkill for gaming. 
+
+**Cat8 (Category 8):** This cable is still being tested, but it is rumored that the cable will be able to handle 25GB and 40Gb ethernet with faster transmission rates.
+
 ## Gaming Ethernet Cable FAQ (Frequently Asked Questions)
 
 I get a lot of questions regarding this topic, so I've created this FAQ section to answer some of the more common ones. 
