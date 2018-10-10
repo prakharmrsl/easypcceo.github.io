@@ -110,9 +110,13 @@ As far as connection goes, the Importer520 is another fantastic gaming ethernet 
 ## [Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}  
 ![Vandesail Cat7 Ethernet cable for gaming](/img/gaming-ethernet-cable/vandesail.png){: .img-right .img-small}
 
-Cat 7 ethernet cables are a bit overkill for gaming. In all honesty, you could definitely get away with a Cat 6 cable, or even a Cat 5e cable. However, if you want a great Cat 7 ethernet cable for gaming, I'd recommend the [Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}. 
+Cat 7 ethernet cables are a bit overkill for gaming. In all honesty, you could definitely get away with a Cat 6 cable, or even a Cat 5e cable. 
 
-On the other hand, you'll probably want a great Cat 7 ethernet cable if you're a streamer. A Cat 7 generation cable is the best ethernet cable for streaming. If you're a serious streamer, you have to stream high quality video, which means you'll need a great ethernet cable. Cat 7 cables deliver the speed and performance you need to stream high quality content. 
+However, if you want a great Cat 7 ethernet cable for gaming, I'd recommend the [Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}. 
+
+On the other hand, you'll probably want a great Cat 7 ethernet cable if you're a streamer. A Cat 7 generation cable is the best ethernet cable for streaming. 
+
+If you're a serious streamer, you have to stream high quality video, which means you'll need a great ethernet cable. Cat 7 cables deliver the speed and performance you need to stream high quality content. 
 
 ## Types of Ethernet Cables
 
