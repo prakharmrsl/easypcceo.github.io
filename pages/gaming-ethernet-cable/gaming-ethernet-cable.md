@@ -140,7 +140,7 @@ If you have a wired ethernet cable, connection interference is not an issue. You
 
 **Security:** If you are dealing with sensitive information, an Ethernet cable also provides heightened security. Since your internet connection is physical, you maintain control of who is connected to your local network at all times. This frees up data for other users on your network while simultaneously preventing unwwanted and harmful security breaches. 
 
-![Many Ethernet Cables](/img/gaming-ethernet-cable/many-ethernet-cables.jpg){: .img-middle}
+![Many Ethernet Cables](/img/gaming-ethernet-cable/many-ethernet-cables.jpg)
 
 ### Disadvantages of Ethernet vs. WiFi 
 
