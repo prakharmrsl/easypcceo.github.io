@@ -17,7 +17,7 @@ The worst part is, if you're lagging, you can't really do anything about it – 
 
 If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
-In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable. **Here is a list of the best gaming ethernet cables of 2018:**  
+In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable. **If you're looking for the best ethernet cables for gaming in 2018, then read on:**  
 
 ## Best Gaming Ethernet Cables
 
@@ -139,6 +139,8 @@ If you have a wired ethernet cable, connection interference is not an issue. You
 **Flexibility:** Ethernet cables can transfer data up to 100 meters away (that's a bit longer than a football field), which is much farther than a wireless signal can reach. In addition, most routers already have ethernet ports, so it isn't hard to make the switch. 
 
 **Security:** If you are dealing with sensitive information, an Ethernet cable also provides heightened security. Since your internet connection is physical, you maintain control of who is connected to your local network at all times. This frees up data for other users on your network while simultaneously preventing unwwanted and harmful security breaches. 
+
+![Many Ethernet Cables](/img/gaming-ethernet-cable/many-ethernet-cables.jpg){: .img-middle}
 
 ### Disadvantages of Ethernet vs. WiFi 
 
