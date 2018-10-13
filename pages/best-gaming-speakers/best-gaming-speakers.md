@@ -306,7 +306,7 @@ In conclusion, the T40s' are a solid set of speakers for an affordable price. Th
 </div>
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
-<a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>]
+<a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
 
 Footsteps are crisp and clear – it's easy to tell where they're coming from. Hearing footsteps with precision is crucial, especially if you're a competitive gamer. These budget speakers, although not specifically designed with gamer-centric features, can easily double as gaming speakers.  
 
