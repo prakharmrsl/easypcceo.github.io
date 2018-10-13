@@ -2,7 +2,7 @@
 title: "Best Tower Speakers of 2018"
 permalink: "/tower-speakers/"
 layout: page
-seotitle: "5 Best Tower Speakers Under 500 in 2018 (Comparison)" 
+seotitle: "5 Best Floor Standing Speakers Under 500 in 2018 (Comparison)" 
 ---
 <h3 class="page-subtitle">
 	Updated August 18th, 2018 by 

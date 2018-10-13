@@ -29,16 +29,3 @@
       subhref: "/budget-pcs/700/"
     - subtitle: "$800 Build"
       subhref: "/budget-pcs/800/"
-
-- name: Gaming Peripherals
-  subcategories:
-    - subtitle: "Gaming Mice"
-      subhref: "/gaming-mouse/"
-    - subtitle: "Gaming Keypad"
-      subhref: /gaming-keypad/"
-    - subtitle: "Gaming Case Fans"
-      subhref: "/budget-pcs/case-fans/"
-    - subtitle: "Gaming Speakers"
-      subhref: "/best-gaming-speakers/"
-    - subtitle: "Smallest ATX Cases"
-      subhref: "/budget-pcs/smallest-atx-cases/"
