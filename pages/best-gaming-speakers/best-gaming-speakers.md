@@ -74,7 +74,7 @@ The speakers are powered by 500 watts all the way up to a monstrous 1000 watts. 
 Volume aside, these speakers can provide a true surround sound experience, as long as you have a capable sound card to pair them with. These speakers are more expensive than the model they are replacing, but their sound quality, fidelity, and attention to detail are impeccable. You definitely get what you pay for! 
 
 <div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="#logitech-z906-surround-sound-speakers">Read Review</a>
+	<a class="btn-middle" href="#logitech-z906-surround-sound-speakers">Read Review</a>
 </div>
 
 ## [Runner Up: Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
@@ -86,7 +86,7 @@ Volume aside, these speakers can provide a true surround sound experience, as lo
 These speakers are compatible not only with a PC, but a TV as well and even your smart phone. The bass really packs a punch, a large improvement from the last T20 generation. The treble is quite nice as well. 
 
 <div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="#creative-gigaworks-t40-series-ii-20-gaming-speakers">Read Review</a>
+	<a class="btn-middle" href="#creative-gigaworks-t40-series-ii-20-gaming-speakers">Read Review</a>
 </div>
 
 ## [Budget Gaming Speakers: Cyber Acoustics Speakers with Subwoofer](https://amzn.to/2OaiKLk){: target="_blank"} 
@@ -98,7 +98,7 @@ These speakers are compatible not only with a PC, but a TV as well and even your
 The speakers may be cheap, but their sound quality is not. These 30-watt speakers produce amazing sound highs and lows, they look stylish and they're incredibly affordable. If you're a casual gamer on the budget, they're a great fit. Additionally, they can be used to listen to music and watch movies as well. 
 
 <div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="#cyber-acoustics-speakers-with-subwoofer">Read Review</a>
+	<a class="btn-middle" href="#cyber-acoustics-speakers-with-subwoofer">Read Review</a>
 </div>
 
 ## [Best 5.1 Gaming Speakers: Cyber Acoustics CA-5402 Platinum Series 5.1 Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
@@ -128,7 +128,7 @@ The subwoofer that ships with this speaker set delivers excellent bass powered b
 Genius has only been around since 2010, but this speaker has continued to receive lots of praise from gamers and non-gamers alike. It's an affordable 2.1 subwoofer satellite speaker set, and despite not being exclusively designed for gamers, they can hold their own as gaming speakers. 
 
 <div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="#genius-sw-g21-2000-gaming-woofer-speaker-system">Read Review</a>
+	<a class="btn-middle" href="#genius-sw-g21-2000-gaming-woofer-speaker-system">Read Review</a>
 </div>
 
 ## [Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
@@ -139,7 +139,7 @@ Genius has only been around since 2010, but this speaker has continued to receiv
 While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable. 
 
 <div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review</a>
+	<a class="btn-middle" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review</a>
 </div>
 
 ## [Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
