@@ -54,6 +54,7 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Creative GigaWorks T40 Series" class="table-image" src="/img/gaming-speakers/t40.png" /></a></td>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Creative GigaWorks T40 Series II 2.0 Gaming Speakers</a></td>
+		<td>2 Speakers</td>
 		<td>4/5</td>
 	</tr>
 </table>
