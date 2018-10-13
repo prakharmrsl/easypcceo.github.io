@@ -148,7 +148,11 @@ While the price tag is a bit high, they provide satisfying performance and power
 
 These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono. 
 
-The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. They can even be mounted for your convenience! 
+The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. 
+
+<div class="button-wrapper">
+	<a class="btn-middle" href="#klipsch-r-15pm-powered-speakers">Read Review</a>
+</div>
 
 ## A Closer Look: 4 Best TV/Console Compatible Gaming Speakers
 
@@ -281,7 +285,7 @@ You'll experience wonderful surround sound, immersing you in the game and provid
 </div>
 
 ## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>]
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
 
 The T40s are about a foot tall, and measure in at 31 x 14 x 9cm. Although the T40s are the same form factor as their predecessor, they've had many improvements made to them. Firstly, the T40s have a glossy black finish with many subtle sparkling blue specks. 
 
@@ -341,6 +345,21 @@ These 2.1 speakers don't become distorted at high volumes, something that tends 
 
 <div class="button-wrapper">
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZefjS">Check Price</a>
+</div>
+
+[Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
+
+The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
+
+Sound quality would be far superior with the edition of a dedicated subwoofer to handle low-tones and bass. However, the R-15PM is a great alternative to all-in-one sound bar systems. The speakers onlny have a USB input and a Bluetooth receiver, so they're best suited to function as PC speakers. 
+
+The R-15PM's amp is rated at 50 watts – it may be a small speaker, but its dynamic performance speaks for itself. The speakers' base is somewhat full, but the extremely low bass frequencies aren't quite there. The bass still has a satisfying weight to it, but it could be better. 
+
+Tese speakers' sound and dynamics will be nice for explosive action movies, but the addition of a powered subwoofer would be ideal, especially for those who enjoy maximum window-rattling impact. For a small speaker under $500, the Klipsch R-15PM is a step up from the competitors in its weight class. 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2O6NE7x">Check Price</a>
 </div>
 
 ## Our Opinion on Gaming Speakers 
