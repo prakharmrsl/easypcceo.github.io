@@ -64,7 +64,6 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 Here are the 8 best PC gaming speakers that will give you the most bang for your PC gaming buck. If you're on the hunt for TV speakers, take a look at the next section. 
 
 ## [Top Pick: Logitech Z906 Surround Sound Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
-
 <a target="_blank" href="https://amzn.to/2zZGhvJ"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
 
 **1.** If you're looking for top of the line audio, the [Logitech Z906 Surround Sound Speakers](https://amzn.to/2zZGhvJ){: target="_blank"} are a gaming speaker set to keep your eye on. 
@@ -74,7 +73,7 @@ The speakers are powered by 500 watts all the way up to a monstrous 1000 watts. 
 Volume aside, these speakers can provide a true surround sound experience, as long as you have a capable sound card to pair them with. These speakers are more expensive than the model they are replacing, but their sound quality, fidelity, and attention to detail are impeccable. You definitely get what you pay for! 
 
 <div class="button-wrapper">
-	<a class="btn-middle" href="#logitech-z906-surround-sound-speakers">Read Review</a>
+	<a class="btn-middle" href="#logitech-z906-surround-sound-gaming-speakers">Read Review</a>
 </div>
 
 ## [Runner Up: Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
@@ -239,7 +238,7 @@ However, having heard the sound quality of this system, I'd say it's well worth 
 
 In this section, we're going to a bit more in-depth about each speaker. We'll discuss the pros and cons of each speaker set, in addition to any special features and their overall performance. If you want to learn more about the best set of gaming speakers for your setup, read on! 
 
-### Logitech Z906 Surround Sound Gaming Speakers
+## [Logitech Z906 Surround Sound Gaming Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2zZGhvJ"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
 
 These speakers are THX certified  5.1 Dolby Digital surround sound speakers which can turn any room into a home theater. You'll hear every detail, from gunshots to twigs breaking underneath the boots of approaching enemies. If you're a fan of racing games, you'll love the authentic sound of roaring engines as you race through the streets. 
@@ -258,8 +257,8 @@ The Logitech Z906 speakers have a superb design. They are well tuned gaming spea
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZGhvJ">Check Price</a>
 </div>
 
-### [Cyber Acoustics Speakers with Subwoofer](https://amzn.to/2OaiKLk){: target="_blank"} 
-<a target="_blank" href="https://amzn.to/2OaiKLk"><img class="img-middle" src="/img/gaming-speakers/cyber-acoustics.png" /></a>]
+## [Cyber Acoustics Speakers with Subwoofer](https://amzn.to/2OaiKLk){: target="_blank"} 
+<a target="_blank" href="https://amzn.to/2OaiKLk"><img class="img-middle" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
 
 This speaker system offers a great ROI. There are cheaper alternatives to this speaker set, but none can match these speakers performance per dollar. They're housed in a wooden cabinet, and they produce roaring base. The speakers come with a control pod, and the headphone jack allows you to completely bypass the speaker if you wish. 
 
@@ -281,7 +280,7 @@ You'll experience wonderful surround sound, immersing you in the game and provid
 	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
 </div>
 
-### [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>]
 
 The T40s are about a foot tall, and measure in at 31 x 14 x 9cm. Although the T40s are the same form factor as their predecessor, they've had many improvements made to them. Firstly, the T40s have a glossy black finish with many subtle sparkling blue specks. 
@@ -302,7 +301,7 @@ In conclusion, the T40s' are a solid set of speakers for an affordable price. Th
 	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
 </div>
 
-### [Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
+## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
 <a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>]
 
 Footsteps are crisp and clear – it's easy to tell where they're coming from. Hearing footsteps with precision is crucial, especially if you're a competitive gamer. These budget speakers, although not specifically designed with gamer-centric features, can easily double as gaming speakers.  
@@ -360,13 +359,13 @@ There are so many factors to consider, and at times it can be overwhelming.
 
 Don't worry, we've got you covered!
 
-### Bass
+## Bass
 
 The first thing to you need to choose is whether or not your speakers have bass. 
 
 In my opinion, bass is an important part of a speaker system. It provides a nice kick and helps to truly immersify you in the game.
 
-### Surround Sound
+## Surround Sound
 
 You can't experience true surround sound without bass. This brings us to our next point: you'll need to decide the level of surround sound you'd prefer. 
 
@@ -374,7 +373,7 @@ You can choose a 5.1 system or a 2.1 system, but you won't find a 5.1 system wit
 
 If you're going to be investing in a speaker system, you might as well go for the gold. We'd recommend a 5.1 surround sound system if you can afford one. 
 
-### Features
+## Features
 
 You'll also need to think about any extra features you may want. Higher end speakers provide plenty of cool features like special audio controls which give you the ability to adjust audio quality.
 
