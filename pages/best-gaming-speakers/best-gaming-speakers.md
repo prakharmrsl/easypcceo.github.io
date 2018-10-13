@@ -141,7 +141,7 @@ While the price tag is a bit high, they provide satisfying performance and power
 	<a class="btn-middle" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review</a>
 </div>
 
-## [Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
+## [Best High End Gaming Speakers: Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2O6NE7x"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
 
 **6.** While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. 
@@ -347,7 +347,7 @@ These 2.1 speakers don't become distorted at high volumes, something that tends 
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZefjS">Check Price</a>
 </div>
 
-[Best High End Gaming Speakers: Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
+[Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2O6NE7x"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
 
 The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
