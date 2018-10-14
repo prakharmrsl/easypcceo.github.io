@@ -208,6 +208,10 @@ They can mount to the wall, fitting any gaming setup/room configuration.
 
 These speakers most resemble a home theatre system, but don't be fooled by their appearance. While the design is minimalistic, the performance is not. 
 
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2O98D9J">Check Price</a>
+</div>
+
 ## [Runner Up: Razer Leviathan Elite Gaming and Music Sound Bar](https://amzn.to/2LrKn4m){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2LrKn4m"><img class="img-middle" src="/img/gaming-speakers/razer.png" /></a>
 
@@ -215,25 +219,35 @@ These speakers most resemble a home theatre system, but don't be fooled by their
 
 You can even use these speakers with your smartphone. It also comes with a 5.25" subwoofer. Firing downwards, it won't fail to deliver powerful bass. 
 
-## [Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System](https://amzn.to/2LD8tpz)
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2LrKn4m">Check Price</a>
+</div>
 
+## [Samsung HT-H7730 7.1 Channel 1330-Watt 3D Blu-Ray Home Theater System](https://amzn.to/2LD8tpz)
 <a target="_blank" href="https://amzn.to/2LD8tpz"><img class="img-middle" src="/img/gaming-speakers/samsung.jpg" /></a>
 
-**2.** This home theatre system packss over 1000 watts of power. This setup is great for console gaming on a TV. It's an eight piece set of 7.1 speakers. 
+**3.** This home theatre system packss over 1000 watts of power. This setup is great for console gaming on a TV. It's an eight piece set of 7.1 speakers. 
 
 It also ships with a powerful subwoofer using over 200 watts. The in-game action will be more realistic than ever before. This system is also wonderful for watching movies if you want great sound quality. 
 
 This is quite the investment, but it's well worth the money. 
 
-## [Best Gaming Speakers for Xbox One: Paradigm Cinema 100 CT 5.1 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Paradigm+Cinema+100+CT+5.1+Home+Theater+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="https://amzn.to/2LD8tpz">Check Price</a>
+</div>
 
+## [Best Gaming Speakers for Xbox One: Paradigm Cinema 100 CT 5.1 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Paradigm+Cinema+100+CT+5.1+Home+Theater+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Paradigm+Cinema+100+CT+5.1+Home+Theater+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/paradigm.png" /></a>
 
-**3.** This home theatre system is another great choice for console gaming. These speakers provide amazing sound quality for their price and size.
+**4.** This home theatre system is another great choice for console gaming. These speakers provide amazing sound quality for their price and size.
 
 There are two 5.25" drivers on each speaker, and a 1600-watt amplifier. It ships with six bass drivers and eight passive radiators.
 
 If you're looking for the best sound quality and a modest pricetag, check out these speakers. 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Paradigm+Cinema+100+CT+5.1+Home+Theater+System&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
+</div>
 
 ## [Best Gaming Speakers for PS4: Yamaha NS-SP1800BL 5.1-Channel Home Theater Speaker Set](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Yamaha+NS-SP1800BL+5.1+Channel+Home+Theater+Speaker+Set&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg)
 ![Yamaha NS-NSP1800BL](/img/gaming-speakers/yamaha-ns.png){: .img-middle}
@@ -243,6 +257,10 @@ If you're looking for the best sound quality and a modest pricetag, check out th
 Unfortunately this speaker system requires a sound amplifier for optimal sound as it's a standalone 5.1 channel package. 
 
 However, having heard the sound quality of this system, I'd say it's well worth the money. 
+
+<div class="button-wrapper">
+	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Yamaha+NS-SP1800BL+5.1+Channel+Home+Theater+Speaker+Set&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
+</div>
 
 ## Our Opinion on Gaming Speakers 
 
