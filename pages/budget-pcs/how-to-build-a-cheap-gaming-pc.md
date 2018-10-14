@@ -94,6 +94,11 @@ For gaming PCs, the resolution of your monitor is the single most important thin
 
 You also don't need a super powerful CPU for gaming at 1080p - an Intel Core i5 or AMD Ryzen 5 is more than enough for the job. Just make sure that whatever CPU you do end up getting is compatible with your motherboard and CPU cooler (some CPUs come with one in the box), as you don't want to buy the wrong type and put yourself out of pocket or delay your PC building any further. Otherwise, storage and RAM are all much of a muchness these days when it comes to speed, so just get whatever's cheapest and it will do you just fine. 
 
+[Matthew](https://twitter.com/matthanson45?lang=en){: target="_blank"} Hanson, TechRadar Computing Editor:
+![Matthew](/img/roundup-contributors/matthew.jpg){: .img-right .img-small .circle}
+
+I think the best thing is to think carefully about what you want f rom your PC and set a budget. From there you can start planning a PC that doesn't go over budget, but won't let you down either. 
+
 ### Summary: 
 
 What's the main takeaway here? 
