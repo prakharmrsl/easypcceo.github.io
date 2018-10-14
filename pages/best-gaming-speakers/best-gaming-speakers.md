@@ -5,7 +5,7 @@ layout: page
 seotitle: "15 Best Gaming Speakers for Xbox One, PS4 & PC (2018)" 
 --- 
 <h3 class="page-subtitle">
-	Updated July 25th, 2018 by 
+	Updated October 13th, 2018 by 
 	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
