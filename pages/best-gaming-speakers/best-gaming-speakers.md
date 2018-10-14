@@ -24,9 +24,9 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 
 [Surround sound](https://www.lifewire.com/what-is-surround-sound-audio-2640440) in particular is an important component of any gamer's setup. Not only does it immersify the player in the game, it also aids in competitive titles. If you can hear your opponents, you'll have the upper hand. 
 
-**Let's get started:** 
+<p style="text-align: center"><b>Page Overview:</b></p>
 
-<div class="toc-box">
+<div style="margin: 0 auto;" class="toc-box">
 <ul>
   <li><a href="#a-closer-look-4-best-pc-gaming-speakers">Best PC Gaming Speakers</a></li>
   <li><a href="#a-closer-look-5-best-tvconsole-compatible-gaming-speakers">Best Console Gaming Speakers</a></li>
