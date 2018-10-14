@@ -26,18 +26,16 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 
 <p style="text-align: center"><b>Page Overview:</b></p>
 
-<div style="margin: 0 auto;" class="toc-box">
-<ul>
-  <li><a href="#a-closer-look-4-best-pc-gaming-speakers">Best PC Gaming Speakers</a></li>
-  <li><a href="#a-closer-look-5-best-tvconsole-compatible-gaming-speakers">Best Console Gaming Speakers</a></li>
-  <li><a href="#our-opinion-on-gaming-speakers">Our Opinion on Gaming Speakers</a></li>
-  <li><a href="#what-to-look-for-in-gaming-speakers">What to Look For in Gaming Speakers</a></li>
-  <li><a href="#speakers-or-headphones">Speakers or Headphones?</a></li>
-  <li><a href="#making-the-right-decision-for-you">Making The Right Decision For You</a></li>
-  <li><a href="#frequently-asked-questions">Frequently Asked Questions (FAQ)</a></li>
-  <li><a href="#speaker-reviews">Speaker Reviews</a></li>
-  <li><a href="#conclusion">Conclusion</a></li>
-</ul>
+<div style="margin: 0 auto; text-align: center; max-width: 80%;" class="toc-box">
+  <a href="#a-closer-look-4-best-pc-gaming-speakers">Best PC Gaming Speakers</a>
+  <a href="#a-closer-look-5-best-tvconsole-compatible-gaming-speakers">Best Console Gaming Speakers</a>
+  <a href="#our-opinion-on-gaming-speakers">Our Opinion on Gaming Speakers</a>
+  <a href="#what-to-look-for-in-gaming-speakers">What to Look For in Gaming Speakers</a>
+  <a href="#speakers-or-headphones">Speakers or Headphones?</a>
+  <a href="#making-the-right-decision-for-you">Making The Right Decision For You</a>
+  <a href="#frequently-asked-questions">Frequently Asked Questions (FAQ)</a>
+  <a href="#speaker-reviews">Speaker Reviews</a>
+  <a href="#conclusion">Conclusion</a>
 </div>
 
 ## A Closer Look: 4 Best PC Gaming Speakers
