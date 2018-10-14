@@ -244,6 +244,100 @@ Unfortunately this speaker system requires a sound amplifier for optimal sound a
 
 However, having heard the sound quality of this system, I'd say it's well worth the money. 
 
+## Our Opinion on Gaming Speakers 
+
+If you're serious about gaming, we highly recommend investing in a high quality sound system for gaming. 
+
+Whether you're gaming on the PC or console, good sound quality is important. If you can't hear your opponent, they'll have the upper hand on you. Furthermore, having great surround sound and powerful base really throws you into the action. 
+
+It is our opinion that a great gaming speaker is a must for all serious gamers out there. Even when you're watching TV/movies, a good surround sound speaker system makes it that much beter, especially if you have a great set of [tower speakers](/tower-speakers/).
+
+## What to Look for in Gaming Speakers 
+
+If you're reading this, you're probably thinking about buying a new set of gaming speakers. Of course, it's easier said than done. 
+
+There are so many factors to consider, and at times it can be overwhelming. 
+
+Don't worry, we've got you covered!
+
+## Bass
+
+The first thing to you need to choose is whether or not your speakers have bass. 
+
+In my opinion, bass is an important part of a speaker system. It provides a nice kick and helps to truly immersify you in the game.
+
+## Surround Sound
+
+You can't experience true surround sound without bass. This brings us to our next point: you'll need to decide the level of surround sound you'd prefer. 
+
+You can choose a 5.1 system or a 2.1 system, but you won't find a 5.1 system without bass. 5.1 provide a far more immersive experience than a stero 2.1 speaker system.
+
+If you're going to be investing in a speaker system, you might as well go for the gold. We'd recommend a 5.1 surround sound system if you can afford one. 
+
+## Features
+
+You'll also need to think about any extra features you may want. Higher end speakers provide plenty of cool features like special audio controls which give you the ability to adjust audio quality.
+
+Lower end speakers usually just provide you with the basics like a power button and a volume knob. 
+
+## Setting Up Gaming Speakers
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/weLszjyTGzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## Sound Bars
+
+Sound bars are a trendy gaming speakers solution. There are plenty of companies making soundbars that are both powerful and compact. If you buy a high-quality soundbar, you'll experience immersive sound quality at an affordable cost. 
+
+Furthermore, soundbars are sleek and sexy, perfect for your gaming setup! 
+
+Although they can come close to traditional 5.1 surround, you'll still probably want to invest in a dedicated subwoofer for maximum audio quality. 
+
+## Speakers or Headphones? 
+
+Headphones can eliminate background noise, allowing you to focuse solely on the game. 
+
+However, if you've ever played for more than a few hours at one time with headphones on, you know just how annoying – and painful – headphones can be. 
+
+Headphones operate with different drivers. Evidently, the sound quality of headphones doesn't rival that of dedicated speakers. 
+
+Although, gaming speakers don't allow you to communicate with fellow gamers – a gaming headset and microphone, on the other hand, provides an easy way to talk to your buddies. 
+
+This is especially important in multiplayer titles like Fortnite, PUBG, CS:GO, League of Legends, etc. 
+
+If you're playing a single-player campaign or watching a movie, gaming speakers are the way to go. If you like to play multiplayer games, especially games that require communication, headphones are probably your best bet. 
+
+## Making the Right Decision for You 
+
+You'll have to determine which room in your hosue you're going to setup the speakers. 
+
+If you're in a small space surrounded by neighbors like an apartment, you really shouldn't sound blasting 5.1 speakers.
+
+Unless you have a room just for gaming, saving space is probably important. Don't get a giant speaker set; rather, a small more compact option is probably best for you. 
+
+![Gaming Speakers in Use](/img/gaming-speakers/use.jpg){: .img-middle}
+
+In addition, you'll need to check your PC to ensure it can even handle the speaker system. Not all rigs can support 5.1 surround sound. Check your motherboard's compatibility before you spend your hard earned money on speakers you can't even use.  
+
+Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
+
+## Frequently Asked Questions 
+
+I've added this section to answer some of the most frequently asked questions I receive about gaming speakers.
+
+**Can I use gaming speakers for music?** Although this one seem's pretty self-explanatory, I still get this question a lot. The answer is yes, of course you can! If you're looking for the best speakers for both gaming and music, go for a set with good bass. 
+
+**What should my budget be for a set of gaming speakers?** It really depends on the sound quality you're looking for. I wouldn't buy a set of $20 speakers for a home theater, and I wouldn't buy a set of $1,000 speakers for casual gaming. If you're looking for a pair of decent speakers, expect to drop at least a few hundred dollars. 
+
+**What is the best gaming speaker brand?** You can't go wrong with Razer or BOSE, but it is a matter of personal preference. 
+
+**Should I buy a dedicated subwoofer?** If you're serious about your bass, I'd recommend buying an aftermarket subwoofer and amplifier. 
+
+**Gaming speakers or headphones?** I prefer a gaming headset, because I think they are more convenient. I love my Razer headset – it has surround sound, and a good microphone. However, I also have a set of gaming speakers, because I like to watch movies from my bed, and I don't want to use a headset for that. Additionally, gaming speakers are great when you have friends over. 
+
+**How do I set up my gaming speakers?** I get this question a lot, and my answer is always the same: read your speakers' manual! Every set of gaming speakers, although similar, has a different setup process. You can check the speakers' manual, or watch the installation process on YouTube. 
+
 ## Speaker Reviews
 
 In this section, we're going to a bit more in-depth about each speaker. We'll discuss the pros and cons of each speaker set, in addition to any special features and their overall performance. If you want to learn more about the best set of gaming speakers for your setup, read on! 
@@ -367,100 +461,6 @@ Tese speakers' sound and dynamics will be nice for explosive action movies, but 
 <div class="button-wrapper">
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2O6NE7x">Check Price</a>
 </div>
-
-## Our Opinion on Gaming Speakers 
-
-If you're serious about gaming, we highly recommend investing in a high quality sound system for gaming. 
-
-Whether you're gaming on the PC or console, good sound quality is important. If you can't hear your opponent, they'll have the upper hand on you. Furthermore, having great surround sound and powerful base really throws you into the action. 
-
-It is our opinion that a great gaming speaker is a must for all serious gamers out there. Even when you're watching TV/movies, a good surround sound speaker system makes it that much beter, especially if you have a great set of [tower speakers](/tower-speakers/).
-
-## What to Look for in Gaming Speakers 
-
-If you're reading this, you're probably thinking about buying a new set of gaming speakers. Of course, it's easier said than done. 
-
-There are so many factors to consider, and at times it can be overwhelming. 
-
-Don't worry, we've got you covered!
-
-## Bass
-
-The first thing to you need to choose is whether or not your speakers have bass. 
-
-In my opinion, bass is an important part of a speaker system. It provides a nice kick and helps to truly immersify you in the game.
-
-## Surround Sound
-
-You can't experience true surround sound without bass. This brings us to our next point: you'll need to decide the level of surround sound you'd prefer. 
-
-You can choose a 5.1 system or a 2.1 system, but you won't find a 5.1 system without bass. 5.1 provide a far more immersive experience than a stero 2.1 speaker system.
-
-If you're going to be investing in a speaker system, you might as well go for the gold. We'd recommend a 5.1 surround sound system if you can afford one. 
-
-## Features
-
-You'll also need to think about any extra features you may want. Higher end speakers provide plenty of cool features like special audio controls which give you the ability to adjust audio quality.
-
-Lower end speakers usually just provide you with the basics like a power button and a volume knob. 
-
-## Setting Up Gaming Speakers
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/weLszjyTGzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-## Sound Bars
-
-Sound bars are a trendy gaming speakers solution. There are plenty of companies making soundbars that are both powerful and compact. If you buy a high-quality soundbar, you'll experience immersive sound quality at an affordable cost. 
-
-Furthermore, soundbars are sleek and sexy, perfect for your gaming setup! 
-
-Although they can come close to traditional 5.1 surround, you'll still probably want to invest in a dedicated subwoofer for maximum audio quality. 
-
-## Speakers or Headphones? 
-
-Headphones can eliminate background noise, allowing you to focuse solely on the game. 
-
-However, if you've ever played for more than a few hours at one time with headphones on, you know just how annoying – and painful – headphones can be. 
-
-Headphones operate with different drivers. Evidently, the sound quality of headphones doesn't rival that of dedicated speakers. 
-
-Although, gaming speakers don't allow you to communicate with fellow gamers – a gaming headset and microphone, on the other hand, provides an easy way to talk to your buddies. 
-
-This is especially important in multiplayer titles like Fortnite, PUBG, CS:GO, League of Legends, etc. 
-
-If you're playing a single-player campaign or watching a movie, gaming speakers are the way to go. If you like to play multiplayer games, especially games that require communication, headphones are probably your best bet. 
-
-## Making the Right Decision for You 
-
-You'll have to determine which room in your hosue you're going to setup the speakers. 
-
-If you're in a small space surrounded by neighbors like an apartment, you really shouldn't sound blasting 5.1 speakers.
-
-Unless you have a room just for gaming, saving space is probably important. Don't get a giant speaker set; rather, a small more compact option is probably best for you. 
-
-![Gaming Speakers in Use](/img/gaming-speakers/use.jpg){: .img-middle}
-
-In addition, you'll need to check your PC to ensure it can even handle the speaker system. Not all rigs can support 5.1 surround sound. Check your motherboard's compatibility before you spend your hard earned money on speakers you can't even use.  
-
-Last but not least, consider your budget. Don't overspend on a set with tons of features you'll never use; at the same time, don't buy the cheapest speakers money can buy. You'll get a lot more for your money if you save up a bit more. 
-
-## Frequently Asked Questions 
-
-I've added this section to answer some of the most frequently asked questions I receive about gaming speakers.
-
-**Can I use gaming speakers for music?** Although this one seem's pretty self-explanatory, I still get this question a lot. The answer is yes, of course you can! If you're looking for the best speakers for both gaming and music, go for a set with good bass. 
-
-**What should my budget be for a set of gaming speakers?** It really depends on the sound quality you're looking for. I wouldn't buy a set of $20 speakers for a home theater, and I wouldn't buy a set of $1,000 speakers for casual gaming. If you're looking for a pair of decent speakers, expect to drop at least a few hundred dollars. 
-
-**What is the best gaming speaker brand?** You can't go wrong with Razer or BOSE, but it is a matter of personal preference. 
-
-**Should I buy a dedicated subwoofer?** If you're serious about your bass, I'd recommend buying an aftermarket subwoofer and amplifier. 
-
-**Gaming speakers or headphones?** I prefer a gaming headset, because I think they are more convenient. I love my Razer headset – it has surround sound, and a good microphone. However, I also have a set of gaming speakers, because I like to watch movies from my bed, and I don't want to use a headset for that. Additionally, gaming speakers are great when you have friends over. 
-
-**How do I set up my gaming speakers?** I get this question a lot, and my answer is always the same: read your speakers' manual! Every set of gaming speakers, although similar, has a different setup process. You can check the speakers' manual, or watch the installation process on YouTube. 
 
 ## Conclusion 
 
