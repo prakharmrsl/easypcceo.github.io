@@ -2,7 +2,7 @@
 title: "The Best Gaming Speakers of 2018 (PC, PS4 and Xbox One)" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "15 Best Gaming Speakers for Xbox One, PS4 & PC (2018)" 
+seotitle: "13 Best Gaming Speakers for Xbox One, PS4 & PC (2018)" 
 --- 
 <h3 class="page-subtitle">
 	Updated October 13th, 2018 by 
@@ -170,7 +170,7 @@ Genius has only been around since 2010, but this speaker has continued to receiv
 ## [Best Gaming Speaker for Monitor: Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2zZefjS"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
 
-**5.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful [GPU](http://www.nvidia.com/object/what-is-gpu-computing.html). 
+**7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful [GPU](http://www.nvidia.com/object/what-is-gpu-computing.html). 
 
 While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable. 
 
