@@ -9,7 +9,8 @@ seotitle: "15 Best Case Fans of 2018: 120mm & 140mm (Updated)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
-![Corsair ML140 Case Fan](/img/case-fans/corsair-ml140.png){: .img-right .img-small}
+![Case Fans Header](/img/header/case-fans.jpg)
+
 <script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 **Here's the deal:**
 

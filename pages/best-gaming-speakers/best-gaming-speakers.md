@@ -9,6 +9,7 @@ seotitle: "13 Best Gaming Speakers for Xbox One, PS4 & PC (2018)"
 	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+![Gaming Speakers Header](/img/header/gaming-speakers.jpg)
 
 If you don't have a great sound system, you're losing out. 
 
