@@ -149,7 +149,7 @@ Click [here](https://proclockers.com/reviews/cooling/cooler-master-jetflo-120-fa
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2KYMRHa">Check Price on Amazon</a>
 </div>
 
-## [Noctua NF-A14 FLX](https://amzn.to/2BYulK6){: target="_blank"}
+## [Best 120mm Fan for Radiator: Noctua NF-A14 FLX](https://amzn.to/2BYulK6){: target="_blank"}
 ![Noctua NF-A14 FLX](/img/case-fans/noctua-nf-a14.jpg){: .img-right .img-small}
 
 **2.** The Noctua NF-4 is an exceptionally quiet 140mm fan with a square frame that complies with Noctua’s AAO (Advanced Acoustic Optimization) standard. Its square shape and 140mm mounting holes makes it ideal for use on water-cooling radiators. 
@@ -172,7 +172,7 @@ The latest product of Noctua’s advanced smooth commutation drive system ensure
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2BYulK6">Check Price on Amazon</a>
 </div>
 
-## [Be Quiet! Silentwings3](https://amzn.to/2E1VEFP){: target="_blank"}
+## [Quietest Case Fans: Be Quiet! Silentwings3](https://amzn.to/2E1VEFP){: target="_blank"}
 ![bequiet silentwings3 case fan 120mm](/img/case-fans/bequiet-silentwings3.jpg){: .img-right .img-small}
 
 **3.** Be Quiet Silentwings3 is a German product. As the fan's name would imply, it was designed to provide the best possible cooling performance while remaining silent. This fan has seven PWM fan blades with an optimized surface structure to ensure excellent airflow, and fan speed can be regulated in the motherboard’s BIOS. 
@@ -237,7 +237,7 @@ If you're looking for a cheap, quiet, and cool fan, the Arctic F12 PWM is a grea
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2m8zQNb">Check Price on Amazon</a>
 </div>
 
-## [Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
+## [Best PC Case Fans: Noctua NF-F12 Case Fan](https://amzn.to/2L2nH7b){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img class="img-right img-small" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a>
 
 **5.** Although this fan may look plain, it is actually far from it. The [Noctua NF-F12 case fan](https://amzn.to/2L2nH7b){: target="_blank"} is designed with the new Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
@@ -320,7 +320,7 @@ In summary, not only does this fan keep your PC nice and cool, it does so quietl
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2ufREJM">Check Price on Amazon</a>
 </div>
 
-## [Corsair Air Series SP 120](https://amzn.to/2zWFJEK){: target="_blank"}
+## [Best Computer Fans: Corsair Air Series SP 120](https://amzn.to/2zWFJEK){: target="_blank"}
 ![Corsair Air Series SP120](/img/case-fans/sp-120.png){: .img-right .img-small}
 
 **7.** The Corsair Air Series SP 120 has a smooth design and vibrant LED lighting. The colors of the SP 120 rings are available in red, blue and white. It features a mounting screw and a voltage step-down adapter for lower speed operation, which also reduces noise. In addition, the fan ships with a 2-year warranty leaflet.
@@ -540,7 +540,7 @@ I use these case fans in my PC, and I've never had any issues. They might work a
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2J8xRBj">Check Price on Amazon</a>
 </div>
 
-## [Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"}
+## [Best 140mm Static Pressure Fans: Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"}
 ![Cougar Vortex 140mm Case fan](/img/case-fans/cougar-vortex.jpg){: .img-right .img-small}
 
 **4.** The [Cougar Vortex](https://amzn.to/2yjpf7H){: target="_blank"} is a hydrodynamic bearing PWM case fan. It has a 4-pin connector that allows the motherboard to control the fan speed from 800-1500RPM. The vortex fan blade is designed to reduce noise with the same high-performance as a normal case fan. 
