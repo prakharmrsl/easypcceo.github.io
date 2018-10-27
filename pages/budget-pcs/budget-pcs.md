@@ -820,6 +820,12 @@ If you do not have enough money to buy the best parts, that's okay. Just be pati
 
 It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
 
+### Gaming from your Bed?
+
+If you'll be using your PC while in bed, be sure to get a comfortable mattress. It's common for gamers who sit or lay down in bed for long periods of time to have back issues, so get the right mattress for a [gamer is important](https://www.sleepsources.com/mattresses/gamers/){: target="_blank"}.
+
+Common issues for gamers who don't have proper mattresses include [lower back pain](https://www.geek.com/games/how-gamers-can-relieve-lower-back-pain-1704986){: target="_blank"}.
+
 ![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
 
 **[Contact me](/contact/) about using this infographic on your website!**
