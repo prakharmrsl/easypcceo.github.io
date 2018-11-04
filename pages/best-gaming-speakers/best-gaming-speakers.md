@@ -64,19 +64,28 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 
 Here are the 8 best PC gaming speakers that will give you the most bang for your PC gaming buck. If you're on the hunt for TV speakers, take a look at the next section.
 
-## [Top Pick: Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2O6NE7x"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
+<div class="featured-info-box">
+<span>First Choice</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
+</div>
+<div class="text">
+<h2>Klipsch R-15PM Powered Gaming Speakers</h2>
+<h3>Premium Gaming Speakers</h3>
 
-**1.** While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. 
+<p>While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money.</p>
 
-These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono. 
+<p>These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono.</p>
 
-The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem. 
+<p>The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem.</p>
 
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2O6NE7x">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#klipsch-r-15pm-powered-speakers">Read Review</a>
+<div class="btn">
+<a class="learn-button cta-button" href="#klipsch-r-15pm-powered-speakers">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
 ## [Runner Up: Logitech Z906 Surround Sound Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
