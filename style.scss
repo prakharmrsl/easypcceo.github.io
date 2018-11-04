@@ -1557,6 +1557,10 @@ blockquote p {
           padding: 20px;
         }
       }
+   .btn.btn-centered {
+	display: flex;
+    	justify-content: center;
+   }
      .btn {
        margin-top: 20px;
        a {
