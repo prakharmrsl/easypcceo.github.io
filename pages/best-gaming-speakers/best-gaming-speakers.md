@@ -412,6 +412,8 @@ I've added this section to answer some of the most frequently asked questions I 
 
 In this section, we're going to a bit more in-depth about each speaker. We'll discuss the pros and cons of each speaker set, in addition to any special features and their overall performance. If you want to learn more about the best set of gaming speakers for your setup, read on! 
 
+
+
 ## [Logitech Z906 Surround Sound Gaming Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2zZGhvJ"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
 
@@ -517,8 +519,36 @@ These 2.1 speakers don't become distorted at high volumes, something that tends 
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZefjS">Check Price</a>
 </div>
 
-## [Klipsch R-15PM Powered Speakers](https://amzn.to/2O6NE7x){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2O6NE7x"><img class="img-middle" src="/img/gaming-speakers/R-15PM.png" /></a>
+<div class="featured-specs-box">
+<h2 id="klipsch-r-15pm-powered-speakers">
+<span>#1</span> <a href="https://amzn.to/2O6NE7x" target="_blank">Klipsch R-15PM Powered Speakers</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
+<p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
+<p><span>Drivers</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
+<p><span>Supported Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Connectivity Options</li>
+<li>Built-in amplifier</li>
+<li>Bass</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Cost</li>
+<li>Big for most desks</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+</div>
+</div>
 
 The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
 
