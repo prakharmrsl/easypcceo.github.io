@@ -585,8 +585,36 @@ The T40s' highs are impressive, far better than the T20s' no matter how much you
 
 In conclusion, the T40s' are a solid set of speakers for an affordable price. They're great for gaming, watching movies, and listening to music too.
 
-## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
-<a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
+<div class="featured-specs-box">
+<h2 id="genius-sw-g21-2000-gaming-woofer-speaker-system">
+<span>#5</span> <a href="https://amzn.to/2uNVVo2" target="_blank">Genius SW-G2.1 2000 Gaming Woofer Speaker System</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2uNVVo2"><img alt="Genius SW-G2.1 2000 Gaming Woofer Speaker System" src="/img/gaming-speakers/genius.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>9.53 lbs (4.32 kg)</span></p>
+<p><span>Size</span><span>9.9 x 9.2 x 9.2 in</span></p>
+<p><span>Includes</span><span>1 Subwoofer, 2 Satellite Speakers</span></p>
+<p><span>Connectivity</span><span>RCA, 3.55mm primary, 3.5mm</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Stylish design</li>
+<li>Zero distortion</li>
+<li>Good price to performance</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Bass distorts beyond 70%</li>
+<li>Highs lack some clarity</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price</a>
+</div>
+</div>
 
 Footsteps are crisp and clear – it's easy to tell where they're coming from. Hearing footsteps with precision is crucial, especially if you're a competitive gamer. These budget speakers, although not specifically designed with gamer-centric features, can easily double as gaming speakers.  
 
@@ -601,10 +629,6 @@ They can accomodate more than just PC gaming thanks to the line-in port, meaning
 I particularly enjoy the feature that allows you to bypass the speakers entirely with headphones, especially when I do not want to disturb others around me. The speakers are great for everything from gaming to listening to music to watching movies – EDM is the only genre of music that I'd advise against listening to with this set of speakers. The bass becomes drowned out and you'll have to turn down the highs in order to properly listen to the music. 
 
 In conclusion, if you have $100 or so lying around and you want a great set of gaming speakers that won't break the bank, you should take a look at the Genius SW G2.1 2000 speaker set. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2uNVVo2">Check Price</a>
-</div>
 
 ## [Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2zZefjS"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
