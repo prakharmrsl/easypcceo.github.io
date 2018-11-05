@@ -422,7 +422,7 @@ In this section, we're going to a bit more in-depth about each speaker. We'll di
 <p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
 <p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
 <p><span>Includes</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
-<p><span>Supported Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
+<p><span>Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -461,7 +461,7 @@ Tese speakers' sound and dynamics will be nice for explosive action movies, but 
 <p><span>Weight</span><span>36.6 lbs (16.6 kg)</span></p>
 <p><span>Size</span><span>15.2 x 17 x 17.3 in</span></p>
 <p><span>Includes</span><span>1 subwoofer, 5 satellite speakers</span></p>
-<p><span>Supported Connectivity</span><span>3.5mm, RCA, six-channel direct, digital coaxial or optical inputs</span></p>
+<p><span>Connectivity</span><span>3.5mm, RCA, six-channel direct, digital coaxial or optical inputs</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -505,7 +505,7 @@ The Logitech Z906 speakers have a superb design. They are well tuned gaming spea
 <p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
 <p><span>Size</span><span>8 x 3 x 3 in</span></p>
 <p><span>Includes</span><span>5.25-inch subwoofer, Dual 2-inch tweeters</span></p>
-<p><span>Supported Connectivity</span><span>Chrome, 3.5mm</span></p>
+<p><span>Connectivity</span><span>Chrome, 3.5mm</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -551,7 +551,7 @@ You'll experience wonderful surround sound, immersing you in the game and provid
 <p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
 <p><span>Size</span><span>12.3 x 5.5 x 5.5 in</span></p>
 <p><span>Includes</span><span>Four 2.5-inch drivers, Two 1-inch Tweeters</span></p>
-<p><span>Supported Connectivity</span><span>RCA, 3.5mm stereo</span></p>
+<p><span>Connectivity</span><span>RCA, 3.5mm stereo</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
