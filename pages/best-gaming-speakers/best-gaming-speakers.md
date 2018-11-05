@@ -421,7 +421,7 @@ In this section, we're going to a bit more in-depth about each speaker. We'll di
 <div class="specs">
 <p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
 <p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
-<p><span>Drivers</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
+<p><span>Includes</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
 <p><span>Supported Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
 </div>
 </div>
@@ -460,7 +460,7 @@ Tese speakers' sound and dynamics will be nice for explosive action movies, but 
 <div class="specs">
 <p><span>Weight</span><span>36.6 lbs (16.6 kg)</span></p>
 <p><span>Size</span><span>15.2 x 17 x 17.3 in</span></p>
-<p><span>Drivers</span><span>12-inch subwoofer, 6-inch satellites</span></p>
+<p><span>Includes</span><span>1 subwoofer, 5 satellite speakers</span></p>
 <p><span>Supported Connectivity</span><span>3.5mm, RCA, six-channel direct, digital coaxial or optical inputs</span></p>
 </div>
 </div>
@@ -495,12 +495,35 @@ With a good sound card you can easily replicate 5.1 surround sound without havin
 
 The Logitech Z906 speakers have a superb design. They are well tuned gaming speakers that can easily be used in a home theater system. Their surround sound is impeccable and they have the power to shatter glass! 
 
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZGhvJ">Check Price</a>
+<div class="featured-specs-box">
+<h2 id="cyber-acoustics-speakers-with-subwoofer">
+<span>#3</span> <a href="https://amzn.to/2OaiKLk" target="_blank">Cyber Acoustics Speakers with Subwoofer</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2OaiKLk"><img alt="Cyber Acoustics Speakers with Subwoofer" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
+<p><span>Size</span><span>8 x 3 x 3 in</span></p>
+<p><span>Includes</span><span>5.25-inch subwoofer, Dual 2-inch tweeters</span></p>
+<p><span>Supported Connectivity</span><span>Chrome, 3.5mm, AUX</span></p>
 </div>
-
-## [Cyber Acoustics Speakers with Subwoofer](https://amzn.to/2OaiKLk){: target="_blank"} 
-<a target="_blank" href="https://amzn.to/2OaiKLk"><img class="img-middle" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Cheap</li>
+<li>Great for gaming, music, and movies</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Mediocre bass</li>
+<li>Sound quality suffers past 75% volume</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price</a>
+</div>
+</div>
 
 This speaker system offers a great ROI. There are cheaper alternatives to this speaker set, but none can match these speakers performance per dollar. They're housed in a wooden cabinet, and they produce roaring base. The speakers come with a control pod, and the headphone jack allows you to completely bypass the speaker if you wish. 
 
@@ -510,17 +533,13 @@ Cyber Acoustics is not a big brand name that you'd look for in a store. This set
 
 I wouldn't recommend using them past 75% volume, as the bass begins to deteriorate at the highest volumes. Moreover, it they're not meant for use outdoors. They're perfect for use in a small-medium sized room at a desk, which is perfect for most gamers. 
 
-In games like Battlefield One and CS:GO, these speakers are able to spatially separate footsteps and gunfire. If you are playing games like Battlefield and CS:GO, however, I'd recommend using a headset. Footsteps and sound in general are crucial to your success in these FPS games. 
+InIf you are playing games like Battlefield and CS:GO, I'd recommend using a headset. Footsteps and sound in general are crucial to your success in these FPS games. 
 
 If you're interested in using these speakers for music as well (which I'm sure most of you are), they are adequate. You wouldn't be able to host a house party using them as your sound system, but they're great when you're hosting a few friends. Listening to heavy bass is a bit underwhelming, and the highs roll off a bit at high voumes, which is why I wouldn't recommend using them at a party. 
 
 The control pod addition was especially surprising. The speakers have their controls centered in a control pod, including the volume and bass knobs in addition to a convenient AUX and headphone line. 
 
 You'll experience wonderful surround sound, immersing you in the game and providing the competitive edge you need. All of this for less than $50? What a steal! They're among the best gaming speakers under 100 dollars. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
-</div>
 
 ## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
