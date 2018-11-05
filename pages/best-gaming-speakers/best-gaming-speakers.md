@@ -173,18 +173,27 @@ This speaker set features five sleek satellite speakers and one powered subwoofe
 
 Genius has only been around since 2010, but this speaker set has continued to receive lots of praise from gamers and non-gamers alike. It's an affordable 2.1 subwoofer satellite speaker set, and despite not being exclusively designed for gamers, they can hold their own as gaming speakers.
 
-## [Best Gaming Speaker for Monitor: Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2zZefjS"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
-
-**7.** This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful [GPU](http://www.nvidia.com/object/what-is-gpu-computing.html). 
-
-While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable. 
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2zZefjS">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review</a>
+<div class="featured-info-box">
+<span>Wireless Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2zZefjS"><img alt="Harman Kardon Soundsticks Wireless Gaming Speakers" src="/img/gaming-speakers/soundsticks.png" /></a>
 </div>
+<div class="text">
+<h2>Harman Kardon Soundsticks Wireless Gaming Speakers</h2>
+<h3>Best Gaming Speakers For Monitor</h3>
+
+<p>This $200 pair of speakers delivers a sound quality boost comparable to the switch from integrated graphics to a powerful <a target="_blank" href="http://www.nvidia.com/object/what-is-gpu-computing.html">GPU</a>.</p>
+
+<div class="btn">
+<a class="learn-button cta-button" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2zZefjS">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+While the price tag is a bit high, they provide satisfying performance and power. They have four full-range drivers on each side. Considering their small size, the sound is impeccable.
 
 <div class="featured-info-box">
 <span>Budget Pick</span>
@@ -194,8 +203,8 @@ While the price tag is a bit high, they provide satisfying performance and power
 </div>
 <div class="text">
 <h2>Cyber Acoustics Speakers with Subwoofer</h2>
-<h3>Best Gaming Speakers Under 100 Dollars</h3>
-<p>Cyber Acoustics is delivering a three-piece satellite speaker system for a low price. They come with a 5.25" sub and two speakers, making them a great choice for the budget conscious gamer. These speakers may be cheap, but their sound quality is not.</p>
+<h3>Best Gaming Speakers Under 100</h3>
+<p>Cyber Acoustics is delivering a three-piece satellite speaker system for a low price. They come with a 5.25" sub and two speakers, making them a great choice for the budget conscious gamer. These speakers may be cheap, but their sound quality is not – they're the best budget gaming speakers on the market.</p>
 
 <div class="btn">
 <a class="learn-button cta-button" href="#cyber-acoustics-speakers-with-subwoofer">Read Review </a>
@@ -205,7 +214,7 @@ While the price tag is a bit high, they provide satisfying performance and power
 </div>
 </div>
 
-These 30-watt speakers produce amazing sound highs and lows, they look stylish and they're incredibly affordable. If you're a casual gamer on the budget, they're a great fit. Additionally, they can be used to listen to music and watch movies as well. 
+These 30-watt speakers produce amazing sound highs and lows, they look stylish and they're incredibly affordable. If you're a casual gamer on a budget, they're a great fit for you.
 
 ## A Closer Look: 5 Best TV/Console Compatible Gaming Speakers
 
