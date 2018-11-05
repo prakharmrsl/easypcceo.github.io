@@ -505,7 +505,7 @@ The Logitech Z906 speakers have a superb design. They are well tuned gaming spea
 <p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
 <p><span>Size</span><span>8 x 3 x 3 in</span></p>
 <p><span>Includes</span><span>5.25-inch subwoofer, Dual 2-inch tweeters</span></p>
-<p><span>Supported Connectivity</span><span>Chrome, 3.5mm, AUX</span></p>
+<p><span>Supported Connectivity</span><span>Chrome, 3.5mm</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -541,10 +541,37 @@ The control pod addition was especially surprising. The speakers have their cont
 
 You'll experience wonderful surround sound, immersing you in the game and providing the competitive edge you need. All of this for less than $50? What a steal! They're among the best gaming speakers under 100 dollars. 
 
-## [Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
+<div class="featured-specs-box">
+<h2 id="creative-gigaworks-t40-series-ii-20-gaming-speakers">
+<span>#4</span> <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" target="_blank">Creative GigaWorks T40 Series II 2.0 Gaming Speakers</a>
+</h2>
+<div class="info">
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Creative GigaWorks T40 Series II 2.0 Gaming Speakers" src="/img/gaming-speakers/t40.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
+<p><span>Size</span><span>12.3 x 5.5 x 5.5 in</span></p>
+<p><span>Includes</span><span>Four 2.5-inch drivers, Two 1-inch Tweeters</span></p>
+<p><span>Supported Connectivity</span><span>RCA, 3.5mm stereo</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Gold plated sockets</li>
+<li>Dynamic high tones</li>
+<li>Higher wattage</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No dedicated subwoofer</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
+</div>
+</div>
 
-The T40s are about a foot tall, and measure in at 31 x 14 x 9cm. Although the T40s are the same form factor as their predecessor, they've had many improvements made to them. Firstly, the T40s have a glossy black finish with many subtle sparkling blue specks. 
+Although the T40s are the same form factor as their predecessor, they've had many improvements made to them. Firstly, the T40s have a glossy black finish with many subtle sparkling blue specks. 
 
 The front controls are also different. Instead of the older awkward arrangement of controls, the T40s use a combined volume and power knowb that is surrounded by a ring of blue light that radiates when the speakers are turned on. The speakers controls and interface are sleeker and easier to use. Overall, it's a far more intuitive and user friendly design. 
 
@@ -557,10 +584,6 @@ Lows have been filled out and they deliver a stronger punch which gives low-end 
 The T40s' highs are impressive, far better than the T20s' no matter how much you adjust the treble. I tested many different songs in different niches, both with lows and highs. I was pleased to say the least. They'll certainly provide an immersive gaming experience. It's safe to say you'll hear your enemies coming from a mile away! 
 
 In conclusion, the T40s' are a solid set of speakers for an affordable price. They're great for gaming, watching movies, and listening to music too.
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
-</div>
 
 ## [Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
 <a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
