@@ -71,14 +71,10 @@ Here are the 8 best PC gaming speakers that will give you the most bang for your
 <a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
 </div>
 <div class="text">
-<h2>Klipsch R-15PM Powered Gaming Speakers</h2>
+<h2>Klipsch R-15PM Powered Speakers</h2>
 <h3>Premium Gaming Speakers</h3>
 
-<p>While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money.</p>
-
-<p>These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono.</p>
-
-<p>The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem.</p>
+<p>While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono.</p>
 
 <div class="btn">
 <a class="learn-button cta-button" href="#klipsch-r-15pm-powered-speakers">Read Review </a>
@@ -88,78 +84,94 @@ Here are the 8 best PC gaming speakers that will give you the most bang for your
 </div>
 </div>
 
-## [Runner Up: Logitech Z906 Surround Sound Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2zZGhvJ"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
+The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem.
 
-**2.** If you're looking for top of the line audio, the [Logitech Z906 Surround Sound Speakers](https://amzn.to/2zZGhvJ){: target="_blank"} are a gaming speaker set to keep your eye on. 
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2zZGhvJ"><img alt="Logitech Z906 Surround Sound Gaming Speakers" src="/img/gaming-speakers/logitech-z506.png" /></a>
+</div>
+<div class="text">
+<h2>Logitech Z906 Surround Sound Speakers</h2>
+<h3>Best Surround Sound Gaming Speakers</h3>
+<p>If you're looking for top of the line audio, you should keep your eye on Logitech's Z906 surround sound speaker set.</p>
 
-The speakers are powered by 500 watts all the way up to a monstrous 1000 watts. You'll shake windows with these powerful speakers! You can connect up to 6 devices, switching between them at will. 
+<p>The speakers are powered by 500 watts all the way up to a monstrous 1000 watts. You'll shake windows with these powerful speakers! You can connect up to 6 devices, switching between them at will. </p>
+
+<div class="btn">
+<a class="learn-button cta-button" href="#logitech-z906-surround-sound-gaming-speakers">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
+</div>
+</div>
+</div>
+</div>
 
 Volume aside, these speakers can provide a true surround sound experience, as long as you have a capable sound card to pair them with. These speakers are more expensive than the model they are replacing, but their sound quality, fidelity, and attention to detail are impeccable. You definitely get what you pay for! 
 
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2zZGhvJ">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#logitech-z906-surround-sound-gaming-speakers">Read Review</a>
+<div class="featured-info-box">
+<span>Computer Speakers Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Creative GigaWorks T40 Series 2.0 Gaming Speakers" src="/img/gaming-speakers/t40.png" /></a>
+</div>
+<div class="text">
+<h2>Creative GigaWorks T40 Series II 2.0 Gaming Speakers</h2>
+<h3>Best PC Gaming Speakers</h3>
+<p>Creative has been producing high quality sound systems for a long time, and Creative's T40 Series II is no acception. The T40's are 3.5" taller than the T20's, and if you can shell out the extra money, we recommend this line. They offer more power and a more complete audio range than their predecessor generation.</p>
+
+<div class="btn">
+<a class="learn-button cta-button" href="#creative-gigaworks-t40-series-ii-20-gaming-speakers">Read Review </a>
+<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Best Computer Speakers: Creative GigaWorks T40 Series II 2.0 Gaming Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
+They're especially well-suited for use as PC gaming speakers thanks to their relatively small form factor. Moreover, these speakers are compatible not only with a PC, but with your TV and smartphone as well. The bass really packs a punch, which is a large improvement over the last T20 generation. The treble is quite nice as well.  
 
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/t40.png" /></a>
+<div class="featured-info-box">
+<span>5.1 Speakers Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Cyber Acoustics CA-5402 Platinum Series 5.1 Speakers" src="/img/gaming-speakers/ca30.png" /></a>
+</div>
+<div class="text">
+<h2>Cyber Acoustics CA-5402 Platinum Series 5.1 Speakers</h2>
+<h3>Best 5.1 Gaming Speakers</h3>
+<p>This option is a bit more expensive than the previous model, but it really packs a punch. It's a 6 piece set (four 2" satellite speakers, a 2" center speaker and a 5.25" subwoofer). You'll be surprised with the quality of these speakers for the price. The surround sound makes you feel like you're really in the game, ensuring the most bang for your PC gaming buck.</p>
 
-**3.** Creative has been producing high quality sound systems for a long time. [The Creative T40 Series II](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg) is no acception, definitely living up to expectations. The T40's are 3.5" taller than the T20's, and if you can shell out the extra money, we recommend this line. It offers more power and a more complete audio range. 
-
-These speakers are compatible not only with a PC, but a TV as well and even your smart phone. The bass really packs a punch, a large improvement from the last T20 generation. The treble is quite nice as well. 
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#creative-gigaworks-t40-series-ii-20-gaming-speakers">Read Review</a>
+<div class="btn btn-centered">
+<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Best Budget Gaming Speakers: Cyber Acoustics Speakers with Subwoofer](https://amzn.to/2OaiKLk){: target="_blank"} 
+This speaker set features five sleek satellite speakers and one powered subwoofer that delivers impactful bass and low tones. Sound quality aside, the CA-5402 comes with plenty of cool features including an MP3 cradle and a desktop control pod. 
 
-<a target="_blank" href="https://amzn.to/2OaiKLk"><img class="img-middle" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+<div class="featured-info-box">
+<span>Satellite Speakers Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2uNVVo2"><img alt="Genius SW-G2.1 2000 Gaming Woofer Speaker System" src="/img/gaming-speakers/genius.png" /></a>
+</div>
+<div class="text">
+<h2>Genius SW-G2.1 2000 Gaming Woofer Speaker System</h2>
+<h3>Best Gaming Speakers Under 200 Dollars</h3>
+<p>These speakers are sexy and sleek, which is perfect for PC gaming. There are dual input jacks compatible with PC, TV, DVD and other gaming devices. They even come in different colors.</p>
 
-**4.** Cyber Acoustics is delivering a three-piece satellite speaker system for a low price. It comes with a 5.25" sub and two speakers, making them a great choice for the budget conscious gamer. 
+<p>The subwoofer that ships with this speaker set delivers excellent bass powered by 45 watts. For under $100, we highly recommend this gaming speaker set. </p>
 
-The speakers may be cheap, but their sound quality is not. These 30-watt speakers produce amazing sound highs and lows, they look stylish and they're incredibly affordable. If you're a casual gamer on the budget, they're a great fit. Additionally, they can be used to listen to music and watch movies as well. 
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2OaiKLk">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#cyber-acoustics-speakers-with-subwoofer">Read Review</a>
+<div class="btn">
+<a class="learn-button cta-button" href="#genius-sw-g21-2000-gaming-woofer-speaker-system">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Best 5.1 Gaming Speakers: Cyber Acoustics CA-5402 Platinum Series 5.1 Speakers](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: target="_blank"}
-<a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gaming-speakers/ca30.png" /></a>
-
-**5.** This option is a bit more expensive than the previous model, but it really packs a punch. 
-
-It's a 6 piece set (four 2" satellite speakers, a 2" center speaker and a 5.25" subwoofer). You'll be surprised with the quality of these speakers for the price. 
-
-The surround sound makes you feel like you're really in the game, ensuring the most bang for your PC gaming buck. You'll be able to locate your opponent's footsteps with pinpoint accuracy with this speaker system, not to mention they're great for movies and TV too! 
-
-This speaker set features five sleek satellite speakers and one powered subwoofer that delivers impactful bass and low tones. Sound quality aside, the CA-5402 comes with plenty of cool features including an MP3 cradle and a desktop control pod. The wired remote (control pod) lets you turn the system on and adjust the volume and bass levels all in one place. The speakers also have an AUX and headphone jack which support almost all audio devices. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
-</div>
-
-## [Best Gaming Speakers Under 100 Dollars: Genius SW-G2.1 2000 Gaming Woofer Speaker System](https://amzn.to/2uNVVo2){: target="_blank"} 
-<a target="_blank" href="https://amzn.to/2uNVVo2"><img class="img-middle" src="/img/gaming-speakers/genius.png" /></a>
-
-**6.** These speakers are sexy and sleek, perfect for PC gaming. There are dual input jacks compatible with PC, TV, DVD and other gaming devices. They even come in different colors. 
-
-The subwoofer that ships with this speaker set delivers excellent bass powered by 45 watts. For under $100, we highly recommend this gaming speaker set. 
-
-Genius has only been around since 2010, but this speaker has continued to receive lots of praise from gamers and non-gamers alike. It's an affordable 2.1 subwoofer satellite speaker set, and despite not being exclusively designed for gamers, they can hold their own as gaming speakers. 
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://amzn.to/2uNVVo2">Check Price</a>
-	<br>
-	<a class="cta-button learn-button" href="#genius-sw-g21-2000-gaming-woofer-speaker-system">Read Review</a>
-</div>
+Genius has only been around since 2010, but this speaker set has continued to receive lots of praise from gamers and non-gamers alike. It's an affordable 2.1 subwoofer satellite speaker set, and despite not being exclusively designed for gamers, they can hold their own as gaming speakers.
 
 ## [Best Gaming Speaker for Monitor: Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2zZefjS"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
@@ -173,6 +185,27 @@ While the price tag is a bit high, they provide satisfying performance and power
 	<br>
 	<a class="cta-button learn-button" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review</a>
 </div>
+
+<div class="featured-info-box">
+<span>Budget Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2OaiKLk"><img alt="Cyber Acoustics Speakers with Subwoofer" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+</div>
+<div class="text">
+<h2>Cyber Acoustics Speakers with Subwoofer</h2>
+<h3>Best Gaming Speakers Under 100 Dollars</h3>
+<p>Cyber Acoustics is delivering a three-piece satellite speaker system for a low price. They come with a 5.25" sub and two speakers, making them a great choice for the budget conscious gamer. These speakers may be cheap, but their sound quality is not.</p>
+
+<div class="btn">
+<a class="learn-button cta-button" href="#cyber-acoustics-speakers-with-subwoofer">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+These 30-watt speakers produce amazing sound highs and lows, they look stylish and they're incredibly affordable. If you're a casual gamer on the budget, they're a great fit. Additionally, they can be used to listen to music and watch movies as well. 
 
 ## A Closer Look: 5 Best TV/Console Compatible Gaming Speakers
 

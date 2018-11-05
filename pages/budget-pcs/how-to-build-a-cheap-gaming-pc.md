@@ -97,7 +97,7 @@ You also don't need a super powerful CPU for gaming at 1080p - an Intel Core i5 
 [Matthew](https://twitter.com/matthanson45?lang=en){: target="_blank"} Hanson, TechRadar Computing Editor:
 ![Matthew](/img/roundup-contributors/matthew.jpg){: .img-right .img-small .circle}
 
-I think the best thing is to think carefully about what you want f rom your PC and set a budget. From there you can start planning a PC that doesn't go over budget, but won't let you down either. 
+I think the best thing is to think carefully about what you want from your PC and set a budget. From there you can start planning a PC that doesn't go over budget, but won't let you down either. 
 
 ### Summary: 
 
