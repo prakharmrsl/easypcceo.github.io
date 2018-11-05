@@ -35,15 +35,15 @@ Further still, a nice sound system is the perfect addition to your gaming setup.
 		<th>Rating</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="klipsch R-15M speakers" class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
-		<td><a target="_blank" href="https://amzn.to/2O6NE7x">Klipsch R-15PM Powered Monitors</a></td>
-		<td>2 Speakers</td>
-		<td>5/5</td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="http://amzn.to/2noNtuV"><img alt="Logitech Z906" class="table-image" src="/img/gaming-speakers/logitech-z506.png" /></a></td>
 		<td><a target="_blank" href="http://amzn.to/2noNtuV">Logitech Z906 Surround Sound Speakers</a></td>
 		<td>5 Speakeres, 1 Subwoofer</td>
+		<td>5/5</td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="klipsch R-15M speakers" class="table-image" src="/img/gaming-speakers/R-15PM.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2O6NE7x">Klipsch R-15PM Powered Monitors</a></td>
+		<td>2 Speakers</td>
 		<td>4.5/5</td>
 	</tr>
 	<tr>
@@ -68,28 +68,6 @@ Here are the 8 best PC gaming speakers that will give you the most bang for your
 <span>First Choice</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
-</div>
-<div class="text">
-<h2>Klipsch R-15PM Powered Speakers</h2>
-<h3>Premium Gaming Speakers</h3>
-
-<p>While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono.</p>
-
-<div class="btn">
-<a class="learn-button cta-button" href="#klipsch-r-15pm-powered-speakers">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem.
-
-<div class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
 <a target="_blank" href="https://amzn.to/2zZGhvJ"><img alt="Logitech Z906 Surround Sound Gaming Speakers" src="/img/gaming-speakers/logitech-z506.png" /></a>
 </div>
 <div class="text">
@@ -108,6 +86,28 @@ The speakers have a built-in amplifier, eliminating the need for an aftermarket 
 </div>
 
 Volume aside, these speakers can provide a true surround sound experience, as long as you have a capable sound card to pair them with. These speakers are more expensive than the model they are replacing, but their sound quality, fidelity, and attention to detail are impeccable. You definitely get what you pay for! 
+
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
+</div>
+<div class="text">
+<h2>Klipsch R-15PM Powered Speakers</h2>
+<h3>Premium Gaming Speakers</h3>
+
+<p>While most wouldn't dream of spending $500+ on a set of high end speakers, for those who do, these are the best speakers for the money. These speakers have up to 5 inputs including Bluetooth, USB, 3.5mm AUX, digital optical, and analog RCA / phono.</p>
+
+<div class="btn">
+<a class="learn-button cta-button" href="#klipsch-r-15pm-powered-speakers">Read Review </a>
+<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+The speakers have a built-in amplifier, eliminating the need for an aftermarket amp and saving you the extra money. They come with a remote, so placement isn't a problem.
 
 <div class="featured-info-box">
 <span>Computer Speakers Pick</span>
@@ -412,10 +412,76 @@ I've added this section to answer some of the most frequently asked questions I 
 
 In this section, we're going to a bit more in-depth about each speaker. We'll discuss the pros and cons of each speaker set, in addition to any special features and their overall performance. If you want to learn more about the best set of gaming speakers for your setup, read on! 
 
+<div class="featured-specs-box">
+<h2 id="klipsch-r-15pm-powered-speakers">
+<span>#1</span> <a href="https://amzn.to/2O6NE7x" target="_blank">Klipsch R-15PM Powered Speakers</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
+<p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
+<p><span>Drivers</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
+<p><span>Supported Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Connectivity Options</li>
+<li>Built-in amplifier</li>
+<li>Bass</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Cost</li>
+<li>Big for most desks</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+</div>
+</div>
 
+The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
 
-## [Logitech Z906 Surround Sound Gaming Speakers](https://amzn.to/2zZGhvJ){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2zZGhvJ"><img class="img-middle" src="/img/gaming-speakers/logitech-z506.png" /></a>
+Sound quality would be far superior with the edition of a dedicated subwoofer to handle low-tones and bass. However, the R-15PM is a great alternative to all-in-one sound bar systems. The speakers onlny have a USB input and a Bluetooth receiver, so they're best suited to function as PC speakers. 
+
+The R-15PM's amp is rated at 50 watts – it may be a small speaker, but its dynamic performance speaks for itself. The speakers' base is somewhat full, but the extremely low bass frequencies aren't quite there. The bass still has a satisfying weight to it, but it could be better. 
+
+Tese speakers' sound and dynamics will be nice for explosive action movies, but the addition of a powered subwoofer would be ideal, especially for those who enjoy maximum window-rattling impact. For a small speaker under $500, the Klipsch R-15PM is a step up from the competitors in its weight class. 
+
+<div class="featured-specs-box">
+<h2 id="logitech-z906-surround-sound-gaming-speakers">
+<span>#2</span> <a href="https://amzn.to/2zZGhvJ" target="_blank">Logitech Z906 Surround Sound Gaming Speakers</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2zZGhvJ"><img alt="Logitech Z906 Surround Sound Gaming Speakers" src="/img/gaming-speakers/logitech-z506.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>36.6 lbs (16.6 kg)</span></p>
+<p><span>Size</span><span>15.2 x 17 x 17.3 in</span></p>
+<p><span>Drivers</span><span>12-inch subwoofer, 6-inch satellites</span></p>
+<p><span>Supported Connectivity</span><span>3.5mm, RCA, six-channel direct, digital coaxial or optical inputs</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Powerful satellite speakers</li>
+<li>THX certified</li>
+<li>Spectacular surround sound</li>
+<li>Sound fills the room</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Cost</li>
+<li>First-time setup</li>
+</ul>
+</div>
+<div class="btn">
+<a class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
+</div>
+</div>
 
 These speakers are THX certified  5.1 Dolby Digital surround sound speakers which can turn any room into a home theater. You'll hear every detail, from gunshots to twigs breaking underneath the boots of approaching enemies. If you're a fan of racing games, you'll love the authentic sound of roaring engines as you race through the streets. 
 
@@ -517,49 +583,6 @@ These 2.1 speakers don't become distorted at high volumes, something that tends 
 
 <div class="button-wrapper">
 	<a target="_blank" class="btn-middle" href="https://amzn.to/2zZefjS">Check Price</a>
-</div>
-
-<div class="featured-specs-box">
-<h2 id="klipsch-r-15pm-powered-speakers">
-<span>#1</span> <a href="https://amzn.to/2O6NE7x" target="_blank">Klipsch R-15PM Powered Speakers</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
-<div class="specs">
-<p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
-<p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
-<p><span>Drivers</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
-<p><span>Supported Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Connectivity Options</li>
-<li>Built-in amplifier</li>
-<li>Bass</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>Cost</li>
-<li>Big for most desks</li>
-</ul>
-</div>
-<div class="btn">
-<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
-</div>
-</div>
-
-The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
-
-Sound quality would be far superior with the edition of a dedicated subwoofer to handle low-tones and bass. However, the R-15PM is a great alternative to all-in-one sound bar systems. The speakers onlny have a USB input and a Bluetooth receiver, so they're best suited to function as PC speakers. 
-
-The R-15PM's amp is rated at 50 watts – it may be a small speaker, but its dynamic performance speaks for itself. The speakers' base is somewhat full, but the extremely low bass frequencies aren't quite there. The bass still has a satisfying weight to it, but it could be better. 
-
-Tese speakers' sound and dynamics will be nice for explosive action movies, but the addition of a powered subwoofer would be ideal, especially for those who enjoy maximum window-rattling impact. For a small speaker under $500, the Klipsch R-15PM is a step up from the competitors in its weight class. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2O6NE7x">Check Price</a>
 </div>
 
 ## Conclusion 
