@@ -74,9 +74,9 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Beautiful Case Design</li>
-			<li>Ships with Three 120mm Fans</li>
-			<li>Constructed with Aluminum Alloy</li>
+			<li>Beautiful Design</li>
+			<li>Smart Case</li>
+			<li>Solid Construction</li>
 			</ul>
 		</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View Lowest Prices</a></td>
@@ -180,7 +180,7 @@ This case is eye catching to say the least. Your components will be enclosed by 
 </div>
 <div class="text">
 <h2>Cooler Master HAF XB II EVO</h2>
-<h3>Small ATX Case</h3>
+<h3>Ultra Small ATX Case</h3>
 
 <p>Cooler Master's HAF XB II EVO is a versatile, compact case that is easily converted into an open air test bench. Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow.</p>
 
