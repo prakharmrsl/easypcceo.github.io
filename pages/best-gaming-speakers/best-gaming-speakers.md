@@ -79,7 +79,7 @@ Here are the 8 best PC gaming speakers that will give you the most bang for your
 
 <div class="btn">
 <a class="learn-button cta-button" href="#logitech-z906-surround-sound-gaming-speakers">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
 </div>
 </div>
 </div>
@@ -101,7 +101,7 @@ Volume aside, these speakers can provide a true surround sound experience, as lo
 
 <div class="btn">
 <a class="learn-button cta-button" href="#klipsch-r-15pm-powered-speakers">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
 </div>
 </div>
 </div>
@@ -122,7 +122,7 @@ The speakers have a built-in amplifier, eliminating the need for an aftermarket 
 
 <div class="btn">
 <a class="learn-button cta-button" href="#creative-gigaworks-t40-series-ii-20-gaming-speakers">Read Review </a>
-<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
 </div>
 </div>
 </div>
@@ -142,7 +142,7 @@ They're especially well-suited for use as PC gaming speakers thanks to their rel
 <p>This option is a bit more expensive than the previous model, but it really packs a punch. It's a 6 piece set (four 2" satellite speakers, a 2" center speaker and a 5.25" subwoofer). You'll be surprised with the quality of these speakers for the price. The surround sound makes you feel like you're really in the game, ensuring the most bang for your PC gaming buck.</p>
 
 <div class="btn btn-centered">
-<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Cyber+Acoustics+CA-5402+Platinum+Series+5.1+Speakers+for+Gaming&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
 </div>
 </div>
 </div>
@@ -165,7 +165,7 @@ This speaker set features five sleek satellite speakers and one powered subwoofe
 
 <div class="btn">
 <a class="learn-button cta-button" href="#genius-sw-g21-2000-gaming-woofer-speaker-system">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price </a>
 </div>
 </div>
 </div>
@@ -187,7 +187,7 @@ Genius has only been around since 2010, but this speaker set has continued to re
 
 <div class="btn">
 <a class="learn-button cta-button" href="#harman-kardon-soundsticks-wireless-gaming-speakers">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2zZefjS">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2zZefjS">Check Price </a>
 </div>
 </div>
 </div>
@@ -208,7 +208,7 @@ While the price tag is a bit high, they provide satisfying performance and power
 
 <div class="btn">
 <a class="learn-button cta-button" href="#cyber-acoustics-speakers-with-subwoofer">Read Review </a>
-<a class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price </a>
 </div>
 </div>
 </div>
@@ -439,7 +439,7 @@ In this section, we're going to a bit more in-depth about each speaker. We'll di
 </ul>
 </div>
 <div class="btn">
-<a class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
 </div>
 </div>
 
@@ -479,7 +479,7 @@ Tese speakers' sound and dynamics will be nice for explosive action movies, but 
 </ul>
 </div>
 <div class="btn">
-<a class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2zZGhvJ">Check Price </a>
 </div>
 </div>
 
@@ -521,7 +521,7 @@ The Logitech Z906 speakers have a superb design. They are well tuned gaming spea
 </ul>
 </div>
 <div class="btn">
-<a class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price</a>
 </div>
 </div>
 
@@ -567,7 +567,7 @@ You'll experience wonderful surround sound, immersing you in the game and provid
 </ul>
 </div>
 <div class="btn">
-<a class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price</a>
 </div>
 </div>
 
@@ -612,7 +612,7 @@ In conclusion, the T40s' are a solid set of speakers for an affordable price. Th
 </ul>
 </div>
 <div class="btn">
-<a class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2uNVVo2">Check Price</a>
 </div>
 </div>
 
@@ -628,10 +628,38 @@ They can accomodate more than just PC gaming thanks to the line-in port, meaning
 
 I particularly enjoy the feature that allows you to bypass the speakers entirely with headphones, especially when I do not want to disturb others around me. The speakers are great for everything from gaming to listening to music to watching movies – EDM is the only genre of music that I'd advise against listening to with this set of speakers. The bass becomes drowned out and you'll have to turn down the highs in order to properly listen to the music. 
 
-In conclusion, if you have $100 or so lying around and you want a great set of gaming speakers that won't break the bank, you should take a look at the Genius SW G2.1 2000 speaker set. 
+In conclusion, if you have $100 or so lying around and you want a great set of gaming speakers that won't break the bank, you should take a look at the Genius SW G2.1 2000 speaker set.
 
-## [Harman Kardon Soundsticks Wireless Gaming Speakers](https://amzn.to/2zZefjS){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2zZefjS"><img class="img-middle" src="/img/gaming-speakers/soundsticks.png" /></a>
+<div class="featured-specs-box">
+<h2 id="genius-sw-g21-2000-gaming-woofer-speaker-system">
+<span>#6</span> <a href="https://amzn.to/2zZefjS" target="_blank">Harman Kardon Soundsticks Wireless Gaming Speakers</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2zZefjS"><img alt="Harman Kardon Soundsticks Wireless Gaming Speakers" src="/img/gaming-speakers/soundsticks.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>4.9 lbs (2.2 kg)</span></p>
+<p><span>Size</span><span>15.7 x 10.9 x 11.4 in</span></p>
+<p><span>Includes</span><span>1 Subwoofer, 2 Satellite Speakers</span></p>
+<p><span>Connectivity</span><span>3.5mm</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Four drivers in each satellite</li>
+<li>Excellent audio performance</li>
+<li>Powerful</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No remote included</li>
+<li>no external jack for headphones</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2zZefjS">Check Price</a>
+</div>
+</div>
 
 The first SoundSticks came out back in 2000 with a clear plastic transparent design that's still being used today. There is a pale light that radiates from the inside of the speakers that has been compared to the glow of a jellyfish. The newest generation of speakers have a dimmer light than previous models, making them much more subtle than before.
 
