@@ -221,47 +221,8 @@ These 30-watt speakers produce amazing sound highs and lows, they look stylish a
 In this section, we're going to a bit more in-depth about each speaker. We'll discuss the pros and cons of each speaker set, in addition to any special features and their overall performance. If you want to learn more about the best set of gaming speakers for your setup, read on! 
 
 <div class="featured-specs-box">
-<h2 id="klipsch-r-15pm-powered-speakers">
-<span>#1</span> <a href="https://amzn.to/2O6NE7x" target="_blank">Klipsch R-15PM Powered Speakers</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
-<div class="specs">
-<p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
-<p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
-<p><span>Includes</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
-<p><span>Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Connectivity Options</li>
-<li>Built-in amplifier</li>
-<li>Bass</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>Cost</li>
-<li>Big for most desks</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
-</div>
-</div>
-
-The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
-
-Sound quality would be far superior with the edition of a dedicated subwoofer to handle low-tones and bass. However, the R-15PM is a great alternative to all-in-one sound bar systems. The speakers onlny have a USB input and a Bluetooth receiver, so they're best suited to function as PC speakers. 
-
-The R-15PM's amp is rated at 50 watts – it may be a small speaker, but its dynamic performance speaks for itself. The speakers' base is somewhat full, but the extremely low bass frequencies aren't quite there. The bass still has a satisfying weight to it, but it could be better. 
-
-Tese speakers' sound and dynamics will be nice for explosive action movies, but the addition of a powered subwoofer would be ideal, especially for those who enjoy maximum window-rattling impact. For a small speaker under $500, the Klipsch R-15PM is a step up from the competitors in its weight class. 
-
-<div class="featured-specs-box">
 <h2 id="logitech-z906-surround-sound-gaming-speakers">
-<span>#2</span> <a href="https://amzn.to/2zZGhvJ" target="_blank">Logitech Z906 Surround Sound Gaming Speakers</a>
+<span>#1</span> <a href="https://amzn.to/2zZGhvJ" target="_blank">Logitech Z906 Surround Sound Gaming Speakers</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2zZGhvJ"><img alt="Logitech Z906 Surround Sound Gaming Speakers" src="/img/gaming-speakers/logitech-z506.png" /></a>
@@ -304,54 +265,47 @@ With a good sound card you can easily replicate 5.1 surround sound without havin
 The Logitech Z906 speakers have a superb design. They are well tuned gaming speakers that can easily be used in a home theater system. Their surround sound is impeccable and they have the power to shatter glass! 
 
 <div class="featured-specs-box">
-<h2 id="cyber-acoustics-speakers-with-subwoofer">
-<span>#3</span> <a href="https://amzn.to/2OaiKLk" target="_blank">Cyber Acoustics Speakers with Subwoofer</a>
+<h2 id="klipsch-r-15pm-powered-speakers">
+<span>#2</span> <a href="https://amzn.to/2O6NE7x" target="_blank">Klipsch R-15PM Powered Speakers</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2OaiKLk"><img alt="Cyber Acoustics Speakers with Subwoofer" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+<a target="_blank" href="https://amzn.to/2O6NE7x"><img alt="Klipsch R-15PM Powered Speakers" src="/img/gaming-speakers/R-15PM.png" /></a>
 <div class="specs">
-<p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
-<p><span>Size</span><span>8 x 3 x 3 in</span></p>
-<p><span>Includes</span><span>5.25-inch subwoofer, Dual 2-inch tweeters</span></p>
-<p><span>Connectivity</span><span>Chrome, 3.5mm</span></p>
+<p><span>Weight</span><span>10.3 lbs (4.67 kg)</span></p>
+<p><span>Size</span><span>12.5 x 7 x 8.11 in</span></p>
+<p><span>Includes</span><span>5.25-in subwoofer, 1-inch tweeters</span></p>
+<p><span>Connectivity</span><span>USB, Optical, 3.5mm, Bluetooth</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Cheap</li>
-<li>Great for gaming, music, and movies</li>
+<li>Connectivity Options</li>
+<li>Built-in amplifier</li>
+<li>Bass</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>Mediocre bass</li>
-<li>Sound quality suffers past 75% volume</li>
+<li>Cost</li>
+<li>Big for most desks</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2O6NE7x">Check Price </a>
 </div>
 </div>
 
-This speaker system offers a great ROI. There are cheaper alternatives to this speaker set, but none can match these speakers performance per dollar. They're housed in a wooden cabinet, and they produce roaring base. The speakers come with a control pod, and the headphone jack allows you to completely bypass the speaker if you wish. 
+The Klipsch R-15PM offers the connectivity and stereo separation of a receiver-speaker combo and the simplicity of a sound bar. The speakers' sound quality is on par with its competitors in the price range, but Klipsch adds extra value to the bundle with a remote control, and a phono input.  
 
-These speakers use 2-inch drivers with magnetic shielding for audio clarity and stereo seperation. The subwoofer uses a 5.25-inch driver that is not afraid to make its presence known. 
+Sound quality would be far superior with the edition of a dedicated subwoofer to handle low-tones and bass. However, the R-15PM is a great alternative to all-in-one sound bar systems. The speakers onlny have a USB input and a Bluetooth receiver, so they're best suited to function as PC speakers. 
 
-Cyber Acoustics is not a big brand name that you'd look for in a store. This set of speakers is cheap, so you can't expect anything crazy. That's not to say they don't pack a punch – for just $40, you can't beat their quality. They have decent sound quality and they can fill a medium sized room. If you're using the as gaming speakers, you'll be pleasantly surprised by their low-cost performance. 
+The R-15PM's amp is rated at 50 watts – it may be a small speaker, but its dynamic performance speaks for itself. The speakers' base is somewhat full, but the extremely low bass frequencies aren't quite there. The bass still has a satisfying weight to it, but it could be better. 
 
-I wouldn't recommend using them past 75% volume, as the bass begins to deteriorate at the highest volumes. Moreover, it they're not meant for use outdoors. They're perfect for use in a small-medium sized room at a desk, which is perfect for most gamers. 
-
-InIf you are playing games like Battlefield and CS:GO, I'd recommend using a headset. Footsteps and sound in general are crucial to your success in these FPS games. 
-
-If you're interested in using these speakers for music as well (which I'm sure most of you are), they are adequate. You wouldn't be able to host a house party using them as your sound system, but they're great when you're hosting a few friends. Listening to heavy bass is a bit underwhelming, and the highs roll off a bit at high voumes, which is why I wouldn't recommend using them at a party. 
-
-The control pod addition was especially surprising. The speakers have their controls centered in a control pod, including the volume and bass knobs in addition to a convenient AUX and headphone line. 
-
-You'll experience wonderful surround sound, immersing you in the game and providing the competitive edge you need. All of this for less than $50? What a steal! They're among the best gaming speakers under 100 dollars. 
+Tese speakers' sound and dynamics will be nice for explosive action movies, but the addition of a powered subwoofer would be ideal, especially for those who enjoy maximum window-rattling impact. For a small speaker under $500, the Klipsch R-15PM is a step up from the competitors in its weight class. 
 
 <div class="featured-specs-box">
 <h2 id="creative-gigaworks-t40-series-ii-20-gaming-speakers">
-<span>#4</span> <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" target="_blank">Creative GigaWorks T40 Series II 2.0 Gaming Speakers</a>
+<span>#3</span> <a href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg" target="_blank">Creative GigaWorks T40 Series II 2.0 Gaming Speakers</a>
 </h2>
 <div class="info">
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338225251&customid=&icep_uq=Creative+GigaWorks+T40+Series+II+2.0+Gaming+Speakers&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img alt="Creative GigaWorks T40 Series II 2.0 Gaming Speakers" src="/img/gaming-speakers/t40.png" /></a>
@@ -395,7 +349,7 @@ In conclusion, the T40s' are a solid set of speakers for an affordable price. Th
 
 <div class="featured-specs-box">
 <h2 id="genius-sw-g21-2000-gaming-woofer-speaker-system">
-<span>#5</span> <a href="https://amzn.to/2uNVVo2" target="_blank">Genius SW-G2.1 2000 Gaming Woofer Speaker System</a>
+<span>#4</span> <a href="https://amzn.to/2uNVVo2" target="_blank">Genius SW-G2.1 2000 Gaming Woofer Speaker System</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2uNVVo2"><img alt="Genius SW-G2.1 2000 Gaming Woofer Speaker System" src="/img/gaming-speakers/genius.png" /></a>
@@ -439,8 +393,8 @@ I particularly enjoy the feature that allows you to bypass the speakers entirely
 In conclusion, if you have $100 or so lying around and you want a great set of gaming speakers that won't break the bank, you should take a look at the Genius SW G2.1 2000 speaker set.
 
 <div class="featured-specs-box">
-<h2 id="genius-sw-g21-2000-gaming-woofer-speaker-system">
-<span>#6</span> <a href="https://amzn.to/2zZefjS" target="_blank">Harman Kardon Soundsticks Wireless Gaming Speakers</a>
+<h2 id="harman-kardon-soundsticks-wireless-gaming-speakers">
+<span>#5</span> <a href="https://amzn.to/2zZefjS" target="_blank">Harman Kardon Soundsticks Wireless Gaming Speakers</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2zZefjS"><img alt="Harman Kardon Soundsticks Wireless Gaming Speakers" src="/img/gaming-speakers/soundsticks.png" /></a>
@@ -482,6 +436,52 @@ These speakers don't have a headphone jack, which is pretty disappointing consid
 Additionally, the capacitive-touch volume buttons can be a pain in the butt sometimes. Instead of being able to incrementally increase volume levels, sometimes the volume is cranked up too high by accident because of the sensitive buttons. 
 
 These 2.1 speakers don't become distorted at high volumes, something that tends to be a problem with many speakers in this price range. The bass is powerful and crisp despite the speakers' rather small wattage consumption. There is little static between audio tracks and highs are pleasant as well. 
+
+<div class="featured-specs-box">
+<h2 id="cyber-acoustics-speakers-with-subwoofer">
+<span>#6</span> <a href="https://amzn.to/2OaiKLk" target="_blank">Cyber Acoustics Speakers with Subwoofer</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2OaiKLk"><img alt="Cyber Acoustics Speakers with Subwoofer" src="/img/gaming-speakers/cyber-acoustics.png" /></a>
+<div class="specs">
+<p><span>Weight</span><span>9.08 lbs (4.12 kg)</span></p>
+<p><span>Size</span><span>8 x 3 x 3 in</span></p>
+<p><span>Includes</span><span>5.25-inch subwoofer, Dual 2-inch tweeters</span></p>
+<p><span>Connectivity</span><span>Chrome, 3.5mm</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Cheap</li>
+<li>Great for gaming, music, and movies</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Mediocre bass</li>
+<li>Sound quality suffers past 75% volume</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2OaiKLk">Check Price</a>
+</div>
+</div>
+
+This speaker system offers a great ROI. There are cheaper alternatives to this speaker set, but none can match these speakers performance per dollar. They're housed in a wooden cabinet, and they produce roaring base. The speakers come with a control pod, and the headphone jack allows you to completely bypass the speaker if you wish. 
+
+These speakers use 2-inch drivers with magnetic shielding for audio clarity and stereo seperation. The subwoofer uses a 5.25-inch driver that is not afraid to make its presence known. 
+
+Cyber Acoustics is not a big brand name that you'd look for in a store. This set of speakers is cheap, so you can't expect anything crazy. That's not to say they don't pack a punch – for just $40, you can't beat their quality. They have decent sound quality and they can fill a medium sized room. If you're using the as gaming speakers, you'll be pleasantly surprised by their low-cost performance. 
+
+I wouldn't recommend using them past 75% volume, as the bass begins to deteriorate at the highest volumes. Moreover, it they're not meant for use outdoors. They're perfect for use in a small-medium sized room at a desk, which is perfect for most gamers. 
+
+InIf you are playing games like Battlefield and CS:GO, I'd recommend using a headset. Footsteps and sound in general are crucial to your success in these FPS games. 
+
+If you're interested in using these speakers for music as well (which I'm sure most of you are), they are adequate. You wouldn't be able to host a house party using them as your sound system, but they're great when you're hosting a few friends. Listening to heavy bass is a bit underwhelming, and the highs roll off a bit at high voumes, which is why I wouldn't recommend using them at a party. 
+
+The control pod addition was especially surprising. The speakers have their controls centered in a control pod, including the volume and bass knobs in addition to a convenient AUX and headphone line. 
+
+You'll experience wonderful surround sound, immersing you in the game and providing the competitive edge you need. All of this for less than $50? What a steal! They're among the best gaming speakers under 100 dollars. 
 
 ## Our Opinion on Gaming Speakers 
 
