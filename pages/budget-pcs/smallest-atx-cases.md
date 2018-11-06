@@ -1,11 +1,11 @@
 ---
-title: The Smallest ATX Cases Money Can Buy 
+title: The Best Small ATX Cases of 2018  
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "7 Smallest ATX Case Reviews 2018 (Compact)" 
+seotitle: "5 Smallest ATX Case Reviews of 2018 (Compact)" 
 ---
 <h3 class="page-subtitle">
-	Updated September 5th, 2018 by 
+	Updated November 7th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -36,7 +36,7 @@ When it comes to building a gaming PC, choosing the right case is incredibly imp
 
 Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
 
-Finding the smallest full size ATX case in 2018 can be challenging. In an effort to make your life easier, **here are the best and the smallest ATX cases:**
+Finding the smallest full size ATX case in 2018 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
 
 <table class="basic-table" align="center">
 	<tr>
@@ -70,6 +70,18 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View Lowest Prices</a></td>
 	</tr>
 	<tr>
+		<td>NZXT H500i</td>
+		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Beautiful Case Design</li>
+			<li>Ships with Three 120mm Fans</li>
+			<li>Constructed with Aluminum Alloy</li>
+			</ul>
+		</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View Lowest Prices</a></td>
+	</tr>
+	<tr>
 		<td>Cooler Master HAF XB II EVO</td>
 		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
 		<td class="components">
@@ -80,42 +92,6 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 			</ul>
 		</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View Lowest Prices</a></td>
-	</tr>
-	<tr>
-		<td>NZXT H400i</td>
-		<td><a target="_blank" href="https://amzn.to/2vVdW5d"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Beautiful Case Design</li>
-			<li>Ships with Three 120mm Fans</li>
-			<li>Constructed with Aluminum Alloy</li>
-			</ul>
-		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2vVdW5d">View Lowest Prices</a></td>
-	</tr>
-	<tr>
-		<td>Thermaltake Core V21 SPCC</td>
-		<td><a target="_blank" href="https://amzn.to/2wd4F7Z"><img class="table-image" src="/img/case/thermaltake-core-v21.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Low Profile Case</li>
-			<li>Dual Tempered Glass Side Panel</li>
-			<li>Easy to Use</li>
-			</ul>
-		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2wd4F7Z">View Lowest Prices</a></td>
-	</tr>
-	<tr>
-		<td>Cooler Master MasterBox Lite 3.1 TG</td>
-		<td><a target="_blank" href="https://amzn.to/2MAEEcI"><img class="table-image" src="/img/case/masterbox-lite.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Lightweight</li>
-			<li>Tons of Space</li>
-			<li>Sleek Design</li>
-			</ul>
-		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2MAEEcI">View Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core G3 Slim ATX Case</td>
@@ -131,175 +107,113 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 	</tr>
 </table>
 
-## [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} - $90
-
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="img-right img-small" src="/img/case/corsair-carbide-400c.jpg" /></a>
-
-The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case. 
-
-The $90 pricepoint is well placed, especially when compared to other cases of this quality. The 400C looks sleek and refined – even though it's a smaller case, the interior still supports up to E-ATX motherboards. 
-
-Corsair decided to remove the 5.25" drive bays, completely doing away with cutouts for optical drives on the ATX case's front panel. 
-
-If you're looking for a sturdy case to protect your PC's components, the 400C should be on your radar. Constructed with a steel exterior, the case is quite sturdy. 
-
-Moreover, the large side-panel window allows you to show off the components in your PC. Despite having a minimalistic design, the case is still very attractive. 
-
-The case's dimensions are 18.3 by 8.5 by 16.7 inches, and the case weighs in at 18 pounds (8.16466 kg). Inside the case is spacious, with room for up to three 2.5-inch drives and two 3.5-inch drives. 
-
-Despite being a simple case, it still leaves plenty of room for customization. The massive panel window does a great job showing off the internals, not to mention any LEDs you decide to add to your PC. 
-
-Overall, it's a wonderful case manufactured by a reputable company. If you're looking for a small ATX case, the 400C is a strong contender. At the end of the day, it may simply come down to whether or not you desire 5.25" bays or not – for most (myself included), the lack of 5.25" bays is not a problem. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2PorXR8">Check Price on Amazon</a>
+<div class="featured-info-box">
+<span>First Choice</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
+</div>
+<div class="text">
+<h2>Corsair Carbide Series 400C</h2>
+<h3>Smallest Full ATX Case</h3>
+<p>The 400C looks sleek and refined – even though it's a smaller case, the interior still supports up to E-ATX motherboards. Constructed with a steel exterior, the case is quite sturdy. The large side-panel window allows you to show off the components in your PC, and the case's minimalistic design is very attractive. </p>
+<div class="btn">
+<a class="learn-button cta-button" href="#corsair-carbide-series-400c">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Corsair Carbide Series Air 540](https://amzn.to/2MUOsLS){: target="_blank"}
+The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
+Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and case fans, which is especially nice in a small ATX case. 
 
-<a target="_blank" href="https://amzn.to/2MUOsLS"><img class="img-right img-small" src="/img/case/carbide-air-540.png" /></a>
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
+</div>
+<div class="text">
+<h2>Corsair Carbide Series Air 540</h2>
+<h3>Smallest ATX Case with Tempered Glass</h3>
 
-The [Air 540](https://amzn.to/2MUOsLS){: target="_blank"}'s cube shaped design definitely sets it apart from other cases. 
+<p>The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case, especially if they want their components housed in a low-profile case. The Air 540 has a wide outer shell with two side-by-side chambers inside to provide the best airflow possible. </p>
 
-The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case, especially if they want their components housed in a low-profile case. 
-
-The case has a wide outer shell with two side-by-side chambers inside to provide the best airflow possible. 
-
-One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. Both chambers streamline airflow to provide the best possible cooling solution. 
-
-The front of the Air 540 is made of high-quality ABS plastic, but it doesn't feel cheap or flimsy. In fact, the case's build quality is pretty good for a case in this price range. The interior is constructed from steel. 
-
-As far as size goes, the case is 332mm wide and 458mm in depth. 
-
-Despite its small form-factor, the case can house motherboards from E-ATX to Mini-ITX, as well as six drive trays in total. Its ability to house a lot of drives and varying sizes of motherboards goes to show how spacious the case is on the inside, despite being smaller overall. 
-
-The case has three 140mm case fans – one is an exhaust fan in the rear of the case. The other two 140mm fans are in the front and serve as the case's intake. The intake/exhaust configuration draws cool air in, passes it through the case and exhausts it along with any hot air produced by the components. 
-
-What's the bottom line here? 
-
-This case seems compact on the outside yet is spacious inside, with superb airflow. Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+<div class="btn">
+<a class="learn-button cta-button" href="#corsair-carbide-series-air-540">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Cooler Master HAF XB II EVO](https://amzn.to/2N0cAMT){: target="_blank"} - $85
+This case seems compact on the outside, yet it is surprisingly spacious inside with superb airflow. Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
 
-<a target="_blank" href="https://amzn.to/2N0cAMT"><img class="img-right img-small" src="/img/case/cooler-master-haf.jpg" /></a>
+<div class="featured-info-box">
+<span>RGB Lighting Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
+</div>
+<div class="text">
+<h2>NZXT H500i</h2>
+<h3>Small ATX Case</h3>
 
-Cooler Master's [HAF XB II EVO](https://amzn.to/2N0cAMT){: target="_blank"} is a versatile, compact case that is easily converted into an open air test bench. 
+<p>NZXT's H500i is the full-sized ATX version of their H400i Micro-ATX case. Its overall design is stupendous – featuring an all-new Smart Device built-in that combines features of the HUE+ and GRID+ digital controllers, adaptive noise reduction, advanced lighting, easy fan control and versatile cable management, this case has it all.</p>
 
-The case has two 5.25-inch drive bays, two 3.5-inch drive bays, and six 2.5-inch drive bays. The case also has one front-facing 120mm fan, one rear 120mm fan, and one top-mounted 200mm fan.
-
-Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow. The case's drive racks, panels and the main body are all made of steel. The front bezel is made of polymer rather than cheap plastic. 
-
-The case has a removable motherboard tray that supports ATX, micro-ATX and mini-ITX motherboards.  
-
-<figure>
-	<img class="img-middle" alt="HAF XB II EVO" src="/img/case/cooler-master-haf-insid.jpg" />
-	<figcaption>A quick look inside reveals the case's two compartments</figcaption>
-</figure>
-
-The case has carrying handles, making it ideal as a LAN box. The case can also be used as an HTPC, gaming PC, or as a test bench. The case is spacious and versatile, ready to handle whatever you throw at it! 
-
-A large cutout on the motherboard tray makes installing CPU coolers with large backplates effortless. Moreover, the case provides flexible cooling options, with plenty of room for radiators. 
-
-In my opinion, the case has a great look and feel. Both side panels are removable and both have sturdy handles for easy transport. 
-
-Moral of the story? 
-
-This case is well-built, has plenty of room that provides great airflow, and is incredibly versatile. Its small form-factor and carrying handles make it a great LAN box. The removable motherboard tray also turns this case into a convenient test bench. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
+<div class="btn">
+<a class="learn-button cta-button" href="#nzxt-h500i">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [NZXT H400i](https://amzn.to/2vVdW5d){: target="_blank"} - $150
+This case is eye catching to say the least. Your components will be enclosed by sleek white side panels and a lovely tempered glass side panel window, which displays your components illuminated by the case's vibrant LED lighting. The interior is spacious, with plenty of room for case fans, GPUs, tall CPU coolers, and radiators. 
 
-<a target="_blank" href="https://amzn.to/2vVdW5d"><img class="img-right img-small" src="/img/case/nzxt-h400i.jpg" /></a>
+<div class="featured-info-box">
+<span>Versatility Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
+</div>
+<div class="text">
+<h2>Cooler Master HAF XB II EVO</h2>
+<h3>Small ATX Case</h3>
 
-It's no surprise that an NZXT case is being featured on this list of the best small ATX cases. NZXT is a well-respected company known for their quality products. 
+<p>Cooler Master's HAF XB II EVO is a versatile, compact case that is easily converted into an open air test bench. Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow.</p>
 
-The [H400i](https://amzn.to/2vVdW5d){: target="_blank"} micro-ATX case delivers the best of both worlds, a perfect cross between mini-ITX and full sized ATX. 
-
-The case has fantastic cooling support and cable management, not to mention its beautiful paint job and intuitive design. I'd recommend this case to new  builders because it is easy to work with. 
-
-Besides this case's exemplary design, its cooling potential is one of its most notable characteristics. The 400i has plenty of options to mount radiators and custom fans. 
-
-You can fit two 140mm fans in the front and top, in addition to one 120mm fan in the rear. 
-
-The case supports five drives, but four of them are 2.5" drives meant for an SSD rather than a mechanical drive. The 400i only has one 3.5" drive bay, one of its main drawbacks and something to keep in mind before purchasing. 
-
-This case is quite pricey, so I would not recommend it for budget builders. However, it is an incredibly high-quality case – if you have the money, you won't regret investing in the 400i. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2vVdW5d">Check Price on Amazon</a>
+<div class="btn">
+<a class="learn-button cta-button" href="#cooler-master-haf-xb-ii-evo">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} - $57
-<a target="_blank" href="https://amzn.to/2wd4F7Z"><img class="img-right img-small" src="/img/case/thermaltake-core-v21.jpg" /></a>
+The case has carrying handles, making it ideal as a LAN box. The case can also be used as an HTPC, gaming PC, or as a test bench. Its small form-factor and carrying handles make it a great LAN box. This case is well-built, has plenty of room that provides great airflow, and is incredibly versatile. 
 
-The [Thermaltake Core V21 SPCC](https://amzn.to/2wd4F7Z){: target="_blank"} is a cube-shaped case that allows you to customize the panels and cooling how you like. 
+<div class="featured-info-box">
+<span>Sleek Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
+</div>
+<div class="text">
+<h2>Thermaltake Core G3</h2>
+<h3>Slim ATX Case</h3>
 
-According to [Kit Guru](https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/){: target="_blank}: 
+<p>The Core G3 is a full-sized ATX case with a slim design, perfect for small spaces. The case supports both ATX and micro-ATX motherboards. This case offers a stylish full sized form factor without being too big and bulky. Best of all, despite having a slim and sleek design, the interior of the case doesn't feel cramped.</p>
 
-<blockquote source="https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/">
-<p>The cuboid nature of the Thermaltake Core V21 defies expectations and allows you to rearrange the panels and cooling to your heart’s content. Stripping the chassis bare is a quick process as each panel is held on with two thumbscrews. Once the top, bottom and sides are removed you can see the chassis is a simple framework with a riveted motherboard tray. This highlights how much space you have inside the V21 with clearance for a CPU cooler that is 185mm in height, a graphics card up to 350mm in length and a power supply up to 200mm long when you use a bottom fan in the case.</p>
-</blockquote>
-
-The case ships with a front-facing 200mm fan. The case is also fitted with multiple dust filters to ensure your parts remain clean and funcitonal. 
-
-The case looks clean and refined. It is simple, yet elegant. If you're interested in displaying the components inside, the V21 also has a sizable side panel window. 
-
-Considering the quality of the case and its low price, the V21 simply makes sense – in all honesty, it's a steal! 
-
-Click [here](https://www.kitguru.net/components/cases/leo-waldock/thermaltake-core-v21-review-get-stacked/){: target="_blank"} for a full review of the Thermaltake Core V21 SPCC.
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2wd4F7Z">Check Price on Amazon</a>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price </a>
+</div>
+</div>
+</div>
 </div>
 
-## [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} – $45
-<a target="_blank" href="https://amzn.to/2MAEEcI"><img class="img-right img-small" src="/img/case/masterbox-lite.png" /></a>
-
-The [Cooler Master MasterBox Lite 3.1 TG](https://amzn.to/2MAEEcI){: target="_blank"} may not be as low cost when compared to ultra budget cases, but it really gives you a great bang for your PC gaming buck. 
-
-The case has more room and better features than many of its competitors, which is why I decided to include it on this page. Despite being a micro-ATX case, it still has sufficient space for even some of the largest graphics cards and CPU coolers on the market. 
-
-The case looks great – it can support micro-ATX and mini-ITX motherboards, and is constructed primarily of steel and sturdy plastic. The case weighs in just under 9 lbs, making it quite lightweight. 
-
-The case doesn't make any conscious effort to stick out too much, but its simplistic and stylish design still catches one's eye. 
-
-The left side panel is entirely clear, allowing you to show off your components. Although, if you're not one to properly manage your cables, you probably want to steer clear of this case – on the other hand, poor cable management constricts airflow anyway, so it is best to keep your cables nice and tidy. 
-
-It's no surprise that another case by Cooler Master made the list – this time around, they are providing a fantastic case with a spacious interior and an awesome design, all for an affordable price. 
-
-Click [here](https://techguided.com/cooler-master-masterbox-lite-3-1-review/){: target="_blank"} for a full case review. 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2MAEEcI">Check Price on Amazon</a>
-</div>
-
-## [Thermaltake Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} - $70
-<a target="_blank" href="https://amzn.to/2vTJbgT"><img class="img-right img-small" src="/img/case/thermaltake-core-g3.jpg" /></a>
-
-The second Thermaltake case on this list is the [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"}, which is also the second case from Thermaltake's Core series. 
-
-In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! 
-
-The Core G3 is a full-sized ATX case with a slim design, perfect for small spaces. The case supports both ATX and micro-ATX.
-
-Thermaltake's Core G3 also has a nice side panel window. The front panel has 2 USB 3.0 ports, 2 USB 2.0 ports and one HD audio slot. 
-
-The case doesn't include any case fans, which may be seen as a drawback for some – although, it has plenty of room for you to add your own custom fans. 
-
-It features four drive bays in total, two of which are 2.5" bays and the other two are 3.5" bays. 
-
-This case offers a stylish full sized form factor without being too big and bulky. It's one of the best (and the smallest) ATX cases money can buy! 
-
-<div class="button-wrapper">
-	<a target="_blank" class="btn-middle" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
-</div>
+The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. 
 
 ## Case Buying Guide
 
@@ -365,20 +279,39 @@ Sure, a good looking case is always nice, but it is *not* necessary. If you're o
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
 
-### Corsair Carbide Series 400C 
-
-**Pros:** 
-
-* Style
-* Compact
-* Supports E-ATX motherboards
-* Several dust filters
-* Side-panel window
-
-**Cons:** 
-
-* No optical drive bays 
-* No fan controller 
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
 
 In today's day and age, people are consuming their media much differently than they used to even a few years ago. Optical drives are becoming less common, as most of the data you'd need can be downloaded directly to your computer's hard drive, which have also grown in storage capacity. 
 
@@ -397,7 +330,7 @@ Although it's not flashy, when you step into the room, the case has a presence. 
 
 On a more serious note, I'd like to talk about the actual design features of the case. 
 
-The 400C measures 18.3 x 8.5 x 16.7 (HxWxD) and weighs in at around 18 lbs. It's a smaller version of it's big brother, the 600C, but the case doesn't feel cramped. The outside of the 400C is mostly steel, but the door handle, feet, and ventilation dividers are made of plastic. Overall, the case is of a solid construction.
+The 400C measures 464 x 215 x 425mm (HxWxD) and weighs in at around 18 lbs. It's a smaller version of it's big brother, the 600C, but the case doesn't feel cramped. The outside of the 400C is mostly steel, but the door handle, feet, and ventilation dividers are made of plastic. Overall, the case is of a solid construction.
 
 It comes with a pre-installed 140mm fan in the front. If you wish, you can remove the 140mm fan and install three [120mm case fans](/budget-pcs/case-fans/) instead. You can even add another two 120mm or 140mm fans in the top of the case, or mount a water cooling radiator up to 360mm in size. 
 
@@ -417,29 +350,44 @@ What's the moral of the story here?
 
 If you're hunting for the best smallest ATX case, the Corsair Carbide 400C should be a strong contender on your list of possible candidates. 
 
-### Corsair Carbide Series Air 540 
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-air-540">
+<span>#2</span> <a href="https://amzn.to/2MUOsLS" target="_blank">Corsair Carbide Series Air 540</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
+<div class="specs">
+<p><span>Supports</span><span>E-ATX, ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>415 x 332 x 458mm</span></p>
+<p><span>Case Fans</span><span>3 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 5.25", Two 3.5", Four 2.5" </span></p>
+<p><span>Expansion Slots</span><span>8</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Dual-chamber design</li>
+<li>Cool temperatures</li>
+<li>Spacious interior</li>
+<li>Cable management</li>
+<li>Design</li>
+<li>Supports E-ATX</li>
+<li>Price</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>USB 3.0 cable length</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price</a>
+</div>
+</div>
 
-**Pros:**
+The Corsair Carbide Series Air 540 has taken second place on our list. It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build. In order to achieve this feat, Corsair had to widen the chassis. One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
 
-* Dual-chamber design
-* Cool temperatures
-* Spacious interior
-* Cable management
-* Design 
-* Supports EATX
-* Price 
-
-**Cons:** 
-
-* USB 3.0 cable length
-
-The Corsair Carbide Series Air 540 has taken second place on our list. It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build. In order to achieve this feat, Corsair had to widen the chassis.
-
-In the other section of the case, you'll find the HDD and optical drive bays, the power supply, and plenty of extra space for wiring. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
-
-Despite being a small ATX case, the Carbide Air 540 is very well designed. It's two compartments keep cables and components neat and tidy, which promotes airflow, thus keeping the entire rig looking good and staying cool.  
-
-The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style. The case measures 415 x 332 x 458mm (HxWxD). Surprisingly, this case can house motherboards as small as Mini-ITX all the way up to full-sized E-ATX boards, and has eight expansion slots in the back. 
+Despite being a small ATX case, the Carbide Air 540 is very well designed. It's two compartments keep cables and components neat and tidy, which promotes airflow, thus keeping the entire rig looking good and staying cool. The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style. The case measures 415 x 332 x 458mm (HxWxD). Surprisingly, this case can house motherboards as small as Mini-ITX all the way up to full-sized E-ATX boards, and has eight expansion slots in the back. 
 
 ![Corsair Air 540 Side](/img/case/air-540-side.jpg){: .img-middle}
 
@@ -459,19 +407,87 @@ There are several other companies offering case's with a similar design, but man
 
 The case is aesthetically pleasing, delivers solid acoustic and thermal performance, and its design is truly revolutionary. If you're looking for an affordable and small ATX case, definitely check out Corsair's Air 540. 
 
-### Cooler Master HAF XB II EVO 
+<div class="featured-specs-box">
+<h2 id="nzxt-h500i">
+<span>#3</span> <a href="https://amzn.to/2RFXJcK" target="_blank">NZXT H500i</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>460 x 210 x 428mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 4 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Two 2.5"</span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Quiet</li>
+<li>Supports vertically mounted GPUs</li>
+<li>Spacious interior</li>
+<li>Cable management</li>
+<li>Good price</li>
+<li>Superb layout</li>
+<li>Two RGB lighting strips</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Weird fan placement</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price</a>
+</div>
+</div>
 
-**Pros:**
+The case is a big larger than its mATX little brother, the H400i. This is the smallest full ATX case in the series. If you want something a bit smaller, you can opt for the NZXT H400i, but keep in mind that the H400i does not support full ATX motherboards. 
 
-* Two seperate levels
-* Features
-* Airflow
-* Design
-* Sturdy 
+The top of the case has two USB 3.1 ports, an HDD activity LED, a power button, and headphone and microphone jacks. Besides the 120/140mm fan mounting grille, the top of the case is smooth and barren. The front of the case is also featureless, but the side panel has a tinted tempered glass window, covering about 3/4 of the side of the case. The other side panel has vented holes for airflow, and both panels are mounted via thumbscrews. 
 
-**Cons:** 
+Looking to the rear of the case, there's not much to report. You'll find seven expansion slots (and two for vertical GPU mounting, which is a lovely feature), the I/O panel area, a 120mm exhaust fan mounting location, and a PSU opening on the bottom. The PSU area has a dust filter included, and the case's four rubber feet keep the case elevated to promote proper airflow. 
 
-* No integrated fan control 
+The case's interior doesn't have much pre-installed – no hard drive racks, no intake fans, and no optical drive bays. NZXT leaves everything up to you when it comes to building. The only thing that you'll find inside the case from the factory is a cable management bar. There's plenty of room for a plethora of different system builds. 
+
+There are mounting locations for two 2.5" drives and two 3.5" drives. You can either mount the drives on top of the PSU tunnel or behind the motherboard tray. The two mounting locations by the PSU compartment do not have any caddies. Rather, the drives slide into the removable steel rack and are held in place by screws. If you wish to remove or install new drives after your PC has been assembled, you'll have to remove the hard drive rack or the PSU. 
+
+The H500i comes with two 120mm fans pre-installed, but their placement is a bit weird. One of them is mounted in the rear as an exhaust fan, which is standard. However, the other fan is mounted to the top of the case. Moreover, the exhaust fan has a filter, which does not make a whole lot of sense either. Luckily you can move the case to the front of the fan as an intake. The case supports radiators up to 280mm, which can be mounted to the front of the main compartment.
+
+NZXT advertises this case as a "smart case", hense the 'i' in the name. This case is loaded with awesome features, including an Adaptive Noise Reduction algorithm that adjusts fan speeds based on temperature and measured noise changes. The case also comes with a fan controller and an LED RGB lighting controller. Lastly, the H500i ships with two pre-installed RGB lighting strips, one of which is located behind the cable management bar and the other in the top of the chassis. The case's sleek design coupled with elegant lighting makes for an eye-catching case that isn't overwhelming. 
+
+<div class="featured-specs-box">
+<h2 id="cooler-master-haf-xb-ii-evo">
+<span>#4</span> <a href="https://amzn.to/2N0cAMT" target="_blank">Cooler Master HAF XB II EVO</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>442 x 330 x 423mm</span></p>
+<p><span>Case Fans</span><span>3 Included, 5 Max</span></p>
+<p><span>Drive Bays</span><span>Two 5.25", Four 3.5", Four 2.5" (from 3.5")</span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Two seperate levels</li>
+<li>Extra features</li>
+<li>Airflow</li>
+<li>Design</li>
+<li>Sturdy construction</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No integrated fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price</a>
+</div>
+</div>
 
 Cooler Master's XB is the newest member of the HAF line of cases. The HAF XB is – unlike any other case on the market – a hybrid between an ATX case and a bench table, with two seperate levels for different components.
 
@@ -496,120 +512,6 @@ The case has dust filters on just about every air intake in order to combat dust
 In summary, the HAF XB has a unqiue design. It can be used as a small ATX case, or as a test bench, or both! The handles on the chassis' side panels make for a great LAN box, too. Its seperate compartments help regulate internal temperatures, as the motherboard, CPU, GPU, and RAM get to enjoy unobstructed and continuous airflow. 
 
 The case also has great cable management options, as you can run wiring through the lower level of the case to the upper level where the second compartment houses most of your components. The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too. 
-
-### NZXT H400i
-
-**Pros:** 
-
-* Good-looking tempered glass design
-* Steel construction
-* Included RGB lighting & fan control
-* Price
-
-**Cons:** 
-
-* Slightly noisy
-* No front-panel USB-C ports
-* Only one 3.5-inch bay
-
-The H400i shares the same overall tempered glass and steel design as its larger big brother, but it's been stepped down in size to a Micro-ATX Mini-Tower form factor. It's not technically an ATX case, but its interior is spacious and it comes in a small form factor, so I decided to include it on this list of the 7 smallest ATX cases. It's an incredibly well designed case, and has won several awards. 
-
-![NZXT-h400i](/img/case/nzxt-h400i.jpg){: .img-middle}
-
-Micro-ATX is in an awkward position, in between the two most popular form factors. ATX motherboards are loved by many due to their mainstream practicality, and Mini-ITX is admired because of the engineering 'wow' that goes into them. Micro-ATX boards, on the other hand, are somewhere in the middle. Most manufacturers have forgotten about them, instead focusing on ATX and Mini-ITX form factors. 
-
-Can you blame them? 
-
-That's where the money is. With all that being said, NZXT's decision to release a Micro-ATX case seems a bit out of place, but I'm not complaining. The H400i's design is spectacular, and the case is packed full of clever features.
-
-NZXT decided to do away with 5.25-inch bays altogether – that's right, this case doesn't have any 5.25-inch bays. The decision to remove 5.25-inch bays altogether isn't unusualy these days. Just about anything you could possibly need for your PC can be downloaded directly to the hard drive, which have also become increasingly large and more affordable. Lastly, rather than having to watch a movie with a DVD player, most people choose to stream their digital media via their preferred online streaming service, whether it be Netflix, Hulu, Amazon Instant Video, etc. 
-
-By removing the 5.25-inch bays, NZXT has freed up plenty of space for extra GPUs, fans, radiators, cables, etc. The spacious interior promotes airflow, the importance of which cannot be overstated.  
-
-<figure>
-<img class="img-middle" alt="NZXT h400i" src="/img/case/h400i.png">
-<figcaption><p>The H400i comes in a variety of colors, including black</p></figcaption>
-</figure>
-
-Cooling potential is definitely the H400i's strongsuit. Fan mounting and radiator compatibility is superb. You can fit two 140mm fans in the front, two in the roof, and a singular 120mm fan in the rear. You can even include a 280mm radiator in the front and a 120mm radiator in the back, too. 
-
-The front panel is perforated with holes along all sides, acting as a dust filter for the two 140mm fans up front (it looks pretty cool, too.)
-
-You can install up to four 2.5-inch drives, but there's only room for a single 3.5-inch drive, and there aren't any 5.25-inch bays either. 
-
-At the end of the day, the H400i is one of my favorite cases from NZXT. It has a spacious and well thought-out interior despite its small form factor. Its equally functional as it is aesthetically pleasing, and to top it all off, it's also reasonably priced. 
-
-### Thermaltake Core V21 SPCC
-
-**Pros:**
-
-* Front 200mm fan
-* Low price
-* Side-panel window
-* Lots of dust filters
-* Build quality
-* Thermal performance 
-
-**Cons:**
-
-* Installing side panels can be tricky
-* Acoustic performance 
-* Build quality 
-
-Many small form factor cases restrict you in a variety of ways. You may not be able to fit your GPU of choice in the case, you can't use a full-sized motherboard, cable management may be an issue, and the overall interior can feel cramped. Luckily, I can assure you that the Thermaltake Core V21 won't restrict you whatsoever.   
-
-Thanks to the chassis' cuboid design, the V21 allows you to rearrange the panels to your liking. The case has clearance for a CPU cooler with a maximum height of 185mm, and a graphics card up to 350mm in length. The power supply can be up to 200mm long when you have the case's bottom fan installed. 
-
-![V21](/img/case/v21.jpg){: .img-middle}
-
-One of the side panels has a huge tempered-glass window, and the bottom of the case has a mesh filter for the power supply to prevent dust from clogging the exhaust fan. The panels are completely interchangeable, and can be installed in any order you choose. The front panel can be rotated and the I/O panel moved to one of the other locations, if you choose to do so. Evidently, the Thermaltake V21 is entirely customizable. 
-
-The case has six hard drive bays, so it's safe to say you probably won't have any issues with storage space. 
-
-Unfortunately, the case only has a singular 20mm fan at the front of the chassis. You could rely on the singular fan, but it'd be wise to install extra case fans to ensure your components get proper airflow. You can install two 240mm radiators at the top of the case or a singular 280mm radiator. Believe it or not, you can actually mount a grand total of eight case fans in this small chassis, which is pretty darn impressive. 
-
-![V21 taken apart](/img/case/v21-inside.jpg){: .img-middle}
-
-One of the case's biggest drawbacks is noise – because it has a fairly open design with plenty of air intakes and dust filters, the noise from the fan isn't really contained. It's not unbearably loud, but the fan is definitely noticeable. Once you add additional fans, it'll be even louder. This issue can be combatted by installing a fan controller, which will help to keep the case fans spinning quietly. 
-
-The V21 is an impressive case. You can move the fans, radiators, and panels around to your heart's content, which gives you a lot of freedom to do as you wish with the case. Moreover, the case is incredibly cheap, especially considering all of the features included in this small form factor chassis. 
-
-### Cooler Master MasterBox Lite 3.1 
-
-**Pros:** 
-
-* Build quality
-* Price
-* Features
-* Design
-* Looks
-* Spacious
-
-**Cons:** 
-
-* Only one pre-installed fan 
-
-Cooler Master's MasterBox Lite 3.1 is a budget-friendly Micro-ATX case. It's not dirt cheap, but it's definitely affordable, and considering the quality of the case, it's seriously a good deal. 
-
-The case has a side-panel window, which is always a nice touch. Although it is a small ATX case, it supports even the longest GPUs and the tallest CPU coolers, which goes to show how well the case was designed. Most case's of this size impose inconvenient restrictions on the builder. The MasterBox Lite 3.1 is a good-looking case, and if you want to spice things up a bit, you can always install case fans with cool LEDs to match the rest of your gaming setup.
-
-![Masterbox Lite](/img/case/masterbox-lite.jpg){: .img-middle}
-
-Unlike many other 'gaming' cases on the market, this chassis doesn't overdo it with flashy lights and features. It's subtle, yet sleek and refined. It has a minimalistic design with a modern look and feel. It has some accent colors as an added touch (you can choose between red, white, and black.) Cooler Master includes all three trim colors in the packaging, so you can change them depending on your build's color scheme, or how you're feeling that day. 
-
-The entire side panel is a glass window, so you'll want to make sure your cable management is on-point. Like many other cases of this size, it doesn't have an 5.25-inch drive bays, resulting in a far more spacious interior. Instead of having bulky 5.25-inch bays for optical drives that either wouldn't be installed or hardly used, the MasterBox Lite 3.1 has plenty of room for fans, radiators, GPUs, and CPU coolers. 
-
-![Masterbox interior](/img/case/interior-masterbox.jpg){: .img-middle}
-
-The interior of the case has an all-black finish, which I find quite aesthetically pleasing. It can fit GPUs as long as 380mm and heatsinks as tall as 158mm. Just about every GPU and CPU cooler on the market can fit inside of this case, meaning you can use this case to house any components you'd like, without restriction. 
-
-The case's dimensions are 456 x 208 x 381mm (HxWxD) and weighs in at around 9 lbs. It's small and light enough to be used as a LAN case, although it's lacking carrying handles, which would've been a nice touch. 
-
-I would've liked to see more fans pre-installed, by Thermaltake only decided to install one from the factory. However, the case can support up to four fans, and has space for a 240mm radiator on the front of the case and a 120mm radiator on the back of the case. 
-
-The PSU is mounted on the bottom of the case, which is ideal for cooling. Most Micro-ATX cases mount the PSU on top, so it's nice to see this design choice from Thermaltake. 
-
-Overall, it's a case full of features with a modest price. It's a yes from me!
 
 ## Conclusion 
 
