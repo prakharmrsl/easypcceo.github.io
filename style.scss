@@ -1408,6 +1408,7 @@ blockquote p {
  .featured-specs-box {
    padding-bottom: 50px;
    h2 {
+     display: flex;
      span {
        background: #212121;
        color: #fff;
@@ -1458,6 +1459,9 @@ blockquote p {
       font-size: 14px;
       span:first-child {
         font-weight: bold;
+      }
+      span:last-child {
+	max-width: 50%;	    
       }
     }
    }
