@@ -1,5 +1,5 @@
 ---
-title: "The Best Computer Fans of 2018: 80mm, 120mm, 140mm, & 200mm"
+title: "The Best Computer Fans of 2018"
 permalink: "/budget-pcs/case-fans/"
 layout: page
 seotitle: "15 Best Case Fans of 2018: 80mm-200mm (Updated)" 
@@ -91,6 +91,8 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>
 
+The fan features Noctua’s AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance. This award-winning fan has 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors.
+
 <div class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
@@ -109,6 +111,8 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>
 
+If you’re someone bothered by background noise, this 80mm case fan is just right for you. For the price of less than $10, this case fan is an absolute steal. It is simple and painless to install, reliable, and effective.
+
 <div class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
@@ -126,6 +130,8 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>
 </div>
+
+The fan is nearly silent – they do not rattle during operation, and they are well balanced. You have the option to adjust the amount of air this little guy pushes based on your needs, which is always an awesome feature. Even when the fan is on its lowest speed, airflow is perfectly adequate to cool most systems.
 
 ## 120mm Case Fans 
 
@@ -179,6 +185,8 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>
 </div>
+
+The NF-F12 uses an SSO2 bearing, built entirely with brass to ensure a long lifespan. The rear magnet has been moved closer to the axis to deliver increased stability during operation. Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
 
 <div class="featured-info-box">
 <span>Runner Up</span>
@@ -240,7 +248,7 @@ This fan has anti-vibration mountings that reduce the level of noise from vibrat
 
 This fan looks absolutely awesome, and performs well too. You can choose between different colored LEDS, including blue, red, white, and black. Moreover, its unique magnetic bearing is quiet and efficient. Overall, you can't go wrong with this case fan. The fan's vibrant LED lighting is perfect for any gaming setup.
 
-## Best 140mm Case Fans 
+## 140mm Case Fans 
 
 <table class="basic-table">
 	<tr>
@@ -328,6 +336,35 @@ This fan features anti-vibration pads on each corner to dampen vibrations, and r
 </div>
 
 You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
+
+## 200mm Case Fans
+
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Fan</th>
+		<th>Rating</th>
+		<th>Buy</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
+		<td>Corsair Air Series AF140 Case Fan</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2ubsRaq">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a></td>
+		<td>NZXT FN V2 Case Fan</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2u9tLEF">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2J8xRBj"><img class="table-image" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a></td>
+		<td>Corsair ML140 Pro LED Case Fan</td>
+		<td>4.5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2J8xRBj">Shop on Amazon</a></td>
+	</tr>
+</table>
 
 ## What to Look for in Your Next Case Fans
 
@@ -420,8 +457,6 @@ Cases that have space for a 240mm radiator are also an exception – in that cas
 </div>  
 
 The [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
-
-The fan features Noctua's AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan's quiet cooling performance. This award-winning fan has 2000/1650/1200 RPM speed settings via the fan's included Low-Noise adaptors. 
 
 The NF-A8 FLX's adjustable fan speed gives you the flexibility to configure your fan exactly as you need, balancing thermal performance and acoustic performance. It has an SSO2 bearing to ensure a long lifespan, backed by Noctua's 6 year manufacturer's warranty. 
 
@@ -542,7 +577,7 @@ Although this fan may look plain, it is actually far from it. The Noctua NF-F12 
 
 There are eleven stator guide vanes at the back of the NF-F12 that are positioned with different angular distances. The fan also features Vortex Control Notches which help to spread the noise emission over a broader frequency spectrum, in turn making teh fan's sound pattern more appealing to the ear. 
 
-The NF-F12 uses an SSO2 bearing, built entirely with brass to ensure a long lifespan. The rear magnet has been moved closer to the axis to deliver increased stability during operation. Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
+
 
 
 ## Conclusion
