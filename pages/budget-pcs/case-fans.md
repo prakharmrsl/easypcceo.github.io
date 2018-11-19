@@ -193,7 +193,7 @@ The fan is nearly silent – it does not rattle during operation, and it is well
 
 People have nothing but good things to say about this fan across the web, and for good reason. 
 
-## 120mm Case Fans 
+## Overview: 120mm Case Fans 
 
 <table class="basic-table">
 	<tr>
@@ -228,45 +228,86 @@ People have nothing but good things to say about this fan across the web, and fo
 	</tr>
 </table>
 
-<div class="featured-info-box">
-<span>First Choice</span>
-<div class="content">
-<div class="img">
+<div class="featured-specs-box">
+<h2 id="noctua-nf-f12">
+<span>#1</span> <a href="https://amzn.to/2L2nH7b" target="_blank">Best 120mm Case Fan: Noctua NF-F12</a>
+</h2>
+<div class="info">
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img alt="Noctua NF-F12" src="/img/case-fans/noctua-nf-f12.png" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>1200-1500 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>54.97 CFM ± 10%</span></p>
+<p><span>Noise</span><span>22.4 dBa</span></p>
 </div>
-<div class="text">
-<h2>Noctua NF-F12</h2>
-<h3>Best 120mm Case Fan</h3>
-<p>Noctua is making another appearance on this list, and for good reason. The Noctua NF-F12 is the 120mm variant of their NF-A8. Just like this fan's 80mm little brother, both the NF-F12's acoustic and thermal performance are exemplary.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Attractive design</li>
+<li>Two "Silent Mode" adapters included</li>
+<li>Strong airflow output</li>
+<li>Anti-vibration rubber corners</li>
+<li>Design</li>
+<li>Supports E-ATX</li>
+<li>Price</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Slightly louder than advertised at reduced speeds</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#noctua-nf-f12">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2L2nH7b">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2L2nH7b">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
 
-The NF-F12 uses an SSO2 bearing, built entirely with brass to ensure a long lifespan. The rear magnet has been moved closer to the axis to deliver increased stability during operation. Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
+Noctua is making another appearance on this list, and for good reason. The Noctua NF-F12 is the 120mm variant of their NF-A8. Just like this fan's 80mm little brother, both the NF-F12's acoustic and thermal performance are exemplary.
 
-<div class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2m8zQNb"><img alt="Arctic F12 PWM Case Fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
+Although this fan may look plain, it is actually far from it. The fan is designed with Noctua's Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
+
+There are eleven stator guide vanes at the back of the NF-F12 that are positioned with different angular distances. The fan also features Vortex Control Notches which help to spread the noise emission over a broader frequency spectrum, in turn making the fan's sound pattern more appealing to the ear. 
+
+The NF-F12 uses an SSO2 bearing, built entirely with brass to ensure a long lifespan, and the rear magnet has been moved closer to the axis to deliver increased stability during operation. Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
+
+<div class="featured-specs-box">
+<h2 id="arctic-f12-pwm">
+<span>#2</span> <a href="https://amzn.to/2m8zQNb" target="_blank">Best 120mm Case Fan: Noctua NF-F12</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2m8zQNb"><img alt="Arctic F12 PWM" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>600/800/1400 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>53 CFM ± 10%</span></p>
+<p><span>Noise</span><span>22.5 dBa</span></p>
 </div>
-<div class="text">
-<h2>ARCTIC F12 PWM PST</h2>
-<h3>Best PC Fans for Gaming</h3>
-<p>The ARCTIC F12 PWM PST case fan was designed to run as quietly as possible while facilitating airflow and ventilation. Best of all, you can buy five of these premium fans on Amazon for less than $30.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Attractive design</li>
+<li>PWM Feature</li>
+<li>Good airflow</li>
+<li>Good static pressure</li>
+<li>Quiet</li>
+<li>Design</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>N/A</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#arctic-f12">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2m8zQNb">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2m8zQNb">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
 
-If you hook the fan up to your motherboard, the F12's PWM function will run the fan at the proper speed at all times. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise. The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust).  
+The ARCTIC F12 PWM PST case fan was designed to run as quietly as possible while facilitating airflow and ventilation. Best of all, you can buy five of these premium fans on Amazon for less than $30.
+
+Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arctic's patented PST (PWM Sharing Technology), the PST feature allows up to five of these case fans to be chained together. If you adjust the speed of one of the fans, you'll adjust the speed of all of the fans. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise. The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust).  
+
+The fan's housing is unique in that it is comprised of two seperate sections, which are connected via rubber grommets in the corners of the fan. The rubber corners help to suppress noise from vibrations. The Arctic F12 PWM performs incredibly well under load, boasting both great airflow and static pressure. It's important to note that, thanks to the fan's unique design, it is thicker than traditional 120mm case fans, which may lead to compatibility issues if you have a [small case](/budget-pcs/smallest-atx-cases/).
+
+The F12 definitely does not disappoint when it comes to bang for your buck. All in all, this fan performs well and runs quietly, all for a modest price – what more could you ask for?  
 
 <div class="featured-info-box">
 <span>Quiet Pick</span>
@@ -481,48 +522,6 @@ Or, you can have them spin faster and produce even more air.
 The only time you should use 120mm case fans over 140mm is if your case can hold more 120mm fans than 140mm fans. 
 
 Cases that have space for a 240mm radiator are also an exception – in that case, it'd be wise to mount two 120mm case fans.
-
-## 120mm Fan Reviews
-
-<div class="featured-specs-box">
-<h2 id="noctua-nf-f12">
-<span>#1</span> <a href="https://amzn.to/2L2nH7b" target="_blank">Best 120mm Case Fan: Noctua NF-F12</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2L2nH7b"><img alt="Noctua NF-F12" src="/img/case-fans/noctua-nf-f12.png" /></a>
-<div class="specs">
-<p><span>Fan Speed</span><span>1200-1500 RPM</span></p>
-<p><span>Airflow (CFM)</span><span>54.97 CFM ± 10%</span></p>
-<p><span>Noise</span><span>22.4 dBa</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Attractive design</li>
-<li>Two "Silent Mode" adapters included</li>
-<li>Strong airflow output</li>
-<li>Anti-vibration rubber corners</li>
-<li>Design</li>
-<li>Supports E-ATX</li>
-<li>Price</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>Slightly louder than advertised at reduced speeds</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2L2nH7b">Check Price</a>
-</div>
-</div>  
-
-Although this fan may look plain, it is actually far from it. The Noctua NF-F12 is designed with Noctua's Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
-
-There are eleven stator guide vanes at the back of the NF-F12 that are positioned with different angular distances. The fan also features Vortex Control Notches which help to spread the noise emission over a broader frequency spectrum, in turn making teh fan's sound pattern more appealing to the ear. 
-
-
-
 
 ## Conclusion
 
