@@ -309,43 +309,71 @@ The fan's housing is unique in that it is comprised of two seperate sections, wh
 
 The F12 definitely does not disappoint when it comes to bang for your buck. All in all, this fan performs well and runs quietly, all for a modest price – what more could you ask for?  
 
-<div class="featured-info-box">
-<span>Quiet Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2E1VEFP"><img alt="Be Quiet! Silentwings3 case fan" src="/img/case-fans/bequiet-silentwings3.jpg" /></a>
+<div class="featured-specs-box">
+<h2 id="bequiet-silentwings3">
+<span>#3</span> <a href="https://amzn.to/2E1VEFP" target="_blank">Silent 120mm Case Fan: Be Quiet! Silentwings3</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2E1VEFP"><img alt="Be Quiet! Silentwings3" src="/img/case-fans/bequiet-silentwings3.jpg" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>1450 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>50.5 CFM ± 10%</span></p>
+<p><span>Noise</span><span>16.4 dBa</span></p>
 </div>
-<div class="text">
-<h2>Be Quiet! Silentwings3</h2>
-<h3>Quiet PC Fans</h3>
-<p>As the fan's name would imply, this case fan is nearly silent during regular use, and it's still impressively quiet when rotating at full speed. The Silentwings3 has seven PWM fan blades with an optimized surface structure to ensure excellent airflow.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Virtually inaudible</li>
+<li>Fluid-dynamic bearing</li>
+<li>Seven fan blades</li>
+<li>Three year warranty</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Price</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#bequiet-silentwings3">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E1VEFP">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E1VEFP">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
 
-This fan has anti-vibration mountings that reduce the level of noise from vibrations. The fan's advanced fluid-dynamic bearing is rated to have a 300,000 hour life span, and the fan ships with a 3-year manufacturer's warranty. It's safe to say Be Quiet! is confident in their product's reliability.  
+As the fan's name would imply, this case fan is nearly silent during regular use, and it's still impressively quiet when rotating at full speed. The Silentwings3 has seven PWM fan blades with an optimized surface structure to ensure excellent airflow.
 
-<div class="featured-info-box">
-<span>LED Pick</span>
-<div class="content">
-<div class="img">
+This fan also has anti-vibration mountings that reduce the level of noise from vibrations. The fan's advanced fluid-dynamic bearing is rated to have a 300,000 hour life span, and the fan ships with a 3-year manufacturer's warranty. It's safe to say Be Quiet! is confident in their product's reliability.  
+
+<div class="featured-specs-box">
+<h2 id="bequiet-silentwings3">
+<span>#4</span> <a href="https://amzn.to/2ufREJM" target="_blank">Stylish 120mm Case Fan: Corsair ML120 Pro LED</a>
+</h2>
+<div class="info">
 <a target="_blank" href="https://amzn.to/2ufREJM"><img alt="Corsair ML120 Pro LED Case Fan" src="/img/case-fans/corsair-ml120.png" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>400-1600 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>47.3 CFM ± 10%</span></p>
+<p><span>Noise</span><span>25 dBa</span></p>
 </div>
-<div class="text">
-<h2>Corsair ML120 Pro LED </h2>
-<h3>LED Case Fan</h3>
-<p>Similarly to a MagLev bullet train which levitates above the tracks, the Corsair ML120 PRO LED fan uses magnetic levitation to suspend the fan blades from the motor housing. This provides a (nearly) friction-less operation, which results in less noise and better performance.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Balance of performance/noise</li>
+<li>Customizable lighting</li>
+<li>Build quality</li>
+<li>Five year warranty</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Price</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#ml120">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ufREJM">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ufREJM">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
+
+Similarly to a MagLev bullet train which levitates above the tracks, the Corsair ML120 PRO LED fan uses magnetic levitation to suspend the fan blades from the motor housing. This provides a (nearly) friction-less operation, which results in less noise and better performance.
 
 This fan looks absolutely awesome, and performs well too. You can choose between different colored LEDS, including blue, red, white, and black. Moreover, its unique magnetic bearing is quiet and efficient. Overall, you can't go wrong with this case fan. The fan's vibrant LED lighting is perfect for any gaming setup.
 
