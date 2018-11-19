@@ -31,10 +31,10 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 
 <div class="toc-box">
 <ul>
-  <li><a href="#best-80mm-case-fans">Best 80mm Case Fans</a></li>		
-  <li><a href="#best-120mm-case-fans">Best 120mm Case Fans</a></li>
-  <li><a href="#best-140mm-case-fans">Best 140mm Case Fans</a></li>
-  <li><a href="#best-200mm-case-fans">Best 200mm Case Fans</a></li>
+  <li><a href="#overview-80mm-case-fans">Best 80mm Case Fans</a></li>		
+  <li><a href="#overview-120mm-case-fans">Best 120mm Case Fans</a></li>
+  <li><a href="#overview-140mm-case-fans">Best 140mm Case Fans</a></li>
+  <li><a href="#overview-200mm-case-fans">Best 200mm Case Fans</a></li>
   <li><a href="#what-to-look-for-in-your-next-case-fans">What to Look for in Your Next Case Fans</a></li>
   <li><a href="#best-pc-fan-for-gaming">Best PC Fan for Gaming</a></li>
   <li><a href="#how-to-install-case-fans">How to Install Case Fans</a></li>
@@ -466,7 +466,7 @@ This fan features anti-vibration pads on each corner to dampen vibrations, and r
 
 You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
 
-## 200mm Case Fans
+## Overview: 200mm Case Fans
 
 <table class="basic-table">
 	<tr>
