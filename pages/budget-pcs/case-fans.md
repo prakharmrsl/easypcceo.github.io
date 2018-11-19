@@ -91,7 +91,11 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>
 
-The fan features Noctua’s AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance. This award-winning fan has 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors.
+The [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
+
+Featuring Noctua’s AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance, this award-winning 80mm case fan has it all. You can choose between 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors, giving you the flexibility to configure your fan exactly as you need, balancing thermal performance and acoustic performance. 
+
+It has an SSO2 bearing to ensure a long lifespan, backed by Noctua's 6 year manufacturer's warranty. The Noctua NF-A8's predecessor, the NF-R8, has become a default-choice among PC builders looking for a quiet case fan that still packs a punch. The NF-A8 provides even higher static pressure and a superior noise/airflow ratio than its predecessor, thanks to aerodynamic optimisations. 
 
 <div class="featured-info-box">
 <span>Runner Up</span>
