@@ -44,7 +44,7 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </ul>
 </div>
 
-## 80mm Case Fans
+## Overview: 80mm Case Fans
 
 <table class="basic-table">
 	<tr>
@@ -73,69 +73,125 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 	</tr>
 </table>
 
-<div class="featured-info-box">
-<span>First Choice</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2qU4jRf"><img alt="Noctua NF-A8 FLX Premium Fan" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a>
+<div class="featured-specs-box">
+<h2 id="noctua-nf-a8">
+<span>#1</span> <a href="https://amzn.to/2qU4jRf" target="_blank">Best 80mm Case Fan: Noctua NF-A8 FLX</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2qU4jRf"><img alt="Noctua NF-F12" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a>
+<div class="specs">
+<p><span>Max Fan Speed</span><span>2000 RPM ± 10%</span></p>
+<p><span>Airflow (CFM)</span><span>29.66 CFM ± 10%</span></p>
+<p><span>Noise</span><span>16.1 dBa</span></p>
 </div>
-<div class="text">
-<h2>Noctua NF-A8 FLX Premium Fan</h2>
-<h3>Best 80mm Case Fan</h3>
-<p>Noctua has delivered yet another superb case fan – despite its small size, their 80mm NF-A8 FLX is capable of outputting nearly 30 CFM. This highly optimised premium case fan is reliable, cheap, and most important of all, effective.   </p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Sound-optimised blade geometry</li>
+<li>Self-stabilising oil-pressure bearing</li>
+<li>Anti-vibration rubber corners</li>
+<li>Six year warranty</li>
+<li>AAO (Advanced Acoustic Optimisation) frame</li>
+<li>Price</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>None</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#noctua-nf-a8">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qU4jRf">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qU4jRf">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
 
-The [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
+Noctua has delivered yet another superb case fan – despite its small size, their 80mm [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is capable of outputting nearly 30 CFM. This highly optimised premium case fan is reliable, cheap, and most important of all, effective.
+
+The NF-A8 is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
 
 Featuring Noctua’s AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance, this award-winning 80mm case fan has it all. You can choose between 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors, giving you the flexibility to configure your fan exactly as you need, balancing thermal performance and acoustic performance. 
 
 It has an SSO2 bearing to ensure a long lifespan, backed by Noctua's 6 year manufacturer's warranty. The Noctua NF-A8's predecessor, the NF-R8, has become a default-choice among PC builders looking for a quiet case fan that still packs a punch. The NF-A8 provides even higher static pressure and a superior noise/airflow ratio than its predecessor, thanks to aerodynamic optimisations. 
 
-<div class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
+<div class="featured-specs-box">
+<h2 id="noctua-nf-f12">
+<span>#2</span> <a href="https://amzn.to/2qV2Ryi" target="_blank">Quiet Case Fan: Cooler Master Sleeve Bearing 80mm Silent Fan</a>
+</h2>
+<div class="info">
 <a target="_blank" href="https://amzn.to/2qV2Ryi"><img alt="Cooler Master Sleeve Bearing 80mm Silent Fan" src="/img/case-fans/80mm-sleeve-bearing-cm.jpg" /></a>
+<div class="specs">
+<p><span>Max Fan Speed</span><span>2000 RPM ± 10%</span></p>
+<p><span>Airflow (CFM)</span><span>24.2 CFM ± 10%</span></p>
+<p><span>Noise</span><span>20 dBa</span></p>
 </div>
-<div class="text">
-<h2>Cooler Master Sleeve Bearing 80mm Silent Fan</h2>
-<h3>Quiet Case Fan</h3>
-<p>Cooler Master's 80mm sleeve bearing silent case fan is nearly silent during operation. It does not have any fancy features or flashly LED lights – rather, its performance does the talking. </p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Quiet</li>
+<li>Cheap</li>
+<li>Great value</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No PWM feature</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#cooler-master-80mm">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qV2Ryi">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qV2Ryi">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
+
+Cooler Master's 80mm sleeve bearing case fan is well known for its quiet operation, even when running at top speed. It does not have any fancy features or flashly LED lights – rather, its performance does the talking.
+
+This entry level case fan has black blades, and a black enclosure. The most noteable feature is the large holographic logo in the center of the fan. 
+
+If you're someone bothered by background noise, this 80mm case fan is for you. You can't expect an 80mm case fan to have the same cooling potential as a For the price of less than $10, this case fan is an absolute steal. They're simple to install, reliable, and effective. 
+
+Despite the fan's small size, it outputs 24.2 cubic feet per minute of air output, which is above and beyond the call of duty of an 80mm case fan. 
+
+It's specifically designed for use with Cooler Master's CM 690, 590, and 690 II cases which have special cooling slots designed for high airflow. Nevertheless, this fan can be used in any case that supports 80mm fans. 
+
+Unfortunately, the fan does not have a PWM feature, which is a bit disappointing – on the other hand, it is incredibly cheap and, for the money, it does a great job. It's a basic case fan built to withstand the test of time. All in all, the Cooler Master 80mm sleeve bearing silent fan is simple, dependable, and best of all, it's cheap!
 
 If you’re someone bothered by background noise, this 80mm case fan is just right for you. For the price of less than $10, this case fan is an absolute steal. It is simple and painless to install, reliable, and effective.
 
-<div class="featured-info-box">
-<span>Budget Pick</span>
-<div class="content">
-<div class="img">
+<div class="featured-specs-box">
+<h2 id="best-budget-80mm-case-fan--antec-tricool-80mm-dbb">
+<span>#3</span> <a href="https://amzn.to/2Q8K14P" target="_blank">Best Budget 80mm Case Fan: Antec TriCool 80mm DBB</a>
+</h2>
+<div class="info">
 <a target="_blank" href="https://amzn.to/2Q8K14P"><img alt="Antec TriCool 80mm DBB" src="/img/case-fans/antec-80mm.jpg" /></a>
+<div class="specs">
+<p><span>Max Fan Speed</span><span>1500/2000/2600 RPM ± 10%</span></p>
+<p><span>Airflow (CFM)</span><span>20/26/34 CFM ± 10%</span></p>
+<p><span>Noise</span><span>18/24/30 dBa</span></p>
 </div>
-<div class="text">
-<h2>Antec TriCool 80mm DBB</h2>
-<h3>Cheap 80mm Case Fan</h3>
-<p>Last but certainly not least, Antec's TriCool 80mm DBB case fan packs in as much performance as possible for less than $15. Featuring 3 adjustable speed settings, nearly silent operation even at full blast, and optional LED lighting, this cheap case fan is an absolute steal.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Bang for your buck</li>
+<li>Adjustable fan speed</li>
+<li>Near silent operation</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Screws can strip easily</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#best-budget-80mm-case-fan--antec-tricool-80mm-dbb">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q8K14P">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q8K14P">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div> 
 
-The fan is nearly silent – they do not rattle during operation, and they are well balanced. You have the option to adjust the amount of air this little guy pushes based on your needs, which is always an awesome feature. Even when the fan is on its lowest speed, airflow is perfectly adequate to cool most systems.
+Last but certainly not least, Antec's [TriCool 80mm DBB](https://amzn.to/2Q8K14P){: target="_blank"} case fan packs in as much performance as possible for less than $15. Featuring 3 adjustable speed settings, nearly silent operation even at full blast, and optional LED lighting, this cheap case fan is an absolute steal.
+
+The Antec TriCool 80mm DBB comes in a clear plastic design, but variants of the fan can be purchased with LED lighting installed to give your case a bit of extra personality. Pushing a maximum of 34 CFM, this tiny case fan really packs a punch. It's best used as either an inlet fan or an accessory fan to an existing cooling system. 
+
+The fan is nearly silent – it does not rattle during operation, and it is well balanced. You have the option to adjust the amount of air this little guy pushes based on your needs, which is always an awesome feature. Even when the fan is on its lowest speed, airflow is perfectly adequate to cool most systems. 
+
+People have nothing but good things to say about this fan across the web, and for good reason. 
 
 ## 120mm Case Fans 
 
@@ -425,122 +481,6 @@ Or, you can have them spin faster and produce even more air.
 The only time you should use 120mm case fans over 140mm is if your case can hold more 120mm fans than 140mm fans. 
 
 Cases that have space for a 240mm radiator are also an exception – in that case, it'd be wise to mount two 120mm case fans.
-
-## 80mm Fan Reviews 
-
-<div class="featured-specs-box">
-<h2 id="noctua-nf-a8">
-<span>#1</span> <a href="https://amzn.to/2qU4jRf" target="_blank">Best 80mm Case Fan: Noctua NF-A8 FLX</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2qU4jRf"><img alt="Noctua NF-F12" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a>
-<div class="specs">
-<p><span>Max Fan Speed</span><span>2000 RPM ± 10%</span></p>
-<p><span>Airflow (CFM)</span><span>29.66 CFM ± 10%</span></p>
-<p><span>Noise</span><span>16.1 dBa</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Sound-optimised blade geometry</li>
-<li>Self-stabilising oil-pressure bearing</li>
-<li>Anti-vibration rubber corners</li>
-<li>Six year warranty</li>
-<li>AAO (Advanced Acoustic Optimisation) frame</li>
-<li>Price</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>None</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qU4jRf">Check Price</a>
-</div>
-</div>  
-
-The [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
-
-The NF-A8 FLX's adjustable fan speed gives you the flexibility to configure your fan exactly as you need, balancing thermal performance and acoustic performance. It has an SSO2 bearing to ensure a long lifespan, backed by Noctua's 6 year manufacturer's warranty. 
-
-The Noctua NF-R8 fan has become a default-choice among PC builders looking for a quiet case fan that still packs a punch. The NF-A8 provides even higher static pressure and a superior noise/airflow ratio than its predecessor, thanks to aerodynamic optimisations. 
-
-<div class="featured-specs-box">
-<h2 id="noctua-nf-f12">
-<span>#2</span> <a href="https://amzn.to/2qV2Ryi" target="_blank">Quiet Case Fan: Cooler Master Sleeve Bearing 80mm Silent Fan</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2qV2Ryi"><img alt="Cooler Master Sleeve Bearing 80mm Silent Fan" src="/img/case-fans/80mm-sleeve-bearing-cm.jpg" /></a>
-<div class="specs">
-<p><span>Max Fan Speed</span><span>2000 RPM ± 10%</span></p>
-<p><span>Airflow (CFM)</span><span>24.2 CFM ± 10%</span></p>
-<p><span>Noise</span><span>20 dBa</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Quiet</li>
-<li>Cheap</li>
-<li>Great value</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>No PWM feature</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2qV2Ryi">Check Price</a>
-</div>
-</div>  
-
-Cooler Master's 80mm sleeve bearing case fan is well known for its quiet operation, even when running at top speed. 
-
-This entry level case fan has black blades, and a black enclosure. The most noteable feature is the large holographic logo in the center of the fan. 
-
-If you're someone bothered by background noise, this 80mm case fan is for you. You can't expect an 80mm case fan to have the same cooling potential as a For the price of less than $10, this case fan is an absolute steal. They're simple to install, reliable, and effective. 
-
-Despite the fan's small size, it outputs 24.2 cubic feet per minute of air output, which is above and beyond the call of duty of an 80mm case fan. 
-
-It's specifically designed for use with Cooler Master's CM 690, 590, and 690 II cases which have special cooling slots designed for high airflow. Nevertheless, this fan can be used in any case that supports 80mm fans. 
-
-Unfortunately, the fan does not have a PWM feature, which is a bit disappointing – on the other hand, it is incredibly cheap and, for the money, it does a great job. It's a basic case fan built to withstand the test of time. All in all, the Cooler Master 80mm sleeve bearing silent fan is simple, dependable, and best of all, it's cheap!
-
-<div class="featured-specs-box">
-<h2 id="best-budget-80mm-case-fan--antec-tricool-80mm-dbb">
-<span>#3</span> <a href="https://amzn.to/2Q8K14P" target="_blank">Best Budget 80mm Case Fan: Antec TriCool 80mm DBB</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2Q8K14P"><img alt="Antec TriCool 80mm DBB" src="/img/case-fans/antec-80mm.jpg" /></a>
-<div class="specs">
-<p><span>Max Fan Speed</span><span>1500/2000/2600 RPM ± 10%</span></p>
-<p><span>Airflow (CFM)</span><span>20/26/34 CFM ± 10%</span></p>
-<p><span>Noise</span><span>18/24/30 dBa</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Bang for your buck</li>
-<li>Adjustable fan speed</li>
-<li>Near silent operation</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>Screws can strip easily</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q8K14P">Check Price</a>
-</div>
-</div> 
-
-The [Antec TriCool 80mm DBB](https://amzn.to/2Q8K14P){: target="_blank"} comes in a clear plastic design, but variants of the fan can be purchased with LED lighting installed to give your case a bit of extra personality. Pushing a maximum of 34 CFM, this tiny case fan really packs a punch. It's best used as either an inlet fan or an accessory fan to an existing cooling system. 
-
-The fan is nearly silent – they do not rattle during operation, and they are well balanced. You have the option to adjust the amount of air this little guy pushes based on your needs, which is always an awesome feature. Even when the fan is on its lowest speed, airflow is perfectly adequate to cool most systems. 
-
-People have nothing but good things to say about this fan across the web, and for good reason. 
 
 ## 120mm Fan Reviews
 
