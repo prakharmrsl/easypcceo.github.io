@@ -200,16 +200,16 @@ People have nothing but good things to say about this fan across the web, and fo
 		<th>Buy</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2L2nH7b"><img class="table-image" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a></td>
-		<td>Noctua NF-F12 Case Fan</td>
-		<td>5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2L2nH7b">Shop on Amazon</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
 		<td>ARCTIC F12 PWM PST Case Fan</td>
 		<td>5/5</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2m8zQNb">Shop on Amazon</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2L2nH7b"><img class="table-image" alt="Noctua NF-F12 case fan" src="/img/case-fans/noctua-nf-f12.png" /></a></td>
+		<td>Noctua NF-F12 Case Fan</td>
+		<td>5/5</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2L2nH7b">Shop on Amazon</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2E1VEFP"><img class="table-image" alt="Be Quiet! Silentwings3 120mm case fan" src="/img/case-fans/bequiet-silentwings3.jpg" /></a></td>
