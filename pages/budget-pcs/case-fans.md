@@ -78,7 +78,7 @@ Before you buy your next set of case fans, it's important to consider the follow
 
 * **Size** – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
 
-* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans. 
+* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans, so pay close attention to your fan's [dBa](https://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa){: target="_blank"} noise level. 
 
 * **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
 
@@ -385,7 +385,7 @@ The F12 definitely does not disappoint when it comes to bang for your buck. All 
 
 Noctua is making another appearance on this list, and for good reason. The Noctua NF-F12 is the 120mm variant of their NF-A8. Just like this fan's 80mm little brother, both the NF-F12's acoustic and thermal performance are exemplary.
 
-Although this fan may look plain, it is actually far from it. The fan is designed with Noctua's Focused Flow frame to achieve the perfect balance between cooling performance and quietness. 
+Although this fan may look plain, it is actually far from it. The fan is designed with Noctua's [Focused Flow](https://noctua.at/en/focused-flowtm-frame){: target="_blank"} frame to achieve the perfect balance between cooling performance and quietness. 
 
 There are eleven stator guide vanes at the back of the NF-F12 that are positioned with different angular distances. The fan also features Vortex Control Notches which help to spread the noise emission over a broader frequency spectrum, in turn making the fan's sound pattern more appealing to the ear. 
 
