@@ -43,6 +43,91 @@ I've procured the 13 best case fans in 2018, from 80mm case fans all the way up 
 </ul>
 </div>
 
+## Zoom In: 3 Best Case Fans of 2018
+
+<table class="basic-table">
+	<tr>
+		<th>PIC</th>
+		<th>Fan</th>
+		<th>Size</th>
+		<th>View</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2qU4jRf"><img class="table-image" alt="Noctua NF-A8 case fan" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a></td>
+		<td>Noctua NF-A8 FLX Premium Fan</td>
+		<td>80mm</td>
+		<td><a class="big-button" href="#noctua-nf-a8">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
+		<td>ARCTIC F12 PWM PST Case Fan</td>
+		<td>120mm</td>
+		<td><a class="big-button" href="#arctic-f12-pwm">Read More</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
+		<td>Corsair Air Series AF140 Case Fan</td>
+		<td>140mm</td>
+		<td><a class="big-button" href="#corsair-air-series-af140">Read More</a></td>
+	</tr>
+</table>
+
+## Case Fan Buying Guide
+
+Before you buy your next set of case fans, it's important to consider the following:
+
+* **Size** – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
+
+* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans. 
+
+* **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
+
+* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accommodate all of your fans. 
+
+* **Cosmetics** – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
+
+## Best PC Fan for Gaming 
+
+Although some companies advertise their fans as 'gaming fans,' they aren't any different from regular fans. 
+
+I'd recommend choosing one of the fans listed above, either 120mm or 140mm in size, because they are the best PC case fans money can buy. 
+
+If you want, choose fans that come with LEDs, as that's really the only difference between regular case fans and 'gaming fans.' 
+
+## How to Install Case Fans 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oc9c8LFY1bg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+## The Importance of Case Fans 
+
+Case fans are important because the components inside your PC generate *a lot* of heat. If you didn't have a CPU cooler on your CPU, for example, you could fry an egg on top of it. Seriously, look it up. 
+
+If your components get too hot, it can damage them and shorten their lifespan. You'll run into problems with your components malfunctioning if they get too hot. 
+
+Most components are programmed to automatically shut down if they get too hot to avoid damage. So, either your PC will turn off over and over, or your components will be damaged. 
+
+CPUs and GPUs run especially hot – it is crucial that your PC draws in cool air and expels the warm air. 
+
+An efficient cooling system can increase the performance and the lifespan of your computer.
+
+## 120mm Case Fans vs. 140mm Case Fans 
+
+So, if you have the option to choose either 120mm or 140mm case fans, which is best? 
+
+In almost every scenario, you should choose 140mm case fans. 
+
+**Here's why:**
+
+140mm fans are larger than 120mm fans (obviously). Therefore, they can move more air, even at a lower RPM. They can spin slower (and more quietly), while achieving the same cooling. 
+
+Or, you can have them spin faster and produce even more air. 
+
+The only time you should use 120mm case fans over 140mm is if your case can hold more 120mm fans than 140mm fans. 
+
+Cases that have space for a 240mm radiator are also an exception – in that case, it'd be wise to mount two 120mm case fans.
+
 ## Overview: 80mm Case Fans
 
 <table class="basic-table">
@@ -504,62 +589,6 @@ This fan features anti-vibration pads on each corner to dampen vibrations, and r
 The Corsair Ml140 is the 140mm version of the ML120. If you like the ML120's vibrant LED lighting but you want a bigger case fan, the ML140 is a great option for you. It also has the same magnetic bearing as the ML120 – needless to say, its thermal performance is exemplary.
 
 You can dynamically control the fan's speed from 400 RPM all the way up to 2000 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
-
-## Case Fan Buying Guide
-
-Before you buy your next set of case fans, it's important to consider the following:
-
-* **Size** – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
-
-* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans. 
-
-* **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
-
-* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accommodate all of your fans. 
-
-* **Cosmetics** – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
-
-## Best PC Fan for Gaming 
-
-Although some companies advertise their fans as 'gaming fans,' they aren't any different from regular fans. 
-
-I'd recommend choosing one of the fans listed above, either 120mm or 140mm in size, because they are the best PC case fans money can buy. 
-
-If you want, choose fans that come with LEDs, as that's really the only difference between regular case fans and 'gaming fans.' 
-
-## How to Install Case Fans 
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oc9c8LFY1bg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-## The Importance of Case Fans 
-
-Case fans are important because the components inside your PC generate *a lot* of heat. If you didn't have a CPU cooler on your CPU, for example, you could fry an egg on top of it. Seriously, look it up. 
-
-If your components get too hot, it can damage them and shorten their lifespan. You'll run into problems with your components malfunctioning if they get too hot. 
-
-Most components are programmed to automatically shut down if they get too hot to avoid damage. So, either your PC will turn off over and over, or your components will be damaged. 
-
-CPUs and GPUs run especially hot – it is crucial that your PC draws in cool air and expels the warm air. 
-
-An efficient cooling system can increase the performance and the lifespan of your computer.
-
-## 120mm Case Fans vs. 140mm Case Fans 
-
-So, if you have the option to choose either 120mm or 140mm case fans, which is best? 
-
-In almost every scenario, you should choose 140mm case fans. 
-
-**Here's why:**
-
-140mm fans are larger than 120mm fans (obviously). Therefore, they can move more air, even at a lower RPM. They can spin slower (and more quietly), while achieving the same cooling. 
-
-Or, you can have them spin faster and produce even more air. 
-
-The only time you should use 120mm case fans over 140mm is if your case can hold more 120mm fans than 140mm fans. 
-
-Cases that have space for a 240mm radiator are also an exception – in that case, it'd be wise to mount two 120mm case fans.
 
 ## Conclusion
 
