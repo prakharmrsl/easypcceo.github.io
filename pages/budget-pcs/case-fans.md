@@ -2,10 +2,10 @@
 title: "The Best Computer Fans of 2018"
 permalink: "/budget-pcs/case-fans/"
 layout: page
-seotitle: "15 Best Case Fans of 2018: 80mm-200mm (Updated)" 
+seotitle: "13 Best Case Fans & Buying Guide 2018 (80mm, 120mm, 140mm)" 
 ---
 <h3 class="page-subtitle">
-	Updated October 8th, 2018 by 
+	Updated November 24th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -17,7 +17,7 @@ seotitle: "15 Best Case Fans of 2018: 80mm-200mm (Updated)"
 
 Case fans play a crucial role in your PC – if your PC gets too hot, your components will [overheat](https://www.howtogeek.com/174288/how-to-tell-if-your-computer-is-overheating-and-what-to-do-about-it/){: target="_blank"} and become damaged or worse, destroyed. 
 
-With that being said, it's safe to say you should choose your next set of pc fans carefully. 
+With that being said, you should choose your next set of pc fans carefully. 
 
 The best case fans need to be quiet, efficient, and of course, they have to provide great airflow. 
 
@@ -25,7 +25,7 @@ Well, it looks like you're in luck.
 
 Why?
 
-I've procured the 7 best case fans in 2018 – including the best 120mm case fan and the best 140mm case fan for your next gaming PC. 
+I've procured the 13 best case fans in 2018, from 80mm case fans all the way up to 200mm case fans.
 
 *Let's get started:*
 
@@ -34,8 +34,7 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
   <li><a href="#overview-80mm-case-fans">Best 80mm Case Fans</a></li>		
   <li><a href="#overview-120mm-case-fans">Best 120mm Case Fans</a></li>
   <li><a href="#overview-140mm-case-fans">Best 140mm Case Fans</a></li>
-  <li><a href="#overview-200mm-case-fans">Best 200mm Case Fans</a></li>
-  <li><a href="#what-to-look-for-in-your-next-case-fans">What to Look for in Your Next Case Fans</a></li>
+  <li><a href="#Case Fan Buying Guide">Case Fan Buying Guide</a></li>
   <li><a href="#best-pc-fan-for-gaming">Best PC Fan for Gaming</a></li>
   <li><a href="#how-to-install-case-fans">How to Install Case Fans</a></li>
   <li><a href="#the-importance-of-case-fans">The Importance of Case Fans</a></li>
@@ -105,11 +104,11 @@ I've procured the 7 best case fans in 2018 – including the best 120mm case fan
 </div>
 </div>  
 
-Noctua has delivered yet another superb case fan – despite its small size, their 80mm [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is capable of outputting nearly 30 CFM. This highly optimised premium case fan is reliable, cheap, and most important of all, effective.
+Noctua has delivered yet another superb case fan – despite its small size, their 80mm [NF-A8 FLX](https://amzn.to/2qU4jRf){: target="_blank"} is capable of outputting nearly 30 [CFM](https://www.webopedia.com/TERM/C/CFM.html){: target="_blank"}. This highly optimised premium case fan is reliable, cheap, and most important of all, effective.
 
-The NF-A8 is a highly optimised, premium 80mm case fan. Considering its small form factor, this fan's cooling potential is impressive to say the least. 
+Considering its small form factor, this fan's cooling potential is impressive to say the least.
 
-Featuring Noctua’s AAO (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance, this award-winning 80mm case fan has it all. You can choose between 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors, giving you the flexibility to configure your fan exactly as you need, balancing thermal performance and acoustic performance. 
+Featuring Noctua’s [AAO](https://noctua.at/en/aao-frame){: target="_blank"} (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance, this award-winning 80mm case fan has it all. You can choose between 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors, giving you the flexibility to configure your fan exactly as you need, and balancing thermal performance and acoustic performance. 
 
 It has an SSO2 bearing to ensure a long lifespan, backed by Noctua's 6 year manufacturer's warranty. The Noctua NF-A8's predecessor, the NF-R8, has become a default-choice among PC builders looking for a quiet case fan that still packs a punch. The NF-A8 provides even higher static pressure and a superior noise/airflow ratio than its predecessor, thanks to aerodynamic optimisations. 
 
@@ -146,15 +145,13 @@ Cooler Master's 80mm sleeve bearing case fan is well known for its quiet operati
 
 This entry level case fan has black blades, and a black enclosure. The most noteable feature is the large holographic logo in the center of the fan. 
 
-If you're someone bothered by background noise, this 80mm case fan is for you. You can't expect an 80mm case fan to have the same cooling potential as a For the price of less than $10, this case fan is an absolute steal. They're simple to install, reliable, and effective. 
+If you're someone bothered by background noise, this 80mm case fan is for you. For the price of less than $10, this case fan is an absolute steal. They're simple to install, reliable, and effective. 
 
 Despite the fan's small size, it outputs 24.2 cubic feet per minute of air output, which is above and beyond the call of duty of an 80mm case fan. 
 
 It's specifically designed for use with Cooler Master's CM 690, 590, and 690 II cases which have special cooling slots designed for high airflow. Nevertheless, this fan can be used in any case that supports 80mm fans. 
 
-Unfortunately, the fan does not have a PWM feature, which is a bit disappointing – on the other hand, it is incredibly cheap and, for the money, it does a great job. It's a basic case fan built to withstand the test of time. All in all, the Cooler Master 80mm sleeve bearing silent fan is simple, dependable, and best of all, it's cheap!
-
-If you’re someone bothered by background noise, this 80mm case fan is just right for you. For the price of less than $10, this case fan is an absolute steal. It is simple and painless to install, reliable, and effective.
+Unfortunately, the fan does not have a [PWM](https://www.maximintegrated.com/en/glossary/definitions.mvp/term/Fan%20Controller%20-%20PWM/gpk/832){: target="_blank"} feature, which is a bit disappointing – on the other hand, it is incredibly cheap and, for the money, it does a great job. It's a basic case fan built to withstand the test of time. All in all, the Cooler Master 80mm sleeve bearing silent fan is simple, dependable, and best of all, it's cheap!
 
 <div class="featured-specs-box">
 <h2 id="best-budget-80mm-case-fan--antec-tricool-80mm-dbb">
@@ -185,9 +182,9 @@ If you’re someone bothered by background noise, this 80mm case fan is just rig
 </div>
 </div> 
 
-Last but certainly not least, Antec's [TriCool 80mm DBB](https://amzn.to/2Q8K14P){: target="_blank"} case fan packs in as much performance as possible for less than $15. Featuring 3 adjustable speed settings, nearly silent operation even at full blast, and optional LED lighting, this cheap case fan is an absolute steal.
+Last but certainly not least, Antec's [TriCool 80mm DBB](https://amzn.to/2Q8K14P){: target="_blank"} case fan packs in as much performance as possible for less than $15. Featuring 3 adjustable speed settings, nearly silent operation even at full blast, and optional LED lighting, this cheap case fan is great for the money.
 
-The Antec TriCool 80mm DBB comes in a clear plastic design, but variants of the fan can be purchased with LED lighting installed to give your case a bit of extra personality. Pushing a maximum of 34 CFM, this tiny case fan really packs a punch. It's best used as either an inlet fan or an accessory fan to an existing cooling system. 
+The Antec TriCool 80mm DBB comes in a clear plastic design, but variants of the fan can be purchased with LED lighting installed to give your case a bit of extra personality. Pushing a maximum of 34 CFM, this tiny case fan punches above its weight class. It's best used as either an inlet fan or an accessory fan to an existing cooling system. 
 
 The fan is nearly silent – it does not rattle during operation, and it is well balanced. You have the option to adjust the amount of air this little guy pushes based on your needs, which is always an awesome feature. Even when the fan is on its lowest speed, airflow is perfectly adequate to cool most systems. 
 
@@ -229,8 +226,48 @@ People have nothing but good things to say about this fan across the web, and fo
 </table>
 
 <div class="featured-specs-box">
+<h2 id="arctic-f12-pwm">
+<span>#1</span> <a href="https://amzn.to/2m8zQNb" target="_blank">Best 120mm Case Fan: Arctic F12 PWM PST</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2m8zQNb"><img alt="Arctic F12 PWM" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>600/800/1400 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>53 CFM ± 10%</span></p>
+<p><span>Noise</span><span>22.5 dBa</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Attractive design</li>
+<li>PWM Feature</li>
+<li>Good airflow</li>
+<li>Good static pressure</li>
+<li>Quiet</li>
+<li>Design</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>N/A</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2m8zQNb">Check Price</a>
+</div>
+</div>  
+
+The ARCTIC F12 PWM PST case fan was designed to run as quietly as possible while facilitating airflow and ventilation. Best of all, you can buy five of these premium fans on Amazon for less than $30.
+
+Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arctic's patented PST (PWM Sharing Technology), the PST feature allows up to five of these case fans to be chained together. If you adjust the speed of one of the fans, you'll adjust the speed of all of the fans. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise. The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust).  
+
+The fan's housing is unique in that it is comprised of two seperate sections, which are connected via rubber grommets in the corners of the fan. The rubber corners help to suppress noise from vibrations. The Arctic F12 PWM performs incredibly well under load, boasting both great airflow and static pressure. It's important to note that, thanks to the fan's unique design, it is thicker than traditional 120mm case fans, which may lead to compatibility issues if you have a [small case](/budget-pcs/smallest-atx-cases/).
+
+The F12 definitely does not disappoint when it comes to bang for your buck. All in all, this fan performs well and runs quietly, all for a modest price – what more could you ask for?  
+
+<div class="featured-specs-box">
 <h2 id="noctua-nf-f12">
-<span>#1</span> <a href="https://amzn.to/2L2nH7b" target="_blank">Best 120mm Case Fan: Noctua NF-F12</a>
+<span>#2</span> <a href="https://amzn.to/2L2nH7b" target="_blank">Best 120mm Fan for Radiator: Noctua NF-F12</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2L2nH7b"><img alt="Noctua NF-F12" src="/img/case-fans/noctua-nf-f12.png" /></a>
@@ -268,46 +305,6 @@ Although this fan may look plain, it is actually far from it. The fan is designe
 There are eleven stator guide vanes at the back of the NF-F12 that are positioned with different angular distances. The fan also features Vortex Control Notches which help to spread the noise emission over a broader frequency spectrum, in turn making the fan's sound pattern more appealing to the ear. 
 
 The NF-F12 uses an SSO2 bearing, built entirely with brass to ensure a long lifespan, and the rear magnet has been moved closer to the axis to deliver increased stability during operation. Despite this fan's affordable price, it is one of Noctua's high-performance fans, guaranteed to deliver fantastic airflow without making a lot of noise.
-
-<div class="featured-specs-box">
-<h2 id="arctic-f12-pwm">
-<span>#2</span> <a href="https://amzn.to/2m8zQNb" target="_blank">Best 120mm Case Fan: Noctua NF-F12</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2m8zQNb"><img alt="Arctic F12 PWM" src="/img/case-fans/arctic-f12-pwm.jpg" /></a>
-<div class="specs">
-<p><span>Fan Speed</span><span>600/800/1400 RPM</span></p>
-<p><span>Airflow (CFM)</span><span>53 CFM ± 10%</span></p>
-<p><span>Noise</span><span>22.5 dBa</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Attractive design</li>
-<li>PWM Feature</li>
-<li>Good airflow</li>
-<li>Good static pressure</li>
-<li>Quiet</li>
-<li>Design</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>N/A</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2m8zQNb">Check Price</a>
-</div>
-</div>  
-
-The ARCTIC F12 PWM PST case fan was designed to run as quietly as possible while facilitating airflow and ventilation. Best of all, you can buy five of these premium fans on Amazon for less than $30.
-
-Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arctic's patented PST (PWM Sharing Technology), the PST feature allows up to five of these case fans to be chained together. If you adjust the speed of one of the fans, you'll adjust the speed of all of the fans. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise. The fan is also reversible – in other words, you can install it in a manner that will either draw cool air into your case (intake) or push warm air out of your case (exhaust).  
-
-The fan's housing is unique in that it is comprised of two seperate sections, which are connected via rubber grommets in the corners of the fan. The rubber corners help to suppress noise from vibrations. The Arctic F12 PWM performs incredibly well under load, boasting both great airflow and static pressure. It's important to note that, thanks to the fan's unique design, it is thicker than traditional 120mm case fans, which may lead to compatibility issues if you have a [small case](/budget-pcs/smallest-atx-cases/).
-
-The F12 definitely does not disappoint when it comes to bang for your buck. All in all, this fan performs well and runs quietly, all for a modest price – what more could you ask for?  
 
 <div class="featured-specs-box">
 <h2 id="bequiet-silentwings3">
@@ -466,36 +463,7 @@ This fan features anti-vibration pads on each corner to dampen vibrations, and r
 
 You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
 
-## Overview: 200mm Case Fans
-
-<table class="basic-table">
-	<tr>
-		<th>PIC</th>
-		<th>Fan</th>
-		<th>Rating</th>
-		<th>Buy</th>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
-		<td>Corsair Air Series AF140 Case Fan</td>
-		<td>5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2ubsRaq">Shop on Amazon</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2u9tLEF"><img class="table-image" alt="NZXT FN V2 Case Fan" src="/img/case-fans/nzxt.png" /></a></td>
-		<td>NZXT FN V2 Case Fan</td>
-		<td>5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2u9tLEF">Shop on Amazon</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2J8xRBj"><img class="table-image" alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a></td>
-		<td>Corsair ML140 Pro LED Case Fan</td>
-		<td>4.5/5</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2J8xRBj">Shop on Amazon</a></td>
-	</tr>
-</table>
-
-## What to Look for in Your Next Case Fans
+## Case Fan Buying Guide
 
 Before you buy your next set of case fans, it's important to consider the following:
 
@@ -560,15 +528,13 @@ If you take away anything from this article, it should be the following:
 Additionally, you can choose case fans that match your PC's color scheme. They're a great way to show your personality. 
 
 <ul id="markdown-toc">
-  <li><a href="#best-120mm-case-fans" id="markdown-toc-best-120mm-case-fans">Best 120mm Case Fans</a></li>
-  <li><a href="#best-120mm-case-fan-cooler-master-jetflo-120-case-fan" id="markdown-toc-best-120mm-case-fan-cooler-master-jetflo-120-case-fan">Best 120mm Case Fan: Cooler Master JetFlo 120 Case Fan</a></li>
-  <li><a href="#best-140mm-case-fans" id="markdown-toc-best-140mm-case-fans">Best 140mm Case Fans</a></li>
-  <li><a href="#best-140mm-case-fan-corsair-air-series-af140-case-fan" id="markdown-toc-best-140mm-case-fan-corsair-air-series-af140-case-fan">Best 140mm Case Fan: Corsair Air Series AF140 Case Fan</a></li>
-  <li><a href="#what-to-look-for-in-your-next-case-fans" id="markdown-toc-what-to-look-for-in-your-next-case-fans">What to Look for in Your Next Case Fans</a></li>
+  <li><a href="#overview-80mm-case-fans" id="markdown-toc-best-120mm-case-fans">Best 80mm Case Fans</a></li>
+  <li><a href="#overview-120mm-case-fans" id="markdown-toc-best-120mm-case-fans">Best 120mm Case Fans</a></li>
+  <li><a href="#overview-140mm-case-fans" id="markdown-toc-best-140mm-case-fans">Best 140mm Case Fans</a></li>
+  <li><a href="#case-fan-buying-guide" id="markdown-toc-what-to-look-for-in-your-next-case-fans">Case Fan Buying Guide</a></li>
   <li><a href="#best-pc-fan-for-gaming" id="markdown-toc-best-pc-fan-for-gaming">Best PC Fan for Gaming</a></li>
   <li><a href="#how-to-install-case-fans" id="markdown-toc-how-to-install-case-fans">How to Install Case Fans</a></li>
   <li><a href="#the-importance-of-case-fans" id="markdown-toc-the-importance-of-case-fans">The Importance of Case Fans</a></li>
   <li><a href="#120mm-case-fans-vs-140mm-case-fans" id="markdown-toc-120mm-case-fans-vs-140mm-case-fans">120mm Case Fans vs. 140mm Case Fans</a></li>
-  <li><a href="#budget-gaming-pcs-for-your-case-fans" id="markdown-toc-budget-gaming-pcs-for-your-case-fans">Budget Gaming PCs for Your Case Fans</a></li>
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
