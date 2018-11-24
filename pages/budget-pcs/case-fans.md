@@ -476,7 +476,7 @@ This fan features anti-vibration pads on each corner to dampen vibrations, and r
 <span>#3</span> <a href="https://amzn.to/2J8xRBj" target="_blank">Corsair ML140 Pro LED</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2J8xRBj"><img alt="NZXT FN V2" src="/img/case-fans/nzxt.png" /></a>
+<a target="_blank" href="https://amzn.to/2J8xRBj"><img alt="Corsair ML140 Pro LED" src="/img/case-fans/corsair-ml140.png" /></a>
 <div class="specs">
 <p><span>Fan Speed</span><span>400-2000 RPM</span></p>
 <p><span>Airflow (CFM)</span><span>55.4 CFM ± 10%</span></p>
