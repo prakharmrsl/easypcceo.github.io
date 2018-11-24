@@ -403,65 +403,107 @@ This fan looks absolutely awesome, and performs well too. You can choose between
 	</tr>
 </table>
 
-<div class="featured-info-box">
-<span>First Choice</span>
-<div class="content">
-<div class="img">
+<div class="featured-specs-box">
+<h2 id="corsair-air-series-af140">
+<span>#1</span> <a href="https://amzn.to/2ubsRaq" target="_blank">Best 140mm Case Fan: Corsair Air Series AF140</a>
+</h2>
+<div class="info">
 <a target="_blank" href="https://amzn.to/2ubsRaq"><img alt="Corsair Air Series AF140 Case Fan" src="/img/case-fans/corsair-af140.png" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>1200 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>66.4 CFM ± 10%</span></p>
+<p><span>Noise</span><span>25.5 dBa</span></p>
 </div>
-<div class="text">
-<h2>Corsair Air Series AF140</h2>
-<h3>Best 140mm Case Fan</h3>
-<p>Spinning at 1200 RPM and only emitting 25.5 dBa, the AF140 is capable of regulating your PC's internal temperature without making too much noise. It's rated at 66.4 CFM, and Corsair recommends at least 3cm of clearance between the fan and anything else inside your case to ensure the best possible airflow. </p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Powerful</li>
+<li>High CFM Output</li>
+<li>Quiet</li>
+<li>Reliable</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Price</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#corsair-ml120">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ubsRaq">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ubsRaq">Check Price</a>
 </div>
-</div>
-</div>
-</div>
+</div>  
+
+Spinning at 1200 RPM and only emitting 25.5 dBa, the AF140 is capable of regulating your PC's internal temperature without making too much noise. It's rated at 66.4 CFM, and Corsair recommends at least 3cm of clearance between the fan and anything else inside your case to ensure the best possible airflow. 
 
 Corsair's advanced hydraulic bearing engine design is clever. They took the common sleeve bearing design and improved it to rival the reliability of a high end product. Sleeve bearings are known to emit less noise than fans with ball bearings, but their lack of lubrication usually means they have significantly shorter life spans. 
 
-<div class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2u9tLEF"><img alt="NZXT FN V2 Fan" src="/img/case-fans/nzxt.png" /></a>
+<div class="featured-specs-box">
+<h2 id="nzxt-fn-v2">
+<span>#2</span> <a href="https://amzn.to/2u9tLEF" target="_blank">NZXT FN V2</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2u9tLEF"><img alt="NZXT FN V2" src="/img/case-fans/nzxt.png" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>1000 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>50 CFM ± 10%</span></p>
+<p><span>Noise</span><span>21 dBa</span></p>
 </div>
-<div class="text">
-<h2>NZXT FN V2</h2>
-<h3>Cheap Case Fan</h3>
-<p>If I had to describe this case fan with one word, it would be performance. This case fan can cool even the hottest computers and it's guarunteed to last, all for an affordably low price.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Price/performance</li>
+<li>Nearly silent operation</li>
+<li>Effective</li>
+<li>Cheap</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>N/A</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#nzxt-fn-v2">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2u9tLEF">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2u9tLEF">Check Price</a>
 </div>
 </div>
-</div>
-</div>
+
+If I had to describe this case fan with one word, it would be performance. This case fan can cool even the hottest computers and it's guarunteed to last, all for an affordably low price.
 
 This fan features anti-vibration pads on each corner to dampen vibrations, and redesigned thicker fan blades to provide more reliability. This fan's thermal and acoustic performance are both exemplary. They're a great fit for beginner and experienced builders alike. 
 
-<div class="featured-info-box">
-<span>Style Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2u9tLEF"><img alt="Corsair ML140 Case fan" src="/img/case-fans/corsair-ml140.png" /></a>
+<div class="featured-specs-box">
+<h2 id="corsair-ml140-pro-led">
+<span>#3</span> <a href="https://amzn.to/2J8xRBj" target="_blank">Corsair ML140 Pro LED</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2J8xRBj"><img alt="NZXT FN V2" src="/img/case-fans/nzxt.png" /></a>
+<div class="specs">
+<p><span>Fan Speed</span><span>400-2000 RPM</span></p>
+<p><span>Airflow (CFM)</span><span>55.4 CFM ± 10%</span></p>
+<p><span>Noise</span><span>37 dBa</span></p>
 </div>
-<div class="text">
-<h2>Corsair ML140 Pro LED</h2>
-<h3>Best Looking Case Fan</h3>
-<p>The Corsair Ml140 is the 140mm version of the ML120. If you like the ML120's vibrant LED lighting but you want a bigger case fan, the ML140 is a great option for you. It also has the same magnetic bearing as the ML120 – needless to say, its thermal performance is exemplary.</p>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>LEDs</li>
+<li>Cooling power</li>
+<li>Design</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Expensive</li>
+<li>A bit louder than other 140mm fans</li>
+</ul>
+</div>
 <div class="btn">
-<a class="learn-button cta-button" href="#corsair-ml140">Read Review</a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2u9tLEF">Check Price </a>
-</div>
-</div>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2J8xRBj">Check Price</a>
 </div>
 </div>
 
-You can dynamically control the fan's speed from 400 RPM all the way up to 1,200 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
+The Corsair Ml140 is the 140mm version of the ML120. If you like the ML120's vibrant LED lighting but you want a bigger case fan, the ML140 is a great option for you. It also has the same magnetic bearing as the ML120 – needless to say, its thermal performance is exemplary.
+
+You can dynamically control the fan's speed from 400 RPM all the way up to 2000 RPM to minimize noise or maximize airflow. I use these case fans in my PC, and I've never had any issues. They might work a bit too well!
 
 ## Case Fan Buying Guide
 
