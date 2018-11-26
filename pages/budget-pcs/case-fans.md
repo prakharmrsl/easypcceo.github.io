@@ -15,7 +15,7 @@ seotitle: "13 Best Case Fans & Buying Guide 2018 (80mm, 120mm, 140mm)"
 <script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 **Here's the deal:**
 
-Case fans play a crucial role in your PC – if your PC gets too hot, your components will [overheat](https://www.howtogeek.com/174288/how-to-tell-if-your-computer-is-overheating-and-what-to-do-about-it/){: target="_blank"} and become damaged or worse, destroyed. 
+Case fans play a crucial role in your PC – without them, your components will [overheat](https://www.howtogeek.com/174288/how-to-tell-if-your-computer-is-overheating-and-what-to-do-about-it/){: target="_blank"} and become damaged or worse, destroyed. 
 
 With that being said, you should choose your next set of pc fans carefully. 
 
@@ -25,7 +25,7 @@ Well, it looks like you're in luck.
 
 Why?
 
-I've procured the 13 best case fans in 2018, from 80mm case fans all the way up to 200mm case fans.
+I've procured the 13 best case fans in 2018, from 80mm case fans all the way up to 140mm case fans.
 
 *Let's get started:*
 
