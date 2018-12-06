@@ -48,8 +48,8 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 		<td class="components">
 			<ul>
 			<li>Powerful</li>
-			<li>High CFM Output</li>
-			<li>Nearly Silent</li>
+			<li>CFM</li>
+			<li>Silent</li>
 			<li>Reliable</li>
 			</ul>
 		</td>
@@ -62,9 +62,9 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Attractive Design</li>
-			<li>PWM Feature</li>
-			<li>High Airflow</li>
+			<li>Design</li>
+			<li>PWM</li>
+			<li>Airflow</li>
 			<li>Quiet</li>
 			</ul>
 		</td>
@@ -79,7 +79,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 			<li>Powerful</li>
 			<li>Efficient</li>
 			<li>Lifespan</li>
-			<li>Superb Cooling</li>
+			<li>Looks</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2ubsRaq">Check Price</a></td>
