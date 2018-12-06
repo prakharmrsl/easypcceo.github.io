@@ -5,7 +5,7 @@ layout: page
 seotitle: "3 Best Case Fans: 80mm, 120mm, & 140mm (2018)" 
 ---
 <h3 class="page-subtitle">
-	Updated November 24th, 2018 by 
+	Updated December 6th, 2018 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -32,32 +32,60 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 
 ## 3 Best Case Fans of 2018
 
-<table class="basic-table">
+<div id="overview">
+<table class="basic-table table-colorful" align="center">
 	<tr>
-		<th>PIC</th>
-		<th>Fan</th>
 		<th>Size</th>
-		<th>View</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Benefits</th>
+		<th>Buy on Amazon</th>
 	</tr>
 	<tr>
-		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2qU4jRf"><img class="table-image" alt="Noctua NF-A8 case fan" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a></td>
+		<td><b>80mm</b></td>
 		<td>Noctua NF-A8 FLX Case Fan</td>
-		<td>80mm</td>
-		<td><a class="big-button" href="#noctua-nf-a8">Read More</a></td>
+		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2qU4jRf"><img class="table-image" alt="Noctua NF-A8 case fan" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Powerful</li>
+			<li>High CFM Output</li>
+			<li>Nearly Silent</li>
+			<li>Reliable</li>
+			</ul>
+		</td>
+		<td>
+		<a class="big-button" target="_blank" rel="nofollow" href="https://amzn.to/2qU4jRf">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
+		<td><b>120mm</b></td>
 		<td>ARCTIC F12 PWM PST Case Fan</td>
-		<td>120mm</td>
-		<td><a class="big-button" href="#arctic-f12-pwm">Read More</a></td>
+		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Attractive Design</li>
+			<li>PWM Feature</li>
+			<li>High Airflow</li>
+			<li>Quiet</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="https://amzn.to/2m8zQNb">Check Price</a></td>
 	</tr>
 	<tr>
-		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
+		<td><b>140mm</b></td>
 		<td>Corsair Air Series AF140 Case Fan</td>
-		<td>140mm</td>
-		<td><a class="big-button" href="#corsair-air-series-af140">Read More</a></td>
+		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2ubsRaq"><img class="table-image" alt="Corsair Air Series AF140" src="/img/case-fans/corsair-af140.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Powerful</li>
+			<li>Efficient</li>
+			<li>Lifespan</li>
+			<li>Superb Cooling</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="https://amzn.to/2ubsRaq">Check Price</a></td>
 	</tr>
 </table>
+</div>
 
 <div class="featured-info-box">
 <span>Quiet Pick</span>
