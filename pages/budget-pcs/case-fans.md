@@ -50,6 +50,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 			<li>CFM</li>
 			<li>Silent</li>
 			<li>Reliable</li>
+			<li>Powerful</li>
 			</ul>
 		</td>
 		<td>
@@ -64,6 +65,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 			<li>PWM</li>
 			<li>Airflow</li>
 			<li>Quiet</li>
+			<li>Design</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2m8zQNb">Check Price</a></td>
@@ -77,6 +79,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 			<li>Powerful</li>
 			<li>Efficient</li>
 			<li>Lifespan</li>
+			<li>Looks</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2ubsRaq">Check Price</a></td>
