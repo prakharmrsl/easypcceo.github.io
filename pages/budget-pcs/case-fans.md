@@ -47,7 +47,6 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2qU4jRf"><img class="table-image" alt="Noctua NF-A8 case fan" src="/img/case-fans/noctua-nf-a8-flx.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Powerful</li>
 			<li>CFM</li>
 			<li>Silent</li>
 			<li>Reliable</li>
@@ -62,7 +61,6 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 		<td><a rel="nofollow" target="_blank" href="https://amzn.to/2m8zQNb"><img class="table-image" alt="Arctic F12 pwm pst case fan" src="/img/case-fans/arctic-f12-pwm.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Design</li>
 			<li>PWM</li>
 			<li>Airflow</li>
 			<li>Quiet</li>
@@ -79,7 +77,6 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 			<li>Powerful</li>
 			<li>Efficient</li>
 			<li>Lifespan</li>
-			<li>Looks</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="https://amzn.to/2ubsRaq">Check Price</a></td>
