@@ -126,7 +126,7 @@ Finding the smallest full size ATX case in 2018 can be challenging. In an effort
 </div>
 
 The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
-Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and case fans, which is especially nice in a small ATX case. 
+Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and [case fans](/budget-pcs/case-fans/), which is especially nice in a small ATX case. 
 
 <div class="featured-info-box">
 <span>Runner Up</span>
@@ -241,7 +241,7 @@ Since cases are responsible for housing motherboards, cases are categorized in t
 
 A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
 
-**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. *Airflow is incredibly important!* 
+**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using [80mm](/budget-pcs/case-fans/80mm/), [120mm](/budget-pcs/case-fans/120mm/), or [140mm](/budget-pcs/case-fans/140mm/) case fans, *airflow is incredibly important!* 
 
 You may find this PC airflow guide helpful: 
 
