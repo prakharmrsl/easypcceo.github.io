@@ -9,6 +9,7 @@ seotitle: "3 Best Fan Controller Reviews of 2018 (Comparison)"
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+![NZXT Sentry 3](/img/case-fans/sentry-3.jpg){: .img-right .img-small}
 
 Here's the deal: 
 
@@ -137,12 +138,60 @@ You can use the Corsair Link software to control all of the connected fans and R
 
 Unfortunately, this fan controller only supports 3-pin fan headers. However, it does allow you to control the speed of all of the 3-pin fans that otherwise would not have a PWM function. It doesn't have any fancy features or crazy software, but it's also less than $20. If you're on a budget, this fan controller gets the job done – it's simple, reliable, and best of all, it's cheap. 
 
+## What is a Fan Controller?
+
+A fan controller is a device used to manage the rotational speed of a PC case fan. Various types of case fans are used to provide adequate cooling to components, some of which without the ability to regulate their own speed. 
+
+Fan controllers are used to – either manually or automatically – case fans' speed according to temperature and noise production. 
+
+However, not all case fan controllers were created equally. Some are loaded with plenty of awesome features, modes, and connections, whereas others are barebones controllers without even an interface. 
+
+You can find internal fan controllers and external fan controllers. External fan controllers like the NZXT Sentry 3 can be mounted in your case's 5.25-inch drive bay and controlled via a physical interface. The Sentry 3 has a nice touch screen that allows you to easily adjust your fans' speed, and you can link them together too. 
+
+Internal fan controllers, on the other hand, live inside of your case. After connecting them to your motherboard, you can adjust your fans' speed via your fan controller software. I personally prefer external fan controllers that allow you to physically adjust fan speed, but that's just my opinion. 
+
+![Corsair Commander Pro Box](/img/case-fans/commander-pro-box.png){: .img-middle}
+
+With all of these different options, which fan controller is best for you? Do you even need a fan controller? 
+
+At least when it comes to your case fans, a fan controller isn't entirely necesary. Your case fans have to constantly circulate a stream of cool air to your components. If they're doing so while running at the same preset speed, they'll do just fine. 
+
+Nevertheless, running your fans at the same speed at all times is not the best way to cool your PC – by adjusting your fans' speed according to temperature, you'll save electricity while simultaneously reducing noise. There's no point in having them run at full speed at all times, even when you're not performing intensive operations. 
+
+Being able to control the speed of your fans, either with fan controller software or via a physical interface, is always nice. Fan controllers don't have to break the bank either. Of course, there are expensive, premium fan controllers on the market, but you can easily find a cheap fan controller that gets the job done for less than $20. 
+
+If you're having trouble deciding which is best for you, check out our fan reviews below. Each of the three fan controllers on our list are superb – you can't go wrong! 
+
+## Things to Keep in Mind 
+
+With so many different fan controllers available, each with their own features and specifications, it can be difficult to know which is best for you. Some may not even know if a fan controller is compatible with their system. 
+
+Don't worry – if you keep the following things in mind, you'll make the right choice: 
+
+**Speed control options:** Fan speed is controlled by adjusting the fan's voltage. Figure out how the fan controller adjusts speed. Does it only allow you to choose between a few settings? Can you choose any rotational speed from 0 RPM to the fan's maximum rotation speed? Both of are questions you should be asking before you buy a fan controller. You should make a decision based on your own specific needs. It's also important to remember that faster rotation speeds result in more wear and tear and, as a consequence, a shorter lifespan. Fan lifespan is not determined by speed alone; a fan's bearing type and build quality has the most significant impact on lifespan. 
+
+Compatibility
+A suitable fan controller should work smoothly with different operating systems and allow for multiple pin fans in the market today. Always check out this critical feature before investing on your device.
+
+Performance
+Different fan controllers can perform well with accuracy. While a fan controller is designated to help keep your PC temperatures favorable, investing on a fan which is noisy can cause un-conducive working environment.
+
+Operation mode
+Most fan controllers in the market have the automatic or manual modes. While these features give you control over your system by customizing your fan speeds and temperatures, auto mode fans tend to save you lots of stress and hassles of having to operate your device using switches or knobs.
+
+Design
+While fan controllers are tailored to help the user control high CPU temperature, not all of them will support your PC. This is why some devices will restrict you from using specific fan pins. Consider investing in a device that allows for several pin connections.
+
+Temperature analysis
+Invest on devices that have the capability of analyzing your temperatures. A good fan controller should automatically alert you when the temperatures go to extreme levels.
+
+User interface
+Your device UI should be friendly to allow you to take full control of the system.
+
 ## Best Fan Controller Software 
 
-## Best Internal Fan Controller 
-
-## NZXT Fan Controller 
-
-## External Fan Controller
-
 ## Best Fan Hub 
+
+## Fan Controller Reviews 
+
+## Conclusion 
