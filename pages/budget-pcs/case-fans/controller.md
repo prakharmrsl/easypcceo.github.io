@@ -1,0 +1,148 @@
+---
+title: "The Best PC Fan Controller Reviews of 2018"
+permalink: "/budget-pcs/case-fans/controller/"
+layout: page
+seotitle: "3 Best Fan Controller Reviews of 2018 (Comparison)" 
+---
+<h3 class="page-subtitle">
+	Updated December 19th, 2018 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+
+Here's the deal: 
+
+If you're looking for the best fan controller on the market, you've come to the right place. I've created the ultimate list of the best fan controllers money can buy so you can make the best decision when purchasing your next fan controller! 
+
+After hours of testing, I've concluded that the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"} is the best external fan controller on the market. 
+
+Keep reading to find out about the best internal fan controller, and the best budget fan controller! 
+
+## Best Fan Controller Options 
+
+When it comes to cooling your PC, choosing the right [case fans](/budget-pcs/case-fans/) is crucial. 
+
+Not only are they responsible for cooling your components, they also have to be quiet during operation! 
+
+Some case fans have a PWM function which allows you to control their speed – however, this is usually only the case for premium (and more expensive) case fans. 
+
+Moreover, what if you want to daisy-chain your fans together, controlling all of their speeds at the same time? 
+
+That's where a fan controller comes in. With the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"}, you can daisy-chain up to five case fans together, allowing you to control all of them at once. Conversely, you can also hook each fan up to its own channel, controlling each individually. 
+
+In any event, here are the three best fan controllers of 2018: 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Controller</th>
+		<th>Image</th>
+		<th>Benefits</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td>NZXT Sentry 3</td>
+		<td><a target="_blank" href="https://amzn.to/2LqplAr"><img class="table-image" src="/img/case-fans/nzxt-sentry-3.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Features</li>
+			<li>Long-lasting</li>
+			<li>Compatibility</li>
+			</ul>
+		</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2LqplAr">View Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td>Corsair Commander Pro</td>
+		<td><a target="_blank" href="https://amzn.to/2EDWwzY"><img class="table-image" src="/img/case-fans/corsair-commander-pro.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Monitors Temperature</li>
+			<li>Complete Control</li>
+			<li>Slim Design</li>
+			</ul>
+		</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2EDWwzY">View Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td>Kingwin FPX-001</td>
+		<td><a target="_blank" href="https://amzn.to/2LuJyFy"><img class="table-image" src="/img/case-fans/kingwin-fpx-001.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Cheap</li>
+			<li>Controls 4 Fans</li>
+			<li>Easy installation</li>
+			</ul>
+		</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2LuJyFy">View Lowest Prices</a></td>
+	</tr>
+</table>
+
+<div class="featured-info-box">
+<span>First Choice</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="NZXT Sentry 3" src="/img/case-fans/nzxt-sentry-3.jpg" /></a>
+</div>
+<div class="text">
+<h2>NZXT Sentry 3</h2>
+<h3>External Fan Controller</h3>
+<p>The NZXT Sentry 3 is a front panel fan controller sporting a high-quality touchscreen. Combining aesthetics and functionality, the Sentry 3 supports both 3-pin and 4-pin connectors, controlling a maximum of five fans at one time.</p>
+<div class="btn">
+<a class="learn-button cta-button" href="#">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LqplAr">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+This fan controller ships with an included temperature sensor which can be mounted anywhere in the case. You can choose between controlling the fan speeds manually, or letting them adjust themselves automatically based on the case's internal temperature. This is the best way to minimize noise, as your fans won't spin faster than they need to. 
+
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2EDWwzY"><img alt="Corsair Commander Pro" src="/img/case-fans/corsair-commander-pro.jpg" /></a>
+</div>
+<div class="text">
+<h2>Corsair Commander Pro</h2>
+<h3>Internal Fan Controller</h3>
+<p>Corsair's Commander Pro is the best internal fan controller on the market. It supports up to six 4-pin fan connectors, in addition to two connectors for RGB lighting, two USB 2.0 headers, and four individual thermistor inputs for anyone interested in monitoring their case's temperatures. </p>
+<div class="btn">
+<a class="learn-button cta-button" href="#">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2EDWwzY">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+You can use the Corsair Link software to control all of the connected fans and RGB lights. The Corsair Commander Pro is an awesome combination of versatility, functionality, and simplicity. Moreover, Corsair's excellent control software makes it easy to manage your case fans and RGB lighting, all in one place. 
+
+<div class="featured-info-box">
+<span>Budget Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2LuJyFy"><img alt="Kingwin FPX-001" src="/img/case-fans/kingwin-fpx-001.jpg" /></a>
+</div>
+<div class="text">
+<h2>Kingwin FPX-001</h2>
+<h3>Cheap Fan Controller</h3>
+<p>The Kingwin FPX-001 is an affordable fan controller than can effectively control your fans' speed and noise without breaking the bank. It's easy to install, fitting well into standard 3.5" drive bays. It can control up to four fans at once.</p>
+<div class="btn">
+<a class="learn-button cta-button" href="#">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LuJyFy">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+Unfortunately, this fan controller only supports 3-pin fan headers. However, it does allow you to control the speed of all of the 3-pin fans that otherwise would not have a PWM function. It doesn't have any fancy features or crazy software, but it's also less than $20. If you're on a budget, this fan controller gets the job done – it's simple, reliable, and best of all, it's cheap. 
+
+## Best Fan Controller Software 
+
+## Best Internal Fan Controller 
+
+## NZXT Fan Controller 
+
+## External Fan Controller
+
+## Best Fan Hub 
