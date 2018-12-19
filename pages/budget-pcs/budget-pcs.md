@@ -142,7 +142,7 @@ You might think a good gaming PC goes for around $700-$800. If you bought your P
 
 This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
 
-Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
+Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medium-high settings with acceptable framerates. The case also features an [80mm case fan](/budget-pcs/case-fans/80mm/) and a [120mm case fan](/budget-pcs/case-fans/120mm/) to keep your components cool during operation. 
 
 <table class="basic-table" align="center">
 	<tr>
