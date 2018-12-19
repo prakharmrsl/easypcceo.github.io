@@ -173,8 +173,8 @@ Don't worry – if you keep the following things in mind, you'll make the right 
 **Compatibility:** A good fan controller should be compatible with different operating systems. Ideally, a fan controller is compatible with 3-pin and 4-pin fan connectors, although most budget fan controllers are only compatible with 3-pin connectors. By the way, 4-pin fan connectors have a PWM feature, whereas 3-pin connectors don't. Supporting the wrong type of fan connector is the biggest fan controller compatibility issue, so make sure your fan controller of choice supports 4-pin fan connectors if you have PWM case fans. 
 
 <figure>
-<img class="img-middle" src="/img/case-fans/controller.jpg" alt="internal fan controller">
-<figcaption><p>Pictured above is an internal fan controller. It doesn't have a manual UI – instead, you adjust fan speed with fan controller software on your computer.</p></figcaption>
+<img class="img-middle" src="/img/case-fans/fan-controller.jpg" alt="internal fan controller">
+<figcaption><p>Pictured above is an internal fan controller. It doesn't have a manual UI – instead, you adjust fan speed with fan controller software on your computer. Notice that this fan controller also only has 3-pin fan connectors, as opposed to supporting 4-pin fan headers as well.</p></figcaption>
 </figure>
 
 **Temperature monitoring:** Many premium fan controllers these days can automatically adjust fan speed by monitoring the system temperature. Automatic fan controllers save electricity and reduce noise by running your fans at the appropriate speed at all times. It's an awesome feature, but not all fan controllers have it. 
