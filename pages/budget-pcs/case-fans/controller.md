@@ -170,23 +170,16 @@ Don't worry – if you keep the following things in mind, you'll make the right 
 
 **Speed control options:** Fan speed is controlled by adjusting the fan's voltage. Figure out how the fan controller adjusts speed. Does it only allow you to choose between a few settings? Can you choose any rotational speed from 0 RPM to the fan's maximum rotation speed? Both of are questions you should be asking before you buy a fan controller. You should make a decision based on your own specific needs. It's also important to remember that faster rotation speeds result in more wear and tear and, as a consequence, a shorter lifespan. Fan lifespan is not determined by speed alone; a fan's bearing type and build quality has the most significant impact on lifespan. 
 
-Compatibility
-A suitable fan controller should work smoothly with different operating systems and allow for multiple pin fans in the market today. Always check out this critical feature before investing on your device.
+**Compatibility:** A good fan controller should be compatible with different operating systems. Ideally, a fan controller is compatible with 3-pin and 4-pin fan connectors, although most budget fan controllers are only compatible with 3-pin connectors. By the way, 4-pin fan connectors have a PWM feature, whereas 3-pin connectors don't. Supporting the wrong type of fan connector is the biggest fan controller compatibility issue, so make sure your fan controller of choice supports 4-pin fan connectors if you have PWM case fans. 
 
-Performance
-Different fan controllers can perform well with accuracy. While a fan controller is designated to help keep your PC temperatures favorable, investing on a fan which is noisy can cause un-conducive working environment.
+<figure>
+<img class="img-middle" src="/img/case-fans/controller.jpg" alt="internal fan controller">
+<figcaption><p>Pictured above is an internal fan controller. It doesn't have a manual UI – instead, you adjust fan speed with fan controller software on your computer.</p></figcaption>
+</figure>
 
-Operation mode
-Most fan controllers in the market have the automatic or manual modes. While these features give you control over your system by customizing your fan speeds and temperatures, auto mode fans tend to save you lots of stress and hassles of having to operate your device using switches or knobs.
+**Temperature monitoring:** Many premium fan controllers these days can automatically adjust fan speed by monitoring the system temperature. Automatic fan controllers save electricity and reduce noise by running your fans at the appropriate speed at all times. It's an awesome feature, but not all fan controllers have it. 
 
-Design
-While fan controllers are tailored to help the user control high CPU temperature, not all of them will support your PC. This is why some devices will restrict you from using specific fan pins. Consider investing in a device that allows for several pin connections.
-
-Temperature analysis
-Invest on devices that have the capability of analyzing your temperatures. A good fan controller should automatically alert you when the temperatures go to extreme levels.
-
-User interface
-Your device UI should be friendly to allow you to take full control of the system.
+**External or internal:** Some fan controllers are external – they can be mounted in the case's 5.25-inch drive bay or outside of the case altogether. They usually have a user interface like a touch screen, control knobs, or buttons. On the other hand, internal fan controllers live inside of the case and are controlled with fan controller software on your computer. At the end of the day, choosing between an internal or external fan controller comes down to a matter of personal preference. Some popular case manufacturers are starting to remove 5.25-inch drive bays from their cases altogether, especially in smaller Micro-ATX and Mini-ITX cases. Even some [small ATX cases](/budget-pcs/smallest-atx-cases/) don't have 5.25-inch bays anymore. With that being said, if you buy a fan controller like the NZXT Sentry 3 that's mounted in a 5.25-inch bay, you need to make sure your case actually has one first. 
 
 ## Best Fan Controller Software 
 
