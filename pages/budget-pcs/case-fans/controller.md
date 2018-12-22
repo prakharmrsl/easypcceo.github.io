@@ -183,7 +183,19 @@ Don't worry – if you keep the following things in mind, you'll make the right 
 
 ## Best Fan Controller Software 
 
+Most motherboards' BIOS allow you to control your fan speed, but if you have a dedicated fan controller you'll probably want to download a fan controller software. Many fan controller softwares even allow you to control your case's RGB lighting color scheme as well. 
+
+Some fan controllers come with a fan controller software created by manufacturer, such as Corsair's Link software that comes with the Corsair Commander Pro. Even if your fan controller doesn't have its own unique software, it should be compatible with free software. 
+
+You can use a free fan controller software like <a target="_blank" rel="nofollow" href="https://speedfan.en.softonic.com/">Speedfan</a></li> to control your fans. If you need help setting up Speedfan, follow this <a target="_blank" rel="nofollow" href="https://www.howtogeek.com/275339/how-to-auto-control-your-pcs-fans-for-cool-quiet-operation/">tutorial</a>.
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1OkBRELqEgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Best Fan Hub 
+
+You may only have a few fan connectors on your motherboard
 
 ## Fan Controller Reviews 
 
