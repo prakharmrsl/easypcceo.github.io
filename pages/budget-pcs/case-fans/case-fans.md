@@ -78,7 +78,7 @@ Before you buy your next set of case fans, it's important to consider the follow
 
 * **Size** – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
 
-* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans, so pay close attention to your fan's [dBa](https://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa){: target="_blank"} noise level. 
+* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans, so pay close attention to your fan's <a target="_blank" rel="nofollow" href="https://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa">dBa</a> noise level. 
 
 * **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
 
