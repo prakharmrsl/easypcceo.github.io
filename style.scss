@@ -1529,7 +1529,7 @@ blockquote p {
    position: relative;
    > span {
      position: absolute;
-     top: 0;
+     top: -1px;
      left: 0;
      background: #212121;
      color: #fff;
