@@ -89,7 +89,7 @@ In any event, here are the three best fan controllers of 2018:
 <h3>External Fan Controller</h3>
 <p>The NZXT Sentry 3 is a front panel fan controller sporting a high-quality touchscreen. Combining aesthetics and functionality, the Sentry 3 supports both 3-pin and 4-pin connectors, controlling a maximum of five fans at one time.</p>
 <div class="btn">
-<a class="learn-button cta-button" href="#">Read Review </a>
+<a class="learn-button cta-button" href="#nzxt-sentry-3">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LqplAr">Check Price </a>
 </div>
 </div>
@@ -215,5 +215,77 @@ Here are some popular fan hubs to consider:
 * [Thermaltake Commander FX](https://amzn.to/2rYKh8X){: target="_blank"}
 
 ## Fan Controller Reviews 
+
+Now we're going to take a closer look at each of the three fan controllers. We'll talk about the specifications of each fan controller, their pros and cons, unique features, and other details that we didn't touch on earlier. 
+
+<div class="featured-specs-box">
+<h2 id="nzxt-sentry-3">
+<span>#1</span> <a href="https://amzn.to/2LqplAr" target="_blank">NZXT Sentry 3</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="NZXT Sentry 3" src="/img/case-fans/nzxt-sentry-3.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>3-pin & 4-pin</span></p>
+<p><span>Dimensions (HxWxD)</span><span>129mm x 31mm </span></p>
+<p><span>Fan Channels</span><span>5</span></p>
+<p><span>Control</span><span>Touch Screen</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Quiet</li>
+<li>Supports vertically mounted GPUs</li>
+<li>Spacious interior</li>
+<li>Cable management</li>
+<li>Good price</li>
+<li>Superb layout</li>
+<li>Two RGB lighting strips</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Weird fan placement</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LqplAr">Check Price</a>
+</div>
+</div>
+
+Mounted in your case's 5.25-inch drive bay, the Sentry 3 has a large touchscreen display that is used to control the device. From an aesthetics standpoint, the Sentry 3's interface is far better than its predecessor, the Sentry 2, and it's easier to use as well. 
+
+You can link up to five fans to this fan controller, controlling their speeds either individually or all at once. This is one of the Sentry 3's coolest features. Rather than having to individually program each fan's speed, you can simply adjust a group of fans all at once. 
+
+Moreover, the Sentry 3 includes a temperature sensor which can be attached directly to your CPU or any other part of your rig, allowing the fan controller to monitor the temperature of the case. You can view the temperature of the case's interior in Degrees Celcius or Fahrenheit, and you can view the the speed of your fans in RPM or as a percentage of their maximum capacity all on the Sentry 3's touchscreen control panel. 
+
+The fan consumes a maximum of 75 watts, delivering up to 15 watts per channel to each connected case fan. This is especially useful for powering bigger case fans that need higher wattages to operate at their maximum speed, such as [120mm](/budget-pcs/case-fans/120mm/) and [140mm case fans](/budget-pcs/case-fans/140mm/). 
+
+Check out this quick video overview of the NZXT's Sentry 3: 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5xegoiEYqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+The fan controller has three different control modes: 
+
+* **Performance Mode:** The fans automatically operate at their full capacity for maximum cooling.
+
+* **Quiet Mode:** The fans run at roughly half of their maximum speed to reduce noise. This is particularly useful when you're not performing demanding tasks that generate a lot of heat, such as watching movies or surfing the web. 
+
+* **Manual Mode:** In this mode, as the name would imply, you can manually set the speed of each fan individually, or a group of fans that you've daisy-chained together. 
+
+Setting up the Sentry 3 is easy – simply plug the fans in and power the fan controller with your PSU and you're all set. The touchscreen is responsive, but the viewing angle could be better. On the other hand, it's not like you'll have a bunch of people crowded around the fan controller screen watching it, so it isn't a big deal. 
+
+The fan has an alarm which goes off when a fan fails or becomes disconnected from the controller. The channel experiencing the issue will blink until the problem is solved. This feature is especially useful when you need to diagnose an issue with your system. 
+
+The alarm has three volumes – mute, medium and loud. When a fan fails or gets disconnected, it will trigger the alarm and the number of the channel from which that fan(s) is/are connected will blink continuously together with the alarm.
+
+If you want to be able to control your fan speed precisely from 0 to 100, you may want a different fan controller, as this one starts at 0%, then 40% and moves up from there with 10% intervals. 
+
+In summary, the NZXT Sentry 3 is a superb fan controller – that's why it's number one on our list. Its alarm won't shut off until power is disconnected which is a bit annoying, the viewing angle isn't stellar, and fan speed cannot be adjusted exactly. These issues will hopefully be improved upon in the next generation. 
+
+Nevertheless, the controller is still a solid product overall with a great and easy-to-use interface, as these are only minor complaints. The NZXT Sentry 3 comes with plenty of awesome features, including the Link feature which allows you to group together multiple fans at once. 
+
+All in all, the NZXT Sentry 3 is a great product with a fair price. If you're interested in a touch-screen type fan controller, the Sentry 3 is for you. 
 
 ## Conclusion 
