@@ -234,17 +234,15 @@ Now we're going to take a closer look at each of the three fan controllers. We'l
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Quiet</li>
-<li>Supports vertically mounted GPUs</li>
-<li>Spacious interior</li>
-<li>Cable management</li>
-<li>Good price</li>
-<li>Superb layout</li>
-<li>Two RGB lighting strips</li>
+<li>Easy install</li>
+<li>Touch screen</li>
+<li>Monitors T=temperature</li>
+<li>Link fans together</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>Weird fan placement</li>
+<li>Incremental speed adjustment</li>
+<li>Poor screen viewing angle</li>
 </ul>
 </div>
 <div class="btn">
