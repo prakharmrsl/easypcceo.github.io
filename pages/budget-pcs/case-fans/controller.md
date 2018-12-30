@@ -223,7 +223,7 @@ Now we're going to take a closer look at each of the three fan controllers. We'l
 <span>#1</span> <a href="https://amzn.to/2LqplAr" target="_blank">NZXT Sentry 3</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="NZXT Sentry 3" src="/img/case-fans/nzxt-sentry-3.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="Corsair Commander Pro" src="/img/case-fans/corsair-commander-pro.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>3-pin & 4-pin</span></p>
 <p><span>Dimensions (HxWxD)</span><span>129mm x 31mm </span></p>
@@ -286,4 +286,48 @@ Nevertheless, the controller is still a solid product overall with a great and e
 
 All in all, the NZXT Sentry 3 is a great product with a fair price. If you're interested in a touch-screen type fan controller, the Sentry 3 is for you. 
 
-## Conclusion 
+<div class="featured-specs-box">
+<h2 id="nzxt-sentry-3">
+<span>#2</span> <a href="https://amzn.to/2EDWwzY" target="_blank">Corsair Commander Pro</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2EDWwzY"><img alt="Corsair Commander Pro" src="/img/case-fans/corsair-commander-pro.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>3-pin & 4-pin</span></p>
+<p><span>Dimensions (HxWxD)</span><span>133mm x 69mm </span></p>
+<p><span>Fan Channels</span><span>6</span></p>
+<p><span>Control</span><span>Software</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Easy install</li>
+<li>Touch screen</li>
+<li>Monitors Temperature</li>
+<li>Link fans together</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Incremental speed adjustment</li>
+<li>Poor screen viewing angle</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2EDWwzY">Check Price</a>
+</div>
+</div>
+
+The Corsair Commander Pro is an all-in-one hub that makes it easy for you to control both your case fans and LED lights in the same place. You can connect up to six 3-pin or 4-pin connectors to the hub, four temperature sensor headers, and it even has two USB headers. 
+
+It is powered via a SATA power connector, and connects to your motherboard via one of the USB headers. Then, you use Corsair's Link software to control your fan speed and lighting setup easily from your desktop. The other USB header allows you to connect the Corsair Lighting Node Pro, if you want to add that to your setup. 
+
+Although the Commander Pro supports both 4-pin and 3-pin fans, it only supports 3-pin RGB LED strips. The controller itself is slim and can be mounted in tight spaces inside your motherboard, which is perfect if you have a [small case](/budget-pcs/smallest-atx-cases/). It can even be placed behind a motherboard tray. 
+
+Once your fans and lights are connected to the Corsair Commander Pro, you'll have to download Corsair's LINK software. It lets you monitor and control your fans' speed, monitor your case's internal temperature thanks to the Commander Pro's included thermal sensor. 
+
+The software is fantastic and easy to use. It lives up to its name, linking all of your case accessories together in one convenient place. If you're using a lot of Corsair components, you can monitor everything with Corsair's LINK software. 
+
+The quality of Corsair's Commander Pro is excellent and, although the controller is expensive, you certainly get what you pay for. The Corsair Commander Pro is mainly a fan controller. If you want to have total control over several 3-pin and 4-pin lighting strips, you'll have to get the Lighting Node Pro as well. 
+
+All in all, it's a solid product from a reputable company, and it's a superb fan controller! 
