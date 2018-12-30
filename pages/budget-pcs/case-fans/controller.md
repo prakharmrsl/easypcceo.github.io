@@ -195,7 +195,24 @@ You can use a free fan controller software like <a target="_blank" rel="nofollow
 
 ## Best Fan Hub 
 
-You may only have a few fan connectors on your motherboard
+Sometimes you'll want to install more case fans than your motherboard supports, for whatever reason. 
+
+You could use fan splitters, which allow you to connect two case fans to a single motherboard fan connector. However, this isn't always the best solution. 
+
+If you have a bunch of fans, you may be drawing too much power from a single fan connector on your motherboard, resulting in a power surge which could potentially damage or destroy your motherboard altogether. 
+
+Alternatively, you could use a fan hub, which has plenty of case fan connectors and is powered by an external power source, usually from your power supply. 
+
+![Case Fan Hub](/img/case-fans/case-fan-hub.jpg){: .img-middle}
+
+This way you can connect as many case fans as you need to cool your system without having to worry about how many fans your motherboard supports or damaging your system.  
+
+Here are some popular fan hubs to consider: 
+
+* [Electop Chassis Fan Hub (10 Port)](https://amzn.to/2CFltsG){: target="_blank"}
+* [Silverstone PWM Fan Hub CPF04](https://amzn.to/2CGZ128){: target="_blank"}
+* [Deepcool FH-10](https://amzn.to/2rYKoBp){: target="_blank"}
+* [Thermaltake Commander FX](https://amzn.to/2rYKh8X){: target="_blank"}
 
 ## Fan Controller Reviews 
 
