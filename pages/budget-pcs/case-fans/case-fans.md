@@ -87,7 +87,6 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 </table>
 </div>
 
-<<<<<<< HEAD
 <div class="featured-info-box">
 <span>Quiet Pick</span>
 <div class="content">
@@ -105,25 +104,6 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 </div>
 </div>
 </div>
-=======
-## Case Fan Buying Guide
-
-Before you buy your next set of case fans, it's important to consider the following:
-
-* **Size** – The size of your fans matter. The most commonly used case fan sizes are 80mm, 120mm, and 140mm. If possible, buy 140mm case fans, as they provide the best airflow at lower RPMs (since they're the biggest, they push more air at the same RPM as a smaller fan.)
-
-* **Noise** – If you're anything like me, noisy case fans drive you insane. Noise level is especially important if you want to make YouTube videos or stream to Twitch. You definitely don't want noisy case fans, so pay close attention to your fan's <a target="_blank" rel="nofollow" href="https://whatis.techtarget.com/definition/A-weighted-decibels-dBA-or-dBa-or-dBa">dBa</a> noise level. 
-
-* **Airflow** – This one is obvious, so I'm not going to go into detail about it – just make sure your fans provide adequate airflow.
-
-* **Type of Power Connector** - Fans that connect to the motherboard usually have 2 Pins. The 3 Pin fans have a tachometer signal that allows the motherboard to read the fan’s RPMs, and the 4 Pin connector fans have PWM signal for speed control. Also, make sure your motherboard has enough fan connectors to accommodate all of your fans. 
-
-* **Cosmetics** – Lastly, you'll want to make sure your fans look cool! There are many different designs to choose from. Don't be afraid to search until you find the right fans for you. 
-
-## Best PC Fan for Gaming 
-
-Although some companies advertise their fans as 'gaming fans,' they aren't any different from regular fans. 
->>>>>>> ba769706760540d067b7bbfda5214e0e2efcd393
 
 Featuring Noctua’s <a target="_blank" rel="nofollow" href="https://noctua.at/en/aao-frame">AAO</a> (Advanced Acoustic Optimisation) frame and flow acceleration channels to further improve the fan’s quiet cooling performance, this award-winning 80mm case fan has it all. You can choose between 2000/1650/1200 RPM speed settings via the fan’s included Low-Noise adaptors, giving you the flexibility to configure your fan exactly as you need.
 
