@@ -14,4 +14,3 @@ seotitle: "test"
 <div class="block">
 <h2>$700 BUILD</h2>
 </div> 
-
