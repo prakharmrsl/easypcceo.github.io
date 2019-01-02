@@ -19,13 +19,25 @@ After hours of testing, I've concluded that the [NZXT Sentry 3](https://amzn.to/
 
 Keep reading to find out about the best internal fan controller, and the best budget fan controller! 
 
+<div class="toc-box">
+	<ul>
+  		<li><a href="#best-fan-controller-options" id="markdown-toc-best-fan-controller-options">Best Fan Controller Options</a></li>
+  		<li><a href="#what-is-a-fan-controller" id="markdown-toc-what-is-a-fan-controller">What is a Fan Controller?</a></li>
+  		<li><a href="#things-to-keep-in-mind" id="markdown-toc-things-to-keep-in-mind">Things to Keep in Mind</a></li>
+  		<li><a href="#best-fan-controller-software" id="markdown-toc-best-fan-controller-software">Best Fan Controller Software</a></li>
+  		<li><a href="#best-fan-hub" id="markdown-toc-best-fan-hub">Best Fan Hub</a></li>
+  		<li><a href="#fan-controller-reviews" id="markdown-toc-fan-controller-reviews">Fan Controller Reviews</a></li>
+  		<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+	</ul>
+</div>
+
 ## Best Fan Controller Options 
 
-When it comes to cooling your PC, choosing the right [case fans](/budget-pcs/case-fans/) is crucial. 
+When it comes to cooling your PC, choosing the right [case fans](/budget-pcs/case-fans/) is crucial, no matter their size (case fans come in all different sizes, including [80mm](/budget-pcs/case-fans/80mm/), [120mm](/budget-pcs/case-fans/120mm/), and [140mm](/budget-pcs/case-fans/140mm/).) 
 
 Not only are they responsible for cooling your components, they also have to be quiet during operation! 
 
-Some case fans have a PWM function which allows you to control their speed – however, this is usually only the case for premium (and more expensive) case fans. 
+Some case fans have a <a target="_blank" rel="nofollow" href="https://en.wikipedia.org/wiki/Computer_fan_control">PWM</a> function which allows you to control their speed – however, this is usually only the case for premium (and more expensive) case fans. 
 
 Moreover, what if you want to daisy-chain your fans together, controlling all of their speeds at the same time? 
 
@@ -142,7 +154,7 @@ Unfortunately, this fan controller only supports 3-pin fan headers. However, it 
 
 A fan controller is a device used to manage the rotational speed of a PC case fan. Various types of case fans are used to provide adequate cooling to components, some of which without the ability to regulate their own speed. 
 
-Fan controllers are used to – either manually or automatically – case fans' speed according to temperature and noise production. 
+Fan controllers are used to adjust – either manually or automatically – case fans' speed according to temperature and noise production. 
 
 However, not all case fan controllers were created equally. Some are loaded with plenty of awesome features, modes, and connections, whereas others are barebones controllers without even an interface. 
 
@@ -187,7 +199,7 @@ Most motherboards' BIOS allow you to control your fan speed, but if you have a d
 
 Some fan controllers come with a fan controller software created by manufacturer, such as Corsair's Link software that comes with the Corsair Commander Pro. Even if your fan controller doesn't have its own unique software, it should be compatible with free software. 
 
-You can use a free fan controller software like <a target="_blank" rel="nofollow" href="https://speedfan.en.softonic.com/">Speedfan</a></li> to control your fans. If you need help setting up Speedfan, follow this <a target="_blank" rel="nofollow" href="https://www.howtogeek.com/275339/how-to-auto-control-your-pcs-fans-for-cool-quiet-operation/">tutorial</a>.
+You can use a free fan controller software like <a target="_blank" rel="nofollow" href="https://speedfan.en.softonic.com/">Speedfan</a> to control your fans. If you need help setting up Speedfan, follow this <a target="_blank" rel="nofollow" href="https://www.howtogeek.com/275339/how-to-auto-control-your-pcs-fans-for-cool-quiet-operation/">tutorial</a>.
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1OkBRELqEgM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -256,7 +268,7 @@ You can link up to five fans to this fan controller, controlling their speeds ei
 
 Moreover, the Sentry 3 includes a temperature sensor which can be attached directly to your CPU or any other part of your rig, allowing the fan controller to monitor the temperature of the case. You can view the temperature of the case's interior in Degrees Celcius or Fahrenheit, and you can view the the speed of your fans in RPM or as a percentage of their maximum capacity all on the Sentry 3's touchscreen control panel. 
 
-The fan consumes a maximum of 75 watts, delivering up to 15 watts per channel to each connected case fan. This is especially useful for powering bigger case fans that need higher wattages to operate at their maximum speed, such as [120mm](/budget-pcs/case-fans/120mm/) and [140mm case fans](/budget-pcs/case-fans/140mm/). 
+The fan consumes a maximum of 75 watts, delivering up to 15 watts per channel to each connected case fan. This is especially useful for powering bigger case fans that need higher wattages to operate at their maximum speed, such as 120mm and 140mm case fans. 
 
 Check out this quick video overview of the NZXT's Sentry 3: 
 
