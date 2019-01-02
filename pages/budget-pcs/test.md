@@ -1,6 +1,6 @@
 ---
 title: The Best Gaming PC Under 700 Dollars (2018 Updated)
-permalink: "/budget-pcs/700/"
+permalink: "/budget-pcs/test/"
 layout: page
 seotitle: "#1 Best Gaming PC Under 700 Dollars: Plays ALL Games (2018)" 
 ---
