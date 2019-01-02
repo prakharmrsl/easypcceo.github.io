@@ -1,11 +1,11 @@
 ---
-title: "The Best Gaming Ethernet Cables of 2018"
+title: "The Best Gaming Ethernet Cables of 2019"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "3 Best Ethernet Cable for Gaming on Xbox One, PS4, & PC (2018)" 
+seotitle: "3 Best Ethernet Cable for Gaming on Xbox One, PS4, & PC (2019)" 
 ---
 <h3 class="page-subtitle">
-	Updated October 10th, 2018 by 
+	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -17,7 +17,7 @@ The worst part is, if you're lagging, you can't really do anything about it – 
 
 If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
-In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable. **If you're looking for the best ethernet cables for gaming in 2018, then read on:**  
+In order to establish the best possible connection to your router, you'll want to use the best gaming ethernet cable. **If you're looking for the best ethernet cables for gaming in 2019, then read on:**  
 
 ## Best Gaming Ethernet Cables
 

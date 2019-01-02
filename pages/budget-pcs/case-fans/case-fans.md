@@ -1,18 +1,18 @@
 ---
-title: "The Best Computer Fans of 2018 (Comparison)"
+title: "The Best Computer Fans of 2019 (Comparison)"
 permalink: "/budget-pcs/case-fans/"
 layout: page
-seotitle: "3 Best Case Fans: 80mm, 120mm, & 140mm (2018)" 
+seotitle: "3 Best Case Fans: 80mm, 120mm, & 140mm (2019)" 
 ---
 <h3 class="page-subtitle">
-	Updated December 6th, 2018 by 
+	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
 ![Case Fans Header](/img/header/case-fans.jpg)
 
-If you're in search of the best case fans of 2018, you've come to the right place. 
+If you're in search of the best case fans of 2019, you've come to the right place. 
 
 We'll be taking a look at three of the best case fans: 80mm, 120mm, and 140mm. 
 
@@ -22,7 +22,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 
 <div class="toc-box">
 <ul>
-  <li><a href="#3-best-case-fans-of-2018">Best Case Fans</a></li>
+  <li><a href="#3-best-case-fans-of-2019">Best Case Fans</a></li>
   <li><a href="#best-80mm-case-fan">Best 80mm Case Fan</a></li>		
   <li><a href="#best-120mm-case-fan">Best 120mm Case Fan</a></li>
   <li><a href="#best-140mm-case-fan">Best 140mm Case Fan</a></li>
@@ -30,7 +30,7 @@ After hours of testing, we've concluded that the [best 80mm case fan](/budget-pc
 </ul>
 </div>
 
-## 3 Best Case Fans of 2018
+## 3 Best Case Fans of 2019
 
 <div id="overview">
 <table class="basic-table table-colorful" align="center">
@@ -291,7 +291,7 @@ The only time you should use 120mm case fans over 140mm is if your case can hold
 Cases that have space for a 240mm radiator are also an exception – in that case, it'd be wise to mount two 120mm case fans.
 
 <ul id="markdown-toc">
-  <li><a href="#3-best-case-fans-of-2018">Best Case Fans</a></li>
+  <li><a href="#3-best-case-fans-of-2019">Best Case Fans</a></li>
   <li><a href="#best-80mm-case-fan">Best 80mm Case Fan</a></li>		
   <li><a href="#best-120mm-case-fan">Best 120mm Case Fan</a></li>
   <li><a href="#best-140mm-case-fan">Best 140mm Case Fan</a></li>

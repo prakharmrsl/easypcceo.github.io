@@ -1,11 +1,11 @@
 ---
-title: "The Best Gaming Speakers of 2018 (PC, PS4 and Xbox One)" 
+title: "The Best Gaming Speakers of 2019 (PC, PS4 and Xbox One)" 
 permalink: "/best-gaming-speakers/"
 layout: page
-seotitle: "13 Best Gaming Speakers for Xbox One, PS4 & PC (2018)" 
+seotitle: "13 Best Gaming Speakers for Xbox One, PS4 & PC (2019)" 
 --- 
 <h3 class="page-subtitle">
-	Updated October 13th, 2018 by 
+	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>

@@ -1,11 +1,11 @@
 ---
-title: "The Best PC Fan Controller Reviews of 2018"
+title: "The Best PC Fan Controller Reviews of 2019"
 permalink: "/budget-pcs/case-fans/controller/"
 layout: page
-seotitle: "3 Best Fan Controller Reviews of 2018 (Comparison)" 
+seotitle: "3 Best Fan Controller Reviews of 2019 (Comparison)" 
 ---
 <h3 class="page-subtitle">
-	Updated December 19th, 2018 by 
+	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -31,7 +31,7 @@ Moreover, what if you want to daisy-chain your fans together, controlling all of
 
 That's where a fan controller comes in. With the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"}, you can daisy-chain up to five case fans together, allowing you to control all of them at once. Conversely, you can also hook each fan up to its own channel, controlling each individually. 
 
-In any event, here are the three best fan controllers of 2018: 
+In any event, here are the three best fan controllers of 2019: 
 
 <table class="basic-table" align="center">
 	<tr>

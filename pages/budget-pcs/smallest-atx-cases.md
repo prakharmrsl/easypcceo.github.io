@@ -1,11 +1,11 @@
 ---
-title: The Best Small ATX Cases of 2018  
+title: The Best Small ATX Cases of 2019  
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "5 Smallest ATX Case Reviews of 2018 (Compact)" 
+seotitle: "5 Smallest ATX Case Reviews of 2019 (Compact)" 
 ---
 <h3 class="page-subtitle">
-	Updated November 7th, 2018 by 
+	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -36,7 +36,7 @@ When it comes to building a gaming PC, choosing the right case is incredibly imp
 
 Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
 
-Finding the smallest full size ATX case in 2018 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
+Finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
 
 <table class="basic-table" align="center">
 	<tr>
