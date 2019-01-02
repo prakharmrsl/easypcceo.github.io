@@ -147,6 +147,21 @@ Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arcti
 
 Corsair's advanced hydraulic bearing engine design is clever. They took the common sleeve bearing design and improved it to rival the reliability of a high end product. Sleeve bearings are known to emit less noise than fans with ball bearings, but their lack of lubrication usually means they have significantly shorter life spans.
 
+## Fan Controller 
+![Fan Controller Image](/img/case-fans/kingwin-fpx-001.jpg){: .img-right .img-small}
+
+Having your case fans running at full blast all of the time not only generates a lot of noise but also wastes electricity. 
+
+It's best to adjust your case fans' speed according to the task at hand. 
+
+How can you easily manage all of your case fans in one place? 
+
+With a fan controller! Fan controllers are a great way to monitor fan speed and case temperature. Some fan controllers will even adjust fan speed based on internal temperature. 
+
+They're differently worth the investment. Luckily for you, we have a guide all about them to help you make the right choice. Check it out! 
+
+[Check Out our Fan Controller Guide](/budget-pcs/case-fans/controller/){: .btn-middle}
+
 ## Case Fan Buying Guide
 ![Corsair AF140 Case Fan](/img/case-fans/af-140.jpg){: .img-right .img-small}
 
