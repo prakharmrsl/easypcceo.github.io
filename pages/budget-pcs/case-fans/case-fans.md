@@ -9,7 +9,7 @@ seotitle: "3 Best Case Fans: 80mm, 120mm, & 140mm (2019)"
 	<a href="/about/"><picture>
   <source srcset="/img/profile/close.webp" type="image/webp">
   <source srcset="/img/profile/close.jpg" type="image/jpeg"> 
-  <img src="/img/profile/close.jpg" alt="webp profile picture">
+  <img src="/img/profile/close.jpg" alt="webp new profile picture">
 </picture></a>Jacob Tuwiner</h3>
 
 <picture>
