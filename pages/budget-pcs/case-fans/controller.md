@@ -11,9 +11,9 @@ seotitle: "3 Best Fan Controller Reviews of 2019 (Comparison)"
 </h3>
 ![NZXT Sentry 3](/img/case-fans/sentry-3.jpg){: .img-right .img-small}
 
-Here's the deal: 
+We get it...
 
-If you're looking for the best fan controller on the market, you've come to the right place. I've created the ultimate list of the best fan controllers money can buy so you can make the best decision when purchasing your next fan controller! 
+Choosing the best fan controller for your setup can be tricky. Luckily for you, I've created the ultimate list of the best fan controllers money can buy so you can make the best decision when purchasing your next fan controller! 
 
 After hours of testing, I've concluded that the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"} is the best external fan controller on the market. 
 
