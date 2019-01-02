@@ -14,3 +14,4 @@ seotitle: "#1 Best Gaming PC Under 700 Dollars: Plays ALL Games (2018)"
 <div class="block">
 <h2>$700 BUILD</h2>
 </div> 
+
