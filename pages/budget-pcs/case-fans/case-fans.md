@@ -10,7 +10,11 @@ seotitle: "3 Best Case Fans: 80mm, 120mm, & 140mm (2019)"
 	Jacob Tuwiner
 </h3>
 
-![Case Fans Header](/img/header/case-fans.jpg)
+<picture>
+  <source srcset="/img/header/case-fans.webp" type="image/webp">
+  <source srcset="/img/header/case-fans.jpg" type="image/jpeg"> 
+  <img src="/img/header/case-fans.jpg" alt="Case Fans Page Header">
+</picture>
 
 If you're in search of the best case fans of 2019, you've come to the right place. 
 
