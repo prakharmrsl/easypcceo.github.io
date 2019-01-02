@@ -108,7 +108,7 @@ In any event, here are the three best fan controllers of 2019:
 </div>
 </div>
 
-This fan controller ships with an included temperature sensor which can be mounted anywhere in the case. You can choose between controlling the fan speeds manually, or letting them adjust themselves automatically based on the case's internal temperature. This is the best way to minimize noise, as your fans won't spin faster than they need to. 
+This NZXT fan controller ships with an included temperature sensor which can be mounted anywhere in the case. You can choose between controlling the fan speeds manually, or letting them adjust themselves automatically based on the case's internal temperature. This is the best way to minimize noise, as your fans won't spin faster than they need to. 
 
 <div class="featured-info-box">
 <span>Runner Up</span>
@@ -128,7 +128,7 @@ This fan controller ships with an included temperature sensor which can be mount
 </div>
 </div>
 
-You can use the Corsair Link software to control all of the connected fans and RGB lights. The Corsair Commander Pro is an awesome combination of versatility, functionality, and simplicity. Moreover, Corsair's excellent control software makes it easy to manage your case fans and RGB lighting, all in one place. 
+You can use the Corsair Link software to control all of the connected fans and RGB lights. The Corsair Commander Pro is an awesome PWM fan controller that offers a combination of versatility, functionality, and simplicity. Moreover, Corsair's excellent control software makes it easy to manage your case fans and RGB lighting, all in one place. 
 
 <div class="featured-info-box">
 <span>Budget Pick</span>
