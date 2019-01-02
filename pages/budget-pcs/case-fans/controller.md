@@ -338,11 +338,11 @@ Although the Commander Pro supports both 4-pin and 3-pin fans, it only supports 
 
 Once your fans and lights are connected to the Corsair Commander Pro, you'll have to download Corsair's LINK software. It lets you monitor and control your fans' speed, monitor your case's internal temperature thanks to the Commander Pro's included thermal sensor. 
 
-The software is fantastic and easy to use. It lives up to its name, linking all of your case accessories together in one convenient place. If you're using a lot of Corsair components, you can monitor everything with Corsair's LINK software. 
-
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/uVbT8yA2h4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+The software is fantastic and easy to use. It lives up to its name, linking all of your case accessories together in one convenient place. If you're using a lot of Corsair components, you can monitor everything with Corsair's LINK software. 
 
 The quality of Corsair's Commander Pro is excellent and, although the controller is expensive, you certainly get what you pay for. The Corsair Commander Pro is mainly a fan controller. If you want to have total control over several 3-pin and 4-pin lighting strips, you'll have to get the Lighting Node Pro as well. 
 
