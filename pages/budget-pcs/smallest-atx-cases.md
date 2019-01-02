@@ -215,6 +215,18 @@ The case has carrying handles, making it ideal as a LAN box. The case can also b
 
 The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. 
 
+## Cooling Options 
+
+Even if you're not planning on overclocking your components, you'll still need great case fans to cool your PC.
+
+Although most cases come with stock fans, there often aren't enough fans installed, or they're simply not powerful enough to supply adequate airflow for certain systems. 
+
+Despite all of these cases having pre-installed case fans, you'll probably want to add a few more, either now or in the future. 
+
+Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan controllers](/budget-pcs/case-fans/controller/). 
+
+[Read More](/budget-pcs/case-fans/){: .btn-middle}
+
 ## Case Buying Guide
 
 ![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right .img-small}
