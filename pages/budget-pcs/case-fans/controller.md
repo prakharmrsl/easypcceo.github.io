@@ -109,7 +109,7 @@ This fan controller ships with an included temperature sensor which can be mount
 <h3>Internal Fan Controller</h3>
 <p>Corsair's Commander Pro is the best internal fan controller on the market. It supports up to six 4-pin fan connectors, in addition to two connectors for RGB lighting, two USB 2.0 headers, and four individual thermistor inputs for anyone interested in monitoring their case's temperatures. </p>
 <div class="btn">
-<a class="learn-button cta-button" href="#">Read Review </a>
+<a class="learn-button cta-button" href="#corsair-commander-pro">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2EDWwzY">Check Price </a>
 </div>
 </div>
@@ -129,7 +129,7 @@ You can use the Corsair Link software to control all of the connected fans and R
 <h3>Cheap Fan Controller</h3>
 <p>The Kingwin FPX-001 is an affordable fan controller than can effectively control your fans' speed and noise without breaking the bank. It's easy to install, fitting well into standard 3.5" drive bays. It can control up to four fans at once.</p>
 <div class="btn">
-<a class="learn-button cta-button" href="#">Read Review </a>
+<a class="learn-button cta-button" href="#kingwin-fpx-001">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LuJyFy">Check Price </a>
 </div>
 </div>
@@ -223,10 +223,10 @@ Now we're going to take a closer look at each of the three fan controllers. We'l
 <span>#1</span> <a href="https://amzn.to/2LqplAr" target="_blank">NZXT Sentry 3</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="Corsair Commander Pro" src="/img/case-fans/corsair-commander-pro.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2LqplAr"><img alt="NZXT Sentry 3" src="/img/case-fans/nzxt-sentry-3.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>3-pin & 4-pin</span></p>
-<p><span>Dimensions (HxWxD)</span><span>129mm x 31mm </span></p>
+<p><span>Dimensions (LxW)</span><span>129mm x 31mm </span></p>
 <p><span>Fan Channels</span><span>5</span></p>
 <p><span>Control</span><span>Touch Screen</span></p>
 </div>
@@ -236,7 +236,7 @@ Now we're going to take a closer look at each of the three fan controllers. We'l
 <span>Pros:</span>
 <li>Easy install</li>
 <li>Touch screen</li>
-<li>Monitors T=temperature</li>
+<li>Monitors temperature</li>
 <li>Link fans together</li>
 </ul>
 <ul class="cons">
@@ -287,14 +287,14 @@ Nevertheless, the controller is still a solid product overall with a great and e
 All in all, the NZXT Sentry 3 is a great product with a fair price. If you're interested in a touch-screen type fan controller, the Sentry 3 is for you. 
 
 <div class="featured-specs-box">
-<h2 id="nzxt-sentry-3">
+<h2 id="corsair-commander-pro">
 <span>#2</span> <a href="https://amzn.to/2EDWwzY" target="_blank">Corsair Commander Pro</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2EDWwzY"><img alt="Corsair Commander Pro" src="/img/case-fans/corsair-commander-pro.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>3-pin & 4-pin</span></p>
-<p><span>Dimensions (HxWxD)</span><span>133mm x 69mm </span></p>
+<p><span>Dimensions (LxWxH)</span><span>133mm x 69mm x 15.5mm</span></p>
 <p><span>Fan Channels</span><span>6</span></p>
 <p><span>Control</span><span>Software</span></p>
 </div>
@@ -328,6 +328,67 @@ Once your fans and lights are connected to the Corsair Commander Pro, you'll hav
 
 The software is fantastic and easy to use. It lives up to its name, linking all of your case accessories together in one convenient place. If you're using a lot of Corsair components, you can monitor everything with Corsair's LINK software. 
 
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/uVbT8yA2h4I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 The quality of Corsair's Commander Pro is excellent and, although the controller is expensive, you certainly get what you pay for. The Corsair Commander Pro is mainly a fan controller. If you want to have total control over several 3-pin and 4-pin lighting strips, you'll have to get the Lighting Node Pro as well. 
 
 All in all, it's a solid product from a reputable company, and it's a superb fan controller! 
+
+<div class="featured-specs-box">
+<h2 id="kingwin-fpx-001">
+<span>#3</span> <a href="https://amzn.to/2LuJyFy" target="_blank">Kingwin FPX-001</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2LuJyFy"><img alt="Corsair Commander Pro" src="/img/case-fans/kingwin-fpx-001.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>3-pin</span></p>
+<p><span>Dimensions (LxWxH)</span><span>94mm x 102mm x 25mm</span></p>
+<p><span>Fan Channels</span><span>4</span></p>
+<p><span>Control</span><span>Dials</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Comptaible w/ any case</li>
+<li>Easy install</li>
+<li>Cheap</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Only supports 3-pin connectors</li>
+<li>No monitoring features</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LuJyFy">Check Price</a>
+</div>
+</div>
+
+The Kingwin FPX-001 is a four channel fan controller. 
+
+It doesn't have any fancy controls or crazy added features, nor can it control PWM case fans with 4-pin connectors, both of which are drawbacks to this device. 
+
+However, on the other hand, it also happens to be incredibly cheap – you can find this controller on Amazon for less than $20. 
+
+It's pretty simple to install, as it is designed to fit in any 3.5-inch hard drive bay. Once installed, you can connect up to four fans to the controller. 
+
+You can adjust the fans' speed with each knob on the fan controller, which control the voltage directed to each of the four fans. 
+
+The controller does its job – nothing more, nothing less. If you're looking for a cheap and simple fan controller, this is the one for you. 
+
+## Conclusion 
+
+Fan controllers are a great way to monitor your system's internal temperature, fan speed, and even its lighting display. 
+
+If you're looking for a high-end, easy-to-use fan controller with loads of features, the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"} is for you. 
+
+On the other hand, if you're on a budget and not looking for anything crazy, check out the [Kingwin FPX-001](https://amzn.to/2LuJyFy){: target="_blank"}. 
+
+Lastly, the [Corsair Commander Pro](https://amzn.to/2EDWwzY){: target="_blank"} is great for people who want an all-in-one control center for all of their fans and LED lighting. 
+
+
+* TOC
+{: toc}
