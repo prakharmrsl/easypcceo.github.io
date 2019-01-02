@@ -160,7 +160,7 @@ With a fan controller! Fan controllers are a great way to monitor fan speed and 
 
 They're differently worth the investment. Luckily for you, we have a guide all about them to help you make the right choice. Check it out! 
 
-[Check Out our Fan Controller Guide](/budget-pcs/case-fans/controller/){: .btn-middle}
+[Check Out Our Fan Controller Guide](/budget-pcs/case-fans/controller/){: .btn-middle}
 
 ## Case Fan Buying Guide
 ![Corsair AF140 Case Fan](/img/case-fans/af-140.jpg){: .img-right .img-small}
