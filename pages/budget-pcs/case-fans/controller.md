@@ -15,7 +15,7 @@ We get it...
 
 Choosing the best fan controller for your setup can be tricky. Luckily for you, I've created the ultimate list of the best fan controllers money can buy so you can make the best decision when purchasing your next fan controller! 
 
-After hours of testing, I've concluded that the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"} is the best external fan controller on the market. 
+After lots of testing, I've concluded that the [NZXT Sentry 3](https://amzn.to/2LqplAr){: target="_blank"} is the best external fan controller on the market. 
 
 Keep reading to find out about the best internal fan controller, and the best budget fan controller! 
 
