@@ -108,7 +108,6 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 </table>
 
 ## Cooling Options
-![Case Fans](/img/case-fans/corsair-ml120.png){: .img-right .img-small} 
 
 Even if you're not planning on overclocking your components, you'll still need great case fans to cool your PC.
 
