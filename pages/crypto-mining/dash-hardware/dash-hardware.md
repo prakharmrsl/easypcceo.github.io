@@ -20,18 +20,6 @@ What does this mean for your GPU?
 
 Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
 
-## Is Dash Mining Profitable? 
-
-Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
-
-In fact, right now it may be hard to break even after electricity costs. 
-
-![Dash Mining Profitability](/img/cryptocurrency/dash-profit.jpg){: .img-middle}
-
-If you're just interested in acquiring cryptocurrency such as Dash, right now it is a better idea to buy it from an exchange. 
-
-Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
-
 ## The Best Dash ASIC Miner 
 
 <div class="featured-info-box">
@@ -51,6 +39,18 @@ Binance is one of our favorite exchanges. It's secure, easy to [sign up](https:/
 </div>
 </div>
 </div>
+
+## Is Dash Mining Profitable? 
+
+Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
+
+In fact, right now it may be hard to break even after electricity costs. 
+
+![Dash Mining Profitability](/img/cryptocurrency/dash-profit.jpg){: .img-middle}
+
+If you're just interested in acquiring cryptocurrency such as Dash, right now it is a better idea to buy it from an exchange. 
+
+Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
 
 ## Dash in a Nutshell
 

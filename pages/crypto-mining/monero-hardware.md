@@ -31,16 +31,6 @@ If you want the most from your money, buying as many cheap CPUs is your best bet
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
 
-## Is Monero Mining Profitable in 2019? 
-
-Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
-
-In fact, right now it may be hard to break even after electricity costs. 
-
-If you're just interested in acquiring cryptocurrency such as Monero, right now it is a better idea to buy it from an exchange. 
-
-Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
-
 ## Best Monero Mining CPUs to Consider: 
 
 <table class="basic-table" align="center">
@@ -133,7 +123,15 @@ Binance is one of our favorite exchanges. It's secure, easy to [sign up](https:/
 
 The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. 
 
-## Monero Mining Profitability 
+## Is Monero Mining Profitable in 2019? 
+
+Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
+
+In fact, right now it may be hard to break even after electricity costs. 
+
+If you're just interested in acquiring cryptocurrency such as Monero, right now it is a better idea to buy it from an exchange. 
+
+Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
 
 Monero mining profits will vary based on your electricity cost and the market value of the Monero. 
 
