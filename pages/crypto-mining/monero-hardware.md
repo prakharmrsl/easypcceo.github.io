@@ -142,7 +142,6 @@ Monero mining profits will vary based on your electricity cost and the market va
 Electricity prices differ, as do market values. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
 
 ## Monero USB Miner 
-![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
 
 Unfortunately there aren't any dedicated USB ASICs for Monero (cryptonight) mining. 
 
