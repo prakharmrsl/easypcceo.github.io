@@ -148,6 +148,22 @@ Unfortunately there aren't any dedicated USB ASICs for Monero (cryptonight) mini
 
 On the bright side, you can buy cheap CPUs and still generate a nice profit! 
 
+## Monero in a Nutshell 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBvMPy9HHCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+</div>
+
+## Monero Mining Pools 
+
+It's always a great idea to join a [Monero mining pool](http://moneropools.com/){:target="_blank"}. This way, your chances of success are greatly increased, and you still receive rewards proportional to the work you contributed. 
+
+**Here are some monero mining pools to consider:** 
+
+* [mineXMR](http://minexmr.com/){:target="_blank"}
+* [MinerGate](https://minergate.com/){:target="_blank"}
+* [Nanopool](https://xmr.nanopool.org/){:target="_blank"}
+* [monero.crypto-pool](https://monero.crypto-pool.fr/){:target="_blank"}
 
 ## Monero ASIC
 
@@ -201,23 +217,6 @@ The miner is designed to mine cryptonight, and Bitmain has advertised their hash
 </figure>
 
 Monero has already forked – by the time these miners reach consumers, they'll be practically useless. Although there are other Cryptonight tokens, none of them are anywhere near being as profitable as Monero.
-
-## Monero in a Nutshell 
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iBvMPy9HHCo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
-</div>
-
-## Monero Mining Pools 
-
-It's always a great idea to join a [Monero mining pool](http://moneropools.com/){:target="_blank"}. This way, your chances of success are greatly increased, and you still receive rewards proportional to the work you contributed. 
-
-**Here are some monero mining pools to consider:** 
-
-* [mineXMR](http://minexmr.com/){:target="_blank"}
-* [MinerGate](https://minergate.com/){:target="_blank"}
-* [Nanopool](https://xmr.nanopool.org/){:target="_blank"}
-* [monero.crypto-pool](https://monero.crypto-pool.fr/){:target="_blank"}
 
 ## How to Trade Monero for Other Cryptocurrencies & USD
 
