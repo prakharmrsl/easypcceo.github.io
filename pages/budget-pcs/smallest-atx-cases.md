@@ -120,14 +120,14 @@ Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan 
 
 [Read More](/budget-pcs/case-fans/){: .btn-middle}
 
-<div class="featured-info-box">
+<div id="400c" class="featured-info-box">
 <span>First Choice</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2PorXR8"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
 </div>
 <div class="text">
-<h2 id="400c">Corsair Carbide Series 400C</h2>
+<h2>Corsair Carbide Series 400C</h2>
 <h3>Smallest Full ATX Case</h3>
 <p>The 400C looks sleek and refined – even though it's a smaller case, the interior still supports up to E-ATX motherboards. Constructed with a steel exterior, the case is quite sturdy. The large side-panel window allows you to show off the components in your PC, and the case's minimalistic design is very attractive. </p>
 <div class="btn">
@@ -141,14 +141,14 @@ Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan 
 The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
 Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and [case fans](/budget-pcs/case-fans/), which is especially nice in a small ATX case. 
 
-<div class="featured-info-box">
+<div id="air-540" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
 </div>
 <div class="text">
-<h2 id="air-540">Corsair Carbide Series Air 540</h2>
+<h2>Corsair Carbide Series Air 540</h2>
 <h3>Smallest ATX Case with Tempered Glass</h3>
 
 <p>The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case, especially if they want their components housed in a low-profile case. The Air 540 has a wide outer shell with two side-by-side chambers inside to provide the best airflow possible. </p>
@@ -163,14 +163,14 @@ Corsair decided to remove the 5.25" drive bays – the empty space that would ot
 
 This case seems compact on the outside, yet it is surprisingly spacious inside with superb airflow. Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
 
-<div class="featured-info-box">
+<div id="h500i" class="featured-info-box">
 <span>RGB Lighting Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
 </div>
 <div class="text">
-<h2 id="h500i">NZXT H500i</h2>
+<h2>NZXT H500i</h2>
 <h3>Small ATX Case</h3>
 
 <p>NZXT's H500i is the full-sized ATX version of their H400i Micro-ATX case. Its overall design is stupendous – featuring an all-new Smart Device built-in that combines features of the HUE+ and GRID+ digital controllers, adaptive noise reduction, advanced lighting, easy fan control and versatile cable management, this case has it all.</p>
@@ -185,14 +185,14 @@ This case seems compact on the outside, yet it is surprisingly spacious inside w
 
 This case is eye catching to say the least. Your components will be enclosed by sleek white side panels and a lovely tempered glass side panel window, which displays your components illuminated by the case's vibrant LED lighting. The interior is spacious, with plenty of room for case fans, GPUs, tall CPU coolers, and radiators. 
 
-<div class="featured-info-box">
+<div id="cm-evo" class="featured-info-box">
 <span>Versatility Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
 </div>
 <div class="text">
-<h2 id="cm-evo">Cooler Master HAF XB II EVO</h2>
+<h2>Cooler Master HAF XB II EVO</h2>
 <h3>Ultra Small ATX Case</h3>
 
 <p>Cooler Master's HAF XB II EVO is a versatile, compact case that is easily converted into an open air test bench. Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow.</p>
@@ -207,14 +207,14 @@ This case is eye catching to say the least. Your components will be enclosed by 
 
 The case has carrying handles, making it ideal as a LAN box. The case can also be used as an HTPC, gaming PC, or as a test bench. Its small form-factor and carrying handles make it a great LAN box. This case is well-built, has plenty of room that provides great airflow, and is incredibly versatile. 
 
-<div class="featured-info-box">
+<div id="core-g3" class="featured-info-box">
 <span>Sleek Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
 </div>
 <div class="text">
-<h2 id="core-g3">Thermaltake Core G3</h2>
+<h2>Thermaltake Core G3</h2>
 <h3>Slim ATX Case</h3>
 
 <p>The Core G3 is a full-sized ATX case with a slim design, perfect for small spaces. The case supports both ATX and micro-ATX motherboards. This case offers a stylish full sized form factor without being too big and bulky. Best of all, despite having a slim and sleek design, the interior of the case doesn't feel cramped.</p>
