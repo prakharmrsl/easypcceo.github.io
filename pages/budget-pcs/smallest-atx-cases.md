@@ -55,7 +55,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Spacious</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#400c">View</a></td>
+		<td><a class="big-button" href="#400c">View</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series Air 540</td>
@@ -67,7 +67,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Fantastic Cable Management</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#air-540">View</a></td>
+		<td><a class="big-button" href="#air-540">View</a></td>
 	</tr>
 	<tr>
 		<td>NZXT H500i</td>
@@ -79,7 +79,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Solid Construction</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#h500i">View</a></td>
+		<td><a class="big-button" href="#h500i">View</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master HAF XB II EVO</td>
@@ -91,7 +91,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Supports Full-Size CPU Coolers</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#cm-evo">View</a></td>
+		<td><a class="big-button" href="#cm-evo">View</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core G3 Slim ATX Case</td>
@@ -103,7 +103,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Full-Size with Low Profile</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="#core-g3">View</a></td>
+		<td><a class="big-button" href="#core-g3">View</a></td>
 	</tr>
 </table>
 
