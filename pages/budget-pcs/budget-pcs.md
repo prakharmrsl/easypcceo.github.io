@@ -55,9 +55,9 @@ We promise we've got the perfect gaming PC no matter what your budget is!
 		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Ryzen 3 1200</li>
-			<li>Gigabyte GeForce GTX 1050 Ti 4GB</li>
-			<li>Ballistix Sport LT 8GB DDR4-2400 MHz</li>
+			<li>Ryzen 3 2200G</li>
+			<li>ASUS Radeon RX 570 ROG STRIX 4GB</li>
+			<li>Corsair Vengeance LPX 8GB DDR4-2400MHz</li>
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
@@ -202,18 +202,18 @@ You are still spending a relatively small amount on the PC, but it is still enou
 <table class="basic-table" align="center">
 	<tr>
 		<td><b>CPU</b></td>
-		<td>Ryzen 3 1200</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
+		<td>Ryzen 3 2200G</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Rw3NYE">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>MOBO</b></td>
-		<td>ASRock - AB350M Micro ATX</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
+		<td>ASRock - B450M-HDV</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Av1N9">Buy</a></td>	
 	</tr>
 	<tr>
 		<td><b>RAM</b></td>
-		<td>Ballistix Sport LT 8GB DDR4-2400 MHz</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01F4Z4OPW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01F4Z4OPW&linkCode=as2&tag=flarp0c-20&linkId=764698e51c47846fd56bf016670a3b76">Buy</a></td>
+		<td>Corsair Vengeance LPX 8GB DDR4-2400MHz</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Su7XgN">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>HDD</b></td>
@@ -222,18 +222,18 @@ You are still spending a relatively small amount on the PC, but it is still enou
 	</tr>
 	<tr>
 		<td><b>GPU</b></td>
-		<td>Gigabyte GeForce GTX 1050ti 4GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2g0eFx4">Buy</a></td>
+		<td>ASUS ROG Strix Radeon RX 570</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2SzvrkK">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>PSU</b></td>
-		<td>EVGA 400W</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xoDISb">Buy</a></td>
+		<td>Corsair CX 450M</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2GTTslm">Buy</a></td>
 	</tr>
 	<tr>
 		<td><b>CASE</b></td>
-		<td>NZXT S340 (White)</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7DtcZ">Buy</a></td>
+		<td>Fractal Design Focus G (Black)</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2R9tv5K">Buy</a></td>
 	</tr>
 </table>
 
