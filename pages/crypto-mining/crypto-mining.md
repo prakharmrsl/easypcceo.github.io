@@ -40,8 +40,6 @@ Every time a solution is acquired the reward is given as a bitcoin.
 
 Bitcoin, like other cryptocurrencies, is mined with powerful graphics cards.
 
-**If you're mining with our suggested mining hardware, you can expect to earn nearly $2,000 annually per card!**
-
 [View Bitcoin mining graphics cards here](/crypto-mining/bitcoin-hardware/){: .big-button}
 
 ### 2. Ethereum 
@@ -58,10 +56,6 @@ The blockchain has a built in programming language. This allows people to use th
 
 It is online, and cryptographically secure. Similarly to [Vertcoin](/crypto-mining/vertcoin-hardware/), there aren't any ASICs designed for Ethereum. 
 
-Does this mean you can't make money? **Of course not!**
-
-**If you're mining with one of our suggested mining GPUs, you'll generate over $1,400 annually per card.** 
-
 [View Ethereum mining graphics cards here](/crypto-mining/ethereum-hardware/){: .big-button}
 
 ### 3. Litecoin 
@@ -72,8 +66,6 @@ Does this mean you can't make money? **Of course not!**
 It has low transaction fees and fast transaction times. It can be bought and sold among other people, and through exchanges. 
 
 Lastly, it can be spent on almost anything. 
-
-**With the Antminer specified in our guide, you'll generate nearly $6,000 annually.**
 
 [View Litecoin mining graphics cards here](/crypto-mining/litecoin-hardware/){: .big-button}
 
@@ -92,16 +84,12 @@ Fees are virtually non-exisistent, as you control your own money.
 
 [Dash](/crypto-mining/dash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), and [Monero](/crypto-mining/monero-hardware/) **are the MOST profitable currencies to mine!** 
 
-**If you mine with one of the ASICs specified in our guide, you'll generate over $1,000 per year.**
-
 [View Dash mining graphics cards here](/crypto-mining/dash-hardware/){: .big-button}
 
 ![MONERO](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
 ### 5. Monero
 
 [Monero](/crypto-mining/monero-hardware/) is focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware.
-
-**If you use one of the mining GPUs specified in our guide, you'll generate over $1,400 annually!**
 
 [View Monero mining CPUs and GPUs here](/crypto-mining/monero-hardware/){: .big-button}
 
