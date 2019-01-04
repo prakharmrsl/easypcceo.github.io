@@ -137,7 +137,7 @@ The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.eba
 
 Monero mining profits will vary based on your electricity cost and the market value of the Monero. 
 
-![Monero Mining Profit](/img/cryptocurrency/profit.jpg){: .img-middle}
+![Monero Mining Profit](/img/cryptocurrency/profit.png){: .img-middle}
 
 Electricity prices differ, as do market values. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
 
