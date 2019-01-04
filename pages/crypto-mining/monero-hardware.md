@@ -2,26 +2,24 @@
 title: "Monero Mining Hardware Comparison"
 permalink: "/crypto-mining/monero-hardware/"
 layout: page
-seotitle: "5 Best Monero Mining Hardware GPUs & CPUs 2018 (Cryptonight) " 
+seotitle: "5 Best Monero Mining Hardware GPUs & CPUs 2019 (Cryptonight) " 
 ---
 <h3 class="page-subtitle">
-	Updated April 23, 2018 by 
+	Updated January 4th, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 ![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
 
-The time is now to start mining Monero. 
+Here's the deal: 
 
-Here's why: 
+You're looking for the best Monero mining hardware on the market. 
 
-Monero's mining algorithm is designed to be both CPU and GPU friendly.
+Well, you've come to the right place.
 
-*This makes it profitable to mine with extremely cheap mining hardware*. 
+Monero's mining algorithm is designed to be both CPU and GPU friendly, meaning it is easy and cheap to mine Monero.   
 
-Monero is a cryptocurrency focused on fungibility and the privacy of its users. With the value steadily increasing, it may be time to consider investing in Monero mining hardware. 
-
-This guide is going to highlight the best GPU for mining Monero.
+This guide is going to highlight the best GPU and CPU for mining Monero.
 
 ## Cryptonight Mining Hardware
 
@@ -32,6 +30,16 @@ The algorithm reduces the performance gap, in turn reducing the efficiency gap b
 If you want the most from your money, buying as many cheap CPUs is your best bet. 
 
 As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mining/zcash-hardware/), [Ethereum](/crypto-mining/ethereum-hardware/), [Dash](/crypto-mining/dash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Litecoin](/crypto-mining/litecoin-hardware/), [ZenCash](/crypto-mining/zencash-hardware/) and [Bitcoin](/crypto-mining/bitcoin-hardware), mining profitability is always directly related with hash rate and power consumption.
+
+## Is Monero Mining Profitable in 2019? 
+
+Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
+
+In fact, right now it may be hard to break even after electricity costs. 
+
+If you're just interested in acquiring cryptocurrency such as Monero, right now it is a better idea to buy it from an exchange. 
+
+Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
 
 ## Best Monero Mining CPUs to Consider: 
 
@@ -51,18 +59,18 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+Opteron+6272&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cpu/fx-8320.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">AMD FX 8320</a></td>
-		<td>330 H/s</td>
-		<td>$90</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
-	</tr>
-	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8350&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cpu/fx-8350.png" /></a></td>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8350&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">AMD FX 8350</a></td>
 		<td>400 H/s</td>
 		<td>$120</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8350&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cpu/fx-8320.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">AMD FX 8320</a></td>
+		<td>330 H/s</td>
+		<td>$90</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+FX+8320&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Xeon+L5640&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cpu/xeon.png" /></a></td>
@@ -84,18 +92,18 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<th>Buy</th>
 	</tr>
 	<tr>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/xfx-295x2.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">XFX R9 295X2</a></td>
+		<td>1760 H/s</td>
+		<td>$500</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
+	</tr>
+	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/gpu/hd-7990.png" /></a></td>
 		<td><a target="_blank" href="/crypto-mining/ethereum-hardware/radeon-hd-7990-review/">Radeon HD 7990</a></td>
 		<td>1120 H/s</td>
 		<td>$400</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338114702&customid=&icep_uq=radeon+hd+7990&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/480+.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Sapphire Radeon RX 480 NITRO+</a></td>
-		<td>600 H/s</td>
-		<td>$300</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=XFX+Radeon+RX+470&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/rx-470.png" /></a></td>
@@ -105,11 +113,11 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=XFX+Radeon+RX+470&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/xfx-295x2.png" /></a></td>
-		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">XFX R9 295X2</a></td>
-		<td>1760 H/s</td>
-		<td>$500</td>
-		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/480+.png" /></a></td>
+		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Sapphire Radeon RX 480 NITRO+</a></td>
+		<td>600 H/s</td>
+		<td>$300</td>
+		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=Sapphire+Radeon+RX480%2B+NITRO%2B&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=AMD+R9+280X&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/gpu/r9280x.png" /></a></td>
@@ -120,14 +128,26 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	</tr>
 </table>
 
-## The Most Powerful (and very profitable) Monero Mining GPU
+## The Most Powerful Monero Mining GPU
 <a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="img-middle" src="/img/gpu/xfx-295x2.png" /></a>
 
-The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. **With this miner, you can expect over $1,400 a year in returns!** That's a profit ratio of 267% per day (calculated with 1 XMR = $356.56). Take a look: 
+The best GPU for Monero mining is definitely the [XFX R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. It has a hashrate of **1760 H/s** and draws **500 W** from the wall. 
 
-![Monero Mining Profits](/img/cryptocurrency/monero-gpu.png)
+## Monero Mining Profitability 
 
-Monero mining is a great way to set up passive income, especially with the [R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338226175&customid=&icep_uq=r9+295x2&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}.
+Monero mining profits will vary based on your electricity cost and the market value of the Monero. 
+
+![Monero Mining Profit](/img/cryptocurrency/profit.jpg){: .img-middle}
+
+Electricity prices differ, as do market values. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
+
+## Monero USB Miner 
+![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
+
+Unfortunately there aren't any dedicated USB ASICs for Monero (cryptonight) mining. 
+
+On the bright side, you can buy cheap CPUs and still generate a nice profit! 
+
 
 ## Monero ASIC
 
@@ -198,19 +218,6 @@ It's always a great idea to join a [Monero mining pool](http://moneropools.com/)
 * [MinerGate](https://minergate.com/){:target="_blank"}
 * [Nanopool](https://xmr.nanopool.org/){:target="_blank"}
 * [monero.crypto-pool](https://monero.crypto-pool.fr/){:target="_blank"}
-
-## Monero Mining Profitability 
-
-**Mining Monero is a profitable option**. As you can see from the image above, you have the possibility to generate over $1,400 per card! 
-
-Electricity prices differ. You can check your own mining profitability with an [online mining profitability calculator](https://www.cryptocompare.com/mining/calculator/xmr?HashingPower=750&HashingUnit=H%2Fs&PowerConsumption=1&CostPerkWh=0.12). 
-
-## Monero USB Miner 
-![Monero Logo](/img/cryptocurrency/monero-logo.png){: .img-right .img-small}
-
-Unfortunately there aren't any dedicated USB ASICs for Monero (cryptonight) mining. 
-
-On the bright side, you can buy cheap CPUs and still generate a nice profit! 
 
 ## How to Trade Monero for Other Cryptocurrencies & USD
 
