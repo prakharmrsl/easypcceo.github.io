@@ -43,7 +43,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 		<th>Case</th>
 		<th>Image</th>
 		<th>Benefits</th>
-		<th>Shop</th>
+		<th>More</th>
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series 400C</td>
@@ -55,7 +55,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Spacious</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="#400c">View</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series Air 540</td>
@@ -67,7 +67,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Fantastic Cable Management</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="#air-540">View</a></td>
 	</tr>
 	<tr>
 		<td>NZXT H500i</td>
@@ -79,7 +79,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Solid Construction</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="#h500i">View</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master HAF XB II EVO</td>
@@ -91,7 +91,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Supports Full-Size CPU Coolers</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="#cm-evo">View</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core G3 Slim ATX Case</td>
@@ -103,9 +103,22 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 			<li>Full-Size with Low Profile</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View Lowest Prices</a></td>
+		<td><a target="_blank" class="big-button" href="#core-g3">View</a></td>
 	</tr>
 </table>
+
+## Cooling Options
+![Case Fans](/img/case-fans/corsair-ml120.png){: .img-right .img-small} 
+
+Even if you're not planning on overclocking your components, you'll still need great case fans to cool your PC.
+
+Although most cases come with stock fans, there often aren't enough fans installed, or they're simply not powerful enough to supply adequate airflow for certain systems. 
+
+Despite all of these cases having pre-installed case fans, you'll probably want to add a few more, either now or in the future. 
+
+Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan controllers](/budget-pcs/case-fans/controller/). 
+
+[Read More](/budget-pcs/case-fans/){: .btn-middle}
 
 <div class="featured-info-box">
 <span>First Choice</span>
@@ -114,7 +127,7 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 <a target="_blank" href="https://amzn.to/2PorXR8"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
 </div>
 <div class="text">
-<h2>Corsair Carbide Series 400C</h2>
+<h2 id="400c">Corsair Carbide Series 400C</h2>
 <h3>Smallest Full ATX Case</h3>
 <p>The 400C looks sleek and refined – even though it's a smaller case, the interior still supports up to E-ATX motherboards. Constructed with a steel exterior, the case is quite sturdy. The large side-panel window allows you to show off the components in your PC, and the case's minimalistic design is very attractive. </p>
 <div class="btn">
@@ -135,7 +148,7 @@ Corsair decided to remove the 5.25" drive bays – the empty space that would ot
 <a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
 </div>
 <div class="text">
-<h2>Corsair Carbide Series Air 540</h2>
+<h2 id="air-540">Corsair Carbide Series Air 540</h2>
 <h3>Smallest ATX Case with Tempered Glass</h3>
 
 <p>The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case, especially if they want their components housed in a low-profile case. The Air 540 has a wide outer shell with two side-by-side chambers inside to provide the best airflow possible. </p>
@@ -157,7 +170,7 @@ This case seems compact on the outside, yet it is surprisingly spacious inside w
 <a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
 </div>
 <div class="text">
-<h2>NZXT H500i</h2>
+<h2 id="h500i">NZXT H500i</h2>
 <h3>Small ATX Case</h3>
 
 <p>NZXT's H500i is the full-sized ATX version of their H400i Micro-ATX case. Its overall design is stupendous – featuring an all-new Smart Device built-in that combines features of the HUE+ and GRID+ digital controllers, adaptive noise reduction, advanced lighting, easy fan control and versatile cable management, this case has it all.</p>
@@ -179,7 +192,7 @@ This case is eye catching to say the least. Your components will be enclosed by 
 <a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
 </div>
 <div class="text">
-<h2>Cooler Master HAF XB II EVO</h2>
+<h2 id="cm-evo">Cooler Master HAF XB II EVO</h2>
 <h3>Ultra Small ATX Case</h3>
 
 <p>Cooler Master's HAF XB II EVO is a versatile, compact case that is easily converted into an open air test bench. Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow.</p>
@@ -201,7 +214,7 @@ The case has carrying handles, making it ideal as a LAN box. The case can also b
 <a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
 </div>
 <div class="text">
-<h2>Thermaltake Core G3</h2>
+<h2 id="core-g3">Thermaltake Core G3</h2>
 <h3>Slim ATX Case</h3>
 
 <p>The Core G3 is a full-sized ATX case with a slim design, perfect for small spaces. The case supports both ATX and micro-ATX motherboards. This case offers a stylish full sized form factor without being too big and bulky. Best of all, despite having a slim and sleek design, the interior of the case doesn't feel cramped.</p>
@@ -214,18 +227,6 @@ The case has carrying handles, making it ideal as a LAN box. The case can also b
 </div>
 
 The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. 
-
-## Cooling Options 
-
-Even if you're not planning on overclocking your components, you'll still need great case fans to cool your PC.
-
-Although most cases come with stock fans, there often aren't enough fans installed, or they're simply not powerful enough to supply adequate airflow for certain systems. 
-
-Despite all of these cases having pre-installed case fans, you'll probably want to add a few more, either now or in the future. 
-
-Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan controllers](/budget-pcs/case-fans/controller/). 
-
-[Read More](/budget-pcs/case-fans/){: .btn-middle}
 
 ## Case Buying Guide
 
