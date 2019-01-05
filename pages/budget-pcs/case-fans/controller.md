@@ -148,7 +148,7 @@ You can use the Corsair Link software to control all of the connected fans and R
 </div>
 </div>
 
-Unfortunately, this fan controller only supports 3-pin fan headers. However, it does allow you to control the speed of all of the 3-pin fans that otherwise would not have a PWM function. It doesn't have any fancy features or crazy software, but it's also less than $20. If you're on a budget, this fan controller gets the job done – it's simple, reliable, and best of all, it's cheap. 
+Unfortunately, this fan controller only supports 3-pin fan headers. However, it does allow you to control the speed of all of the 3-pin fans that otherwise would not have a PWM function. It doesn't have any fancy features or crazy software, but it's also less than $20. If you're on a low budget – say, a [$500 budget gaming PC](/budget-pcs/500/), for example – this fan controller gets the job done. It's simple, reliable, and best of all, it's cheap. 
 
 ## What is a Fan Controller?
 

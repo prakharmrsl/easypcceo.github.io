@@ -225,7 +225,7 @@ The case has carrying handles, making it ideal as a LAN box. The case can also b
 </div>
 </div>
 
-The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. 
+The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. It's also one of the cheaper cases on this list, so you could use it if you're on a low budget (a [$500 gaming PC](/budget-pcs/500/), for example.)
 
 ## Case Buying Guide
 

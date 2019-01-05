@@ -131,7 +131,7 @@ Featuring Noctua’s <a target="_blank" rel="nofollow" href="https://noctua.at/e
 </div>
 </div>
 
-Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arctic's patented PST (PWM Sharing Technology), the PST feature allows up to five of these case fans to be chained together. If you adjust the speed of one of the fans, you'll adjust the speed of all of the fans. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise.
+Arctic's PWM fans are a bit different than traditional PWM fans. Thanks to Arctic's patented PST (PWM Sharing Technology), the PST feature allows up to five of these case fans to be chained together. If you adjust the speed of one of the fans, you'll adjust the speed of all of the fans. This handy feature ensures stable temperatures at the lowest possible fan speed, thus reducing noise. We'd recommend you use this 120mm fan as an exhaust fan in our [$500 gaming PC build](/budget-pcs/500/) because the case only ships with intake fans. Although, this case fan can also be used for air intake if you prefer. 
 
 <div class="featured-info-box">
 <span>Heavy Duty Pick</span>
