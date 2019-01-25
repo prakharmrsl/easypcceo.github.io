@@ -497,7 +497,14 @@ After you purchase the prebuilt desktop and the GPU, you're getting a very capab
 
 If you don't like this case, you can always buy another one and transfer the components. Check out our guide on the [smallest atx cases!](/budget-pcs/smallest-atx-cases/)
 
-In my experience, [FX Gaming Computers](https://www.fxcustompc.com/){: target="_blank"} are also a solid prebuilt option. Their computers are fast, reliable, and affordable. The coolest part about the company is they'll assemble a prebuilt gaming PC for you, but you get to choose every component from the case to the motherboard. 
+In my experience, FX Gaming Computers are also a solid prebuilt option. Their [custom gaming computers](https://www.fxcustompc.com/){: target="_blank"} are fast, reliable, and affordable. The coolest part about the company is they'll assemble a prebuilt gaming PC for you, but you get to choose every component from the case to the motherboard. 
+
+<figure> 
+	<img src="/img/case/custom-pc.png" alt="Custom Gaming Computer" class="img-middle">
+	<figcaption><p>One of FX Custom PC's gaming computers.</p></figcaption>
+</figure>
+
+They even offer 12 month interest-free payments on all of their gaming PCs, which is great for those of you on a budget wanting to build a custom PC. 
 
 [View the Guide](/budget-pcs/prebuilt/){: .big-button}
 
