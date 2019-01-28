@@ -2,13 +2,14 @@
 title: "The Best Gaming Ethernet Cables of 2019"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "3 Best Ethernet Cable for Gaming on Xbox One, PS4, & PC (2019)" 
+seotitle: "3 Best Gaming Ethernet Cables on Xbox One, PS4, & PC (2019)" 
 ---
 <h3 class="page-subtitle">
 	Updated January 1st, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
+
 ![Gaming Ethernet Cable Header](/img/header/gaming-ethernet-cables.jpg)
 
 Experiencing connection issues during gameplay is incredibly frustrating. One minute you're dominating, and the next you're dead. 
