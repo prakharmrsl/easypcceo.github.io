@@ -6,8 +6,8 @@ seotitle: "3 Best Fan Controller Reviews of 2019 (Comparison)"
 ---
 <h3 class="page-subtitle">
 	Updated January 1st, 2019 by 
-	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
-	Jacob Tuwiner
+	<a href="/about/"><img src="/img/profile/diego.jpg" class="circle" alt="Headshot"></a>
+	Diego Riitano
 </h3>
 ![NZXT Sentry 3](/img/case-fans/sentry-3.jpg){: .img-right .img-small}
 
