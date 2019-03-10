@@ -1,8 +1,8 @@
 ---
-title: "The Best Gaming Ethernet Cables of 2019"
+title: "The Best Ethernet Cable for Gaming "
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "3 Best Gaming Ethernet Cables on Xbox One, PS4, & PC (2019)" 
+seotitle: "3 Best Gaming Ethernet Cables for Xbox One, PS4, & PC (2019)" 
 ---
 <h3 class="page-subtitle">
 	Updated January 1st, 2019 by 
@@ -18,7 +18,9 @@ The worst part is, if you're lagging, you can't really do anything about it – 
 
 If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
 
-In order to establish the best possible connection to your router, you'll want to use the best gaming Ethernet cable. **If you're looking for the best Ethernet cables for gaming in 2019, then read on:**  
+In order to establish the fastest, most direct connection to your router or modem, you should be using an ethernet cable. With a gaming ethernet cable, you won't have to worry about signal interference or a poor connection. 
+
+In this guide, we're going to be talking about 3 of the best ethernet cables for gaming on the market today. 
 
 ## Best Gaming Ethernet Cables
 
@@ -166,7 +168,7 @@ Although you may not have known before, Ethernet cables have been developed in d
 
 **Cat 6a (Category 6a):** The Cat6a cable can support bandiwdth frequences of up to 500MHz, and it can transmit data at 100 meters, which is 63 meters farther than a Cat6 cable can transmit 10Gbps. The covering is also stronger which helps to protect against Alien Crosstalk and improves the signal to noise ratio. 
 
-![Cat7 Ethernet Cable](/img/gaming-ethernet-cable/Cat7-cover.jpg){: .img-middle}
+![Cat7 Ethernet Cable](/img/gaming-ethernet-cable/cat-7.jpg){: .img-middle}
  
 **Cat 7 (Category 7):** This generation is still new and in testing, so it has not been adopted as a mainstream replacement for Cat5e and Cat6 cables. However, in lab conditions, the cable is able to transmit up to 100Gbps at a distance of 15 meters. It has extensive shielding on both the individual pairs within and the cable cover. The shielding must be grounded and a special GigaGate 45 (GG45) connector is needed to fully harness the high performance of the Cat7 cable. This cable is best used by enterprise networks and data centers, but they're probably a bit overkill for gaming. 
 
