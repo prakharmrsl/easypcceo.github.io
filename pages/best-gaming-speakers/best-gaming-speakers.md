@@ -5,9 +5,9 @@ layout: page
 seotitle: "13 Best Gaming Speakers for Xbox One, PS4 & PC (2019)" 
 --- 
 <h3 class="page-subtitle">
-	Updated January 1st, 2019 by 
-	<a href="/about/"><img src="../img/profile/close.jpg" class="circle" alt="Headshot"></a>
-	Jacob Tuwiner
+	Updated Feburary 15th, 2019 by 
+	<a href="/about/"><img src="/img/profile/diego.jpg" class="circle" alt="Headshot"></a>
+	Diego Riitano
 </h3>
 ![Gaming Speakers Header](/img/header/gaming-speakers.jpg)
 
