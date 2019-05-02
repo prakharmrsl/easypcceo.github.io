@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^easypc.io/best-gaming-desks [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.easypc.io/best-gaming-desks [NC]
+RewriteRule ^(.*)$ http://easypc.io/budget-pcs/400 [L,R=301,NC]

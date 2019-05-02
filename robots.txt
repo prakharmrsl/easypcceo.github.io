@@ -4,4 +4,5 @@ sitemap:
   exclude: 'yes'
 ---
 User-agent: *
+Disallow: /
 Sitemap: https://www.easypc.io/sitemap.xml
