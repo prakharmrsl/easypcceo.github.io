@@ -251,7 +251,7 @@ Lastly, if you decide to upgrade to a Cat6 cable, you'll have to upgrade *all* o
 <li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cable-options-for-gaming">3 Best Ethernet Cable Options for Gaming</a></li>
 <li><a href="#how-to-choose-an-ethernet-cable-for-gaming" id="markdown-toc-how-to-choose-an-ethernet-cable-for-gaming">How to Choose an Ethernet Cable for Gaming</a></li>
 <li><a href="#cat5e-vs-cat6-ethernet-cables" id="markdown-toc-cat5e-vs-cat6-ethernet-cables">Cat5e vs. Cat6 Ethernet Cables</a></li>
-<li><a href="#best-budget-gaming-ethernet-cable-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One: Mediabridge RJ45 Cat5e 25ft Cable</a></li>
+<li><a href="#best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One: Mediabridge RJ45 Cat5e 25ft Cable</a></li>
 <li><a href="#best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable" id="markdown-toc-best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable">Best Ethernet Cable for PC Gaming: RiteAV Cat6 50ft Cable</a></li>
 <li><a href="#best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable" id="markdown-toc-best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable">Best Ethernet Cable for PS4: Importer520 Cat6 RJ45 50ft Cable</a></li>
 <li><a href="#cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat" id="markdown-toc-cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat">Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat</a></li>
