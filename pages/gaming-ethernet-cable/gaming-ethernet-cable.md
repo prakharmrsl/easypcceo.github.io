@@ -83,7 +83,7 @@ Both cables are interchangable, and work the same way. However, Cat6 cables are 
 If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the other cables in your network to Cat6. Otherwise, your old Cat5e cables will slow down the network. 
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/1VlywgqM9ig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/jGHgs2eSPCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## [Best Ethernet Cable for Xbox One: Mediabridge RJ45 Cat5e 25ft Cable](https://amzn.to/2JvXEDJ){: target="_blank"}
