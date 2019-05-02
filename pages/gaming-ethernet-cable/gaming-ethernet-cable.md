@@ -1,28 +1,37 @@
 ---
-title: "The Best Ethernet Cable for Gaming "
+title: "The Best Ethernet Cable for Gaming: Xbox One, PS4, and PC"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "3 Best Gaming Ethernet Cables for Xbox One, PS4, & PC (2019)" 
+seotitle: "Best Ethernet Cable for Gaming on the Xbox One, PS4, & PC (2019)" 
+description: "We're taking a look at the best ethernet cable for gaming which can be used with an Xbox One, a PS4, or a PC."
 ---
 <h3 class="page-subtitle">
-	Updated January 1st, 2019 by 
+	Updated May 2nd, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
 ![Gaming Ethernet Cable Header](/img/header/gaming-ethernet-cables.jpg)
 
+I have fond memories of playing Grand Theft Auto IV and Call of Duty with my friends on my old Xbox. 
+
+One second I was calling in an AC130 on an insane kill streak, and then the next thing I knew, I was teleporting randomly all around the map, only to be killed by a noob tube. 
+
+"ELLIE! GET OFF THE INTERNET!" I would scream at my little sister as she was trying to watch something stupid about dolls or makeup or whatever it is girls do online these days. 
+
+Suffice to say, my dad eventually had enough and upgraded the WiFi to a higher speed.
+
 Experiencing connection issues during gameplay is incredibly frustrating. One minute you're dominating, and the next you're dead. 
 
 The worst part is, if you're lagging, you can't really do anything about it – *or can you?*
 
-If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal.
+If you have slow WiFi, you'll have to upgrade your [router](https://www.lifewire.com/what-is-a-router-2618162){: target="_blank"} or internet connection. However, your internet connection problem may be due to a poor WiFi signal, as opposed to just a poor WiFi plan.
 
-In order to establish the fastest, most direct connection to your router or modem, you should be using an ethernet cable. With a gaming ethernet cable, you won't have to worry about signal interference or a poor connection. 
+Wireless signals aren't as fast as a direct connection via an Ethernet cable, and they can also be interrupted by walls and noise on the network. 
 
-In this guide, we're going to be talking about 3 of the best ethernet cables for gaming on the market today. 
+When it comes to insuring you have a stable connection, you should definitely be using an Ethernet cable for gaming.
 
-## Best Gaming Ethernet Cables
+## 3 Best Ethernet Cable Options for Gaming
 
 <table>
 	<tr>
@@ -51,9 +60,9 @@ In this guide, we're going to be talking about 3 of the best ethernet cables for
 	</tr>
 </table>
 
-## How to Choose the Best Ethernet Cable for Gaming 
+## How to Choose an Ethernet Cable for Gaming 
 
-If you're going to spend your hard earned money on an Ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming Ethernet cable: 
+If you're going to spend your hard earned money on a gaming Ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming Ethernet cable: 
 
 * **Length:** The length of an Ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest Ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or [PC](/budget-pcs/). I'd recommend finding an Ethernet cable no longer than 300 feet. 
 
@@ -154,7 +163,7 @@ Let's break these points down:
 
 **Mobility:** If you're using WiFi, you can walk freely about your home or business while accessing the internet. It's incredibly convenient, and we often take this for granted. If you're using a wired connection, you won't be able to move around. Lastly, portable devices such as tablets, smartphones, netbooks and e-readers don't come equipped with Ethernet ports. 
 
-## Types of Ethernet Cables
+## What is the Best Type of Ethernet Cable for Gaming?
 
 Although you may not have known before, Ethernet cables have been developed in different generations. Each new generation of cables has tighter twists in the copper wiring and faster data transfer speeds. Here are all of the different generations of Ethernet cables: 
 
@@ -178,17 +187,41 @@ Although you may not have known before, Ethernet cables have been developed in d
 
 I get a lot of questions regarding this topic, so I've created this FAQ section to answer some of the more common ones. 
 
-**What is the best Ethernet cable for gaming?** In my experience, it doesn't really matter a whole lot, but buying a Cat6 cable is always a good idea. However, if your internet connection is too slow for gaming in the first place, buying an expensive Ethernet cable isn't going to help you. 
+### What is the best Ethernet cable for gaming? 
 
-**Can I use a wireless adapter instead?** Of course you can! I actually use a wireless adapter with my setup because I'm living in a college dorm, and it works well for me. Using a wired connection is only ideal if you need the fastest possible connection, and you're somewhat close to your router. 
+In my experience, it doesn't really matter a whole lot, but buying a Cat6 cable is always a good idea. However, if your internet connection is too slow for gaming in the first place, buying an expensive Ethernet cable isn't going to help you. 
 
-**How long can the cable be?** If your router is far away from your setup, you're going to need a long Ethernet cable. Just remember that signal strength deteriorates as the cable becomes longer. Any of the cables on this list will do just fine.  
+### Which is better for gaming: Cat5 or Cat6? 
 
-**What's faster, wireless or wired?** Yes, sometimes I'm actually asked this question. Wired, of course!
+Cat6 cables are faster and more efficient than Cat5, so technically, Cat6 is your best bet from a performance standpoint. 
 
-**Which is best?** When it comes to [Cat 5 vs Cat 6](https://planetechusa.com/blog/ethernet-different-ethernet-categories-cat3-vs-cat5e-vs-cat6-vs-cat6a-vs-cat7-vs-cat8/){: target="_blank"} Ethernet cables, it's always best to go for a Cat 6 cable. They're newer, faster, and better all-around for gaming. 
+However, the price to performance ratio of a Cat6 cable isn't that great – in other words, you'll get similar gaming performance from a Cat5 cable for a much lower price.
 
-## What If Your Router Is Too Far Away? 
+### Is a Cat 7 cable good for gaming? 
+
+Technically speaking, yes, it would be great for gaming. From a performance/dollar standpoint, however, you're probably better off going with a cheaper option. Cat7 cables are designed for advanced networking systems, not just for connecting an Xbox to a router. 
+
+### Is Ethernet good for gaming? 
+
+Yeah, definitely. Ethernet is the best way to connect any gaming device to the internet if you want the best possible connection. WiFi may seem more convenient, but it's definitely slower and less reliable. 
+
+### Is a wired connection good for gaming?
+
+Well, based on the answer above, yes... A wired connection is good for gaming. For some reason I'm still asked this via email even though I pretty much answered it above...
+
+### Can I use a wireless adapter instead? 
+
+Of course you can! I actually use a wireless adapter with my setup because I'm living in a college dorm, and it works well for me. Using a wired connection is only ideal if you need the fastest possible connection, and you're somewhat close to your router. 
+
+### How long can the cable be? 
+
+If your router is far away from your setup, you're going to need a long Ethernet cable. Just remember that signal strength deteriorates as the cable becomes longer. Any of the cables on this list will do just fine.  
+
+### What's faster, wireless or wired? 
+
+Yes, sometimes I'm actually asked this question. Wired, of course!
+
+### What If Your Router Is Too Far Away? 
 
 As mentioned previously, the length of your Ethernet cable has a direct impact on network speed. If your cable is too long, your internet connection speed will suffer. 
 
