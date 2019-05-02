@@ -2,7 +2,7 @@
 title: "The Best Ethernet Cable for Gaming: Xbox One, PS4, and PC"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "Best Ethernet Cable for Gaming on the Xbox One, PS4, & PC (2019)" 
+seotitle: "Best Ethernet Cable for Gaming: Xbox One, PS4, & PC (2019)" 
 meta: "We're taking a look at the best ethernet cable for gaming which can be used with an Xbox One, a PS4, or a PC."
 ---
 <h3 class="page-subtitle">
