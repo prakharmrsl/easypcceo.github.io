@@ -86,10 +86,10 @@ If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the othe
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/1VlywgqM9ig" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-## [Best Budget Gaming Ethernet Cable: Mediabridge RJ45 Cat5e 25ft Cable](https://amzn.to/2JvXEDJ){: target="_blank"}
+## [Best Ethernet Cable for Xbox One: Mediabridge RJ45 Cat5e 25ft Cable](https://amzn.to/2JvXEDJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="img-right img-small" alt="mediabridge rj45 gaming Ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.jpeg" /></a>
 
-The [Mediabridge RJ45 Cat5e ](https://amzn.to/2JvXEDJ){: target="_blank"} is a great budget gaming Ethernet cable. 
+The [Mediabridge RJ45 Cat5e ](https://amzn.to/2JvXEDJ){: target="_blank"} is a great gaming Ethernet cable for the Xbox One console. 
 
 Measuring in at 25ft, the cable is long enough to reach your gaming setup, even if it's in another room. If you'd prefer a cable that is a different size, you can order a longer or shorter version of this Ethernet cable. 
 
@@ -247,5 +247,15 @@ If you want to improve your internet connection, a Cat5e or Cat6 cable is a grea
 
 Lastly, if you decide to upgrade to a Cat6 cable, you'll have to upgrade *all* of your Ethernet cables, not just one. If you don't upgrade the rest, your Cat6 cable will still work because it is backwards compatible. Although, you'd be wasting your money on the Cat6 cable, because it would be slowed down by the Cat5e cables. A chain is only as strong as its weakest link. 
 
-* TOC
-{:toc}
+<ul id="markdown-toc">
+<li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cable-options-for-gaming">3 Best Ethernet Cable Options for Gaming</a></li>
+<li><a href="#how-to-choose-an-ethernet-cable-for-gaming" id="markdown-toc-how-to-choose-an-ethernet-cable-for-gaming">How to Choose an Ethernet Cable for Gaming</a></li>
+<li><a href="#cat5e-vs-cat6-ethernet-cables" id="markdown-toc-cat5e-vs-cat6-ethernet-cables">Cat5e vs. Cat6 Ethernet Cables</a></li>
+<li><a href="#best-budget-gaming-ethernet-cable-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One: Mediabridge RJ45 Cat5e 25ft Cable</a></li>
+<li><a href="#best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable" id="markdown-toc-best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable">Best Ethernet Cable for PC Gaming: RiteAV Cat6 50ft Cable</a></li>
+<li><a href="#best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable" id="markdown-toc-best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable">Best Ethernet Cable for PS4: Importer520 Cat6 RJ45 50ft Cable</a></li>
+<li><a href="#cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat" id="markdown-toc-cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat">Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat</a></li>
+<li><a href="#what-is-ethernet" id="markdown-toc-what-is-ethernet">What is Ethernet?</a>
+</li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>

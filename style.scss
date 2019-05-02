@@ -1276,7 +1276,7 @@ tr {
       height: 40px;
       top: 15px;
     }
-    margin-top: 40px;
+    margin-top: -2.1rem;
     margin-bottom: 40px;
   }
 }
@@ -1597,4 +1597,7 @@ blockquote p {
    }
  }
 
- 
+ .page-header-image {
+    margin-top: -1rem;
+    margin-bottom: -.1rem;
+ }
