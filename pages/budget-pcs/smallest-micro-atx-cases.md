@@ -132,7 +132,7 @@ Here's the deal:
 			<li>Budget Friendly</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="fbm-05">View</a></td>
+		<td><a class="big-button" href="#fbm-05">View</a></td>
 	</tr>
 </table>
 
@@ -279,7 +279,7 @@ This small Micro ATX case is *not* meant for gaming, as it is too small to house
 With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries. It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
 
 <div id="fbm-05" class="featured-info-box">
-<span>Honorable Mention</span>
+<span>(Dis)Honorable Mention</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
@@ -647,8 +647,52 @@ It supports up to three 3.5” drives and still leaves a large amount of much ne
 Building in the Rexgear 1 will probably be one of the easiest experiences you could ask for, thanks to its removable motherboard tray which allows you to easily mount your board outside of the case. 
 
 <div class="featured-specs-box">
+<h2 id="cooler-master-masterbox-q300l">
+<span>#6</span> <a href="https://amzn.to/2YrFU4u" target="_blank">Cooler Master MasterBox Q300L</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>387 x 230 x 387mm</span></p>
+<p><span>Case Fans</span><span>1 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>One 3.5”, Two 2.5”</span></p>
+<p><span>Expansion Slots</span><span>4</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Great airflow</li>
+<li>Spacious interior</li>
+<li>Easy cable management</li>
+<li>Magnetic dust filter</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Break-off expansion slot covers</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price</a>
+</div>
+</div>
+
+This case reels in its fanbase with its perfection in the majority of categories by looking great, performing great, and costing… well, great! 
+
+The Q300L boasts a front panel IO fit for a multitude of postitionings, making sure that no matter where or how you place it you can always reach all your front buttons and plugs. 
+
+Its slightly larger size allows for a much larger list of GPU sizes. This case also includes a full acrylic side panel window. 
+
+It’s not as amazing as a real tempered glass side panel, but the view of your beastly components is still pretty cool.
+
+In addition, while supporting up to a full ATX power supply, the Q300L also brandishes gigantic magnetic dust filters on both the top and front of the case – you’ll have no trouble with dust while still getting the best view out of your system. No more dusty parts! 
+
+This case really has it all for an affordable price.
+
+<div class="featured-specs-box">
 <h2 id="rosewill-r379-m">
-<span>#6</span> <a href="https://amzn.to/2HgNXLs" target="_blank">Rosewill R379-M</a>
+<span>#7</span> <a href="https://amzn.to/2HgNXLs" target="_blank">Rosewill R379-M</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
@@ -717,71 +761,54 @@ For the average builder on a budget, this case is a good choice.
 If you're interested in building a gaming PC, on the other hand, you should look elsewhere.
 
 <div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+<h2 id="rosewill-fbm-05">
+<span>#8</span> <a href="https://amzn.to/2Q3V3po" target="_blank">Rosewill FBM-05</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
 <div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
-<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
+<p><span>Supports</span><span>Micro ATX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>355 x 170 x 335mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 2 Max</span></p>
+<p><span>Drive Bays</span><span>Two 5.25", Three 3.5" </span></p>
+<p><span>Expansion Slots</span><span>4</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
+<li>Dude it's dirt cheap</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
+<li>terrible airflow</li>
+<li>no case feet</li>
+<li>cheap build quality</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price</a>
 </div>
 </div>
 
+Finally we are discussing this joke. We'd only recommend this case if you're on a **tight** budget. 
 
+Even then, it's probably worth saving a bit more for a better case.
 
-<div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
-<div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
-<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
-</div>
-</div>
+In all seriousness, this case is the worst thing I’ve ever had the misfortune of handling.
+
+The only good thing about this thing is its price. 
+
+The Rosewill FBM-05 is the cheapest Micro ATX case you can get on Amazon. 
+
+It does not excel in any category. 
+
+The only situation in which you should find yourself purchasing the Rosewill FBM-05 is at the lowest point in your life or if handing it off to someone you don’t particularly enjoy the company of. 
+
+The airflow is somehow worse than that of a cardboard box, and it manages to reach a level of flimsiness only thought possible by the government of Venezuela. 
+
+Its power button isn’t even satisfying to press! 
+
+At least it has audio jacks and a single front USB 3.0 port.
+
+We honestly implore you to never consider yourself a part of the PC community if you earnestly consider using this case for anything other than high tier memery. You will be shunned.
