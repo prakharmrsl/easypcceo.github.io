@@ -313,7 +313,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 
 When you’re tight on budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
 
-## Micro ATX Case Buying Guide
+## MATX Case Buying Guide
 
 Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for. 
 
@@ -329,6 +329,7 @@ Before you buy yourself any Micro ATX case – let alone a small or slim Micro A
 * Graphics card support
 
 ### Desk Space
+<img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
 Always consider how much desk space your case will take up since it’s ultimately the shell of the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
 
@@ -343,8 +344,6 @@ Depending on what type of graphics card you use it may take up two or more slots
 ### Building Difficulty
 
 If you’re new to building computers or maybe just rusty you may want to find a case that’s much easier to build in so that you can swiftly get your new computer up and running ASAP.
-
-<img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
 ### Airflow
 
@@ -367,6 +366,52 @@ In the end, your case is your choice.
 Go for what you want and show off your own personal style in whichever way you decide and game, content create, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine. 
 
 Whatever you choose, however you choose, just consider our tips and find the case that fits perfectly with your personal preferences, and overall just enjoy your handy work!
+
+## Best Micro ATX Case Review: NZXT H400i
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sCXnMEqezRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+
+## Frequently Asked Questions (FAQ)
+
+I decided to answer my most commonly asked questions about this topic below:
+
+### What Does ATX Stand For? 
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/ATX){: target="_blank"}:
+
+<blockquote><p>ATX (Advanced Technology eXtended) is a motherboard and power supply configuration specification developed by Intel in 1995 to improve on previous de facto standards like the AT design. It was the first major change in desktop computer enclosure, motherboard and power supply design in many years, improving standardization and interchangeability of parts. The specification defines the key mechanical dimensions, mounting point, I/O panel, power and connector interfaces between a computer case, a motherboard and a power supply.</p></blockquote>
+
+### What is the Smallest ATX Case?
+
+There are three main case sizes: ATX, Micro ATX, and Mini ITX. 
+
+ATX cases are the largest, followed by Micro ATX and Mini ITX, respectively. 
+
+If you're looking for a [small ATX case](/budget-pcs/smallest-atx-cases/), we happen to have a guide about that too!
+
+### What is the Difference Between ATX and Micro ATX?
+
+The main difference between ATX and Micro ATX is size. 
+
+However, ATX cases and motherboards tend to be more expensive, as they're larger and usually have more features. 
+
+### Is ATX or Micro ATX Better? 
+
+The answer to this question is a matter of personal preference, for the most part. 
+
+Micro ATX cases are great for those who want their PC to have a low profile. 
+
+It's important to note, though, that some micro ATX cases aren't large enough for everyone. 
+
+For example, you probably won't be able to fit a water cooling system, a ton of case fans, several hard drives, and multiple GPUs in a micro ATX case. 
+
+In that case, you'll want to go with an ATX mid tower or even a full tower. 
+
+Nevertheless, micro ATX is still suitable for most people and builds. 
+
+Even micro ATX cases these days have pretty spacious interiors, large enough to accomodate most PC builds. 
 
 ## Case Reviews
 
