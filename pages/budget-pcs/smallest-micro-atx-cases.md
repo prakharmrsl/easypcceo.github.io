@@ -34,7 +34,7 @@ We've rounded up the best (and the smallest) micro ATX cases on the market.
 
 ## Smallest Micro ATX Case Options
 
-Building a PC – whether it's for gaming or workstation tasks – is an art form. 
+[Building a PC](/budget-pcs/) – whether it's for gaming or workstation tasks – is an art form. 
 
 Just like you choose components based on your performance requirements, you shold choose a case based on your style. 
 
@@ -161,7 +161,7 @@ Here is a list of the smallest micro ATX cases on the market:
 <h2>NZXT H400i</h2>
 <h3>Best Micro ATX Case</h3>
 
-<p>If you weren’t expecting the NZXT H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you. It’s clean and sleek, with a sturdy steel design and beautiful tempered glass side panel for your viewing pleasure.</p>
+<p>If you weren’t expecting the [NZXT](https://www.nzxt.com/){: target="_blank"} H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you. It’s clean and sleek, with a sturdy steel design and beautiful tempered glass side panel for your viewing pleasure.</p>
 
 <div class="btn">
 <a class="learn-button cta-button" href="#nzxt-h400i">Read Review </a>
@@ -311,7 +311,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 </div>
 </div>
 
-When you’re tight on budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
+When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
 
 ## MATX Case Buying Guide
 
@@ -335,7 +335,7 @@ Always consider how much desk space your case will take up since it’s ultimate
 
 ### Front USB
 
-If you plan on plugging in USB flash drives on a consistent basis without having to pull a reach around you might want to go for an option that includes USB 3.0 with the front panel IO.
+If you plan on plugging in [USB](https://www.techopedia.com/definition/2320/universal-serial-bus-usb){: target="_blank"} flash drives on a consistent basis without having to pull a reach around you might want to go for an option that includes USB 3.0 with the front panel IO.
 
 ### Expansion Support
 
@@ -350,6 +350,7 @@ If you’re new to building computers or maybe just rusty you may want to find a
 Airflow may not seem as important in a smaller case since smaller form factor builds don’t usually produce as much heat as more beefy ones. We cannot stress enough how important it is to keep your parts cool to get the best performance and longevity out of your components.
 
 ### Storage Options
+<img class="lazyload img-right img-small" alt="small matx case example" src="/img/case/matx/smallest-atx-case-example.jpg" />
 
 If you plan on keeping your case for a very long period of time (in the tech world that could be quite a few years) you should always look at storage slots and ease of upgrade. Storage runs out quick and it’s always good to have a little extra for backups.
  
@@ -367,7 +368,7 @@ Go for what you want and show off your own personal style in whichever way you d
 
 Whatever you choose, however you choose, just consider our tips and find the case that fits perfectly with your personal preferences, and overall just enjoy your handy work!
 
-## Best Micro ATX Case Review: NZXT H400i
+## A Closer Look at The Best Micro ATX Case
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sCXnMEqezRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -383,17 +384,15 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/ATX){: target="_blank"}:
 
 <blockquote><p>ATX (Advanced Technology eXtended) is a motherboard and power supply configuration specification developed by Intel in 1995 to improve on previous de facto standards like the AT design. It was the first major change in desktop computer enclosure, motherboard and power supply design in many years, improving standardization and interchangeability of parts. The specification defines the key mechanical dimensions, mounting point, I/O panel, power and connector interfaces between a computer case, a motherboard and a power supply.</p></blockquote>
 
-### What is the Smallest ATX Case?
+### What is the Difference Between ATX and Micro ATX?
+
+The main difference between ATX and Micro ATX is size. 
 
 There are three main case sizes: ATX, Micro ATX, and Mini ITX. 
 
 ATX cases are the largest, followed by Micro ATX and Mini ITX, respectively. 
 
 If you're looking for a [small ATX case](/budget-pcs/smallest-atx-cases/), we happen to have a guide about that too!
-
-### What is the Difference Between ATX and Micro ATX?
-
-The main difference between ATX and Micro ATX is size. 
 
 However, ATX cases and motherboards tend to be more expensive, as they're larger and usually have more features. 
 
@@ -887,5 +886,10 @@ At least it has audio jacks and a single front USB 3.0 port.
 
 We honestly implore you to never consider yourself a part of the PC community if you earnestly consider using this case for anything other than high tier memery. You will be shunned.
 
-* toc 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#smallest-micro-atx-case-options" id="markdown-toc-smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
+<li><a href="#matx-case-buying-guide" id="markdown-toc-matx-case-buying-guide">MATX Case Buying Guide</a></li>
+<li><a href="#best-micro-atx-case-review-nzxt-h400i" id="markdown-toc-best-micro-atx-case-review-nzxt-h400i">Best Micro ATX Case Review: NZXT H400i</a></li>
+<li><a href="#frequently-asked-questions-faq" id="markdown-toc-frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</a></li>
+<li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a></li>
+</ul>
