@@ -387,16 +387,27 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 </div>
 </div>
 
-You’re only looking for the best of the best. You want no lies, no shortcuts – just style, functionality, and reliability. The NZXT H400i fits the bill to a ‘T’ and you will be hard pressed to find a similar alternative that lives up to the level of quality the H400i puts forward.
+You’re only looking for the best of the best. You want no lies, no shortcuts – just style, functionality, and reliability. 
 
-Sleek is this case’s middle name and my, my does it like to flex that. You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color schemes to fit whatever amazing colors your build might include, and its durable full steel body is built to keep all of your expensive parts safe within its walls. It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel! 
+The NZXT H400i fits the bill to a ‘T’ and you will be hard pressed to find a similar alternative that lives up to the level of quality the H400i puts forward.
 
-The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features. In terms of airflow, the case supports up to 7 120mm fans and room for even a full custom water loop.
+Sleek is this case’s middle name and my, my does it like to flex that. 
 
-The H400i comes with 3 non-RGB fans, which is really lame. Be sure to deck it out with lights, as it has space for whatever you might want to throw at it. It also includes an RGB fan controller that can support up to 5 RGB fans or 4 LED strips, powered by the NZXT CAM software, which allows you to get the best performance possible out of your case fans.
+You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color schemes to fit whatever amazing colors your build might include, and its durable full steel body is built to keep all of your expensive parts safe within its walls. 
 
-Taking up very little space and looking stylish as ever, the NZXT H400i should be one of your top micro ATX case choices. This case doesn’t disappoint in any category… 
-unless you’re on a budget.
+It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel! 
+
+The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features. 
+
+In terms of airflow, the case supports up to 7 120mm fans and room for even a full custom water loop.
+
+The H400i comes with 3 non-RGB fans, which is really lame. Be sure to deck it out with lights, as it has space for whatever you might want to throw at it. 
+
+It also includes an RGB fan controller that can support up to 5 RGB fans or 4 LED strips, powered by the NZXT CAM software, which allows you to get the best performance possible out of your case fans.
+
+Taking up very little space and looking stylish as ever, the NZXT H400i should be one of your top micro ATX case choices. 
+
+This case doesn’t disappoint in any category… unless you’re on a budget.
 
 <div class="featured-specs-box">
 <h2 id="bitfenix-prodigy-m">
@@ -431,17 +442,29 @@ unless you’re on a budget.
 </div>
 </div>
 
-The BitFenix Prodigy M is one of our favorite picks this year. I mean, just look at it – it’s so cool! Thanks to its carrying handle and small form factor, it's perfect for LAN parties and gaming on the go (at least, as good as a gaming PC can get.)
+The BitFenix Prodigy M is one of our favorite picks this year. 
 
-The BitFenix Prodigy and the Prodigy M variants seem quite similar, and they are in the respect that their casing is almost exactly the same. Besides the M variant sporting a side panel window, it also has its motherboard mount on the opposite side of the computer case, and mounts on sideways as opposed to flat on the non-M version.
+I mean, just look at it – it’s so cool! Thanks to its carrying handle and small form factor, it's perfect for LAN parties and gaming on the go (at least, as good as a gaming PC can get.)
 
-The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve. These are relatively small tradeoffs for the quality of this case.
+The BitFenix Prodigy and the Prodigy M variants seem quite similar, and they are in the respect that their casing is almost exactly the same. 
 
-If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backwards. It isn’t too much of an issue, but it can become confusing for newbies.
+Besides the M variant sporting a side panel window, it also has its motherboard mount on the opposite side of the computer case, and mounts on sideways as opposed to flat on the non-M version.
 
-The compact nature of the Prodigy M can also become quite an annoyance. If you’ve got big hands we wish you the best of luck in your building endeavors, as this case is tight as ever and building can be challenging at times.
+The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve. 
 
-Nevertheless, portability is king, and with the Prodigy M you’ll have no problem moving it around. Wielding 4 comfortable and sturdy handles (that also serve as legs) mixed with its small size, and its support for Micro ATX motherboards, carrying this thing around is a breeze. 
+These are relatively small tradeoffs for the quality of this case.
+
+If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backwards. 
+
+It isn’t too much of an issue, but it can become confusing for newbies.
+
+The compact nature of the Prodigy M can also become quite an annoyance. 
+
+If you’ve got big hands we wish you the best of luck in your building endeavors, as this case is tight as ever and building can be challenging at times.
+
+Nevertheless, portability is king, and with the Prodigy M you’ll have no problem moving it around. 
+
+Wielding 4 comfortable and sturdy handles (that also serve as legs) mixed with its small size, and its support for Micro ATX motherboards, carrying this thing around is a breeze. 
 
 We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN event. 
 
@@ -479,15 +502,27 @@ We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN even
 </div>
 </div>
 
-The Thermaltake Level 20 VT is the right case for the show off in you! If you’re planning on showing your PC to your friends and family this is surely the case for the job. Looks aside, the case's functionality doesn't fall short either. 
+The Thermaltake Level 20 VT is the right case for the show off in you! 
 
-This case sports 4mm thick tempered glass on four sides, and the top sides and bottom panels are all symmetrical and interchangeable. The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm. The top of the case also has gaps to optimize airflow, so there's no need to worry about your components overheating!
+If you’re planning on showing your PC to your friends and family this is surely the case for the job. 
 
-The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions. Its six removable drive bays (three 3.5” and three 2.5”) give you easy swapability and plenty of room for other components. 
+Looks aside, the case's functionality doesn't fall short either. 
+
+This case sports 4mm thick tempered glass on four sides, and the top sides and bottom panels are all symmetrical and interchangeable. 
+
+The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm. 
+
+The top of the case also has gaps to optimize airflow, so there's no need to worry about your components overheating!
+
+The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions. 
+
+Its six removable drive bays (three 3.5” and three 2.5”) give you easy swapability and plenty of room for other components. 
 
 For front IO options, the Level 20 VT has four total front USB ports. Two USB 2.0 and two USB 3.0, with a headphone and a microphone jack, of course. 
 
-Compact and hearty, Thermaltake’s Level 20 VT Micro ATX case is built to last at a reasonable price. Sturdy and sleek, this case will serve as premium protection for your interior with premium presentation on the exterior. All bark and no bite? More like ready to fight fight fight! 
+Compact and hearty, Thermaltake’s Level 20 VT Micro ATX case is built to last at a reasonable price. 
+
+Sturdy and sleek, this case will serve as premium protection for your interior with premium presentation on the exterior. All bark and no bite? More like ready to fight fight fight! 
 
 Sorry, that was a bit corny... 
 
@@ -528,54 +563,88 @@ In any event, this case is actually really great.
 </div>
 </div>
 
-The IN-WIN BL631 is probably the best slim Micro ATX case you can buy on the market right now. It’s designed to be the best in its class, providing exceptional thermal performance, satisfactory acoustics, and remarkable ease of use.
+The IN-WIN BL631 is probably the best slim Micro ATX case you can buy on the market right now. 
 
-This case is built to please, offering Partition Plate Cooling Technology (PPCT) which provides thermal and acoustic performance rivaled by no other. Its small form factor also attributes to easy heat dissipation via an adjustable vent.
+It’s designed to be the best in its class, providing exceptional thermal performance, satisfactory acoustics, and remarkable ease of use.
 
-The Micro ATX form factor is compatibile with most standard desktop parts and it detachable drive cage allows easy mechanical drive installation or improved airflow. The BL631 also incorporates a screw-less design for much quicker and simpler installation.
+This case is built to please, offering Partition Plate Cooling Technology (PPCT) which provides thermal and acoustic performance rivaled by no other. 
 
-This case doesn’t necessarily lack in the IO department, but it could be better. The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header. If you so wish, there’s also panels for 5.25” and 3.5” expansions in the front for you to mount a disk drive or card reader.
+Its small form factor also attributes to easy heat dissipation via an adjustable vent.
 
-The included 300W power supply adds so much to what we thought couldn’t get any better. Although 300W is fairly miniscule in most computers, the 300W should be all you need for an APU gaming machine or a home theatre HTPC. Even using a low profile graphics card such as the GT 1030 Low Profile only sucks round 30W of power which is no problem for this PSU.
+The Micro ATX form factor is compatibile with most standard desktop parts and it detachable drive cage allows easy mechanical drive installation or improved airflow. 
+
+The BL631 also incorporates a screw-less design for much quicker and simpler installation.
+
+This case doesn’t necessarily lack in the IO department, but it could be better. 
+
+The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header. 
+
+If you so wish, there’s also panels for 5.25” and 3.5” expansions in the front for you to mount a disk drive or card reader.
+
+The included 300W power supply adds so much to what we thought couldn’t get any better. 
+
+Although 300W is fairly miniscule in most computers, the 300W should be all you need for an APU gaming machine or a home theatre HTPC. 
+
+Even using a low profile graphics card such as the GT 1030 Low Profile only sucks round 30W of power which is no problem for this PSU.
 
 The IN-WIN BL631 is an awesome slim Micro ATX case. It’s compact with good airflow and it boasts a good-looking desisgn too.
 
 <div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+<h2 id="nanoxia-rexgear-1">
+<span>#5</span> <a href="https://amzn.to/2JIqWCK" target="_blank">Nanoxia Rexgear 1</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
 <div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>412 x 280 x 418mm</span></p>
 <p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
+<p><span>Drive Bays</span><span>One 5.25”, Three 3.5”, One 2.5”</span></p>
+<p><span>Expansion Slots</span><span>4</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
+<li>Fan controller knobs</li>
+<li>Anti-vibration PSU pads</li>
+<li>Sturdy design</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
+<li>Fan controller knobs aren't PWM</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price</a>
 </div>
 </div>
 
+This case is quite a weird one. Every case has its qwerk, and the Nanoxia Rexgear 1 is no exception. 
 
+Its horizontal mounting solution and fan control knobs are just a couple of its oddities.
 
+The fan control knobs situated on the front panel IO and are able to control a maximum of six simultaneous fans, which also happens to be the maximum amount of fans the case supports. 
+
+However, they don’t have support for PWM fans, so don’t bet on hooking up all those brand new LED fans to your rig. 
+
+Horizontal mounting always allows for more space and it just so happens that its one of the Rexgear’s main draws. 
+
+The Rexgear’s horizontal mounting gives a much greater range of support for different graphics card sizes and places your GPU right against the side panel window for your viewing pleasure. 
+
+The full length power supply support is also a welcome addition. 
+
+This case gives the PSU some loving with a dedicated dust filter, rubber vibration pads, and a PSU bracket.
+
+In addition, airflow is no issue in this case as it has its own specialized exhaust system. 
+
+Its six 120mm fan support makes sure you have air going in and out at a healthu rate, and the top of the case has an adjustable set of exhaust fins that look pretty cool when extended as well.
+
+The toolless hard drive mount makes it easy to swap drives – in fact, the entire cage is removeable. 
+
+It supports up to three 3.5” drives and still leaves a large amount of much needed cable management space.
+
+Building in the Rexgear 1 will probably be one of the easiest experiences you could ask for, thanks to its removable motherboard tray which allows you to easily mount your board outside of the case. 
 
 <div class="featured-specs-box">
 <h2 id="corsair-carbide-series-400c">
