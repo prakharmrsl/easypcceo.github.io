@@ -445,79 +445,100 @@ Nevertheless, portability is king, and with the Prodigy M you’ll have no probl
 
 We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN event. 
 
-
 <div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+<h2 id="thermaltake-level-20-vt">
+<span>#3</span> <a href="https://amzn.to/2Vlqahn" target="_blank">Thermaltake Level 20 VT</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
 <div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
-<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>348 x 330 x 430mm</span></p>
+<p><span>Case Fans</span><span>0 Included, 9 Max</span></p>
+<p><span>Drive Bays</span><span>Three 3.5”, Three 2.5”</span></p>
+<p><span>Expansion Slots</span><span>5</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
+<li>4 Interchangeable tempered glass panels</li>
+<li>Six drive bays</li>
+<li>Easy to work with</li>
+<li>Cube design</li>
+<li>Very Small</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
+<li>No case fans included</li>
+<li>Cost</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price</a>
 </div>
 </div>
 
+The Thermaltake Level 20 VT is the right case for the show off in you! If you’re planning on showing your PC to your friends and family this is surely the case for the job. Looks aside, the case's functionality doesn't fall short either. 
 
+This case sports 4mm thick tempered glass on four sides, and the top sides and bottom panels are all symmetrical and interchangeable. The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm. The top of the case also has gaps to optimize airflow, so there's no need to worry about your components overheating!
+
+The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions. Its six removable drive bays (three 3.5” and three 2.5”) give you easy swapability and plenty of room for other components. 
+
+For front IO options, the Level 20 VT has four total front USB ports. Two USB 2.0 and two USB 3.0, with a headphone and a microphone jack, of course. 
+
+Compact and hearty, Thermaltake’s Level 20 VT Micro ATX case is built to last at a reasonable price. Sturdy and sleek, this case will serve as premium protection for your interior with premium presentation on the exterior. All bark and no bite? More like ready to fight fight fight! 
+
+Sorry, that was a bit corny... 
+
+In any event, this case is actually really great.
 
 
 <div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+<h2 id="in-win-bl631">
+<span>#4</span> <a href="https://amzn.to/2LGjJGe" target="_blank">IN-WIN BL631</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
 <div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
-<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>330 x 97 x 366mm</span></p>
+<p><span>Case Fans</span><span>0 Included, 1 Max</span></p>
+<p><span>Drive Bays</span><span>One 5.25”, Three 3.5”</span></p>
+<p><span>Expansion Slots</span><span>4 (Half Height)</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
+<li>4 front USB ports</li>
+<li>Ultra Slim</li>
+<li>Aesthetically pleasing</li>
+<li>300W PSU included</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
+<li>No included fans</li>
+<li>No room for a GPU</li>
+<li>Low profile expansion slots</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price</a>
 </div>
 </div>
 
+The IN-WIN BL631 is probably the best slim Micro ATX case you can buy on the market right now. It’s designed to be the best in its class, providing exceptional thermal performance, satisfactory acoustics, and remarkable ease of use.
 
+This case is built to please, offering Partition Plate Cooling Technology (PPCT) which provides thermal and acoustic performance rivaled by no other. Its small form factor also attributes to easy heat dissipation via an adjustable vent.
+
+The Micro ATX form factor is compatibile with most standard desktop parts and it detachable drive cage allows easy mechanical drive installation or improved airflow. The BL631 also incorporates a screw-less design for much quicker and simpler installation.
+
+This case doesn’t necessarily lack in the IO department, but it could be better. The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header. If you so wish, there’s also panels for 5.25” and 3.5” expansions in the front for you to mount a disk drive or card reader.
+
+The included 300W power supply adds so much to what we thought couldn’t get any better. Although 300W is fairly miniscule in most computers, the 300W should be all you need for an APU gaming machine or a home theatre HTPC. Even using a low profile graphics card such as the GT 1030 Low Profile only sucks round 30W of power which is no problem for this PSU.
+
+The IN-WIN BL631 is an awesome slim Micro ATX case. It’s compact with good airflow and it boasts a good-looking desisgn too.
 
 <div class="featured-specs-box">
 <h2 id="corsair-carbide-series-400c">
