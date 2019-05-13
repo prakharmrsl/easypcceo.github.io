@@ -116,7 +116,7 @@ Here's the deal:
 		<td class="components">
 			<ul>
 			<li>Side Panel Window</li>
-			<li>Great Cable Management</li>
+			<li>Cable Management</li>
 			<li>Affordable</li>
 			</ul>
 		</td>
@@ -140,7 +140,7 @@ Here's the deal:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H400i</h2>
@@ -162,7 +162,7 @@ The greatness doesn’t stop at looks for the H400i, as its feature set it apart
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload" alt="BitFenix Prodigy M: micro atx case with handle" data-src="/img/case/matx/prodigy-m.jpg" /></a>
 </div>
 <div class="text">
 <h2>BitFenix Prodigy M</h2>
@@ -182,7 +182,7 @@ With portability matching no other, the BitFenix Prodigy M should be one of, if 
 <span>Versatility Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload" alt="Thermaltake Level 20 VT" data-src="/img/case/matx/20-vt.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Level 20 VT</h2>
@@ -222,7 +222,7 @@ If you need a media PC to match your TV color scheme, or you only have minimal d
 <span>Small Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: small micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
 </div>
 <div class="text">
 <h2>Nanoxia Rexgear 1</h2>
@@ -242,11 +242,11 @@ The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the
 <span>Ultra Slim Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: smallest micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
 </div>
 <div class="text">
 <h2>Rosewill R379-M</h2>
-<h3>Cheap Micro ATX Case</h3>
+<h3>Smallest Micro ATX Case</h3>
 <p>If you’re looking for a super slim Micro ATX for APU gaming or maybe just for your next HTPC home theatre system, the Rosewill R379-M is one of the best slim Micro ATX options around. It's definitely small, so make sure you abide by the 80mm cooler height limit when looking for your CPU fan.</p>
 <div class="btn">
 <a class="learn-button cta-button" href="#rosewill-r379-m">Read Review </a>
@@ -262,7 +262,7 @@ This small Micro ATX case is *not* meant for gaming, as it is too small to house
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload" alt="Cooler Master MasterBox Q300L: budget matx case" data-src="/img/case/matx/q300l.jpg" /></a>
 </div>
 <div class="text">
 <h2>Cooler Master MasterBox Q300L</h2>
@@ -298,9 +298,153 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 
 When you’re tight on budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
 
+## Things to Consider Before Buying a Small Micro ATX Case 
+
+Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for. 
+
+**It's important to consider the following:**
+
+* Desk space
+* Front USB
+* Expansion support
+* Building difficulty
+* Airflow
+* Storage options
+* Serviceability
+* Graphics card support
+
+### Desk Space
+
+Always consider how much desk space your case will take up since it’s ultimately the shell of the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
+
+### Front USB
+
+If you plan on plugging in USB flash drives on a consistent basis without having to pull a reach around you might want to go for an option that includes USB 3.0 with the front panel IO.
+
+### Expansion Support
+
+Depending on what type of graphics card you use it may take up two or more slots and you might even want other expansion cards, so make sure you always check the case’s expansion options.
+
+### Building Difficulty
+
+If you’re new to building computers or maybe just rusty you may want to find a case that’s much easier to build in so that you can swiftly get your new computer up and running ASAP.
+
+### Airflow
+
+Airflow may not seem as important in a smaller case since smaller form factor builds don’t usually produce as much heat as more beefy ones. We cannot stress enough how important it is to keep your parts cool to get the best performance and longevity out of your components.
+
+### Storage Options
+
+If you plan on keeping your case for a very long period of time (in the tech world that could be quite a few years) you should always look at storage slots and ease of upgrade. Storage runs out quick and it’s always good to have a little extra for backups.
+ 
+### Serviceability
+
+Things break, it’s inevitable, but where will you be when the fortress falls? Choosing a case that offers a warranty is very important. Shipping services don’t exactly care for your well being, and sometimes the deeper damage isn’t obvious until much longer down the line.
+
+### Graphics Card Support
+
+Planning on building a low profile ultimate gaming rig? Think again. Small form factor cases rarely support anything more than half height graphics cards, and the highest end half height cards are GTX 1050 and 750 ti.
+
+In the end, your case is your choice. 
+
+Go for what you want and show off your own personal style in whichever way you decide and game, content create, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine. 
+
+Whatever you choose, however you choose, just consider our tips and find the case that fits perfectly with your personal preferences, and overall just enjoy your handy work!
+
 ## Case Reviews
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
+
+<div class="featured-specs-box">
+<h2 id="nzxt-h400i">
+<span>#1</span> <a href="https://amzn.to/2E0WGQ7" target="_blank">NZXT H400i</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>417 x 210 421mm</span></p>
+<p><span>Case Fans</span><span>3 Included, 7 Max</span></p>
+<p><span>Drive Bays</span><span>One 3.5”, Three 2.5”</span></p>
+<p><span>Expansion Slots</span><span>4</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Durable steel construction</li>
+<li>RGB digital fan controller</li>
+<li>Tempered glass side panel</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>A bit pricey</li>
+<li>Heavy</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price</a>
+</div>
+</div>
+
+You’re only looking for the best of the best. You want no lies, no shortcuts – just style, functionality, and reliability. The NZXT H400i fits the bill to a ‘T’ and you will be hard pressed to find a similar alternative that lives up to the level of quality the H400i puts forward.
+
+Sleek is this case’s middle name and my, my does it like to flex that. You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color schemes to fit whatever amazing colors your build might include, and its durable full steel body is built to keep all of your expensive parts safe within its walls. It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel! 
+
+The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features. In terms of airflow, the case supports up to 7 120mm fans and room for even a full custom water loop.
+
+The H400i comes with 3 non-RGB fans, which is really lame. Be sure to deck it out with lights, as it has space for whatever you might want to throw at it. It also includes an RGB fan controller that can support up to 5 RGB fans or 4 LED strips, powered by the NZXT CAM software, which allows you to get the best performance possible out of your case fans.
+
+Taking up very little space and looking stylish as ever, the NZXT H400i should be one of your top micro ATX case choices. This case doesn’t disappoint in any category… 
+unless you’re on a budget.
+
+<div class="featured-specs-box">
+<h2 id="bitfenix-prodigy-m">
+<span>#2</span> <a href="https://amzn.to/2YkBSL0" target="_blank">BitFenix Prodigy M</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>403 x 249 x 358mm</span></p>
+<p><span>Case Fans</span><span>1 Included, 5 Max</span></p>
+<p><span>Drive Bays</span><span>One 5.25”, Four 3.5”, Five 2.5”</span></p>
+<p><span>Expansion Slots</span><span>2</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Carrying Handle</li>
+<li>Compact</li>
+<li>Versatile</li>
+<li>Good looking design</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Difficult to build in</li>
+<li>Expensive</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price</a>
+</div>
+</div>
+
+The BitFenix Prodigy M is one of our favorite picks this year. I mean, just look at it – it’s so cool! Thanks to its carrying handle and small form factor, it's perfect for LAN parties and gaming on the go (at least, as good as a gaming PC can get.)
+
+The BitFenix Prodigy and the Prodigy M variants seem quite similar, and they are in the respect that their casing is almost exactly the same. Besides the M variant sporting a side panel window, it also has its motherboard mount on the opposite side of the computer case, and mounts on sideways as opposed to flat on the non-M version.
+
+The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve. These are relatively small tradeoffs for the quality of this case.
+
+If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backwards. It isn’t too much of an issue, but it can become confusing for newbies.
+
+The compact nature of the Prodigy M can also become quite an annoyance. If you’ve got big hands we wish you the best of luck in your building endeavors, as this case is tight as ever and building can be challenging at times.
+
+Nevertheless, portability is king, and with the Prodigy M you’ll have no problem moving it around. Wielding 4 comfortable and sturdy handles (that also serve as legs) mixed with its small size, and its support for Micro ATX motherboards, carrying this thing around is a breeze. 
+
+We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN event. 
+
 
 <div class="featured-specs-box">
 <h2 id="corsair-carbide-series-400c">
@@ -336,3 +480,184 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 </div>
 </div>
 
+
+
+
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
+
+
+
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
+
+
+
+
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
+
+
+
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
+
+
+
+<div class="featured-specs-box">
+<h2 id="corsair-carbide-series-400c">
+<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
+<p><span>Expansion Slots</span><span>7</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Style</li>
+<li>Compact</li>
+<li>Supports E-ATX boards</li>
+<li>Several dust filters</li>
+<li>Side-panel window</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>No optical drive bays</li>
+<li>No fan controller</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+</div>
+</div>
