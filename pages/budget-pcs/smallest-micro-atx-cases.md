@@ -7,29 +7,44 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 ---
 <h3 class="page-subtitle">
 	Updated May 12th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	<a href="/about/"><img data-src="/img/profile/jordyn-hamilton.jpg" class="circle" alt="Headshot"></a>
 	Jordyn Hamilton
 </h3>
 <script data-src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 
 Here's the deal:
 
+If you're building a gaming PC, you're going to need a great case to not only house your components but to cool and protect them as well. 
+
+These days, smaller cases are becoming more and more popular.
+
+That's why we've created this guide. 
+
+We've rounded up the best (and the smallest) micro ATX cases on the market.
+
 *Let's get started:* 
 
 <div class="toc-box">
 <ul>
-  <li><a href="#smallest-atx-case-options">Smallest ATX Case Options</a></li>
-  <li><a href="#case-buying-guide">Case Buying Guide</a></li>
-  <li><a href="#a-great-case-is">A Great Case Is...</a></li>
+  <li><a href="#smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
+  <li><a href="#micro-atx-case-buying-guide">Micro ATX Case Buying Guide</a></li>
   <li><a href="#case-reviews">Case Reviews</a></li>
-  <li><a href="#do-you-need-a-gaming-case">Do You Need a 'Gaming' Case?</a></li>
-  <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 </div>
 
 ## Smallest Micro ATX Case Options
 
+Building a PC – whether it's for gaming or workstation tasks – is an art form. 
 
+Just like you choose components based on your performance requirements, you shold choose a case based on your style. 
+
+Still, there's more to a case than just its looks. 
+
+A micro ATX case should have enough space for your components, cables, and airflow. 
+
+It needs to be strong, good looking, and affordable. 
+
+Here is a list of the smallest micro ATX cases on the market:
 
 <table class="basic-table" align="center">
 	<tr>
@@ -298,7 +313,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 
 When you’re tight on budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
 
-## Things to Consider Before Buying a Small Micro ATX Case 
+## Micro ATX Case Buying Guide
 
 Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for. 
 
@@ -328,6 +343,8 @@ Depending on what type of graphics card you use it may take up two or more slots
 ### Building Difficulty
 
 If you’re new to building computers or maybe just rusty you may want to find a case that’s much easier to build in so that you can swiftly get your new computer up and running ASAP.
+
+<img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
 ### Airflow
 
@@ -397,6 +414,8 @@ You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color sc
 
 It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel! 
 
+<img class="lazyload img-middle" alt="nzxt h400i side view" src="/img/case/matx/400i-side-view.jpg" />
+
 The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features. 
 
 In terms of airflow, the case supports up to 7 120mm fans and room for even a full custom water loop.
@@ -452,7 +471,9 @@ Besides the M variant sporting a side panel window, it also has its motherboard 
 
 The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve. 
 
-These are relatively small tradeoffs for the quality of this case.
+These are relatively small tradeoffs for the quality of this case.'
+
+<img class="lazyload img-middle" alt="prodigy-m interior" src="/img/case/matx/prodigy-m-interior.jpg" />
 
 If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backwards. 
 
@@ -513,6 +534,8 @@ This case sports 4mm thick tempered glass on four sides, and the top sides and b
 The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm. 
 
 The top of the case also has gaps to optimize airflow, so there's no need to worry about your components overheating!
+
+<img class="lazyload img-middle" alt="20-vt side view" src="/img/case/matx/20-vt-side.jpg" />
 
 The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions. 
 
@@ -575,6 +598,8 @@ The Micro ATX form factor is compatibile with most standard desktop parts and it
 
 The BL631 also incorporates a screw-less design for much quicker and simpler installation.
 
+<img class="lazyload img-middle" alt="bl-631 interior" src="/img/case/matx/bl-631-interior.jpg" />
+
 This case doesn’t necessarily lack in the IO department, but it could be better. 
 
 The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header. 
@@ -633,6 +658,8 @@ Horizontal mounting always allows for more space and it just so happens that its
 The Rexgear’s horizontal mounting gives a much greater range of support for different graphics card sizes and places your GPU right against the side panel window for your viewing pleasure. 
 
 The full length power supply support is also a welcome addition. 
+
+<img class="lazyload img-middle" alt="nanoxia rexgear 1 interior" src="/img/case/matx/rexgear-1-interior.jpg" />
 
 This case gives the PSU some loving with a dedicated dust filter, rubber vibration pads, and a PSU bracket.
 
@@ -741,6 +768,8 @@ The front IO sports both a headphone and a microphone jack, which sounds awesome
 Unfortunately, the case has two USB connectors on the front, but they're both USB 2.0.
 
 One of the biggest allures of this case is its included 300W SFF (Small Form Factor) power supply. 
+
+<img class="lazyload img-middle" alt="Rosewill R379-M" src="/img/case/matx/379-m-interior.jpg" />
 
 It can power all of the components you choose, as this case doesn't have enough room for a dedicated GPU anyway. 
 
