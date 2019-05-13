@@ -14,8 +14,6 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 
 Here's the deal:
 
-
-
 *Let's get started:* 
 
 <div class="toc-box">
@@ -31,11 +29,7 @@ Here's the deal:
 
 ## Smallest Micro ATX Case Options
 
-When it comes to building a gaming PC, choosing the right case is incredibly important. 
 
-Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
-
-Finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
 
 <table class="basic-table" align="center">
 	<tr>
@@ -45,64 +39,100 @@ Finding the smallest full size ATX case in 2019 can be challenging. In an effort
 		<th>More</th>
 	</tr>
 	<tr>
-		<td>Corsair Carbide Series 400C</td>
-		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+		<td>NZXT H400i</td>
+		<td><a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload table-image" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Clean Design</li>
-			<li>Superb Airflow</li>
-			<li>Spacious</li>
+			<li>Beautiful Desisgn</li>
+			<li>Great Airflow</li>
+			<li>Small</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#400c">View</a></td>
+		<td><a class="big-button" href="#h400i">View</a></td>
 	</tr>
 	<tr>
-		<td>Corsair Carbide Series Air 540</td>
-		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+		<td>BitFenix Prodigy M</td>
+		<td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Compact Case</li>
-			<li>Space Saving Design</li>
-			<li>Fantastic Cable Management</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#air-540">View</a></td>
-	</tr>
-	<tr>
-		<td>NZXT H500i</td>
-		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Beautiful Design</li>
-			<li>Smart Case</li>
-			<li>Solid Construction</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#h500i">View</a></td>
-	</tr>
-	<tr>
-		<td>Cooler Master HAF XB II EVO</td>
-		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Small Case, Plenty of Space</li>
-			<li>Perfect for Travel</li>
-			<li>Supports Full-Size CPU Coolers</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#cm-evo">View</a></td>
-	</tr>
-	<tr>
-		<td>Thermaltake Core G3 Slim ATX Case</td>
-		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim ATX Case Design</li>
+			<li>Carrying Handle</li>
 			<li>Side Panel Window</li>
-			<li>Full-Size with Low Profile</li>
+			<li>Sleek Design</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#core-g3">View</a></td>
+		<td><a class="big-button" href="#prodigy-m">View</a></td>
+	</tr>
+	<tr>
+		<td>Thermaltake Level 20 VT</td>
+		<td><a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload table-image" alt="Thermaltake Level 20 VT" data-src="/img/case/matx/20-vt.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Cube Case</li>
+			<li>4-Sided Windows</li>
+			<li>Simple</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#20-vt">View</a></td>
+	</tr>
+	<tr>
+		<td>IN-WIN BL631</td>
+		<td><a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload table-image" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Slim Case</li>
+			<li>Good Price</li>
+			<li>Cable Management</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#bl631">View</a></td>
+	</tr>
+	<tr>
+		<td>Nanoxia Rexgear 1</td>
+		<td><a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload table-image" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Color Schemes</li>
+			<li>Spacious Interior</li>
+			<li>Looks Awesome</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#rexgear-1">View</a></td>
+	</tr>
+	<tr>
+		<td>Rosewill R379-M</td>
+		<td><a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload table-image" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Slim Design</li>
+			<li>Cheap Price</li>
+			<li>Airflow</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#r379-m">View</a></td>
+	</tr>
+	<tr>
+		<td>Cooler Master MasterBox Q300L</td>
+		<td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Side Panel Window</li>
+			<li>Great Cable Management</li>
+			<li>Affordable</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#q300l">View</a></td>
+	</tr>
+	<tr>
+		<td>Rosewill FBM-05</td>
+		<td><a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload table-image" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Dirt Cheap</li>
+			<li>Solid Construction</li>
+			<li>Budget Friendly</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="fbm-05">View</a></td>
 	</tr>
 </table>
 
@@ -192,7 +222,7 @@ If you need a media PC to match your TV color scheme, or you only have minimal d
 <span>Small Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
 </div>
 <div class="text">
 <h2>Nanoxia Rexgear 1</h2>
@@ -219,7 +249,7 @@ The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the
 <h3>Cheap Micro ATX Case</h3>
 <p>If you’re looking for a super slim Micro ATX for APU gaming or maybe just for your next HTPC home theatre system, the Rosewill R379-M is one of the best slim Micro ATX options around. It's definitely small, so make sure you abide by the 80mm cooler height limit when looking for your CPU fan.</p>
 <div class="btn">
-<a class="learn-button cta-button" href="#cooler-master-masterbox-q300l">Read Review </a>
+<a class="learn-button cta-button" href="#rosewill-r379-m">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2HgNXLs">Check Price </a>
 </div>
 </div>
@@ -247,6 +277,26 @@ This small Micro ATX case is *not* meant for gaming, as it is too small to house
 </div>
 
 With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries. It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
+
+<div id="fbm-05" class="featured-info-box">
+<span>Honorable Mention</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
+</div>
+<div class="text">
+<h2>Rosewill FBM-05</h2>
+<h3>Extremely Cheap Micro ATX Case</h3>
+<p>There’s really not much to the Rosewill FBM-05 – it’s a Micro ATX case and it’s dirt cheap. It doesn’t perform exceptionally well in any category other than price, and we honestly wouldn’t suggest it for anything other than a low end PC for Grandma (even then it’s a stretch, you love her right?) so she can web browse in peace.</p>
+<div class="btn">
+<a class="learn-button cta-button" href="#rosewill-fbm-05">Read Review </a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price </a>
+</div>
+</div>
+</div>
+</div>
+
+When you’re tight on budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
 
 ## Case Reviews
 
