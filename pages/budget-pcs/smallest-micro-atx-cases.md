@@ -647,40 +647,74 @@ It supports up to three 3.5” drives and still leaves a large amount of much ne
 Building in the Rexgear 1 will probably be one of the easiest experiences you could ask for, thanks to its removable motherboard tray which allows you to easily mount your board outside of the case. 
 
 <div class="featured-specs-box">
-<h2 id="corsair-carbide-series-400c">
-<span>#1</span> <a href="https://amzn.to/2PorXR8" target="_blank">Corsair Carbide Series 400C</a>
+<h2 id="rosewill-r379-m">
+<span>#6</span> <a href="https://amzn.to/2HgNXLs" target="_blank">Rosewill R379-M</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
 <div class="specs">
-<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>464 x 215 x 425mm</span></p>
-<p><span>Case Fans</span><span>2 Included, 6 Max</span></p>
-<p><span>Drive Bays</span><span>Two 3.5", Three 2.5" </span></p>
-<p><span>Expansion Slots</span><span>7</span></p>
+<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>325 x 99 x 401mm</span></p>
+<p><span>Case Fans</span><span>1 Included, 1 Max</span></p>
+<p><span>Drive Bays</span><span>One 5.25”, Two 3.5”</span></p>
+<p><span>Expansion Slots</span><span>4 (Half Height)</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
 <ul class="pros">
 <span>Pros:</span>
-<li>Style</li>
-<li>Compact</li>
-<li>Supports E-ATX boards</li>
-<li>Several dust filters</li>
-<li>Side-panel window</li>
+<li>Slim</li>
+<li>Easy to build in</li>
+<li>Cheap</li>
+<li>Includes 300W PSU</li>
 </ul>
 <ul class="cons">
 <span>Cons:</span>
-<li>No optical drive bays</li>
-<li>No fan controller</li>
+<li>Lacks front USB 3.0</li>
+<li>Only 1 fan</li>
+<li>No 2.5" bays</li>
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2HgNXLs">Check Price</a>
 </div>
 </div>
 
+The Rosewill R379-M is one of the most perfectly well rounded Micro ATX cases out there that allots all of the benefits of a Mini ITX case without the often frightening price. 
 
+Still, at low price points there will always be sacrifices that need to be made.
+
+In the case of the R379 the build quality and feature set takes a bit of a hit, making it difficult to suggest it for anything more than an HTPC. 
+
+The metal is quite thin and the exterior doesn’t appeal too much to the eyes. 
+
+It's not a dazzling case, but it gets the job done. 
+
+As for features, the R379 supports up to a maximum of Micro ATX boards but will also support Mini ITX boards. 
+
+The front IO sports both a headphone and a microphone jack, which sounds awesome! 
+
+Unfortunately, the case has two USB connectors on the front, but they're both USB 2.0.
+
+One of the biggest allures of this case is its included 300W SFF (Small Form Factor) power supply. 
+
+It can power all of the components you choose, as this case doesn't have enough room for a dedicated GPU anyway. 
+
+With regards to the expansion slots, they're only half height. 
+
+It's important to keep in mind that SFF graphics cards are a bit hard to come by. 
+
+Taking that into consideration the highest end Ryzen APU at the moment (Ryzen 5 2400G) only sits at a measly 65W TDP, which is perfect for the case's power supply. 
+
+You’d better hope you pick the right cooling fan, because you only get one case fan for either intake or outtake. 
+
+We suggest intake, as the power supply can handle outtake and your CPU fan alone shouldn’t be left responsible for cooling your entire system.
+
+It’s slim, it’s cheap, and it even comes with a whole 300W of power preinstalled. 
+
+For the average builder on a budget, this case is a good choice. 
+
+If you're interested in building a gaming PC, on the other hand, you should look elsewhere.
 
 <div class="featured-specs-box">
 <h2 id="corsair-carbide-series-400c">
