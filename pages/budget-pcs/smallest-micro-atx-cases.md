@@ -7,7 +7,7 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 ---
 <h3 class="page-subtitle">
 	Updated May 12th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/jordyn-hamilton.png" class="circle" alt="Headshot"></a>
+	<a href="/about/"><img src="/img/profile/jordyn-hamilton.png" class="circle" alt="Headshot"></a>
 	Jordyn Hamilton
 </h3>
 <script data-src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
