@@ -351,7 +351,7 @@ If you’re new to building computers or maybe just rusty you may want to find a
 Airflow may not seem as important in a smaller case since smaller form factor builds don’t usually produce as much heat as more beefy ones. We cannot stress enough how important it is to keep your parts cool to get the best performance and longevity out of your components.
 
 ### Storage Options
-<img class="lazyload img-right img-small" alt="small matx case example" src="/img/case/matx/smallest-atx-case-example.jpg" />
+<img class="lazyload img-right img-small" alt="small matx case example" src="/img/case/matx/micro-atx-case-example.jpg" />
 
 If you plan on keeping your case for a very long period of time (in the tech world that could be quite a few years) you should always look at storage slots and ease of upgrade. Storage runs out quick and it’s always good to have a little extra for backups.
  
