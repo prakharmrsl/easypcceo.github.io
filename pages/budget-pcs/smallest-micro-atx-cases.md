@@ -37,7 +37,7 @@ We've rounded up the best (and the smallest) micro ATX cases on the market.
 
 [Building a PC](/budget-pcs/) – whether it's for gaming or workstation tasks – is an art form. 
 
-Just like you choose components based on your performance requirements, you shold choose a case based on your style. 
+Just like you choose components based on your performance requirements, you should choose a case based on your style. 
 
 Still, there's more to a case than just its looks. 
 
@@ -59,7 +59,7 @@ Here is a list of the smallest micro ATX cases on the market:
 		<td><a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload table-image" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Beautiful Desisgn</li>
+			<li>Beautiful Design</li>
 			<li>Great Airflow</li>
 			<li>Small</li>
 			</ul>
@@ -172,7 +172,7 @@ Here is a list of the smallest micro ATX cases on the market:
 </div>
 </div>
 
-The greatness doesn’t stop at looks for the H400i, as its feature set it apart from all other Micro ATX case. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
+The greatness doesn’t stop at looks for the H400i, as its features set it apart from all other Micro ATX case. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
 
 <div id="prodigy-m" class="featured-info-box">
 <span>Runner Up</span>
@@ -192,7 +192,7 @@ The greatness doesn’t stop at looks for the H400i, as its feature set it apart
 </div>
 </div>
 
-With portability matching no other, the BitFenix Prodigy M should be one of, if not your top choice when looking for your next Micro ATX LAN build. It’s flexible handles are comfortable to hold and keep the case sturdy on its feet so you’ll need not worry about your components getting shuffled around.
+With portability matching no other, the BitFenix Prodigy M should be one of, if not your top choice when looking for your next Micro ATX LAN build. Its flexible handles are comfortable to hold and keep the case sturdy on its feet so you’ll need not worry about your components getting shuffled around.
 
 <div id="20-vt" class="featured-info-box">
 <span>Versatility Pick</span>
@@ -252,7 +252,7 @@ If you need a media PC to match your TV color scheme, or you only have minimal d
 </div>
 </div>
 
-The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fins. Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
+The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fans. Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
 
 <div id="r379-m" class="featured-info-box">
 <span>Ultra Slim Pick</span>
@@ -303,7 +303,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 <div class="text">
 <h2>Rosewill FBM-05</h2>
 <h3>Extremely Cheap Micro ATX Case</h3>
-<p>There’s really not much to the Rosewill FBM-05 – it’s a Micro ATX case and it’s dirt cheap. It doesn’t perform exceptionally well in any category other than price, and we honestly wouldn’t suggest it for anything other than a low end PC for Grandma (even then it’s a stretch, you love her right?) so she can web browse in peace.</p>
+<p>There’s really not much to the Rosewill FBM-05 – it’s a Micro ATX case and it’s dirt cheap. It doesn’t perform exceptionally well in any category other than price, and we honestly wouldn’t suggest it for anything other than a low-end PC for Grandma (even then it’s a stretch, you love her right?) so she can web browse in peace.</p>
 <div class="btn">
 <a class="learn-button cta-button" href="#rosewill-fbm-05">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price </a>
@@ -312,7 +312,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 </div>
 </div>
 
-When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high end parts anywhere near this case.
+When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
 ## MATX Case Buying Guide
 
@@ -332,7 +332,7 @@ Before you buy yourself any Micro ATX case – let alone a small or slim Micro A
 ### Desk Space
 <img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
-Always consider how much desk space your case will take up since it’s ultimately the shell of the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
+Always consider how much desk space your case will take up since it’s ultimately  the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
 
 ### Front USB
 
