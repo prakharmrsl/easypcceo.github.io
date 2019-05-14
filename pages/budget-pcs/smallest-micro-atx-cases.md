@@ -162,7 +162,7 @@ Here is a list of the smallest micro ATX cases on the market:
 <h2>NZXT H400i</h2>
 <h3>Best Micro ATX Case</h3>
 
-<p>If you weren’t expecting the [NZXT](https://www.nzxt.com/){: target="_blank"} H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you. It’s clean and sleek, with a sturdy steel design and beautiful tempered glass side panel for your viewing pleasure.</p>
+<p>If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you. It’s clean and sleek, with a sturdy steel design and beautiful tempered glass side panel for your viewing pleasure.</p>
 
 <div class="btn">
 <a class="learn-button cta-button" href="#nzxt-h400i">Read Review </a>
