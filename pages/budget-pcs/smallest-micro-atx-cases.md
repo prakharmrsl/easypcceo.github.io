@@ -11,6 +11,7 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 	Jordyn Hamilton
 </h3>
 <script data-src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
+<img class="img-small img-right" alt="smallest atx case page header image" src="/img/case/matx/h400i.jpg">
 
 Here's the deal:
 
