@@ -129,7 +129,7 @@ If you're looking for a PC that can game in 1080p, record, stream, edit, render,
 		<td>AMD Radeon RX 570 4GB</td>
 	</tr>
 	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2FHqfVe">Check Lowest Price on Amazon</a></td>
+		<td colspan="3"><a class="big-button" href="/budget-pcs/600-prebuilt/">Read our Guide</a></td>
 	</tr>
 </table>
 
