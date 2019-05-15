@@ -361,11 +361,11 @@ Things break, it’s inevitable, but where will you be when the fortress falls? 
 
 ### Graphics Card Support
 
-Planning on building a low profile ultimate gaming rig? Think again. Small form factor cases rarely support anything more than half height graphics cards, and the highest end half height cards are GTX 1050 and 750 ti.
+Planning on building a low profile ultimate gaming rig? Think again. Small form factor cases rarely support anything more than half-height graphics cards, and the highest end half-height cards are GTX 1050 and 750 ti.
 
 In the end, your case is your choice. 
 
-Go for what you want and show off your own personal style in whichever way you decide and game, content create, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine. 
+Go for what you want and show off your own personal style in whichever way you decide and game, create content, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine. 
 
 Whatever you choose, however you choose, just consider our tips and find the case that fits perfectly with your personal preferences, and overall just enjoy your handy work!
 
@@ -387,7 +387,7 @@ According to [Wikipedia](https://en.wikipedia.org/wiki/ATX){: target="_blank"}:
 
 ### What is the Difference Between ATX and Micro ATX?
 
-The main difference between ATX and Micro ATX is size. 
+The main difference between ATX and Micro ATX is the size. 
 
 There are three main case sizes: ATX, Micro ATX, and Mini ITX. 
 
@@ -407,11 +407,11 @@ It's important to note, though, that some micro ATX cases aren't large enough fo
 
 For example, you probably won't be able to fit a water cooling system, a ton of case fans, several hard drives, and multiple GPUs in a micro ATX case. 
 
-In that case, you'll want to go with an ATX mid tower or even a full tower. 
+In that case, you'll want to go with an ATX mid-tower or even a full-tower. 
 
 Nevertheless, micro ATX is still suitable for most people and builds. 
 
-Even micro ATX cases these days have pretty spacious interiors, large enough to accomodate most PC builds. 
+Even micro ATX cases these days have pretty spacious interiors, large enough to accommodate most PC builds. 
 
 ## Case Reviews
 
@@ -520,7 +520,7 @@ These are relatively small tradeoffs for the quality of this case.'
 
 <img class="lazyload img-middle" alt="prodigy-m interior" src="/img/case/matx/prodigy-m-interior.jpg" />
 
-If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backwards. 
+If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backward. 
 
 It isn’t too much of an issue, but it can become confusing for newbies.
 
@@ -608,7 +608,7 @@ In any event, this case is actually really great.
 <p><span>Dimensions (HxWxD)</span><span>330 x 97 x 366mm</span></p>
 <p><span>Case Fans</span><span>0 Included, 1 Max</span></p>
 <p><span>Drive Bays</span><span>One 5.25”, Three 3.5”</span></p>
-<p><span>Expansion Slots</span><span>4 (Half Height)</span></p>
+<p><span>Expansion Slots</span><span>4 (Half-Height)</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -639,7 +639,7 @@ This case is built to please, offering Partition Plate Cooling Technology (PPCT)
 
 Its small form factor also attributes to easy heat dissipation via an adjustable vent.
 
-The Micro ATX form factor is compatibile with most standard desktop parts and it detachable drive cage allows easy mechanical drive installation or improved airflow. 
+The Micro ATX form factor is compatible with most standard desktop parts and its detachable drive cage allows easy mechanical drive installation or improved airflow. 
 
 The BL631 also incorporates a screw-less design for much quicker and simpler installation.
 
@@ -710,9 +710,9 @@ This case gives the PSU some loving with a dedicated dust filter, rubber vibrati
 
 In addition, airflow is no issue in this case as it has its own specialized exhaust system. 
 
-Its six 120mm fan support makes sure you have air going in and out at a healthu rate, and the top of the case has an adjustable set of exhaust fins that look pretty cool when extended as well.
+Its six 120mm fan support makes sure you have air going in and out at a healthy rate, and the top of the case has an adjustable set of exhaust fans that look pretty cool when extended as well.
 
-The toolless hard drive mount makes it easy to swap drives – in fact, the entire cage is removeable. 
+The toolless hard drive mount makes it easy to swap drives – in fact, the entire cage is removable. 
 
 It supports up to three 3.5” drives and still leaves a large amount of much needed cable management space.
 
@@ -752,7 +752,7 @@ Building in the Rexgear 1 will probably be one of the easiest experiences you co
 
 This case reels in its fanbase with its perfection in the majority of categories by looking great, performing great, and costing… well, great! 
 
-The Q300L boasts a front panel IO fit for a multitude of postitionings, making sure that no matter where or how you place it you can always reach all your front buttons and plugs. 
+The Q300L boasts a front panel IO fit for a multitude of positionings, making sure that no matter where or how you place it you can always reach all your front buttons and plugs. 
 
 Its slightly larger size allows for a much larger list of GPU sizes. This case also includes a full acrylic side panel window. 
 
@@ -773,7 +773,7 @@ This case really has it all for an affordable price.
 <p><span>Dimensions (HxWxD)</span><span>325 x 99 x 401mm</span></p>
 <p><span>Case Fans</span><span>1 Included, 1 Max</span></p>
 <p><span>Drive Bays</span><span>One 5.25”, Two 3.5”</span></p>
-<p><span>Expansion Slots</span><span>4 (Half Height)</span></p>
+<p><span>Expansion Slots</span><span>4 (Half-Height)</span></p>
 </div>
 </div>
 <div class="pros-n-cons">
@@ -796,7 +796,7 @@ This case really has it all for an affordable price.
 </div>
 </div>
 
-The Rosewill R379-M is one of the most perfectly well rounded Micro ATX cases out there that allots all of the benefits of a Mini ITX case without the often frightening price. 
+The Rosewill R379-M is one of the most perfectly well rounded Micro ATX cases out there that allows all of the benefits of a Mini ITX case without the often frightening price. 
 
 Still, at low price points there will always be sacrifices that need to be made.
 
@@ -818,7 +818,7 @@ One of the biggest allures of this case is its included 300W SFF (Small Form Fac
 
 It can power all of the components you choose, as this case doesn't have enough room for a dedicated GPU anyway. 
 
-With regards to the expansion slots, they're only half height. 
+With regards to the expansion slots, they're only half-height. 
 
 It's important to keep in mind that SFF graphics cards are a bit hard to come by. 
 
