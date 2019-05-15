@@ -3,6 +3,7 @@ title: "Best Budget Prebuilt Gaming PC Options in 2019"
 permalink: "/budget-pcs/"
 layout: page
 seotitle: "5 Best Budget Gaming PC Prebuilt Options + Custom Builds (2019)"
+redirect_from: "/budget-pcs/prebuilt"
 ---
 <h3 class="page-subtitle">
 	May 15th, 2019 by 
