@@ -556,8 +556,7 @@ You are still spending a relatively small amount on the PC, but it is still enou
 ## The Stealth Gamer ($600) 
 ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
 
-
-This PC can run the newest titles in 1080p with 60 FPS including Destiny 2, [Battlefield 1](https://www.igdb.com/games/battlefield-1){:target="_blank"}, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
+This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/) and can run the newest titles in 1080p with 60 FPS including Destiny 2, [Battlefield 1](https://www.igdb.com/games/battlefield-1){:target="_blank"}, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
 
 It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
 

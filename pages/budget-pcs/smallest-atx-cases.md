@@ -16,9 +16,11 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 
 Here's the deal:
 
-If you're looking for the best (and the smallest) [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case money can buy, you've come to the right place. I've procured the ultimate "smallest ATX case" list so you can make the best decision when purchasing your next case! 
+If you're looking for the best and the smallest ATX case money can buy, you've come to the right place. I've procured the ultimate "smallest ATX case" list so you can make the best decision when purchasing your next case! 
 
-*Let's get started:* 
+By the way, ATX is the largest form factor. If these cases aren't small enough for you, you may want to consider buying a [small micro-ATX case](/budget-pcs/smallest-micro-atx-cases/) instead. 
+
+Anyway, *let's get started:* 
 
 <div class="toc-box">
 <ul>
@@ -37,7 +39,7 @@ When it comes to building a gaming PC, choosing the right case is incredibly imp
 
 Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
 
-Finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
+Anyway, finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
 
 <table class="basic-table" align="center">
 	<tr>
@@ -139,7 +141,7 @@ Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan 
 </div>
 
 The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
-Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and [case fans](/budget-pcs/case-fans/), which is especially nice in a small ATX case. 
+Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and [case fans](/budget-pcs/case-fans/), which is especially nice in a small [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case. 
 
 <div id="air-540" class="featured-info-box">
 <span>Runner Up</span>
