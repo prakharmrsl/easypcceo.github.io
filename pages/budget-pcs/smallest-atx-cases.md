@@ -110,18 +110,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 </table>
 
-## Cooling Options
-
-Even if you're not planning on overclocking your components, you'll still need great case fans to cool your PC.
-
-Although most cases come with stock fans, there often aren't enough fans installed, or they're simply not powerful enough to supply adequate airflow for certain systems. 
-
-Despite all of these cases having pre-installed case fans, you'll probably want to add a few more, either now or in the future. 
-
-Luckily, we have a guide all about [case fans](/budget-pcs/case-fans/) and [fan controllers](/budget-pcs/case-fans/controller/). 
-
-[Read More](/budget-pcs/case-fans/){: .btn-middle}
-
 <div id="400c" class="featured-info-box">
 <span>First Choice</span>
 <div class="content">
