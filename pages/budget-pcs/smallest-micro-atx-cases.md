@@ -316,6 +316,10 @@ When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your
 
 ## MATX Case Buying Guide
 
+Buying an MATX case for your next gaming PC is definitely a move. 
+
+You can find both high-end and budget micro ATX cases, so they can be used in builds ranking from [$600](/budget-pcs/) all the way up to $1000+. 
+
 Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for. 
 
 **It's important to consider the following:**
