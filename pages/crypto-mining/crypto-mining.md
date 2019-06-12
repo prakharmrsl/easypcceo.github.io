@@ -111,7 +111,7 @@ NOTE: There will only ever be 21 million coins, so start mining NOW!
 
 ## Crypto Mining Guide 
 
-This guide will teach you the basics of mining for cryptocurrencies.
+This guide will teach you the basics of mining for cryptocurrencies and [crypto transactions](https://bitcoinfy.net/crypto-transactions-and-mining/){: target="_blank"}.
 
 These are the 3 MOST important parts of a cryptocurrency mining PC: 
 
