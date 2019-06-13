@@ -6,7 +6,7 @@ seotitle: "5 Best Budget Gaming PC Prebuilt Options + Custom Builds (2019)"
 redirect_from: "/budget-pcs/prebuilt/"
 ---
 <h3 class="page-subtitle">
-	May 15th, 2019 by 
+	June 13th, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -27,310 +27,6 @@ And if you want to build one yourself from scratch, we've got custom builds for 
 
 We promise we've got the perfect gaming PC no matter what your budget is! 
 
-## 5 Budget Gaming PC Prebuilt Options 
-
-<div id="overview">
-<table class="basic-table table-colorful" align="center">
-	<tr>
-		<th>Price</th>
-		<th>Image</th>
-		<th>Components</th>
-		<th>Buy on Amazon</th>
-	</tr>
-	<tr>
-		<td><b>$600</b></td>
-		<td><a target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/prebuilt/600.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 1400</li>
-			<li>AMD Radeon RX 570 4GB</li>
-			<li>8GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2FHqfVe"><img class="table-image" src="/img/cart.png" alt="">
-		<a class="big-button" href="#dell-inspiron-5675-gaming-pc---600">PC Overview</a>
-		</a></td>
-	</tr>
-	<tr>
-		<td><b>$700</b></td>
-		<td><a target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/case/xtreme.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Intel i5-7400</li>
-			<li>AMD Radeon RX 580 4GB</li>
-			<li>8GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BZL7FH"><img class="table-image" src="/img/cart.png" alt="">
-		<a class="big-button" href="#cyberpowerpc-gamer-extreme---700">PC Overview</a>
-		</a></td>
-	</tr>
-	<tr>
-		<td><b>$800</b></td>
-		<td><a href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/prebuilt/800.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 1400</li>
-			<li>AMD Radeon RX 580</li>
-			<li>8GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM + 256GB SSD</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2BRguS5"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
-		<a class="big-button" href="#hp-pavillion-power-premium-gaming-pc---800">PC Overview</a>
-		</a></td>
-	</tr>
-	<tr>
-		<td><b>$1,400</b></td>
-		<td><a href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Intel i7-7700K</li>
-			<li>GeForce GTX 1060 6GB</li>
-			<li>16GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM + 256GB SSD</li>
-			</ul>
-		</td>
-		<td><a class="block-cart" target="_blank" href="http://amzn.to/2DYQOou"><img class="table-image" src="/img/cart.png" alt="800 Prebuilt gaming pc">
-		<a class="big-button" href="#skytech-omega-gaming-pc---1400">PC Overview</a>
-		</a></td>
-	</tr>
-</table>
-</div>
-
-## [Dell Inspiron 5675 Gaming PC](http://amzn.to/2FHqfVe){:target="_blank"} - $600
-<a target="_blank" href="http://amzn.to/2FHqfVe"><img class="img-small img-right" src="/img/prebuilt/600.png" /></a>
-
-This $600 prebuilt gaming PC is one of my personal favorites. It looks great and more importantly, it can game like nobody's business. 
-
-This PC can handle 1080p gaming with no problem. Expect to see 60 FPS in almost all titles with a mix of high-ultra settings. 
-
-The power of the Ryzen 5 1400 CPU combined with the RX 570 with 4GB of VRAM is hard to beat. 
-
-If you're looking for a PC that can game in 1080p, record, stream, edit, render, multitask and more, you're in luck because *this PC can do it all!*
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 5 1400</td>
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>8GB DDR4 2400 MHz</td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>1TB 7200RPM</td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>AMD Radeon RX 570 4GB</td>
-	</tr>
-	<tr>
-		<td colspan="3"><a class="big-button" href="/budget-pcs/600-prebuilt/">Read our Guide</a></td>
-	</tr>
-</table>
-
-**Pros:** 
-
-* This PC is extremely cost effective 
-* The Performance per dollar of this gaming PC is insane
-* Good looking exterior 
-* Windows 10 Included
-
-**Cons:**
-
-* Lacking an SSD, but at this budget it's perfectly understandable. In addition, it's easy to install one on your own! 
-
-This video should give you an idea of the gaming performance you can expect with this gaming PC: 
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/HPT5_RmKGjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-
-## [CyberPowerPC Gamer Extreme](http://amzn.to/2BZL7FH){:target="_blank"} - ($700)
-<a target="_blank" href="http://amzn.to/2BZL7FH"><img class="img-small img-right" src="/img/case/xtreme.png" /></a>
-
-
-[This $700 gaming PC](http://amzn.to/2BZL7FH){:target="_blank"} from CyberPowerPC really packs a punch for its pricetag. 
-
-You're buying a prebuilt gaming PC with Windows already installed, not to mention a one year parts and labor warranty with free lifetime tech support. 
-
-It's a great value; if you tried to build this PC on your own *the parts would cost you nearly $1,000*
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Intel i5-7400</td>
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>8GB DDR4 2400 MHz</td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>1TB 7200RPM</td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>AMD Radeon RX 580 4GB</td>
-	</tr>	
-	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2BZL7FH">Check Lowest Price on Amazon</a></td>
-	</tr>
-</table>
-
-Oftentimes if the CPU in your PC isn't up to par, it'll bottleneck the GPU and cause sudden FPS drops. 
-
-That won't be a problem here thanks to the dependability and power of the Intel i5-7400 CPU. It's a powerhouse that'll get the job done with time to spare. 
-
-When this CPU is coupled with the power of the RX 580 4GB, it's pretty much game over. You'll see your FPS counter soar past 60 FPS with ultra settings, 1080p resolution. 
-
-**Pros:**
-
-* Amazing PC for the money
-* Windows included
-* Parts & labor warranty, lifetime tech support
-
-**Cons:** 
-
-* An SSD would've been nice, but this PC still kicks butt!
-
-This video should give you an idea of the gaming performance you can expect with this gaming PC: 
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/WxaFgaCwMMQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-
-
-## [HP Pavillion Power Premium Gaming PC](http://amzn.to/2BRguS5){:target="_blank"} - $800
-<a target="_blank" href="http://amzn.to/2BRguS5"><img alt="$800 prebuilt gaming PC" class="img-right img-small" src="/img/prebuilt/800.png" /></a>
-
-
-I couldn't believe my eyes when I stumbled across the [Newest Flagship HP Pavilion Power Premium Gaming VR Ready Desktop](http://amzn.to/2BRguS5){:target="_blank"} gaming PC on Amazon for only $800. It has an AMD Radeon RX 580 which would cost you around $550 alone. 
-
-Not only are you getting an amazing deal on the GPU, you're getting an amazing deal on the entire PC. *If you tried to build this PC yourself, it could cost you over $1,100.* This is easily the best value for the money of all the PCs on this list. 
-
-The Ryzen 5 1400 is an outsanding chip which will have no problem handling 1080p gaming with the RX 580. In fact, this PC could even handle some VR gaming if you're interested in experiencing it. 
-
-Furthermore, this PC not only features a 1TB mass storage drive, but a 256 GB SSD. This is awesome! When you load your Windows OS, drivers and a few games on the SSD, the computer operates FAR smoother and faster than if these files were being stored on the mechanical hard drive. 
-
-Overall this PC is an absolute steal; I'm a bit jealous I don't own one myself! 
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 5 1400</td>
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>8GB 2400 MHz</td>
-	</tr>
-	<tr>
-		<td><b>Storage</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM & 256GB SSD</td>
-	</tr>
-	<tr>
-		<td>GPU</td>
-		<td>AMD Radeon RX 580 4GB</td>
-	</tr>
-	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2BRguS5">Check Lowest Price on Amazon</a></td>
-	</tr>
-</table>
-
-**Pros:**
-
-* Excellent value
-* Superb gaming Performance
-* Good looking case
-* High quality components
-* SSD included
-* Windows 10 Included
-
-**Cons:**
-
-* NONE!
-
-This video should give you an idea of the gaming performance you can expect with this gaming PC: 
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/gIIXIT1PB_8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-
-## [SkyTech Omega Gaming PC](http://amzn.to/2DYQOou){:target="_blank"} - $1400 
-<a href="http://amzn.to/2DYQOou"><img class="img-small img-right" src="/img/prebuilt/1400.png" /></a>
-
-
-This is my pick for the best overkill gaming PC. If you've got a lot of money to spend and you want to turn up every setting to the max while shredding the competition, this is the PC for you. 
-
-Featuring an extremely powerful i7 CPU and a GTX 1060 6GB, this rig is a monster. 
-
-**NOTE:** If you wait for GPU prices to cool off, you can build a gaming PC like this one with a *GTX 1070* which is far superior than the GTX 1060. Unfortunately due to cryptocurrency mining, a GTX 1070 is just ridiculously expensive. 
-
-This PC has 16GB of DDR4 RAM, an SSD for your OS and games, as well as a water cooler which allows for extreme overclocking with your unlocked Intel i7 CPU. 
-
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Intel i7-7700K</td>
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>16GB 2400 MHz</td>
-	</tr>
-	<tr>
-		<td><b>Storage</b></td>
-		<td>WD Caviar Blue 2TB 7200RPM & 240GB SSD</td>
-	</tr>
-	<tr>
-		<td>GPU</td>
-		<td>GeForce GTX 1060 6GB</td>
-	</tr>
-	<tr>
-		<td colspan="3"><a class="big-button" href="http://amzn.to/2DYQOou">Check Lowest Price on Amazon</a></td>
-	</tr>
-</table>
-
-**Pros:** 
-
-* Unlocked Intel i7 CPU
-* Water cooled (great overclocking potential!)
-* 16GB RAM
-* Lots of storage (2TB mass storage and 240GB SSD)
-* Windows 10 
-
-**Cons:**
-
-* High price tag 
-
-This PC is insanely powerful. If you are willing to drop $1,400 on a gaming computer, this is the one for you. 
-
-You can expect 60+ FPS in 1080p resolution max settings for just about all titles. Not only can you game with this PC, you can record, edit, render, stream, multitask, and more. 
-
-## Benefits of a Prebuilt Gaming PC in 2019 
-
-If you'd asked me my opinion of prebuilt gaming PCs a year ago I'd tell you they're a ripoff. Most prebuilts were overpriced and underpowered; and there are still many overpriced prebuilts on the market.
-
-However, if you know where to look they can be very beneficial, especially now. 
-
-Let me explain: 
-
-A combination of cryptocurrency mining and a VRAM shortage has driven the price of GPUs skyhigh. Furthermore, smartphone production is driving the price of RAM quite high as well. That being said, it's a difficult time to build your own gaming PC.
-
-However, prebuilt PCs are a good option. 
-
-For example, the $800 prebuilt PC build in this guide may cost $1,000 or more if you tried to build it on your own. 
-
-It's a great way to save money especially if you're looking to get into the PC gaming community. 
-
 ## The Best Budget Gaming PC Builds
 <div id="overview">
 <table class="basic-table table-colorful" align="center">
@@ -339,23 +35,22 @@ It's a great way to save money especially if you're looking to get into the PC g
 		<th>Name</th>
 		<th>Image</th>
 		<th>Components</th>
-		<th>Buy on Amazon</th>
+		<th>Build Guide</th>
 	</tr>
 	<tr>
 		<td><b>$400</b></td>
 		<td>Extreme Budget Gamer</td>
-		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/cougar mx200.png" /></a></td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Intel Pentium G4560</li>
-			<li>MSI GTX 1050 2GB</li>
-			<li>Crucial 8GB DDR4-2133</li>
-			<li>WD RE3 500GB</li>
+			<li>Ryzen 3 1200</li>
+			<li>RX 570 4GB</li>
+			<li>8GB DDR4-3000</li>
+			<li>1TB HDD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a>
-			</a></td>
+		<td>
+		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
@@ -364,14 +59,12 @@ It's a great way to save money especially if you're looking to get into the PC g
 		<td class="components">
 			<ul>
 			<li>Ryzen 3 2200G</li>
-			<li>ASUS Radeon RX 570 ROG STRIX 4GB</li>
+			<li>RX 570 ROG STRIX 4GB</li>
 			<li>Corsair Vengeance LPX 8GB DDR4-2400MHz</li>
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#the-perfect-balance-500">Parts List</a>
-		</a></td>
+		<td><a class="big-button" href="#the-perfect-balance-500">Parts List</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
@@ -379,15 +72,13 @@ It's a great way to save money especially if you're looking to get into the PC g
 		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 3 1200</li>
-			<li>ASUS GTX 1060</li>
-			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
-			<li>WD Caviar Blue 1TB</li>
+			<li>Ryzen 5 2600</li>
+			<li>RX 570 8GB</li>
+			<li>8GB DDR4-2933</li>
+			<li>500GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#the-stealth-gamer-600">Parts List</a>
-		</a></td>
+		<td><a class="big-button" href="#the-stealth-gamer-600">Parts List</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
@@ -395,15 +86,14 @@ It's a great way to save money especially if you're looking to get into the PC g
 		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>AMD Ryzen 5 1400</li>
-			<li>ASUS GTX 1060 6GB</li>
-			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
-			<li>WD Caviar Blue 1TB</li>
+			<li>AMD Ryzen 5 2600</li>
+			<li>GTX 1660 Ti 6GB</li>
+			<li>8GB DDR4-2400</li>
+			<li>240GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#the-phoenix-700">Parts List</a>
-		</a></td>
+		<td>
+		<a class="big-button" href="#the-phoenix-700">Parts List</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
@@ -417,9 +107,7 @@ It's a great way to save money especially if you're looking to get into the PC g
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
-		<td><a class="block-cart" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1"><img class="table-image" src="../img/cart.png" alt="">
-		<a class="big-button" href="#the-monster-800">Parts List</a>
-		</a></td>
+		<td><a class="big-button" href="#the-monster-800">Parts List</a></td>
 	</tr>
 	<tr>
 		<td><b>Prebuilt</b></td>
@@ -442,7 +130,7 @@ It's a great way to save money especially if you're looking to get into the PC g
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
-![400 pc](/img/case/cougar mx200.png "$400 Gaming PC"){: .processor .img-right .img-small}
+![400 pc](/img/case/fbm-x1.jpg "$400 Gaming PC"){: .processor .img-right .img-small}
 
 ## The Extreme Budget Gamer ($400) 
 
@@ -450,53 +138,9 @@ You might think a good gaming PC goes for around $700-$800. If you bought your P
 
 This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
 
-Featuring a GTX 1050ti and a Pentium G4560, you'll run new titles in 1080p, medium-high settings with acceptable framerates. The case also features an [80mm case fan](/budget-pcs/case-fans/80mm/) and a [120mm case fan](/budget-pcs/case-fans/120mm/) to keep your components cool during operation. 
+Featuring an RX 570 and a Ryzen 3 1200 quad core processor, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
 
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Intel Pentium G4560</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpDb2e">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>MSI Pro Series Intel B250 PRO-VDH</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErI0bJ">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>Crucial 8GB DDR4-2133</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2FxE8W2">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD RE3 500GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2GAwOtS">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>MSI GeForce GTX 1050 2GB</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ErrZT6">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>Corsair CX 450 80+ Bronze Certified</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2FB8S8F">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>Rosewill - FBM-X1 MicroATX Mini Tower</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2DQGTB4">Buy</a></td>
-	</tr>
-</table>
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B01NCE8T92&Quantity.1=1&ASIN.2=B01N6O79PB&Quantity.2=1&ASIN.3=B01BIWLFGQ&Quantity.3=1&ASIN.4=B001EMZPD0&Quantity.4=1&ASIN.5=B01N6NI5X6&Quantity.5=1&ASIN.6=B072F29JP4&Quantity.6=1&ASIN.7=B01MTZ96RU&Quantity.7=1">Buy This PC</a>
-	<br>
-	<a class="cta-button learn-button" href="/budget-pcs/400/">Read our Guide</a>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/ZD2XwV">Click here to check the current price.</a></i></p>
+<a class="btn-middle cta-button learn-button" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 ## The Perfect Balance ($500) 
@@ -507,51 +151,7 @@ On a budget, $500 is often the price range I recommend.
 
 You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
 
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 3 2200G</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Rw3NYE">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>ASRock - B450M-HDV</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Av1N9">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>Corsair Vengeance LPX 8GB DDR4-2400MHz</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Su7XgN">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>ASUS ROG Strix Radeon RX 570</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2SzvrkK">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>Corsair CX 450M</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2GTTslm">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>Fractal Design Focus G (Black)</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2R9tv5K">Buy</a></td>
-	</tr>
-</table>
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06X9LN3QK&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01M4KGTNI&Quantity.5=1&ASIN.6=B00LV8TZAG&Quantity.6=1&ASIN.7=B00NGMIBXC&Quantity.7=1">Buy This PC</a>
-	<br>
-	<a class="cta-button learn-button" href="/budget-pcs/500/">Read our Guide</a>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/XRTwsJ">Click here to check the current price.</a></i></p>
+<a class="cta-button learn-button btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
 
 ## The Stealth Gamer ($600) 
 ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
@@ -560,103 +160,14 @@ This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-c
 
 It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
 
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 3 1200</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y38ltp">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>ASRock - AB350M Micro ATX</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>ASUS GeForce GTX 1060 3GB Dual-Fan</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xpy913">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>EVGA 450W</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2z7dMaW">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>DIYPC - Cuboid-R</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2yvAQ60">Buy</a></td>
-	</tr>
-</table>
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B0741DN383&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01KUADE3O&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B01AJBRVUQ&Quantity.7=1">Buy This PC</a>
-	<br>
-	<a class="cta-button learn-button" href="/budget-pcs/600/">Read our Guide</a>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xjJNCy">Click here to check the current price.</a></i></p>
+<a class="btn-middle cta-button learn-button" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
 
 ![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
 ## The Phoenix ($700)
 
 This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
 
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 5 1400</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>ASRock - AB350M Micro ATX</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>EVGA GeForce GTX 1060 6GB SC GAMING Edition</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2z5rmvohttp://amzn.to/2y6t4hw">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>EVGA 430W</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xqv9Gi">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>Bitfenix - Comrade</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2xooGMd">Buy</a></td>
-	</tr>
-</table>
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01IPVSLTC&Quantity.5=1&ASIN.6=B00H33SDR4&Quantity.6=1&ASIN.7=B00LM2VYFU&Quantity.7=1">Buy This PC</a>
-	<br>
-	<a class="cta-button learn-button" href="/budget-pcs/700/">Read our Guide</a>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/xx8HPs">Click here to check the current price.</a></i></p>
-
+<a class="cta-button learn-button" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
 
 ![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
 ## The Monster ($800)
@@ -667,51 +178,7 @@ $800 is the perfect pricepoints for gamers looking to play all of the newest tit
 
 If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
 
-<table class="basic-table" align="center">
-	<tr>
-		<td><b>CPU</b></td>
-		<td>Ryzen 5 1400</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y7cSgh">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>MOBO</b></td>
-		<td>ASRock - AB350M Micro ATX</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y6aIhc">Buy</a></td>	
-	</tr>
-	<tr>
-		<td><b>RAM</b></td>
-		<td>G. Skill - Ripjaws V Series 8GB 2400 MHz</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B013GHSKR8/ref=as_li_tl?ie=UTF8&tag=cryptocurrency06-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B013GHSKR8&linkId=0d7334df1529271aaa95c45fa55c1e7f">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>HDD</b></td>
-		<td>WD Caviar Blue 1TB 7200RPM</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2y2fSZr">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>GPU</b></td>
-		<td>Zotac - GeForce GTX 1070 8GB Mini</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2yxZt29">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>PSU</b></td>
-		<td>EVGA 450W</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywGghh">Buy</a></td>
-	</tr>
-	<tr>
-		<td><b>CASE</b></td>
-		<td>NZXT S340 (Black)</td>
-		<td><a target="_blank" class="big-button" href="http://amzn.to/2ywq5QS">Buy</a></td>
-	</tr>	
-</table>
-
-<div class="button-wrapper">
-	<a class="cta-button buy-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B06XKWT8J4&Quantity.1=1&ASIN.2=B06WWC7BTJ&Quantity.2=1&ASIN.3=B00UFBZOVE&Quantity.3=1&ASIN.4=B0088PUEPK&Quantity.4=1&ASIN.5=B01JD2OSX0&Quantity.5=1&ASIN.6=B01F5LX55K&Quantity.6=1&ASIN.7=B06XS364S8&Quantity.7=1">Buy This PC</a>
-	<br>
-	<a class="cta-button learn-button" href="/budget-pcs/800/">Read our Guide</a>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. <a target="_blank" href="https://pcpartpicker.com/list/jCjWgL">Click here to check the current price.</a></i></p>
+<a class="cta-button learn-button" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
 
 ## Choosing Parts for Your First Gaming PC 
 
@@ -727,30 +194,7 @@ Furthermore, once you buy the parts, then you actually have to build the compute
 
 Or do you? 
 
-We'll talk about all of that and more very soon. **Scroll down to read more!**
-
-<div id="base">
-<div id="box">
-
-<h2><a href="#why-build-a-gaming-pc">1.0: Why Build a Gaming PC?</a></h2>
-<h3><a href="#advantages-of-pc-gaming">1.1: Advantages of PC Gaming</a></h3>
-<h3><a href="#better-graphicsframerates">1.2: Better Graphics/Framerates</a></h3>
-<h3><a href="#flexibility">1.3: Flexibility</a></h3>
-<h3><a href="#pc-exclusives">1.4: PC Exclusives</a></h3>
-<h3><a href="#the-keyboard-and-mouse">1.5: The Keyboard and Mouse</a></h3>
-<h3><a href="#cheaper-in-the-long-run">1.6: Cheaper in the Long Run</a></h3>
-<h3><a href="#mature-community">1.7: Mature Community</a></h3>
-
-<h2><a href="#how-to-build-a-dirt-cheap-gaming-pc-in-3-easy-steps">2.0: How to Build a Dirt Cheap Gaming PC in 3 Easy Steps</a></h2>
-<h2><a href="#console-vs-pc">3.0: Console vs. PC</a></h2>
-<h2><a href="#how-to-find-the-right-parts-for-you">4.0: How to Find the Right Parts for You</a></h2>
-<h3><a href="#what-is-my-budget">4.1: What is my budget?</a></h3>
-<h3><a href="#what-games-do-i-want-to-play">4.2: What games do I want to play?</a></h3>
-<h2><a href="#finding-the-parts-for-you">5.0: Finding the Parts for You</a></h2>
-<h2><a href="#custom-built-or-prebuilt">6.0: Custom Built or Prebuilt?</a></h2>
-<h2><a href="#8-things-to-consider-before-you-buy">7.0: 8 Things to Consider Before You Buy</a></h2>
-</div>
-</div>
+We'll talk about all of that and more very soon. 
 
 ## Why Build a Gaming PC? 
 
