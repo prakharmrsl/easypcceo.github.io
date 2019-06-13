@@ -140,7 +140,7 @@ This cheap gaming PC gives you an outstanding bang for your buck, playing the ne
 
 Featuring an RX 570 and a Ryzen 3 1200 quad core processor, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
 
-<a class="btn-middle cta-button learn-button" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
+<a class="btn-middle" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
 
 ![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
 ## The Perfect Balance ($500) 
@@ -151,7 +151,7 @@ On a budget, $500 is often the price range I recommend.
 
 You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
 
-<a class="cta-button learn-button btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
+<a class= btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
 
 ## The Stealth Gamer ($600) 
 ![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
@@ -160,14 +160,14 @@ This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-c
 
 It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
 
-<a class="btn-middle cta-button learn-button" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
+<a class="btn-middle" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
 
 ![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
 ## The Phoenix ($700)
 
 This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
 
-<a class="cta-button learn-button" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
+<a class=" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
 
 ![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
 ## The Monster ($800)
@@ -178,7 +178,7 @@ $800 is the perfect pricepoints for gamers looking to play all of the newest tit
 
 If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
 
-<a class="cta-button learn-button" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
+<a class=" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
 
 ## Choosing Parts for Your First Gaming PC 
 
