@@ -20,7 +20,7 @@ If you're looking for the best and the smallest ATX case money can buy, you've c
 
 By the way, ATX is the largest form factor, so even the smallest ATX cases are going to be somewhat large, if that makes sense. 
 
-If you really want small, then you should check out the post I wrote about the [smallest micro ATX cases](/budget-pcs/smallest-micro-atx-cases/). They're just as cool as the cases below, but even smaller!
+If you really want small, then you should check out the post I wrote about the [smallest micro ATX cases](/budget-pcs/smallest-micro-atx-cases/) on the market. They're just as cool as the cases below, but even smaller!
 
 Anyway, *let's get started:* 
 
