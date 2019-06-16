@@ -6,7 +6,7 @@ seotitle: "5 Smallest ATX Case Reviews of 2019 (Compact)"
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 <h3 class="page-subtitle">
-	Updated January 1st, 2019 by 
+	Updated June 16th, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -18,7 +18,9 @@ Here's the deal:
 
 If you're looking for the best and the smallest ATX case money can buy, you've come to the right place. I've procured the ultimate "smallest ATX case" list so you can make the best decision when purchasing your next case! 
 
-By the way, ATX is the largest form factor. If these cases aren't small enough for you, you may want to consider buying a [small micro-ATX case](/budget-pcs/smallest-micro-atx-cases/) instead. 
+By the way, ATX is the largest form factor, so even the smallest ATX cases are going to be somewhat large, if that makes sense. 
+
+If you really want small, then you should check out the post I wrote about the [smallest micro ATX cases](/budget-pcs/smallest-micro-atx-cases/). They're just as cool as the cases below, but even smaller!
 
 Anyway, *let's get started:* 
 
@@ -129,7 +131,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 </div>
 
 The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
-Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and [case fans](/budget-pcs/case-fans/), which is especially nice in a small [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case. 
+Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and case fans, which is especially nice in a small [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case. 
 
 <div id="air-540" class="featured-info-box">
 <span>Runner Up</span>
@@ -216,7 +218,9 @@ The case has carrying handles, making it ideal as a LAN box. The case can also b
 </div>
 </div>
 
-The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. It's also one of the cheaper cases on this list, so you could use it if you're on a low budget (a [$500 gaming PC](/budget-pcs/500/), for example.)
+The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. The Thermaltake Core G3 is no exception! This case offers a stylish full sized form factor without being too big and bulky. It's also one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC. 
+
+In fact, I almost decided to use this case in my console killer [$500 gaming PC](/budget-pcs/500/) build. If you are about to build a budget gaming PC, you should definitely check that one out - I was surprised at how well the PC performed for such a low cost. 
 
 ## Case Buying Guide
 
@@ -244,7 +248,7 @@ Since cases are responsible for housing motherboards, cases are categorized in t
 
 A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
 
-**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using [80mm](/budget-pcs/case-fans/80mm/), [120mm](/budget-pcs/case-fans/120mm/), or [140mm](/budget-pcs/case-fans/140mm/) case fans, *airflow is incredibly important!* 
+**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using 80mm, 120mm, or 140mm case fans, *airflow is incredibly important!* 
 
 You may find this PC airflow guide helpful: 
 
@@ -335,7 +339,7 @@ On a more serious note, I'd like to talk about the actual design features of the
 
 The 400C measures 464 x 215 x 425mm (HxWxD) and weighs in at around 18 lbs. It's a smaller version of it's big brother, the 600C, but the case doesn't feel cramped. The outside of the 400C is mostly steel, but the door handle, feet, and ventilation dividers are made of plastic. Overall, the case is of a solid construction.
 
-It comes with a pre-installed 140mm fan in the front. If you wish, you can remove the 140mm fan and install three [120mm case fans](/budget-pcs/case-fans/) instead. You can even add another two 120mm or 140mm fans in the top of the case, or mount a water cooling radiator up to 360mm in size. 
+It comes with a pre-installed 140mm fan in the front. If you wish, you can remove the 140mm fan and install three 120mm case fans instead. You can even add another two 120mm or 140mm fans in the top of the case, or mount a water cooling radiator up to 360mm in size. 
 
 The case supports up to five storage devices, two of which are 3.5-inch drives and two 2.5-inch drive bays for SSDs. 
 
