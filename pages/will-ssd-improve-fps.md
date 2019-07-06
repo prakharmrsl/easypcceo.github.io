@@ -52,6 +52,10 @@ The Western Digital Caviar Blue 1TB HDD versus the Samsung 860 Evo 1TB SSD… FI
 
 We hope you were expecting that kind of blowout. It’s really no contest.
 
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUGt0M6YhsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 The much newer and advanced technology of SSDs allows them to easily surpass their mechanical counterparts by a large measure since HDDs have been using the same altered formula since conception.
 
 ### Hybrids
