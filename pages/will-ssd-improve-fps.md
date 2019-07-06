@@ -47,7 +47,7 @@ To put an end to all of the guessings, we’ve selected two of the most popular 
 
 The Western Digital Caviar Blue 1TB HDD versus the Samsung 860 Evo 1TB SSD… FIGHT!
 
-![SSD vs HDD performance test](/img/ssd-improve-fps/test-1.png){: .img-middle}
+![SSD vs HDD performance test](/img/ssd-improve-fps/test-1.png)
 
 We hope you were expecting that kind of blowout. It’s really no contest.
 
@@ -91,7 +91,7 @@ Seeing as, on average, a 1TB SSD would run you about $90USD to $100USD, you’ve
 
 So, how about we look at some benchmarks to help you decide?
 
-![SSD vs HDD second performance test results](/img/ssd-improve-fps/test-2.png){: .img-middle}
+![SSD vs HDD second performance test results](/img/ssd-improve-fps/test-2.png)
 
 Once again, the SSD proves its superiority in speed over that of the HDD, but that was to be expected.
 
