@@ -2,7 +2,7 @@
 title: "Dash Mining in 2019: Is It Still Profitable?"     
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
-seotitle: "#1 Best Dash Mining Hardware ASIC 2019 (How to Mine for Profit)" 
+seotitle: "#1 Best Dash Mining Hardware ASIC 2019 (Is It Profitable?)" 
 --- 
 <h3 class="page-subtitle">
 	July 13th, 2019 by 
