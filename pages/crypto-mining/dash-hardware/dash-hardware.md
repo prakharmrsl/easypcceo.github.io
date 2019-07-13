@@ -1,24 +1,26 @@
 ---
-title: Dash ASICs and GPUs (2019)    
+title: Dash Mining in 2019: Is It Still Profitable?     
 permalink: "/crypto-mining/dash-hardware/"
 layout: page
-seotitle: "#1 Best Dash Mining Hardware ASIC of 2019 (Updated)" 
+seotitle: "#1 Best Dash Mining Hardware ASIC 2019 (How to Mine for Profit)" 
 --- 
 <h3 class="page-subtitle">
-	January 14, 2019 by 
+	July 13th, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
 
 ![Dash Logo](/img/cryptocurrency/dash.png){: .img-right .img-small}
 
-Unlike [Zcash](/crypto-mining/zcash-hardware/), [Decred](/crypto-mining/decred-hardware/), [Monero](/crypto-mining/monero-hardware/), and [Ethereum](/crypto-mining/ethereum-hardware/), ASIC cards can be used to mine Dash. 
+ASIC cards (Application Specific Integrated Circuits) are used to mine Dash.
 
-This ASIC miner is the fastest and most power efficient solution for mining Dash.
+They are designed specifically for mining – this means they're both more expensive and more powerful. 
 
 What does this mean for your GPU?
 
 Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
+
+In this guide, we're going to be taking a look at the most powerful dash ASIC miner on the market. 
 
 ## The Best Dash ASIC Miner 
 
@@ -31,33 +33,57 @@ Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-108
 <div class="text">
 <h2>Antminer D3</h2>
 <h3>Dash ASIC Miner</h3>
-<p>The Antminer D3 is, by far, the best Dash miner on the market. With a hashrate of 15 GH/s, this miner draws 1200 watts from the wall. You just can't beat this ASIC's hashing power! While the power consumption might seem a bit high, the hashing power of this miner makes up for it.</p>
+<p>The Antminer D3 is, by far, the best Dash miner on the market. With a hashrate of 19.3 GH/s, this miner draws 1200 watts from the wall. You just can't beat this ASIC's hashing power! While the power consumption might seem a bit high, the hashing power of this miner makes up for it.</p>
 <div class="btn">
-<a class="learn-button cta-button" href="/crypto-mining/dash-hardware/antminer-d3-review/">Read Review </a>
+<a class="learn-button cta-button" href="/crypto-mining/dash-hardware/antminer-d3-review/">Read Antminer D3 Review </a>
 <a target="_blank" class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
 </div>
 </div>
 </div>
 </div>
 
+## ASIC Mining in 2019 
+
+ASICs are expensive, and when a new model is released, there is a significant impact on the coins and algorithms they mine. 
+
+Shortly after release, they cause mining difficulty to skyrocket. Even an ultra-powerful ASIC will only last a short while before the mining algorithm's difficulty catches up. 
+
+ASICs drive the cost of mining up, making it harder for the average person to join in. Only large mining companies can afford to mine at scale are profitable, mainly because they have the capital to invest in many ASICs and they mine in locations with cheap electricity. 
+
+Mining cryptocurrency – including Dash – is difficult in 2019 if you wish to turn a profit. 
+
 ## Is Dash Mining Profitable? 
 
-Due to the recent crypto market downturn, cryptocurrency mining isn't nearly as profitable as it was in January of 2018. 
+Mining is an expensive investment in 2019, probably too much for the average person. 
 
-In fact, right now it may be hard to break even after electricity costs. 
+Due to the rising block difficulty of [Bitcoin](/crypto-mining/bitcoin-hardware/) and other tokens (like Dash), it's only getting harder to mine profitably. 
 
-![Dash Mining Profitability](/img/cryptocurrency/dash-profit.jpg){: .img-middle}
+![dash mining profitability calculator](/img/cryptocurrency/dash/profit-calculator.jpg)
 
-If you're just interested in acquiring cryptocurrency such as Dash, right now it is a better idea to buy it from an exchange. 
+Combined with the low value of Dash and other tokens (compared to their price at the end of 2017), it's harder than ever before.
 
-Binance is one of our favorite exchanges. It's secure, easy to [sign up](https://www.binance.com/?ref=36195755){: target="_blank"}, and simple to use. Once you have your crypto in your exchange wallet, you can transfer it to a hardware or software wallet for safekeeping. 
+Tokens like [Ethereum](/crypto-mining/ethereum/), [Monero](/crypto-mining/monero/), [Litecoin](/crypto-mining/litecoin/), and more have taken a profitability hit in the past year. 
+
+On the other hand, the cryptocurrency market is beginning to rally. 
+
+It seems like the bulls are back – assuming the market rises once again, mining will become more profitable. 
+
+If you have an efficient Dash miner, the value of Dash is on the rise, and you have access to cheap electricity, Dash mining may be profitable for you. 
+
+It's always best to use a mining calculator to see what your ROI looks like. 
+
+## Dash Mining Calculator 
+
+There are many popular mining profitability calculators out there, and they all pretty much do the same thing. 
+
+You can use [this mining calculator from CryptoCompare](https://www.cryptocompare.com/mining/calculator/dash?HashingPower=19.3&HashingUnit=GH%2Fs&PowerConsumption=1200&CostPerkWh=0.10&MiningPoolFee=1){: target="_blank"} to test your mining profitability with the Antminer D3. 
+
+It takes into account your hashrate, power usage, mining pool fees, and the current price of Dash when calculating profitability. 
 
 ## Dash in a Nutshell
 
 <div class="vid-container">
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tfKjKPPmFb0?rel=0" frameborder="0" allowfullscreen></iframe>
-
 </div>
 
 ## Dash Mining Pools 
@@ -76,6 +102,12 @@ If you decide to go this route, it is crucial to stay on top of the latest minin
 Here's why: 
 
 You don't want to mine for a pool that suddenly increases its fees. Moreover, you don't want to mine for a pool that no longer exists. 
+
+## Dash Cloud Mining 
+
+Cloud mining is different from traditional mining - instead of having to buy your own mining hardware, you can hire another company to do the mining for you. In exchange, you'll receive a portion of the cryptocurrency they mine. 
+
+[Nice Hash](https://www.nicehash.com/cloud-mining/dash){: target="_blank"} has a pretty popular cloud mining service you can check out. 
 
 ## X11 Dash Mining 
 
@@ -97,7 +129,8 @@ With Dash, as a digital cash alternative, you can get the transaction data, but 
 
 Evan Duffield of Dash makes this comparison: 
 
-Three people are sitting at a table. Each person takes out their wallet. Each wallet has two 10 dollar bills. All three people set their two 10 dollar bills on the table, and they all turn around. A fourth guy comes around, and mixes up all of the 10 dollar bills. Then, everyone turns around and takes two ten dollar bills back. What allows this to happen is something called the [Master Node.](http://dashmasternode.org/what-is-a-masternode/){:target="_blank"} 
+<blockquote><p>
+Three people are sitting at a table. Each person takes out their wallet. Each wallet has two 10 dollar bills. All three people set their two 10 dollar bills on the table, and they all turn around. A fourth guy comes around, and mixes up all of the 10 dollar bills. Then, everyone turns around and takes two ten dollar bills back. What allows this to happen is something called the [Master Node.](http://dashmasternode.org/what-is-a-masternode/){: target="_blank"}</p></blockquote>
 
 ## Fungibility of Dash 
 
@@ -111,41 +144,17 @@ If, for example, you bought coins online, and they were previously used on the S
 
 Dash eliminates this because each coin is just as valuable as the rest. This eliminates the possiblity of the coins being traced. 
 
-## Non-ASIC Mining Hardware 
-
-Though ASIC miners are powerful and efficient, not everybody wants to spend the money for them, as they can be quite expensive. Furthermore, other graphics cards can still mine Dash and other cryptocurrencies quite efficiently. 
-
-You can find other X11 mining cards below: 
-
-* [XFX 7990 (21.8 Mh/s for X11)](https://www.amazon.com/gp/product/B00HGLNOHW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HGLNOHW&linkCode=as2&tag=cryptocurrency06-20&linkId=d63949615ea948e49a2b3bd223d34998){:target="_blank"}
-* [SAPPHIRE R9 Nano (20 Mh/s for X11)](https://www.amazon.com/gp/product/B015121DMA/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015121DMA&linkCode=as2&tag=cryptocurrency06-20&linkId=353099044be8d6cf91a42e810e5ba223){:target="_blank"}
-* [GIGABYTE R9 390 (14 Mh/s for x11)](https://www.amazon.com/gp/product/B00ZU48KFI/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ZU48KFI&linkCode=as2&tag=cryptocurrency06-20&linkId=81de325a93a9def050f74f853181e035){:target="_blank"}
-
-## What is an ASIC?
-
-An **ASIC**, or **Application Specific Integrated Circuit**, is a specialized piece of hardware specifically designed for [mining cryptocurrencies](/crypto-mining/). 
-
-They are often more power efficient than their regular mining GPU alternatives, and have higher hash rates as well. Unfortunately, they tend to be more expensive; however, they have a higher ROI. In the end, they are often worth the money.
-
-For example, the [Antminer D3](/crypto-mining/dash-hardware/antminer-d3-review/) is the most profitable Dash mining ASIC, generating a profit of $800 annually.  
-
-## How to Mine Dash 
-
-If you're a beginner, mining for the first time can be a bit tricky. 
-
-Fortunately, the infographic below will teach you how to mine Dash!
-
-![Dash-Mining-Infographic](/img/infographic/dash-mining-infographic.png)
-
-Feel free to [contact me](/contact/) about using this infographic on your website!
-
 ## Conclusion: Is Dash Mining Worth It?  
 
-In 2019, it's hard to turn a profit by mining cryptocurrency due to the recent crypto market downturn. 
+If you're interested in mining Dash to turn a profit, you're probably better off buying it from an exchange instead.
 
-If you're looking to acquire cryptocurrency, it would be best to buy it on an exchange such as [Binance](https://www.binance.com/?ref=36195755){: target="_blank"}. 
+Mining for a profit is hard right now, and buying an ASIC is a pretty big investment.
 
-Otherwise, if you're interested in mining as a hobby, you can use one of the GPUs listed above or, if you're serious about mining, you should use the Antminer D3. It's the best Dash mining ASIC on the market. 
+On the other hand, if you want to mine as a hobby, Dash is a great way to get started. Dash mining is pretty easy once you've got the hardware setup as well. 
+
+At the end of the day, it really depends on what your goals are. Most people aren't going to get rich from Dash mining, so keep that in mind before you buy! 
+
+Oh, and make sure to use a mining profitability calculator before you buy. 
 
 * TOC
 {:toc}
