@@ -25,11 +25,13 @@ Though, that’s just a surface level answer. Motherboards do not directly influ
 
 What your motherboard type will do, is allow your graphics card and processor to perform better (or worse).
 
+It's sort of similar to a [Solid State Drive's impact on FPS](/will-ssd-improve-fps/). It doesn't directly affect framerate, but it definitely makes your PC more responsive overall and your games will load way faster as well. 
+
 ### CPU
 
 On the processor side, it’s a lot more simple to explain. 
 
-The motherboard type will always have an effect on how far you can overclock your processor and still maintain stability. 
+The motherboard type will always have an effect on how far you can [overclock](https://www.howtogeek.com/165064/what-is-overclocking-the-absolute-beginners-guide-to-understanding-how-geeks-speed-up-their-pcs/){: target="_blank"} your processor and still maintain stability. 
 
 Not all games will benefit noticeably from processor overclocking, but it never hurts to do it.
 
@@ -41,7 +43,7 @@ Unlike Intel motherboards, however, these boards vary greatly in quality and cap
 
 ### GPU
 
-The gist of it is, the GPU is the main contributor to your games’ FPS so you want to have a quality conduit in the form of its PCIe port for it to read and transfer data.
+The gist of it is, [the GPU is the main contributor to your games’ FPS](https://store.hp.com/app/tech-takes/gpu-vs-cpu-for-pc-gaming){: target="_blank"} so you want to have a quality conduit in the form of its PCIe port for it to read and transfer data.
 
 PCIe x16 ports for graphics cards nowadays range from 2.0 (5GHz), to 3.0 (8GHz), to the new 4.0 designation motherboards brandishing double the bandwidth of 3.0 that is coming with the new Ryzen X570.
 
@@ -125,3 +127,6 @@ Not so important, we’ll be real with you, but hey it’s all about the aesthet
 Even though sometimes it doesn’t matter at all since some people don’t even have side panel windows, (pathetic).
 
 In all seriousness though, don’t buy a motherboard just because it looks cool.
+
+* TOC
+{: toc}
