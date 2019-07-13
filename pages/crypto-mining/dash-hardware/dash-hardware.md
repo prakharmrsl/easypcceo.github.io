@@ -58,7 +58,7 @@ Mining is an expensive investment in 2019, probably too much for the average per
 
 Due to the rising block difficulty of [Bitcoin](/crypto-mining/bitcoin-hardware/) and other tokens (like Dash), it's only getting harder to mine profitably. 
 
-![dash mining profitability calculator](/img/cryptocurrency/dash/profit-calculator.jpg)
+![dash mining profitability calculator](/img/cryptocurrency/dash/profit-calculator.JPG)
 
 Combined with the low value of Dash and other tokens (compared to their price at the end of 2017), it's harder than ever before.
 
