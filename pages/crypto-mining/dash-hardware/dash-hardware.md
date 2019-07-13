@@ -20,7 +20,7 @@ What does this mean for your GPU?
 
 Well, even if you have a powerful GPU like the [GTX 1080](/crypto-mining/gtx-1080-review/), you should stick to Dash mining ASICs.
 
-In this guide, we're going to be taking a look at the most powerful dash ASIC miner on the market. 
+In this guide, we're going to be talking about Dash mining, and whether or not it's profitable in 2019. 
 
 ## The Best Dash ASIC Miner 
 
