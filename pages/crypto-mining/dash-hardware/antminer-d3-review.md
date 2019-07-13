@@ -7,7 +7,7 @@ seotitle: "Antminer D3 Review: The Most Powerful Dash ASIC Miner? (2019)"
 
 **Pros**
 
-* Hash Rate (15 GH/s is astronomically high!)
+* Hash Rate 
 * Power consumption 
 
 **Cons**
@@ -45,7 +45,7 @@ As we have seen with other popular cryptocurrencies such as [Zcash](/crypto-mini
 	</tr>
 	<tr>
 		<td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg"><img class="table-image" src="/img/cryptocurrency/antminer-d3.png" /></a></td>
-		<td>15 GH/s</td>
+		<td>19.3 GH/s</td>
 		<td>1200 W</td>
 		<td><a target="_blank" class="big-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Shop Lowest Prices</a></td>
 	</tr>
