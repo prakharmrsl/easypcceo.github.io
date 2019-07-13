@@ -35,7 +35,7 @@ In this guide, we're going to be taking a look at the most powerful dash ASIC mi
 <h3>Dash ASIC Miner</h3>
 <p>The Antminer D3 is, by far, the best Dash miner on the market. With a hashrate of 19.3 GH/s, this miner draws 1200 watts from the wall. You just can't beat this ASIC's hashing power! While the power consumption might seem a bit high, the hashing power of this miner makes up for it.</p>
 <div class="btn">
-<a class="learn-button cta-button" href="/crypto-mining/dash-hardware/antminer-d3-review/">Read Antminer D3 Review </a>
+<a class="learn-button cta-button" href="/crypto-mining/dash-hardware/antminer-d3-review/">Read Review </a>
 <a target="_blank" class="cta-button buy-button" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338112809&customid=&icep_uq=Antminer+D3&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg">Check Price </a>
 </div>
 </div>
