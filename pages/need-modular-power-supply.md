@@ -14,11 +14,11 @@ meta: "In this guide, we're going to show you why you really do need a modular p
 
 Space is a virtue when building a PC, especially when working with smaller form factors, and not having all the room you need to build could mean life or death for your gaming rig. 
 
-From experience, building in a small form factor case or in a case lacking proper area to move can be detrimental to comfort when building your computer. 
+From experience, building in a [small form factor case](/budget-pcs/smallest-atx-cases/) or in a case lacking proper area to move can be detrimental to comfort when building your computer. 
 
 And depending on the quality of your case, you could come out with a lot more damage than you bargained for.
 
-To answer the question in short:
+**To answer the question in short:**
 
 You don’t necessarily *need* a modular power supply, but it sure does help, especially in smaller cases. 
 
@@ -38,7 +38,7 @@ The best part of a modular power supply is that you use only the cables that you
 
 The goal of a modular power supply is to keep all those extra cables that you don’t use out of the way for a number of beneficial reasons, mainly to make the building process easier. 
 
-When you don’t have any unused cables hanging out, your build process is better, the overall look of your build is better, and even your airflow will improve with less clutter in the way.
+When you don’t have any unused cables hanging out, your build process is better, the overall look of your build is better, and even your [airflow will improve with less clutter in the way](https://forums.tomshardware.com/threads/does-cable-management-effect-airflow.1881393/).{: target="_blank"}
 
 ## Modular Power Supply vs Regular Power Supply: What’s the Difference?
 
@@ -48,7 +48,7 @@ Non-modular power supplies usually come with just enough cables to get by with a
 
 These PSUs are generally meant for lower budget builds or mid-range builds that need to cut back the cost on something.
 
-![modular vs non modular vs semi modular power supplies](/img/need-modular-power-supply/modular-power-supply-example.png){: .img-middle}
+![modular vs non modular vs semi modular power supplies](/img/need-modular-power-supply/modular-power-supply-example.jpg){: .img-middle}
 
 In contrast, modular PSUs make use of removable cables to allow for the best possible configuration for your system. 
 
@@ -56,7 +56,7 @@ This does mean that you will be paying quite a bit more to have the luxury.
 
 In the past, modular PSUs tended to run at a significantly higher price than similar non-modular models but it seems like lately, the price gap has narrowed. 
 
-This is going purely off of only 80+ Bronze rated power supplies, though, which we do not suggest if you’re already splurging on a modular PSU.
+This is going purely off of only [80+ Bronze rated power supplies](https://www.corsair.com/ww/en/blog/80-plus-platinum-what-does-it-mean-and-what-is-the-benefit-to-me){: target="_blank"}, though, which we do not suggest if you’re already splurging on a modular PSU.
 
 ## What’s the Difference Between Modular and Semi-Modular PSUs?
 
@@ -64,7 +64,7 @@ Semi-modular power supplies, as the name would suggest, offer a middle ground in
 
 Semi-modular power supplies offer the main proprietary cables that are mandatory for any system to function at all, but they also provide removable cables for the inessential parts of your build. 
 
-![ports on a modular power supply](/img/need-modular-power-supply/modular-power-supply-example.png){: .img-middle}
+![ports on a modular power supply](/img/need-modular-power-supply/ports-modular-psu.png){: .img-middle}
 
 Modular power supplies allow for a full custom configuration of a system which can help with non-standard builds, like crazy multi-PSU setups. Semi-modular power supplies allow for a similar level of customisability while still grounding it in reality. 
 
@@ -86,7 +86,7 @@ If your unit doesn’t come with all the required cables or maybe a duplicate of
 
 While it is quite rare that instances like this occur, everyone makes mistakes every once in a while.
 
-![modular vs non modular second example](/img/need-modular-power-supply/modular-vs-no-example.png){: .img-middle}
+![modular vs non modular second example](/img/need-modular-power-supply/modular-vs-non-example.png){: .img-middle}
 
 We’ll be talking about all the mandatory and voluntary cables that come with PSUs in the next section, so feel free to use it as a guide to making sure that all of the cables for your brand new power supply are in order.
 
@@ -117,3 +117,6 @@ In short, this means that you can run all of your storage with the rest of the c
 Similarly, running a system that utilizes a low-end GPU or no GPU at all will circumvent the need for the PCIe 6-pin or 6+2-pin connectors. 
 
 Look at that, now you’ve got a super clean build, but don’t expect to be running the Cyberpunk 2077 on high anytime soon (at least, not without a dedicated GPU).
+
+* TOC
+{: toc}
