@@ -48,7 +48,7 @@ Non-modular power supplies usually come with just enough cables to get by with a
 
 These PSUs are generally meant for lower budget builds or mid-range builds that need to cut back the cost on something.
 
-![modular vs non modular vs semi modular power supplies](/img/need-modular-power-supply/modular-power-supply-example.jpg){: .img-middle}
+![modular vs non modular vs semi modular power supplies](/img/need-modular-power-supply/modular-vs-non-modular.png){: .img-middle}
 
 In contrast, modular PSUs make use of removable cables to allow for the best possible configuration for your system. 
 
