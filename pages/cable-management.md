@@ -34,7 +34,7 @@ While you can safely go above that to around 80-85 C°, we do not recommend runn
 ## An Example of Bad Cable Management 
 ![example of bad cable management](/img/cable-management/bad-cable-management.png)
 
-In this photo by [Reddit user Swordcrafter537](”https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/){: target="_blank"} showing off their first build, the cable management can be clearly seen. 
+In this photo by [Reddit user Swordcrafter537](https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/){: target="_blank"} showing off their first build, the cable management can be clearly seen. 
 
 Now, we understand the PC community isn’t the type to criticize (haha...), but we’ve just got to take a look at this setup.
 
