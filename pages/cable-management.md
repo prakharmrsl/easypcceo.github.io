@@ -32,13 +32,9 @@ We recommend trying to keep your CPU and GPU temperatures around or below 70-75 
 While you can safely go above that to around 80-85 C°, we do not recommend running those temperatures for very long.
 
 ## An Example of Bad Cable Management 
+![example of bad cable management](/img/cable-management/bad-cable-management.png)
 
-<figure>
-	<img class=”img-middle” alt="example of bad cable management" src=”/img/cable-management/bad-cable-management.png” />
-		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/”>u/Swordcrafter537</a></p></figcaption>
-</figure>
-
-In this photo by Reddit user Swordcrafter537 showing off their first build, the cable management can be clearly seen. 
+In this photo by [Reddit user Swordcrafter537](”https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/){: target="_blank"} showing off their first build, the cable management can be clearly seen. 
 
 Now, we understand the PC community isn’t the type to criticize (haha...), but we’ve just got to take a look at this setup.
 
@@ -66,12 +62,9 @@ The only cool air that the graphics card would receive is from that front intake
 
 ## An Example of Good Cable Management 
 
-<figure>
-	<img class=”img-middle” alt="example of good cable management" src=”/img/cable-management/good-cable-management.png” />
-		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable/”>u/Mocha_Bean</a></p></figcaption>
-</figure>
+![example of good cable management](/img/cable-management/good-cable-management.png)
 
-Thank you to Mocha_Bean on Reddit for a great example of simple cable management that still makes the cut. 
+Thank you to [Mocha_Bean on Reddit](https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable){: target="_blank"} for a great example of simple cable management that still makes the cut. 
 
 So let’s go ahead an figure out what makes this cable management so darn good. 
 
@@ -92,7 +85,7 @@ Now imagine a higher-end build with even more effort put into the looks of the c
 Time to take a look at specific processes you can go through to make sure your cables are managed to the best of your ability so you can have the most high-quality airflow for your new system.
 
 ### Modular Power Supply 
-![modular power supply](/img/cable-management/modular-power-supply.jpg){: .img-right}
+![modular power supply](/img/cable-management/modular-power-supply.jpg){: .img-right .img-small}
 
 Using a modular power supply is a great way to improve your cable management. 
 
@@ -109,7 +102,7 @@ This saves both time and space, making cable management a breeze.
 If you want to know more about the differences between modular and non-modular power supplies (and the benefits of a modular PSU), check out [this guide I wrote about modular power supplies](/need-modular-power-supply/)!
 
 ### Zip Ties
-![zip ties](/img/cable-management/zip-ties.png){: .img-right}
+![zip ties](/img/cable-management/zip-ties.png){: .img-right .img-small}
 
 Zip ties will be your best friend when routing your cables. They make it easier to keep your cables pinned down exactly where you want them, giving a cleaner look to your build overall.
 
@@ -118,14 +111,14 @@ All cases have little slots on the side of the case for zip ties to be fastened 
 It’s a breeze to slide them in and tie your cables down as shown in the above picture.
 
 ### Side Panel Space
-![side panel space for cables](/img/cable-management/side-panel-space.jpg){: .img-right}
+![side panel space for cables](/img/cable-management/side-panel-space.jpg){: .img-right .img-small}
 
 Most cases have a raised area on the rear side panel that allows for easier cable management if you have larger cables or maybe just a higher number of them. 
 
 As long as you can keep your routed cables within the raised area you should have no issues fitting all of your cables in the back where nobody will ever see them again...
 
 ### Routing Holes
-![routing holes for cable management](/img/cable-management/routing-holes.png){: .img-right}
+![routing holes for cable management](/img/cable-management/routing-holes.png){: .img-right .img-small}
 
 Routing holes are pretty much what the name implies, holes that allow for routing. These holes are pretty mandatory for any case and they’re generally universal in shape, though some cases have rubber inlets to block any possible sight of the other side of the case. 
 
@@ -134,7 +127,7 @@ They’re fairly easy to use and don’t need much explanation, but designating 
 Additionally, it’s important to buy a case that has these routing holes in the right places. Some cases don’t utilize them properly, making cable management a pain-in-the-neck. 
 
 ### Extra Cables
-![extra cables](/img/cable-management/extra-cables.png){: .img-right}
+![extra cables](/img/cable-management/extra-cables.png){: .img-right .img-small}
 
 Sometimes you may find yourself with extra cables and no idea where to put them – that’s where unused hard drive bays can come in handy.
 
