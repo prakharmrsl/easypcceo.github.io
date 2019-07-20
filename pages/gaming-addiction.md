@@ -37,7 +37,7 @@ It’s real, it’s serious, and it needs to be addressed.
 ## Gaming Addiction Statistics 
 Although gaming probably isn’t the first thing that comes to mind when you hear the word “addiction”, it is actually quite a big problem. 
 
-![video game addiction chart](/img/gaming-addiction/video-game-addiction-chart.jpg)
+![video game addiction chart](/img/gaming-addiction/video-game-addiction-chart.jpeg)
 
 ### On Average, Study Participants Played 20 Hours of Video Games a Week
 
@@ -45,7 +45,7 @@ A [study](https://www.drdouglas.org/drdpdfs/Gentile_Pathological_VG_Use_2009e.pd
 
 At first, this may not seem like an alarming statistic, but once you put it in perspective, you’ll quickly realize why this is a problem. 
 
-![average hours playing video games per week chart](/img/gaming-addiction/average-hours-played-chart.jpg){: .im-middle}
+![average hours playing video games per week chart](/img/gaming-addiction/average-hours-played-chart.JPG){: .img-middle}
 
 If you’re sitting behind your TV, controller in hand for 20 hours every week, that’s 80 hours a month, or 960 hours a year. 
 
@@ -130,7 +130,7 @@ People will skip class, not do their homework, cancel plans with friends, stay u
 
 Of course, there’s nothing wrong with playing video games once in a while – but when you’re playing for hours on end every single day and blowing off real-world obligations to do so, you are doing much more harm than good. 
 
-<div class=”vid-container”>
+<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l5Uq6_XS_YQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -138,13 +138,13 @@ Of course, there’s nothing wrong with playing video games once in a while – 
 
 If you’re wondering whether or not you have an addiction to video games, here are some common symptoms: 
 
-**1. Constant captivation with video games:** The person constantly thinks about their last time playing video games or when they can play again. Gaming dominates their daily life. 
-**2. Withdrawal:** After the game is taken away and you can’t play anymore, the person becomes irritable, anxious, bored, or sad. They crave playing more, and they can’t wait to turn on their console/gaming PC again. 
-**3. Higher tolerance:** The person needs to spend more and more time playing to get the same feeling of satisfaction. 
-**4. Inability to quit:** The person has tried to quit before because they know they shouldn’t be playing as much, but they just can’t seem to do it.
-**5. Loss of interest in other hobbies:** The person loses interest in other things they used to like to do. For example, they might give up their sport or quit their job to play more 
-**6. Deception:** The person has deceived their friends or family, making excuses or lying just to play more 
-**7. Escaping reality:** The person plays video games to escape feelings of loneliness, anxiety, depression, or sadness instead of finding a healthier alternative to deal with their problems. 
+1. Constant captivation with video games: The person constantly thinks about their last time playing video games or when they can play again. Gaming dominates their daily life. 
+2. Withdrawal: After the game is taken away and you can’t play anymore, the person becomes irritable, anxious, bored, or sad. They crave playing more, and they can’t wait to turn on their console/gaming PC again. 
+3. Higher tolerance: The person needs to spend more and more time playing to get the same feeling of satisfaction. 
+4. Inability to quit: The person has tried to quit before because they know they shouldn’t be playing as much, but they just can’t seem to do it.
+5. Loss of interest in other hobbies: The person loses interest in other things they used to like to do. For example, they might give up their sport or quit their job to play more 
+6. Deception: The person has deceived their friends or family, making excuses or lying just to play more 
+7. Escaping reality: The person plays video games to escape feelings of loneliness, anxiety, depression, or sadness instead of finding a healthier alternative to deal with their problems. 
 
 If you find yourself experience any of the symptoms listed above, you may have a problem.
 
@@ -219,7 +219,7 @@ Both of them are not productive ways to spend your time, and they can easily bec
 
 If you are concerned about how often you play video games or you’re concerned for a loved one, [Game Quitters](https://gamequitters.com/){: target=”_blank”} has a great online assessment you can complete. 
 
-![game quitters video game addiction test](/img/gaming-addiction/test.jpg)
+![game quitters video game addiction test](/img/gaming-addiction/test.JPG)
 
 After finishing the test, they’ll point you in the right direction if you (or your loved one) has an addiction problem. 
 
