@@ -1,5 +1,5 @@
 ---
-title: "How Does Cable Management Affect Airflow? [Fully Explained]" 
+title: "How Does Cable Management Affect Airflow?" 
 permalink: "/cable-management/"
 layout: page
 seotitle: "Does Cable Management Affect Airflow? [Explained + Examples]" 
@@ -34,9 +34,8 @@ While you can safely go above that to around 80-85 C°, we do not recommend runn
 ## An Example of Bad Cable Management 
 
 <figure>
-	<img class=”img-middle” alt=”example of bad cable management” src=”/img/cable-management/bad-cable-management.png” />
-		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/”>u/Swordcrafter537</a></p>
-		</figcaption>
+	<img class=”img-middle” alt="example of bad cable management" src=”/img/cable-management/bad-cable-management.png” />
+		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/”>u/Swordcrafter537</a></p></figcaption>
 </figure>
 
 In this photo by Reddit user Swordcrafter537 showing off their first build, the cable management can be clearly seen. 
@@ -68,9 +67,8 @@ The only cool air that the graphics card would receive is from that front intake
 ## An Example of Good Cable Management 
 
 <figure>
-	<img class=”img-middle” alt=”example of good cable management” src=”/img/cable-management/good-cable-management.png” />
-		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable/”>u/Mocha_Bean</a></p>
-		</figcaption>
+	<img class=”img-middle” alt="example of good cable management" src=”/img/cable-management/good-cable-management.png” />
+		<figcaption><p>Photo credit: <a target=”_blank” href=”https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable/”>u/Mocha_Bean</a></p></figcaption>
 </figure>
 
 Thank you to Mocha_Bean on Reddit for a great example of simple cable management that still makes the cut. 
