@@ -139,13 +139,13 @@ Of course, there’s nothing wrong with playing video games once in a while – 
 If you’re wondering whether or not you have an addiction to video games, here are some common symptoms: 
 
 <ol>
-	<li><b>1. Constant captivation with video games:</b> The person constantly thinks about their last time playing video games or when they can play again. Gaming dominates their daily life. </li>
-	<li><b>2. Withdrawal:</b> After the game is taken away and you can’t play anymore, the person becomes irritable, anxious, bored, or sad. They crave playing more, and they can’t wait to turn on their console/gaming PC again.</li>
-	<li><b>3. Higher tolerance:</b> The person needs to spend more and more time playing to get the same feeling of satisfaction.</li>
-	<li><b>4. Inability to quit:</b> The person has tried to quit before because they know they shouldn’t be playing as much, but they just can’t seem to do it.</li>
-	<li><b>5. Loss of interest in other hobbies:</b> The person loses interest in other things they used to like to do. For example, they might give up their sport or quit their job to play more.</li>
-	<li><b>6. Deception:</b> The person has deceived their friends or family, making excuses or lying just to play more.</li>
-	<li><b>7. Escaping reality:</b> The person plays video games to escape feelings of loneliness, anxiety, depression, or sadness instead of finding a healthier alternative to deal with their problems.</li>
+	<li><b>Constant captivation with video games:</b> The person constantly thinks about their last time playing video games or when they can play again. Gaming dominates their daily life. </li>
+	<li><b>Withdrawal:</b> After the game is taken away and you can’t play anymore, the person becomes irritable, anxious, bored, or sad. They crave playing more, and they can’t wait to turn on their console/gaming PC again.</li>
+	<li><b>Higher tolerance:</b> The person needs to spend more and more time playing to get the same feeling of satisfaction.</li>
+	<li><b>Inability to quit:</b> The person has tried to quit before because they know they shouldn’t be playing as much, but they just can’t seem to do it.</li>
+	<li><b>Loss of interest in other hobbies:</b> The person loses interest in other things they used to like to do. For example, they might give up their sport or quit their job to play more.</li>
+	<li><b>Deception:</b> The person has deceived their friends or family, making excuses or lying just to play more.</li>
+	<li><b>Escaping reality:</b> The person plays video games to escape feelings of loneliness, anxiety, depression, or sadness instead of finding a healthier alternative to deal with their problems.</li>
 </ol>
 
 If you find yourself experience any of the symptoms listed above, you may have a problem.
