@@ -1,5 +1,5 @@
 ---
-title: "Gaming Addiction: Quietly Ruining Millions of Lives" 
+title: "Understanding How Gaming Addiction is Affecting Millions" 
 permalink: "/gaming-addiction/"
 layout: page
 seotitle: "Gaming Addiction: The Epidemic That Nobody is Talking About [Statistics]" 
