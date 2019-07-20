@@ -12,7 +12,7 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 </h3>
 <script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 
-![Smallest ATX Case Header](/img/header/smallest-atx-cases-card.jpg){: .img-right .img-small}
+![Smallest ATX Case Header](/img/header/smallest-atx-cases-card.jpg){: .card}
 
 Here's the deal:
 
