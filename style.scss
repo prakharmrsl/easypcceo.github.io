@@ -944,6 +944,10 @@ tr {
 #markdown-toc li a, .toc_list li a {
  display: block;
  color: #000;
+ &:hover{
+	transform: translateY(-.1rem);
+	transition: .1s;
+ }
 }
 
 #markdown-toc li li, #markdown-toc li ul, .toc_list li li, .toc_list li ul {
