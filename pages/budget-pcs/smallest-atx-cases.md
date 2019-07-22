@@ -645,7 +645,8 @@ It is a way to show off your personality – at the same time though, it's impor
 
 At the end of the day, the your PC build comes down to your budget, your personal preferences, and what you're looking to do with your PC. That's the beauty of PC gaming – you can tailor your PC to suit your needs! 
 
-<div class="author-box">
- <img src="/img/profile/close.jpg"/>
-        <p>Hello, my name is Jacob. I am the founder of Easy PC and a PC gaming enthusiast!</p>
-</div>
+<h3 class="page-subtitle">
+	Updated July 22nd, 2019 by 
+	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
