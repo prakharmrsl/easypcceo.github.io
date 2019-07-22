@@ -1656,3 +1656,46 @@ blockquote p {
 .page-header {
 	margin: -15px 0 5px 0;
 }
+
+// author box 
+
+.author-box {
+    background: #fff;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+}
+.author-box img {
+    vertical-align: middle;
+    border-radius: 50%;
+    box-shadow: 0 1px 8px #ddd;
+}
+.author-box img:hover {
+    opacity: 0.8;
+    cursor: cell;
+}
+.author-box p {
+    color: #fff;
+    margin: 0;
+    font-size: 16px;
+    line-height: 1.3em;
+    background: #222;
+    padding: 10px;
+    position: relative;
+}
+.author-box p:before, .author-box p:after {
+    content: "";
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-top: 15px solid #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.author-box p:after {
+    right: 0;
+    left: auto;
+    border-left: 15px solid transparent;
+    border-right: none;
+}
