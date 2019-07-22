@@ -902,11 +902,7 @@ tr {
 }
 
 /* Table of Contents */
-	#markdown-toc::before, .toc_list::before {
-		display: none;
-	}
 
-@media screen and (min-width: 768px) {
 #markdown-toc::before, .toc_list::before {
     background: #666 none repeat scroll 0 0;
     color: white;
@@ -916,25 +912,14 @@ tr {
     padding: 1px 6px;
     text-align: center;
 }
-}
 
-#markdown-toc, .toc_list {
-	display: none;
-}
-
-@media screen and (min-width: 768px) {
 #markdown-toc, .toc_list {
     float: right;
     margin: 0 0 5px 10px;
     padding: 10px 15px;
     width: 230px;
 }
-}
 
-#markdown-toc li, .toc_list li {
-	display: none;}
-
-@media screen and (min-width: 768px) {
 #markdown-toc li, .toc_list li {
     background: #efefef none repeat scroll 0 0;
     border-bottom: 1px solid #fff;
@@ -944,28 +929,15 @@ tr {
     padding: 3px 6px;
     transition: background-color 0.5s ease 0s;
 }
-}
 
-#markdown-toc li a, .toc_list li a {
-	display: none;
-}
-
-@media screen and (min-width: 768px) {
 #markdown-toc li a, .toc_list li a {
  display: block;
  color: #000;
 }
-}
 
-#markdown-toc li li, #markdown-toc li ul, .toc_list li li, .toc_list li ul {
-	display: none;
-}
-
-@media screen and (min-width: 768px) {
 #markdown-toc li li, #markdown-toc li ul, .toc_list li li, .toc_list li ul {
     border: 0 none;
     padding-left: 7px;
-}
 }
 
 #base {
@@ -1679,4 +1651,16 @@ blockquote p {
   margin-bottom: 10px;
   margin-top: 10px; 
   border-radius: 25px; 
+}
+
+@media (min-width: 1200px){
+	.card {
+		max-width: 33%;
+  		max-height: auto; 
+  		float: right;
+  		margin-left: 10px;
+  		margin-bottom: 10px;
+  		margin-top: 10px; 
+  		border-radius: 25px; 
+	}
 }
