@@ -1645,7 +1645,6 @@ blockquote p {
 
 .card {
   max-width: 50%;
-  max-height: auto; 
   float: right;
   margin-left: 10px;
   margin-bottom: 10px;
@@ -1656,7 +1655,6 @@ blockquote p {
 @media (min-width: 1200px){
 	.card {
 		max-width: 33%;
-  		max-height: auto; 
   		float: right;
   		margin-left: 10px;
   		margin-bottom: 10px;
