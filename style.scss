@@ -926,6 +926,13 @@ tr {
     background: lightblue;
 }
 
+@media (max-width: 768px) {
+#markdown-toc, .toc_list {
+	display: none;
+}
+
+}
+
 #markdown-toc li, .toc_list li {
     font-size: 14px;
     letter-spacing: 1px;
