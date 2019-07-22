@@ -6,7 +6,10 @@ seotitle: "5 Smallest ATX Case Reviews of 2019 (Compact)"
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
-![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg)
+![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
+
+* TOC
+{: toc}
 
 Here's the deal:
 
@@ -17,17 +20,6 @@ By the way, ATX is the largest form factor, so even the smallest ATX cases are g
 If you really want small, then you should check out the post I wrote about the [smallest micro ATX cases](/budget-pcs/smallest-micro-atx-cases/) on the market. They're just as cool as the cases below, but even smaller!
 
 Anyway, *let's get started:* 
-
-<div class="toc-box">
-<ul>
-  <li><a href="#smallest-atx-case-options">Smallest ATX Case Options</a></li>
-  <li><a href="#case-buying-guide">Case Buying Guide</a></li>
-  <li><a href="#a-great-case-is">A Great Case Is...</a></li>
-  <li><a href="#case-reviews">Case Reviews</a></li>
-  <li><a href="#do-you-need-a-gaming-case">Do You Need a 'Gaming' Case?</a></li>
-  <li><a href="#conclusion">Conclusion</a></li>
-</ul>
-</div>
 
 ## Smallest ATX Case Options
 
