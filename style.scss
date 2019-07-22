@@ -904,9 +904,8 @@ tr {
 /* Table of Contents */
 
 @media screen and (max-width: 768px) {
-	#markdown-toc::before, .toc_list::before {
-	display: none;
-	}
+	#markdown-toc {display: none;}}
+	
 
 #markdown-toc::before, .toc_list::before {
     background: #666 none repeat scroll 0 0;
