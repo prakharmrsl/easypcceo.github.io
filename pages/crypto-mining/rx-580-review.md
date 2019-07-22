@@ -2,11 +2,11 @@
 title: "RX 580 Mining Review: Buy This Miner? " 
 permalink: "/crypto-mining/rx-580-review/"
 layout: page
-seotitle: "RX 580 Mining Review: Hashrate for Ethereum, Zcash, & More! (2018)" 
+seotitle: "RX 580 Mining Review: Hashrate for Ethereum, Zcash, & More! (2019)" 
 review: 5
 ---
 <h3 class="page-subtitle">
-	January 22, 2018 by 
+	July 22nd, 2019 by 
 	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
@@ -21,13 +21,17 @@ review: 5
 * Cooling: 5/5
 * Price/Performance: 4/5 
 
-If you want to mine [Ethereum](/crypto-mining/ethereum-hardware/), we suggest the [Radeon R9 295X2](/crypto-mining/ethereum-hardware/r9-295-x2-review/). It's the best [Ethereum](/crypto-mining/ethereum-hardware/) miner on the market! 
-
 ## RX 580 Mining Overview 
+* TOC
+{:toc}
 
-The [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} was originally designed for gaming. Once miners got their hands on it back in the summer of 2017, the price skyrocketed. Since then it's come back down, making it much more affordable for those looking to start mining. 
+The RX 580 is, overall, a good GPU for cryptocurrency mining. 
 
-Unfortunately, the RX 580 consumes more power than its predecessor, the [RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/). It also has the same hashrate. While this is disappointing, miners have found a way to optimize this GPU for mining by tweaking the [BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820){:target="_blank"}. If you overclock/underpower the GPU it becomes far more profitable for mining. 
+However, it's important to note that the RX 580 consumes more power than the Radeon RX 480, even though their hashrates are the same (we also have an [RX 480 mining review](/crypto-mining/rx-480-review/)). 
+
+Luckily, miners have figured out how to optimize this GPU for mining by tweaking the [BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820){:target="_blank"} settings. 
+
+If you overclock/underpower the GPU, it becomes far more profitable for mining. 
 
 **This video guide explains how you can do this with your RX 580:**
 
@@ -35,37 +39,46 @@ Unfortunately, the RX 580 consumes more power than its predecessor, the [RX 480]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FT9K8DqaeDs" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 </div>
 
-## RX 580 Hashrate: Ethereum 
+## RX 580 Ethereum Hashrate
 
-Let's take a look at the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}'s Ethereum mining performance. 
+The RX 580 mines Ethereum with a hashrate of 27.5 MH/s and consumes 150 watts of power. 
 
 **Stock Performance:** 
 
-* Hashrate: 24 MH/s
-* Power Consumption: 136 W
+* Hashrate: 27.5 MH/s
+* Power Consumption: 150 Watts
 
-**Overclocked Performance:** 
+### Is Ethereum Mining with the RX 580 Profitable?
 
-* 29 MH/s
-* Power Consumption: 153 W 
+Here are your projected earnings with this GPU: 
 
-Here are your projected earnings after overclocking:  
+<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/eth?HashingPower=27.5&HashingUnit=MH%2Fs&PowerConsumption=150&CostPerkWh=0.12&MiningPoolFee=1"><img src="/img/cryptocurrency/rx-580-review/profit.JPG" /></a>
 
-<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/eth?HashingPower=29&HashingUnit=MH%2Fs&PowerConsumption=153&CostPerkWh=0.12"><img src="/img/cryptocurrency/rx-580-review/profit.png" /></a>
+The RX 580 is not profitable right now, assuming you're paying $0.12 per KWH (the average electricity cost in the United States). 
 
-As you can see, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} seems pretty promising when modifications are made in the BIOS. While it's not the [best Ethereum miner](/crypto-mining/ethereum-hardware/r9-295-x2-review/), it'll deliver pretty good performance for its price of just $350. 
+This is more due to the fact that Ethereum mining difficulty is increasing, while the price remains relatively low (compared to prices towards the end of 2017). 
+
+Although mining Ethereum isn't profitable at the moment, the RX 580 is still one of the best mineres on the market in terms of hashrate to power consumption, which is the ratio that determines mining profitabiltiy. 
+
+If – and that's a BIG if – the crypto bull market returns and Ethereum sees a significant price hike, this would be a great GPU to use. 
+
+While it's not the [best Ethereum miner](/crypto-mining/ethereum-hardware/r9-295-x2-review/), it'll deliver pretty good performance for its price of just $350. 
 
 [You can check your own Ethereum mining profitability with this calculator](https://www.cryptocompare.com/mining/calculator/eth?HashingPower=29&HashingUnit=MH%2Fs&PowerConsumption=153&CostPerkWh=0.12){:target="_blank"}.
 
-If you're interested, check out our guide about the [best mining GPUs](/crypto-mining/best-gpus/).
-
 ## Ethereum Mining Conclusion 
 
-Should you use the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for Ethereum mining? 
+**First of all, Ethereum is switching to [proof of stake](https://www.coindesk.com/code-for-ethereums-proof-of-stake-blockchain-to-be-finalized-next-month){: target="_blank"} very soon, so it doesn't really make sense to buy a miner with the sole purpose of mining Ethereum.** 
 
-It's a yes from me. 
+However, you can use this miner to mine other cryptocurrencies as well that are sticking to proof of work, which makes more sense.
 
-Although it shows sub-par performance at stock speeds, it can really turn into a money making machine with some tweaks in the BIOS. You can expect over $1,000 annually per card. 
+What's the bottom line here? 
+
+If you're going to mine Ethereum anyway, then yes, the RX 580 is a good choice. 
+
+Although, mining isn't really profitable at this time, so if you're interested in mining for a profit, you should probably look elsewhere. 
+
+On the other hand, if you want to mine as a hobby, then you could definitely use this GPU as an Ethereum miner. 
 
 ## Alternative Ethereum Mining Hardware 
 
@@ -99,9 +112,9 @@ Although it shows sub-par performance at stock speeds, it can really turn into a
 	
 </table> 
 
-## RX 580 Hashrate: Zcash 
+## RX 580 Zcash Hashrate
 
-We've seen the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}'s' Ethereum mining performance, but how does it fair mining Zcash? We'll, let's take a look:
+We've seen the RX 580's Ethereum mining performance, but how does it fair mining Zcash? We'll, let's take a look:
 
 **Stock Performance:** 
 
@@ -112,7 +125,7 @@ As for overclocked performance, we weren't able to find any solid information. Y
 
 Here's the projected Zcash mining performance: 
 
-<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=399&HashingUnit=H%2Fs&PowerConsumption=140&CostPerkWh=0.12"><img src="/img/cryptocurrency/rx-580-review/zcash.png" /></a>
+<a target="_blank" href="https://www.cryptocompare.com/mining/calculator/zec?HashingPower=399&HashingUnit=H%2Fs&PowerConsumption=140&CostPerkWh=0.12"><img src="/img/cryptocurrency/rx-580-review/zcash.JPG" /></a>
 
 If you tweak some settings in the BIOS you can probably expect even better mining performance. Remember, it's all about the power/hash ratio! 
 
@@ -154,7 +167,7 @@ If you tweak some settings in the BIOS you can probably expect even better minin
 
 We looked around and found this card's mining performance with other altcoins. Take a look: 
 
-* [Decred](/crypto-mining/decred-hardware/) (DCR): 1.220 GHS
+* Decred (DCR): 1.220 GHS
 * CryptoNight (XMR): 600 H/s
 * LBRY (LBC): 0.165 GHS
 * Pascal (PASC): 0.830 GHS
@@ -162,13 +175,6 @@ We looked around and found this card's mining performance with other altcoins. T
 
 ## Conclusion 
 
-At first glance, the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} seems to be a bad choice. Of course, you should never judge a book by its cover. After modifications in the BIOS, the GPU proves itself mining both [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/). **You can expect returns of over $1,000 per card!** If you're interested in purchasing a mining GPU, we would recommend the [RX 580](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} as a good choice. 
+At first glance, the RX 580 seems to be a bad choice. Of course, you should never judge a book by its cover. After modifications in the BIOS, the GPU proves itself mining both [Ethereum](/crypto-mining/ethereum-hardware/) and [Zcash](/crypto-mining/zcash-hardware/). **You can expect returns of over $1,000 per card!** If you're interested in purchasing a mining GPU, we would recommend the RX 580 as a good choice. 
 
 However, the [RX 480](/crypto-mining/ethereum-hardware/radeon-rx-480-review/) may be a better choice. If you're on a budget and looking for a cheaper mining GPU, maybe consider the [RX 470](/crypto-mining/rx-470-review/) as well. 
-
-It's important to find a good cooling solution if you're interested in cryptocurrency mining, as your GPU(s) will get very hot. Check out our guide on the [best case fans](/budget-pcs/case-fans/)!
-
-[Shop Lowest Prices](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=9&pub=5575177097&toolid=10001&campid=5338236028&customid=&icep_uq=rx+580+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}
-
-* TOC
-{:toc}
