@@ -94,7 +94,7 @@ h3 {
 }
 
 .entry {
-  max-width: 800px;
+  max-width: 750px;
   margin: 0px auto;
 }
 
@@ -1643,22 +1643,6 @@ blockquote p {
   color: black;
 }
 
-.card {
-  max-width: 50%;
-  float: right;
-  margin-left: 10px;
-  margin-bottom: 10px;
-  margin-top: 10px; 
-  border-radius: 25px; 
-}
-
-@media (min-width: 768px){
-	.card {
-		max-width: 38%;
-  		float: right;
-  		margin-left: 10px;
-  		margin-bottom: 10px;
-  		margin-top: 10px; 
-  		border-radius: 25px; 
-	}
+.page-header {
+	margin: -10px 0 5px 0;
 }
