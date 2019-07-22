@@ -646,9 +646,3 @@ Of course, the more you pay, the higher quality case you'll have. Nowadays, ther
 It is a way to show off your personality – at the same time though, it's important to buy a case that's functional. If you are building a new gaming PC on a tight budget and you have an old computer laying around that you don't use anymore, don't be afraid to tear out the old parts to reuse the case! 
 
 At the end of the day, the your PC build comes down to your budget, your personal preferences, and what you're looking to do with your PC. That's the beauty of PC gaming – you can tailor your PC to suit your needs! 
-
-<h3 class="page-subtitle">
-	Updated July 22nd, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
