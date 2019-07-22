@@ -1285,14 +1285,14 @@ tr {
   }
   line-height: 40px;
   @media (max-width: 680px) {
-    font-size: 18px;
+    font-size: 15px;
+    font-weight: 700;
     img {
       width: 40px;
       height: 40px;
-      top: 15px;
+      top: 25px;
     }
-    margin-top: -2.1rem;
-    margin-bottom: 40px;
+    margin-top: -2rem;
   }
 }
 
