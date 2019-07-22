@@ -5,14 +5,8 @@ layout: page
 seotitle: "5 Smallest ATX Case Reviews of 2019 (Compact)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
-<h3 class="page-subtitle">
-	Updated June 16th, 2019 by 
-	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
-<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 
-![Smallest ATX Case Header](/img/header/smallest-atx-cases-card.jpg){: .card}
+![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg)
 
 Here's the deal:
 
@@ -546,3 +540,10 @@ At the end of the day, the your PC build comes down to your budget, your persona
   </li>
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
+
+<h3 class="page-subtitle">
+	Updated June 16th, 2019 by 
+	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
+	Jacob Tuwiner
+</h3>
+<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
