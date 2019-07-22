@@ -906,7 +906,7 @@ tr {
 #markdown-toc::before, .toc_list::before {
     background: #666 none repeat scroll 0 0;
     color: white;
-    content: "Page Index";
+    content: "On This Page";
     display: inline-block;
     font-weight: bold;
     padding: 1px 6px;
@@ -1644,7 +1644,7 @@ blockquote p {
 }
 
 .card {
-  max-width: 300px;
+  max-width: 50%;
   max-height: auto; 
   float: right;
   margin-left: 10px;
