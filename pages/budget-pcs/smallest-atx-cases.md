@@ -548,6 +548,8 @@ The case's interior doesn't have much pre-installed – no hard drive racks, no 
 
 The only thing that you'll find inside the case from the factory is a cable management bar. There's plenty of room for a plethora of different system builds. 
 
+![nzxt h500i small micro atx case](/img/case/h-500i-side.jpg){: .img-middle}
+
 There are mounting locations for two 2.5" drives and two 3.5" drives. You can either mount the drives on top of the PSU tunnel or behind the motherboard tray. 
 
 The two mounting locations by the PSU compartment do not have any caddies. Rather, the drives slide into the removable steel rack and are held in place by screws. 
