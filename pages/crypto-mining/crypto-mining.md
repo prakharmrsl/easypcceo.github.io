@@ -12,6 +12,9 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2019)"
 
 ![Cryptocurrency Mining Page Header](/img/header/crypto-mining.jpg)
 
+* TOC
+{: toc}
+
 Did you know that *around 1,800 new Bitcoins are mined every day?* 
 
 There will only ever be 21 million Bitcoins. It would be wise to acquire some Bitcoin while you still can.
@@ -53,8 +56,6 @@ Ethereum's traditional mining algorithm – which used Proof of Work to validate
 Proof of Stake doesn't require miners with physical mining hardware, so Ethereum mining isn't going to be around for much longer. 
 
 However, you can still mine Ethereum for now. 
-
-[View Ethereum Mining Hardware Here](/crypto-mining/ethereum-hardware/){: .big-button}
 
 ### 3. Litecoin 
 ![LITECOIN](/img/cryptocurrency/litecoin-logo.png "LITECOIN"){: .img-small .img-right }
@@ -104,66 +105,9 @@ Unlike bitcoin, Zcash gives the user the option to encrypt the transaction.
 
 This means that the sender address, recipient address, and the amount sent is hidden from public view. 
 
-Many would consider Zcash the future of anonymous transaction. Regular GPUs can be used to mine Zcash, such as the [GTX 1080](/crypto-mining/gtx-1080-review/)! In fact, it's also a great card for mining [Decred](/crypto-mining/decred-hardware/).
+Many would consider Zcash the future of anonymous transaction. Regular GPUs can be used to mine Zcash, such as the [GTX 1080](/crypto-mining/gtx-1080-review/)!
 
 NOTE: There will only ever be 21 million coins, so start mining NOW! 
-
-[View Zcash mining graphics cards here](/crypto-mining/zcash-hardware/){: .big-button}
-
-## Popular Cryptocurrencies to Mine 
-
-<table class="basic-table">
-	<tr>
-		<th>Logo</th>
-		<th>Cryptocurrency</th>
-		<th>Mine</th>
-	</tr>
-	<tr>
-		<td><img alt="bitcoin-logo" class="table-image" src="/img/cryptocurrency/bitcoin-logo.png" /></td>
-		<td>Bitcoin</td>
-		<td><a class="big-button" href="/crypto-mining/bitcoin-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="litecoin-logo" class="table-image" src="/img/cryptocurrency/litecoin-logo.png" /></td>
-		<td>Litecoin</td>
-		<td><a class="big-button" href="/crypto-mining/litecoin-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="ethereum-logo" class="table-image" src="/img/cryptocurrency/ethereum-logo.png" /></td>
-		<td>Ethereum</td>
-		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="monero-logo" class="table-image" src="/img/cryptocurrency/monero-logo.png" /></td>
-		<td>Monero</td>
-		<td><a class="big-button" href="/crypto-mining/ethereum-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="dash-logo" class="table-image" src="/img/cryptocurrency/dash.png" /></td>
-		<td>Dash</td>
-		<td><a class="big-button" href="/crypto-mining/dash-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img class="table-image" alt="zcash-logo" src="/img/cryptocurrency/zcash.png" /></td>
-		<td>ZCash</td>
-		<td><a class="big-button" href="/crypto-mining/zcash-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="decred-logo" class="table-image" src="/img/cryptocurrency/decred-logo.png" /></td>
-		<td>Decred</td>
-		<td><a class="big-button" href="/crypto-mining/decred-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/vertcoin-logo.png" /></td>
-		<td>Vertcoin</td>
-		<td><a class="big-button" href="/crypto-mining/vertcoin-hardware/">View our Guide</a></td>
-	</tr>
-	<tr>
-		<td><img alt="vertcoin-logo" class="table-image" src="/img/cryptocurrency/zencash-logo.png" /></td>
-		<td>Zencash</td>
-		<td><a class="big-button" href="/crypto-mining/zencash-hardware/">View our Guide</a></td>
-	</tr>
-</table>
 
 ## Best Mining GPUs 
 
@@ -261,7 +205,7 @@ The [AMD Radeon R9 295X2](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep
 
 The 295X2 has 8GB of dedicated video memory, which is crucial for ETH mining. As time goes on, the amount of dedicated video memory will steadily increase, so it's important to buy a GPU like the R9 295X2 that has a lot of memory.
 
-If you want to generate serious revenue mining Ethereum, consider running multiple R9 295X2 GPUs in an [Ethereum mining rig](https://www.easypc.io/crypto-mining/ethereum-hardware/#ethereum-mining-rigs). 
+If you want to generate serious revenue mining Ethereum, consider running multiple R9 295X2 GPUs in an Ethereum mining rig. 
 
 The R9 295X2 is also a proficient [Monero mining GPU](/crypto-mining/monero-hardware/). You'll be able to profitably mine various cryptocurrencies with this card. 
 
@@ -480,73 +424,3 @@ Here are some popular mining pools to consider:
 * [BitFury](http://bitfury.com/)
 
 If you'd like to understand why the majority of Bitcoin mining is performed in China in huge mining farms, click [here](/crypto-mining/bitcoin-hardware/#asics-impact-on-decentralization).
-
-
-## How to Trade Monero, Dash, & Other Altcoins for Other Cryptocurrencies & USD
-
-You're going to have to exchange your (insert your altcoin here) for Bitcoin first. **Here's how:** 
-
-**Step 1.** Sign up for an account on an online exchange such as [Binance](https://www.binance.com/?ref=16557105){:target="_blank"}.
-
-![Binance Signup](/img/cryptocurrency/binance/signup.png)
-
-**Step 2.** Once you have created your account, it's time to acquire your Decred (or whichever currency you're mining) wallet address on Binance. You'll use this address in your mining software. All of the currency you mine will be deposited into your Binance wallet. From here, you can exchange it for Bitcoin, and eventually, regular currency (USD). **In this example I'll be using other cryptocurrencies, but the process is the same for any cryptocurrency.**
-
-Hover over the **Funds** tab, and a dropdown menu will appear. Click **Deposits Withdrawls**. 
-
-![Deposits Withdrawls](/img/cryptocurrency/binance/deposits.png)
-
-Search for your desired cryptocurrency. In this case, we're using Monero. Then, simply click "Deposit". When prompted, agree and continue.
-
-![Deposit](/img/cryptocurrency/binance/deposit.png)
-
-You should be taken to a page that shows your unique XMR Deposit Address. Copy the code indicated in the graphic below: 
-
-![Wallet Address](/img/cryptocurrency/binance/address.png)
-
-Now, point your mining software to this address.
-
-**Step 3:** Once you've deposited Monero into your Binance account, you can exchange it for Bitcoin. Here's how: 
-
-Navigate to the Binance homepage by clicking the big logo in the top left corner. Navigate over to BTC Markets, and search for your desired currency. (I don't own any Monero for this example, but I do own TRON, or TRX. I'll be using this for the tutorial from here on out, but it can be applied to any currency on Binance). 
-
-![exchange](/img/cryptocurrency/binance/exchange.png)
-
-After you've searched for your currency, you should see it pop up in the search results like so: 
-
-![trx](/img/cryptocurrency/binance/trx.png)
-
-Click on it. Now you should be here: 
-
-![Sell](/img/cryptocurrency/binance/sell.png)
-
-Within the "Sell" box highlighted in the graphic above, you can exchange your cryptocurrency for Bitcoin. In my example, I'm using TRON, or TRX. If you want to convert all of your cryptocurrency into Bitcoin, just click 100% and then sell. 
-
-Awesome! Now it's time for the third step. Almost done!
-
-**Step 3:** You need to transfer your Bitcoin from Binance to another exchange such as [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b) or [Gemini](https://gemini.com/). Once it's transferred to Coinbase or Gemini, you'll be able to exchange the Bitcoin for regular currency. Here's how: 
-
-Navigate back to the Deposits Withdrawals page. Withdraw from your newly acquired Bitcoin wallet like so: 
-
-![BTC Withdrawal](/img/cryptocurrency/binance/btc-withdrawal.png)
-
-You'll be asked for the BTC Withdrawal Address. Now, navigate over to Coinbase or Gemini. For this example, we're using [Coinbase](https://www.coinbase.com/join/5967ac4be42b2d0260de144b). After you've completed the registration, click "Accounts". Under your BTC Wallet, click "Receive". 
-
-![BTC Receive](/img/cryptocurrency/binance/receive.png)
-
-Now, you should see something like this: 
-
-![Final Address](/img/cryptocurrency/binance/final.png)
-
-The address you see is your Coinbase wallet address. Copy and paste the address into the "BTC Withdrawal Address" on Binance. Select the desired amount, and submit. 
-
-Finally, our fourth and final step. 
-
-**Step 4:** The last step is to simply sell your Bitcoin on Coinbase for regular currency. 
-
-![Sell](/img/cryptocurrency/binance/usd.png)
-
-Navigate to "Buy/Sell" on Coinbase. Then, click Sell. Now, all you have to do is select the bank to which you'd like your currency deposited. Select the amount of BTC to deposit, and hit "Sell Bitcoin". **It's that easy!**
-
-* TOC
-{:toc}
