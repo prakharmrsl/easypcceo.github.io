@@ -12,8 +12,15 @@ seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2019)"
 
 ![Cryptocurrency Mining Page Header](/img/header/crypto-mining.jpg)
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#most-popular-cryptocurrencies" id="markdown-toc-most-popular-cryptocurrencies">Most Popular Cryptocurrencies:</a> 
+</li>
+<li><a href="#best-mining-gpus" id="markdown-toc-best-mining-gpus">Best Mining GPUs</a></li>
+<li><a href="#crypto-mining-guide" id="markdown-toc-crypto-mining-guide">Crypto Mining Guide</a></li>
+<li><a href="#is-mining-the-right-choice-for-you" id="markdown-toc-is-mining-the-right-choice-for-you">Is Mining The Right Choice for You?</a></li>
+<li><a href="#cryptocurrency-mining-profitability" id="markdown-toc-cryptocurrency-mining-profitability">Cryptocurrency Mining Profitability</a></li>
+<li><a href="#cryptocurrency-mining-pools" id="markdown-toc-cryptocurrency-mining-pools">Cryptocurrency Mining Pools</a></li>
+</ul>
 
 Did you know that *around 1,800 new Bitcoins are mined every day?* 
 
@@ -391,15 +398,17 @@ Mining still has its benefits. Some miners are doing so as a hobby that pays the
 
 ## Cryptocurrency Mining Profitability 
 
-Mining cryptocurrency is not as profitable as it was back in January of 2018 – the cryptocurrency market has retraced around 50% from where it was just 6 months ago. 
+In 2019, cryptocurrency mining isn't profitable unless you can do it on a large scale somewhere with cheap electricity. 
 
-Although, that does not mean mining cryptocurrency is not profitable. With the right mining hardware, you can still generate passive income by mining cryptocurrency. 
+That means it's not a great idea for the average Joe in the US, paying $0.12 KHw for electricity, only using one or two miners. 
 
-Take a look at your projected earnings with a Radeon RX 480: 
+Take a look at your projected earnings with a Radeon RX 470: 
 
-![Current Mining Profitability](/img/cryptocurrency/profitability-today.png)
+![Current Mining Profitability](/img/cryptocurrency/rx-470-review/ethereum-profit.JPG)
 
-We're in the midst of a bearish market. Once the bulls return – and they will return – the crypto market cap will increase once again, and cryptocurrency mining will be even more profitable. It makes sense to acquire as much cheap cryptocurrency as you can while there's still time!
+As you can see, even with a good miner, it's hard to turn a profit. If you're interested in acquiring cryptocurrency, simply buying it from an exchange is definitely your best bet. 
+
+In addition, if you want to mine for fun/as a hobby, that's cool too, but mining for profit is pretty difficult these days. 
 
 ## Bitcoin Mining GPU 
 
@@ -424,3 +433,4 @@ Here are some popular mining pools to consider:
 * [BitFury](http://bitfury.com/)
 
 If you'd like to understand why the majority of Bitcoin mining is performed in China in huge mining farms, click [here](/crypto-mining/bitcoin-hardware/#asics-impact-on-decentralization).
+
