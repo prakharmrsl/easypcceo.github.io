@@ -5,7 +5,7 @@ layout: page
 seotitle: "Best Cryptocurrency Mining Hardware CPUs, ASICs and GPUs (2019)" 
 ---
 <h3 class="page-subtitle">
-	Updated July 7th, 2019 by 
+	Updated July 24th, 2019 by 
 	<img src="../img/profile/close.jpg" class="circle" alt="Headshot">
 	Jacob Tuwiner
 </h3>
