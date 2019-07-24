@@ -83,7 +83,7 @@ Still, it’s safe to say there are millions (if not tens of millions) of severe
 
 ### 41% of Online Gamers Admit They Use Video Games to Escape Reality 
 
-In a [study](https://www.ncbi.nlm.nih.gov/pubmed/19788376){: target=”_blank”} conducted in 2009, 41% of participants admitted to using video games as a way to escape from reality. 
+In another [study](https://www.ncbi.nlm.nih.gov/pubmed/19788376){: target=”_blank”} conducted in 2009 (seperate from the first study cited above), 41% of participants admitted to using video games as a way to escape from reality. 
 
 Many addicts use drugs and alcohol to numb themselves from reality. They aren’t content with their lives, so they turn to substance abuse for external happiness. 
 
