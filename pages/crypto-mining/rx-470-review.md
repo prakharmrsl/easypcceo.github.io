@@ -2,7 +2,7 @@
 title: "The Sapphire NITRO+ RX 470: Hashrate, Power Consumption, and More" 
 permalink: "/crypto-mining/rx-470-review/"
 layout: page
-seotitle: "RX 470 Review: Hashrate for Ethereum, Zcash, & More! (2019)" 
+seotitle: "RX 470 Hashrate: Mining Review for Ethereum, Zcash, & More! (2019)" 
 review: 5
 ---
 <h3 class="page-subtitle">
