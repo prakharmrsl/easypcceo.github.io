@@ -6,8 +6,14 @@ seotitle: "Does Your Motherboard Matter for Gaming? [2019]"
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 ---
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#does-your-motherboard-affect-fps" id="markdown-toc-does-your-motherboard-affect-fps">Does Your Motherboard Affect FPS?</a> 
+</li>
+<li><a href="#how-much-should-you-spend-on-a-gaming-motherboard" id="markdown-toc-how-much-should-you-spend-on-a-gaming-motherboard">How Much Should You Spend on a Gaming Motherboard?</a></li>
+<li><a href="#things-to-look-for-in-a-motherboard-for-gaming" id="markdown-toc-things-to-look-for-in-a-motherboard-for-gaming">Things to Look for in a Motherboard (For Gaming)</a></li>
+<li><a href="#verdict-do-you-need-a-good-motherboard-for-gaming" id="markdown-toc-verdict-do-you-need-a-good-motherboard-for-gaming">Verdict: Do You Need a Good Motherboard for Gaming?</a> 
+</li>
+</ul>
 
 Asking the question “does your motherboard matter for gaming” is like asking if the type of wheels you have on your car affects your driving. 
 
