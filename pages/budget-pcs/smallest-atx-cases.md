@@ -48,7 +48,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 			<li>Spacious</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#400c">View</a></td>
+		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
 	</tr>
 	<tr>
 		<td>Corsair Carbide Series Air 540</td>
@@ -60,7 +60,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 			<li>Fantastic Cable Management</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#air-540">View</a></td>
+		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
 	</tr>
 	<tr>
 		<td>NZXT H500i</td>
@@ -72,7 +72,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 			<li>Solid Construction</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#h500i">View</a></td>
+		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master HAF XB II EVO</td>
@@ -84,7 +84,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 			<li>Supports Full-Size CPU Coolers</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#cm-evo">View</a></td>
+		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Core G3 Slim ATX Case</td>
@@ -100,216 +100,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 </table>
 
-<div id="400c" class="featured-info-box">
-<span>First Choice</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2PorXR8"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
-</div>
-<div class="text">
-<h2>Corsair Carbide Series 400C</h2>
-<h3>Smallest Full ATX Case</h3>
-<p>Constructed with a steel exterior, this sturdy case has a large side-panel window to show off your components – its minimalistic design is very attractive.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#corsair-carbide-series-400c">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2PorXR8">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-The [Corsair Carbide Series 400C](https://amzn.to/2PorXR8){: target="_blank"} features an elegant case design and is the smaller, non-inverted version of the Carbide 600C ATX case.
-
-Corsair decided to remove the 5.25" drive bays – the empty space that would otherwise be occupied by somewhat obsolete 5.25-inch bays can be used to mount radiators and case fans, which is especially nice in a small [ATX](https://www.pcmag.com/encyclopedia/term/38148/atx-motherboard){: target="_blank"} case. 
-
-<div id="air-540" class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
-</div>
-<div class="text">
-<h2>Corsair Carbide Series Air 540</h2>
-<h3>Smallest ATX Case with Tempered Glass</h3>
-
-<p>The chasis was constructed with optimal airflow in mind – those looking to overclock and push their system to its limits should definitely consider this case. </p>
-
-<div class="btn">
-<a class="learn-button cta-button" href="#corsair-carbide-series-air-540">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-The Air 540 has a wide outer shell with two side-by-side chambers inside to provide the best airflow possible. 
-
-This case seems compact on the outside, yet it is surprisingly spacious inside with superb airflow. 
-
-Lastly, the case makes it easy to manage cables, making for a truly professional and presentable gaming PC optimized for the best cooling performance. 
-
-<div id="h500i" class="featured-info-box">
-<span>RGB Lighting Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
-</div>
-<div class="text">
-<h2>NZXT H500i</h2>
-<h3>Small ATX Case</h3>
-
-<p>Featuring an all-new Smart Device built-in that combines features of the HUE+ and GRID+ digital controllers, adaptive noise reduction, advanced lighting, easy fan control and versatile cable management, this case has it all.</p>
-
-<div class="btn">
-<a class="learn-button cta-button" href="#nzxt-h500i">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-This case is eye catching to say the least. 
-
-Your components will be enclosed by sleek white side panels and a lovely tempered glass side panel window, which displays your illuminated components thanks to this case's vibrant LED lighting. 
-
-The interior is spacious, with plenty of room for case fans, GPUs, tall CPU coolers, and radiators. 
-
-<div id="cm-evo" class="featured-info-box">
-<span>Versatility Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
-</div>
-<div class="text">
-<h2>Cooler Master HAF XB II EVO</h2>
-<h3>Ultra Small ATX Case</h3>
-
-<p>Cooler Master's HAF XB II EVO is a versatile, compact case that is easily converted into an open air test bench. Similarly to the Air 540, the HAF XB II EVO has two cooling zones optimized for airflow.</p>
-
-<div class="btn">
-<a class="learn-button cta-button" href="#cooler-master-haf-xb-ii-evo">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-The case has carrying handles, making it ideal as a LAN box. 
-
-In addition, it can also be used as an HTPC, gaming PC, or as a test bench.
-
-This case is well-built, has plenty of room inside, and has great airflow as well.
-
-<div id="core-g3" class="featured-info-box">
-<span>Sleek Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
-</div>
-<div class="text">
-<h2>Thermaltake Core G3</h2>
-<h3>Slim ATX Case</h3>
-
-<p>The Core G3 is a full-sized ATX case with a slim design, perfect for small spaces. Best of all, despite having a slim and sleek design, the interior of the case doesn't feel cramped.</p>
-
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price </a>
-</div>
-</div>
-</div>
-</div>
-
-The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. 
-
-This case offers a stylish full sized form factor without being too big and bulky. 
-
-In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. 
-
-The Thermaltake Core G3 is no exception, offering a stylish full sized form factor without being too big and bulky. 
-
-It's also one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC. 
-
-## Case Buying Guide
-
-![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right .img-small}
-
-If you're interested in building a gaming PC, it is imperative that you choose the [right case](https://www.computercaselab.com/what-makes-a-computer-case-the-best-for-gaming/){: target="_blank"}. Of course, that's easier said than done. 
-
-In an effort to aid those new to building gaming computers, I've created this guide to help you understand everything you need to know when it comes to selecting the best ATX case. 
-
-**So, what's the deal with ATX, micro-ATX, and mini-ITX?** 
-
-The names stem from motherboard size categories. Motherboards are grouped into these three categories.
-
-ATX is the largest, micro-ATX is a bit smaller, and mini-ITX is the smallest. 
-
-At the moment, full-sized ATX cases are the most popular form factor for a variety of reasons. 
-
-ATX motherboards are 12 × 9.6 inches (305 × 244 mm). ATX cases are usually also compatible with micro-ATX motherboards, which are 9.6 × 9.6 inches (244 × 244 mm). 
-
-Lastly, mini-ITX motherboards are 6.7 × 6.7 inches (170 x 170 mm), making them the smallest of the three form-factors. 
-
-Since cases are responsible for housing motherboards, cases are categorized in the same manner (ATX, micro-ATX, etc.) 
-
-It's always important to ensure that the case you want is compatible with your motherboard's form factor. 
-
-## A Great Case Is... 
-
-**1.** A great gaming case is strong. Avoid cases constructed with flimsy plastic – after all, your case is supposed to protect your parts and keep them from breaking, right? 
-
-A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
-
-**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. 
-
-Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using 80mm, 120mm, or 140mm case fans, *airflow is incredibly important!* 
-
-You may find this PC airflow guide helpful: 
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sh6F2eccMec" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
-**3.** A great gaming case has room for plenty of *quiet* case fans! This goes hand-in-hand with airflow. If your case doesn't have space to add case fans, it's a no go. 
-
-![Thermaltake Core G3](/img/case/thermaltake-core-g3.jpg){: .img-right .img-small}
-
-Most gaming cases ship with fans included – many of them have cool looking LEDs too. 
-
-But before you're fooled by fancy lights, it's important to make sure your fans are quiet. 
-
-Noisy fans can be especially annoying if you're sensitive to noise. 
-
-**4.** A great gaming case has enough room for your components! This may seem obvious, but some cases don't have enough room for CPU coolers and graphics cards. 
-
-For example, the first time I built a gaming PC, the hard drive bays in my case got in the way of my graphics card!
-
-**5.** A great gaming case has good cable management options. This means there is plenty of space for your cables, and they can be run throughout the case in a neat and orderly fashion. 
-
-Instead of bundling them up inside the case – which is both ugly and bad for airflow – you can run your cables in the back. 
-
-This keeps your case looking clean and promotes good airflow.
-
-Before you pull the trigger on the case of your dreams, make sure that: 
-
-* Your graphics card will fit inside the case
-* Your CPU cooler will fit inside the case
-* Your case has enough hard drive bays
-
-Otherwise, you'll be quite disappointed!
-
-## Do You Need a 'Gaming' Case?
-
-Many companies advertise their cases as "gaming cases". Just because a case is outfitted with cool LED lights does not necessarily make it a gaming case. 
-
-Most uneducated customers will buy a case simply for its looks, without really considering the factors mentioned above. 
-
-It is more important to find a functional case that provides good airflow and cable management. A good case must also be sturdy and cost effective. 
-
-Sure, a good looking case is always nice, but it is *not* necessary. If you're on a budget, especially a budget below $500, don't spend more than $50 on your case. 
-
-In fact, I'd recommend spending $40 or less. 
-
-## Case Reviews
+## Smallest ATX Case Reviews
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
 
@@ -635,7 +426,138 @@ Its seperate compartments help regulate internal temperatures, as the motherboar
 
 The case also has great cable management options, as you can run wiring through the lower level of the case to the upper level where the second compartment houses most of your components. 
 
-The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too. 
+The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too.
+
+<div class="featured-specs-box">
+<h2 id="core-g3">
+<span>#5</span><a target="_blank" href="https://amzn.to/2vTJbgT">Thermaltake Core G3</a>
+</h2>
+<div class="info">
+<a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
+<div class="specs">
+<p><span>Supports</span><span>ATX, mATX, Mini-ITX</span></p>
+<p><span>Dimensions (HxWxD)</span><span>454 x 140 x 371mm</span></p>
+<p><span>Case Fans</span><span>2 Included, 3 Max</span></p>
+<p><span>Drive Bays</span><span>Two 3.5" or 2.5"</span></p>
+<p><span>Expansion Slots</span><span>2</span></p>
+</div>
+</div>
+<div class="pros-n-cons">
+<ul class="pros">
+<span>Pros:</span>
+<li>Impeccable performance</li>
+<li>Quality design</li>
+<li>Value for money</li>
+<li>Low cost</li>
+<li>Solid construction</li>
+</ul>
+<ul class="cons">
+<span>Cons:</span>
+<li>Cable Management</li>
+</ul>
+</div>
+<div class="btn">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price</a>
+</div>
+</div> 
+
+The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. 
+
+This case offers a stylish full sized form factor without being too big and bulky. 
+
+In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. 
+
+The Thermaltake Core G3 is no exception, offering a stylish full sized form factor without being too big and bulky. 
+
+It's also one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC. 
+
+Somehow this case can house a full sized ATX motherboard despite how slim it is. 
+
+Unfortunately, since the case is so small, cable management is a bit of an issue - that's really our only complaint about the case. 
+
+The [cable management has an impact on airflow](cable-management/), but the case is ventilated all around, so the interior still remains cool during operation. 
+
+All in all, it's a fantastic case for the money. 
+
+## Case Buying Guide
+
+![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right .img-small}
+
+If you're interested in building a gaming PC, it is imperative that you choose the [right case](https://www.computercaselab.com/what-makes-a-computer-case-the-best-for-gaming/){: target="_blank"}. Of course, that's easier said than done. 
+
+In an effort to aid those new to building gaming computers, I've created this guide to help you understand everything you need to know when it comes to selecting the best ATX case. 
+
+**So, what's the deal with ATX, micro-ATX, and mini-ITX?** 
+
+The names stem from motherboard size categories. Motherboards are grouped into these three categories.
+
+ATX is the largest, micro-ATX is a bit smaller, and mini-ITX is the smallest. 
+
+At the moment, full-sized ATX cases are the most popular form factor for a variety of reasons. 
+
+ATX motherboards are 12 × 9.6 inches (305 × 244 mm). ATX cases are usually also compatible with micro-ATX motherboards, which are 9.6 × 9.6 inches (244 × 244 mm). 
+
+Lastly, mini-ITX motherboards are 6.7 × 6.7 inches (170 x 170 mm), making them the smallest of the three form-factors. 
+
+Since cases are responsible for housing motherboards, cases are categorized in the same manner (ATX, micro-ATX, etc.) 
+
+It's always important to ensure that the case you want is compatible with your motherboard's form factor. 
+
+## A Great Case Is... 
+
+**1.** A great gaming case is strong. Avoid cases constructed with flimsy plastic – after all, your case is supposed to protect your parts and keep them from breaking, right? 
+
+A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
+
+**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. 
+
+Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using 80mm, 120mm, or 140mm case fans, *airflow is incredibly important!* 
+
+You may find this PC airflow guide helpful: 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sh6F2eccMec" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+**3.** A great gaming case has room for plenty of *quiet* case fans! This goes hand-in-hand with airflow. If your case doesn't have space to add case fans, it's a no go. 
+
+![Thermaltake Core G3](/img/case/thermaltake-core-g3.jpg){: .img-right .img-small}
+
+Most gaming cases ship with fans included – many of them have cool looking LEDs too. 
+
+But before you're fooled by fancy lights, it's important to make sure your fans are quiet. 
+
+Noisy fans can be especially annoying if you're sensitive to noise. 
+
+**4.** A great gaming case has enough room for your components! This may seem obvious, but some cases don't have enough room for CPU coolers and graphics cards. 
+
+For example, the first time I built a gaming PC, the hard drive bays in my case got in the way of my graphics card!
+
+**5.** A great gaming case has good cable management options. This means there is plenty of space for your cables, and they can be run throughout the case in a neat and orderly fashion. 
+
+Instead of bundling them up inside the case – which is both ugly and bad for airflow – you can run your cables in the back. 
+
+This keeps your case looking clean and promotes good airflow.
+
+Before you pull the trigger on the case of your dreams, make sure that: 
+
+* Your graphics card will fit inside the case
+* Your CPU cooler will fit inside the case
+* Your case has enough hard drive bays
+
+Otherwise, you'll be quite disappointed!
+
+## Do You Need a 'Gaming' Case?
+
+Many companies advertise their cases as "gaming cases". Just because a case is outfitted with cool LED lights does not necessarily make it a gaming case. 
+
+Most uneducated customers will buy a case simply for its looks, without really considering the factors mentioned above. 
+
+It is more important to find a functional case that provides good airflow and cable management. A good case must also be sturdy and cost effective. 
+
+Sure, a good looking case is always nice, but it is *not* necessary. If you're on a budget, especially a budget below $500, don't spend more than $50 on your case. 
+
+In fact, I'd recommend spending $40 or less. 
 
 ## Conclusion 
 
