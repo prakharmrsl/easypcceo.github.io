@@ -475,7 +475,7 @@ Somehow this case can house a full sized ATX motherboard despite how slim it is.
 
 Unfortunately, since the case is so small, cable management is a bit of an issue - that's really our only complaint about the case. 
 
-The [cable management has an impact on airflow](cable-management/), but the case is ventilated all around, so the interior still remains cool during operation. 
+The [cable management has an impact on airflow](/cable-management/), but the case is ventilated all around, so the interior still remains cool during operation. 
 
 All in all, it's a fantastic case for the money. 
 
