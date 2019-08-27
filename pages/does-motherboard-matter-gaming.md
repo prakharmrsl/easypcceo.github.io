@@ -6,7 +6,7 @@ seotitle: "Does Your Motherboard Matter for Gaming? [2019]"
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 ---
 <h3 class="page-subtitle">
-	Updated July 13th, 2019 by 
+	Updated August 26th, 2019 by 
 	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
 	Jacob Tuwiner
 </h3>
