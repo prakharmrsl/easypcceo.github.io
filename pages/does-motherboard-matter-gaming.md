@@ -5,11 +5,9 @@ layout: page
 seotitle: "Does Your Motherboard Matter for Gaming? [2019]" 
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 ---
-<h3 class="page-subtitle">
-	Updated August 26th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
+
+* TOC
+{: toc}
 
 Asking the question “does your motherboard matter for gaming” is like asking if the type of wheels you have on your car affects your driving. 
 
@@ -127,6 +125,3 @@ Not so important, we’ll be real with you, but hey it’s all about the aesthet
 Even though sometimes it doesn’t matter at all since some people don’t even have side panel windows, (pathetic).
 
 In all seriousness though, don’t buy a motherboard just because it looks cool.
-
-* TOC
-{: toc}
