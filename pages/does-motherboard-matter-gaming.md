@@ -2,7 +2,7 @@
 title: "Do You Need a Good Motherboard for Gaming in 2019?" 
 permalink: "/does-motherboard-matter-gaming/"
 layout: page
-seotitle: "Does Your Motherboard Matter for Gaming 2019? [Yes & No]" 
+seotitle: "Does Your Motherboard Matter for Gaming? [2019]" 
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 ---
 <h3 class="page-subtitle">
@@ -13,13 +13,13 @@ meta: "There are a lot of different motherboards on the market, bu does your mot
 
 Asking the question “does your motherboard matter for gaming” is like asking if the type of wheels you have on your car affects your driving. 
 
-**While yes, high-end wheels may help you if you’re racing, normally as long as you’re just using it normally there is no noticeable difference between different wheels. Likewise, the type of motherboard will not generally affect your gaming performance until you go to high-end models.**
+You won't notice much of a difference in traction unless you spend a lot of money on tires. 
+
+Likewise, **the type of motherboard you buy will not generally affect your gaming performance until you go to high-end models.**
 
 ## Does Your Motherboard Affect FPS? 
 
-Your motherboard can, and most likely will in most cases (depending on who you are) affect your FPS in games. 
-
-Though, that’s just a surface level answer. Motherboards do not directly influence your gaming performance at all. 
+Motherboards do not directly influence your gaming performance at all. 
 
 ![picture of a motherboard](/img/motherboard-affect-fps/motherboard-pic.jpg){: .img-middle}
 
