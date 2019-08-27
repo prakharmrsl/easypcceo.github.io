@@ -3,7 +3,6 @@ title: "Best Budget Prebuilt Gaming PC Options in 2019"
 permalink: "/budget-pcs/"
 layout: page
 seotitle: "5 Best Budget Gaming PC Prebuilt Options + Custom Builds (2019)"
-redirect_from: "/budget-pcs/prebuilt/"
 ---
 <h3 class="page-subtitle">
 	June 13th, 2019 by 
@@ -382,7 +381,7 @@ There are so many different games available to you as a prospective PC gamer, it
 
 If you want to play games like Terraria, Counter Strike, or Minecraft, you don't need a beefy gaming computer. Most of those games with a low demand for processing power can be played on a dirt cheap gaming PC, or even on a laptop.
 
-However, if you want to play games like [Destiny 2](/game/destiny-2-gaming-pc/), The Witcher 3, GTA V, Rust, etc. you'll need a powerful gaming PC, especially if you want to play with high graphical settings. 
+However, if you want to play games like Destiny 2, The Witcher 3, GTA V, Rust, etc. you'll need a powerful gaming PC, especially if you want to play with high graphical settings. 
 
 That being said, there's absolutely no reason to spend $1000 on a gaming PC if you'll be playing Minecraft on it all of the time. You can drop $400 on a computer and run Minecraft like a dream. However, if you're looking to play more demanding titles, you'll have to spend a bit more. 
 
@@ -399,8 +398,6 @@ As long as the CPU doesn't bottleneck the GPU, you won't have to worry about it.
 However, since gaming heavily relies on the graphics card rather than the CPU, the first combination would see better in-game performance. This is because it has a more powerful graphics card, which is responsible for all of the 3D rendering. 
 
 If you still don't know what parts to get, take a look at one of our five <a href="#overview">budget gaming PC builds.</a>
-
-Also, it's important that you have great case fans to cool your gaming PC. Check out our guide on the [best case fans](/budget-pcs/case-fans/)!
 
 ## Custom Built or Prebuilt? 
 

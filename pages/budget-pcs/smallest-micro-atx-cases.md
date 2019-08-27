@@ -5,13 +5,14 @@ layout: page
 seotitle: "7 Smallest Micro ATX Case Reviews of 2019 (MATX)" 
 meta: "We're taking a look at the smallest micro ATX case options on the market. If you're looking for a small micro ATX case, you're in luck!"
 ---
-<h3 class="page-subtitle">
-	Updated May 12th, 2019 by 
-	<a href="/about/"><img src="/img/profile/jordyn-hamilton.png" class="circle" alt="Headshot"></a>
-	Jordyn Hamilton
-</h3>
-<script data-src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
-<img class="img-small img-right" alt="smallest atx case page header image" src="/img/case/matx/h400i.jpg">
+
+<ul id="markdown-toc">
+<li><a href="#smallest-micro-atx-case-options" id="markdown-toc-smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
+<li><a href="#matx-case-buying-guide" id="markdown-toc-matx-case-buying-guide">MATX Case Buying Guide</a></li>
+<li><a href="#best-micro-atx-case-review-nzxt-h400i" id="markdown-toc-best-micro-atx-case-review-nzxt-h400i">Best Micro ATX Case Review: NZXT H400i</a></li>
+<li><a href="#frequently-asked-questions-faq" id="markdown-toc-frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</a></li>
+<li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a></li>
+</ul>
 
 Here's the deal:
 
@@ -24,14 +25,6 @@ That's why we've created this guide.
 We've rounded up the best (and the smallest) micro ATX cases on the market.
 
 *Let's get started:* 
-
-<div class="toc-box">
-<ul>
-  <li><a href="#smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
-  <li><a href="#micro-atx-case-buying-guide">Micro ATX Case Buying Guide</a></li>
-  <li><a href="#case-reviews">Case Reviews</a></li>
-</ul>
-</div>
 
 ## Smallest Micro ATX Case Options
 
@@ -890,11 +883,3 @@ Its power button isn’t even satisfying to press!
 At least it has audio jacks and a single front USB 3.0 port.
 
 We honestly implore you to never consider yourself a part of the PC community if you earnestly consider using this case for anything other than high tier memery. You will be shunned.
-
-<ul id="markdown-toc">
-<li><a href="#smallest-micro-atx-case-options" id="markdown-toc-smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
-<li><a href="#matx-case-buying-guide" id="markdown-toc-matx-case-buying-guide">MATX Case Buying Guide</a></li>
-<li><a href="#best-micro-atx-case-review-nzxt-h400i" id="markdown-toc-best-micro-atx-case-review-nzxt-h400i">Best Micro ATX Case Review: NZXT H400i</a></li>
-<li><a href="#frequently-asked-questions-faq" id="markdown-toc-frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</a></li>
-<li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a></li>
-</ul>
