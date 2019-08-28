@@ -17,6 +17,8 @@ What if I told you that having sucky cable management could lead to your compute
 
 ## Why is Cable Management Important? 
 
+Having optimal airflow to all of your components could mean life or death for your PC, at least in the long run, as running at very high temperatures can damage your processor and/or graphics card over time.
+
 The importance of cable management can be outlined in two categories: 
 
 1. Fashion
@@ -25,8 +27,6 @@ The importance of cable management can be outlined in two categories:
 If your case comes rocking a side panel window, you don’t want messy cables running every which way. 
 
 On the side of function, airflow is a very important aspect of any build.
-
-Having optimal airflow to all of your components could mean life or death for your PC, at least in the long run, as running at very high temperatures can damage your processor and/or graphics card over time.
 
 We recommend trying to keep your CPU and GPU temperatures around or below 70-75 C° (under load) for longevity and performance. 
 
