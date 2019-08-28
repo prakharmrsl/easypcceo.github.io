@@ -6,7 +6,7 @@ seotitle: "Does Cable Management Affect Airflow? [Explained + Examples]"
 meta: "A lot of people new to building a gaming PC wonder whether or not cable management affects airflow – we've got the answers."
 ---
 
-![cable management and airflow header](/img/header/cable-management.jpg)
+![cable management and airflow header](/img/header/cable-management.jpg){: .page-header}
 
 * TOC
 {: toc}
