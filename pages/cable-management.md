@@ -85,6 +85,8 @@ Now imagine a higher-end build with even more effort put into the looks of the c
 
 Time to take a look at specific processes you can go through to make sure your cables are managed to the best of your ability so you can have the most high-quality airflow for your new system.
 
+By the way, buying a good case is one of the best (and the easiest) things you can do to make your life a whole lot easier. Even some of the [smallest micro atx cases](/budget-pcs/smallest-micro-atx-cases/) on the market have good cable management options, assuming you buy the right one.
+
 ### Modular Power Supply 
 ![modular power supply](/img/cable-management/modular-power-supply.jpg){: .img-right .img-small}
 
