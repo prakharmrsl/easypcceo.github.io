@@ -3,13 +3,13 @@ title: "How Does Cable Management Affect Airflow?"
 permalink: "/cable-management/"
 layout: page
 seotitle: "Does Cable Management Affect Airflow? [Explained + Examples]" 
-meta: "A lot of people new to building a gaming PC wonder whether or not cable management affects airflow. We're going to get to the bottom of it in this post."
+meta: "A lot of people new to building a gaming PC wonder whether or not cable management affects airflow – we've got the answers."
 ---
-<h3 class="page-subtitle">
-	Updated July 20th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
+
+![cable management and airflow header](/img/header/cable-management.jpg)
+
+* TOC
+{: toc}
 
 What if I told you that having sucky cable management could lead to your computer actually performing worse? Cable management may not seem very important when building your first PC, especially if it’s a budget build that doesn’t include a side panel window. 
 
@@ -134,6 +134,3 @@ Sometimes you may find yourself with extra cables and no idea where to put them 
 If you’ve got any extra empty hard drive bays, you may find that stuffing extra cables in there could be a viable alternative to letting them hang loose in the case. 
 
 Just make sure you’re not blocking any precious airflow!
-
-* TOC
-{: toc}

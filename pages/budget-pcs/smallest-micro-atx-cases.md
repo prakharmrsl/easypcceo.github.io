@@ -1,5 +1,5 @@
 ---
-title: The Best Small Micro ATX Case Reviews of 2019  
+title: The Best Small Micro ATX Cases 
 permalink: "/budget-pcs/smallest-micro-atx-cases/"
 layout: page
 seotitle: "7 Smallest Micro ATX Case Reviews of 2019 (MATX)" 
