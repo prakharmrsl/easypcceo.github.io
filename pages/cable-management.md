@@ -19,7 +19,8 @@ What if I told you that having sucky cable management could lead to your compute
 
 The importance of cable management can be outlined in two categories: 
 
-Fashion and Function. 
+1. Fashion
+2. Function
 
 If your case comes rocking a side panel window, you don’t want messy cables running every which way. 
 
