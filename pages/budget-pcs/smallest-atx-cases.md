@@ -39,7 +39,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<th>More</th>
 	</tr>
 	<tr>
-		<td>Corsair Carbide Series 400C</td>
+		<td><a href="#corsair-carbide-series-400c">Corsair Carbide Series 400C</a></td>
 		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
 		<td class="components">
 			<ul>
@@ -51,7 +51,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
 	</tr>
 	<tr>
-		<td>Corsair Carbide Series Air 540</td>
+		<td><a href="#corsair-carbide-series-air-540">Corsair Carbide Series Air 540</a></td>
 		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
 		<td class="components">
 			<ul>
@@ -63,7 +63,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
 	</tr>
 	<tr>
-		<td>NZXT H500i</td>
+		<td><a href="#nzxt-h500i">NZXT H500i</a></td>
 		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
@@ -75,7 +75,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
 	</tr>
 	<tr>
-		<td>Cooler Master HAF XB II EVO</td>
+		<td><a href="#cooler-master-haf-xb-ii-evo">Cooler Master HAF XB II EVO</a></td>
 		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
 		<td class="components">
 			<ul>
@@ -87,7 +87,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
 	</tr>
 	<tr>
-		<td>Thermaltake Core G3 Slim ATX Case</td>
+		<td><a href="#core-g3">Thermaltake Core G3 Slim ATX Case</a></td>
 		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
 		<td class="components">
 			<ul>
