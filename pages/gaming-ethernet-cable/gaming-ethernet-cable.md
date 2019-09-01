@@ -1,23 +1,31 @@
 ---
-title: "The Best Ethernet Cable for Gaming: PS4, Xbox One, and PC"
+title: "The Best Ethernet Cable for the Xbox One (2019)"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "Best Ethernet Cable for PS4 and Xbox One in 2019 (Gaming)" 
-meta: "We're taking a look at the best ethernet cable for gaming which can be used with an Xbox One, a PS4, or a PC."
+seotitle: "#1 Best Ethernet Cable for Xbox One in 2019 (Good & Cheap)" 
+meta: "We're taking a look at the best ethernet cable for the Xbox One in 2019!"
 ---
-<h3 class="page-subtitle">
-	Updated May 2nd, 2019 by 
-	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
 
 ![Gaming Ethernet Cable Header](/img/header/gaming-ethernet-cables.jpg)
+
+<ul id="markdown-toc">
+<li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cable-options-for-xbox-one">3 Best Ethernet Cable Options for Xbox One</a></li>
+<li><a href="#how-to-choose-an-ethernet-cable-for-gaming" id="markdown-toc-how-to-choose-an-ethernet-cable-for-gaming">How to Choose an Ethernet Cable for Gaming</a></li>
+<li><a href="#cat5e-vs-cat6-ethernet-cables" id="markdown-toc-cat5e-vs-cat6-ethernet-cables">Cat5e vs. Cat6 Ethernet Cables</a></li>
+<li><a href="#best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One</a></li>
+<li><a href="#best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable" id="markdown-toc-best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable">Best Ethernet Cable for PC Gaming</a></li>
+<li><a href="#best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable" id="markdown-toc-best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable">Best Ethernet Cable for PS4</a></li>
+<li><a href="#cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat" id="markdown-toc-cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat">Cat 7 Ethernet Cable for Gaming</a></li>
+<li><a href="#what-is-ethernet" id="markdown-toc-what-is-ethernet">What is Ethernet?</a>
+</li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
 
 I have fond memories of playing Grand Theft Auto IV and Call of Duty with my friends on my old Xbox. 
 
 One second I was calling in an AC130 on an insane kill streak, and then the next thing I knew, I was teleporting randomly all around the map, only to be killed by a noob tube. 
 
-"ELLIE! GET OFF THE INTERNET!" I would scream at my little sister as she was trying to watch something stupid about dolls or makeup or whatever it is girls do online these days. 
+"GET OFF THE INTERNET!" I would scream at my little sister as she was trying to watch something stupid about dolls or makeup or whatever it is girls do online. 
 
 Suffice to say, my dad eventually had enough and upgraded the WiFi to a higher speed.
 
@@ -31,7 +39,7 @@ Wireless signals aren't as fast as a direct connection via an Ethernet cable, an
 
 When it comes to insuring you have a stable connection, you should definitely be using an Ethernet cable for gaming.
 
-## 3 Best Ethernet Cable Options for Gaming
+## 3 Best Ethernet Cables for Gaming 
 
 <table>
 	<tr>
@@ -83,17 +91,8 @@ Both cables are interchangable, and work the same way. However, Cat6 cables are 
 If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the other cables in your network to Cat6. Otherwise, your old Cat5e cables will slow down the network. 
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/jGHgs2eSPCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xntkJ3tHtwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-## [Best Ethernet Cable for PS4](https://amzn.to/2NT6sqV){: target="_blank"}
-<a target="_blank" href="https://amzn.to/2NT6sqV"><img class="img-right img-small" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
-
-The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank"} has a standard PVC jacket, and male to male connectors iwth a snagless molded strain relief.
-
-The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
-
-As far as connection goes, the Importer520 is another fantastic gaming Ethernet cable. It's a Cat6 Ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 Ethernet cable is a good idea. This is also a great Ethernet cable for PS4 Pro. This is also a great ethenet cable for gaming on the Xbox One. 
 
 ## [Best Ethernet Cable for Xbox One](https://amzn.to/2JvXEDJ){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2JvXEDJ"><img class="img-right img-small" alt="mediabridge rj45 gaming Ethernet cable" src="/img/gaming-ethernet-cable/mediabridge-rj45.jpeg" /></a>
@@ -108,7 +107,16 @@ For the price of just $7, this is an amazing gaming Ethernet cable. As far as ga
 
 During my tests, I did not experience any network difficulty. I played several games, streamed on Netflix, and downloaded a program, all without any issues. 
 
-For less than $10, this is a fantastic Cat5e gaming Ethernet cable. 
+For less than $10, this is a fantastic Cat5e gaming Ethernet cable for the Xbox One. 
+
+## [Best Ethernet Cable for PS4](https://amzn.to/2NT6sqV){: target="_blank"}
+<a target="_blank" href="https://amzn.to/2NT6sqV"><img class="img-right img-small" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
+
+The [Importer520 Cat6 RJ45 50ft cable](https://amzn.to/2NT6sqV){: target="_blank"} has a standard PVC jacket, and male to male connectors iwth a snagless molded strain relief.
+
+The cable is 50 feet long, which means you can run the wire from your router to your gaming setup, even if it is in another room. Keep in mind, however, that the longer your cable is, the weaker the connection becomes. A 50 foot cable is not going to have much of an effect on connection, but it isn't negligible. 
+
+As far as connection goes, the Importer520 is another fantastic gaming Ethernet cable. It's a Cat6 Ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 Ethernet cable is a good idea. This is also a great Ethernet cable for PS4 Pro. This is also a great ethernet cable for gaming on the Xbox One. 
 
 ## [Best Ethernet Cable for PC Gaming](https://amzn.to/2Jt4qdD){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2Jt4qdD"><img class="img-right img-small" alt="RiteAV Cat6 50ft cable" src="/img/gaming-ethernet-cable/rite-av.jpg" /></a>
@@ -163,7 +171,7 @@ Let's break these points down:
 
 **Mobility:** If you're using WiFi, you can walk freely about your home or business while accessing the internet. It's incredibly convenient, and we often take this for granted. If you're using a wired connection, you won't be able to move around. Lastly, portable devices such as tablets, smartphones, netbooks and e-readers don't come equipped with Ethernet ports. 
 
-## What is the Best Type of Ethernet Cable for Gaming?
+## What is the Best Type of Wired Connection for the Xbox One?
 
 Although you may not have known before, Ethernet cables have been developed in different generations. Each new generation of cables has tighter twists in the copper wiring and faster data transfer speeds. Here are all of the different generations of Ethernet cables: 
 
@@ -246,16 +254,3 @@ If you're going to use a powerline adapter, I'd recommend the [TP-Link AV1000 Gi
 If you want to improve your internet connection, a Cat5e or Cat6 cable is a great way to do so. A direct connection will always be faster than a wireless connection. If you decide to buy a Cat cable, make sure it is long enough to reach your gaming setup (but not too long, or it will hurt your connection.)
 
 Lastly, if you decide to upgrade to a Cat6 cable, you'll have to upgrade *all* of your Ethernet cables, not just one. If you don't upgrade the rest, your Cat6 cable will still work because it is backwards compatible. Although, you'd be wasting your money on the Cat6 cable, because it would be slowed down by the Cat5e cables. A chain is only as strong as its weakest link. 
-
-<ul id="markdown-toc">
-<li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cable-options-for-gaming">3 Best Ethernet Cable Options for Gaming</a></li>
-<li><a href="#how-to-choose-an-ethernet-cable-for-gaming" id="markdown-toc-how-to-choose-an-ethernet-cable-for-gaming">How to Choose an Ethernet Cable for Gaming</a></li>
-<li><a href="#cat5e-vs-cat6-ethernet-cables" id="markdown-toc-cat5e-vs-cat6-ethernet-cables">Cat5e vs. Cat6 Ethernet Cables</a></li>
-<li><a href="#best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One</a></li>
-<li><a href="#best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable" id="markdown-toc-best-ethernet-cable-for-pc-gaming-riteav-cat6-50ft-cable">Best Ethernet Cable for PC Gaming</a></li>
-<li><a href="#best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable" id="markdown-toc-best-ethernet-cable-for-ps4-importer520-cat6-rj45-50ft-cable">Best Ethernet Cable for PS4</a></li>
-<li><a href="#cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat" id="markdown-toc-cat-7-ethernet-cable-for-gaming-vandesail-cat7-flat">Cat 7 Ethernet Cable for Gaming</a></li>
-<li><a href="#what-is-ethernet" id="markdown-toc-what-is-ethernet">What is Ethernet?</a>
-</li>
-<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
-</ul>
