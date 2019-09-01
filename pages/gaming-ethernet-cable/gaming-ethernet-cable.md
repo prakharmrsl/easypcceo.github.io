@@ -2,7 +2,7 @@
 title: "The Best Ethernet Cable for the Xbox One (2019)"
 permalink: "/gaming-ethernet-cable/"
 layout: page
-seotitle: "#1 Best Ethernet Cable for Xbox One in 2019 (Good & Cheap)" 
+seotitle: "#1 Best Ethernet Cable for Xbox One 2019 (Fast)" 
 meta: "We're taking a look at the best ethernet cable for the Xbox One in 2019!"
 ---
 
