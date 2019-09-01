@@ -9,7 +9,7 @@ meta: "We're taking a look at the best ethernet cable for the Xbox One in 2019!"
 ![Gaming Ethernet Cable Header](/img/header/gaming-ethernet-cables.jpg)
 
 <ul id="markdown-toc">
-<li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cable-options-for-xbox-one">3 Best Ethernet Cable Options for Xbox One</a></li>
+<li><a href="#3-best-ethernet-cable-options-for-gaming" id="markdown-toc-3-best-ethernet-cables-for-gaming">3 Best Ethernet Cable Options for Gaming</a></li>
 <li><a href="#how-to-choose-an-ethernet-cable-for-gaming" id="markdown-toc-how-to-choose-an-ethernet-cable-for-gaming">How to Choose an Ethernet Cable for Gaming</a></li>
 <li><a href="#cat5e-vs-cat6-ethernet-cables" id="markdown-toc-cat5e-vs-cat6-ethernet-cables">Cat5e vs. Cat6 Ethernet Cables</a></li>
 <li><a href="#best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable" id="markdown-toc-best-ethernet-cable-for-xbox-one-mediabridge-rj45-cat5e-25ft-cable">Best Ethernet Cable for Xbox One</a></li>
