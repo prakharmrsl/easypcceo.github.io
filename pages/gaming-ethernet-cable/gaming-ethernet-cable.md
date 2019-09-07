@@ -109,6 +109,8 @@ During my tests, I did not experience any network difficulty. I played several g
 
 For less than $10, this is a fantastic Cat5e gaming Ethernet cable for the Xbox One. 
 
+<a target="_blank" class="big-button" href="https://amzn.to/2JvXEDJ">Check Price</a>
+
 ## [Best Ethernet Cable for PS4](https://amzn.to/2NT6sqV){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2NT6sqV"><img class="img-right img-small" alt="Importer520 Cat6 RJ45 50ft Cable" src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
 
@@ -118,6 +120,8 @@ The cable is 50 feet long, which means you can run the wire from your router to 
 
 As far as connection goes, the Importer520 is another fantastic gaming Ethernet cable. It's a Cat6 Ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 Ethernet cable is a good idea. This is also a great Ethernet cable for PS4 Pro. This is also a great ethernet cable for gaming on the Xbox One. 
 
+<a target="_blank" class="big-button" href="https://amzn.to/2NT6sqV">Check Price</a>
+
 ## [Best Ethernet Cable for PC Gaming](https://amzn.to/2Jt4qdD){: target="_blank"}
 <a target="_blank" href="https://amzn.to/2Jt4qdD"><img class="img-right img-small" alt="RiteAV Cat6 50ft cable" src="/img/gaming-ethernet-cable/rite-av.jpg" /></a>
 
@@ -126,6 +130,8 @@ The [RiteAV Cat6 50ft cable](https://amzn.to/2Jt4qdD){: target="_blank"} has 50 
 Compared to my old Cat5e cables, I was surprised by the noticeable difference between the Cat5e and Cat6. Especially when you consider this cable's low cost, it only makes sense to upgrade. 
 
 If you're a gamer wanting to improve your connection, I'd highly recommend this Ethernet cable. 
+
+<a target="_blank" class="big-button" href="https://amzn.to/2Jt4qdD">Check Price</a>
 
 ## [Cat 7 Ethernet Cable for Gaming: Vandesail Cat7 Flat](https://amzn.to/2ydiAwC){: target="_blank"}  
 ![Vandesail Cat7 Ethernet cable for gaming](/img/gaming-ethernet-cable/vandesail.png){: .img-right .img-small}

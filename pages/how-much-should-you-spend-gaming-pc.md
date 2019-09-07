@@ -20,6 +20,7 @@ On the other hand, someone who may have been saving up specifically for a high-e
 **In the following article, we will cover for you the minimum and optimal budget requirements for each and every popular resolution for video games. Here we go!**
 
 ## How Much Should You Spend to Game in 720p? 
+![](/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-middle}
 
 Starting down here on the low end, building a PC that will run the most popular games at 720p is a piece of cake.
 
