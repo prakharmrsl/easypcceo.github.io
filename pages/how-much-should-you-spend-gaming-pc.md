@@ -20,7 +20,7 @@ On the other hand, someone who may have been saving up specifically for a high-e
 **In the following article, we will cover for you the minimum and optimal budget requirements for each and every popular resolution for video games. Here we go!**
 
 ## How Much Should You Spend to Game in 720p? 
-![](/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-middle}
+![720p vs 1080p gaming comparison chart](/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-middle}
 
 Starting down here on the low end, building a PC that will run the most popular games at 720p is a piece of cake.
 
@@ -29,6 +29,8 @@ Given a budget of anywhere as low as $300USD can get you a fully functioning gam
 Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720p performance and a hyperthreaded CPU all in one $60 package. 
 
 Pairing this with relatively cheap memory, storage, a power supply, and a case will yield prime 720 gaming performance. 
+
+![how much should you spend to game in 720p](/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 
 You can even grab a small SSD while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
 
@@ -40,6 +42,8 @@ That sounds like a pretty good deal to me.
  
 ## How Much Should You Spend to Game in 1080p? 
 
+![how much should you spend to game in 1080p on a pc](/img/how-much-should-you-spend-gaming-pc/1080p.jpg){: .img-middle}
+
 1080p, the king of gaming resolutions and the most commonly used for gaming. 
 
 However, being that it’s such a common resolution, the number of possible configurations for a great 1080p experience is staggering. 
@@ -47,6 +51,8 @@ However, being that it’s such a common resolution, the number of possible conf
 So what we’ll do is give you the minimum recommended config for a playable 1080p experience and a recommended 1080p 60fps experience. 
 
 Keep in mind the prices may change as the market does, and as new games come out hardware gets dated.
+
+![awesome gaming setup](/how-much-should-you-spend-gaming-pc/game-1080p.jpg){: .img-middle}
 
 Now, it really isn’t too hard to build a gaming PC that will be playable at 1080p. 
 
@@ -61,6 +67,7 @@ If you want to add on peripherals, let’s try that.
 For a complete 1080p playable build you can vision a bill of around [$700USD](/budget-pcs/700/) if not a little more, but if you want that sick 60fps gaming with all RGB peripherals then you best expect that price to skyrocket.
 
 ## How Much Should You Spend to Game in 1440p? 
+![1440p gaming rig](/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-middle}
 
 The next two resolutions are where we will see our highest numbers yet. Don’t expect to have a traditional “budget” build if you want to play your new games anywhere this luxuriously.
 
