@@ -13,7 +13,7 @@ meta: "A lot of people new to building a gaming PC wonder whether or not cable m
 
 What if I told you that having sucky cable management could lead to your computer actually performing worse? Cable management may not seem very important when building your first PC, especially if it’s a budget build that doesn’t include a side panel window. 
 
-**As crazy as it sounds, when you have extra cables running wild in your case, they can potentially block the vital airflow your components need to stay cool, leading to lower performance at higher temperatures. Long term, this is detrimental to your PC’s overall health.**
+**Luckily, cable management doesn't have a huge impact on airflow when all is said and done. You'd have to do a pretty terrible job for it to really affect your PC's airflow. But that doesn't mean you should ignore cable management altogether.**
 
 ## Why is Cable Management Important? 
 
@@ -31,6 +31,12 @@ On the side of function, airflow is a very important aspect of any build.
 We recommend trying to keep your CPU and GPU temperatures around or below 70-75 C° (under load) for longevity and performance. 
 
 While you can safely go above that to around 80-85 C°, we do not recommend running those temperatures for very long.
+
+## Does Cable Management Matter? 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5IPaLKzkVjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## An Example of Bad Cable Management 
 ![example of bad cable management](/img/cable-management/bad-cable-management.png)
