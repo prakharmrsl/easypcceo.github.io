@@ -34,6 +34,10 @@ While you can safely go above that to around 80-85 C°, we do not recommend runn
 
 ## Does Cable Management Matter? 
 
+Cable management matters more for looks than it does for cooling performance, but that doesn't mean you should ignore it. 
+
+Poor cable management will make your PC run slightly hotter - in addition, if you don't tidy up your cables, the inside of your gaming PC is going to look like a freaking bird's nest. 
+
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5IPaLKzkVjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
