@@ -9,7 +9,7 @@ meta: "Is NVME worth it for gaming over a traditional SSD? Find out in this post
 * TOC
 {: toc}
 
-First off, what is NVME? NVME (or non-volatile memory express) is an ultra-high-speed storage protocol that greatly increases the transfer speeds of SSDs. 
+First off, what is [NVME](https://searchstorage.techtarget.com/definition/NVMe-non-volatile-memory-express){: target="_blank"}? NVME (or non-volatile memory express) is an ultra-high-speed storage protocol that greatly increases the transfer speeds of SSDs. 
 
 Flash storage is already much, *much* faster than traditional mechanical hard storage, but NVME takes it a step further.
 
