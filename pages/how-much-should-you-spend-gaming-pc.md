@@ -125,7 +125,7 @@ None of these cards will get you near high settings (or even medium) at 60fps, b
 When building a PC it is always a great idea to search around for deals and save money wherever you can, especially when you’re on a tight budget. Lucky for you, here we’ve got a set of tips and tricks to help you save a buck on your next PC build.
 
 ### Sales
-![pc parts on sale](/img/how-much-should-you-spend-gaming-pc/sales.jpg)
+![pc parts on sale](/img/how-much-should-you-spend-gaming-pc/deals.jpg)
 
 We cannot stress enough how important it is to always look out for sales when building a PC. 
 
