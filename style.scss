@@ -1705,3 +1705,18 @@ blockquote p {
     border-left: 15px solid transparent;
     border-right: none;
 }
+
+.buttons-wrapper {
+  margin-bottom: 100px;
+}
+
+.right-button {
+  float: right;
+  display: inline block;
+  margin-top: 1px;
+}
+
+.left-button {
+  float: left;
+  margin-top: 2px;
+}
