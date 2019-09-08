@@ -93,5 +93,11 @@ Moreover, the exhaust fan has a filter, which does not make a whole lot of sense
 
 ## Conclusion 
 
+Overall, this is one of the best cases on the market in my opinion. 
+
+It looks great, and definitely delivers in terms of value. 
+
+Sure, it's not exactly budget friendly, but if you have the cash to invest in a case that you'll love, it's worth the money. 
+
 * TOC
 {: toc}
