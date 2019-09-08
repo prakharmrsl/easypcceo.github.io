@@ -36,9 +36,13 @@ In this post, we're going to be taking a look at one of Corsair's best compact A
 
 The Corsair Carbide Series Air 540 has taken second place on our list of the best [smallest atx cases](/budget-pcs/smallest-atx-cases/). 
 
+In fact, we like it nearly as much as the [Corsair Carbide 400C](/budget-pcs/smallest-atx-cases/corsair-carbide-400c-review/) - these two cases are probably our two favorite cases in this category. 
+
 It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build.
 
-In order to achieve this feat, Corsair had to widen the chassis. One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
+In order to achieve this feat, Corsair had to widen the chassis. The case is actually using a dual chamber design. 
+
+One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
 
 Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
 
