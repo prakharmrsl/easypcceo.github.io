@@ -22,17 +22,17 @@ On the other hand, someone who may have been saving up specifically for a high-e
 ## How Much Should You Spend to Game in 720p? 
 ![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right .img-small}
 
-Starting down here on the low end, building a PC that will run the most popular games at 720p is a piece of cake.
+Starting down here on the low end, building a PC that will run the most popular games at [720p](https://en.wikipedia.org/wiki/720p){: target="_blank"} is a piece of cake.
 
 Given a budget of anywhere as low as $300USD can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
 
 Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720p performance and a hyperthreaded CPU all in one $60 package. 
 
-Pairing this with relatively cheap memory, storage, a power supply, and a case will yield prime 720 gaming performance. 
+Pairing this with relatively cheap memory, storage, a power supply, and a case will yield prime 720p gaming performance. 
 
 ![how much should you spend to game in 720p](/img/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 
-You can even grab a small SSD while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
+You can even grab a small [SSD](/will-ssd-improve-fps/) while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
 
 If you want to up that budget just a tad, you can even throw in some cheap peripherals. 
 
@@ -44,7 +44,7 @@ That sounds like a pretty good deal to me.
 
 ![how much should you spend to game in 1080p on a pc](/img/how-much-should-you-spend-gaming-pc/1080p.jpg){: .img-right .img-small}
 
-1080p, the king of gaming resolutions and the most commonly used for gaming. 
+[1080p](https://electronics.howstuffworks.com/what-does-1080p-mean.htm){: target="_blank"}, the king of gaming resolutions and the most commonly used for gaming. 
 
 However, being that it’s such a common resolution, the number of possible configurations for a great 1080p experience is staggering. 
 
@@ -90,7 +90,7 @@ For sure, you’re going to want complete and total RGB, keyboard, mouse, maybe 
 ## How Much Should You Spend to Game in 4K? 
 ![4k gaming setup](/img/how-much-should-you-spend-gaming-pc/4k-setup.jpg){: .img-right .img-small}
 
-Gaming in 4K is like cocaine; I wouldn’t know what either feels like, but I'm sure if I tried it, I'd be hooked. 
+[Gaming in 4K](https://www.wepc.com/tips/1080p-vs-4k-gaming/){: target="_blank"} is like cocaine; I wouldn’t know what either feels like, but I'm sure if I tried it, I'd be hooked. 
 
 For real though, 4K gaming is an amazing experience reserved for only the wealthiest of the wealthy, that is if you want a truly seamless experience. 
 
@@ -134,7 +134,7 @@ All of your components are relatively expensive and getting even the slightest p
 Some common sales to look for are: 
 
 * Amazon Prime Day which is usually July 16th but started on the 15th this year 
-* Newegg Flash Sales 
+* [Newegg](https://www.newegg.com/){: target="_blank"} Flash Sales 
 * Holiday Sales (Labor Day, Christmas, Black Friday, etc.) 
 
 Plan your build around yearly sales to ensure that you get a great deal on parts.
@@ -158,7 +158,7 @@ For someone brand new to PC building or someone looking for quality assurance, w
 
 However, for those of you out there ready to take the added risk, the used market is the best way to get PC parts for amazing prices. 
 
-Online sites like eBay, Reddit, and Chippit can offer amazing savings on used parts around the world. 
+Online sites like [eBay](https://www.ebay.com/){: target="_blank"}, [Reddit](https://www.reddit.com/){: target="_blank"}, and [Chippit](https://www.chippit.io/){: target="_blank"} can offer amazing savings on used parts around the world. 
 
 Local buying sites and apps like Craigslist, OfferUp, and Letgo can also provide great deals in your area, subverting the shipping process.
 
