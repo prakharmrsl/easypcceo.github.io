@@ -22,7 +22,11 @@ In this post, we're going to be taking a look at one of our favorite cases in th
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LNPT0zqS5rc?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The 400C has a clean, modern, and minimalistic design with an entirely steel exterior. 
+This is one of our favorite [small ATX cases](/budget-pcs/smallest-atx-cases/) on the market. 
+
+Here's why: 
+
+The 400C has a clean, modern, and minimalistic design with an entirely steel exterior.
 
 The overall design of the case feels sleek and refined. It has a nice black finish with a large side-panel window, allowing you to peek inside and take a look at your components. 
 
@@ -47,7 +51,7 @@ The outside of the 400C is mostly steel, but the door handle, feet, and ventilat
 
 In today's day and age, people are consuming their media much differently than they used to even a few years ago. 
 
-Optical drives are becoming less common, as most of the data you'd need can be downloaded directly to your computer's hard drive, which have also grown in storage capacity. 
+[Optical drives](https://www.pcworld.com/article/2858639/why-you-might-still-want-an-optical-drive.html){: target="_blank"} are becoming less common, as most of the data you'd need can be downloaded directly to your computer's hard drive, which have also grown in storage capacity. 
 
 Moreover, rather than popping your favorite movie into the DVD player, most people choose to watch movies and TV shows via their favorite online streaming service, such as Netflix or Hulu. 
 
