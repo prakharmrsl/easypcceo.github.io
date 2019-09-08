@@ -566,7 +566,7 @@ a:hover {
       padding: 5px 10px;
     }
     @media (max-width: 640px) {
-      font-size: 8px;
+      font-size: 12px;
       padding: 2px 6px;
     }
     &:hover {
@@ -1719,4 +1719,8 @@ blockquote p {
 .left-button {
   float: left;
   margin-top: 2px;
+}
+
+.center-button {
+  text-align: center;
 }
