@@ -20,7 +20,7 @@ On the other hand, someone who may have been saving up specifically for a high-e
 **In the following article, we will cover for you the minimum and optimal budget requirements for each and every popular resolution for video games. Here we go!**
 
 ## How Much Should You Spend to Game in 720p? 
-![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right}
+![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right .img-small}
 
 Starting down here on the low end, building a PC that will run the most popular games at 720p is a piece of cake.
 
@@ -42,7 +42,7 @@ That sounds like a pretty good deal to me.
  
 ## How Much Should You Spend to Game in 1080p? 
 
-![how much should you spend to game in 1080p on a pc](/img/how-much-should-you-spend-gaming-pc/1080p.jpg){: .img-right}
+![how much should you spend to game in 1080p on a pc](/img/how-much-should-you-spend-gaming-pc/1080p.jpg){: .img-right .img-small}
 
 1080p, the king of gaming resolutions and the most commonly used for gaming. 
 
@@ -67,7 +67,7 @@ If you want to add on peripherals, let’s try that.
 For a complete 1080p playable build you can vision a bill of around [$700USD](/budget-pcs/700/) if not a little more, but if you want that sick 60fps gaming with all RGB peripherals then you best expect that price to skyrocket.
 
 ## How Much Should You Spend to Game in 1440p? 
-![1440p gaming rig](/img/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-right}
+![1440p gaming rig](/img/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-right .img-small}
 
 The next two resolutions are where we will see our highest numbers yet. Don’t expect to have a traditional “budget” build if you want to play your new games anywhere this luxuriously.
 
@@ -88,7 +88,7 @@ Why would you shell out over $1,000 just to equip your rig with El Cheapo periph
 For sure, you’re going to want complete and total RGB, keyboard, mouse, maybe even some headphones. Not to mention that a 1440p monitor is gonna run you quite a fortune, you’re gonna be looking at a total reaching upwards of $1,800USD! Have fun with that bill bro.
 
 ## How Much Should You Spend to Game in 4K? 
-![4k gaming setup](/img/how-much-should-you-spend-gaming-pc/4k-setup.jpg){: .img-right}
+![4k gaming setup](/img/how-much-should-you-spend-gaming-pc/4k-setup.jpg){: .img-right .img-small}
 
 Gaming in 4K is like cocaine; I wouldn’t know what either feels like, but I'm sure if I tried it, I'd be hooked. 
 
@@ -125,7 +125,7 @@ None of these cards will get you near high settings (or even medium) at 60fps, b
 When building a PC it is always a great idea to search around for deals and save money wherever you can, especially when you’re on a tight budget. Lucky for you, here we’ve got a set of tips and tricks to help you save a buck on your next PC build.
 
 ### Sales
-![pc parts on sale](/img/how-much-should-you-spend-gaming-pc/sales.png)
+![pc parts on sale](/img/how-much-should-you-spend-gaming-pc/sales.jpg)
 
 We cannot stress enough how important it is to always look out for sales when building a PC. 
 
@@ -152,7 +152,7 @@ Subscription discounts aren’t going to apply for all online or physical retail
 For example, Amazon Prime allows for free two day shipping on any PC components you would buy and Newegg Premier also gives the benefits of free expedited shipping along with no restocking fees for returns, plus you can add up to four people to the same Premiere subscription.
 
 ### The Used Market
-![buying used parts](/img/how-much-should-you-spend-gaming-pc/ebay-used-parts.png)
+![buying used parts](/img/how-much-should-you-spend-gaming-pc/ebay-used-parts.jpg)
 
 For someone brand new to PC building or someone looking for quality assurance, we do not suggest shopping the used market for your next build.
 
@@ -175,7 +175,7 @@ You can really go by the seller’s word as to how long the component has been u
 There’s no telling if maybe in a year, a month, or even a week down the line the part will cease functioning. From personal experience, I’ve had a used motherboard’s VRM burn out on me a year down the line, frying the motherboard and a brand new CPU in the process.
 
 ### Barebones Systems
-![barebones pc](/img/how-much-should-you-spend-gaming-pc/barebones-pc.png)
+![barebones pc](/img/how-much-should-you-spend-gaming-pc/barebones-pc.jpg)
 
 Another, less popular (and viable) option for saving a bit of cash on a build is buying a barebones system. 
 
