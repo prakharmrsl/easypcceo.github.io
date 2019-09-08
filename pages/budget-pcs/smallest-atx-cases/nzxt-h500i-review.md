@@ -10,10 +10,6 @@ meta: "In this post we're going to be taking a look at the NZXT H500i, an awesom
 
 The NZXT H500i is the upgraded version of NZXT's base H500 model - so what's the difference?
 
-The H500i comes with all of the fancy bells and whistles you'd expect from a high end case at this price point. 
-
-With this model, the H500i has a smart hub for fan control and a built-in RGB strip up top and behind a cable cover. 
-
 It's a premium case for builders who want a sleek looking setup. In this post, we're going to be taking a look at one of my favorite cases from NZXT. 
 
 **Pros:** 
@@ -38,6 +34,10 @@ It's a premium case for builders who want a sleek looking setup. In this post, w
 </div>
 
 The NZXT H500i has a simple design that will exceed your expectations in terms of build quality for its price point. 
+
+This case comes with all of the fancy bells and whistles you'd expect from a high end case at this price point. 
+
+With this model, the H500i has a smart hub for fan control and a built-in RGB strip up top and behind a cable cover. 
 
 This case has a sleek white paint job that's minimalistic but super good looking. 
 
