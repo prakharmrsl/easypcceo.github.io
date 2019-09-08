@@ -12,7 +12,18 @@ meta: "In this post we're going to be taking a look at the Corsair Carbide Serie
 
 From power supplies to cases, it seems like Corsair does it all. 
 
-In this post, we're going to be taking a look at one of our favorite cases in their Carbide series line, the 400c. 
+In this post, we're going to be taking a look at one of our favorite cases in their Carbide series line, the 400c.
+
+**Pros:** 
+
+* Sleek design
+* Sturdy case
+* Small and compact
+* Spacious interior 
+
+**Cons:** 
+
+* A bit pricey 
 
 [Check Reviews on Amazon](https://amzn.to/2PorXR8){: .big-button}
 
@@ -75,7 +86,7 @@ The case supports up to five storage devices, two of which are 3.5-inch drives a
 
 The power supply and the removable 3.5-inch drive cage are both protected by overlapping plastic shrouds. When the plastic shrouds are there (they're removable), they hide most of the case's wiring, giving it a cleaner look and feel. 
 
-![Corsair 400C case airflow](/img/case/corsair-carbide-400c.png){: .img-middle}
+![Corsair 400C case airflow](/img/case/carbide-400c-airflow.png){: .img-middle}
 
 The case also has several cable cutouts, which are lined with rubber. 
 
