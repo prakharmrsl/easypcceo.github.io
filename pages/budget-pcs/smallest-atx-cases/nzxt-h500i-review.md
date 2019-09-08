@@ -1,9 +1,9 @@
 ---
-title: Corsair Carbide 400C Small ATX Case Review 
-permalink: "/budget-pcs/smallest-atx-cases/corsair-carbide-400c-review/"
+title: NZXT H500i Small Compact ATX Case Review 
+permalink: "/budget-pcs/smallest-atx-cases/nzxt-h500i-review/"
 layout: page
-seotitle: "Corsair Carbide 400C Review: Buy This Case? (2019)" 
-meta: "In this post we're going to be taking a look at the Corsair Carbide Series 400C small ATX case."
+seotitle: "NZXT H500i Review: Buy This Case? (2019)" 
+meta: "In this post we're going to be taking a look at the NZXT H500i, an awesome 'smart' case."
 ---
 
 ![nzxt h500i case](/img/case/nzxt-h500i.jpg){: .img-right .img-small}
