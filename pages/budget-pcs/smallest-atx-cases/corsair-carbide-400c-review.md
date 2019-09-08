@@ -6,20 +6,21 @@ seotitle: "Corsair Carbide 400C Review: Buy This Case? (2019)"
 meta: "In this post we're going to be taking a look at the Corsair Carbide Series 400C small ATX case."
 ---
 
-* TOC
-{: toc}
+![corsair carbide series 400c case](/img/case/corsair-carbide-400c.jpg){: .img-right .img-small}
 
-Corsair is a well-respected brand in the PC gaming community, and for good reason. 
+[Corsair](https://www.corsair.com){: target="_blank"} is a well-respected brand in the PC gaming community, and for good reason. 
 
 From power supplies to cases, it seems like Corsair does it all. 
 
 In this post, we're going to be taking a look at one of our favorite cases in their Carbide series line, the 400c. 
 
+[Check Reviews on Amazon](https://amzn.to/2PorXR8){: .big-button}
+
+## Case Design 
+
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/LNPT0zqS5rc?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-## Case Design 
 
 The 400C has a clean, modern, and minimalistic design with an entirely steel exterior. 
 
@@ -30,7 +31,7 @@ Although it's not flashy, when you step into the room, the case has a presence.
 Its minimalistic design is almost graceful in a way – its visual points of interest are subtler compared to other flashy cases with bright lights that are dying for attention. 
 
 <figure>
-<im class="img-middle" alt="back of corsair carbide 400c" src="/img/case/corsair-carbide-400c-back.jpg" />
+<img class="img-middle" alt="back of corsair carbide 400c" src="/img/case/corsair-carbide-400c-back.jpg" />
 <figcaption><p>Image courtesy of <a target="_blank" href="https://www.pcmag.com/review/344852/corsair-carbide-clear-400c">PC Mag review</a></p></figcaption>
 </figure>
 
@@ -70,7 +71,7 @@ The case supports up to five storage devices, two of which are 3.5-inch drives a
 
 The power supply and the removable 3.5-inch drive cage are both protected by overlapping plastic shrouds. When the plastic shrouds are there (they're removable), they hide most of the case's wiring, giving it a cleaner look and feel. 
 
-![Corsair 400C case](/img/case/corsair-carbide-400c.png){: .img-middle}
+![Corsair 400C case airflow](/img/case/corsair-carbide-400c.png){: .img-middle}
 
 The case also has several cable cutouts, which are lined with rubber. 
 
@@ -91,3 +92,6 @@ Nevertheless, it's not the end of the world, and they get the job done.
 What's the moral of the story here? 
 
 If you're hunting for the best smallest ATX case, the Corsair Carbide 400C should be a strong contender on your list of possible candidates. 
+
+* TOC
+{: toc}
