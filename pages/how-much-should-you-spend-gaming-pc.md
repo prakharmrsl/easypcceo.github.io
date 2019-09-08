@@ -20,7 +20,7 @@ On the other hand, someone who may have been saving up specifically for a high-e
 **In the following article, we will cover for you the minimum and optimal budget requirements for each and every popular resolution for video games. Here we go!**
 
 ## How Much Should You Spend to Game in 720p? 
-![720p vs 1080p gaming comparison chart](/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-middle}
+![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-middle}
 
 Starting down here on the low end, building a PC that will run the most popular games at 720p is a piece of cake.
 
@@ -30,7 +30,7 @@ Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720
 
 Pairing this with relatively cheap memory, storage, a power supply, and a case will yield prime 720 gaming performance. 
 
-![how much should you spend to game in 720p](/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
+![how much should you spend to game in 720p](/img/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 
 You can even grab a small SSD while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
 
@@ -52,7 +52,7 @@ So what we’ll do is give you the minimum recommended config for a playable 108
 
 Keep in mind the prices may change as the market does, and as new games come out hardware gets dated.
 
-![awesome gaming setup](/how-much-should-you-spend-gaming-pc/game-1080p.jpg){: .img-middle}
+![awesome gaming setup](/img/how-much-should-you-spend-gaming-pc/game-1080p.jpg){: .img-middle}
 
 Now, it really isn’t too hard to build a gaming PC that will be playable at 1080p. 
 
@@ -67,7 +67,7 @@ If you want to add on peripherals, let’s try that.
 For a complete 1080p playable build you can vision a bill of around [$700USD](/budget-pcs/700/) if not a little more, but if you want that sick 60fps gaming with all RGB peripherals then you best expect that price to skyrocket.
 
 ## How Much Should You Spend to Game in 1440p? 
-![1440p gaming rig](/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-middle}
+![1440p gaming rig](/img/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-middle}
 
 The next two resolutions are where we will see our highest numbers yet. Don’t expect to have a traditional “budget” build if you want to play your new games anywhere this luxuriously.
 
@@ -76,6 +76,8 @@ Building for 1440p gaming will always exceed $1,000USD, and there’s no doubt a
 For 60fps 1440p gaming you want a minimum of a GTX 1070 Ti or RTX 2060-Super graphics card in your system, and even then you may not get 60fps in all titles. 
 
 Each of these cards will run you between $380USD and $420USD, so definitely expect it to take up a large portion of your budget. 
+
+![gaming in 1440p with curved monitor](/img/how-much-should-you-spend-gaming-pc/game-1440p.jpg){: .img-middle}
 
 Ideally, you’ll want something along the lines of an RTX 2070, GTX 1080 Ti, or higher for guaranteed 1440p 60fps performance in all possible titles.
 
