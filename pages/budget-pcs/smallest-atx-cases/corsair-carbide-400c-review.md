@@ -25,7 +25,7 @@ In this post, we're going to be taking a look at one of our favorite cases in th
 
 * A bit pricey 
 
-<div class="button-center">
+<div class="center-button">
 	<a class="big-button" href="https://amzn.to/2PorXR8">Check reviews on Amazon</a>
 </div>
 
