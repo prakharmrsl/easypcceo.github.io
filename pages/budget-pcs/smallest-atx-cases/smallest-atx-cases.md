@@ -2,7 +2,7 @@
 title: The Best Small ATX Cases of 2019  
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "5 Smallest ATX Case Reviews of 2019 (Slim & Compact)" 
+seotitle: "11 Smallest ATX Case Options of 2019 (Small & Slim)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
@@ -147,7 +147,7 @@ If you want to check out all of this stylish case packed full of awesome feature
 
 <div class="buttons-wrapper">
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/34yTaIo">Check Price</a>
-<a target="_blank" class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/corsair-carbide-400c-review/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/corsair-carbide-400c-review/">Read Review</a>
 </div>
 
 <div class="featured-specs-box">
@@ -196,7 +196,7 @@ You can get all of the details in our case review.
 
 <div class="buttons-wrapper">
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price</a>
-<a target="_blank" class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/corsair-carbide-air-540-review/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/corsair-carbide-air-540-review/">Read Review</a>
 </div>
 
 <div class="featured-specs-box">
@@ -241,7 +241,7 @@ If you want to find out more about this case and its features, check out our rev
 
 <div class="buttons-wrapper">
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price</a>
-<a target="_blank" class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/nzxt-h500i-review/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/nzxt-h500i-review/">Read Review</a>
 </div>
 
 <div class="featured-specs-box">
@@ -291,7 +291,7 @@ If you're the kind of gamer that likes to have LAN parties, this is the casse fo
 
 <div class="buttons-wrapper">
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price</a>
-<a target="_blank" class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/cooler-master-haf-xb-evo-review/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/budget-pcs/smallest-atx-cases/cooler-master-haf-xb-evo-review/">Read Review</a>
 </div>
 
 <div class="featured-specs-box">
