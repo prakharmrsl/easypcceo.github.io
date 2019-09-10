@@ -10,7 +10,7 @@ meta: "In this post we're going to be taking a look at the Cooler Master Haf XB 
 
 Cooler Master's XB is the newest member of the HAF line of cases. The HAF XB is – unlike any other case on the market – a hybrid between an ATX case and a bench table, with two seperate levels for different components.
 
-This case is pretty awesome considering it can be used as a test bench, LAN box, or a daily driver. 
+This case is pretty awesome considering it can be used as a test bench, [LAN box](https://forums.tomshardware.com/threads/whats-the-point-of-a-lanbox.2765938/){: target="_blank"}, or a daily driver. 
 
 **Pros:** 
 
@@ -21,7 +21,7 @@ This case is pretty awesome considering it can be used as a test bench, LAN box,
 
 **Cons:** 
 
-* No side panel window 
+* None
 
 <div class="center-button">
 	<a class="big-button" href="https://amzn.to/2N0cAMT">Check reviews on Amazon</a>
@@ -53,7 +53,9 @@ This case ships with two of Cooler Master's very own A12025-18CB-3EN-F1 fans, wh
 
 Unfortunately, they don't have integrated fan control, which means they generate a bit more noise than I'd like. 
 
-On the other hand, this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. Besides, you can always add your own fan controller if you wish. 
+On the other hand – much like the [Corsair Carbide Air 540](/budget-pcs/smallest-atx-cases/corsair-carbide-air-540-review/) this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. 
+
+Besides, you can always add your own fan controller if you wish. 
 
 ![haf xb evo](/img/case/haf-xb-evo.jpg){: .img-middle}
 
@@ -64,6 +66,8 @@ In summary, the HAF XB has a unqiue design. It can be used as a small ATX case, 
 Its seperate compartments help regulate internal temperatures, as the motherboard, CPU, GPU, and RAM get to enjoy unobstructed and continuous airflow. 
 
 The case also has great cable management options, as you can run wiring through the lower level of the case to the upper level where the second compartment houses most of your components. 
+
+It may be a [small ATX case](/budget-pcs/smallest-atx-cases/), but the interior definitely doesn't feel cramped or compact in any way thanks to its great design. 
 
 ## Features 
 
@@ -93,7 +97,7 @@ Moreover, the HAF XB's top and side panels can all be removed, which means the c
 
 The case is compatible with all modern tower-style coolers, and can support a 240mm radiator in addition to another 120mm radiator installed at the same time. 
 
-The HAF XB also offers hot-swapping for two hard drives, and has carrying handles on the sides which make transportation easy. 
+The HAF XB also offers [hot-swapping](https://whatis.techtarget.com/definition/hot-swap){: target="_blank"} for two hard drives, and has carrying handles on the sides which make transportation easy. 
 
 ## Conclusion  
 
