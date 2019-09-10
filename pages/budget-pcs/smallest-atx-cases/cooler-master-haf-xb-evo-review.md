@@ -29,7 +29,9 @@ This case is pretty awesome considering it can be used as a test bench, LAN box,
 
 ## Case Design 
 
+<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BVMkGv1uXTE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The exterior has an industrial black steel construction. The front panel has the main airflow intake with a built-in dust filter, which comes with two 120mm fans. 
 
@@ -38,6 +40,8 @@ If you wish, you can also mount two 140mm fans there as well.
 The front panel IO has the power/reset buttons, your audio ports, and two USB 3 ports. There are also two hot swap drive trays in the front of the case as well. 
 
 The sides of the case are identical with airflow vents and handles, making transport super easy. 
+
+![haf xb evo](/img/case/haf-xb-evo.jpeg){: .img-middle}
 
 If you're looking for a case with exceptional build quality, you can't go wrong with this chassis. 
 
@@ -49,7 +53,7 @@ This case ships with two of Cooler Master's very own A12025-18CB-3EN-F1 fans, wh
 
 Unfortunately, they don't have integrated fan control, which means they generate a bit more noise than I'd like. 
 
-On the other hand, this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. Besides, you can always add your own fan controller if you wish.  
+On the other hand, this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. Besides, you can always add your own fan controller if you wish. 
 
 ![haf xb evo](/img/case/haf-xb-evo.jpg){: .img-middle}
 
@@ -65,9 +69,11 @@ The case also has great cable management options, as you can run wiring through 
 
 This case has a removable motherboard tray, making installation much easier. 
 
-In addition, the entire bottom section of the case has notches to aid with cable management. Despite this case's small size, there are plenty of cable management options, so don't worry about having a hard time there. 
-
 Cooler Master has done a great job to ensure this case has a spacious interior despite being so small. In addition, since the components that don't need airflow are stored in the bottom, cooling potential is maximized. 
+
+![haf xb evo airflow](/img/case/haf-xb-evo-airflow.jpg){: .img-middle}
+
+In addition, the entire bottom section of the case has notches to aid with cable management. Despite this case's small size, there are plenty of cable management options, so don't worry about having a hard time there. 
 
 ## Installation 
 
