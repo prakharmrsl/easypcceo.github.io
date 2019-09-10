@@ -272,9 +272,6 @@ If you want to find out more about this case and its features, check out our rev
 <li>No integrated fan controller</li>
 </ul>
 </div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price</a>
-</div>
 </div>
 
 This case from Cooler Master is awesome, end of story. It has insane airflow and amazing [cable management](/cable-management/). 
@@ -567,6 +564,7 @@ The inside of the case is spacious as well.
 
 Overall, if you're looking for an awesome performer that looks good too on a budget, we highly recommend this case. 
 
+<div class="featured-specs-box">
 <h2>
 <span>#11</span><a target="_blank" href="https://amzn.to/2N8idfU">be quiet! BGW21 Pure Base 600</a>
 </h2>
