@@ -52,6 +52,8 @@ When it comes to workstations, you’ll be pricing much higher in most cases if 
 
 Browsing builds are easy and cheap, running you under $500 all the time for sure.
 
+For more on this topic, read our guide about [how much you should spend on a gaming PC](/how-much-should-you-spend-gaming-pc/). 
+
 ## Budget Gaming PCs 
 
 If you want some help picking out your components, we've got a bunch of build guides ranging from $400 to $800. Check them out below: 
@@ -79,7 +81,7 @@ If you want some help picking out your components, we've got a bunch of build gu
 			</ul>
 		</td>
 		<td>
-		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a></td>
+		<a class="big-button" href="/budget-pcs/400/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$500</b></td>
@@ -93,7 +95,7 @@ If you want some help picking out your components, we've got a bunch of build gu
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-perfect-balance-500">Parts List</a></td>
+		<td><a class="big-button" href="/budget-pcs/500/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
@@ -107,7 +109,7 @@ If you want some help picking out your components, we've got a bunch of build gu
 			<li>500GB SSD</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-stealth-gamer-600">Parts List</a></td>
+		<td><a class="big-button" href="/budget-pcs/600/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
@@ -122,7 +124,7 @@ If you want some help picking out your components, we've got a bunch of build gu
 			</ul>
 		</td>
 		<td>
-		<a class="big-button" href="#the-phoenix-700">Parts List</a></td>
+		<a class="big-button" href="/budget-pcs/700/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$800</b></td>
@@ -136,7 +138,7 @@ If you want some help picking out your components, we've got a bunch of build gu
 			<li>WD Caviar Blue 1TB</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#the-monster-800">Parts List</a></td>
+		<td><a class="big-button" href="/budget-pcs/800/">Build Guide</a></td>
 	</tr>
 </table>
 </div>
@@ -701,57 +703,3 @@ Nvidia drivers are also fairly easy to install with the Nvidia GeForce Experienc
 I really considered giving you a “So you’ve made it this far” line because I thought it’d be hilarious, but honestly, after this journey you deserve a break. You’ve just built and configured your very own personal computer! Be proud of yourself, take a breather, and I don’t know go play some video games or something. 
 
 Your brand new computer is right there, ready to delve into the ever-expanding depths of the internet. The world is now your oyster, just try not to go and ruin your machine with all those illegal downloads now. 
-
-
-
-
-## The Extreme Budget Gamer ($400) 
-![400 pc](/img/case/fbm-x1.jpg "$400 Gaming PC"){: .processor .img-right .img-small}
-
-You might think a good gaming PC goes for around $700-$800. If you bought your PC prebuilt from a big company, this may be the case. However, if you build the PC yourself, you can score awesome components for just $400. That's right, **just $400.**
-
-This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
-
-Featuring an RX 570 and a Ryzen 3 1200 quad core processor, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
-
-<a class="btn-middle" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
-
-![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
-## The Perfect Balance ($500) 
-
-The secret to building a cheap and powerful gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
-
-On a budget, $500 is often the price range I recommend.
-
-You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
-
-<a class="btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
-
-## The Stealth Gamer ($600) 
-![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
-
-This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/) and can run the newest titles in 1080p with 60 FPS including Destiny 2, [Battlefield 1](https://www.igdb.com/games/battlefield-1){:target="_blank"}, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
-
-It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
-
-<a class="btn-middle" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
-
-![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
-## The Phoenix ($700)
-
-This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
-
-<a class="btn-middle" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
-
-![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
-## The Monster ($800)
-
-This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
-
-$800 is the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. Furthermore, this PC meets the requirements of the Oculus Rift. That's right, **the PC is capable of virtual reality.**
-
-If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
-
-<a class="btn-middle" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
-
-
