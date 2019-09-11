@@ -2,13 +2,17 @@
 title: "How to Build a Gaming Computer from A to Z (Full Guide)"
 permalink: "/budget-pcs/"
 layout: page
-seotitle: "5 Best Budget Gaming PC Prebuilt Options + Custom Builds (2019)"
+seotitle: "Building a Gaming PC From Start to Finish in 2019 (Full Guide)"
 ---
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 
 So you want to build your own personal computer system, huh? Well grab a cup of coolant, some silicon wafers, and strap yourself in because we're about to cover everything you need to know to build your first gaming computer. 
 
 From your type of workload to the money you’re willing to throw down, we’ll hit it all in this Ultimate PC Build Guide! We're even going to walk you through a step-by-step installation guide. 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZaFqY8UF6I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Choose Your Fighter
 
@@ -18,12 +22,14 @@ There’s a budget and build for every occasion, but first, you have to decide w
 Here’s what to focus on for each type of build:
 
 ### Gaming Build
+![gaming PC](/img/pc-guide/gaming-pc.jpg){: .img-right .img-small}
 
 The main things to focus on when building a gaming computer are any parts that may increase your frames per second or enrich your experience in general. That could include a lot of separate parts, which is why gaming builds are usually more expensive when compared to other types.
 
 Your graphics card will be the main factor involved in increasing your FPS in games but don’t forget that having a slow CPU can bring down the performance of your graphics card. You also may want solid-state storage to boost your load times.
 
 ### Workstation Build
+![workstation PC](/img/pc-guide/workstation-pc.jpeg){: .img-right .img-small}
 
 Workstation builds are similar to gaming builds, but they include a greater focus on your computer’s processor speed and core count. Having more cores at higher speeds allows CPU focused programs like Blender.
 
@@ -50,17 +56,17 @@ Browsing builds are easy and cheap, running you under $500 all the time for sure
 
 When creating your checklist of parts to buy, we highly suggest using the website [pcpartpicker.com](https://pcpartpicker.com/){: target="_blank"} to easily find and organize the components of your build.
 
-![pcpartpicker screenshot](/img/pc-guide/pc-partpicker-screenshot.JPG){: .img-middle}
+![pcpartpicker screenshot](/img/pc-guide/pc-partpicker-screenshot.jpg)
 
 PCPartPicker’s System Builder utility includes each mandatory category for your computer to function, along with some extras you might want. 
 
 It also includes the total price (including shipping but not tax) as you choose your parts.
 
-![choosing a component on pcpartpicker screenshot](/img/pc-guide/pc-part-picker-choose.JPG){: .img-middle}
+![choosing a component on pcpartpicker screenshot](/img/pc-guide/pc-part-picker-choose.JPG)
 
 Clicking on a category will open a page like this that lists all the parts you can choose for said category. You can sort by price, socket, core count, speed, and much more with the filters on the left side.
 
-![pcpartpicker part overview page](/img/pc-guide/part-overview.JPG){: .img-middle}
+![pcpartpicker part overview page](/img/pc-guide/part-overview.JPG)
 
 Clicking on any of the listed components takes you to a page listing basic specifications, as well as online retailers currently carrying the component in question (including promos and sales).
 
