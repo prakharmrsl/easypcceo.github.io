@@ -52,6 +52,97 @@ When it comes to workstations, you’ll be pricing much higher in most cases if 
 
 Browsing builds are easy and cheap, running you under $500 all the time for sure.
 
+## Budget Gaming PCs 
+
+If you want some help picking out your components, we've got a bunch of build guides ranging from $400 to $800. Check them out below: 
+
+
+<div id="overview">
+<table class="basic-table table-colorful" align="center">
+	<tr>
+		<th>Price</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Components</th>
+		<th>Build Guide</th>
+	</tr>
+	<tr>
+		<td><b>$400</b></td>
+		<td>Extreme Budget Gamer</td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Ryzen 3 1200</li>
+			<li>RX 570 4GB</li>
+			<li>8GB DDR4-3000</li>
+			<li>1TB HDD</li>
+			</ul>
+		</td>
+		<td>
+		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a></td>
+	</tr>
+	<tr>
+		<td><b>$500</b></td>
+		<td>Perfect Balance</td>
+		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Ryzen 3 2200G</li>
+			<li>RX 570 ROG STRIX 4GB</li>
+			<li>Corsair Vengeance LPX 8GB DDR4-2400MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#the-perfect-balance-500">Parts List</a></td>
+	</tr>
+	<tr>
+		<td><b>$600</b></td>
+		<td>Stealth Gamer</td>
+		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Ryzen 5 2600</li>
+			<li>RX 570 8GB</li>
+			<li>8GB DDR4-2933</li>
+			<li>500GB SSD</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#the-stealth-gamer-600">Parts List</a></td>
+	</tr>
+	<tr>
+		<td><b>$700</b></td>
+		<td>Phoenix</td>
+		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 2600</li>
+			<li>GTX 1660 Ti 6GB</li>
+			<li>8GB DDR4-2400</li>
+			<li>240GB SSD</li>
+			</ul>
+		</td>
+		<td>
+		<a class="big-button" href="#the-phoenix-700">Parts List</a></td>
+	</tr>
+	<tr>
+		<td><b>$800</b></td>
+		<td>Monster</td>
+		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>AMD Ryzen 5 1400</li>
+			<li>GeForce GTX 1070 8GB Mini</li>
+			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
+			<li>WD Caviar Blue 1TB</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#the-monster-800">Parts List</a></td>
+	</tr>
+</table>
+</div>
+
+<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
+
 ## Parts Checklist
 
 When creating your checklist of parts to buy, we highly suggest using the website [pcpartpicker.com](https://pcpartpicker.com/){: target="_blank"} to easily find and organize the components of your build.
@@ -664,110 +755,3 @@ If you want to do any kind of rendering, editing, recording, or streaming, this 
 <a class="btn-middle" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
 
 
-<!-- 
-
-	## The Best Budget Gaming PC Builds
-<div id="overview">
-<table class="basic-table table-colorful" align="center">
-	<tr>
-		<th>Price</th>
-		<th>Name</th>
-		<th>Image</th>
-		<th>Components</th>
-		<th>Build Guide</th>
-	</tr>
-	<tr>
-		<td><b>$400</b></td>
-		<td>Extreme Budget Gamer</td>
-		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 3 1200</li>
-			<li>RX 570 4GB</li>
-			<li>8GB DDR4-3000</li>
-			<li>1TB HDD</li>
-			</ul>
-		</td>
-		<td>
-		<a class="big-button" href="#the-extreme-budget-gamer-400">Parts List</a></td>
-	</tr>
-	<tr>
-		<td><b>$500</b></td>
-		<td>Perfect Balance</td>
-		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 3 2200G</li>
-			<li>RX 570 ROG STRIX 4GB</li>
-			<li>Corsair Vengeance LPX 8GB DDR4-2400MHz</li>
-			<li>WD Caviar Blue 1TB</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#the-perfect-balance-500">Parts List</a></td>
-	</tr>
-	<tr>
-		<td><b>$600</b></td>
-		<td>Stealth Gamer</td>
-		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 5 2600</li>
-			<li>RX 570 8GB</li>
-			<li>8GB DDR4-2933</li>
-			<li>500GB SSD</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#the-stealth-gamer-600">Parts List</a></td>
-	</tr>
-	<tr>
-		<td><b>$700</b></td>
-		<td>Phoenix</td>
-		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 2600</li>
-			<li>GTX 1660 Ti 6GB</li>
-			<li>8GB DDR4-2400</li>
-			<li>240GB SSD</li>
-			</ul>
-		</td>
-		<td>
-		<a class="big-button" href="#the-phoenix-700">Parts List</a></td>
-	</tr>
-	<tr>
-		<td><b>$800</b></td>
-		<td>Monster</td>
-		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 1400</li>
-			<li>GeForce GTX 1070 8GB Mini</li>
-			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
-			<li>WD Caviar Blue 1TB</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#the-monster-800">Parts List</a></td>
-	</tr>
-	<tr>
-		<td><b>Prebuilt</b></td>
-		<td>Prebuilt PCs</td>
-		<td><a href="#viable-prebuilt-option"><img class="table-image" src="/img/prebuilt/1400.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Intel i7-7700K</li>
-			<li>GeForce GTX 1060 6GB</li>
-			<li>16GB DDR4 2400 MHz</li>
-			<li>1TB 7200RPM + 256GB SSD</li>
-			</ul>
-		</td>
-		<td>
-		<a class="big-button" href="/budget-pcs/prebuilt/">View Prebuilt PCs</a>
-		</td>
-	</tr>
-</table>
-</div>
-
-<p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
-
-
---> 
