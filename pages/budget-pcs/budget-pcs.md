@@ -1,32 +1,615 @@
 ---
-title: "Best Budget Prebuilt Gaming PC Options in 2019"
+title: "How to Build a Gaming Computer from A to Z (Full Guide)"
 permalink: "/budget-pcs/"
 layout: page
 seotitle: "5 Best Budget Gaming PC Prebuilt Options + Custom Builds (2019)"
 ---
-<h3 class="page-subtitle">
-	June 13th, 2019 by 
-	<a href="/about/"><img src="/img/profile/close.jpg" class="circle" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
-<script src="https://easypc.activehosted.com/f/embed.php?id=1" type="text/javascript" charset="utf-8"></script>
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 
-Listen up:
+So you want to build your own personal computer system, huh? Well grab a cup of coolant, some silicon wafers, and strap yourself in because we're about to cover everything you need to know to build your first gaming computer. 
 
-PC gaming is the best, end of story. 
+From your type of workload to the money you’re willing to throw down, we’ll hit it all in this Ultimate PC Build Guide! We're even going to walk you through a step-by-step installation guide. 
 
-Whether you're looking for a budget gaming PC prebuilt, or you want to build one yourself, we've got your back. 
+## Choose Your Fighter
 
-If you don't know a thing about computers, have no fear; this guide was made just for you. 
+At the beginning of any project is an idea. What is your idea? Since you have decided to build your very own computer, you must have some motive. Do you want to play video games? Do you work with 3D modeling programs? Do you want to browse cat videos on the internet? 
 
-We've put together five awesome prebuilt PCs ranging from $400-$800.
+There’s a budget and build for every occasion, but first, you have to decide what you want to do.
+Here’s what to focus on for each type of build:
 
-And if you want to build one yourself from scratch, we've got custom builds for that as well!
+### Gaming Build
 
-We promise we've got the perfect gaming PC no matter what your budget is! 
+The main things to focus on when building a gaming computer are any parts that may increase your frames per second or enrich your experience in general. That could include a lot of separate parts, which is why gaming builds are usually more expensive when compared to other types.
 
-## The Best Budget Gaming PC Builds
+Your graphics card will be the main factor involved in increasing your FPS in games but don’t forget that having a slow CPU can bring down the performance of your graphics card. You also may want solid-state storage to boost your load times.
+
+### Workstation Build
+
+Workstation builds are similar to gaming builds, but they include a greater focus on your computer’s processor speed and core count. Having more cores at higher speeds allows CPU focused programs like Blender.
+
+Do keep in mind that having a GPU is also very important to a workstation build though, as you still need to be able to efficiently complete GPU-based renders at times. An SSD isn’t required for a workstation but always recommended.
+
+Internet Browsing
+Now for the easy stuff. You just want a computer to go on youtube, maybe check your bank statements, or play some mild in-browser games, right? Luckily for you, that’s the cheapest option of the bunch.
+
+For an internet browsing build, you don’t even necessarily need a graphics card, you can get by sticking with a modest CPU that includes integrated graphics. As for storage anything really goes, so you might as well stick with that cheaper mechanical hard drive.
+
+Now, on to budgeting.
+
+## Budgeting
+
+Of course, you always have a budget going into an expensive project. Whether you’re at the low end of $300-500USD or upwards of $900-1100USD, there’s always a build to fit your needs within your own price range, though quality will vary.
+
+For a modest gaming build, we suggest a budget between $600-750USD. This will allow you to play games at high settings at a moderate FPS, or low to medium settings at high FPS. If you want a baseline 60FPS high settings build, we suggest a minimum of $1000USD. However, with sales and coupons, you could definitely lower that bar.
+
+When it comes to workstations, you’ll be pricing much higher in most cases if you plan to buy brand new parts. Buying used server hardware, though, can give you an amazing budget workstation. While we do suggest buying used parts if you want better performance in a budget, we don’t recommend it for lack of warranty.
+
+Browsing builds are easy and cheap, running you under $500 all the time for sure.
+
+## Parts Checklist
+
+When creating your checklist of parts to buy, we highly suggest using the website [pcpartpicker.com](https://pcpartpicker.com/){: target="_blank"} to easily find and organize the components of your build.
+
+![pcpartpicker screenshot](/img/pc-guide/pc-partpicker-screenshot.jpg)
+
+PCPartPicker’s System Builder utility includes each mandatory category for your computer to function, along with some extras you might want. 
+
+It also includes the total price (including shipping but not tax) as you choose your parts.
+
+![choosing a component on pcpartpicker screenshot](/img/pc-guide/pc-part-picker-choose.jpg)
+
+Clicking on a category will open a page like this that lists all the parts you can choose for said category. You can sort by price, socket, core count, speed, and much more with the filters on the left side.
+
+![pcpartpicker part overview page](/img/pc-guide/part-overview.jpg)
+
+Clicking on any of the listed components takes you to a page listing basic specifications, as well as online retailers currently carrying the component in question (including promos and sales).
+
+Once you complete the process of choosing your parts, you can click the pcpartpicker affiliate links to purchase your chosen components at your chosen retailers.
+
+## Buying Parts
+
+When you have finally decided to go ahead and purchase all or your parts, you might want to check to make sure you’re within your budget since tax on something this expensive might be a bit high. 
+
+So be sure to check the sales tax in your area and calculate shipping costs before purchasing.
+
+When it comes to buying an operating system, in the case of Windows, you can buy a consumer key for around $100USD or you can find an OEM key online for a tenth (or less) of that price. 
+
+Though OEM keys do not include the same amount of support accessibility as a consumer key would.
+
+## Ordering Parts
+
+One thing you may run into when ordering your parts, if you are ordering from many different retailers, is that the parts may come in the mail at very different times. 
+
+We suggest checking each package for contents on the date of delivery so that if any pieces may be missing you can make a speedy return.
+
+## Before You Build
+
+Once you have all of your parts delivered, you may think it’s time to get right into the nitty-gritty and build your computer. I think not. 
+
+There are a couple of things you should consider before even starting your build. Making sure you have a proper space to build and making sure all of your parts function properly.
+
+**IMPORTANT:** *If you are not using an antistatic wrist band when building your computer, touch a piece of metal every couple minutes to keep yourself grounded and avoid static shocks which can pose a fatal risk to your components.*
+
+## Testing Your Parts
+
+It’s highly recommended that you go ahead and test your main components before deciding to go all-in and screw everything together. 
+
+I’m sure you would want to know what’s working and what isn’t before it’s too late.
+
+Here is the best way to test your new parts.
+
+### Step 1: Find a Place to Build
+![picture of build components](/img/pc-guide/picture-of-parts-in-boxes.jpg)
+
+Find an area to build that is near a power outlet and does not have carpeted floors. A concrete floor is preferable, so maybe a garage?
+
+### Step 2: Sort Your Components
+![motherboard on box for testing](/img/pc-guide/motherboard-on-box.jpg)
+
+Take your motherboard out of its box, sort all of the pieces, remove the motherboard from its antistatic bag, and place the motherboard on the motherboard box so you have a nonconductive platform.
+
+
+### Step 3: Prep Your Parts
+![taking your parts out of the boxes](/img/pc-guide/parts-in-boxes.jpg)
+
+Take your power supply, memory modules (RAM), processor, and processor cooler out of their respective boxes.
+
+### Step 4: Install The RAM
+![installing the ram in the motherboard](/img/pc-guide/installing-ram.jpg)
+
+To install the RAM modules, locate the RAM slots neighboring the CPU socket. Unhinge the latches on either side of the socket, then match the notch on the RAM with the notch in the socket. 
+
+Press down until both sides click to lock the memory in place.
+
+### Step 5: Connect Your Power Supply 
+![connecting the power supply to the motherboard](/img/pc-guide/connecting-power-supply.jpg)
+
+If you bought a fully modular power supply, connect the 24-pin motherboard power and the 8-pin CPU power to the power supply. 
+
+Then for all power supplies, connect the opposite ends to the corresponding motherboard connectors and press down until the latch clicks.
+
+### Step 6: Install Your CPU 
+
+<figure><img class="img-middle" alt="installing cpu" src="/img/pc-guide/installing-cpu.jpg" />
+	<figcaption><p>Image credit: <a target="_blank" href="https://www.microcenter.com/">Microcenter</a></p></figcaption>
+</figure>
+
+On the CPU socket, pull back the retention arm, then match the triangle on your CPU with the triangle on the socket, and carefully place your processor into the socket carefully without force. 
+
+Once it’s in wiggle it gently to make sure it’s in properly, then pull the retention arm back down.
+
+
+### Step 7: Attach The CPU Cooler 
+![installing the cpu cooler](/img/pc-guide/installing-cpu-cooler.jpg)
+
+Before attaching the cooler, apply a pea-sized dribble of thermal compound to the top of your CPU. 
+
+Remove the protective covering on your processor cooler and place the CPU Cooler on the CPU in the motherboard then screw the cooler to the mounting holes provided (refer to the user manual for your unit). 
+
+In the case of the AM4 socket, you will use the retention brackets. Now you can plug the CPU fan power to the CPU fan header on the motherboard.
+
+### Step 8: Power Your PSU
+![plugging in the power supply](/img/pc-guide/plug-in-psu.jpg)
+
+Plug one end of the power supply into the wall, then the other into the power supply itself and turn the power supply on.
+
+### Step 9: Power On Your Test Rig
+![turning on test rig with screwdriver](/img/pc-guide/bridging-power-pins.jpg)
+
+Find the front panel IO header (usually labeled JPF1). Take a screwdriver and bridge the positive and negative pins on the power switch connector to turn the computer on. 
+
+You can turn the PC off by switching the power supply off.
+
+![running-test-rig](/img/pc-guide/test-rig-running.jpg)
+
+Now, if your CPU cooler’s fan turned on then your computer, at the very least, can receive power and turn on.
+
+If your PC does not power on, refer to the RMA section.
+
+## Secondary Testing
+
+For the secondary testing, you will need a keyboard, monitor, and display cable.
+
+In the second testing section, we will make sure your drives are being recognized by the system and that your graphics are outputting properly.
+
+### Step 1 
+
+**For integrated graphics:** If your processor includes integrated graphics (refer to the specifications of your unit), you can test your output before installing a graphics card. 
+
+If choosing this option, connect your display cable directly to the motherboard then skip step 2 for now.
+
+
+**For fully/semi-modular power supplies:** If you are using a fully modular or semi-modular power supply, connect your SATA power connectors to the power supply.
+
+![power cables](/img/pc-guide/power-cables.jpg)
+
+
+**For M.2 Drives:** You may have chosen an M.2 drive for your storage, install it by carefully placing it into the M.2 keyed slot on your motherboard then pushing it down and screwing it in with the small screw included in the motherboard.
+
+![m.2 drive](/img/pc-guide/m-2-drive.jpg)
+
+
+### Step 2: Installing Your GPU
+![installing GPU](/img/pc-guide/installing-gpu.jpg)
+
+Remove your graphics card from its box. To install just match the pins on the GPU with the PCIE x16 socket on the motherboard and the notch on the back of the GPU to the retention bracket on the PCIE slot, then press with slight force until it clicks. 
+
+Then (if applicable) plug in the PCIE power to your graphics card.
+
+![powering your gpu with PCI cables](/img/pc-guide/powering-gpu.jpg)
+
+### Step 3: Power Your Hard Drives
+
+Take the SATA cables from your motherboard box and connect them to your SATA ports, then connect the other end to your hard drive or solid-state drive. Then connect SATA power to your drive(s).
+
+![powering your hard drives](/img/pc-guide/powering-hard-drives.jpg)
+
+### Step 4: Connect Everything Together
+
+Hook up your monitor to power, then connect your display cable to both the monitor and graphics card.
+
+Connect your keyboard to any open USB port on the motherboard.
+
+### Step 6: Power On and Begin Your Test
+
+Turn on your computer via the screwdriver shorting method, wait for it to display, and repeatedly click the delete key on your keyboard until the computer enters the BIOS. 
+
+If you don’t get a display, try turning it on and off again a couple of times.
+
+Navigate the BIOS to storage to check if your drives are being recognized.
+
+![bios diagram](/img/pc-guide/bios-diagram.png){: .img-middle}
+
+If all goes well, then awesome! You’re set to move directly on to the building stage, and now that most of your parts are connected, it’s a fairly straight shot to finishing your computer.
+
+However, if you found that certain parts were not functioning properly, move on to the next category to learn how to return for refund or replacement.
+
+## RMA (Return Merchandise Authorization)
+
+Nobody ever wants to have to return a purchase because it isn’t working, but in the case of building a computer, everything needs to function for the computer as a whole to function. So, unfortunately, you just might have to return some of your components.
+
+Most retailers make the return process very easy for the buyer, so we will use Newegg.com as a baseline so you can apply this knowledge there and elsewhere.
+
+Scrolling to the bottom of the retailer website should always yield a section similar to this, which will include a customer service or support section. 
+
+![RMA section of a merchant website](/img/pc-guide/rma-screenshot.jpg)
+
+This area will include a means of which to contact customer support or directly initiate a return.
+
+The retailer will usually pay for return shipping and will email you a printable shipping label, or mail you a pre-printed label for return. 
+
+Once returned, it will be checked for defects and the retailer will determine whether or not to send a replacement or refund based on your choice.
+
+After that, you’re basically home free. They’ll either give you a refund to buy a new component or send you a replacement part of the same model.
+
+## Building Your PC
+
+So, you’ve tested all of your components and the process went quite smoothly! Or, it didn’t and you’ve finished RMAing your broken parts. Either way, you’re finally ready to start the building process for your brand new PC!
+
+Considering you have most of your important components, your processor, memory, CPU cooler, and possibly an M.2 SSD installed, the rest of the build should be streamlined and easy for the most part.
+
+### Opening the Case
+Opening your case is the first step to the building since, of course, you need to access the interior where your components will reside.
+
+If you have a tempered glass side panel, just unscrew the thumbscrews on the side, remove the glass, and place it someplace where it won’t be scratched or otherwise damaged.
+
+![unscrewing case thumb screw](/img/pc-guide/case-thumb-screw.jpg)
+
+Next, remove the thumbscrews for the other side panel and slide the panel off.
+
+![removing case panels](/img/pc-guide/removing-panels.jpg)
+
+### Case Fans
+
+Some cases may not come with adequate cooling fans, or you may have bought some RGB or regular LED fans for your case. Case fans are relatively simple to install but they can become a hassle.
+
+Basically, case fans do not come pre-threaded so for when you screw them on you will have to put in that extra effort to thread them with the provided fan screws.
+
+![installing case fans](/img/pc-guide/installing-case-fans.jpg)
+
+Once you’ve got that in your head, all you gotta do is line up the fans with the case front and screw them in where you want. 
+
+You can follow the same steps for the rear. 
+
+### Storage
+
+Starting with your hard drive storage, we have quite an easy setup.
+
+Most modern PC cases, even some cheaper end ones, come with removable hard drive caddy that allows for screwless installation. 
+
+Simply match the screw holes on the hard drive with the pegs on the caddy and snap the hard drive in. Once the hard drive is secured, you can slide the caddy right back into the slot in the case.
+
+![installing your hard drive](/img/pc-guide/installing-storage.jpg)
+
+If you purchased a 2.5-inch SSD, you will have to find the 2.5-inch bay somewhere in your case, then use the screws that came with the case to secure the SSD.
+
+### Power Supply
+
+The power supply is simultaneously the easiest and most difficult component to install in a PC. Let’s talk about that.
+
+![power supply](/img/pc-guide/power-supply.jpg)
+
+The initial installation is as simple as 1-2-3. Just slide the power supply into the slot on the case it fits into, match up the screw holes, and secure with the included screws. 
+
+Note that some older cases may have the power supply mounted on the top of the case as opposed to the bottom.
+
+The second part of the power supply installation is the cable management which we will cover in the [cable management](/cable-management/) section below.
+
+### Motherboard
+
+Be careful with the motherboard, the heart of your computer. One small slip could end its miserable life. 
+
+Lucky for you, motherboards are made very durable, but that doesn’t mean manhandle the damned thing.
+
+Before we can install the motherboard, we must install the rear IO shield. This will protect the rear of your motherboard from possible intrusions by unwanted visitors.
+
+![this is the motherboard IO](/img/pc-guide/motherboard-io.jpg)
+
+To install the IO shield, match up the shield with the ports on your motherboard and match the orientation to the IO shield slot. Then place the shield in the slot and push until all edges have properly snapped in.
+
+![installing the motherboard io shield](/img/pc-guide/installing-io-shield.jpg)
+
+(Image 28)
+The motherboard does not directly sit on the wall of the case, it uses small screws called “stand-offs” that keep it raised slightly to avoid the possibility of static electricity reaching your board. 
+
+![motherboard standoff](/img/pc-guide/motherboard-standoff.jpg){: .img-middle}
+
+Some cases come with these pre-installed, some don’t, just always make sure they match up with the screw holes on your motherboard before attempting to install.
+
+To install your motherboard, hold it by the CPU cooler and slide the board in diagonally while matching your rear ports to those of the IO shield. 
+
+Once they are matched up, place the rest of the motherboard down making sure to match up the motherboard holes with the stand-offs.
+
+![installing the motherboard and matching it with io shield](/img/pc-guide/installing-mobo.jpg)
+
+Then use the provided screws to secure the motherboard to the stand-offs on all sides of the board. Ta-da, you’ve installed your motherboard!
+
+![screwing in your motherboard](/img/pc-guide/screwing-in-motherboard.jpg)
+
+### Graphics Card
+
+Installing the graphics card while the motherboard is in the case is almost exactly the same as when in testing with just a couple extra steps.
+
+First, remove the tabs at the rear of the case that match up with the ports and exhaust on your graphics card. The case may also include a bracket on the rear to further secure these tabs, remove that as well.
+
+![case expansion slots](/img/pc-guide/expansion-slots.jpg)
+
+Follow the steps provided in the secondary testing section to install your graphics card.
+
+Once your graphics card is installed, screw the card down into the slot and re-secure the rear bracket if there was one.
+
+![securing GPU with screws](/img/pc-guide/secure-gpu.jpg)
+
+### Cable Management
+
+Cable management isn’t always as hard as everyone makes it out to be, but that really depends on how many cables you have and how prepared your case is to handle them. 
+
+Cases and power supplies usually come included with zip-ties which are the standard means of which to secure cables. Though, your case may include velcro ties which are even better!
+
+Cases always have predetermined cable routing zones with slits to run your zip-ties through, but the placement with vary from case to case so either consult your manual or figure out your optimal routing by looking at the hole placement.
+
+We suggest reading the Cable Management section alongside the Connecting it All section for optimal cable management for all cables.
+
+## Connecting it All
+
+Now that all of your cables are properly routed, let’s connect all of the proper cables to the internal headers.
+
+### Front Panel
+
+![io diagram](/img/pc-guide/io-diagram.jpg)
+
+Starting with the front IO cables, you can follow the above diagram and connect the corresponding cables based on their individual labels.
+
+### USB Headers
+
+Next, we will plug in the front IO USB headers. Depending on your case you may have both USB 2.0 and USB 3.0 headers or maybe just USB 2.0 or just USB 3.0, so we’ll just cover both. 
+
+![USB connector](/img/pc-guide/usb-connector.jpg)
+
+The USB 2.0 header will look like the picture above. Find the corresponding cable labeled USB and plug it right in. Boom, easy.
+
+![USB connector](/img/pc-guide/usb-2-connector.jpg)
+
+The USB 3.0 header is a lot more delicate so we urge you to be careful and make sure you have it facing the proper direction before applying force because you will need to apply a little force.
+
+### HD Audio
+
+The HD audio connector is going to be our quickest install yet.
+
+![hd audio connector](/img/pc-guide/hd-audio-connector.jpg)
+
+Just find the HD Audio connector, and push it down to the corresponding header on your motherboard (usually near the bottom left). Easy.
+
+### Power Connectors
+
+Just a quick reminder since we’ve already covered it, remember to plug in the motherboard and CPU power connectors so your computer can, you know, receive power. If you need a full refresher, please refer to the Testing Your Parts section.
+
+## Installations
+
+The hardware side of your computer is finally finished and you can stand proud knowing that you built your own PC! Though, we aren’t quite done yet. In fact, we’re nowhere near done yet.
+
+In the following portion, we will show you how to install an operating system and completely load up your computer so you can get ready to do whatever you built it for.
+Creating Boot Media for Your Operating System
+Installing your new operating system may be the most time-consuming piece of this entire puzzle, but we’re sure you’ve still got some time to spare. Possibly.
+
+(Image 37)
+There are a couple of different options of operating system and installation method when you decide to finally install one, but the one aspect that is always universal is a USB flash drive (or SD card if you so desire). It’s always recommended that you use a minimum of an 8GB flash drive for any operating system installation.
+
+Most online guides for installing an operating system will tell you that you need another computer. I’m here to tell you that the future is now and that is no longer the case, but for those of you who do have another computer, we will cover both methods of bootable media creation.
+No Computer
+So you don’t have another computer with which to create your boot media so you can install an operating system. Well, do you have a smartphone? If the answer is yes, you may be able to use your cellphone to create a boot media. There are some separate requirements, though. You must have a flash drive that can connect to your phone, or an adapter to allow it to.
+
+Now that we have that cleared up, let’s get to creating your bootable drive.
+
+(Image 38)
+First, install an app that will allow you to etch an ISO file to your flash drive. We suggest ISO 2 USB as it is very straightforward, simple to use, and the interface won’t leave you asking questions.
+
+Second, you will need to find your chosen operating system’s ISO file. If you are going with a Linux distro the process will be a lot easier, just find your chosen distro’s website and navigate to the download link.
+
+As for Windows, you may have to do a little searching to find a proper ISO. We suggest downloading the Windows 10 Pro ISO from softlay.net for a (relatively) quick experience, just try not to click on all the ads.
+
+To install your ISO press ‘pick’ for the “Pick USB Pin Drive” option and select your drive, press ‘pick’ on the “Pick ISO File” option and select your ISO, then select “Format USB Pin Drive” and press start. During this time do not unplug or move your drive/phone, because it will stop the installation process and possibly corrupt your flash drive.
+Computer
+When creating your bootable media on a computer you have two options depending on what operating system you choose and what operating system your current computer has.
+
+If on MacOS or choosing a Linux distro, download a program that will allow you to create your bootable media with an ISO file. We suggest Rufus.
+
+(Image 39)
+Rufus is very easy to use. Just leave all settings on default, select your ISO, select your drive, then click start and wait. To find your ISO file, download from the website of the chosen Linux distro, or from softlay.net for Windows.
+
+If you are using a Windows computer and you wish to install Windows on your new computer it’s a lot more simple.
+
+(Image 40)
+Find the Media Creation Tool on the Microsoft website (or just click here). Install, open, select “Create installation media for another PC” and from there just follow the onscreen directions.
+Installing Your Operating System
+Now that your boot media is in order, let’s get to the actual installation.
+Selecting the Boot Drive
+First and foremost you need to tell your computer which drive it needs to read off to install your operating system.
+
+(Image 41)image credit to howtogeek.com
+When you turn on your computer you will eventually reach a screen similar to this but brandishing whatever motherboard brand you selected. 
+
+Look at the lower half of the screen to find your designated BIOS and Boot Menu buttons, but typically they will be the same as the ones shown. Click your Boot Menu button (usually F11) once you reach this screen to enter the Boot Menu.
+
+(Image 42)image credit to deskdecode.com
+Once in the Boot Menu, select the USB you used as a boot media device and hit Enter.
+Installing Windows
+(Image 43)
+When you load into the Windows installer, make sure the settings are correct and click next.
+
+(Image 44)
+Then click the “Install Now” button.
+
+(Image 45)
+If you have a product key ready, you may enter it now. If not, just select “I don’t have a product key.” Don’t worry, this won’t bar you from using Windows (just a few features) and you can always enter a product key later.
+
+(Image 46)
+Select the version you wish to install. There isn’t much difference between the Pro and Home versions so select either of the base versions of those two.
+
+(Image 47)
+Read the software license terms (or don’t) and select “I accept the license terms”, then click next.
+
+(Image 48)
+Select “Custom: Install Windows only (advanced)” to install a fresh copy of Windows.
+
+(Image 49)
+Select the drive you wish to use as your Windows boot drive and click next.
+
+The next part of the installation is simple and just asks for personal preference and experience questions so we will not be covering it.
+
+(Image 50)
+To activate Windows later navigate to Settings > Update & Security > Activation. Select the “Change product key” option and enter your new product key.
+Installing Linux
+For our Linux installation example, we will be using Ubuntu, as most distros install the same or similar.
+
+(Image 51)
+The installation will first ask for a language and keyboard layout, choose what applies to you.
+
+(Image 52)
+Then select your internet connection if you are using Wi-Fi instead of ethernet.
+
+(Image 53)
+Select the normal installation if you will be using Linux as your main operating system and allow the installer to download updates while installing. Definitely opt to install third-party software as this will allow for proper up-to-date drivers for all of your hardware. You may choose to select secure boot or not, but we suggest it.
+
+(Image 54)
+Here you will select the disk you wish to install Linux onto.
+
+(Image 55)
+Finally, select your location (or the nearest location to you) and create your username and password for the computer.
+
+(Image 56)
+Voila, your installation is almost done. Just let the computer do its magic and load in when it’s done.
+Installing Utilities
+Once your operating system is installed, there are some housekeeping chores to get done and programs to get installed. 
+
+We will not be covering the utility installation for Linux since it can vary distro to distro.
+Personalization
+(Image 57)
+One of the first things you can check out once you’ve installed Windows is the personalized settings. Simply right-click your desktop and select Personalize. We should note, you will not have access to these settings if you have not activated Windows.
+
+Windows allows you to personalize everything from your desktop wallpaper to your lock screen wallpaper, to even your taskbar and button sizes. It really covers everything, so just choose whatever fits you!
+Ninite
+(Image 58)
+The first site to always head to is Ninite. This site allows you to download bundles of programs all at once so that you don’t have to head to each individual site one by one. We suggest selecting the following programs:
+-Chrome
+-Firefox
+-7-Zip
+-VLC
+-Notepad++
+-Foxit Reader
+
+Otherwise, just choose whatever programs you see that you think you may need.
+
+(Image 59)
+Once you have chosen your programs, hit Get Your Ninite.
+
+(Image 60)
+Then click run and it will automatically install all of your programs.
+Task Manager
+(Image 61)
+Open up your Task Manager by pressing Ctrl+Shift+Esc and click More details.
+
+(Image 62)
+Once in More details, head to Startup to see all the programs that will start with Windows.
+
+(Image 63)
+To disable or enable a program right-click and select the option, or click the option at the bottom right. We highly suggest keeping as many programs disabled as possible for a fast load and less clutter.
+Downloads Folder
+Most people don’t want their boot drive to get all backed up with downloaded files, so it’s always good to remap your Downloads folder to a different drive.
+
+(Image 64)
+Select the drive that you want your downloads to go to and make a new Downloads folder.
+
+(Image 65)
+Right-click your original Downloads folder and select properties.
+
+(Image 66)
+Navigate to Location and hit Find Target.
+
+(Image 67)
+Find your new downloads folder and double-click it. Now you’ve got a new downloads folder.
+
+You can follow these same steps with any of the other baseline folders if you wish to move them to a drive other than the boot drive.
+
+Drivers
+Oh boy, finally reaching the end here. Your drivers are very, very, very important to getting your computer up and running to the best of its abilities. Luckily, there’s only a couple we need to install.
+
+(Image 68)
+For AMD drivers it is a lot more simple to get all of the drivers you need. Simply go to their support page and select the product you need drivers for. 
+
+(Image 69 nice)
+For GPU drivers select Graphics, for CPU drivers select Processors, for motherboard chipset drivers select Chipsets, and for iGPU drivers select Processors with graphics. Once you’ve navigated to your product click Submit. From there just download the drivers for Windows 10.
+
+(Image 70)
+For Intel drivers, head to the Intel download center and select the type of product you need drivers for. 
+
+(Image 71)
+Once you select a product type, select view by product and find the type you have. When you find it, click the link provided and it will send you to the download page for those drivers.
+
+(Image 72)
+Nvidia drivers are also fairly easy to install with the Nvidia GeForce Experience app. The GeForce Experience app will automatically detect your GPU and install the proper drivers, along with providing some pretty cool features for recording and streaming.
+
+Conclusion
+I really considered giving you a “So you’ve made it this far” line because I thought it’d be hilarious, but honestly, after this journey you deserve a break. You’ve just built and configured your very own personal computer! Be proud of yourself, take a breather, and I don’t know go play some video games or something. 
+
+Your brand new computer is right there, ready to delve into the ever-expanding depths of the internet. The world is now your oyster, just try not to go and ruin your machine with all those illegal downloads now. 
+
+
+
+
+## The Extreme Budget Gamer ($400) 
+![400 pc](/img/case/fbm-x1.jpg "$400 Gaming PC"){: .processor .img-right .img-small}
+
+You might think a good gaming PC goes for around $700-$800. If you bought your PC prebuilt from a big company, this may be the case. However, if you build the PC yourself, you can score awesome components for just $400. That's right, **just $400.**
+
+This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
+
+Featuring an RX 570 and a Ryzen 3 1200 quad core processor, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
+
+<a class="btn-middle" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
+
+![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
+## The Perfect Balance ($500) 
+
+The secret to building a cheap and powerful gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
+
+On a budget, $500 is often the price range I recommend.
+
+You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
+
+<a class="btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
+
+## The Stealth Gamer ($600) 
+![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
+
+This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/) and can run the newest titles in 1080p with 60 FPS including Destiny 2, [Battlefield 1](https://www.igdb.com/games/battlefield-1){:target="_blank"}, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
+
+It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
+
+<a class="btn-middle" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
+
+![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
+## The Phoenix ($700)
+
+This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
+
+<a class="btn-middle" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
+
+![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
+## The Monster ($800)
+
+This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
+
+$800 is the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. Furthermore, this PC meets the requirements of the Oculus Rift. That's right, **the PC is capable of virtual reality.**
+
+If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
+
+<a class="btn-middle" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
+
+
+<!-- 
+
+	## The Best Budget Gaming PC Builds
 <div id="overview">
 <table class="basic-table table-colorful" align="center">
 	<tr>
@@ -129,413 +712,5 @@ We promise we've got the perfect gaming PC no matter what your budget is!
 
 <p><i>*prices fluctuate daily. All budgets are within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
 
-![400 pc](/img/case/fbm-x1.jpg "$400 Gaming PC"){: .processor .img-right .img-small}
 
-## The Extreme Budget Gamer ($400) 
-
-You might think a good gaming PC goes for around $700-$800. If you bought your PC prebuilt from a big company, this may be the case. However, if you build the PC yourself, you can score awesome components for just $400. That's right, **just $400.**
-
-This cheap gaming PC gives you an outstanding bang for your buck, playing the newest titles in 1080p resolution. Harnessing the power of price to performance, it will maximize your gaming experience for $400.
-
-Featuring an RX 570 and a Ryzen 3 1200 quad core processor, you'll run new titles in 1080p, medium-high settings with acceptable framerates. 
-
-<a class="btn-middle" href="/budget-pcs/400/">$400 Gaming PC Guide</a>
-
-![500 pc](/img/case/nzxt s340.png "NZXT S340 (White)"){: .img-right .img-small}
-## The Perfect Balance ($500) 
-
-The secret to building a cheap and powerful gaming computer is finding the perfect balance of price and performance. With this build, you receive just that. This is the best gaming PC $500 can buy.
-
-On a budget, $500 is often the price range I recommend.
-
-You are still spending a relatively small amount on the PC, but it is still enough to buy powerful and efficient parts. 
-
-<a class="btn-middle" href="/budget-pcs/500/">$500 Gaming PC Guide</a>
-
-## The Stealth Gamer ($600) 
-![600 PC](/img/case/cuboid-r1.jpg "Cuboid R1"){: .img-small .img-right}
-
-This PC fits inside of a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/) and can run the newest titles in 1080p with 60 FPS including Destiny 2, [Battlefield 1](https://www.igdb.com/games/battlefield-1){:target="_blank"}, COD WW2, etc. Harnessing the power of the GTX 1060 and a new Ryzen CPU, it'll provide an outstanding overall experience.
-
-It is sleek, refined, and low cost. For $600, you are getting a low profile PC that is quiet, powerful, and cheap.
-
-<a class="btn-middle" href="/budget-pcs/600/">$600 Gaming PC Guide</a>
-
-![Solar M1](/img/case/bitfenix-comrade.png "Solar M1"){: .img-small .img-right}
-## The Phoenix ($700)
-
-This gaming PC truly is majestic. While many brag about their several-thousand dollar gaming PCs, this $700 gaming PC can easily achieve 1080p and even 1440p gaming with high frame rates. It's a resilient gaming PC, hence the name. 
-
-<a class="btn-middle" href="/budget-pcs/700/">$700 Gaming PC Guide</a>
-
-![NZXT S340 Black](/img/case/nzxt-s340-black.png){: .img-right .img-medium}
-## The Monster ($800)
-
-This PC is called the monster, simply because it is an absolute beast. For $800, not only are you getting an amazing gaming machine, but a powerful workstation as well. 
-
-$800 is the perfect pricepoints for gamers looking to play all of the newest titles with maxed out settings at 1080p. You will even achieve 1440p in some titles. Furthermore, this PC meets the requirements of the Oculus Rift. That's right, **the PC is capable of virtual reality.**
-
-If you want to do any kind of rendering, editing, recording, or streaming, this computer can do it all.
-
-<a class="btn-middle" href="/budget-pcs/800/">$800 Gaming PC Guide</a>
-
-## Choosing Parts for Your First Gaming PC 
-
-![First Gaming PC Infographic](/img/infographic/first-gaming-pc-infographic.png)
-
-## The Full Guide
-
-This is where we get extremely in depth. We're going to cover everything you could possibly want to know about gaming PCs. You can scroll down a bit to find a table of contents which outlines the guide, section by section. 
-
-We know buying a gaming PC isn't always easy, especially if it is your first time around. It can be overwhelming to figure out what parts to buy, especially if you need to make a little bit of money go a long way. 
-
-Furthermore, once you buy the parts, then you actually have to build the computer! 
-
-Or do you? 
-
-We'll talk about all of that and more very soon. 
-
-## Why Build a Gaming PC? 
-
-Many have grown accustomed to coming home, sitting down and turning on their console. It's easy and convenient, but is it the best option? 
-
-The answer is no. 
-
-PC gaming has MANY benefits that consoles simply lack. In fact, there is NOTHING a console can do that a gaming PC cannot. If a console can do it, a PC can do it better.
-
-![Sweet Setup](/img/misc/setup.jpg)
-
-A console can play video games, and maybe watch Netflix. A gaming PC can perform these tasks at higher resolutions, framerates, and graphical settings. 
-
-Moreover, this PC is more than just a gaming machine. Unlike a console, your gaming PC can edit videos, pictures, code, stream, record, surf the web, etc.
-
-But to enjoy all of these things, you have to spend a ton of money, right? 
-
-**WRONG!**
-
-Many mistakenly believe that you have to spend at least $1000 to have any sort of enjoyment from gaming on a PC. 
-
-This is the furthest from the truth, as you can EASILY achieve 60fps at 1080p resolutions with a [$500,](/budget-pcs/500/) or even a [$400](/budget-pcs/400/) gaming PC. Building a dirt cheap gaming PC has never been easier.
-
-## Viable Prebuilt Option 
-
-![Inspiron-3650](/img/misc/prebuilt/inspiron-3650.png){: .img-middle}
-
-Though many prebuilt gaming PCs aren't worth the time or the money, there are some viable prebuilt options on the market. 
-
-If you know what you're looking for, you can find some great prebuilt alternatives. 
-
-Can you build a budget prebuilt gaming pc? 
-
-The answer is yes.
-
-The [Dell Inspiron i3650](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"}{:target="_blank"} is a great option.
-
-You can find the PC on [Amazon](https://www.amazon.com/gp/product/B019TTJD6O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019TTJD6O&linkCode=as2&tag=flarp0c-20&linkId=7358f2b08c37a9408ad50c9dccf20277){:target="_blank"} for just $340. 
-
-The PC features: 
-
-* Intel Core i3-6100 
-* 8GB DDR3 Ram
-* 1TB Hard Drive
-
-This PC comes without a GPU. Don't worry, this problem is easily solved. 
-
-There are lots of powerful and cheap GPUs for sale on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"}. You can easily find a GTX 1050 ti used on [eBay](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=GeForce+GTX+1050+ti+&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){:target="_blank"} for a low cost. 
-
-After you purchase the prebuilt desktop and the GPU, you're getting a very capable gaming machine for around $500 or less. This PC can easily game at 1080p. 
-
-If you don't like this case, you can always buy another one and transfer the components. Check out our guide on the [smallest atx cases!](/budget-pcs/smallest-atx-cases/)
-
-In my experience, FX Gaming Computers are also a solid prebuilt option. Their [custom gaming computers](https://www.fxcustompc.com/){: target="_blank"} are fast, reliable, and affordable. The coolest part about the company is they'll assemble a prebuilt gaming PC for you, but you get to choose every component from the case to the motherboard. 
-
-<figure> 
-	<img src="/img/case/custom-pc.png" alt="Custom Gaming Computer" class="img-middle">
-	<figcaption><p>One of FX Custom PC's gaming computers.</p></figcaption>
-</figure>
-
-They even offer 12 month interest-free payments on all of their gaming PCs, which is great for those of you on a budget wanting to build a custom PC. 
-
-[View the Guide](/budget-pcs/prebuilt/){: .big-button}
-
-## Advantages of PC Gaming 
-
-PC gaming has many advantages over console gaming. After all, they don't call us the PC Master Race for nothing. We're going to illustrate some of the many **pros of PC gaming**. Keep reading, as some of them may not very obvious. 
-
-### Better Graphics/Framerates
-
-PC gaming will *always* have superior graphics and framerates than consoles. PCs can game in true 1080p, 1440p, and even 4K with over 60 frames per second and 16x MSAA. 
-
-Consoles can only game in 1080p and in some cases 720p. Usually the games' resolutions are upscaled, meaning most games aren't in true 1080p. In addition, it's rare that consoles game in true 60 fps. 
-
-*Why do PCs have superior graphics/framerates?* 
-
-All consoles have the exact same hardware inside. Game developers are aware of the hardware in the consoles, and they can optimize their games to run smoothly on said hardware. 
-
-This is why when you buy a console game, you don't have to worry about being able to run it. You can just pop the disc in your Xbox and start playing. 
-
-On the flip side, developers don't know what's in your PC, as every PC is a bit different. That being said, they can't optimize their game to run smoothly on your PC. Instead, they release a beautiful game and require you to meet certain spec requirements. 
-
-If you have good hardware in your rig, you'll be able to play the games with higher graphics and resolutions. If you want to, you can buy the most expensive hardware (or at least higher end hardware) and run the games with extreme settings. 
-
-With consoles, you're limited to default settings and graphics which are much worse than on the PC. 
-
-### Flexibility 
-
-PC gaming is also much more flexible than console. Consoles all ship the same. They look the same and they perform the same. 
-
-PCs are all unique. They perform differently and you can design your PC exactly the way you want it. 
-
-In addition, if a part of your PC breaks, you can cheaply replace that part. However, if a part in a console breaks, you can't just buy a replacement part. Rather, you have to buy an entirely brand new console. 
-
-If you want to upgrade your PC in the future, that option is also available to you. If you own a console and want to upgrade, your options are quite limited. 
-
-For any substantial improvement, you'll have to wait for the next line of consoles. As you know, Sony and Microsoft waited many years between the PS3/Xbox 360 and the PS4/Xbox One. 
-
-With PC, you have the ability to choose when, what, and how. Choosing your case is a perfect example. With so many options available, you can show your personality with the case you decide to house your parts with! 
-
-For more information on cases, check out our guide on the [smallest ATX cases](/budget-pcs/smallest-atx-cases/)!
-
-### PC Exclusives 
-
-PC has so many amazing games which cannot be found on console. Games like Counter Strike, Rust, PUBG, Star Citizen, and more. Steam also has a diverse selection of free to play games, such as Team Fortress 2. 
-
-Even games that can be played on console are better on the PC. The gameplay is more fluid and dynamic. 
-
-### The Keyboard and Mouse
-![Keyboard](/img/misc/keyboard.jpg)
-
-Console controllers are awesome for kicking it on the couch with your buddies and playing casual video games. However, there's a reason why consoles games have aim assist and PC games don't. 
-
-A keyboard and mouse is much easier to use than a controller, especially if you're playing a competitive shooter. 
-
-Some gaming mice feature over 16000 DPI. They can accurately trace every little movement. Joysticks don't allow the same precision. While it can be a bit tricky to master at first, using a keyboard and mouse is far superior to a controller. Check out our guide about [gaming mice](/gaming-mouse/)! 
-
-If you want the benefits of PC but you're still in love with your controller, you can easily plug your controller into your PC or buy an adapter and use your Xbox or PS4 controller with your PC. 
-
-However, if you choose to go this route and you play competitive shooters, other players using the keyboard and mouse will most likely beat you. We recommend using the keyboard and mouse. 
-
-### Cheaper in the Long Run 
-
-Most people believe it costs a fortune to be a PC gamer. Fortunately, this is the farthest from the truth. You can build a brand new gaming PC for just $400. If you buy used parts and you know where to look, you can build one for just $200. 
-
-That being said, it doesn't have to be expensive. In fact, there are other hidden benefits as well. 
-
-First of all, unlike Xbox Live, you don't need to pay for steam. The membership is free. 
-
-Speaking of Steam, they have *amazing* deals. The Steam Summer and Winter sales are absolutely insane. You can find popular AAA titles at least 50% off. There are also lots of fun [free to play games](https://www.pcinvasion.com/the-best-free-pc-games){:target="_blank"}. 
-
-There are also websites such as [G2A.com](https://www.g2a.com/){:target="_blank"} where you can find games even cheaper than Steam. If you account for these factors, PC gaming can easily be cheaper than console gaming over the course of a year or so. 
-
-### Mature Community 
-
-While its possible to build a cheap gaming PC, most believe it's very expensive. On top of this, it can be hard for first time builders to construct their first gaming PC. 
-
-With this in mind, it's easy to understand why most parents buy consoles for their children. Their kids don't have to worry about building the PC or installing drivers, etc. They also think it's cheaper. 
-
-Due to this, most PC gamers are at least in high school if not older. If you're tired of young and annoying kids talking in the microphone and you're looking for a more mature community, PC is the place for you. 
-
-## Console vs. PC
-
-![Awesome Gaming Computer](/img/misc/gamingpc.jpg)
-
-When the Xbox One first launched, a day one edition console was roughly $500. Many of my friends told me they were going to buy an Xbox for $500, a laptop for $500, and an Elgato Game Capture HD for $100. 
-
-They wanted to play video games on their console, record with their Elgato, and edit videos for YouTube with their laptop. 
-
-This may seem like a great idea at first glance. However, there is a **MUCH** better option. 
-
-Instead of spending $1100 in total for the Xbox, laptop, and Elgato, why not spend that money on a gaming PC? 
-
-You don't even have to spend $1100. You could spend anywhere from $400-$1000 on a gaming PC.
-
-Not only does this PC consolidate all of the gaming, recording, editing, streaming, etc. into one place, it also performs all of these tasks more effectively. 
-
-Think about it, an $800 gaming PC can run games at higher resolutions and better framerates than an Xbox. It also is much more powerful than any $500 laptop. PC gaming just makes more sense. 
-
-## How to Find the Right Parts for You
-
-As a PC building noob, it is probably difficult for you to know which parts to buy for your computer. Before you begin looking for components, **ask yourself these simple questions:**
-
-### What is my budget? 
-![$](/img/misc/$.png){: .img-right .img-small}
-
-
-This is always going to be the number one factor when selecting your parts. How much money are you willing to spend on your gaming PC? 
-
-Do you have plenty of money to spend on the PC, or do you need to make a little go a long way? 
-
-If you have a higher budget, you can afford a powerful CPU and GPU such as the Ryzen 5 1600 and the GTX 1070. 
-
-However, if you are on a lower budget, you might want to save money on the CPU and focus more on the GPU to maximize performance per dollar. In this case, I'd go with the Ryzen 3 1200 and a high end GTX 1060. 
-
-Either way, figuring out your budget comes first. I recommend saving your money for a better gaming PC than spending what you have if it's only a small amount. $800 can get you a lot more than $400. Just save the extra money, and be patient. 
-
-However, if you don't have the time to wait, or you can't wait any longer, there are definitely ways for you to build a gaming PC for cheap. 
-
-Now we've arrived at our **second question:**
-
-### What games do I want to play? 
-
-There are so many different games available to you as a prospective PC gamer, it may be hard to wrap your head around it. That being said, some games are demanding, and some games aren't. 
-
-If you want to play games like Terraria, Counter Strike, or Minecraft, you don't need a beefy gaming computer. Most of those games with a low demand for processing power can be played on a dirt cheap gaming PC, or even on a laptop.
-
-However, if you want to play games like Destiny 2, The Witcher 3, GTA V, Rust, etc. you'll need a powerful gaming PC, especially if you want to play with high graphical settings. 
-
-That being said, there's absolutely no reason to spend $1000 on a gaming PC if you'll be playing Minecraft on it all of the time. You can drop $400 on a computer and run Minecraft like a dream. However, if you're looking to play more demanding titles, you'll have to spend a bit more. 
-
-Now that you know what your budget is, you can move on to the next step:
-
-## Finding the Parts for You 
-
-This is often one of the hardest parts of the PC building process; it's also one of the best parts. Unlike consoles, PC provides unlimited flexibility. Not only can you design your PC to be a powerful gaming machine, you can make it look cool too. 
-
-From color schemes of components, to cases, to fans, to LEDs, there is a world of style at your finger tips. Aside from the look and feel of your components, you need to buy powerful components as well. If you're on a tight budget, go for the cheapest CPU that you can and use that money on a nice GPU. 
-
-As long as the CPU doesn't bottleneck the GPU, you won't have to worry about it. This is why the Ryzen 3 1200 usually has no issues being paired with the GTX 1070. For the same price you could pair a Ryzen 5 1400 or 1600 with a GTX 1060. 
-
-However, since gaming heavily relies on the graphics card rather than the CPU, the first combination would see better in-game performance. This is because it has a more powerful graphics card, which is responsible for all of the 3D rendering. 
-
-If you still don't know what parts to get, take a look at one of our five <a href="#overview">budget gaming PC builds.</a>
-
-## Custom Built or Prebuilt? 
-
-There are many prebuilt gaming computers available on the market today. They advertise all the benefits of a gaming PC without any of the hassle. 
-
-Many of these PCs are falsely advertised as great alternatives to a custom build. 
-
-![Best Buy](/img/misc/bestbuy.jpg){: .img-right .img-small}
-
-
-The manufacturers may include one good part, and cut corners on the rest of the build. It's great for them, as they're making money from ill informed consumers. 
-
-Don't become another dissatisfied customer. It's important to educate yourself before making any purchase, especially when purchasing a gaming PC. 
-
----
-
-Take a look at the PC below: 
-
-![Best Buy Prebuilt](/img/misc/bestbuy-pc-example.png)
-
-As you can see, this PC is going for nearly $1100 USD. Now let's take a look at what these parts would cost you: 
-
-![Parts vs Prebuilt](/img/misc/parts-vs-prebuilt.jpg)
-
-This prebuilt PC is actually one of the better options out there, and still you can see that it is nearly $200 USD cheaper to build your own PC. 
-
-Most retailers mark up their prices even more dramatically. Evidently, building your own PC is cheaper. 
-
-Customizability is another reason why building your own PC is a good option. You can hand pick your parts, and tailor your PC exactly how you'd like it. 
-
-You can choose your own case, LED color scheme, shape, size, noise level, cooling system, etc. PC building is practically an art form. 
-
-If you only want to play a few games like Overwatch and CSGO for example, you don't have to buy a $1000 gaming PC. Instead, you can get the components you'd need to run those games, and nothing more. 
-
-On the other hand, if you want to play demanding games with the best possible graphics and framerates, you can do that too.
-
-## 8 Things to Consider Before You Buy
-
-![CHEAP PC INFOGRAPHIC](/img/infographic/8-tips-for-budget-pc-building.png)
-
-**[Contact me](/contact/) about using this infographic on your website!**
-
-These 8 methods include:
-
-* Salvaging old parts
-* Buying used parts
-* Buying a cheap CPU
-* Focusing on the GPU
-* Looking for deals
-* Ask your friends 
-* Save money on peripherals and LEDs
-* Be patient
-
-Let's take a closer look at each one. 
-
-### Salvaging old parts 
-
-It's easy to buy all of your parts new, but it's also more expensive.
-
-Odds are you probably have an old desktop in your house that still has perfectly good components. 
-
-You could probably salvage an optical drive, hard drive, case, power supply, and sometimes even a motherboard and CPU. 
-
-Even if you don't have an old desktop laying around, you could buy one on eBay. This brings us to our next point. 
-
-[Salvage Old Parts](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=desktop+pc&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
-
-### Buy used parts
-
-Some think you have to buy all new parts to build a great gaming PC. This is simply not true. 
-
-You can look on eBay for used parts that work just as well as new ones. 
-
-The best part?
-
-You're getting the same great components for a lower price! 
-
-### Buy a cheap CPU
-
-If you're on a tight budget, the CPU is where you should save some money. 
-
-Why?
-
-Any well optimized title will harness the power of the GPU over the CPU. As long as your CPU can keep up, you can focus your money on the GPU. 
-
-[View Budget Gaming CPUs](http://rover.ebay.com/rover/1/711-53200-19255-0/1?icep_ff3=10&pub=5575177097&toolid=10001&campid=5338146172&customid=&icep_uq=Pentium+G4560&icep_sellerId=&icep_ex_kw=&icep_sortBy=12&icep_catId=&icep_minPrice=&icep_maxPrice=&ipn=psmain&icep_vectorid=229466&kwid=902099&mtid=824&kw=lg){: .big-button target="_blank"}
-
-### Focus on the GPU 
-
-As mentioned above, the GPU is the most important part of a gaming PC.
-
-If you're on a budget, you should cut corners elsewhere and focus that money towards buying a powerful GPU. 
-
-We recommend the GTX 1050 ti as the best budget gaming GPU. 
-
-[View GTX 1050 ti on Amazon](http://amzn.to/2xb0SXA){: .big-button target="_blank"}
-
-### Look for Deals
-
-There are tech deals every day online. It's easy to find them too. 
-
-Nearly all large tech corporations have a newsletter or email alert service.
-
-Simply sign up, and let the emails flow in. More often then not they are notifying you about a great deal. 
-
-You can also negotiate on Craig's List, use a deal finder, coupon codes, etc. 
-
-### Ask Friends
-
-Ask your friends about old PCs they might have laying around. Odds are they have an old computer in their house which is full of great parts. 
-
-If you're lucky, they might have some spare parts they'd be willing to give you either for free or for a reduced price. It's a great way to save money!
-
-### Save Money on Peripherals and LEDs 
-
-Most people want a case full of cool LEDs, a mechanical keyboard with different colors and the best gaming mouse. 
-
-While these things are great additions to a PC gamer's setup, they're NOT necessary. Any mouse and keyboard will do and you don't need LEDs in your case. 
-
-It's much wiser to invest this money in your gaming PC. Later on down the line if you have the money, feel free to invest it in these extra items.
-
-### Be patient 
-
-If you do not have enough money to buy the best parts, that's okay. Just be patient and save your money.
-
-It's better to wait and buy better parts than to impulse buy low end parts that won't do you any good. 
-
-### Gaming from your Bed?
-
-If you'll be using your PC while in bed, be sure to get a comfortable mattress. It's common for gamers who sit or lay down in bed for long periods of time to have back issues, so get the right mattress for a [gamer is important](https://www.sleepsources.com/mattresses/gamers/){: target="_blank"}.
-
-Common issues for gamers who don't have proper mattresses include [lower back pain](https://www.geek.com/games/how-gamers-can-relieve-lower-back-pain-1704986){: target="_blank"}.
-
-![Ergonomic Computer Setup](/img/infographic/ergonomic-computer-setup.png)
-
-**[Contact me](/contact/) about using this infographic on your website!**
-
-<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
-
-* TOC
-{:toc}
+--> 
