@@ -50,17 +50,17 @@ Browsing builds are easy and cheap, running you under $500 all the time for sure
 
 When creating your checklist of parts to buy, we highly suggest using the website [pcpartpicker.com](https://pcpartpicker.com/){: target="_blank"} to easily find and organize the components of your build.
 
-![pcpartpicker screenshot](/img/pc-guide/pc-partpicker-screenshot.jpg)
+![pcpartpicker screenshot](/img/pc-guide/pc-partpicker-screenshot.JPG){: .img-middle}
 
 PCPartPicker’s System Builder utility includes each mandatory category for your computer to function, along with some extras you might want. 
 
 It also includes the total price (including shipping but not tax) as you choose your parts.
 
-![choosing a component on pcpartpicker screenshot](/img/pc-guide/pc-part-picker-choose.jpg)
+![choosing a component on pcpartpicker screenshot](/img/pc-guide/pc-part-picker-choose.JPG){: .img-middle}
 
 Clicking on a category will open a page like this that lists all the parts you can choose for said category. You can sort by price, socket, core count, speed, and much more with the filters on the left side.
 
-![pcpartpicker part overview page](/img/pc-guide/part-overview.jpg)
+![pcpartpicker part overview page](/img/pc-guide/part-overview.JPG){: .img-middle}
 
 Clicking on any of the listed components takes you to a page listing basic specifications, as well as online retailers currently carrying the component in question (including promos and sales).
 
@@ -99,30 +99,30 @@ I’m sure you would want to know what’s working and what isn’t before it’
 Here is the best way to test your new parts.
 
 ### Step 1: Find a Place to Build
-![picture of build components](/img/pc-guide/picture-of-parts-in-boxes.jpg)
+![picture of build components](/img/pc-guide/picture-of-parts-in-boxes.jpg){: .img-middle}
 
 Find an area to build that is near a power outlet and does not have carpeted floors. A concrete floor is preferable, so maybe a garage?
 
 ### Step 2: Sort Your Components
-![motherboard on box for testing](/img/pc-guide/motherboard-on-box.jpg)
+![motherboard on box for testing](/img/pc-guide/motherboard-on-box.jpg){: .img-middle}
 
 Take your motherboard out of its box, sort all of the pieces, remove the motherboard from its antistatic bag, and place the motherboard on the motherboard box so you have a nonconductive platform.
 
 
 ### Step 3: Prep Your Parts
-![taking your parts out of the boxes](/img/pc-guide/parts-in-boxes.jpg)
+![taking your parts out of the boxes](/img/pc-guide/parts-in-boxes.jpg){: .img-middle}
 
 Take your power supply, memory modules (RAM), processor, and processor cooler out of their respective boxes.
 
 ### Step 4: Install The RAM
-![installing the ram in the motherboard](/img/pc-guide/installing-ram.jpg)
+![installing the ram in the motherboard](/img/pc-guide/installing-ram.jpg){: .img-middle}
 
 To install the RAM modules, locate the RAM slots neighboring the CPU socket. Unhinge the latches on either side of the socket, then match the notch on the RAM with the notch in the socket. 
 
 Press down until both sides click to lock the memory in place.
 
 ### Step 5: Connect Your Power Supply 
-![connecting the power supply to the motherboard](/img/pc-guide/connecting-power-supply.jpg)
+![connecting the power supply to the motherboard](/img/pc-guide/connecting-power-supply.jpg){: .img-middle}
 
 If you bought a fully modular power supply, connect the 24-pin motherboard power and the 8-pin CPU power to the power supply. 
 
@@ -140,7 +140,7 @@ Once it’s in wiggle it gently to make sure it’s in properly, then pull the r
 
 
 ### Step 7: Attach The CPU Cooler 
-![installing the cpu cooler](/img/pc-guide/installing-cpu-cooler.jpg)
+![installing the cpu cooler](/img/pc-guide/installing-cpu-cooler.jpg){: .img-middle}
 
 Before attaching the cooler, apply a pea-sized dribble of thermal compound to the top of your CPU. 
 
@@ -149,18 +149,18 @@ Remove the protective covering on your processor cooler and place the CPU Cooler
 In the case of the AM4 socket, you will use the retention brackets. Now you can plug the CPU fan power to the CPU fan header on the motherboard.
 
 ### Step 8: Power Your PSU
-![plugging in the power supply](/img/pc-guide/plug-in-psu.jpg)
+![plugging in the power supply](/img/pc-guide/plug-in-psu.jpg){: .img-middle}
 
 Plug one end of the power supply into the wall, then the other into the power supply itself and turn the power supply on.
 
 ### Step 9: Power On Your Test Rig
-![turning on test rig with screwdriver](/img/pc-guide/bridging-power-pins.jpg)
+![turning on test rig with screwdriver](/img/pc-guide/bridging-power-pins.jpg){: .img-middle}
 
 Find the front panel IO header (usually labeled JPF1). Take a screwdriver and bridge the positive and negative pins on the power switch connector to turn the computer on. 
 
 You can turn the PC off by switching the power supply off.
 
-![running-test-rig](/img/pc-guide/test-rig-running.jpg)
+![running-test-rig](/img/pc-guide/test-rig-running.jpg){: .img-middle}
 
 Now, if your CPU cooler’s fan turned on then your computer, at the very least, can receive power and turn on.
 
@@ -178,31 +178,28 @@ In the second testing section, we will make sure your drives are being recognize
 
 If choosing this option, connect your display cable directly to the motherboard then skip step 2 for now.
 
-
 **For fully/semi-modular power supplies:** If you are using a fully modular or semi-modular power supply, connect your SATA power connectors to the power supply.
 
-![power cables](/img/pc-guide/power-cables.jpg)
-
+![power cables](/img/pc-guide/power-cables.jpg){: .img-middle}
 
 **For M.2 Drives:** You may have chosen an M.2 drive for your storage, install it by carefully placing it into the M.2 keyed slot on your motherboard then pushing it down and screwing it in with the small screw included in the motherboard.
 
 ![m.2 drive](/img/pc-guide/m-2-drive.jpg)
 
-
 ### Step 2: Installing Your GPU
-![installing GPU](/img/pc-guide/installing-gpu.jpg)
+![installing GPU](/img/pc-guide/installing-gpu.jpg){: .img-middle}
 
 Remove your graphics card from its box. To install just match the pins on the GPU with the PCIE x16 socket on the motherboard and the notch on the back of the GPU to the retention bracket on the PCIE slot, then press with slight force until it clicks. 
 
 Then (if applicable) plug in the PCIE power to your graphics card.
 
-![powering your gpu with PCI cables](/img/pc-guide/powering-gpu.jpg)
+![powering your gpu with PCI cables](/img/pc-guide/powering-gpu.jpg){: .img-middle}
 
 ### Step 3: Power Your Hard Drives
 
 Take the SATA cables from your motherboard box and connect them to your SATA ports, then connect the other end to your hard drive or solid-state drive. Then connect SATA power to your drive(s).
 
-![powering your hard drives](/img/pc-guide/powering-hard-drives.jpg)
+![powering your hard drives](/img/pc-guide/powering-hard-drives.jpg){: .img-middle}
 
 ### Step 4: Connect Everything Together
 
@@ -232,7 +229,7 @@ Most retailers make the return process very easy for the buyer, so we will use N
 
 Scrolling to the bottom of the retailer website should always yield a section similar to this, which will include a customer service or support section. 
 
-![RMA section of a merchant website](/img/pc-guide/rma-screenshot.jpg)
+![RMA section of a merchant website](/img/pc-guide/rma-screenshot.JPG){: .img-middle}
 
 This area will include a means of which to contact customer support or directly initiate a return.
 
@@ -253,11 +250,11 @@ Opening your case is the first step to the building since, of course, you need t
 
 If you have a tempered glass side panel, just unscrew the thumbscrews on the side, remove the glass, and place it someplace where it won’t be scratched or otherwise damaged.
 
-![unscrewing case thumb screw](/img/pc-guide/case-thumb-screw.jpg)
+![unscrewing case thumb screw](/img/pc-guide/case-thumb-screw.jpg){: .img-middle}
 
 Next, remove the thumbscrews for the other side panel and slide the panel off.
 
-![removing case panels](/img/pc-guide/removing-panels.jpg)
+![removing case panels](/img/pc-guide/removing-panels.jpg){: .img-middle}
 
 ### Case Fans
 
@@ -265,7 +262,7 @@ Some cases may not come with adequate cooling fans, or you may have bought some 
 
 Basically, case fans do not come pre-threaded so for when you screw them on you will have to put in that extra effort to thread them with the provided fan screws.
 
-![installing case fans](/img/pc-guide/installing-case-fans.jpg)
+![installing case fans](/img/pc-guide/installing-case-fans.jpg){: .img-middle}
 
 Once you’ve got that in your head, all you gotta do is line up the fans with the case front and screw them in where you want. 
 
@@ -279,7 +276,7 @@ Most modern PC cases, even some cheaper end ones, come with removable hard drive
 
 Simply match the screw holes on the hard drive with the pegs on the caddy and snap the hard drive in. Once the hard drive is secured, you can slide the caddy right back into the slot in the case.
 
-![installing your hard drive](/img/pc-guide/installing-storage.jpg)
+![installing your hard drive](/img/pc-guide/installing-storage.jpg){: .img-middle}
 
 If you purchased a 2.5-inch SSD, you will have to find the 2.5-inch bay somewhere in your case, then use the screws that came with the case to secure the SSD.
 
@@ -287,7 +284,7 @@ If you purchased a 2.5-inch SSD, you will have to find the 2.5-inch bay somewher
 
 The power supply is simultaneously the easiest and most difficult component to install in a PC. Let’s talk about that.
 
-![power supply](/img/pc-guide/power-supply.jpg)
+![power supply](/img/pc-guide/power-supply.jpg){: .img-middle}
 
 The initial installation is as simple as 1-2-3. Just slide the power supply into the slot on the case it fits into, match up the screw holes, and secure with the included screws. 
 
@@ -303,11 +300,11 @@ Lucky for you, motherboards are made very durable, but that doesn’t mean manha
 
 Before we can install the motherboard, we must install the rear IO shield. This will protect the rear of your motherboard from possible intrusions by unwanted visitors.
 
-![this is the motherboard IO](/img/pc-guide/motherboard-io.jpg)
+![this is the motherboard IO](/img/pc-guide/motherboard-io.jpg){: .img-middle}
 
 To install the IO shield, match up the shield with the ports on your motherboard and match the orientation to the IO shield slot. Then place the shield in the slot and push until all edges have properly snapped in.
 
-![installing the motherboard io shield](/img/pc-guide/installing-io-shield.jpg)
+![installing the motherboard io shield](/img/pc-guide/installing-io-shield.jpg){: .img-middle}
 
 (Image 28)
 The motherboard does not directly sit on the wall of the case, it uses small screws called “stand-offs” that keep it raised slightly to avoid the possibility of static electricity reaching your board. 
@@ -320,11 +317,11 @@ To install your motherboard, hold it by the CPU cooler and slide the board in di
 
 Once they are matched up, place the rest of the motherboard down making sure to match up the motherboard holes with the stand-offs.
 
-![installing the motherboard and matching it with io shield](/img/pc-guide/installing-mobo.jpg)
+![installing the motherboard and matching it with io shield](/img/pc-guide/installing-mobo.jpg){: .img-middle}
 
 Then use the provided screws to secure the motherboard to the stand-offs on all sides of the board. Ta-da, you’ve installed your motherboard!
 
-![screwing in your motherboard](/img/pc-guide/screwing-in-motherboard.jpg)
+![screwing in your motherboard](/img/pc-guide/screwing-in-motherboard.jpg){: .img-middle}
 
 ### Graphics Card
 
@@ -332,13 +329,13 @@ Installing the graphics card while the motherboard is in the case is almost exac
 
 First, remove the tabs at the rear of the case that match up with the ports and exhaust on your graphics card. The case may also include a bracket on the rear to further secure these tabs, remove that as well.
 
-![case expansion slots](/img/pc-guide/expansion-slots.jpg)
+![case expansion slots](/img/pc-guide/expansion-slots.jpg){: .img-middle}
 
 Follow the steps provided in the secondary testing section to install your graphics card.
 
 Once your graphics card is installed, screw the card down into the slot and re-secure the rear bracket if there was one.
 
-![securing GPU with screws](/img/pc-guide/secure-gpu.jpg)
+![securing GPU with screws](/img/pc-guide/secure-gpu.jpg){: .img-middle}
 
 ### Cable Management
 
@@ -356,7 +353,7 @@ Now that all of your cables are properly routed, let’s connect all of the prop
 
 ### Front Panel
 
-![io diagram](/img/pc-guide/io-diagram.jpg)
+![io diagram](/img/pc-guide/io-diagram.png){: .img-middle}
 
 Starting with the front IO cables, you can follow the above diagram and connect the corresponding cables based on their individual labels.
 
@@ -364,11 +361,11 @@ Starting with the front IO cables, you can follow the above diagram and connect 
 
 Next, we will plug in the front IO USB headers. Depending on your case you may have both USB 2.0 and USB 3.0 headers or maybe just USB 2.0 or just USB 3.0, so we’ll just cover both. 
 
-![USB connector](/img/pc-guide/usb-connector.jpg)
+![USB connector](/img/pc-guide/usb-connector.jpg){: .img-middle}
 
 The USB 2.0 header will look like the picture above. Find the corresponding cable labeled USB and plug it right in. Boom, easy.
 
-![USB connector](/img/pc-guide/usb-2-connector.jpg)
+![USB connector](/img/pc-guide/usb-2-connector.jpg){: .img-middle}
 
 The USB 3.0 header is a lot more delicate so we urge you to be careful and make sure you have it facing the proper direction before applying force because you will need to apply a little force.
 
@@ -376,32 +373,36 @@ The USB 3.0 header is a lot more delicate so we urge you to be careful and make 
 
 The HD audio connector is going to be our quickest install yet.
 
-![hd audio connector](/img/pc-guide/hd-audio-connector.jpg)
+![hd audio connector](/img/pc-guide/hd-audio.jpg){: .img-middle}
 
 Just find the HD Audio connector, and push it down to the corresponding header on your motherboard (usually near the bottom left). Easy.
 
 ### Power Connectors
 
-Just a quick reminder since we’ve already covered it, remember to plug in the motherboard and CPU power connectors so your computer can, you know, receive power. If you need a full refresher, please refer to the Testing Your Parts section.
+Just a quick reminder since we’ve already covered it, remember to plug in the motherboard and CPU power connectors so your computer can, you know, receive power. If you need a full refresher, please refer to the [Testing Your Parts](#testing-your-parts) section.
 
 ## Installations
 
 The hardware side of your computer is finally finished and you can stand proud knowing that you built your own PC! Though, we aren’t quite done yet. In fact, we’re nowhere near done yet.
 
 In the following portion, we will show you how to install an operating system and completely load up your computer so you can get ready to do whatever you built it for.
-Creating Boot Media for Your Operating System
+
+### Step 1: Creating Boot Media for Your Operating System
+
 Installing your new operating system may be the most time-consuming piece of this entire puzzle, but we’re sure you’ve still got some time to spare. Possibly.
 
-(Image 37)
 There are a couple of different options of operating system and installation method when you decide to finally install one, but the one aspect that is always universal is a USB flash drive (or SD card if you so desire). It’s always recommended that you use a minimum of an 8GB flash drive for any operating system installation.
 
 Most online guides for installing an operating system will tell you that you need another computer. I’m here to tell you that the future is now and that is no longer the case, but for those of you who do have another computer, we will cover both methods of bootable media creation.
-No Computer
-So you don’t have another computer with which to create your boot media so you can install an operating system. Well, do you have a smartphone? If the answer is yes, you may be able to use your cellphone to create a boot media. There are some separate requirements, though. You must have a flash drive that can connect to your phone, or an adapter to allow it to.
+
+### No Computer
+
+Well, do you have a smartphone? If the answer is yes, you may be able to use your cellphone to create boot media. There are some separate requirements, though. You must have a flash drive that can connect to your phone, or an adapter to allow it to.
 
 Now that we have that cleared up, let’s get to creating your bootable drive.
 
-(Image 38)
+![usb boot drive](/img/pc-guide/usb-boot-drive.png){: .img-middle}
+
 First, install an app that will allow you to etch an ISO file to your flash drive. We suggest ISO 2 USB as it is very straightforward, simple to use, and the interface won’t leave you asking questions.
 
 Second, you will need to find your chosen operating system’s ISO file. If you are going with a Linux distro the process will be a lot easier, just find your chosen distro’s website and navigate to the download link.
@@ -409,147 +410,198 @@ Second, you will need to find your chosen operating system’s ISO file. If you 
 As for Windows, you may have to do a little searching to find a proper ISO. We suggest downloading the Windows 10 Pro ISO from softlay.net for a (relatively) quick experience, just try not to click on all the ads.
 
 To install your ISO press ‘pick’ for the “Pick USB Pin Drive” option and select your drive, press ‘pick’ on the “Pick ISO File” option and select your ISO, then select “Format USB Pin Drive” and press start. During this time do not unplug or move your drive/phone, because it will stop the installation process and possibly corrupt your flash drive.
-Computer
+
+### Computer
+
 When creating your bootable media on a computer you have two options depending on what operating system you choose and what operating system your current computer has.
 
 If on MacOS or choosing a Linux distro, download a program that will allow you to create your bootable media with an ISO file. We suggest Rufus.
 
-(Image 39)
+![boot drive from a computer](/img/pc-guide/boot-drive-from-pc.png){: .img-middle}
+
 Rufus is very easy to use. Just leave all settings on default, select your ISO, select your drive, then click start and wait. To find your ISO file, download from the website of the chosen Linux distro, or from softlay.net for Windows.
 
 If you are using a Windows computer and you wish to install Windows on your new computer it’s a lot more simple.
 
-(Image 40)
-Find the Media Creation Tool on the Microsoft website (or just click here). Install, open, select “Create installation media for another PC” and from there just follow the onscreen directions.
-Installing Your Operating System
+![install](/img/pc-guide/install-media-different-pc.png){: .img-middle}
+
+Find the Media Creation Tool on the Microsoft website (or just click [here](https://www.microsoft.com/en-us/software-download/windows10){: target="_blank"}). Install, open, select “Create installation media for another PC” and from there just follow the onscreen directions.
+
+## Installing Windows 
+
 Now that your boot media is in order, let’s get to the actual installation.
-Selecting the Boot Drive
+
+### Step 1: Selecting the Boot Drive
+
 First and foremost you need to tell your computer which drive it needs to read off to install your operating system.
 
-(Image 41)image credit to howtogeek.com
+![entering bios](/img/pc-guide/enter-bios.png){: .img-middle}
+
 When you turn on your computer you will eventually reach a screen similar to this but brandishing whatever motherboard brand you selected. 
 
 Look at the lower half of the screen to find your designated BIOS and Boot Menu buttons, but typically they will be the same as the ones shown. Click your Boot Menu button (usually F11) once you reach this screen to enter the Boot Menu.
 
-(Image 42)image credit to deskdecode.com
+![selecting your boot device](/img/pc-guide/select-boot-device.png){: .img-middle}
+
 Once in the Boot Menu, select the USB you used as a boot media device and hit Enter.
-Installing Windows
-(Image 43)
+
+![windows setup step 1](/img/pc-guide/windows-setup-1.png){: .img-middle}
+
 When you load into the Windows installer, make sure the settings are correct and click next.
 
-(Image 44)
 Then click the “Install Now” button.
 
-(Image 45)
+![install now button](/img/pc-guide/install-now.png){: .img-middle}
+
 If you have a product key ready, you may enter it now. If not, just select “I don’t have a product key.” Don’t worry, this won’t bar you from using Windows (just a few features) and you can always enter a product key later.
 
-(Image 46)
+![install key](/img/pc-guide/install-key.png){: .img-middle}
+
 Select the version you wish to install. There isn’t much difference between the Pro and Home versions so select either of the base versions of those two.
 
-(Image 47)
+![select Windows version](/img/pc-guide/select-version.png){: .img-middle}
+
 Read the software license terms (or don’t) and select “I accept the license terms”, then click next.
 
-(Image 48)
+![accept license terms](/img/pc-guide/accept-license.png){: .img-middle}
+
 Select “Custom: Install Windows only (advanced)” to install a fresh copy of Windows.
 
-(Image 49)
+![custom install](/img/pc-guide/custom-install.png){: .img-middle}
+
 Select the drive you wish to use as your Windows boot drive and click next.
+
+![choose your installation drive](/img/pc-guide/choose-drive.png){: .img-middle}
 
 The next part of the installation is simple and just asks for personal preference and experience questions so we will not be covering it.
 
-(Image 50)
-To activate Windows later navigate to Settings > Update & Security > Activation. Select the “Change product key” option and enter your new product key.
-Installing Linux
+To activate Windows later navigate to **Settings > Update & Security > Activation**. Select the **“Change product key”** option and enter your new product key.
+
+![entering your Windows key in settings after installing](/img/pc-guide/entering-key-later.png){: .img-middle}
+
+## Installing Linux
+
 For our Linux installation example, we will be using Ubuntu, as most distros install the same or similar.
 
-(Image 51)
+![Linux installation welcome screen](/img/pc-guide/linux-install-welcome-screen.jpg){: .img-middle}
+
 The installation will first ask for a language and keyboard layout, choose what applies to you.
 
-(Image 52)
 Then select your internet connection if you are using Wi-Fi instead of ethernet.
 
-(Image 53)
-Select the normal installation if you will be using Linux as your main operating system and allow the installer to download updates while installing. Definitely opt to install third-party software as this will allow for proper up-to-date drivers for all of your hardware. You may choose to select secure boot or not, but we suggest it.
+![choose wifi for install](/img/pc-guide/choose-wifi.png){: .img-middle}
 
-(Image 54)
-Here you will select the disk you wish to install Linux onto.
+Select the normal installation if you will be using Linux as your main operating system and allow the installer to download updates while installing. 
 
-(Image 55)
+Definitely opt to install third-party software as this will allow for proper up-to-date drivers for all of your hardware. You may choose whether or not to select secure boot, but we suggest it.
+
+![choosing your installation](/img/pc-guide/updates-other-software.png){: .img-middle}
+
+Here you will select the disk you wish to install Linux on. 
+
+![choose Linux installation drive](/img/pc-guide/choose-drive-linux.png){: .img-middle}
+
 Finally, select your location (or the nearest location to you) and create your username and password for the computer.
 
-(Image 56)
+![location and password](/img/pc-guide/location-password.jpg){: .img-middle}
+
 Voila, your installation is almost done. Just let the computer do its magic and load in when it’s done.
-Installing Utilities
+
+## Installing Utilities
+
 Once your operating system is installed, there are some housekeeping chores to get done and programs to get installed. 
 
 We will not be covering the utility installation for Linux since it can vary distro to distro.
-Personalization
-(Image 57)
+
+### Personalization
+![personalize windows](/img/pc-guide/personalize-windows.jpg){: .img-middle}
+
 One of the first things you can check out once you’ve installed Windows is the personalized settings. Simply right-click your desktop and select Personalize. We should note, you will not have access to these settings if you have not activated Windows.
 
 Windows allows you to personalize everything from your desktop wallpaper to your lock screen wallpaper, to even your taskbar and button sizes. It really covers everything, so just choose whatever fits you!
-Ninite
-(Image 58)
+
+### Ninite
+![ninite](/img/pc-guide/ninite.jpg){: .img-middle}
+
 The first site to always head to is Ninite. This site allows you to download bundles of programs all at once so that you don’t have to head to each individual site one by one. We suggest selecting the following programs:
--Chrome
--Firefox
--7-Zip
--VLC
--Notepad++
--Foxit Reader
+
+* Chrome
+* Firefox
+* 7-Zip
+* VLC
+* Notepad++
+* Foxit Reader
 
 Otherwise, just choose whatever programs you see that you think you may need.
 
-(Image 59)
 Once you have chosen your programs, hit Get Your Ninite.
 
-(Image 60)
+![custom installer](/img/pc-guide/custom-installer.jpg){: .img-middle}
+
 Then click run and it will automatically install all of your programs.
-Task Manager
-(Image 61)
+
+### Task Manager
+
 Open up your Task Manager by pressing Ctrl+Shift+Esc and click More details.
 
-(Image 62)
+![open task manager](/img/pc-guide/open-tm.png){: .img-middle}
+
 Once in More details, head to Startup to see all the programs that will start with Windows.
 
-(Image 63)
+![startup](/img/pc-guide/startup.png){: .img-middle}
+
 To disable or enable a program right-click and select the option, or click the option at the bottom right. We highly suggest keeping as many programs disabled as possible for a fast load and less clutter.
-Downloads Folder
+
+![enable on startup](/img/pc-guide/enable-startup.png){: .img-middle}
+
+### Downloads Folder
+
 Most people don’t want their boot drive to get all backed up with downloaded files, so it’s always good to remap your Downloads folder to a different drive.
 
-(Image 64)
 Select the drive that you want your downloads to go to and make a new Downloads folder.
 
-(Image 65)
+![downloads](/img/pc-guide/downloads.png){: .img-middle}
+
 Right-click your original Downloads folder and select properties.
 
-(Image 66)
+![downloads properties](/img/pc-guide/downloads-properties.png){: .img-middle}
+
 Navigate to Location and hit Find Target.
 
-(Image 67)
+![downloads location](/img/pc-guide/downloads-properties.png){: .img-middle}
+
 Find your new downloads folder and double-click it. Now you’ve got a new downloads folder.
 
 You can follow these same steps with any of the other baseline folders if you wish to move them to a drive other than the boot drive.
 
-Drivers
+### Drivers
+
 Oh boy, finally reaching the end here. Your drivers are very, very, very important to getting your computer up and running to the best of its abilities. Luckily, there’s only a couple we need to install.
 
-(Image 68)
+![amd drivers](/img/pc-guide/amd-drivers.png){: .img-middle}
+
 For AMD drivers it is a lot more simple to get all of the drivers you need. Simply go to their support page and select the product you need drivers for. 
 
 (Image 69 nice)
 For GPU drivers select Graphics, for CPU drivers select Processors, for motherboard chipset drivers select Chipsets, and for iGPU drivers select Processors with graphics. Once you’ve navigated to your product click Submit. From there just download the drivers for Windows 10.
 
-(Image 70)
+![choose card for drivers](/img/pc-guide/choose-card-drivers.png){: .img-middle}
+
 For Intel drivers, head to the Intel download center and select the type of product you need drivers for. 
+
+![intel drivers](/img/pc-guide/intel-drivers.png){: .img-middle}
 
 (Image 71)
 Once you select a product type, select view by product and find the type you have. When you find it, click the link provided and it will send you to the download page for those drivers.
 
-(Image 72)
+![selecting product type for intel drivers](/img/pc-guide/select-product-type.png){: .img-middle}
+
 Nvidia drivers are also fairly easy to install with the Nvidia GeForce Experience app. The GeForce Experience app will automatically detect your GPU and install the proper drivers, along with providing some pretty cool features for recording and streaming.
 
-Conclusion
+![nvidia drivers](/img/pc-guide/nvidia-drivers.png){: .img-middle}
+
+### Conclusion
+
 I really considered giving you a “So you’ve made it this far” line because I thought it’d be hilarious, but honestly, after this journey you deserve a break. You’ve just built and configured your very own personal computer! Be proud of yourself, take a breather, and I don’t know go play some video games or something. 
 
 Your brand new computer is right there, ready to delve into the ever-expanding depths of the internet. The world is now your oyster, just try not to go and ruin your machine with all those illegal downloads now. 
