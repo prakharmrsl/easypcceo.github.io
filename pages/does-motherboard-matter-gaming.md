@@ -6,6 +6,11 @@ seotitle: "Does Your Motherboard Matter for Gaming? [2019]"
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 ---
 
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
 <ul id="markdown-toc">
 <li><a href="#does-your-motherboard-affect-fps" id="markdown-toc-does-your-motherboard-affect-fps">Does Your Motherboard Affect FPS?</a> 
 </li>

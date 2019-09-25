@@ -6,11 +6,10 @@ seotitle: "Do You Need a Modular Power Supply in 2019? [Things to Know]"
 meta: "In this guide, we're going to show you why you really do need a modular power supply if you want to save space in your rig."
 ---
 
-<h3 class="page-subtitle">
-	Updated July 15th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
 
 Space is a virtue when building a PC, especially when working with smaller form factors, and not having all the room you need to build could mean life or death for your gaming rig. 
 

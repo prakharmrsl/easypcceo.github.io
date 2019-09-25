@@ -6,6 +6,11 @@ seotitle: "11 Smallest ATX Case Reviews: Small & Slim (2019)"
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
 ![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
 
 * TOC

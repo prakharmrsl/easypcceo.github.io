@@ -6,6 +6,11 @@ seotitle: "How Much Should You Spend on a Gaming PC in 2019?"
 meta: "We're going to be discussing how much you should spend on a gaming PC in 2019 if you want to game with good settings and FPS."
 ---
 
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
 * TOC
 {: toc}
 

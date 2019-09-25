@@ -6,6 +6,11 @@ seotitle: "Is NVME Worth It for Gaming in 2019? [Benchmarks]"
 meta: "Is NVME worth it for gaming over a traditional SSD? Find out in this post!"
 ---
 
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
 * TOC
 {: toc}
 

@@ -6,11 +6,10 @@ seotitle: "Will an SSD Improve FPS? Fully Explained for 2019 (SSD Guide)"
 meta: "Using an SSD is highly recommended by many for the performance boosts, but will an SSD improve FPS when gaming?"
 ---
 
-<h3 class="page-subtitle">
-	Updated July 6th, 2019 by 
-	<a href="/about/"><img data-src="/img/profile/close.jpg" class="circle lazyload" alt="Headshot"></a>
-	Jacob Tuwiner
-</h3>
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
 
 We’ll be straight with you – the simple answer is no. 
 
