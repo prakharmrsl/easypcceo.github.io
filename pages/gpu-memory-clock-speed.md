@@ -3,7 +3,7 @@ title: "Here's Why GPU Memory Clock Speed Matters for Gaming (2019)"
 permalink: "/gpu-memory-clock-speed/"
 layout: page
 seotitle: "Does GPU Memory Clock Speed Matter for Gaming?" 
-meta: "We're going to be answering the common question "does GPU memory clock speed matter for gaming" in this post. 
+meta: "We're going to be answering the common question 'does GPU memory clock speed matter for gaming' in this post." 
 ---
 
 <div class="author-line">
@@ -34,7 +34,9 @@ Just kidding, of course I do. To sum it up briefly, there is no real clear one-s
 
 Do not fret just yet young one! I never said it couldn’t improve you performance! It’s just that it won’t always be the case. 
 
-Relatively speaking, if you were to overclock your GPU memory clock it should give a very slight performance increase in most cases, it varies from game to game. Some games just happen to benefit a lot more for VRAM frequency than others, and those others just don’t seem to value it as much.
+Relatively speaking, if you were to overclock your GPU memory clock it should give a very slight performance increase in most cases, it varies from game to game. 
+
+Some games just happen to benefit a lot more for VRAM frequency than others, and those others just don’t seem to value it as much.
 
 So, GPU Memory clock can affect FPS, be it by 1% or by 10%, it just depends on what game you're playing.
 
