@@ -14,6 +14,16 @@ meta: "Is NVME worth it for gaming over a traditional SSD? Find out in this post
 * TOC
 {: toc}
 
+A lot of people new to building gaming computers may wonder if buying an NVME drive is worth the extra money. 
+
+So, is an NVME drive really worth it? 
+
+**If we’re gonna be straight with you, an NVME SSD will not increase your performance in games, at least FPS wise. But there are a couple of other things it can help with when it comes to gaming.** 
+
+Let's dive in: 
+
+## What is NVME? 
+
 First off, what is [NVME](https://searchstorage.techtarget.com/definition/NVMe-non-volatile-memory-express){: target="_blank"}? NVME (or non-volatile memory express) is an ultra-high-speed storage protocol that greatly increases the transfer speeds of SSDs. 
 
 Flash storage is already much, *much* faster than traditional mechanical hard storage, but NVME takes it a step further.
@@ -35,8 +45,6 @@ It’s like having a ton of little faster drives working as one!
 </div>
 
 ## NVME vs SATA SSD for Gaming 
-
-Now if we’re gonna be straight with you, an NVME SSD is not gonna increase your performance in games, FPS wise. But there are a couple of other things it can help with when it comes to gaming.
 
 For reasons we’ve covered in our article [Will an SSD Improve FPS](/will-ssd-improve-fps/), an SSD **will not** increase your FPS in video games as long as they’re relatively modern titles. 
 

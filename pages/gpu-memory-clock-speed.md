@@ -18,11 +18,11 @@ On a GPU spec sheet, I’m sure you’ve seen it, there’s a ton of numbers, ri
 
 There’s the GPU’s name, the core clock speed, the amount of onboard VRAM, and finally there’s the clock speed of the VRAM. 
 
-When choosing a GPU you would, of course, want to compare the raw performance of each individual graphics card and graphics card model. 
+But how important is your memory clock, really? 
 
-One thing that varies between third-party models, is the memory clock. The core clock can vary as well, but we’ll cover that elsewhere.
+**The memory clock of your GPU may actually be almost as important as your core clock, if not more important.**
 
-Most people tend to look at just the core clock for a scope on what kind of FPS they should be expecting in games, but does the memory clock affect that at all? In the following article we will cover exactly how GPU memory clock affects FPS, if it even does…
+In the following article we will cover exactly how important GPU memory clock speed is for gaming, so you can make a more informed decision. 
 
 ## Does Memory Clock Speed Affect FPS? 
 
@@ -30,9 +30,13 @@ Well, I actually don’t know what to tell you here.
 
 Just kidding, of course I do. To sum it up briefly, there is no real clear one-size-fits-all answer I can give you as to whether or not GPU memory clock speed does anything to your FPS in games.
 
-![gpu memory clock speed](/img/gpu-memory-clock-speed/specs.jpg){: .img-middle}
+When choosing a GPU you would, of course, want to compare the raw performance of each individual graphics card and graphics card model. 
 
-Do not fret just yet young one! I never said it couldn’t improve you performance! It’s just that it won’t always be the case. 
+One thing that varies between third-party models, is the memory clock. The core clock can vary as well, but we’ll cover that elsewhere.
+
+Most people tend to look at just the core clock for a scope on what kind of FPS they should be expecting in games, but does the memory clock affect that at all? 
+
+![gpu memory clock speed](/img/gpu-memory-clock-speed/specs.jpg){: .img-middle}
 
 Relatively speaking, if you were to overclock your GPU memory clock it should give a very slight performance increase in most cases, it varies from game to game. 
 
@@ -42,13 +46,9 @@ So, GPU Memory clock can affect FPS, be it by 1% or by 10%, it just depends on w
 
 ## Memory Clock Speed for Gaming 
 
-How important is your memory clock, really? 
-
-Well, in the case of gaming the memory clock of your GPU may actually be almost as important as your core clock, if not as important.
+The memory, or VRAM on your GPU is used to temporarily store assets like textures that are being used in whatever game you may be playing. 
 
 ![gpu memory clock speed](/img/gpu-memory-clock-speed/gpu.jpg){: .img-middle}
-
-The memory, or VRAM on your GPU is used to temporarily store assets like textures that are being used in whatever game you may be playing. 
 
 This means that having faster VRAM allows your graphics card to process these assets quicker, and having more VRAM allows for more assets to be stored. 
 

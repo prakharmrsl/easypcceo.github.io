@@ -11,15 +11,15 @@ meta: "Using an SSD is highly recommended by many for the performance boosts, bu
 	<span>Jacob Tuwiner</span>
 </div>
 
-We’ll be straight with you – the simple answer is no. 
+SSDs are awesome – definitely way better than mechanical hard drives in terms of read and write speeds.
 
-An SSD will not improve your FPS in games, except in the very rare instance in which a game may load textures straight from storage instead of the widely accepted VRAM loading. 
+But will an SSD improve FPS? 
 
-So practically never, at least nowadays.
+**The simple answer is no. An SSD will not improve your FPS in games, except in the very rare instance in which a game may load textures straight from storage instead of the widely accepted VRAM loading. However, an SSD will improve performance on many other fronts.** 
 
-However, an SSD will improve performance on many other fronts. 
+With that being said, in this post, we're going to be discussing whether or not an SSD is worth it for gaming in 2019 and beyond. 
 
-In this post, we're going to be exploring what an SSD is good (and not good) for in your next gaming PC. 
+Let's dive in: 
 
 ## Does SSD Improve Performance?
 
