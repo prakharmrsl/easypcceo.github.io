@@ -20,7 +20,7 @@ There’s the GPU’s name, the core clock speed, the amount of onboard VRAM, an
 
 But how important is your memory clock, really? 
 
-**The memory clock of your GPU may actually be almost as important as your core clock, if not more important.**
+**The memory clock of your GPU is actually almost as important as your core clock, if not more important.**
 
 In the following article we will cover exactly how important GPU memory clock speed is for gaming, so you can make a more informed decision. 
 
