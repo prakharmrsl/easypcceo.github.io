@@ -32,7 +32,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 		<th>Case</th>
 		<th>Image</th>
 		<th>Benefits</th>
-		<th>More</th>
+		<th>See Price</th>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">ASUS ROG Strix GTX 1080 Ti OC</a></td>
@@ -42,7 +42,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 			<li>Best Performance</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check Price</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">ZOTAC GeForce GTX 1080 Ti Mini</a></td>
@@ -52,7 +52,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 			<li>Lowest Profile</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check Price</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming</a></td>
@@ -62,7 +62,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 			<li>Best Cooling</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check Price</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">PNY GeForce GTX 1080 Ti</a></td>
@@ -72,7 +72,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 			<li>Lowest Price</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check Price</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">MSI GeForce GTX 1080 Ti Gaming X</a></td>
@@ -82,7 +82,7 @@ We're going to be taking a look at the 5 best GTX 1080 Ti models.
 			<li>Clean Design</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check Price</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check</a></td>
 	</tr>
 </table>
 
