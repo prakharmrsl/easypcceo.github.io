@@ -76,6 +76,10 @@ Packing performance often rivaling the Titan XP, this graphics card is reasonabl
 
 Packing 3584 CUDA cores, 224 texture units and 88ROPs, it ships with just a tad bit less VRAM than the Titan X. Still, this is the fastest of Nvidia’s Pascal cards, and will be able to handle anything you throw at it. 
 
+<div class="btn-center">
+	<a class="big-button" href="/graphics-cards/gtx-1080-ti/">Best GTX 1080 Ti Graphics Cards</a>
+</div>
+
 ### GTX 1080 
 <img alt="gtx 1080 graphics card" class="img-right img-small" src="/img/gpu/gtx-1080-windforce.png" />
 
