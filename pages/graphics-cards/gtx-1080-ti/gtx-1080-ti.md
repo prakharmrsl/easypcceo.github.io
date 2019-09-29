@@ -27,7 +27,11 @@ Have you ever wondered why there are so many different models of the same exact 
 
 I sure have, that’s why I freakin’ researched it. 
 
-**In this post, we're going to highlight the 5 best GTX 1080 Ti graphics cards on the market, and we'll also explain why there are so many versions of the same card in the first place!**
+In this post, we're going to highlight the 5 best GTX 1080 Ti graphics cards on the market.
+
+We'll also explain why there are so many versions of the same card in the first place!
+
+Let's jump in:
 
 ## 5 Best GTX 1080 Ti Graphics Cards 
 
