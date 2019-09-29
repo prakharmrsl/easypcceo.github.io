@@ -11,8 +11,13 @@ meta: "We've rounded up and reviewed the 5 best GTX 1080 Ti graphics cards on th
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#5-best-gtx-1080-ti-graphics-cards" id="markdown-toc-5-best-gtx-1080-ti-graphics-cards">5 Best GTX 1080 Ti Graphics Cards</a></li>
+<li><a href="#how-to-find-a-good-gtx-1080-ti-on-ebay" id="markdown-toc-how-to-find-a-good-gtx-1080-ti-on-ebay">How to Find a Good GTX 1080 Ti on eBay</a></li>
+<li><a href="#best-monitor-for-gtx-1080-ti" id="markdown-toc-best-monitor-for-gtx-1080-ti">Best Monitor for GTX 1080 Ti</a></li>
+<li><a href="#best-cpu-for-gtx-1080-ti" id="markdown-toc-best-cpu-for-gtx-1080-ti">Best CPU for GTX 1080 Ti</a></li>
+<li><a href="#best-power-supply-for-gtx-1080-ti" id="markdown-toc-best-power-supply-for-gtx-1080-ti">Best Power Supply for GTX 1080 Ti</a></li>
+</ul>
 
 Have you ever wondered why there are so many different models of the same exact graphics card? 
 
@@ -124,7 +129,7 @@ And don’t let its stature fool you, this puppy packs a punch. Its 1506MHz base
 Be sure not to skimp out on the power supply though, this little fella’s still got a big stomach.
 
 ## EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming: Best Cooling 
-<img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="table-image" src="/img/gpu/geforce-1080ti-hybrid.jpg" />
+<img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="img-right img-small" src="/img/gpu/geforce-1080ti-hybrid.jpg" />
 
 If you expected an air cooler coming in for the best cooling sport, you’d be dead wrong. However little the decrease in temperature is for liquid cooling, we still gotta give the best cooling spot to the EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming.
 
@@ -164,7 +169,7 @@ When considering buying a GPU such as a 1080 Ti for an amazingly low price, we s
 Also, contrary to popular belief, eBay’s support is very helpful when returning items in case it arrives not as described.
 
 ## MSI GeForce GTX 1080 Ti Gaming X: Best Value
-<img alt="gtx 1080 ti gaming x" class="table-image" src="/img/gpu/msi-gtx-1080ti.jpg" />
+<img alt="gtx 1080 ti gaming x" class="img-right img-small" src="/img/gpu/msi-gtx-1080ti.jpg" />
 
 Considering the fact that, as we mentioned before, the 1000-series is phasing out or almost phased out depending on who you ask, and finding a good deal is very difficult at this point in time. 
 
