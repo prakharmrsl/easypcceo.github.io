@@ -105,7 +105,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/2Q2SZSu">RIOTORO CR1080</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img class="table-image" alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Cheap</li>
@@ -117,7 +117,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/2NRZnsY">Rosewill ATX Slim</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Expansion slots</li>
@@ -129,7 +129,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/2LGEpuv">Corsair Crystal 460X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img class="table-image" alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Insane design</li>
@@ -141,7 +141,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/32DKkXN">Rosewill Cullinan</a></td>
-		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Easy HDD Install</li>
@@ -153,7 +153,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/2NQOasu">Corsair Carbide 270R</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img class="table-image" alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Performance</li>
@@ -165,7 +165,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	</tr>
 	<tr>
 		<td><a href="https://amzn.to/2N8idfU">be quiet! Pure Base 600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img class="table-image" alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Silent</li>
