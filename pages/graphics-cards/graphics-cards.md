@@ -3,7 +3,7 @@ title: "The Best Graphics Cards for Gaming of 2019"
 permalink: "/graphics-cards/"
 layout: page
 seotitle: "5 Best Graphics Cards for Gaming 2019 (Comparison)" 
-meta: "If you're building a gaming PC, you need to check out this list of the best graphics cards of 2019 before you build!"
+meta: "If you're building a gaming PC, you need to check out this list of the best graphics cards of 2019 before you build"
 ---
 
 <div class="author-line">
@@ -26,7 +26,7 @@ So, strap in and let’s begin!
 
 ## 5 Best Graphics Cards for Gaming 
 
-<table> 
+<table class="basic-table"> 
 	<tr>
 		<th>IMG</th>
 		<th>GPU</th>
@@ -37,31 +37,31 @@ So, strap in and let’s begin!
 		<td><img alt="gtx 1080 ti graphics card" class="table-image" src="/img/gpu/gtx-1080ti.png" /></td>
 		<td>GTX 1080 Ti</td>
 		<td>4K</td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07MQJSQ6C/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07MQJSQ6C&linkId=875db39646c076f79ce2fbb244b0cce3">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07MQJSQ6C/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07MQJSQ6C&linkId=875db39646c076f79ce2fbb244b0cce3">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1080 graphics card" class="table-image" src="/img/gpu/gtx-1080-windforce.png" /></td>
 		<td>GTX 1080</td>
 		<td>1440p</td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01IR6LMLO/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IR6LMLO&linkId=7322c4df5cb8989b3718e242954d76bb">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01IR6LMLO/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IR6LMLO&linkId=7322c4df5cb8989b3718e242954d76bb">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1070 graphics card" class="table-image" src="/img/gpu/zotac-gtx-1070.png" /></td>
 		<td>GTX 1070</td>
 		<td>1440p/1080p</td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01LLAJ8PU/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LLAJ8PU&linkId=23c185d078307ef68e9df22845927aa6">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01LLAJ8PU/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LLAJ8PU&linkId=23c185d078307ef68e9df22845927aa6">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1060 graphics card" class="table-image" src="/img/gpu/zotac-1060.png" /></td>
 		<td>GTX 1060</td>
 		<td>1080p</td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07PXV15MB/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PXV15MB&linkId=8dad43ccb4b0825ae3187eff04e1ebeb">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07PXV15MB/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PXV15MB&linkId=8dad43ccb4b0825ae3187eff04e1ebeb">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="RX 580 graphics card" class="table-image" src="/img/gpu/rx-580-pulse.png" /></td>
 		<td>RX 580</td>
 		<td>1080p</td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B06ZZ6FMF8/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06ZZ6FMF8&linkId=f9f199ba56c9775838d2a522373e08a7">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B06ZZ6FMF8/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06ZZ6FMF8&linkId=f9f199ba56c9775838d2a522373e08a7">Check Price</a></td>
 	</tr>
 </table>
 
@@ -170,7 +170,7 @@ Still, if you want to build a true gaming PC, stay away from integrated graphics
 
 ## How Does a Graphics Card Work? 
 
-<div class=”vid-container”>
+<div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZfnPFNnXqC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
