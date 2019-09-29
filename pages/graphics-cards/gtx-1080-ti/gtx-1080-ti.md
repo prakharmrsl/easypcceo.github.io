@@ -19,11 +19,15 @@ meta: "We've rounded up and reviewed the 5 best GTX 1080 Ti graphics cards on th
 <li><a href="#best-power-supply-for-gtx-1080-ti" id="markdown-toc-best-power-supply-for-gtx-1080-ti">Best Power Supply for GTX 1080 Ti</a></li>
 </ul>
 
+Nvidia announces a new card, and everyone is freaking out. 
+
+But which one should you choose?  
+
 Have you ever wondered why there are so many different models of the same exact graphics card? 
 
 I sure have, that’s why I freakin’ researched it. 
 
-We're going to be taking a look at the 5 best GTX 1080 Ti models. 
+**In this post, we're going to highlight the 5 best GTX 1080 Ti graphics cards on the market, and we'll also explain why there are so many versions of the same card in the first place!**
 
 ## 5 Best GTX 1080 Ti Graphics Cards 
 
