@@ -104,6 +104,8 @@ Basically, a third-party such as MSI, Sapphire, or XFX will buy either stock or 
 
 Because of this, each model will vary in cooling capacity and both memory and core clock speeds set by that third-party. 
 
+![graphics cards](/img/gpu/graphics-cards.jpg){: .img-middle}
+
 However, while memory speed and clock speed can be reset and/or factory overclocked by that third-party, the memory count and core count cannot be changed since it’s specific to each type of graphics card (eg. GTX 1070 vs GTX 1080).
 
 For a short side note before we forget. Just in case you didn't know, using a high-power graphics card with a relatively low power processor will cause a bottleneck and hinder your possible performance. 
