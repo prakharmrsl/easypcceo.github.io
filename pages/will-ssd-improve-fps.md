@@ -41,7 +41,11 @@ This process is much slower, and movement of the drive can even go as far as to 
 
 As SSDs further in technology, they will only get faster. Current top-end SATA SSDs, such as the Samsung 860 Evo 1TB, reach up to 550MB/s read speeds and 520MB/s write speeds, while M.2 SSDs like the WD Black SN750 harbor 3,470MB/s read speeds and 3,000MB/s write speeds.
 
-## SSD vs HDD Gaming Performance Comparison
+## SSD vs HDD Gaming Performance Comparison=
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hUGt0M6YhsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 You always hear people flaunting their SSDs’ speed and how amazingly superior they are when compared to traditional mass storage HDDs, but really how much better could they be? 
 
@@ -54,10 +58,6 @@ The Western Digital Caviar Blue 1TB HDD versus the Samsung 860 Evo 1TB SSD… FI
 ![SSD vs HDD performance test](/img/ssd-improve-fps/test-1.png)
 
 We hope you were expecting that kind of blowout. It’s really no contest.
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hUGt0M6YhsU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 The much newer and advanced technology of SSDs allows them to easily surpass their mechanical counterparts by a large measure since HDDs have been using the same altered formula since conception.
 
