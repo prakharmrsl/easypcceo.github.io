@@ -11,8 +11,17 @@ meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#things-to-consider-before-you-buy-a-monitor" id="markdown-toc-things-to-consider-before-you-buy-a-monitor">Things to Consider Before You Buy a Monitor</a> 
+</li>
+<li><a href="#best-monitor-for-your-gpu-video" id="markdown-toc-best-monitor-for-your-gpu-video">Best Monitor for Your GPU (Video)</a></li>
+<li><a href="#top-3-monitors-for-gtx-1080-ti" id="markdown-toc-top-3-monitors-for-gtx-1080-ti">Top 3 Monitors for GTX 1080 Ti</a> <ul>
+<li><a href="#best-freesync-monitor-lg-32gk650f-b" id="markdown-toc-best-freesync-monitor-lg-32gk650f-b">Best FreeSync Monitor: LG 32GK650F-B</a></li>
+<li><a href="#best-g-sync-monitor-asus-rog-pg279q" id="markdown-toc-best-g-sync-monitor-asus-rog-pg279q">Best G-Sync Monitor: ASUS ROG PG279Q</a></li>
+<li><a href="#cheapest-monitor-aoc-22v2h" id="markdown-toc-cheapest-monitor-aoc-22v2h">Cheapest Monitor: AOC 22V2H</a></li>
+</ul>
+</li>
+</ul>
 
 The GTX 1080 Ti from Nvidia is an absolute beast of a card.
 
