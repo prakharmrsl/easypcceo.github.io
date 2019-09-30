@@ -127,8 +127,7 @@ Being that the 2000-series is pretty much phased in at the moment, the 1000-seri
 
 So finding this card at a reasonable price new is basically unheard of, and we suggest shooting for a newer 2000-series if you refuse to buy anything short of brand new hardware.
 
-<section style="width: 100%">
-          <div style="display: flex">
+  <div style="display: flex">
            <div style="flex: 1 200% 0;">
                <h3>PROS</h3>
                <ul style="padding: 0px 30px;">
@@ -170,7 +169,6 @@ So finding this card at a reasonable price new is basically unheard of, and we s
            <div style="display: flex; align-items: center"><i class="fa fa-usd"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
               <h3>High</h3>
             </div>
-      </section>
 
 <div class="btn-center">
 <a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check Price</a>
