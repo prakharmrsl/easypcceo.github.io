@@ -35,7 +35,7 @@ Let's jump in!
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2mf02cq">LG 32GK650F-B</a></td>
-		<td><a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/gtx1080ti/monitor/lg-32gk.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Freesync</li>
@@ -45,7 +45,7 @@ Let's jump in!
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2n8DMBo">ASUS ROG PG279Q</a></td>
-		<td><a target="_blank" href="https://amzn.to/2n8DMBo"><img alt="best g sync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/gtx1080ti/monitor/asus-rog-pg279q.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2n8DMBo"><img alt="best g sync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>G-Sync</li>
@@ -55,7 +55,7 @@ Let's jump in!
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2n7zhaf">AOC 22V2H</a></td>
-		<td><a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/gtx1080ti/monitor/aoc-22v2h.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Cheap</li>
@@ -72,7 +72,7 @@ Before you buy a monitor, it's important to understand *exactly* what you're get
 Here are the main things to keep in mind before you make a purchase: 
 
 ### Refresh Rate
-![monitor refresh rate](/img/gpu/gtx1080ti/monitor/refresh-rate.jpg){: .img-right .img-small}
+![monitor refresh rate](/img/gpu/1080ti/monitor/refresh-rate.jpg){: .img-right .img-small}
 
 One thing you have got to understand before choosing a new monitor is what a monitor’s refresh rate is. So, what is it anyhow?
 
@@ -87,7 +87,7 @@ The higher you go the more pictures the monitor can fit within the time frame, a
 (possible reference to FPS vs refresh rate article)
 
 ### Resolution
-![monitor resolution](/img/gpu/gtx1080ti/monitor/resolution.jpg){: .img-right .img-small}
+![monitor resolution](/img/gpu/1080ti/monitor/resolution.jpg){: .img-right .img-small}
 
 Resolution, on the other hand, is how the measure of how many pixels can be displayed on-screen at any given moment. 
 
@@ -100,7 +100,7 @@ For lower resolutions your refresh rate can be anywhere from 60Hz, to 75Hz, to e
 Higher resolutions need a much higher refresh rate to keep up with the larger image processing.
 
 ### FreeSync and G-Sync
-![freesync vs gsync](/img/gpu/gtx1080ti/monitor/freesync-vs-gsync.jpg){: .img-right .img-small}
+![freesync vs gsync](/img/gpu/1080ti/monitor/freesync-vs-gsync.jpg){: .img-right .img-small}
 
 FreeSync and G-Sync are both very similar processes that stem from an old display option for 3D games called V-Sync. 
 
@@ -137,7 +137,7 @@ The refresh rate of your monitor, the resolution of your monitor, and whether or
 I know it took a hot minute, but we’re finally at our top picks for GTX 1080 Ti optimized monitors. The following list are the best picks for your 1080 Ti in 3 separate categories. Enjoy!
 
 ### Best FreeSync Monitor: LG 32GK650F-B
-![best freesync monitor for gtx 1080 ti](/img/gpu/gtx1080ti/monitor/lg-32gk.jpg){: .img-right .img-small}
+![best freesync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/lg-32gk.jpg){: .img-right .img-small}
 
 Grabbing our spot for the top FreeSync monitor to pair with your GTX 1080 Ti, at $329.99USD on Amazon, is the LG 32GK650F-B. 
 
@@ -154,7 +154,7 @@ This allows for a completely seamless and smooth gameplay experience, especially
 </div>
 
 ### Best G-Sync Monitor: ASUS ROG PG279Q
-![best g sync monitor for gtx 1080 ti](/img/gpu/gtx1080ti/monitor/asus-rog-pg279q.jpg){: .img-right .img-small}
+![best g sync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg){: .img-right .img-small}
 
 If you’ve decided that G-Sync supremacy is the route for you, then do I have an amazing pick for you on this category. 
 
@@ -177,7 +177,7 @@ This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with t
 </div>
 
 ### Cheapest Monitor: AOC 22V2H
-![cheapest monitor for gtx 1080 ti](/img/gpu/gtx1080ti/monitor/aoc-22v2h.jpg){: .img-right .img-small}
+![cheapest monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/aoc-22v2h.jpg){: .img-right .img-small}
 
 Our cheapest monitor pick isn’t really too much to gawk at, but hey what do you expect from a cheap monitor. 
 
