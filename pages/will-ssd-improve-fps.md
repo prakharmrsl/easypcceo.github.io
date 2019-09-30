@@ -2,7 +2,7 @@
 title: "Is an SSD Worth it for Gaming in 2019? [Impact on FPS]" 
 permalink: "/will-ssd-improve-fps/"
 layout: page
-seotitle: "Will an SSD Improve FPS? Fully Explained for 2019 (SSD Guide)" 
+seotitle: "Will an SSD Improve FPS? Explained 2019 (Quick Answer)" 
 meta: "Using an SSD is highly recommended by many for the performance boosts, but will an SSD improve FPS when gaming?"
 ---
 
