@@ -229,7 +229,9 @@ When choosing a monitor for your 1080 Ti system, you would probably think you sh
 
 There really is no need to head anywhere past 1440p on a 1080Ti for games unless you absolutely cannot have anything but the greatest 4k quality. So we just suggest sticking to a high refresh rate 1440p monitor.
 
-We ultimately picked the AOC CQ32G1 as the best monitor for the GTX 1080 Ti, learn more about that here.
+<div class="btn-center">
+<a class="big-button-middle" href="/graphics-cards/gtx-1080-ti/monitor/">Best Monitor for GTX 1080 Ti</a>
+</div>
 
 ## Best CPU for GTX 1080 Ti 
 ![best CPU for GTX 1080 ti](/img/gpu/1080ti/cpu/i7.jpg){: .img-right .img-small}
