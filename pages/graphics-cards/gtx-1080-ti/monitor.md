@@ -11,17 +11,8 @@ meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're
 	<span>Jacob Tuwiner</span>
 </div>
 
-<ul id="markdown-toc">
-<li><a href="#things-to-consider-before-you-buy-a-monitor" id="markdown-toc-things-to-consider-before-you-buy-a-monitor">Things to Consider Before You Buy a Monitor</a> 
-</li>
-<li><a href="#best-monitor-for-your-gpu-video" id="markdown-toc-best-monitor-for-your-gpu-video">Best Monitor for Your GPU (Video)</a></li>
-<li><a href="#top-3-monitors-for-gtx-1080-ti" id="markdown-toc-top-3-monitors-for-gtx-1080-ti">Top 3 Monitors for GTX 1080 Ti</a> <ul>
-<li><a href="#best-freesync-monitor-lg-32gk650f-b" id="markdown-toc-best-freesync-monitor-lg-32gk650f-b">Best FreeSync Monitor: LG 32GK650F-B</a></li>
-<li><a href="#best-g-sync-monitor-asus-rog-pg279q" id="markdown-toc-best-g-sync-monitor-asus-rog-pg279q">Best G-Sync Monitor: ASUS ROG PG279Q</a></li>
-<li><a href="#cheapest-monitor-aoc-22v2h" id="markdown-toc-cheapest-monitor-aoc-22v2h">Cheapest Monitor: AOC 22V2H</a></li>
-</ul>
-</li>
-</ul>
+* TOC
+{: toc}
 
 The GTX 1080 Ti from Nvidia is an absolute beast of a card.
 
@@ -73,77 +64,6 @@ Let's jump in!
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2n7zhaf">Check</a></td>
 	</tr>
 </table>
-
-## Things to Consider Before You Buy a Monitor 
-
-Before you buy a monitor, it's important to understand *exactly* what you're getting. 
-
-Here are the main things to keep in mind before you make a purchase: 
-
-### Refresh Rate
-![monitor refresh rate](/img/gpu/1080ti/monitor/refresh-rate.jpg){: .img-right .img-small}
-
-One thing you have got to understand before choosing a new monitor is what a monitor’s refresh rate is. So, what is it anyhow?
-
-Beginning with the basics, you should by now know that video is just a series of images displayed as such a high speed that our brains register it as motion instead of a still picture. 
-
-Refresh rate is basically the rate at which the monitor can display these images in a second. 
-
-So a 60Hz monitor can display 60 images in one second, a 120Hz monitor can display 120 images in one second, so on and so forth. 
-
-The higher you go the more pictures the monitor can fit within the time frame, and the smoother the video is perceived by your eyes.
-
-(possible reference to FPS vs refresh rate article)
-
-### Resolution
-![monitor resolution](/img/gpu/1080ti/monitor/resolution.jpg){: .img-right .img-small}
-
-Resolution, on the other hand, is how the measure of how many pixels can be displayed on-screen at any given moment. 
-
-The most common resolutions for monitors are as follows: 720p or 1280x720 pixels (these are irrelevant nowadays), 1080p or 1920x1080 pixels, 1440p or 2560x1440 pixels, and 4K or 3840x2160 pixels.
-
-A monitor’s resolution and refresh rate work hand in hand when it comes to determining your performance in video games, a low refresh rate with a high resolution is not a fun time. 
-
-For lower resolutions your refresh rate can be anywhere from 60Hz, to 75Hz, to even 240Hz and you should still be fine, but you will notice a difference when making large jumps. 
-
-Higher resolutions need a much higher refresh rate to keep up with the larger image processing.
-
-### FreeSync and G-Sync
-![freesync vs gsync](/img/gpu/1080ti/monitor/freesync-vs-gsync.png){: .img-right .img-small}
-
-FreeSync and G-Sync are both very similar processes that stem from an old display option for 3D games called V-Sync. 
-
-What these processes do, in short, is syncronize your framerate in games to the refresh rate of the monitor you are playing on to reduce tearing or artifacting (display distortion and inconsistencies).
-
-G-Sync does this via an onboard chip built into the monitor that, well, syncs your graphics card and monitor by telling the GPU to wait until the monitor is ready before sending visual data. 
-
-As long as both your graphics card and monitor support G-Sync, it is a great way to receive smooth performance in games.
-
-However, G-Sync does come with its drawbacks. It costs a fair amount to implement G-Sync into systems and the threshold for G-Sync supported graphics card caps at mid-range, not to mention it is only supported by Nvidia GPUs, sorry AMD fans.
-
-Freesync, though, is a little bit different. 
-
-AMD’s Freesync technology allows for your graphics card to take direct control of your monitors refresh rate to sync up. 
-
-On top of that, the software-based nature of Freesync allows for cheaper monitors considering you don’t need that extra processing chip as G-Sync does.
-
-Freesync’s pool of GPUs is also much greater, ranging from the low ends of years past to the most expensive and new high-end cards. 
-
-Even some of AMD’s APUs support it, ain’t that neat. 
-
-There are a couple of aspects for monitors that you must realize before you decide to go out and make your purchase. 
-
-The refresh rate of your monitor, the resolution of your monitor, and whether or not it supports FreeSync or G-Sync.
-
-## Best Monitor for Your GPU (Video)
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLTa0BzxFKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
-## Top 3 Monitors for GTX 1080 Ti 
-
-I know it took a hot minute, but we’re finally at our top picks for GTX 1080 Ti optimized monitors. The following list are the best picks for your 1080 Ti in 3 separate categories. Enjoy!
 
 ### Best FreeSync Monitor: LG 32GK650F-B
 ![best freesync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/lg-32gk.jpg){: .img-right .img-small}
@@ -207,3 +127,71 @@ Though, astoundingly, this El Cheapo monitor has managed to include FreeSync sup
 <div class="btn-center">
 <a target="_blank" class="big-button-middle" href="https://amzn.to/2n7zhaf">Check Price</a>
 </div>
+
+## How to Choose The Best Monitor for Your GPU (Video)
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLTa0BzxFKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+## Things to Consider Before You Buy a Monitor 
+
+Before you buy a monitor, it's important to understand *exactly* what you're getting. 
+
+Here are the main things to keep in mind before you make a purchase: 
+
+### Refresh Rate
+![monitor refresh rate](/img/gpu/1080ti/monitor/refresh-rate.jpg){: .img-right .img-small}
+
+One thing you have got to understand before choosing a new monitor is what a monitor’s refresh rate is. 
+
+Beginning with the basics, you should by now know that video is just a series of images displayed at such a high speed that our brains register it as motion instead of a still picture. 
+
+Refresh rate is basically the rate at which the monitor can display these images in a second. 
+
+So a 60Hz monitor can display 60 images in one second, a 120Hz monitor can display 120 images in one second, so on and so forth. 
+
+The higher you go the more pictures the monitor can fit within the time frame, and the smoother the video is perceived by your eyes.
+
+### Resolution
+![monitor resolution](/img/gpu/1080ti/monitor/resolution.jpg){: .img-right .img-small}
+
+Resolution, on the other hand, is the measure of how many pixels can be displayed on-screen at any given moment. 
+
+The most common resolutions for monitors are as follows: 
+
+* 720p or 1280x720 pixels (these are irrelevant nowadays) 
+* 1080p or 1920x1080 pixels 
+* 1440p or 2560x1440 pixels 
+* 4K or 3840x2160 pixels.
+
+A monitor’s resolution and refresh rate work hand in hand when it comes to determining your performance in video games – a low refresh rate with a high resolution is not a fun time. 
+
+For lower resolutions your refresh rate can be anywhere from 60Hz, to 75Hz, to even 240Hz and you should still be fine, but you will notice a difference when making large jumps. 
+
+Higher resolutions need a much higher refresh rate to keep up with the larger image processing.
+
+### FreeSync and G-Sync
+![freesync vs gsync](/img/gpu/1080ti/monitor/freesync-vs-gsync.png){: .img-right .img-small}
+
+FreeSync and G-Sync are both very similar processes that stem from an old display option for 3D games called V-Sync. 
+
+What these processes do, in short, is syncronize your framerate in games to the refresh rate of the monitor you are playing on to reduce tearing or artifacting (display distortion and inconsistencies).
+
+G-Sync does this via an onboard chip built into the monitor that, well, syncs your graphics card and monitor by telling the GPU to wait until the monitor is ready before sending visual data. 
+
+As long as both your graphics card and monitor support G-Sync, it is a great way to receive smooth performance in games.
+
+However, G-Sync does come with its drawbacks. 
+
+It costs a fair amount to implement G-Sync into systems and the threshold for G-Sync supported graphics card caps at mid-range, not to mention it is only supported by Nvidia GPUs – sorry AMD fans.
+
+Freesync, though, is a little bit different. 
+
+AMD’s Freesync technology allows for your graphics card to take direct control of your monitors refresh rate to sync up. 
+
+On top of that, the software-based nature of Freesync allows for cheaper monitors considering you don’t need that extra processing chip as G-Sync does.
+
+Freesync’s pool of GPUs is also much greater, ranging from the low ends of years past to the most expensive and new high-end cards. 
+
+Even some of AMD’s APUs support it – ain’t that neat? 
