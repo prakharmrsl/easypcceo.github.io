@@ -25,7 +25,7 @@ meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're
 
 The [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/) from Nvidia is an absolute beast of a [graphics card](/graphics-card/).
 
-That being said, it’s understandable why you want to know exactly which monitor you should pair it with to get the best possible experience out of your card. 
+That being said, it’s understandable why you want to know exactly which monitor you should pair it with to get the best possible experience with your card. 
 
 In this post, we're going to take a look at the top 3 best monitors for your 1080 Ti. 
 
