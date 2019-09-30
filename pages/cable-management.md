@@ -2,7 +2,7 @@
 title: "How Does Cable Management Affect Airflow?" 
 permalink: "/cable-management/"
 layout: page
-seotitle: "Does Cable Management Affect Airflow? [Don't Do This]" 
+seotitle: "Does Cable Management Affect Airflow? (Don't Do This)" 
 meta: "A lot of people new to building a gaming PC wonder whether or not cable management affects airflow – we've got the answers."
 ---
 
