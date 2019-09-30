@@ -11,10 +11,19 @@ meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#3-best-monitors-for-1080-ti-graphics-card" id="markdown-toc-3-best-monitors-for-1080-ti-graphics-card">3 Best Monitors for 1080 Ti Graphics Card</a> <ul>
+<li><a href="#best-freesync-monitor-lg-32gk650f-b" id="markdown-toc-best-freesync-monitor-lg-32gk650f-b">Best FreeSync Monitor: LG 32GK650F-B</a></li>
+<li><a href="#best-g-sync-monitor-asus-rog-pg279q" id="markdown-toc-best-g-sync-monitor-asus-rog-pg279q">Best G-Sync Monitor: ASUS ROG PG279Q</a></li>
+<li><a href="#cheapest-monitor-aoc-22v2h" id="markdown-toc-cheapest-monitor-aoc-22v2h">Cheapest Monitor: AOC 22V2H</a></li>
+</ul>
+</li>
+<li><a href="#how-to-choose-the-best-monitor-for-your-gpu-video" id="markdown-toc-how-to-choose-the-best-monitor-for-your-gpu-video">How to Choose The Best Monitor for Your GPU (Video)</a></li>
+<li><a href="#things-to-consider-before-you-buy-a-monitor" id="markdown-toc-things-to-consider-before-you-buy-a-monitor">Things to Consider Before You Buy a Monitor</a> 
+</li>
+</ul>
 
-The GTX 1080 Ti from Nvidia is an absolute beast of a card.
+The [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/) from [Nvidia](https://www.nvidia.com/){: target="_blank"} is an absolute beast of a card.
 
 That being said, it’s understandable why you want to know exactly which monitor you should pair it with to get the best possible experience out of your card. 
 
@@ -68,7 +77,7 @@ Let's jump in!
 ### Best FreeSync Monitor: LG 32GK650F-B
 ![best freesync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/lg-32gk.jpg){: .img-right .img-small}
 
-Grabbing our spot for the top FreeSync monitor to pair with your GTX 1080 Ti, at $329.99USD on Amazon, is the LG 32GK650F-B. 
+Grabbing our spot for the top [FreeSync](https://www.digitaltrends.com/computing/what-is-freesync/){: target="_blank"} monitor to pair with your GTX 1080 Ti, at $329.99USD on Amazon, is the LG 32GK650F-B. 
 
 Sure, it’s a mouthful of a name but it is one of, if not the best monitor out there for 1440p gaming with FreeSync support.
 
@@ -85,7 +94,7 @@ This allows for a completely seamless and smooth gameplay experience, especially
 ### Best G-Sync Monitor: ASUS ROG PG279Q
 ![best g sync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg){: .img-right .img-small}
 
-If you’ve decided that G-Sync supremacy is the route for you, then do I have an amazing pick for you on this category. 
+If you’ve decided that [G-Sync](https://www.tomshardware.com/reviews/nvidia-gsync-monitor-glossary-definition-explained,6008.html){: target="_blank"} supremacy is the route for you, then do I have an amazing pick for you on this category. 
 
 In the spot for best G-Sync monitor for 1080 Ti gaming, coming in at a whopping $609.99USD is Asus’ ROG PG279Q gaming monitor.
 
@@ -143,7 +152,7 @@ Here are the main things to keep in mind before you make a purchase:
 ### Refresh Rate
 ![monitor refresh rate](/img/gpu/1080ti/monitor/refresh-rate.jpg){: .img-right .img-small}
 
-One thing you have got to understand before choosing a new monitor is what a monitor’s refresh rate is. 
+One thing you have got to understand before choosing a new monitor is what a monitor’s [refresh rate](https://www.cnet.com/news/what-is-refresh-rate/){: target="_blank"} is. 
 
 Beginning with the basics, you should by now know that video is just a series of images displayed at such a high speed that our brains register it as motion instead of a still picture. 
 
@@ -156,7 +165,13 @@ The higher you go the more pictures the monitor can fit within the time frame, a
 ### Resolution
 ![monitor resolution](/img/gpu/1080ti/monitor/resolution.jpg){: .img-right .img-small}
 
-Resolution, on the other hand, is the measure of how many pixels can be displayed on-screen at any given moment. 
+Resolution, on the other hand, is the measure of how many pixels can be displayed on-screen at any given moment.
+
+[Techopedia](https://www.techopedia.com/definition/2743/resolution){: target="_blank"} defines resolution as: 
+
+<blockquote>
+	<p>a measure used to describe the sharpness and clarity of an image or picture and is often used as a metric for judging the quality of monitors, printers, digital images and a various other hardware and software technologies.</p>
+</blockquote>
 
 The most common resolutions for monitors are as follows: 
 
