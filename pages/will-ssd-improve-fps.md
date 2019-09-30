@@ -11,6 +11,9 @@ meta: "Using an SSD is highly recommended by many for the performance boosts, bu
 	<span>Jacob Tuwiner</span>
 </div>
 
+* TOC
+{: toc}
+
 SSDs are awesome – definitely way better than mechanical hard drives in terms of read and write speeds.
 
 But will an SSD improve FPS? 
@@ -22,6 +25,7 @@ With that being said, in this post, we're going to be discussing whether or not 
 Let's dive in: 
 
 ## Does SSD Improve Performance?
+![SSD performance](/img/ssd-improve-fps/performance.png){: .img-right .img-small}
 
 We’re sure all of you Elder Scrolls V: Skyrim and Grand Theft Auto V players out there will understand the pain of an excruciatingly long loading screen. An SSD can help with that. 
 
@@ -58,6 +62,7 @@ We hope you were expecting that kind of blowout. It’s really no contest.
 The much newer and advanced technology of SSDs allows them to easily surpass their mechanical counterparts by a large measure since HDDs have been using the same altered formula since conception.
 
 ### Hybrids
+![hybrid hard drives](/img/ssd-improve-fps/hybrids.jpg){: .img-right .img-small}
 
 One other thing we would like to cover briefly is hybrid storage options.
 
@@ -82,6 +87,8 @@ Well, do you need an SSD for gaming? Again it comes down to preference.
 Would you like to load games at amazing speeds, and by extension, complete your objectives much quicker? 
 
 It’d seem like getting an SSD would be the obvious option, and you’d be hard-pressed to find anyone who doesn’t agree.
+
+![SSD for gaming](/img/ssd-improve-fps/ssd.jpg){: .img-middle}
 
 The only real opposition would be price. Though, that doesn’t seem like it will be much of an issue, at least with the current state of the market. 
 
@@ -120,6 +127,3 @@ We, once again, highly suggest buying at the very least a low capacity SSD for y
 It'll even leave some room for some of your most-used applications. 
 
 This will ensure you a smooth browsing experience, while also allowing a mass storage HDD some extra room to breathe.
-
-* TOC
-{: toc}
