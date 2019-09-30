@@ -62,7 +62,7 @@ We hope you were expecting that kind of blowout. It’s really no contest.
 The much newer and advanced technology of SSDs allows them to easily surpass their mechanical counterparts by a large measure since HDDs have been using the same altered formula since conception.
 
 ### Hybrids
-![hybrid hard drives](/img/ssd-improve-fps/hybrids.jpg){: .img-right .img-small}
+![hybrid hard drives](/img/ssd-improve-fps/hybrid.jpg){: .img-right .img-small}
 
 One other thing we would like to cover briefly is hybrid storage options.
 
