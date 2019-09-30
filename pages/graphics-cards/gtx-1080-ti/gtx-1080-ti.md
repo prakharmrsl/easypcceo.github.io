@@ -143,8 +143,7 @@ So finding this card at a reasonable price new is basically unheard of, and we s
                </ul>
             </div>
           </div>
-      </section>
-      <section style="display: flex; flex-flow: wrap">
+      <div style="display: flex; flex-flow: wrap">
           <div style="padding: 10px 30px; margin-bottom:15px;">
             <div style="display: flex; align-items: center"><i class="fa fa-user"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
               <h3>Easy</h3>
