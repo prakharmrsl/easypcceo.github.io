@@ -127,6 +127,52 @@ Being that the 2000-series is pretty much phased in at the moment, the 1000-seri
 
 So finding this card at a reasonable price new is basically unheard of, and we suggest shooting for a newer 2000-series if you refuse to buy anything short of brand new hardware.
 
+<section style="width: 100%">
+        <h3>We may receive compensation when you use Coinmama. Please visit Coinmama for its exact pricing terms.</h3>
+          <div style="display: flex">
+           <div style="flex: 1 200% 0;">
+               <h3>PROS</h3>
+               <ul style="padding: 0px 30px;">
+                   <li style="list-style-image: url(tick.png); margin-bottom: 10px;">Works in almost all countries</li>
+                   <li style="list-style-image: url(tick.png); margin-bottom: 10px;">Highest limits for buying bitcoins with a credit card</li>
+                   <li style="list-style-image: url(tick.png); margin-bottom: 10px;">Reliable and trusted broker</li>
+               </ul>
+            </div>
+                <div style="flex: 1 200% 0;">
+               <h3>PROS</h3>
+               <ul padding: 0px 30px;>
+                   <li style="list-style-image: url(cross.png); margin-bottom: 10px;">Some of the highest fees among credit/debit card bitcoin brokers </li>
+               </ul>
+            </div>
+          </div>
+      </section>
+      <section style="display: flex; flex-flow: wrap">
+          <div style="padding: 10px 30px; margin-bottom:15px;">
+            <div style="display: flex; align-items: center"><i class="fa fa-user"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>Easy</h3>
+            </div>
+            <div style="border-left: 1px solid #000; padding: 10px 30px; margin-bottom:15px;">
+            <div style="display: flex; align-items: center"><i class="fa fa-eye"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>Low</h3>
+            </div>
+            <div style="border-left: 1px solid #000; border-right: 1px solid #000; padding: 10px 30px; margin-bottom:15px;">
+            <div style="display: flex; align-items: center"><i class="fa fa-bolt"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>Fast</h3>
+            </div>
+            <div style="padding: 10px 30px; margin-bottom:15px;">
+            <div style="display: flex; align-items: center"><i class="fa fa-money"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>High</h3>
+            </div>
+            <div style="border-left: 1px solid #000; border-right: 1px solid #000; padding: 10px 30px; margin-bottom:15px;">
+            <div style="display: flex; align-items: center"><i class="fa fa-smile-o"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>Trusted</h3>
+            </div>
+            <div style=" padding: 10px 30px; margin-bottom:15px;">
+           <div style="display: flex; align-items: center"><i class="fa fa-usd"></i><p style="font-size:14px; margin: 0 10px; display: inline-block">Ease of Use</p></div>
+              <h3>High</h3>
+            </div>
+      </section>
+
 <div class="btn-center">
 <a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check Price</a>
 </div>
