@@ -12,3 +12,6 @@
       subhref: "/budget-pcs/700/"
     - subtitle: "$800 Build"
       subhref: "/budget-pcs/800/"
+
+- name: Graphics Cards 
+  url: /graphics-cards/
