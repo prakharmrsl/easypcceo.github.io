@@ -1741,3 +1741,31 @@ blockquote p {
 .btn-center {
   text-align: center;
 }
+
+.big-button-middle {
+    background: #64a767 none repeat scroll 0 0;
+    border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    border: 2px solid #64a767;
+    transition: all .2s;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px 30px;
+    font-size: 14px;
+    margin: 15px 0 15px 0;
+    @media (max-width: 860px) {
+      font-size: 12px;
+      padding: 5px 10px;
+    }
+    @media (max-width: 640px) {
+      font-size: 12px;
+      padding: 10px 20px;
+      10px 0 25px 0; 
+    }
+    &:hover {
+      background: rgba(#111, 0);
+      color: #64a767;
+      text-decoration: none;
+    }
+}

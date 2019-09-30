@@ -215,11 +215,13 @@ What we really suggest for finding a cheap deal on a GTX 1080 Ti, is browsing eB
 
 eBay is known for its shady deals and rip-offs, but we can give you some ideas as to what you should look for in an eBay graphics card listing.
 
-1. Check the amount available, as listings with many cards are more often than not old cryptocurrency mining cards that have been used to hell and back
-2. Go to the seller’s profile and look for buyer reviews, since some users will buy cheap items for free reviews or just outright buy reviews
-3. Make sure you read the description so that you know exactly what you are buying and can make a valid return request if the item is delivered not as described
+**1.** Check the amount available, as listings with many cards are more often than not old cryptocurrency mining cards that have been used to hell and back
+**2.** Go to the seller’s profile and look for buyer reviews, since some users will buy cheap items for free reviews or just outright buy reviews
+**3.** Make sure you read the description so that you know exactly what you are buying and can make a valid return request if the item is delivered not as described
 
 ## Best Monitor for GTX 1080 Ti 
+
+![best monitor for GTX 1080 ti](/img/gpu/1080ti/monitor/best-monitor-gtx-1080-ti.jpg){: .img-right .img-small}
 
 When choosing a monitor for your 1080 Ti system, you would probably think you should get the most decked out high-end monitor you can possibly get right? Once again, the wool has been pulled over your eyes my friend.
 
@@ -228,6 +230,8 @@ There really is no need to head anywhere past 1440p on a 1080Ti for games unless
 We ultimately picked the AOC CQ32G1 as the best monitor for the GTX 1080 Ti, learn more about that here.
 
 ## Best CPU for GTX 1080 Ti 
+![best CPU for GTX 1080 ti](/img/gpu/1080ti/cpu/i7.jpg){: .img-right .img-small}
+
 There's two different perspectives you can get when asking the "what's the best CPU" for whatever graphics card pairing; and that's performance vs. price.
 
 Starting with the best performance choice there's no other but the Intel i9-9900KF, which is the leading performer in gaming across the market.
@@ -235,6 +239,7 @@ Starting with the best performance choice there's no other but the Intel i9-9900
 If you're looking for the best bang for your buck, the best option is the Intel i9-9700K if you're buying brand new on Amazon or Newegg. For the used market, used 7700K and 8700K's hold up fairly well.
 
 ## Best Power Supply for GTX 1080 Ti 
+![best CPU for GTX 1080 ti](/img/gpu/1080ti/psu/best-psu-gtx-1080-ti.png){: .img-right .img-small}
 
 The GTX 1080 Ti is definitely one power hungry piece of hardware, but that's to be expected. You've gotta get all that gaming power from somewhere.
 
