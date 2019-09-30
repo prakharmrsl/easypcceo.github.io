@@ -23,7 +23,7 @@ meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're
 </li>
 </ul>
 
-The [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/) from [Nvidia](https://www.nvidia.com/){: target="_blank"} is an absolute beast of a card.
+The [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/) from Nvidia is an absolute beast of a [graphics card](/graphics-card/).
 
 That being said, it’s understandable why you want to know exactly which monitor you should pair it with to get the best possible experience out of your card. 
 
@@ -199,7 +199,7 @@ As long as both your graphics card and monitor support G-Sync, it is a great way
 
 However, G-Sync does come with its drawbacks. 
 
-It costs a fair amount to implement G-Sync into systems and the threshold for G-Sync supported graphics card caps at mid-range, not to mention it is only supported by Nvidia GPUs – sorry AMD fans.
+It costs a fair amount to implement G-Sync into systems and the threshold for G-Sync supported graphics card caps at mid-range, not to mention it is only supported by [Nvidia](https://www.nvidia.com/){: target="_blank"} GPUs – sorry AMD fans.
 
 Freesync, though, is a little bit different. 
 
