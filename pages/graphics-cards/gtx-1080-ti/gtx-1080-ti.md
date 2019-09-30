@@ -216,7 +216,9 @@ What we really suggest for finding a cheap deal on a GTX 1080 Ti, is browsing eB
 eBay is known for its shady deals and rip-offs, but we can give you some ideas as to what you should look for in an eBay graphics card listing.
 
 **1.** Check the amount available, as listings with many cards are more often than not old cryptocurrency mining cards that have been used to hell and back
+
 **2.** Go to the seller’s profile and look for buyer reviews, since some users will buy cheap items for free reviews or just outright buy reviews
+
 **3.** Make sure you read the description so that you know exactly what you are buying and can make a valid return request if the item is delivered not as described
 
 ## Best Monitor for GTX 1080 Ti 
