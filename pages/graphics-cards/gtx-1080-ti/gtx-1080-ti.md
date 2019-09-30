@@ -128,7 +128,6 @@ Being that the 2000-series is pretty much phased in at the moment, the 1000-seri
 So finding this card at a reasonable price new is basically unheard of, and we suggest shooting for a newer 2000-series if you refuse to buy anything short of brand new hardware.
 
 <section style="width: 100%">
-        <h3>We may receive compensation when you use Coinmama. Please visit Coinmama for its exact pricing terms.</h3>
           <div style="display: flex">
            <div style="flex: 1 200% 0;">
                <h3>PROS</h3>
