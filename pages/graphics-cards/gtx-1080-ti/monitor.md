@@ -100,7 +100,7 @@ For lower resolutions your refresh rate can be anywhere from 60Hz, to 75Hz, to e
 Higher resolutions need a much higher refresh rate to keep up with the larger image processing.
 
 ### FreeSync and G-Sync
-![freesync vs gsync](/img/gpu/1080ti/monitor/freesync-vs-gsync.jpg){: .img-right .img-small}
+![freesync vs gsync](/img/gpu/1080ti/monitor/freesync-vs-gsync.png){: .img-right .img-small}
 
 FreeSync and G-Sync are both very similar processes that stem from an old display option for 3D games called V-Sync. 
 
