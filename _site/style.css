@@ -1798,8 +1798,8 @@ tr {
 }
 .pros-cons-container .img-check {
   width: 24px;
-  margin: unset; 
-    display: unset;
+  margin: 0;
+  display: inline;
 }
 .pros-cons-container .content-link {
   color: #2579c6 !important;
