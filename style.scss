@@ -1769,3 +1769,89 @@ blockquote p {
       text-decoration: none;
     }
 }
+
+.section-pros-cons {
+  background: #f8f8f8;
+  margin-top: 50px;
+  padding: 50px;
+}
+.pros-cons-container {
+
+}
+.pros-cons-container .title-text {
+  color: #333333;
+  font-size: 25px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.pros-cons-container .content-text {
+  color: #333333;
+  font-size: 25px;
+  /*font-weight: bold;*/
+  /*text-transform: uppercase;*/
+}
+.pros-cons-container .img-check {
+  width: 24px;
+}
+.pros-cons-container .content-link {
+  color: #2579c6 !important;
+  text-decoration: none;
+}
+.pros-cons-container .content-link:hover {
+  color: #307000 !important;
+  cursor: pointer;
+}
+.tabs-container {
+  margin-top: 50px;
+}
+.tab-btn {
+  /*text-align: center;*/
+  border-right: 1px solid #c3c3c3;
+  margin-top: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.tab-active {
+  /*background: #c8c8c8*/
+}
+.tab-btn:hover {
+  /*background: #e8e8e8;*/
+  cursor: pointer;
+}
+.tab-btn:last-child {
+  border-right: none;
+}
+.tab-btn .tab-img {
+  height: 20px;
+}
+.tab-btn .tab-img-text {
+  font-size: 20px;
+  color: #333333;
+  margin: 0px;
+}
+.tab-btn .tab-text {
+  color: #333333;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 0;
+}
+@media (max-width: 1200px) {
+  .tab-btn .tab-text {
+    font-size: 20px;
+  }
+}
+@media (max-width: 766px) {
+  .tab-btn:nth-child(3) {
+    border-right: none;
+  }
+}
+@media (max-width: 576px) {
+  .tab-btn {
+    text-align: center;
+    border-bottom: 1px solid #c3c3c3;
+    border-right: none;
+  }
+  .tab-btn:last-child {
+    border-bottom: none;
+  }
+}
