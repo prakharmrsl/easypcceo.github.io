@@ -24,7 +24,7 @@ Buy a power supply with too much wattage?
 
 You'll needlessly spend extra dollars that you could be allocating towards other aspects of your computer.
 
-If you want the best power supply for the GTX 1080 Ti, we recommend the [Corsair RM650x](https://amzn.to/2ocV00Y){: target="_blank"}. It has plenty of power, it's fully modular, and its 80+ Gold certification makes it incredibly power efficient. 
+If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/), we recommend the [Corsair RM650x](https://amzn.to/2ocV00Y){: target="_blank"}. It has plenty of power, it's fully modular, and its 80+ Gold certification makes it incredibly power efficient. 
 
 <div id="our-pick" class="featured-info-box">
 <span>Our Pick</span>
