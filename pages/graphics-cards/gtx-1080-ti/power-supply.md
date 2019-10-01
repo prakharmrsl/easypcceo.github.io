@@ -234,7 +234,7 @@ This does come with one added benefit, however, in that the cost also reflects t
 
 We wrote an awesome guide abou whether or not you need a modular power supply, which you can read by clicking [here](/need-modular-power-supply/). 
 
-### Power Supply Wattage
+## Power Supply Wattage
 
 A power supply’s wattage is fairly self-explanatory. 
 
@@ -242,7 +242,7 @@ Whatever wattage your PSU is rated for, is the maximum power output it can susta
 
 Don’t go thinking you can pair a 400W power supply with a system drawing 400W though, because any fluctuation that might put that power draw above your PSU’s limit can fatally damage your components. 
 
-### Efficiency Rating
+## Efficiency Rating
 
 The efficiency rating of a power supply is just what the name implies; a rating on how power efficient a power supply is. 
 
