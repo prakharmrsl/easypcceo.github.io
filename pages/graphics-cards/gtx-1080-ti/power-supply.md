@@ -32,13 +32,13 @@ If you want the best power supply for the GTX 1080 Ti, we recommend the [Corsair
 <div class="text">
 <h2>Corsair RM650x</h2>
 <h3>Fully-Modular Power Supply</h3>
-<p>This 80+ Gold ceritifed power supply is an absolute monster. Thanks to its fully-modular design, the RM650x makes <a href="/cable-management/">cable management</a> a breeze, and it has more than enough power to run not one, but two GTX 1080 Ti's at the same time. 
+<p>This 80+ Gold ceritifed power supply is an absolute monster. Thanks to its fully-modular design, the RM650x makes <a href="/cable-management/">cable management</a> a breeze, and it has more than enough power to run not one, but two GTX 1080 Ti's at the same time.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price on Amazon</a>
 </div>
 </div>
 </div>
-</div>
+</div> 
 
 If you’ve decided to opt for a fully-modular power supply for whatever reason, it’s hard to go wrong with Corsair’s RMx series of PSUs.
 
