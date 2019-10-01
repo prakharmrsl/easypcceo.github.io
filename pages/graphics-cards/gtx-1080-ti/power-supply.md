@@ -171,6 +171,14 @@ At 1600 watts with a mouthwatering 80+ Titanium rating, the 1600 T2 provides ple
 
 If you are running a smaller rig we suggest opting for the 1000 T2 or the 850 T2 since they provide the same great reliability as the 1600 without the extra wattage or cost.
 
+## Power Supplies: How to Make The Right Choice
+
+Choosing the right power supply can be tricky – luckily, this video is here to help: 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/sThQTgDfjVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Types of Power Supplies
 
 There are three different types of power supplies:
