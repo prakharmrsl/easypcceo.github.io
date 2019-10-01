@@ -238,7 +238,7 @@ What’s the bottom line here?
 
 That’s what you should look for in a GPU. 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-<link rel="stylesheet" type="text/css" href="/style.css">
+<!-- <link rel="stylesheet" type="text/css" href="/style.css"> -->
 <section class="section-pros-cons container">
 	<div class="pros-cons-container row">
 		<!-- <div class="row"> -->
