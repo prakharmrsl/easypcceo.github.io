@@ -68,7 +68,7 @@ So, strap in and let’s begin!
 Now let’s take a look at each graphics card one by one. 
 
 ### GTX 1080 Ti 
-<img alt="gtx 1080 ti graphics card" class="img-right img-small" src="/img/gpu/gtx-1080ti.png" />
+<img alt="gtx 1080 ti graphics card" class="img-right img-small" src="/img/gpu/1080ti-example.jpg" />
 
 The GTX 1080 Ti is a monster – if you want to max out just about everything in 1440p with ease, the GTX 1080 Ti is for you. 
 
@@ -77,7 +77,7 @@ Packing performance often rivaling the Titan XP, this graphics card is reasonabl
 Packing 3584 CUDA cores, 224 texture units and 88ROPs, it ships with just a tad bit less VRAM than the Titan X. Still, this is the fastest of Nvidia’s Pascal cards, and will be able to handle anything you throw at it. 
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2mFG8rs">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ntt6gV">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/">Read Review</a>
 </div>
 
