@@ -16,7 +16,7 @@ meta: "Buying the best power supply for the GTX 1080 Ti has never been easier."
 
 Your power supply can make or break your PC. 
 
-Grab a power supply with a wattage that’s too low? 
+Grab a power supply with a [wattage](https://www.energuide.be/en/questions-answers/what-do-watt-and-kwh-mean/121/){: target="_blank"} that’s too low? 
 
 You might overdraw power and kill your new power supply, if not your other components as well. 
 
@@ -47,7 +47,7 @@ If you’ve decided to opt for a fully-modular power supply for whatever reason,
 
 The RM650x 650W PSU provides enough power for most, if not all, 1080 Ti-based systems. 
 
-If that’s not the case for you, however, feel free to opt for the RM750x or RM850x if you really think you need it.
+If that’s not the case for you, however, feel free to opt for the [RM750x](https://amzn.to/2o6PmgF){: target="_blank"} or [RM850x](https://amzn.to/2oYIC4X){: target="_blank"} if you really think you need it.
 
 650 watts is most plenty for any system – even with a 1080 Ti – and can be overkill at times. 
 
@@ -161,7 +161,7 @@ But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and
 ## Powering a GTX 1080 Ti Crypto Mining Rig
 ![gtx 1080 ti mining rig](/img/gpu/1080ti/power-supply/1080-ti-mining-rig.jpg){: .img-right .img-small}
 
-In some cases, you may be looking to use your 1080 Ti for cryptocurrency mining instead and don’t worry we’ve got you covered with the EVGA Supernova 1600 T2.
+In some cases, you may be looking to use your 1080 Ti for [cryptocurrency mining](https://www.webopedia.com/TERM/C/cryptocurrency-mining.html){: target="_blank"} instead and don’t worry we’ve got you covered with the EVGA Supernova 1600 T2.
 
 The quality of your power supply when crypto mining is absolutely detrimental to success. 
 
@@ -216,13 +216,15 @@ Semi-modular power supplies are what we recommend for any build since they’re 
 ### Fully-Modular
 ![fully modular power supply example](/img/gpu/1080ti/power-supply/fully-modular.jpg){: .img-right .img-small}
 
-Finally, we reach the Fully-Modular power supply options.
+Finally, we reach the fully-modular power supply options.
 
-Fully-modular power supplies are for the user that absolutely needs maximum possible customization because in a Fully-modular power supply, every cable has the ability to be removed from the power supply. 
+Fully-modular power supplies are for the user that absolutely needs maximum possible customization because with a fully-modular power supply, you can remove every cable from the power supply as you wish. 
 
-Unfortunately, this does mean that the extra engineering that goes into these power supplies can be explicitly seen in the cost as Fully-modular power supplies cost a helluva lot more than the other two types. 
+Unfortunately, this does mean that the extra engineering that goes into these power supplies can be explicitly seen in the cost as fully-modular power supplies cost a helluva lot more than the other two types. 
 
 This does come with one added benefit, however, in that the cost also reflects their reliability.
+
+We wrote an awesome guide abou whether or not you need a modular power supply, which you can read by clicking [here](/need-modular-power-supply/). 
 
 ### Power Supply Wattage
 
