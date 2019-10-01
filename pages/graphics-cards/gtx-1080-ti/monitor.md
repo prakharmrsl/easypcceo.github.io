@@ -32,7 +32,114 @@ In this post, we're going to take a look at the top 3 best monitors for your 108
 
 After all, it'd be a shame for you to buy such an awesome card, only to waste that performance on a low quality monitor. 
 
-Let's jump in! 
+If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [LG 32GK650F-B](https://amzn.to/2mf02cq){: target="_blank"}. It's a stunning 1440p monitor with an impressive refresh rate and a great price. 
+
+<div id="runner-up" class="featured-info-box">
+<span>Our Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2n8DMBo"><img alt="best g sync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a>
+</div>
+<div class="text">
+<h2>ASUS ROG PG279Q</h2>
+<h3>Best Monitor for GTX 1080 Ti</h3>
+<p>This stunning 1440p monitor is an absolute beast. If you're rocking a 1080 Ti, you'll want a monitor like this with a stunning display.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2n8DMBo">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div> 
+
+If you’ve decided that [G-Sync](https://www.tomshardware.com/reviews/nvidia-gsync-monitor-glossary-definition-explained,6008.html){: target="_blank"} supremacy is the route for you, then I have an amazing pick for you in this category. 
+
+In the spot for best G-Sync monitor for 1080 Ti gaming is ASUS’ ROG PG279Q gaming monitor.
+
+Now, now, I’m sure you’re dumbfounded by the ridiculously high price for this gaming monitor, and if I’m gonna be honest I don’t exactly agree with it, but let me try to explain. 
+
+This monitor has a couple more features than meets the eye.
+
+Although the resolution of the PG279Q falls short of our previous pick by about 5-inches, it does pack a bigger punch in the refresh rate category while also matching the 32GK650F-B’s 1440p resolution. 
+
+Unlike LG’s monitor, Asus’ provides a refresh rate of 165Hz, crazy right? 
+
+On top of that this monitor also sports an IPS panel, meaning it has noticeably better colors and viewing ranges when compared to non-IPS displays.
+
+This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.
+
+<div class="btn-center">
+<a target="_blank" class="big-button-middle" href="https://amzn.to/2n8DMBo">Check Price</a>
+</div>
+
+<div id="our-pick" class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a>
+</div>
+<div class="text">
+<h2>LG 32GK650F-B</h2>
+<h3>32-Inch Gaming Monitor</h3>
+<p>Coming in with a much lower price tag than our top pick above, this monitor punches above its weight class in terms of performance. Beautiful colors, a high refresh rate, and an incredibly low price make this monitor our second favorite on the list.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2mf02cq">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div> 
+
+Grabbing our spot for the top [FreeSync](https://www.digitaltrends.com/computing/what-is-freesync/){: target="_blank"} monitor to pair with your GTX 1080 Ti is the LG 32GK650F-B. 
+
+Best of all, it's only half the price of our first pick! 
+
+Sure, it’s a mouthful of a name but it is one of, if not the best monitor out there for 1440p gaming with FreeSync support.
+
+The huge 32-inch 1440p display won’t leave you wanting more unless maybe you’re just insatiable, and playing any game at this resolution allows for an amazingly eye-opening experience for anyone who hasn’t experienced it before.
+
+That’s not even all! On top of sporting that massive display, this monitor runs at a native 144Hz refresh rate. 
+
+This allows for a completely seamless and smooth gameplay experience, especially when paired with its included FreeSync support.
+
+<div class="btn-center">
+<a target="_blank" class="big-button-middle" href="https://amzn.to/2mf02cq">Check Price</a>
+</div>
+
+<div id="also-awesome" class="featured-info-box">
+<span>Also Awesome</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="awesome budget monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a>
+</div>
+<div class="text">
+<h2>AOC 22V2H</h2>
+<h3>Cheap Monitor for GTX 1080 Ti</h3>
+<p>This one is our pick for gamers on a budget, just in case you spent a bit too much on your new 1080 Ti. Don't worry, this budget pick is still an awesome choice for the money!</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2n7zhaf">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div> 
+
+Our cheapest monitor pick isn’t really too much to gawk at, but hey what do you expect from a cheap monitor. 
+
+Our cheapest pick tonight is the AOC 22V2H. At least its name doesn’t make my tongue try to hang itself.
+
+Out of all of our picks this, of course, has the lowest specs of the bunch, but with the tradeoff of being less than $100 on Amazon. 
+
+Alongside its relatively small 22-inch size and thickness of only 8mm, it comes with the added benefit of including an IPS panel with impossibly small bezels for this price point, so that’s a definite plus in our book. 
+
+Unfortunately, you’ll only be able to run at a measly 1080p, but this is the price we pay for, well, price. 
+
+And in comparison to the other monitors on our list the 75Hz refresh rate seems a bit lacking, but rest assured 75Hz is plenty for a smooth experience.
+
+Support for HDMI 1.4 is awesome, and whether or not you consider the included VGA port as a bonus is really up to you. 
+
+Though, astoundingly, this El Cheapo monitor has managed to include FreeSync support amongst its other features. So you can, once again, expect a smooth stutterless experience.
+
+<div class="btn-center">
+<a target="_blank" class="big-button-middle" href="https://amzn.to/2n7zhaf">Check Price</a>
+</div>
 
 ## 3 Best Monitors for 1080 Ti Graphics Card
 
@@ -75,70 +182,9 @@ Let's jump in!
 	</tr>
 </table>
 
-### Best FreeSync Monitor: LG 32GK650F-B
-![best freesync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/lg-32gk.jpg){: .img-right .img-small}
-
-Grabbing our spot for the top [FreeSync](https://www.digitaltrends.com/computing/what-is-freesync/){: target="_blank"} monitor to pair with your GTX 1080 Ti, at $329.99USD on Amazon, is the LG 32GK650F-B. 
-
-Sure, it’s a mouthful of a name but it is one of, if not the best monitor out there for 1440p gaming with FreeSync support.
-
-The huge 32-inch 1440p display won’t leave you wanting more unless maybe you’re just insatiable, and playing any game at this resolution allows for an amazingly eye-opening experience for anyone who hasn’t experienced it before.
-
-That’s not even all! On top of sporting that massive display, this monitor runs at a native 144Hz refresh rate. 
-
-This allows for a completely seamless and smooth gameplay experience, especially when paired with its included FreeSync support.
-
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2mf02cq">Check Price</a>
-</div>
-
-### Best G-Sync Monitor: ASUS ROG PG279Q
-![best g sync monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg){: .img-right .img-small}
-
-If you’ve decided that [G-Sync](https://www.tomshardware.com/reviews/nvidia-gsync-monitor-glossary-definition-explained,6008.html){: target="_blank"} supremacy is the route for you, then do I have an amazing pick for you on this category. 
-
-In the spot for best G-Sync monitor for 1080 Ti gaming, coming in at a whopping $609.99USD is Asus’ ROG PG279Q gaming monitor.
-
-Now, now, I’m sure you’re dumbfounded by the ridiculously high price for this gaming monitor, and if I’m gonna be honest I don’t exactly agree with it, but let me try to explain. 
-
-This monitor has a couple more features than meets the eye.
-
-Although the resolution of the PG279Q falls short of our previous pick by about 5-inches, it does pack a bigger punch in the refresh rate category while also matching the 32GK650F-B’s 1440p resolution. 
-
-Unlike LG’s monitor, Asus’ provides a refresh rate of 165Hz, crazy right? 
-
-On top of that this monitor also sports an IPS panel, meaning it has noticeably better colors and viewing ranges when compared to non-IPS displays.
-
-This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.
-
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2n8DMBo">Check Price</a>
-</div>
-
-### Cheapest Monitor: AOC 22V2H
-![cheapest monitor for gtx 1080 ti](/img/gpu/1080ti/monitor/aoc-22v2h.jpg){: .img-right .img-small}
-
-Our cheapest monitor pick isn’t really too much to gawk at, but hey what do you expect from a cheap monitor. 
-
-Our cheapest pick tonight is the AOC 22V2H. At least its name doesn’t make my tongue try to hang itself.
-
-Out of all of our picks this, of course, has the lowest specs of the bunch, but with the tradeoff of only coming in at $95.99 on Amazon. 
-
-Alongside its relatively small 22-inch size and thickness of only 8mm, it comes with the added benefit of including an IPS panel with impossibly small bezels for this price point, so that’s a definite plus in our book. 
-
-Unfortunately, you’ll only be able to run at a measly 1080p, but this is the price we pay for, well, price. 
-
-And in comparison to the other monitors on our list the 75Hz refresh rate seems a bit lacking, but rest assured 75Hz is plenty for a smooth experience.
-
-Support for HDMI 1.4 is awesome, and whether or not you consider the included VGA port as a bonus is really up to you. 
-
-Though, astoundingly, this El Cheapo monitor has managed to include FreeSync support amongst its other features. So you can, once again, expect a smooth stutterless experience.
-
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2n7zhaf">Check Price</a>
-</div>
-
 ## How to Choose The Best Monitor for Your GPU (Video)
+
+Choosing the right monitor for your setup can be difficult – luckily, this video is here to help: 
 
 <div class="vid-container">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLTa0BzxFKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
