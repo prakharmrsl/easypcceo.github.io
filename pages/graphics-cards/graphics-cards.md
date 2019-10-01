@@ -238,44 +238,44 @@ What’s the bottom line here?
 
 That’s what you should look for in a GPU. 
 
-<section class="section-pros-cons container">
-	<div class="pros-cons-container row">
+<section class="section-pros-cons">
+	<div class="pros-cons-container">
 		<!-- <div class="row"> -->
-			<div class="pros-container col-md-6">
+			<div class="pros-container">
 				<p class="title-text">pros</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> High liquidity and buying limits</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> Easy way for newcomers to get bitcoins</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> "Instant Buy" option available with <a class="content-link" href="/">debit card</a></p>
 			</div>
-			<div class="cons-container col-md-6">
+			<div class="cons-container">
 				<p class="title-text">cons</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/xmark.png"/> <a class="content-link" href="/">Purchases made with bank transfer</a> can take up to 5 days to complete</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/xmark.png"/> Coinbase my track how and where you spend your bitcoins</p>
 			</div>	
 		<!-- </div> -->
 	</div>
-	<div class="tabs-container row">
-	    <div class="tab-btn tab-active col-md-2 col-sm-4 col-xs-6" onclick="openCity(event,'core')">
+	<div class="tabs-container">
+	    <div class="tab-btn tab-active" onclick="openCity(event,'core')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/core.png"/> Core Clock</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
-	    <div class="tab-btn col-md-2 col-sm-4  col-xs-6" onclick="openCity(event,'boost')">
+	    <div class="tab-btn" onclick="openCity(event,'boost')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/boost.png"/> Boost Clock</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
-	    <div class="tab-btn col-md-2 col-sm-4  col-xs-6" onclick="openCity(event,'length')">
+	    <div class="tab-btn" onclick="openCity(event,'length')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/length.png"/> Length</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
-	    <div class="tab-btn col-md-2 col-sm-4  col-xs-6" onclick="openCity(event,'fan')">
+	    <div class="tab-btn" onclick="openCity(event,'fan')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/fan.png"/> Cooling Fans</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
-	    <div class="tab-btn col-md-2 col-sm-4  col-xs-6" onclick="openCity(event,'memory')">
+	    <div class="tab-btn" onclick="openCity(event,'memory')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/memory.png"/> Memory</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
-	    <div class="tab-btn col-md-2 col-sm-4 col-xs-6" onclick="openCity(event,'port')">
+	    <div class="tab-btn" onclick="openCity(event,'port')">
 	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/port.png"/> Ports</p>
 	    	<p class="tab-text">1.15GHz</p>
 	    </div>
