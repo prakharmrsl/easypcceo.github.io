@@ -222,15 +222,17 @@ eBay is known for its shady deals and rip-offs, but we can give you some ideas a
 **3.** Make sure you read the description so that you know exactly what you are buying and can make a valid return request if the item is delivered not as described
 
 ## Best Monitor for GTX 1080 Ti 
-
-![best monitor for GTX 1080 ti](/img/gpu/1080ti/monitor/best-monitor-gtx-1080-ti.jpg){: .img-right .img-small}
+<img alt="best freesync monitor for gtx 1080 ti" class="img-right img-small" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" />
 
 When choosing a monitor for your 1080 Ti system, you would probably think you should get the most decked out high-end monitor you can possibly get right? Once again, the wool has been pulled over your eyes my friend.
 
 There really is no need to head anywhere past 1440p on a 1080Ti for games unless you absolutely cannot have anything but the greatest 4k quality. So we just suggest sticking to a high refresh rate 1440p monitor.
 
-<div class="btn-center">
-<a class="big-button-middle" href="/graphics-cards/gtx-1080-ti/monitor/">Read Our Guide</a>
+Our top pick is the [ASUS ROG PG279Q](https://amzn.to/2mAqD3S){: target="_blank"}. It's an awesome 1440p monitor with Freesync, stunning visuals, an impressive refresh rate, and a great price tag. 
+
+<div class="buttons-wrapper">
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2mAqD3S">Check Price</a>
+<a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/monitor/">Read Our Guide</a>
 </div>
 
 ## Best CPU for GTX 1080 Ti 
@@ -249,8 +251,9 @@ The GTX 1080 Ti is definitely one power hungry piece of hardware, but that's to 
 
 The minimum required PSU wattage for most 1080 Ti's is a massive 600W to 650W. Now, this doesn't mean the 1080 Ti draws 600W to 650W of power, it just means that on average builds that include a 1080 Ti have a total power draw nearing that wattage.
 
-With that said, our chosen power supply for the best power supply for a 1080 Ti is the 2018 model of the Corsair RMX series' RM650x 80+ gold rated fully modular power supply.
+With that said, our chosen power supply for the best power supply for a 1080 Ti is the 2018 model of the Corsair RMX series' [RM650x](https://amzn.to/2ocV00Y){: target="_blank"} 80+ gold rated fully modular power supply.
 
-<div class="btn-center">
-<a class="big-button-middle" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
+<div class="buttons-wrapper">
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price</a>
+<a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
 </div>
