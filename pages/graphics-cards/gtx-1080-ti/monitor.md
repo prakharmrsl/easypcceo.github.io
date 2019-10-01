@@ -67,10 +67,6 @@ On top of that this monitor also sports an IPS panel, meaning it has noticeably 
 
 This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.
 
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2n8DMBo">Check Price</a>
-</div>
-
 <div id="our-pick" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
@@ -99,10 +95,6 @@ The huge 32-inch 1440p display won’t leave you wanting more unless maybe you�
 That’s not even all! On top of sporting that massive display, this monitor runs at a native 144Hz refresh rate. 
 
 This allows for a completely seamless and smooth gameplay experience, especially when paired with its included FreeSync support.
-
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2mf02cq">Check Price</a>
-</div>
 
 <div id="also-awesome" class="featured-info-box">
 <span>Also Awesome</span>
@@ -136,10 +128,6 @@ And in comparison to the other monitors on our list the 75Hz refresh rate seems 
 Support for HDMI 1.4 is awesome, and whether or not you consider the included VGA port as a bonus is really up to you. 
 
 Though, astoundingly, this El Cheapo monitor has managed to include FreeSync support amongst its other features. So you can, once again, expect a smooth stutterless experience.
-
-<div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://amzn.to/2n7zhaf">Check Price</a>
-</div>
 
 ## 3 Best Monitors for 1080 Ti Graphics Card
 
