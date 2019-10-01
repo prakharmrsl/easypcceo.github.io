@@ -11,6 +11,9 @@ meta: "Buying the best power supply for the GTX 1080 Ti has never been easier."
 	<span>Jacob Tuwiner</span>
 </div>
 
+* TOC
+{: toc}
+
 Your power supply can make or break your PC. 
 
 Grab a power supply with a wattage that’s too low? 
