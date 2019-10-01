@@ -4,6 +4,7 @@ permalink: "/graphics-cards/gtx-1080-ti/monitor/"
 layout: page
 seotitle: "3 Best Monitors for GTX 1080 Ti in 2019 (Good Deals)" 
 meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're wasting your money!"
+redirect_from: /best-1440p-gaming-monitors/
 ---
 
 <div class="author-line">
