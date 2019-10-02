@@ -436,17 +436,15 @@ It also features a nice side panel window that allows you to display your compon
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Two seperate levels</li>
 		<li>Extra features</li>
 		<li>Airflow</li>
-		<li>Design</li>
+		<li>Dual-Chamber Design</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
         <li>No integrated fan controller</li>
-        <li></li>
       </ul> 
     </div>
   </div>
