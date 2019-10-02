@@ -1808,8 +1808,6 @@ blockquote p {
 .pros-cons-container .content-text {
   color: #333333;
   font-size: 25px;
-  /*font-weight: bold;*/
-  /*text-transform: uppercase;*/
 }
 .pros-cons-container .img-check {
   width: 24px;
@@ -1826,12 +1824,9 @@ blockquote p {
 }
 .tabs-container {
   margin-top: 50px;
-  /*display: ;*/
-  /*float: left;*/
   width: 100%;
 }
 .tab-btn {
-  /*text-align: center;*/
   border-right: 1px solid #c3c3c3;
   margin-top: 15px;
   padding: 4%;
@@ -1841,10 +1836,9 @@ blockquote p {
   display: inline-block;;
 }
 .tab-active {
-  /*background: #c8c8c8*/
+
 }
 .tab-btn:hover {
-  /*background: #e8e8e8;*/
   cursor: pointer;
 }
 .tab-btn:last-child {
