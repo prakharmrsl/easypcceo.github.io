@@ -1770,17 +1770,37 @@ blockquote p {
     }
 }
 
+
+
+
+
+
+
+
+
+
+
+
 .section-pros-cons {
   background: #f8f8f8;
   margin-top: 50px;
   padding: 50px;
 }
 .pros-cons-container {
+  display: flex;;
+}
+
+.pros-container, .cons-container {
+  width: 50%;
+  padding-right: 10px;
 
 }
+
 .pros-cons-container .title-text {
   color: #333333;
   font-size: 25px;
+  width: 50%;
+  display: inline-block;
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -1792,6 +1812,8 @@ blockquote p {
 }
 .pros-cons-container .img-check {
   width: 24px;
+  margin: 0;
+  display: inline;
 }
 .pros-cons-container .content-link {
   color: #2579c6 !important;
@@ -1803,13 +1825,17 @@ blockquote p {
 }
 .tabs-container {
   margin-top: 50px;
+  display: flex;
 }
 .tab-btn {
   /*text-align: center;*/
   border-right: 1px solid #c3c3c3;
   margin-top: 15px;
+  padding: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
+
+  width: 16.66%;
 }
 .tab-active {
   /*background: #c8c8c8*/
@@ -1823,6 +1849,8 @@ blockquote p {
 }
 .tab-btn .tab-img {
   height: 20px;
+  margin: unset; 
+    display: unset;
 }
 .tab-btn .tab-img-text {
   font-size: 20px;
@@ -1835,12 +1863,26 @@ blockquote p {
   font-weight: bold;
   margin: 0;
 }
+@media (max-width: 768px) {
+  .pros-cons-container {
+    display: block;
+  }
+  .pros-container, .cons-container {
+    width: 100%;
+  }
+  .tabs-container {
+    /*display: block;*/
+  }
+  .tab-btn {
+    width: 33.33%;
+  }
+}
 @media (max-width: 1200px) {
   .tab-btn .tab-text {
     font-size: 20px;
   }
 }
-@media (max-width: 766px) {
+@media (max-width: 768px) {
   .tab-btn:nth-child(3) {
     border-right: none;
   }
