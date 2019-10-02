@@ -1780,8 +1780,6 @@ blockquote p {
 
 
 
-
-
 .section-pros-cons {
   background: #f8f8f8;
   margin-top: 50px;
@@ -1808,8 +1806,6 @@ blockquote p {
 .pros-cons-container .content-text {
   color: #333333;
   font-size: 25px;
-  /*font-weight: bold;*/
-  /*text-transform: uppercase;*/
 }
 .pros-cons-container .img-check {
   width: 24px;
@@ -1826,12 +1822,9 @@ blockquote p {
 }
 .tabs-container {
   margin-top: 50px;
-  /*display: ;*/
-  float: left;
   width: 100%;
 }
 .tab-btn {
-  /*text-align: center;*/
   border-right: 1px solid #c3c3c3;
   margin-top: 15px;
   padding: 10px;
@@ -1841,10 +1834,10 @@ blockquote p {
   display: inline-block;;
 }
 .tab-active {
-  /*background: #c8c8c8*/
+
 }
 .tab-btn:hover {
-  /*background: #e8e8e8;*/
+
   cursor: pointer;
 }
 .tab-btn:last-child {
@@ -1875,7 +1868,7 @@ blockquote p {
     width: 100%;
   }
   .tabs-container {
-    /*display: block;*/
+
   }
   .tab-btn {
     width: 33.33%;
