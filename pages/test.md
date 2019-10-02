@@ -18,19 +18,14 @@ meta: "test"
 
 Here's the deal:
 
-If you're looking for the best and the smallest ATX case money can buy, you've come to the right place. 
+A case will make or break a gaming PC build. 
 
-I've procured the ultimate "smallest ATX case" list so you can make the best decision when purchasing your next case! 
+You're looking for a small ATX case that still packs a punch – and we've got your back.
 
-By the way, ATX is the largest form factor, so even the smallest ATX cases are going to be somewhat large, if that makes sense. 
+In this guide, we're taking a look at the 11 smallest ATX cases on the market. 
 
-If you really want small, then you should check out the post I wrote about the [smallest micro ATX cases](/budget-pcs/smallest-micro-atx-cases/) on the market. They're just as cool as the cases below, but even smaller!
+But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](https://amzn.to/2oFt85v){: target="_blank"} as the best smallest ATX case. It's got style, performance, and reliability all packed into one affordable package. 
 
-Anyway, *let's get started:* 
-
-## Smallest ATX Case Reviews
-
-This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
 
 <div id="corsair-carbide-series-400c" class="featured-info-box">
 <span>OUR PICK</span>
@@ -354,6 +349,127 @@ It also features a nice side panel window that allows you to display your compon
 <div class="btn-center">
 	<a target="_blank" class="big-button-center" href="https://amzn.to/2RFXJcK">Read Reviews on Amazon</a>
 </div>
+
+## Top 11 Smallest ATX Case Options of 2019 
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Case</th>
+		<th>Image</th>
+		<th>Benefit</th>
+		<th>More</th>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
+		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Clean Design</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
+		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Fantastic Cable Management</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
+		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Smart Case</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
+		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Perfect for Travel</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
+		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Slim ATX Case Design</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#core-g3">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2Q2SZSu">RIOTORO CR1080</a></td>
+		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img class="table-image" alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Cheap</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#riotoro-1080">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2NRZnsY">Rosewill ATX Slim</a></td>
+		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Good price</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#rosewill-slim">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2LGEpuv">Corsair Crystal 460X</a></td>
+		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img class="table-image" alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Insane design</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#460x">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/32DKkXN">Rosewill Cullinan</a></td>
+		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Compact</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#rosewill-cullinan">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2NQOasu">Corsair Carbide 270R</a></td>
+		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img class="table-image" alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Performance</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#carbide-270r">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2N8idfU">be quiet! Pure Base 600</a></td>
+		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img class="table-image" alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Silent</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#be-quiet-pure-base-600">View</a></td>
+	</tr>
+</table>
 
 <div id="cooler-master-haf-xb-ii-evo" class="featured-info-box">
 <span>Portability Pick</span>
@@ -1160,133 +1276,6 @@ Unfortunately, that's one of the biggest issues with this model - if you are goi
 <div class="btn-center">
 	<a target="_blank" class="big-button-center" href="https://amzn.to/2N8idfU">Read Reviews on Amazon</a>
 </div>
-
-## Top 11 Small ATX Case Options
-
-When it comes to building a gaming PC, choosing the right case is incredibly important. 
-
-Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
-
-Anyway, finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
-
-<table class="basic-table" align="center">
-	<tr>
-		<th>Case</th>
-		<th>Image</th>
-		<th>Benefit</th>
-		<th>More</th>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Clean Design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
-		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Fantastic Cable Management</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
-		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Smart Case</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Perfect for Travel</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim ATX Case Design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#core-g3">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2Q2SZSu">RIOTORO CR1080</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img class="table-image" alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Cheap</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#riotoro-1080">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2NRZnsY">Rosewill ATX Slim</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Good price</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#rosewill-slim">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2LGEpuv">Corsair Crystal 460X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img class="table-image" alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Insane design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#460x">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/32DKkXN">Rosewill Cullinan</a></td>
-		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Compact</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#rosewill-cullinan">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2NQOasu">Corsair Carbide 270R</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img class="table-image" alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Performance</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#carbide-270r">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2N8idfU">be quiet! Pure Base 600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img class="table-image" alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Silent</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#be-quiet-pure-base-600">View</a></td>
-	</tr>
-</table>
 
 ## Case Buying Guide
 
