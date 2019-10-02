@@ -257,7 +257,7 @@ That’s what you should look for in a GPU.
 	<div class="tabs-container">
 	    <div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/core.png"/> Core Clock
+	    		<img class="tab-img" src="/img/icons/core.png"/> Core Clock
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
@@ -265,7 +265,7 @@ That’s what you should look for in a GPU.
 	    </div>
 	    <div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/boost.png"/> Boost Clock
+	    		<img class="tab-img" src="/img/icons/boost.png"/> Boost Clock
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
@@ -273,7 +273,7 @@ That’s what you should look for in a GPU.
 	    </div>
 	    <div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/length.png"/> Length
+	    		<img class="tab-img" src="/img/icons/length.png"/> Length
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
@@ -281,7 +281,7 @@ That’s what you should look for in a GPU.
 	    </div>
 		<div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/fan.png"/> Cooling Fans
+	    		<img class="tab-img" src="/img/icons/fan.png"/> Cooling Fans
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
@@ -289,7 +289,7 @@ That’s what you should look for in a GPU.
 	    </div>
 		<div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/memory.png"/> Memory
+	    		<img class="tab-img" src="/img/icons/memory.png"/> Memory
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
@@ -297,7 +297,7 @@ That’s what you should look for in a GPU.
 	    </div>
 		<div class="tab-btn">
 	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="./img/port.png"/> Ports
+	    		<img class="tab-img" src="/img/icons/port.png"/> Ports
 	    	</div>
 	    	<div class="tab-btn-data">
 	    		1.15GHz
