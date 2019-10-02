@@ -1,14 +1,14 @@
 ---
-title: The Best Small ATX Cases of 2019  
+title: "Best Compact ATX Cases of 2019"
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "11 Smallest ATX Case Reviews: Small & Slim (2019)" 
+seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2019)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
 <div class="author-line">
-	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
-	<span>Jacob Tuwiner</span>
+  <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+  <span>Jacob Tuwiner</span>
 </div>
 
 ![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
@@ -31,62 +31,62 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
 ## Top 5 Smallest ATX Case Options of 2019 
 
 <table class="basic-table" align="center">
-	<tr>
-		<th>Case</th>
-		<th>Image</th>
-		<th>Benefit</th>
-		<th>See Case</th>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Clean Design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
-		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Fantastic Cable Management</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
-		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Smart Case</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Perfect for Travel</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim ATX Case Design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#core-g3">View</a></td>
-	</tr>
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>Benefit</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Clean Design</li>
+      </ul>
+    </td>
+    <td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Fantastic Cable Management</li>
+      </ul>
+    </td>
+    <td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Smart Case</li>
+      </ul>
+    </td>
+    <td><a class="big-button" href="#nzxt-h500i">View</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Perfect for Travel</li>
+      </ul>
+    </td>
+    <td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Slim ATX Case Design</li>
+      </ul>
+    </td>
+    <td><a class="big-button" href="#core-g3">View</a></td>
+  </tr>
 </table>
 
 <div id="corsair-carbide-series-400c" class="featured-info-box">
@@ -189,7 +189,7 @@ Although it's not flashy, when you step into the room, the case has a presence.
 Its minimalistic design is almost graceful in a way – its visual points of interest are subtler compared to other flashy cases with bright lights that are dying for attention. 
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price</a>
 <a class="right-button cta-button learn-button" href="#corsair-carbide-series-400c-review">Read Review</a>
 </div>
 
@@ -215,10 +215,10 @@ Its minimalistic design is almost graceful in a way – its visual points of int
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
         <li>Dual-chamber design</li>
-		<li>Cool temperatures</li>
-		<li>Spacious interior</li>
-		<li>Cable management</li>
-		<li>Design</li>
+    <li>Cool temperatures</li>
+    <li>Spacious interior</li>
+    <li>Cable management</li>
+    <li>Design</li>
       </ul> 
     </div>
     <div class="cons-container"> 
@@ -291,6 +291,8 @@ It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmenta
 
 In order to achieve this feat, Corsair had to widen the chassis. The case is actually using a dual chamber design. 
 
+![corsair carbide series air 540](/img/case/air-540.jpg){: .img-middle}
+
 One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
 
 Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
@@ -302,7 +304,7 @@ Its two compartments keep cables and components neat and tidy, which promotes ai
 The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style. 
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
 <a class="right-button cta-button learn-button" href="#corsair-carbide-series-air-540-review">Read Review</a>
 </div>
 
@@ -328,11 +330,11 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
         <li>Quiet</li>
-		<li>Supports vertically mounted GPUs</li>
-		<li>Spacious interior</li>
-		<li>Cable management</li>
-		<li>Superb layout</li>
-		<li>Two RGB lighting strips</li>
+    <li>Supports vertically mounted GPUs</li>
+    <li>Spacious interior</li>
+    <li>Cable management</li>
+    <li>Superb layout</li>
+    <li>Two RGB lighting strips</li>
       </ul> 
     </div>
     <div class="cons-container"> 
@@ -411,7 +413,7 @@ This case has a sleek white paint job that's minimalistic but super good looking
 It also features a nice side panel window that allows you to display your components, illuminated by the case's RGB lighting.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price on Amazon</a>
 <a class="right-button cta-button learn-button" href="#nzxt-h500i-review">Read Review</a>
 </div>
 
@@ -436,9 +438,9 @@ It also features a nice side panel window that allows you to display your compon
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-		<li>Extra features</li>
-		<li>Airflow</li>
-		<li>Dual-Chamber Design</li>
+    <li>Extra features</li>
+    <li>Airflow</li>
+    <li>Dual-Chamber Design</li>
       </ul> 
     </div>
     <div class="cons-container"> 
@@ -513,7 +515,7 @@ As an added bonus, in case you're always on the go, this case also has nice carr
 That being said, if you're the kind of gamer that likes to have LAN parties, this is the casse for you. 
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
 <a class="right-button cta-button learn-button" href="#cooler-master-haf-xb-evo-review">Read Review</a>
 </div>
 
@@ -538,10 +540,10 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-		<li>Quality design</li>
-		<li>Value for money</li>
-		<li>Low cost</li>
-		<li>Solid construction</li>
+    <li>Quality design</li>
+    <li>Value for money</li>
+    <li>Low cost</li>
+    <li>Solid construction</li>
       </ul> 
     </div>
     <div class="cons-container"> 
@@ -618,7 +620,7 @@ The [cable management has an impact on airflow](/cable-management/), but the cas
 All in all, it's a fantastic case for the money. 
 
 <div class="btn-center">
-	<a target="_blank" class="big-button-center" href="https://amzn.to/2vTJbgT">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2vTJbgT">Read Reviews on Amazon</a>
 </div>
 
 ## Case Buying Guide
@@ -704,7 +706,7 @@ In fact, I'd recommend spending $40 or less.
 ## Corsair Carbide Series 400C Review
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/LNPT0zqS5rc?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/LNPT0zqS5rc?start=6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 The 400C has a clean, modern, and minimalistic design with an entirely steel exterior.
@@ -869,7 +871,7 @@ If you're looking for an affordable and small ATX case, definitely check out Cor
 ## NZXT H500i Review
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/FWIS9ILc3jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FWIS9ILc3jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 The NZXT H500i has a simple design that will exceed your expectations in terms of build quality for its price point. 
