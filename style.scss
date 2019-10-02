@@ -1740,6 +1740,7 @@ blockquote p {
 
 .btn-center {
   text-align: center;
+  margin-top: 30px;
 }
 
 .big-button-middle {
@@ -1911,4 +1912,32 @@ blockquote p {
 
 .tab-btn-title-margin {
   margin-left: 5px;
+}
+
+.big-button-center {
+    background: #64a767 none repeat scroll 0 0;
+    border-radius: 4px;
+    color: #fff;
+    display: inline-block;
+    border: 2px solid #64a767;
+    transition: all .2s;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 15px 20px;
+    font-size: 14px;
+    width: 90%;
+    padding: 10px 15px;
+    @media (max-width: 860px) {
+      font-size: 12px;
+      padding: 5px 10px;
+    }
+    @media (max-width: 640px) {
+      font-size: 12px;
+      padding: 2px 6px;
+    }
+    &:hover {
+      background: rgba(#111, 0);
+      color: #64a767;
+      text-decoration: none;
+    }
 }

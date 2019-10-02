@@ -83,7 +83,6 @@ Now let’s take a look at each graphics card one by one.
 </div>
 </div>
 </div>
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <section class="section-pros-cons">
 	<div class="pros-cons-container">
 		<div class="pros-container"> 
@@ -161,92 +160,6 @@ Packing 3584 CUDA cores, 224 texture units and 88ROPs, it ships with just a tad 
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ntt6gV">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/">Read Review</a>
 </div>
-
-<div id="cpu" class="featured-info-box">
-<span>Runner Up</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2ntt6gV"><img alt="gtx 1080 graphics card" src="/img/gpu/gtx-1080-windforce.png" /></a>
-</div>
-<div class="text">
-<h2>ASUS ROG Strix GTX 1080 Ti OC</h2>
-<h3>Best Graphics Card for 4K</h3>
-<p>The GTX 1080 Ti is a monster – if you want to max out just about everything in 1440p with ease, the GTX 1080 Ti is for you. </p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ntt6gV">Check Price on Amazon</a>
-</div>
-</div>
-</div>
-</div>
-
-<section class="section-pros-cons">
-	<div class="pros-cons-container">
-		<div class="pros-container"> 
-			<div class="pro-con-title">Pros</div> 
-			<ul class="info-list"> 
-				<li>Incredible performance</li> 
-				<li>Crushes 1440p</li> 
-				<li>Can handle 4K and VR</li> 
-			</ul> 
-		</div>
-		<div class="cons-container"> 
-			<div class="pro-con-title">Cons</div> 
-			<ul class="info-list"> 
-				<li>One of the most expensive graphics cards</li> 
-			</ul> 
-		</div>
-	</div>
-	<div class="tabs-container">
-	    <div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/core.png"/><span class="tab-btn-title-margin">Core</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		1569GHz
-	    	</div>
-	    </div>
-	    <div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/boost.png"/><span class="tab-btn-title-margin">Boost</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		1708GHz
-	    	</div>
-	    </div>
-	    <div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/length.png"/><span class="tab-btn-title-margin">Length</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		298mm
-	    	</div>
-	    </div>
-		<div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Fans</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		3
-	    	</div>
-	    </div>
-		<div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/memory.png"/><span class="tab-btn-title-margin">Memory</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		11GB
-	    	</div>
-	    </div>
-		<div class="tab-btn">
-	    	<div class="tab-btn-title">
-	    		<img class="tab-img" src="/img/icons/port.png"/><span class="tab-btn-title-margin">Ports</span>
-	    	</div>
-	    	<div class="tab-btn-data">
-	    		7
-	    	</div>
-	    </div>
- 	</div>		
-</section>
 
 ### GTX 1080 
 <img alt="gtx 1080 graphics card" class="img-right img-small" src="/img/gpu/gtx-1080-windforce.png" />
