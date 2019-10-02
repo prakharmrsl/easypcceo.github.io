@@ -28,155 +28,6 @@ If you really want small, then you should check out the post I wrote about the [
 
 Anyway, *let's get started:* 
 
-## Top 11 Small ATX Case Options
-
-When it comes to building a gaming PC, choosing the right case is incredibly important. 
-
-Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
-
-Anyway, finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
-
-<table class="basic-table" align="center">
-	<tr>
-		<th>Case</th>
-		<th>Image</th>
-		<th>Benefits</th>
-		<th>More</th>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Clean Design</li>
-			<li>Superb Airflow</li>
-			<li>Spacious</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
-		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Compact Case</li>
-			<li>Space Saving Design</li>
-			<li>Fantastic Cable Management</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
-		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Beautiful Design</li>
-			<li>Smart Case</li>
-			<li>Solid Construction</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Small Case, Plenty of Space</li>
-			<li>Perfect for Travel</li>
-			<li>Supports Full-Size CPU Coolers</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim ATX Case Design</li>
-			<li>Side Panel Window</li>
-			<li>Full-Size with Low Profile</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#core-g3">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2Q2SZSu">RIOTORO CR1080</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img class="table-image" alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Cheap</li>
-			<li>Liquid cooling</li>
-			<li>Tiny</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#riotoro-1080">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2NRZnsY">Rosewill ATX Slim</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Expansion slots</li>
-			<li>Good price</li>
-			<li>Spacious</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#rosewill-slim">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2LGEpuv">Corsair Crystal 460X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img class="table-image" alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Insane design</li>
-			<li>Cool LEDs</li>
-			<li>Sturdy</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#460x">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/32DKkXN">Rosewill Cullinan</a></td>
-		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Easy HDD Install</li>
-			<li>Slim</li>
-			<li>Compact</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#rosewill-cullinan">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2NQOasu">Corsair Carbide 270R</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img class="table-image" alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Performance</li>
-			<li>Cable management</li>
-			<li>Performance</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#carbide-270r">View</a></td>
-	</tr>
-	<tr>
-		<td><a href="https://amzn.to/2N8idfU">be quiet! Pure Base 600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img class="table-image" alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Silent</li>
-			<li>Price</li>
-			<li>Looks</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#be-quiet-pure-base-600">View</a></td>
-	</tr>
-</table>
-
 ## Smallest ATX Case Reviews
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
@@ -190,7 +41,7 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 <div class="text">
 <h2>Corsair Carbide Series 400C</h2>
 <h3>Best Small ATX Case</h3>
-<p>The Corsair Carbide Series 400C is hands down our favorite small ATX case.</p>
+<p>The Corsair Carbide Series 400C is hands down our favorite small ATX case. This case is much smaller than the 600C - the case's big brother - thanks to Corsair removing this model's optical drive bays.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price on Amazon</a>
 </div>
@@ -266,11 +117,9 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
         </div>
       </div>
   </div>    
-</section>
+</section> 
 
-This case is much smaller than the 600C - the case's big brother - thanks to Corsair removing this model's optical drive bays.  
-
-This case has a sleek metal plated front panel, and overall the design of the 400C exudes a feeling of subtle sophistication. I know it sounds corny, but it's true. 
+The 400C has a sleek metal plated front panel, and overall the design of the 400C exudes a feeling of subtle sophistication. I know it sounds corny, but it's true. 
 
 We especially love the acrylic side panel window that can be easily opened with the window's handle. 
 
@@ -295,7 +144,7 @@ Its minimalistic design is almost graceful in a way – its visual points of int
 <div class="text">
 <h2>Corsair Carbide Series Air 540</h2>
 <h3>Smallest ATX Case</h3>
-<p>The Corsair Air 540 is coming in close second. This case is compact, but with a surprisingly spacious interior.</p>
+<p>The Corsair Air 540 is coming in close second. This case is compact, but with a surprisingly spacious interior. It ships with 3 140mm case fans, and has room for an additional 3 120mm case fans. There's plenty of room for hard drives, radiators, and graphics cards too.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
 </div>
@@ -318,6 +167,7 @@ Its minimalistic design is almost graceful in a way – its visual points of int
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
         <li>USB 3.0 cable length</li>
+        <li>No fancy LED lighting</li>
       </ul> 
     </div>
   </div>
@@ -373,8 +223,6 @@ Its minimalistic design is almost graceful in a way – its visual points of int
   </div>    
 </section>
 
-It ships with 3 140mm case fans, and has room for an additional 3 120mm case fans. There's plenty of room for hard drives, radiators, and graphics cards.
-
 Corsair manages to pull this off thanks to its awesome dual-chamber design. 
 
 The components that don't require active cooling are moved to the back. 
@@ -424,7 +272,6 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
 		<li>Supports vertically mounted GPUs</li>
 		<li>Spacious interior</li>
 		<li>Cable management</li>
-		<li>Good price</li>
 		<li>Superb layout</li>
 		<li>Two RGB lighting strips</li>
       </ul> 
@@ -433,6 +280,8 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
         <li>Weird fan placement</li>
+        <li>Expensive</li>
+        <li>Not good for builders on a budget</li>
       </ul> 
     </div>
   </div>
@@ -506,7 +355,7 @@ It also features a nice side panel window that allows you to display your compon
 	<a target="_blank" class="big-button-center" href="https://amzn.to/2RFXJcK">Read Reviews on Amazon</a>
 </div>
 
-<div id="nzxt-h500i" class="featured-info-box">
+<div id="cooler-master-haf-xb-ii-evo" class="featured-info-box">
 <span>Portability Pick</span>
 <div class="content">
 <div class="img">
@@ -515,7 +364,7 @@ It also features a nice side panel window that allows you to display your compon
 <div class="text">
 <h2>Cooler Master HAF XB EVO</h2>
 <h3>Best Airflow</h3>
-<p>This case from Cooler Master is awesome, end of story. It has insane airflow and amazing <a href="/cable-management/">cable management</a>. </p>
+<p>This case from Cooler Master is awesome, end of story. It has insane airflow and amazing <a href="/cable-management/">cable management</a>. In addition, it has a dual-chamber design to maximize airflow. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
 </div>
@@ -531,13 +380,13 @@ It also features a nice side panel window that allows you to display your compon
 		<li>Extra features</li>
 		<li>Airflow</li>
 		<li>Design</li>
-		<li>Sturdy construction</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
         <li>No integrated fan controller</li>
+        <li></li>
       </ul> 
     </div>
   </div>
@@ -593,17 +442,17 @@ It also features a nice side panel window that allows you to display your compon
   </div>    
 </section>
 
-This case from Cooler Master is awesome, end of story. It has insane airflow and amazing [cable management](/cable-management/). 
+Unlike a lot of other cases on the market, this one has a unique design that makes it stand out from the crowd. 
 
-In addition, it has a dual-chamber design to maximize airflow.
+That unique feature is, of course, the dual-chamber design. 
 
-Components that don't need direct cooling (PSU, hard drives) are stored in the bottom chamber. 
+Components that don't need direct cooling (PSU, hard drives) are stored in the bottom chamber, and the motherboard goes in the chamber on top where most of the airflow is. 
 
-The motherboard goes in the chamber on top where most of the airflow is. 
+This makes it so no airflow is wasted – the components that need to be constantly cooled get maximum exposure to your case fans, and the components that aren't as important stay tucked out of the way. 
 
-If you're always on the go, this case also has nice carrying handles that make transportation easy. 
+As an added bonus, in case you're always on the go, this case also has nice carrying handles that make transportation easy. 
 
-If you're the kind of gamer that likes to have LAN parties, this is the casse for you. 
+That being said, if you're the kind of gamer that likes to have LAN parties, this is the casse for you. 
 
 <div class="btn-center">
 	<a target="_blank" class="big-button-center" href="https://amzn.to/2N0cAMT">Read Reviews on Amazon</a>
@@ -618,7 +467,7 @@ If you're the kind of gamer that likes to have LAN parties, this is the casse fo
 <div class="text">
 <h2>Thermaltake Core G3</h2>
 <h3>Slim ATX Case</h3>
-<p></p>
+<p>The G3 Slim is the second case from Thermaltake's Core series. This case offers a stylish full sized form factor without being too big and bulky.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
 </div>
@@ -630,7 +479,6 @@ If you're the kind of gamer that likes to have LAN parties, this is the casse fo
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-    	<li>Impeccable performance</li>
 		<li>Quality design</li>
 		<li>Value for money</li>
 		<li>Low cost</li>
@@ -658,7 +506,7 @@ If you're the kind of gamer that likes to have LAN parties, this is the casse fo
           <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
-          Good
+          Average
         </div>
       </div>
       <div class="tab-btn">
@@ -696,10 +544,6 @@ If you're the kind of gamer that likes to have LAN parties, this is the casse fo
   </div>    
 </section>
 
-The [Core G3 Slim ATX Case](https://amzn.to/2vTJbgT){: target="_blank"} is the second case from Thermaltake's Core series. 
-
-This case offers a stylish full sized form factor without being too big and bulky. 
-
 In recent years, Thermaltake has produced many cases that are largely popular, especially their Core series. 
 
 The Thermaltake Core G3 is no exception, offering a stylish full sized form factor without being too big and bulky. 
@@ -727,7 +571,7 @@ All in all, it's a fantastic case for the money.
 <div class="text">
 <h2>RIOTORO CR1080</h2>
 <h3>Compact ATX Case</h3>
-<p></p>
+<p>This case isn't much different from the other cases on our list. It has an included cooling fan and several expansions ports. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q2SZSu">Check Price on Amazon</a>
 </div>
@@ -742,7 +586,6 @@ All in all, it's a fantastic case for the money.
     	<li>Cheap</li>
 		<li>Supports liquid cooling</li>
 		<li>Small</li>
-		<li>Supports full ATX</li>
       </ul> 
     </div>
     <div class="cons-container"> 
@@ -803,8 +646,6 @@ All in all, it's a fantastic case for the money.
       </div>
   </div>    
 </section>
-
-This case isn't much different from the other cases on our list. It has an included cooling fan and several expansions ports.
 
 The CR1080 has an extremely compact design, and it's very compartmentalized on the inside. This helps with cable management and airflow, keeping the PC cool under heavy load. 
 
@@ -931,7 +772,7 @@ Some users on Amazon have even claimed the case arrived with broken parts out of
 <div class="text">
 <h2>Corsair Crystal 460X Compact Case</h2>
 <h3>Smallest ATX Case with Cool LEDs</h3>
-<p>This is the third time Corsair is coming up on our list of small ATX cases - what can we say, Corsair is awesome... </p>
+<p>This is the third time Corsair is coming up on our list of small ATX cases - what can we say, Corsair is dank... </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LGEpuv">Check Price on Amazon</a>
 </div>
@@ -1319,6 +1160,155 @@ Unfortunately, that's one of the biggest issues with this model - if you are goi
 <div class="btn-center">
 	<a target="_blank" class="big-button-center" href="https://amzn.to/2N8idfU">Read Reviews on Amazon</a>
 </div>
+
+## Top 11 Small ATX Case Options
+
+When it comes to building a gaming PC, choosing the right case is incredibly important. 
+
+Not only are they tasked with protecting your precious components, they must also provide adequate airflow, not to mention they have to look cool! 
+
+Anyway, finding the smallest full size ATX case in 2019 can be challenging. In an effort to make your life easier, **here are the best small ATX cases:**
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Case</th>
+		<th>Image</th>
+		<th>Benefits</th>
+		<th>More</th>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
+		<td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Clean Design</li>
+			<li>Superb Airflow</li>
+			<li>Spacious</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
+		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Compact Case</li>
+			<li>Space Saving Design</li>
+			<li>Fantastic Cable Management</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
+		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Beautiful Design</li>
+			<li>Smart Case</li>
+			<li>Solid Construction</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
+		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Small Case, Plenty of Space</li>
+			<li>Perfect for Travel</li>
+			<li>Supports Full-Size CPU Coolers</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
+		<td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Slim ATX Case Design</li>
+			<li>Side Panel Window</li>
+			<li>Full-Size with Low Profile</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#core-g3">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2Q2SZSu">RIOTORO CR1080</a></td>
+		<td><a target="_blank" href="https://amzn.to/2Q2SZSu"><img class="table-image" alt="RIOTORO CR1080" src="/img/case/cr1080.png" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Cheap</li>
+			<li>Liquid cooling</li>
+			<li>Tiny</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#riotoro-1080">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2NRZnsY">Rosewill ATX Slim</a></td>
+		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Expansion slots</li>
+			<li>Good price</li>
+			<li>Spacious</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#rosewill-slim">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2LGEpuv">Corsair Crystal 460X</a></td>
+		<td><a target="_blank" href="https://amzn.to/2LGEpuv"><img class="table-image" alt="Corsair Crystal 460X" src="/img/case/corsair-460x.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Insane design</li>
+			<li>Cool LEDs</li>
+			<li>Sturdy</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#460x">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/32DKkXN">Rosewill Cullinan</a></td>
+		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Easy HDD Install</li>
+			<li>Slim</li>
+			<li>Compact</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#rosewill-cullinan">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2NQOasu">Corsair Carbide 270R</a></td>
+		<td><a target="_blank" href="https://amzn.to/2NQOasu"><img class="table-image" alt="corsair carbide series 270r small atx case" src="/img/case/corsair-270r.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Performance</li>
+			<li>Cable management</li>
+			<li>Performance</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#carbide-270r">View</a></td>
+	</tr>
+	<tr>
+		<td><a href="https://amzn.to/2N8idfU">be quiet! Pure Base 600</a></td>
+		<td><a target="_blank" href="https://amzn.to/2N8idfU"><img class="table-image" alt="be quiet! BGW21 Pure Base 600" src="/img/case/be-quiet-pure-base-600.jpg" /></a></td>
+		<td class="components">
+			<ul>
+			<li>Silent</li>
+			<li>Price</li>
+			<li>Looks</li>
+			</ul>
+		</td>
+		<td><a class="big-button" href="#be-quiet-pure-base-600">View</a></td>
+	</tr>
+</table>
 
 ## Case Buying Guide
 
