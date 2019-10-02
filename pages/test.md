@@ -16,9 +16,7 @@ meta: "test"
 * TOC
 {: toc}
 
-Here's the deal:
-
-A case will make or break a gaming PC build. 
+We get it: 
 
 You're looking for a small ATX case that still packs a punch – and we've got your back.
 
