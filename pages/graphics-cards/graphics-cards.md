@@ -243,7 +243,7 @@ That’s what you should look for in a GPU.
 		<!-- <div class="row"> -->
 			<div class="pros-container">
 				<p class="title-text">pros</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> High liquidity and buying limits</p>
+				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> Highasdas liquidity and buying limits</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> Easy way for newcomers to get bitcoins</p>
 				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> "Instant Buy" option available with <a class="content-link" href="/">debit card</a></p>
 			</div>
