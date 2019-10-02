@@ -1786,7 +1786,7 @@ blockquote p {
   /*background: #f8f8f8;*/
   margin-top: 50px;
   padding: 10px;
-  width: 750px;
+  max-width: 750px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -1884,23 +1884,26 @@ blockquote p {
 }
 
 @media (max-width: 768px) {
-  .pros-cons-container {
-    display: block;
-  }
   .pros-container, .cons-container {
     width: 100%;
   }
+  .tab-btn {
+    width: 33.333333333%
+  }
+  .tab-btn:nth-child(3) {
+    border-right: none;
+  }
 }
-@media (max-width: 1200px) {
-  
+@media (max-width: 395px) {
+  .tab-btn {
+    width: 50%;
+    border: none;
+  }
 }
-@media (max-width: 1024px) {
-
-}
-
-@media (max-width: 818px) {
-
-}
-@media (max-width: 576px) {
-
+@media (max-width: 260px) {
+  .tab-btn {
+    width: 100%;
+    border: none;
+    text-align: center !important;
+  }
 }
