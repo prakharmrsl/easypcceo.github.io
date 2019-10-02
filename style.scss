@@ -1845,7 +1845,6 @@ blockquote p {
 }
 
 .tabs-container {
-  margin-top: 50px;
   width: 100%;
   display: inline-block;
 }
@@ -1866,13 +1865,15 @@ blockquote p {
 }
 .tab-btn-title {
   float: left;
-    font-size: .62em;
-    letter-spacing: .7px;
+    font-size: .9em;
+    letter-spacing: .6px;
 }
 .tab-btn-title .tab-img {
-  width: 12px;
+  width: 1.2rem;
   margin: unset; 
-    display: unset;
+  display: unset;
+  vertical-align: middle;
+  margin-bottom: 3px;
 }
 
 .tab-btn-data {
@@ -1906,4 +1907,8 @@ blockquote p {
     border: none;
     text-align: center !important;
   }
+}
+
+.tab-btn-title-margin {
+  margin-left: 5px;
 }
