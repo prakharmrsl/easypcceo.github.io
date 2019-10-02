@@ -239,44 +239,69 @@ What’s the bottom line here?
 That’s what you should look for in a GPU. 
 <section class="section-pros-cons">
 	<div class="pros-cons-container">
-		<!-- <div class="row"> -->
-			<div class="pros-container">
-				<p class="title-text">pros</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> Highasdas liquidity and buying limits</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> Easy way for newcomers to get bitcoins</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/check.png"/> "Instant Buy" option available with <a class="content-link" href="/">debit card</a></p>
-			</div>
-			<div class="cons-container">
-				<p class="title-text">cons</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/xmark.png"/> <a class="content-link" href="/">Purchases made with bank transfer</a> can take up to 5 days to complete</p>
-				<p class="content-text"><img class="img-check" src="/img/icons/xmark.png"/> Coinbase my track how and where you spend your bitcoins</p>
-			</div>	
-		<!-- </div> -->
+		<div class="pros-container"> 
+			<div class="pro-con-title">Pros</div> 
+			<ul class="info-list"> 
+				<li>Works in almost all countries</li> 
+				<li>Highest limits for buying bitcoins with a credit card</li> 
+				<li>Reliable and trusted broker</li> 
+			</ul> 
+		</div>
+		<div class="cons-container"> 
+			<div class="pro-con-title">Cons</div> 
+			<ul class="info-list"> 
+				<li>Some of the highest fees among credit/debit card bitcoin brokers</li> 
+			</ul> 
+		</div>
 	</div>
 	<div class="tabs-container">
-	    <div class="tab-btn tab-active" onclick="openCity(event,'core')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/core.png"/> Core Clock</p>
-	    	<p class="tab-text">1.15GHz</p>
+	    <div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/core.png"/> Core Clock
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
-	    <div class="tab-btn" onclick="openCity(event,'boost')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/boost.png"/> Boost Clock</p>
-	    	<p class="tab-text">1.15GHz</p>
+	    <div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/boost.png"/> Boost Clock
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
-	    <div class="tab-btn" onclick="openCity(event,'length')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/length.png"/> Length</p>
-	    	<p class="tab-text">1.15GHz</p>
+	    <div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/length.png"/> Length
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
-	    <div class="tab-btn" onclick="openCity(event,'fan')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/fan.png"/> Cooling Fans</p>
-	    	<p class="tab-text">1.15GHz</p>
+		<div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/fan.png"/> Cooling Fans
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
-	    <div class="tab-btn" onclick="openCity(event,'memory')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/memory.png"/> Memory</p>
-	    	<p class="tab-text">1.15GHz</p>
+		<div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/memory.png"/> Memory
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
-	    <div class="tab-btn" onclick="openCity(event,'port')">
-	    	<p class="tab-img-text"><img class="tab-img" src="/img/icons/port.png"/> Ports</p>
-	    	<p class="tab-text">1.15GHz</p>
+		<div class="tab-btn">
+	    	<div class="tab-btn-title">
+	    		<img class="tab-img" src="./img/port.png"/> Ports
+	    	</div>
+	    	<div class="tab-btn-data">
+	    		1.15GHz
+	    	</div>
 	    </div>
  	</div>		
 </section>
