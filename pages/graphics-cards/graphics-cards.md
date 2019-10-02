@@ -270,7 +270,7 @@ That’s what you should look for in a GPU.
 	    		<img class="tab-img" src="/img/icons/boost.png"/><span class="tab-btn-title-margin">Boost</span>
 	    	</div>
 	    	<div class="tab-btn-data">
-	    		1.15GHz
+	    		1.2GHz
 	    	</div>
 	    </div>
 	    <div class="tab-btn">
