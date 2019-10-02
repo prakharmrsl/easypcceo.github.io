@@ -13,8 +13,12 @@ meta: "test"
 
 ![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#top-5-smallest-atx-case-options-of-2019" id="markdown-toc-top-5-smallest-atx-case-options-of-2019">Top 5 Smallest ATX Case Options of 2019</a></li>
+<li><a href="#case-buying-guide" id="markdown-toc-case-buying-guide">Case Buying Guide</a></li>
+<li><a href="#a-great-case-is" id="markdown-toc-a-great-case-is">A Great Case Is…</a></li>
+<li><a href="#do-you-need-a-gaming-case" id="markdown-toc-do-you-need-a-gaming-case">Do You Need a ‘Gaming’ Case?</a></li>
+</ul>
 
 We get it: 
 
