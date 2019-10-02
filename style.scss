@@ -1782,10 +1782,6 @@ blockquote p {
 
 
 
-/*body {
-  padding: 0px;
-  background: #444;
-}*/
 .section-pros-cons {
   background: #f8f8f8;
   margin-top: 50px;
@@ -1830,7 +1826,9 @@ blockquote p {
 }
 .tabs-container {
   margin-top: 50px;
-  display: flex;
+  /*display: ;*/
+  float: left;
+  width: 100%;
 }
 .tab-btn {
   /*text-align: center;*/
@@ -1839,8 +1837,8 @@ blockquote p {
   padding: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
-
-  width: 16.66%;
+  width: 14%;
+  display: inline-block;;
 }
 .tab-active {
   /*background: #c8c8c8*/
@@ -1853,31 +1851,16 @@ blockquote p {
   border-right: none;
 }
 .tab-img {
-  height: 18px;
+  width: 16px;
   margin: unset; 
     display: unset;
 }
 .tab-img-text {
-  font-size: 20px;
+  font-size: 18px;
   color: #333333;
   margin: 0px;
 }
-@media (max-width: 1080px) {
-  .tab-img-text {
-    font-size: 18px;
-  }
-  .tab-img {
-    height: 16px;
-  }
-}
-@media (max-width: 951px) {
-  .tab-img-text {
-    font-size: 16px;
-  }
-  .tab-img {
-    height: 14px;
-  }
-}
+
 .tab-text {
   color: #333333;
   font-size: 22px;
@@ -1901,15 +1884,34 @@ blockquote p {
 @media (max-width: 1200px) {
   
 }
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
+  .tab-btn {
+    width: 30%;
+  }
   .tab-btn:nth-child(3) {
+    border-right: none;
+  }
+}
+
+@media (max-width: 818px) {
+  .tab-btn {
+    width: 45%;
+  }
+  .tab-btn:nth-child(3) {
+    border-right: 1px solid #c3c3c3;
+  }
+  .tab-btn:nth-child(2), .tab-btn:nth-child(4){
     border-right: none;
   }
 }
 @media (max-width: 576px) {
   .tab-btn {
     text-align: center;
+    width: 100%;
     border-bottom: 1px solid #c3c3c3;
+    border-right: none;
+  }
+  .tab-btn:nth-child(3) {
     border-right: none;
   }
   .tab-btn:last-child {
