@@ -237,6 +237,7 @@ What’s the bottom line here?
 3. Make sure your GPU choice has enough room left for a good processor, RAM, etc. 
 
 That’s what you should look for in a GPU. 
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <section class="section-pros-cons">
 	<div class="pros-cons-container">
 		<div class="pros-container"> 
