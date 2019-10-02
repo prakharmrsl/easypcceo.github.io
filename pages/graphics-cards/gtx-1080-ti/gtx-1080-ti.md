@@ -257,3 +257,72 @@ With that said, our chosen power supply for the best power supply for a 1080 Ti 
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
 </div>
+
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Incredible performance</li> 
+        <li>Crushes 1440p</li> 
+        <li>Can handle 4K and VR</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>One of the most expensive graphics cards</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spaciousness</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>
