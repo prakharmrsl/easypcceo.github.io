@@ -310,7 +310,7 @@ With that said, our chosen power supply for the best power supply for a 1080 Ti 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spaciousness</span>
+          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Great

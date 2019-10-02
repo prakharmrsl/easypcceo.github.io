@@ -1850,7 +1850,6 @@ blockquote p {
   display: inline-block;
 }
 .tab-btn {
-    border-right: 1px solid #ccc;
     float: left;
     margin-bottom: 15px;
     margin-top: 5px;
@@ -1858,7 +1857,7 @@ blockquote p {
     position: relative;
     min-height: 1px;
     padding-left: 15px;
-    padding-right: 15px;
+    padding-right: 5px;
     font-family: proxima,Arial,sans-serif;
 }
 .tab-btn:last-child {
