@@ -1173,7 +1173,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 	<tr>
 		<th>Case</th>
 		<th>Image</th>
-		<th>Benefits</th>
+		<th>Benefit</th>
 		<th>More</th>
 	</tr>
 	<tr>
@@ -1182,8 +1182,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Clean Design</li>
-			<li>Superb Airflow</li>
-			<li>Spacious</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
@@ -1193,8 +1191,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Compact Case</li>
-			<li>Space Saving Design</li>
 			<li>Fantastic Cable Management</li>
 			</ul>
 		</td>
@@ -1205,9 +1201,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Beautiful Design</li>
 			<li>Smart Case</li>
-			<li>Solid Construction</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#nzxt-h500i">View</a></td>
@@ -1217,9 +1211,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Small Case, Plenty of Space</li>
 			<li>Perfect for Travel</li>
-			<li>Supports Full-Size CPU Coolers</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
@@ -1230,8 +1222,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Slim ATX Case Design</li>
-			<li>Side Panel Window</li>
-			<li>Full-Size with Low Profile</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#core-g3">View</a></td>
@@ -1242,8 +1232,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Cheap</li>
-			<li>Liquid cooling</li>
-			<li>Tiny</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#riotoro-1080">View</a></td>
@@ -1253,9 +1241,7 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a target="_blank" href="https://amzn.to/2NRZnsY"><img class="table-image" alt="rosewill atx slim full tower atx case" src="/img/case/rosewill-atx-slim.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Expansion slots</li>
 			<li>Good price</li>
-			<li>Spacious</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#rosewill-slim">View</a></td>
@@ -1266,8 +1252,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Insane design</li>
-			<li>Cool LEDs</li>
-			<li>Sturdy</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#460x">View</a></td>
@@ -1277,8 +1261,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td><a target="_blank" href="https://amzn.to/32DKkXN"><img class="table-image" alt="Rosewill Cullinan" src="/img/case/rosewill-cullinan.jpg" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Easy HDD Install</li>
-			<li>Slim</li>
 			<li>Compact</li>
 			</ul>
 		</td>
@@ -1290,8 +1272,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Performance</li>
-			<li>Cable management</li>
-			<li>Performance</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#carbide-270r">View</a></td>
@@ -1302,8 +1282,6 @@ Anyway, finding the smallest full size ATX case in 2019 can be challenging. In a
 		<td class="components">
 			<ul>
 			<li>Silent</li>
-			<li>Price</li>
-			<li>Looks</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="#be-quiet-pure-base-600">View</a></td>
