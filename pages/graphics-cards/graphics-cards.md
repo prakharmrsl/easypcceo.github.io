@@ -237,7 +237,7 @@ What’s the bottom line here?
 3. Make sure your GPU choice has enough room left for a good processor, RAM, etc. 
 
 That’s what you should look for in a GPU. 
-
+<link rel="stylesheet" type="text/css" href="/pros.css" />
 <section class="section-pros-cons">
 	<div class="pros-cons-container">
 		<!-- <div class="row"> -->
