@@ -1781,6 +1781,11 @@ blockquote p {
 
 
 
+
+/*body {
+  padding: 0px;
+  background: #444;
+}*/
 .section-pros-cons {
   background: #f8f8f8;
   margin-top: 50px;
@@ -1812,8 +1817,8 @@ blockquote p {
 }
 .pros-cons-container .img-check {
   width: 24px;
-  margin: 0;
-  display: inline;
+  margin: unset; 
+    display: unset;
 }
 .pros-cons-container .content-link {
   color: #2579c6 !important;
@@ -1847,17 +1852,33 @@ blockquote p {
 .tab-btn:last-child {
   border-right: none;
 }
-.tab-btn .tab-img {
-  height: 20px;
+.tab-img {
+  height: 18px;
   margin: unset; 
     display: unset;
 }
-.tab-btn .tab-img-text {
+.tab-img-text {
   font-size: 20px;
   color: #333333;
   margin: 0px;
 }
-.tab-btn .tab-text {
+@media (max-width: 1080px) {
+  .tab-img-text {
+    font-size: 18px;
+  }
+  .tab-img {
+    height: 16px;
+  }
+}
+@media (max-width: 951px) {
+  .tab-img-text {
+    font-size: 16px;
+  }
+  .tab-img {
+    height: 14px;
+  }
+}
+.tab-text {
   color: #333333;
   font-size: 22px;
   font-weight: bold;
@@ -1878,9 +1899,7 @@ blockquote p {
   }
 }
 @media (max-width: 1200px) {
-  .tab-btn .tab-text {
-    font-size: 20px;
-  }
+  
 }
 @media (max-width: 768px) {
   .tab-btn:nth-child(3) {
