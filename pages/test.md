@@ -1,9 +1,9 @@
 ---
-title: The Best Small ATX Cases of 2019  
-permalink: "/budget-pcs/smallest-atx-cases/"
+title: "test" 
+permalink: "/test/"
 layout: page
-seotitle: "11 Smallest ATX Case Reviews: Small & Slim (2019)" 
-meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
+seotitle: "test" 
+meta: "test"
 ---
 
 <div class="author-line">
