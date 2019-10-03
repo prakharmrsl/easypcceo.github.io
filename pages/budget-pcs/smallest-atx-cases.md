@@ -24,7 +24,7 @@ We get it:
 
 You're looking for a small ATX case that still packs a punch – and we've got your back.
 
-In this guide, we're taking a look at the 11 smallest ATX cases on the market. 
+In this guide, we're taking a look at the 5 smallest ATX cases on the market. 
 
 But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](https://amzn.to/2oFt85v){: target="_blank"} as the best smallest ATX case. It's got style, performance, and reliability all packed into one affordable package. 
 
@@ -176,17 +176,25 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </div>    
 </section> 
 
-The 400C has a sleek metal plated front panel, and overall the design of the 400C exudes a feeling of subtle sophistication. I know it sounds corny, but it's true. 
-
-We especially love the acrylic side panel window that can be easily opened with the window's handle. 
+The 400C has a sleek metal plated front panel, and overall the design of the 400C exudes a feeling of subtle sophistication. 
 
 The 400C has a clean, modern, and minimalistic design with an entirely steel exterior.
 
-The overall design of the case feels sleek and refined. It has a nice black finish with a large side-panel window, allowing you to peek inside and take a look at your components. 
+This case just feels sleek and refiened, only worthy of true memberes of the PC Master Race! 
 
-Although it's not flashy, when you step into the room, the case has a presence. 
+Yeah, I know it sounds corny, but it's true – give me a break dude. 
 
-Its minimalistic design is almost graceful in a way – its visual points of interest are subtler compared to other flashy cases with bright lights that are dying for attention. 
+I especially love the acrylic side panel window that can be easily opened with the window's handle. 
+
+It makes opening the case a breeze, which is great for those who are always tinkering with their internals.  
+
+Sure, the case isn't sporting any fancy or flashy LEDs, but it still has a presence in any room. 
+
+When you walk in you'll take a look at it and go "damn, that thing is bad ass". Because it is. 
+
+Its minimalistic design is almost graceful in a way – the visual points of interest are subtler compared to other flashy cases that are dying for attention. 
+
+This case is awesome and it knows it!
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price</a>
@@ -202,7 +210,7 @@ Its minimalistic design is almost graceful in a way – its visual points of int
 <div class="text">
 <h2>Corsair Carbide Series Air 540</h2>
 <h3>Smallest ATX Case</h3>
-<p>The Corsair Air 540 is coming in close second. This case is compact, but with a surprisingly spacious interior. It ships with 3 140mm case fans, and has room for an additional 3 120mm case fans. There's plenty of room for hard drives, radiators, and graphics cards too.</p>
+<p>The Corsair Air 540 is coming in close second on our list. This case is compact, but with a surprisingly spacious interior. There's plenty of room for hard drives, radiators, and graphics cards too.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
 </div>
@@ -281,21 +289,19 @@ Its minimalistic design is almost graceful in a way – its visual points of int
   </div>    
 </section>
 
-Corsair manages to pull this off thanks to its awesome dual-chamber design. 
+Corsair manages to pull off such a small yet spacious interior with their awesome dual-chamber design. 
 
-The components that don't require active cooling are moved to the back. 
+It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build, and the components that don't require active cooling are moved to the back of the case. 
 
 This way, airflow isn't wasted on the parts that don't really need it – definitely a cool design by Corsair. 
 
-It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build.
+One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
 
-In order to achieve this feat, Corsair had to widen the chassis. The case is actually using a dual chamber design. 
+In order to achieve this feat, Corsair had to widen the chassis. 
 
 ![corsair carbide series air 540](/img/case/air-540.jpg){: .img-middle}
 
-One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
-
-Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
+Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays. 
 
 Despite being a small ATX case, the Carbide Air 540 is very well designed. 
 
@@ -402,9 +408,7 @@ The case has a simple design but it still looks great - available in both black 
 
 For starters, it comes with an Adaptive Noise Reduction Algorithm that changes fan speed automatically based on temperatures. This way, your case fans will only run as hard as they need to, thus reducing noise and increasing efficiency. 
 
-The NZXT H500i has a simple design that will exceed your expectations in terms of build quality for its price point. 
-
-This case comes with all of the fancy bells and whistles you'd expect from a high end case at this price point. 
+The H500i comes with all of the fancy bells and whistles you'd expect from a high end case but for a modest price. 
 
 With this model, the H500i has a smart hub for fan control and a built-in RGB strip up top and behind a cable cover. 
 
@@ -794,9 +798,9 @@ At the end of the day, the your PC build comes down to your budget, your persona
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gAa5hmEXyxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The Corsair Carbide Series Air 540 has taken second place on our list of the best [smallest atx cases](/budget-pcs/smallest-atx-cases/). 
+The Corsair Carbide Series Air 540 has taken second place on our list. 
 
-In fact, we like it nearly as much as the [Corsair Carbide 400C](/budget-pcs/smallest-atx-cases/corsair-carbide-400c-review/) - these two cases are probably our two favorite cases in this category. 
+In fact, we like it nearly as much as the Corsair Carbide 400C - these two cases are probably our two favorite cases in this category. 
 
 It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build.
 
@@ -884,7 +888,7 @@ This case has a sleek white paint job that's minimalistic but super good looking
 
 It also features a nice side panel window that allows you to display your components, illuminated by the case's RGB lighting. 
 
-The case is a big larger than its mATX little brother, the H400i. This is the smallest full ATX case in our list of [small ATX cases](/budget-pcs/smallest-atx-cases/), even smaller than the [Air 540](/budget-pcs/smallest-atx-cases/corsair-carbide-air-540-review/). 
+The case is a big larger than its mATX little brother, the H400i. This is the smallest full ATX case in our list, even smaller than the Air 540. 
 
 ![h500i case design](/img/case/h500i-case-design.jpg){: .img-middle}
 
@@ -966,7 +970,7 @@ This case ships with two of Cooler Master's very own A12025-18CB-3EN-F1 fans, wh
 
 Unfortunately, they don't have integrated fan control, which means they generate a bit more noise than I'd like. 
 
-On the other hand – much like the [Corsair Carbide Air 540](/budget-pcs/smallest-atx-cases/corsair-carbide-air-540-review/) this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. 
+On the other hand – much like the Corsair Carbide Air 540 this case was designed with "High Air Flow" in mind, so it's clear that cooling performance was Cooler Master's number one priority. 
 
 Besides, you can always add your own fan controller if you wish. 
 
@@ -980,7 +984,7 @@ Its seperate compartments help regulate internal temperatures, as the motherboar
 
 The case also has great cable management options, as you can run wiring through the lower level of the case to the upper level where the second compartment houses most of your components. 
 
-It may be a [small ATX case](/budget-pcs/smallest-atx-cases/), but the interior definitely doesn't feel cramped or compact in any way thanks to its great design. 
+It may be a small ATX case, but the interior definitely doesn't feel cramped or compact in any way thanks to its great design. 
 
 ### Features 
 
