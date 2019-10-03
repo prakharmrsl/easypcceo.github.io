@@ -715,18 +715,14 @@ In fact, I'd recommend spending $40 or less.
 
 The 400C has a clean, modern, and minimalistic design with an entirely steel exterior.
 
-The overall design of the case feels sleek and refined. It has a nice black finish with a large side-panel window, allowing you to peek inside and take a look at your components. 
-
-Although it's not flashy, when you step into the room, the case has a presence. 
-
-Its minimalistic design is almost graceful in a way – its visual points of interest are subtler compared to other flashy cases with bright lights that are dying for attention. 
+This case knows it's good-looking, and doesn't have to show off to get the attention it deserves. 
 
 <figure>
 <img class="img-middle" alt="back of corsair carbide 400c" src="/img/case/corsair-carbide-400c-back.jpg" />
 <figcaption><p>Image courtesy of <a target="_blank" href="https://www.pcmag.com/review/344852/corsair-carbide-clear-400c">PC Mag review</a></p></figcaption>
 </figure>
 
-This case, on the other hand, knows it's good-looking, and doesn't have to show off to get the attention it deserves. 
+This case knows it's good-looking, and doesn't have to show off to get the attention it deserves. 
 
 On a more serious note, I'd like to talk about the actual design features of the case. 
 
@@ -798,18 +794,6 @@ At the end of the day, the your PC build comes down to your budget, your persona
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gAa5hmEXyxw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The Corsair Carbide Series Air 540 has taken second place on our list. 
-
-In fact, we like it nearly as much as the Corsair Carbide 400C - these two cases are probably our two favorite cases in this category. 
-
-It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build.
-
-In order to achieve this feat, Corsair had to widen the chassis. The case is actually using a dual chamber design. 
-
-One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
-
-Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays with back planes. 
-
 Despite being a small ATX case, the Carbide Air 540 is very well designed. 
 
 Its two compartments keep cables and components neat and tidy, which promotes airflow, thus keeping the entire rig looking good and staying cool. 
@@ -877,12 +861,6 @@ If you're looking for an affordable and small ATX case, definitely check out Cor
 <div class="vid-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/FWIS9ILc3jY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-The NZXT H500i has a simple design that will exceed your expectations in terms of build quality for its price point. 
-
-This case comes with all of the fancy bells and whistles you'd expect from a high end case at this price point. 
-
-With this model, the H500i has a smart hub for fan control and a built-in RGB strip up top and behind a cable cover. 
 
 This case has a sleek white paint job that's minimalistic but super good looking. 
 
