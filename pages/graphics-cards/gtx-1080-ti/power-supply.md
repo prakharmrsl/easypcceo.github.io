@@ -82,7 +82,7 @@ If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080
           <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
         </div>
         <div class="tab-btn-data">
-          80+ Gold
+          Gold
         </div>
       </div>
       <div class="tab-btn">
@@ -98,7 +98,7 @@ If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080
           <img class="tab-img" src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
         </div>
         <div class="tab-btn-data">
-          Black/Grey
+          Black
         </div>
       </div>
     <div class="tab-btn">
@@ -180,7 +180,7 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
           <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
         </div>
         <div class="tab-btn-data">
-          80+ Bronze
+          Bronze
         </div>
       </div>
       <div class="tab-btn">
@@ -196,7 +196,7 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
           <img class="tab-img" src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
         </div>
         <div class="tab-btn-data">
-          Blue/Black
+          Blue
         </div>
       </div>
     <div class="tab-btn">
@@ -281,7 +281,7 @@ Please don’t do that...
           <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
         </div>
         <div class="tab-btn-data">
-          80+ Bronze
+          Bronze
         </div>
       </div>
       <div class="tab-btn">
