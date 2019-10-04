@@ -11,6 +11,8 @@ meta: "Buying the best power supply for the GTX 1080 Ti has never been easier."
 	<span>Jacob Tuwiner</span>
 </div>
 
+![1080 Ti Power Supplies Header](/img/header/1080ti-power-supplies.png){: .page-header}
+
 * TOC
 {: toc}
 
