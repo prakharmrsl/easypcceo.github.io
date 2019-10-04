@@ -51,17 +51,6 @@ If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080
 </div>
 </div>
 </div> 
-
-If you’ve decided to opt for a fully-modular power supply for whatever reason, it’s hard to go wrong with Corsair’s RMx series of PSUs.
-
-The RM650x 650W PSU provides enough power for most, if not all, 1080 Ti-based systems. 
-
-If that’s not the case for you, however, feel free to opt for the [RM750x](https://amzn.to/2o6PmgF){: target="_blank"} or [RM850x](https://amzn.to/2oYIC4X){: target="_blank"} if you really think you need it.
-
-650 watts is most plenty for any system – even with a 1080 Ti – and can be overkill at times. 
-
-At least you’ll have a bit of overclocking headroom and won’t have to worry about it dying anytime soon, and hey those cable braids are pretty sexy to boot.
-
 <section class="section-pros-cons">
   <div class="pros-cons-container">
     <div class="pros-container"> 
@@ -98,7 +87,7 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modular</span>
         </div>
         <div class="tab-btn-data">
           Fully
@@ -131,6 +120,16 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
   </div>    
 </section>
 
+If you’ve decided to opt for a fully-modular power supply for whatever reason, it’s hard to go wrong with Corsair’s RMx series of PSUs.
+
+The RM650x 650W PSU provides enough power for most, if not all, 1080 Ti-based systems. 
+
+If that’s not the case for you, however, feel free to opt for the [RM750x](https://amzn.to/2o6PmgF){: target="_blank"} or [RM850x](https://amzn.to/2oYIC4X){: target="_blank"} if you really think you need it.
+
+650 watts is most plenty for any system – even with a 1080 Ti – and can be overkill at times. 
+
+At least you’ll have a bit of overclocking headroom and won’t have to worry about it dying anytime soon, and hey those cable braids are pretty sexy to boot.
+
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
 </div>
@@ -151,19 +150,6 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
 </div>
 </div>
 </div>
-
-Swooping in for our best semi-modular spot is actually a PSU that flies pretty low under the radar, the Raidmax Scorpio 535W.  
-
-I’ve actually had the chance to get hands-on experience with the Scorpio being that it was my main power supply for almost 2 years, and I still use it to this day for component testing. 
-
-Let me tell you, this thing can take a beating.
-
-Not only does this bad boy sport a whole 535W (enough for most systems), the sheer amount of times this thing has been dropped or had things dropped on it is staggering, and it’s still chugging on.
-
-That doesn’t mean go throw it down the stairs though. 
-
-Please don’t do that...
-
 <section class="section-pros-cons">
   <div class="pros-cons-container">
     <div class="pros-container"> 
@@ -199,7 +185,7 @@ Please don’t do that...
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modular</span>
         </div>
         <div class="tab-btn-data">
           Semi
@@ -232,6 +218,18 @@ Please don’t do that...
   </div>    
 </section>
 
+Swooping in for our best semi-modular spot is actually a PSU that flies pretty low under the radar, the Raidmax Scorpio 535W.  
+
+I’ve actually had the chance to get hands-on experience with the Scorpio being that it was my main power supply for almost 2 years, and I still use it to this day for component testing. 
+
+Let me tell you, this thing can take a beating.
+
+Not only does this bad boy sport a whole 535W (enough for most systems), the sheer amount of times this thing has been dropped or had things dropped on it is staggering, and it’s still chugging on.
+
+That doesn’t mean go throw it down the stairs though. 
+
+Please don’t do that...
+
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
 </div>
@@ -252,25 +250,6 @@ Please don’t do that...
 </div>
 </div>
 </div>
-
-Going for a budget build and don’t need the extra baggage? The Seasonic S12II 450 80+ Bronze comes to the rescue!
-
-Coming in at only $45USD (that’s 10 watts per dollar!) the Seasonic S12II offers almost unrivaled reliability at a compelling price point, and 430 watts is enough for any budget or even mid-range build.
-
-The 80+ Bronze efficiency rating may not be the greatest of all but you’ve got to cut some corners somewhere, and they sure don’t cut the corner of quality. 
-
-Seasonic is so confident in the quality of this power supply that it includes a whole 5 year warranty! Geez.
-
-**But here's the thing:**
-
-If you're buying a power supply for a GTX 1080 Ti, don't buy a non-modular model. 
-
-A 1080 Ti is a top tier graphics card, one that's meant to be paired with a top-tier power supply like one of the two mentioned above.  
-
-That being said, you don't *need* a modular power supply, so it's really up to you. 
-
-But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and 80+ Gold certified all the way!
-
 <section class="section-pros-cons">
   <div class="pros-cons-container">
     <div class="pros-container"> 
@@ -307,7 +286,7 @@ But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modular</span>
         </div>
         <div class="tab-btn-data">
           Non
@@ -339,6 +318,24 @@ But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and
       </div>
   </div>    
 </section>
+
+Going for a budget build and don’t need the extra baggage? The Seasonic S12II 450 80+ Bronze comes to the rescue!
+
+Coming in at only $45USD (that’s 10 watts per dollar!) the Seasonic S12II offers almost unrivaled reliability at a compelling price point, and 430 watts is enough for any budget or even mid-range build.
+
+The 80+ Bronze efficiency rating may not be the greatest of all but you’ve got to cut some corners somewhere, and they sure don’t cut the corner of quality. 
+
+Seasonic is so confident in the quality of this power supply that it includes a whole 5 year warranty! Geez.
+
+**But here's the thing:**
+
+If you're buying a power supply for a GTX 1080 Ti, don't buy a non-modular model. 
+
+A 1080 Ti is a top tier graphics card, one that's meant to be paired with a top-tier power supply like one of the two mentioned above.  
+
+That being said, you don't *need* a modular power supply, so it's really up to you. 
+
+But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and 80+ Gold certified all the way!
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2oSQbdf">Read Reviews on Amazon</a>
