@@ -55,6 +55,79 @@ If that’s not the case for you, however, feel free to opt for the [RM750x](htt
 
 At least you’ll have a bit of overclocking headroom and won’t have to worry about it dying anytime soon, and hey those cable braids are pretty sexy to boot.
 
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Easy <a href="/cable-management">cable management</a></li> 
+        <li>Super power efficient</li> 
+        <li>Reliable</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Most expensive power supply on the list</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Wattage</span>
+        </div>
+        <div class="tab-btn-data">
+          650
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
+        </div>
+        <div class="tab-btn-data">
+          80+ Gold
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+        </div>
+        <div class="tab-btn-data">
+          Fully
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
+        </div>
+        <div class="tab-btn-data">
+          Black/Grey
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/sata.png"/><span class="tab-btn-title-margin">SATA</span>
+        </div>
+        <div class="tab-btn-data">
+          9
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
+</div>
+
 <div id="runner-up" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
@@ -84,6 +157,78 @@ That doesn’t mean go throw it down the stairs though.
 
 Please don’t do that...
 
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Incredibly durable</li> 
+        <li>Good bang for your buck</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not the most efficient PSU on the market</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Wattage</span>
+        </div>
+        <div class="tab-btn-data">
+          535
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
+        </div>
+        <div class="tab-btn-data">
+          80+ Bronze
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+        </div>
+        <div class="tab-btn-data">
+          Semi
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
+        </div>
+        <div class="tab-btn-data">
+          Blue/Black
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/sata.png"/><span class="tab-btn-title-margin">SATA</span>
+        </div>
+        <div class="tab-btn-data">
+          5
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
+</div>
+
 <div id="budget-pick" class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
@@ -95,7 +240,7 @@ Please don’t do that...
 <h3>Non-Modular Power Supply</h3>
 <p>If you – for some reason – want a regular, non-modular power supply, this is our top pick. It's good for builders on a budget, although I don't know what kind of budget you're on if you can afford a 1080 Ti...</p> 
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ngudkh">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oSQbdf">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -103,7 +248,7 @@ Please don’t do that...
 
 Going for a budget build and don’t need the extra baggage? The Seasonic S12II 450 80+ Bronze comes to the rescue!
 
-Coming in at only $45USD (that’s 10 watts per dollar!) the Seasonic S12II offers almost unrivaled reliability at a compelling price point, and 450 watts is enough for any budget or even mid-range build.
+Coming in at only $45USD (that’s 10 watts per dollar!) the Seasonic S12II offers almost unrivaled reliability at a compelling price point, and 430 watts is enough for any budget or even mid-range build.
 
 The 80+ Bronze efficiency rating may not be the greatest of all but you’ve got to cut some corners somewhere, and they sure don’t cut the corner of quality. 
 
@@ -118,6 +263,79 @@ A 1080 Ti is a top tier graphics card, one that's meant to be paired with a top-
 That being said, you don't *need* a modular power supply, so it's really up to you. 
 
 But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and 80+ Gold certified all the way!
+
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Very cheap</li> 
+        <li>Gets the job done for a low price</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Non-modular</li> 
+        <li>Not very efficient</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Wattage</span>
+        </div>
+        <div class="tab-btn-data">
+          430
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
+        </div>
+        <div class="tab-btn-data">
+          80+ Bronze
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modularity</span>
+        </div>
+        <div class="tab-btn-data">
+          Non
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
+        </div>
+        <div class="tab-btn-data">
+          Grey
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/sata.png"/><span class="tab-btn-title-margin">SATA</span>
+        </div>
+        <div class="tab-btn-data">
+          6
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+  </div>    
+</section>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2oSQbdf">Read Reviews on Amazon</a>
+</div>
 
 ## Top 3 Power Supplies for 1080 Ti Graphics Card
 
