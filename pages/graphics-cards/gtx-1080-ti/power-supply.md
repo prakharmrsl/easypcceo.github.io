@@ -13,8 +13,15 @@ meta: "Buying the best power supply for the GTX 1080 Ti has never been easier."
 
 ![1080 Ti Power Supplies Header](/img/header/1080ti-power-supplies.png){: .page-header}
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#top-3-power-supplies-for-1080-ti-graphics-card" id="markdown-toc-top-3-power-supplies-for-1080-ti-graphics-card">Top 3 Power Supplies for 1080 Ti Graphics Card</a></li>
+<li><a href="#powering-a-gtx-1080-ti-crypto-mining-rig" id="markdown-toc-powering-a-gtx-1080-ti-crypto-mining-rig">Powering a GTX 1080 Ti Crypto Mining Rig</a></li>
+<li><a href="#power-supplies-how-to-make-the-right-choice" id="markdown-toc-power-supplies-how-to-make-the-right-choice">Power Supplies: How to Make The Right Choice</a></li>
+<li><a href="#types-of-power-supplies" id="markdown-toc-types-of-power-supplies">Types of Power Supplies</a> 
+</li>
+<li><a href="#power-supply-wattage" id="markdown-toc-power-supply-wattage">Power Supply Wattage</a></li>
+<li><a href="#efficiency-rating" id="markdown-toc-efficiency-rating">Efficiency Rating</a></li>
+</ul>
 
 Your power supply can make or break your PC. 
 
