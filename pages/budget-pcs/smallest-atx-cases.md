@@ -310,7 +310,7 @@ Its two compartments keep cables and components neat and tidy, which promotes ai
 The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price</a>
 <a class="right-button cta-button learn-button" href="#corsair-carbide-series-air-540-review">Read Review</a>
 </div>
 
@@ -417,7 +417,7 @@ This case has a sleek white paint job that's minimalistic but super good looking
 It also features a nice side panel window that allows you to display your components, illuminated by the case's RGB lighting.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price</a>
 <a class="right-button cta-button learn-button" href="#nzxt-h500i-review">Read Review</a>
 </div>
 
@@ -519,7 +519,7 @@ As an added bonus, in case you're always on the go, this case also has nice carr
 That being said, if you're the kind of gamer that likes to have LAN parties, this is the casse for you. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price</a>
 <a class="right-button cta-button learn-button" href="#cooler-master-haf-xb-evo-review">Read Review</a>
 </div>
 
