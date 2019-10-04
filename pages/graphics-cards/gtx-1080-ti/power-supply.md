@@ -46,7 +46,7 @@ If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080
 <h3>Fully-Modular Power Supply</h3>
 <p>This 80+ Gold ceritifed power supply is an absolute monster. Thanks to its fully-modular design, the RM650x makes <a href="/cable-management/">cable management</a> a breeze, and it has more than enough power to run not one, but two GTX 1080 Ti's at the same time.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ogdxcP">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -131,7 +131,7 @@ If that’s not the case for you, however, feel free to opt for the [RM750x](htt
 At least you’ll have a bit of overclocking headroom and won’t have to worry about it dying anytime soon, and hey those cable braids are pretty sexy to boot.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2ogdxcP">Read Reviews on Amazon</a>
 </div>
 
 <div id="runner-up" class="featured-info-box">
