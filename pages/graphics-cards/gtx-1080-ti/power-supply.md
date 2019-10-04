@@ -145,7 +145,7 @@ At least you’ll have a bit of overclocking headroom and won’t have to worry 
 <h3>Semi-Modular Power Supply</h3>
 <p>This power supply is about half the price of the one above, but it's still easy to keep your cables tidy, it has plenty of power, and an 80+ Bronze certification.</p> 
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oSQbdf">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/31Mzgb2">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -231,7 +231,7 @@ That doesn’t mean go throw it down the stairs though.
 Please don’t do that...
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2ocV00Y">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/31Mzgb2">Read Reviews on Amazon</a>
 </div>
 
 <div id="budget-pick" class="featured-info-box">
