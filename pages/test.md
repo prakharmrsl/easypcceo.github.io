@@ -1,10 +1,15 @@
 ---
-title: Building the Best 700 Dollar Gaming PC (2019)
-permalink: "/budget-pcs/700/"
+title: "test" 
+permalink: "/test/"
 layout: page
-seotitle: "#1 Best 700 Dollar Gaming PC: Plays ALL Games (2019)" 
-meta: "In this guide, we'll be going over the best 700 dollar gaming PC money can buy!"
+seotitle: "test" 
+meta: "test"
 ---
+
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
 
 ![$700 Gaming PC Header](/img/header/700.jpg)
 
@@ -41,49 +46,49 @@ In this guide, we're going to be taking a look at the best $700 gaming PC build 
 		<td>CPU</td>
 		<td><a href="https://amzn.to/2VFbrCd">Ryzen 5 2600</a></td>
 		<td><a href="https://amzn.to/2VFbrCd"><img alt="$700 gaming PC processor" class="lazyload table-image" data-src="/img/700/700-cpu.jpg" /></a></td>
-		<td><a href="#the-processor" class="big-button">View</a></td>
+		<td><a href="#processor" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>MOBO</td>
-		<td><a target="_blank" href="https://amzn.to/2JefPBt">MSI B450M GAMING PLUS</a></td>
-		<td><a target="_blank" href="https://amzn.to/2JefPBt"><img alt="700 dollar gaming pc motherboard choice" class="lazyload table-image" data-src="/img/700/700-mobo.jpg" /> </a></td>
-		<td><a href="#the-motherboard" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/35pdZpT">MSI B450M DS3H</a></td>
+		<td><a target="_blank" href="https://amzn.to/35pdZpT"><img alt="700 dollar gaming pc motherboard choice" class="lazyload table-image" data-src="/img/700/700-mobo.jpg" /></a></td>
+		<td><a href="#motherboard" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>RAM</td>
-		<td><a target="_blank" href="https://amzn.to/2ZR1n8x">Patriot - 8 GB DDR4-2400</a></td>
-		<td><a target="_blank" href="https://amzn.to/2ZR1n8x"><img alt="700 dollar gaming pc ram choice" class="lazyload table-image" data-src="/img/700/700-ram.jpg" /> </a></td>
-		<td><a href="#the-ram" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/2M3ACsm">Corsair Vengeance LPX 16GB</a></td>
+		<td><a target="_blank" href="https://amzn.to/2M3ACsm"><img alt="700 dollar gaming pc ram choice" class="lazyload table-image" data-src="/img/700/700-ram.png" /></a></td>
+		<td><a href="#ram" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>SSD</td>
-		<td><a target="_blank" href="https://amzn.to/2DKlWtS">Kingston - A400 240GB</a></td>
-		<td><a target="_blank" href="https://amzn.to/2DKlWtS"><img alt="700 dollar gaming pc ssd choice" class="lazyload table-image" data-src="/img/700/700-ssd.jpg" /></a></td>
-		<td><a href="#the-solid-state-drive" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mWqjNa">Kingston A400 480GB</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mWqjNa"><img class="lazyload lazyload table-image" alt="Kingston A400 480GB SSD" data-src="/img/600/kingston-a400.jpeg" /></a></td>
+		<td><a href="#ssd" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>GPU</td>
-		<td><a target="_blank" href="https://amzn.to/2Y79xYm">MSI - GeForce GTX 1660 Ti 6 GB VENTUS XS OC</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Y79xYm"><img alt="700 dollar gaming pc gpu choice" class="lazyload table-image" data-src="/img/700/700-gpu.jpg" /></a></td>
-		<td><a href="#the-graphics-card" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/2IHHVUw">MSI - GeForce GTX 1660 Ti 6 GB VENTUS XS OC</a></td>
+		<td><a target="_blank" href="https://amzn.to/2IHHVUw"><img class="table-image lazyload" alt="MSI GeForce GTX 1660 Ti 6 GB VENTUS XS OC" data-src="/img/700/700-gpu.jpg" /></a></td>
+		<td><a href="#graphics-card" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>PSU</td>
-		<td><a target="_blank" href="https://amzn.to/2V17ovw">Corsair CXM 550 Watt 80+ Bronze Semi-Modular PSU</a></td>
-		<td><a target="_blank" href="https://amzn.to/2V17ovw"><img alt="700 dollar gaming pc psu choice" class="lazyload table-image" data-src="/img/700/700-psu.jpg" /></a></td>
-		<td><a href="#the-power-supply" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/2B4RKI8">Rosewill 500 Watt 80+ Bronze Semi-Modular PSU</a></td>
+		<td><a target="_blank" href="https://amzn.to/2B4RKI8"><img alt="Rosewill 500w" src="/img/700/700-psu.jpg" /></a></td>
+		<td><a href="#power-supply" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>CASE</td>
-		<td><a target="_blank" href="https://amzn.to/2H2z7bG">Bitfenix - Comrade</a></td>
-		<td><a target="_blank" href="https://amzn.to/2H2z7bG"><img alt="700 dollar gaming pc case choice" class="lazyload table-image" data-src="/img/700/700-case.jpg" /></a></td>
-		<td><a href="#the-case" class="big-button">View</a></td>
+		<td><a target="_blank" href="https://amzn.to/2H2z7bG">Cooler Master MasterBox Lite 5</a></td>
+		<td><a target="_blank" href="https://amzn.to/2H2z7bG"><img alt="700 dollar gaming pc case choice" class="lazyload" data-src="/img/700/700-case.jpg" /></a></td>
+		<td><a href="#case" class="big-button">View</a></td>
 	</tr>
 </table>
 
 *Prices fluctuate daily. All budgets are within a $50 threshold*
 
-<div id="cpu" class="featured-info-box">
+<div id="processor" class="featured-info-box">
 <span>PROCESSOR</span>
 <div class="content">
 <div class="img">
@@ -635,7 +640,7 @@ But if you can only pick one, the SSD is the way to go for performance.
   <a target="_blank" class="big-button-center" href="https://amzn.to/2IGIeyO">Read Reviews on Amazon</a>
 </div>
 
-<div id="gpu" class="featured-info-box">
+<div id="graphics-card" class="featured-info-box">
 <span>GRAPHICS CARD</span>
 <div class="content">
 <div class="img">
@@ -741,7 +746,7 @@ For less than $300, this GPU is a steal. The GTX 1660 Ti and Ryzen 5 2600 will d
   <a target="_blank" class="big-button-center" href="https://amzn.to/2IHHVUw">Read Reviews on Amazon</a>
 </div>
 
-<div id="psu" class="featured-info-box">
+<div id="power-supply" class="featured-info-box">
 <span>POWER SUPPLY</span>
 <div class="content">
 <div class="img">
