@@ -13,17 +13,8 @@ meta: "test"
 
 ![$700 Gaming PC Header](/img/header/700.jpg)
 
-<ul id="markdown-toc">
-<li><a href="#best-700-dollar-gaming-pc" id="markdown-toc-best-700-dollar-gaming-pc">Best 700 Dollar Gaming PC</a></li>
-<li><a href="#the-phoenix-a-700-gaming-pc" id="markdown-toc-the-phoenix-a-700-gaming-pc">The Phoenix: A $700 Gaming PC</a></li>
-<li><a href="#700-dollar-gaming-pc-build-guide" id="markdown-toc-700-dollar-gaming-pc-build-guide">700 Dollar Gaming PC Build Guide</a> 
-</li>
-<li><a href="#more-gaming-pc-builds" id="markdown-toc-more-gaming-pc-builds">More Gaming PC Builds</a></li>
-<li><a href="#my-thoughts-on-a-700-gaming-pc" id="markdown-toc-my-thoughts-on-a-700-gaming-pc">My Thoughts on a $700 Gaming PC</a></li>
-<li><a href="#is-an-ssd-worth-the-money" id="markdown-toc-is-an-ssd-worth-the-money">Is an SSD Worth the Money?</a></li>
-<li><a href="#intel-vs-ryzen" id="markdown-toc-intel-vs-ryzen">Intel vs. Ryzen</a></li>
-<li><a href="#custom-vs-prebuilt-gaming-pcs" id="markdown-toc-custom-vs-prebuilt-gaming-pcs">Custom vs. Prebuilt Gaming PCs</a></li>
-</ul>
+* TOC 
+{: toc}
 
 So, you're looking for the best 700 dollar gaming PC build in 2019. 
 
