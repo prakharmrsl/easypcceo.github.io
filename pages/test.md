@@ -92,7 +92,7 @@ In this guide, we're going to be taking a look at the best $700 gaming PC build 
 <span>PROCESSOR</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2VFbrCd"><img alt="Ryzen 5 2600 Processor (CPU)" src="/img/cpu/ryzen51400.png" /></a>
+<a target="_blank" href="https://amzn.to/2VFbrCd"><img alt="Ryzen 5 2600 Processor (CPU)" src="/img/700/ryzen-5-2600.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 2600</h2>
