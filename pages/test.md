@@ -13,14 +13,23 @@ meta: "test"
 
 ![$700 Gaming PC Header](/img/header/700.jpg)
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#best-700-dollar-gaming-pc" id="markdown-toc-best-700-dollar-gaming-pc">Best 700 Dollar Gaming PC</a></li>
+<li><a href="#more-gaming-pc-builds" id="markdown-toc-more-gaming-pc-builds">More Gaming PC Builds</a></li>
+<li><a href="#upgrade-options" id="markdown-toc-upgrade-options">Upgrade Options</a> 
+</li>
+<li><a href="#can-you-build-a-gaming-pc-for-700" id="markdown-toc-can-you-build-a-gaming-pc-for-700">Can You Build a Gaming PC for 700?</a></li>
+<li><a href="#is-an-ssd-worth-the-money" id="markdown-toc-is-an-ssd-worth-the-money">Is an SSD Worth the Money?</a></li>
+<li><a href="#intel-vs-ryzen" id="markdown-toc-intel-vs-ryzen">Intel vs. Ryzen</a></li>
+</ul>
 
-So, you're looking for the best 700 dollar gaming PC build in 2019. 
+Dominating in 1080p, handling 1440p with ease, all for an affordable price of $700.
 
-Lucky for you, $700 goes a long way – gaming hardware is constantly becoming faster while prices are simultaneously dropping. 
+Sound appealing? 
 
-In this guide, we're going to be taking a look at the best $700 gaming PC build in 2019. 
+Great, because in this post we're going to be taking a look at the best 700 dollar gaming PC for the money. 
+
+You'll be able to crush just about every title with ultra settings in 1080p, and if you're willing to turn down your settings a bit, you can even game in 1440p at medium-high settings with most games. 
 
 **Let's get started:**
 
@@ -175,6 +184,8 @@ If your CPU is too slow in comparison to your GPU, you'll experience bottlenecki
 You can figure out if your CPU/GPU will bottleneck with this handy [bottleneck percentage calculator](https://pc-builds.com/calculator/){: target="_blank"}.
 
 The [Ryzen 5 2600](https://amzn.to/2VFbrCd){:target="_blank"} is a great budget gaming CPU. Thanks to its high clock speed, impressive overclocking performance, 6 cores and 12 threads, this processor definitely holds its own. 
+
+![ryzen 5 2600](/img/700/r5-2600.jpg){: .img-middle}
 
 Its performance is comparable to Team Blue's offerings in the same price range – in fact, this CPU actually comes out on top in many gaming related performance tests.  
 
