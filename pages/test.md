@@ -75,13 +75,13 @@ In this guide, we're going to be taking a look at the best $700 gaming PC build 
 	<tr>
 		<td>PSU</td>
 		<td><a target="_blank" href="https://amzn.to/2B4RKI8">Rosewill 500 Watt 80+ Bronze Semi-Modular PSU</a></td>
-		<td><a target="_blank" href="https://amzn.to/2B4RKI8"><img alt="Rosewill 500w" src="/img/700/700-psu.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2B4RKI8"><img class="lazyload table-image" alt="Rosewill 500w" src="/img/700/700-psu.jpg" /></a></td>
 		<td><a href="#power-supply" class="big-button">View</a></td>
 	</tr>
 	<tr>
 		<td>CASE</td>
 		<td><a target="_blank" href="https://amzn.to/2H2z7bG">Cooler Master MasterBox Lite 5</a></td>
-		<td><a target="_blank" href="https://amzn.to/2H2z7bG"><img alt="700 dollar gaming pc case choice" class="lazyload" data-src="/img/700/700-case.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2H2z7bG"><img alt="700 dollar gaming pc case choice" class="table-image lazyload" data-src="/img/700/700-case.jpg" /></a></td>
 		<td><a href="#case" class="big-button">View</a></td>
 	</tr>
 </table>
@@ -987,6 +987,7 @@ Oh, and you can brag to your buddies about your water-cooled rig.
 </div>
 
 ### [EVGA GeForce RTX 2060 XC Black Edition 6GB](https://amzn.to/2IHN8f1){: target="_blank}
+![rtx 2060 gpu upgrade](/img/700/rtx.png){: .img-right .img-small}
 
 This 6GB video card is among the newest from NVIDIA, and I felt it would be the perfect upgrade option if you want a better GPU. 
 
