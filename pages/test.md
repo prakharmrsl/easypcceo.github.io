@@ -1007,6 +1007,8 @@ Yes, if your aim is to crush games in 1080p with ultra settings or kick things u
 
 I've been a PC gamer since I was 13 when I built my first gaming PC in the 8th grade. 
 
+![700 dollar gaming pc](/img/700/700-pc.jpg){: .img-right .img-small}
+
 Prior to my enlightenment, I played a whole lot of Call of Duty on the Xbox 360. When the Xbox One came out, I decided I'd rather build a gaming PC than buy a new console. 
 
 I could either: 
@@ -1059,6 +1061,7 @@ Of course, 240GB is not a lot of storage if you like to download photos, music, 
 To learn about the tech that makes SSDs lightning fast, click [here](https://computer.howstuffworks.com/solid-state-drive.htm){: target="_blank"}. 
 
 ## Intel vs. Ryzen 
+![intel vs ryzen](/img/700/intel-vs-ryzen.png){: .img-right .img-small}
 
 Up until recently, it was obvious that AMD's Ryzen 3 line held the title of "The King of Budget Gaming CPUs". Before Ryzen 3 was released, your only real options were the skylake i3 CPUs, or the Pentium G4560. Both choices didn't sport four cores; only dual cores with hyperthreading. 
 
