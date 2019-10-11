@@ -96,7 +96,7 @@ In this guide, we're going to be taking a look at the best $700 gaming PC build 
 </div>
 <div class="text">
 <h2>Ryzen 5 2600</h2>
-<h3>Quad-Core Processor</h3>
+<h3>Six-Core Processor</h3>
 <p>Affordable yet powerful, the Ryzen 5 2600 is our pick for a gaming PC in this price range.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2VFbrCd">Check Price on Amazon</a>
