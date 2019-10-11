@@ -104,9 +104,9 @@ If you want some help picking out your components, we've got a bunch of build gu
 		<td class="components">
 			<ul>
 			<li>Ryzen 5 2600</li>
-			<li>RX 570 8GB</li>
-			<li>8GB DDR4-2933</li>
-			<li>500GB SSD</li>
+			<li>GTX 1060 6GB</li>
+			<li>16GB DDR4-3000</li>
+			<li>480GB SSD</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="/budget-pcs/600/">Build Guide</a></td>
@@ -119,8 +119,8 @@ If you want some help picking out your components, we've got a bunch of build gu
 			<ul>
 			<li>AMD Ryzen 5 2600</li>
 			<li>GTX 1660 Ti 6GB</li>
-			<li>8GB DDR4-2400</li>
-			<li>240GB SSD</li>
+			<li>16GB DDR4-3200</li>
+			<li>480GB SSD</li>
 			</ul>
 		</td>
 		<td>
