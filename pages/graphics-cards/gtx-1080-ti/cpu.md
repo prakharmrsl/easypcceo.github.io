@@ -92,7 +92,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Architecture</span>
+          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Coffee Lake
@@ -119,6 +119,10 @@ There are a couple of notes you should take before purchasing one for yourself, 
 * We suggest you only use a Z390 motherboard for this CPU, as VRM restraints on Z370 could tank your performance
 * This processor does NOT come with a cooler out-of-the-box, so you will have to buy an aftermarket cooler
 * Make sure you research your cooler before buying, as the 9900KF is a toasty monster
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2r1tFQu">Read Reviews on Amazon</a>
+</div>
 
 <div id="runner-up" class="featured-info-box">
 <span>Runner Up</span>
@@ -191,7 +195,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Architecture</span>
+          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Coffee Lake
@@ -216,6 +220,10 @@ Just as before, we have for you a couple of notes before making your purchase:
 
 * We, again, suggest a Z390 board for this chip but in this case, it’s only for overclocking. Otherwise, you should be fine.
 * If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/32b52xF">Read Reviews on Amazon</a>
+</div>
 
 <div id="budget-pick" class="featured-info-box">
 <span>Budget Pick</span>
@@ -287,7 +295,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Architecture</span>
+          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Zen 2
@@ -318,6 +326,10 @@ Now, if you’re comparing performance to our previous picks it does fall a bit 
 
 But just like our other picks, this chip can overclock, and that’s where you’ll find the best of this budget CPU. The overclocking potential of the 3600 is unbelievable, especially on an X570 board.
 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2NyVZRW">Read Reviews on Amazon</a>
+</div>
+
 ## 3 Best CPUs for 1080 Ti Graphics Card
 
 <table class="basic-table" align="center">
@@ -329,7 +341,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2r1tFQu">Intel Core i9-9900KF</a></td>
-		<td><a target="_blank" href="https://amzn.to/2r1tFQu"><img alt="best cpu for 1080 ti" src="/img/cpu/i9-9900kf.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2r1tFQu"><img class="table-image" alt="best cpu for 1080 ti" src="/img/cpu/i9-9900kf.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Gaming CPU</li>
@@ -339,7 +351,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/32b52xF">Intel Core i9-9700k</a></td>
-		<td><a target="_blank" href="https://amzn.to/32b52xF"><img alt="i9 9700k, another great cpu for the 1080 ti" src="/img/cpu/core-i9.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/32b52xF"><img class="table-image" alt="i9 9700k, another great cpu for the 1080 ti" src="/img/cpu/core-i9.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Power</li>
@@ -349,7 +361,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2NyVZRW">AMD Ryzen 5 3600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NyVZRW"><img alt="Best budget CPU for 1080 ti" src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NyVZRW"><img class="table-image" alt="Best budget CPU for 1080 ti" src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Price/Performance</li>
@@ -360,7 +372,6 @@ But just like our other picks, this chip can overclock, and that’s where you�
 </table>
 
 ## How to Choose the Right CPU for You
-![best cpu](/img/cpu/best-cpu.jpg){: .img-right .img-small}
 
 Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab. 
 
