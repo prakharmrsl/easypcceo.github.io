@@ -236,13 +236,18 @@ Our top pick is the [ASUS ROG PG279Q](https://amzn.to/2mAqD3S){: target="_blank"
 </div>
 
 ## Best CPU for GTX 1080 Ti 
-![best CPU for GTX 1080 ti](/img/gpu/1080ti/cpu/i7.jpg){: .img-right .img-small}
+![best CPU for GTX 1080 ti](/img/cpu/core-i9.jpg){: .img-right .img-small}
 
 There's two different perspectives you can get when asking the "what's the best CPU" for whatever graphics card pairing; and that's performance vs. price.
 
 Starting with the best performance choice there's no other but the Intel i9-9900KF, which is the leading performer in gaming across the market.
 
 If you're looking for the best bang for your buck, the best option is the Intel i9-9700K if you're buying brand new on Amazon or Newegg. For the used market, used 7700K and 8700K's hold up fairly well.
+
+<div class="buttons-wrapper">
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2r1tFQu">Check Price</a>
+<a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/cpu/">Read Our Guide</a>
+</div>
 
 ## Best Power Supply for GTX 1080 Ti 
 ![best CPU for GTX 1080 ti](/img/gpu/1080ti/power-supply/best-psu-gtx-1080-ti.png){: .img-right .img-small}

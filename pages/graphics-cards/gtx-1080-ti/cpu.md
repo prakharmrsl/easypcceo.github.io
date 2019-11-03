@@ -11,13 +11,16 @@ meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you b
 	<span>Jacob Tuwiner</span>
 </div>
 
+* TOC
+{: toc}
+
 Want a CPU that’ll push your FPS to the limit?
 
 Maybe something that’ll get you them sweet sweet CPU render times?
 
-Or maybe you're on the hunt for a good CPU to pair with your 1080 Ti without breaking the bank. 
+Or maybe you're on the hunt for a good CPU to pair with your [1080 Ti](/graphics-cards/gtx-1080-ti/) without breaking the bank. 
 
-It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it.  
+It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it. 
 
 If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/2r1tFQu){: target="_blank"} is our top pick. 
 
@@ -109,7 +112,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
   </div>    
 </section>
 
-The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz boost clock turbo.
+The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}.
 
 No matter what, you’ll be getting the most out of this amazing processor in tackling any task you throw its way. And that’s without overclocking.
 
@@ -212,7 +215,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
   </div>    
 </section>
 
-Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the threads.
+Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the [threads](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html){: target="_blank"}.
 
 Unlike with the 9900K vs 9900KF, the KF skew of the 9700K doesn’t offer any performance increase for practically the same cost, or even much higher from some retailers, so there’s no real point in choosing it over the version with integrated graphics.
 
@@ -372,6 +375,10 @@ But just like our other picks, this chip can overclock, and that’s where you�
 </table>
 
 ## How to Choose the Right CPU for You
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/i2z6Da0yDL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab. 
 
