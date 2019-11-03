@@ -265,3 +265,17 @@ With that said, our chosen power supply for the best power supply for a 1080 Ti 
 	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
 </div>
+
+## Best Nvidia Control Panel Settings for GTX 1080 Ti
+
+If you want to maximize the performance of your new 1080 Ti, you ought to optimize your Nvidia control panel settings.
+
+After all, they're there for a reason. 
+
+Doing so will ensure optimal performance, though it's important to note that your in-game settings are going to have a big impact on performance as well.
+
+In any event, we've created a step-by-step guide for you (with pictures) to help you optimize your control panel. 
+
+<div class="btn-center">
+<a target="_blank" class="big-button-middle" href="/graphics-cards/gtx-1080-ti/nvidia-control-panel-settings/">Read the Guide</a>
+</div>
