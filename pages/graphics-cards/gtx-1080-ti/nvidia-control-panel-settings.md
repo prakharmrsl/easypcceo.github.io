@@ -50,26 +50,26 @@ Now that you’ve reached the download page, hit download and follow the GeForce
 
 ## GeForce Experience Installation
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image19.jpg" alt="GeForce experience download" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image19.JPG" alt="GeForce experience download" />
 
 As is with most program installations, go ahead and agree to the Nvidia End User License Agreement to install. Whether or not you read it is up to you, of course.
 
 Click get started to begin the installation.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image20.jpg" alt="geforce experience screen" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image20.JPG" alt="geforce experience screen" />
 
 Once installed, you’ll need to log in with one of the given options to use the Nvidia GeForce Experience app.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image21.jpg" alt="geforce experience app" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image21.JPG" alt="geforce experience app" />
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image22.jpg" alt="optimize your games with geforce experience app" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image22.JPG" alt="optimize your games with geforce experience app" />
 
 
 After you’ve logged in, you’ll be given the option to have your games automatically optimized for your GPU. We suggest selecting this option before continuing.
 
 Now that all that’s all done with, head over to drivers and click Download to install the latest Nvidia drivers for your graphics card.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image23.jpg" alt="downloading your graphics card drivers" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image23.JPG" alt="downloading your graphics card drivers" />
 
 ## 3D Settings
 
