@@ -1,5 +1,5 @@
 ---
-title: "The Best Processors for The GTX 1080 Ti" 
+title: "The Best CPUs for The GTX 1080 Ti" 
 permalink: "/graphics-cards/gtx-1080-ti/cpu/"
 layout: page
 seotitle: "3 Best CPUs for GTX 1080 Ti in 2019 (No Bottleneck)" 
