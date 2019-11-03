@@ -66,7 +66,7 @@ GPU manufacturers have wanted a way to sync together the frame rate of graphics 
 
 The solution, from Nvidia, was Nvidia G-Sync. Nvidia’s G-Sync enabled monitors to work alongside G-Sync compatible graphics cards to sync the rate for both. 
 
-![freesync](/img/framerate-vs-refreshrate/amd-freesync.jpg){: .img-middle}
+![freesync](/img/framerate-vs-refreshrate/amd-freesync.png){: .img-middle}
 
 GPUs like the GTX 1080 and [1080 Ti](/graphics-cards/gtx-1080-ti/) are great examples of G-Sync coming in handy, since they both deliver very high performance (FPS). 
 
