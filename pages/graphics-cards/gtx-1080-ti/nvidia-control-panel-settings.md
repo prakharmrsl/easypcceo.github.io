@@ -77,17 +77,17 @@ For the first setting, you’ll want to start under 3D Settings > Adjust image s
 
 Then click Apply.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image1.jpg" alt="3d settings" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image1.JPG" alt="3d settings" />
 
 After clicking Apply, under the same tab select Use the advanced 3D image settings and hit Apply again.
 
 Heading over to Manage 3D settings now, we’re going to change a couple of these but leave most of them Default (unless you’ve got other ideas).
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image3.jpg" alt="geforce experience app" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image3.JPG" alt="geforce experience app" />
 
 The first setting we’ll check here is the CUDA - GPUs.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image4.jpg" alt="cuda gpus" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image4.JPG" alt="cuda gpus" />
 
 Just double-click the word All and make sure that your main graphics card is the one checked, then click OK.
 
@@ -95,25 +95,25 @@ This next setting is a little iffy and you may or may not have it, but just in c
 
 Under Maximum pre-rendered frames select 1. If you have a much older computer, you may want to drop it down to 3 or 4.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image5.jpg" alt="max pre-rendered frames" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image5.JPG" alt="max pre-rendered frames" />
 
 Next, we have Power management mode.
 
 Once again, click and scroll to Prefer maximum performance then select it.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image6.jpg" alt="power management mode" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image6.JPG" alt="power management mode" />
 
 For the Preferred refresh rate, set it to the Highest available setting.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image7.jpg" alt="geforce experience app" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image7.JPG" alt="geforce experience app" />
 
 Set Texture filtering Quality to High performance.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image8.jpg" alt="geforce experience app" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image8.JPG" alt="geforce experience app" />
 
 In our final setting, Threaded optimization, just turn it on.
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image9.jpg" alt="threaded optimization" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image9.JPG" alt="threaded optimization" />
 
 All of the 3D settings are in place, now click Apply to make sure they all, well, apply.
 
@@ -121,7 +121,7 @@ All of the 3D settings are in place, now click Apply to make sure they all, well
 
 Under Display > Change resolution, all you want to do is make sure your refresh rate is properly set to the maximum allowed (in my case 60Hz).
 
-<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image11.jpg" alt="maximum refresh rate" />
+<img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image11.JPG" alt="maximum refresh rate" />
 
 Then select your preferred resolution.
 
