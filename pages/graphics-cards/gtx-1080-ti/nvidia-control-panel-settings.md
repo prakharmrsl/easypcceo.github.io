@@ -36,7 +36,7 @@ Anyway, let's get into it!
 
 <img class="lazyload img-center" data-src="/img/gpu/1080ti/control-panel/Image17.jpg" alt="nvidia drivers" />
 
-First, you’ve gotta start by installing the drivers in the first place, if you already haven’t, by navigating to the driver download page here.
+First, you’ve gotta start by installing the drivers in the first place, if you already haven’t, by navigating to the driver download page [here](https://www.nvidia.com/Download/index.aspx?lang=en-us){: target="_blank"}.
 
 Once on the driver page, simply select your Product Type and Series, then find your graphics card on the Product list.
 
