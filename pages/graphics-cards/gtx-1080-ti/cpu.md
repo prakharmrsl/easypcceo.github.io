@@ -30,7 +30,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2r1tFQu"><img alt="best cpu for 1080 ti" src="/img/cpu/i9-9900kf.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2r1tFQu"><img class="lazyload" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i9-9900KF</h2>
@@ -133,7 +133,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/32b52xF"><img alt="i9 9700k, another great cpu for the 1080 ti" src="/img/cpu/core-i9.jpg" /></a>
+<a target="_blank" href="https://amzn.to/32b52xF"><img class="lazyload" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel i9-9700K</h2>
@@ -234,7 +234,7 @@ Just as before, we have for you a couple of notes before making your purchase:
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2NyVZRW"><img alt="best budget cpu for 1080 ti" src="/img/cpu/ryzen-5-3600.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2NyVZRW"><img class="lazyload" alt="best budget cpu for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
@@ -346,7 +346,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2r1tFQu">Intel Core i9-9900KF</a></td>
-		<td><a target="_blank" href="https://amzn.to/2r1tFQu"><img class="table-image" alt="best cpu for 1080 ti" src="/img/cpu/i9-9900kf.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2r1tFQu"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Gaming CPU</li>
@@ -356,7 +356,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/32b52xF">Intel Core i9-9700k</a></td>
-		<td><a target="_blank" href="https://amzn.to/32b52xF"><img class="table-image" alt="i9 9700k, another great cpu for the 1080 ti" src="/img/cpu/core-i9.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/32b52xF"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Power</li>
@@ -366,7 +366,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2NyVZRW">AMD Ryzen 5 3600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2NyVZRW"><img class="table-image" alt="Best budget CPU for 1080 ti" src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2NyVZRW"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Price/Performance</li>
@@ -389,7 +389,7 @@ Or maybe you don’t and you’ve already bought it. Christ, that was fast.
 From us to you, here are some things you should know when choosing the processor for your next build.
 
 ### Clock Speed
-![clock speed](/img/cpu/clock-speed.jpg){: .img-right .img-small}
+<img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" />
 
 The clock speed of a processor is the speed at which it can complete its given tasks. 
 
@@ -404,7 +404,7 @@ Though, as your CPU speed gets higher, it might require more power and output mo
 But clock speed isn’t the only thing that determines how fast a processor is.
 
 ### Core Count
-![core count](/img/cpu/core-count.jpg){: .img-right .img-small}
+<img class="lazyload img-small img-right" alt="core count" data-src="/img/cpu/core-count.jpg" />
 
 As confusing as it may sound, cores are basically individual processing units. 
 
