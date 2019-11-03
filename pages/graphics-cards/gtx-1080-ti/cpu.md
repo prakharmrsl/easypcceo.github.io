@@ -11,6 +11,8 @@ meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you b
 	<span>Jacob Tuwiner</span>
 </div>
 
+![best cpu for 1080 ti header graphic](/img/header/1080ti-processors.png){: .page-header}
+
 * TOC
 {: toc}
 

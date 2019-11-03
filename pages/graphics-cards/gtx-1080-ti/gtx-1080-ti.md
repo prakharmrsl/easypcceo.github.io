@@ -11,6 +11,9 @@ meta: "We've rounded up and reviewed the 5 best GTX 1080 Ti graphics cards on th
 	<span>Jacob Tuwiner</span>
 </div>
 
+![best 1080 ti graphics cards header graphic](/img/header/awesome-1080ti-graphics-cards.png){: .page-header}
+
+
 <ul id="markdown-toc">
 <li><a href="#5-best-gtx-1080-ti-graphics-cards" id="markdown-toc-5-best-gtx-1080-ti-graphics-cards">5 Best GTX 1080 Ti Graphics Cards</a></li>
 <li><a href="#how-to-find-a-good-gtx-1080-ti-on-ebay" id="markdown-toc-how-to-find-a-good-gtx-1080-ti-on-ebay">How to Find a Good GTX 1080 Ti on eBay</a></li>
