@@ -2,7 +2,7 @@
 title: "How to Optimize Nvidia Control Panel for GTX 1080 Ti" 
 permalink: "/graphics-cards/gtx-1080-ti/nvidia-control-panel-settings/"
 layout: page
-seotitle: "Best Nvidia Control Panel Settings for 1080 Ti (Performance)" 
+seotitle: "Best Nvidia Control Panel Settings for GTX 1080 Ti (Performance)" 
 meta: "Using the right Nvidia control panel settings for your GTX 1080 Ti is going to make or break your experience. We're going to show you how to optimize them for performance!"
 ---
 
