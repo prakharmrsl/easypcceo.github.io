@@ -277,5 +277,5 @@ Doing so will ensure optimal performance, though it's important to note that you
 In any event, we've created a step-by-step guide for you (with pictures) to help you optimize your control panel. 
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="/graphics-cards/gtx-1080-ti/nvidia-control-panel-settings/">Read the Guide</a>
+<a class="big-button-middle" href="/graphics-cards/gtx-1080-ti/nvidia-control-panel-settings/">Read the Guide</a>
 </div>
