@@ -12,6 +12,8 @@ redirect_from: /best-1440p-gaming-monitors/
 	<span>Jacob Tuwiner</span>
 </div>
 
+![best monitor for 1080 ti header graphic](/img/header/1080ti-monitors.png){: .page-header}
+
 <ul id="markdown-toc">
 <li><a href="#3-best-monitors-for-1080-ti-graphics-card" id="markdown-toc-3-best-monitors-for-1080-ti-graphics-card">3 Best Monitors for 1080 Ti Graphics Card</a> <ul>
 <li><a href="#best-freesync-monitor-lg-32gk650f-b" id="markdown-toc-best-freesync-monitor-lg-32gk650f-b">Best FreeSync Monitor: LG 32GK650F-B</a></li>
