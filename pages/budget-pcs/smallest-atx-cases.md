@@ -39,7 +39,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </tr>
   <tr>
     <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="table-image" src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Clean Design</li>
@@ -49,7 +49,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </tr>
   <tr>
     <td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
-    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="table-image" src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
     <td class="components">
       <ul>
       <li>Fantastic Cable Management</li>
@@ -59,7 +59,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </tr>
   <tr>
     <td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
-    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="table-image" src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Smart Case</li>
@@ -69,7 +69,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </tr>
   <tr>
     <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="table-image" src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Perfect for Travel</li>
@@ -79,7 +79,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   </tr>
   <tr>
     <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="table-image" src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Slim ATX Case Design</li>
@@ -93,7 +93,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
 <span>OUR PICK</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2oFt85v"><img alt="Corsair Carbide Series 400C" src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2oFt85v"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Series 400C</h2>
@@ -127,7 +127,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -135,7 +135,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -143,7 +143,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Good
@@ -151,7 +151,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -159,7 +159,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -167,7 +167,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -205,7 +205,7 @@ This case is awesome and it knows it!
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2MUOsLS"><img alt="Corsair Carbide Series Air 540" src="/img/case/carbide-air-540.png" /></a>
+<a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload" alt="Corsair Carbide Series Air 540" data-src="/img/case/carbide-air-540.png" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Series Air 540</h2>
@@ -240,7 +240,7 @@ This case is awesome and it knows it!
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -248,7 +248,7 @@ This case is awesome and it knows it!
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -256,7 +256,7 @@ This case is awesome and it knows it!
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -264,7 +264,7 @@ This case is awesome and it knows it!
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -272,7 +272,7 @@ This case is awesome and it knows it!
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Good
@@ -280,7 +280,7 @@ This case is awesome and it knows it!
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Silent
@@ -318,7 +318,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
 <span>ALSO AWESOME</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2RFXJcK"><img alt="NZXT H500i" src="/img/case/nzxt-h500i.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2RFXJcK"><img class="lazyload" alt="NZXT H500i" data-src="/img/case/nzxt-h500i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H500i</h2>
@@ -355,7 +355,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -363,7 +363,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Good
@@ -371,7 +371,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -379,7 +379,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -387,7 +387,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -395,7 +395,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -425,7 +425,7 @@ It also features a nice side panel window that allows you to display your compon
 <span>Portability Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2N0cAMT"><img alt="Cooler Master HAF XB II EVO" src="/img/case/cooler-master-haf.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload" alt="Cooler Master HAF XB II EVO" data-src="/img/case/cooler-master-haf.jpg" /></a>
 </div>
 <div class="text">
 <h2>Cooler Master HAF XB EVO</h2>
@@ -457,7 +457,7 @@ It also features a nice side panel window that allows you to display your compon
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -465,7 +465,7 @@ It also features a nice side panel window that allows you to display your compon
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -473,7 +473,7 @@ It also features a nice side panel window that allows you to display your compon
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -481,7 +481,7 @@ It also features a nice side panel window that allows you to display your compon
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -489,7 +489,7 @@ It also features a nice side panel window that allows you to display your compon
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Great
@@ -497,7 +497,7 @@ It also features a nice side panel window that allows you to display your compon
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -527,7 +527,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
 <span>Slim Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2vTJbgT"><img alt="Thermaltake Core G3 Slim ATX Case" src="/img/case/thermaltake-core-g3.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload" alt="Thermaltake Core G3 Slim ATX Case" data-src="/img/case/thermaltake-core-g3.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Core G3</h2>
@@ -560,7 +560,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -568,7 +568,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Average
@@ -576,7 +576,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Good
@@ -584,7 +584,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -592,7 +592,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Average
@@ -600,7 +600,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -629,7 +629,7 @@ All in all, it's a fantastic case for the money.
 
 ## Case Buying Guide
 
-![Carbide Air 540](/img/case/carbide-air-540.png){: .img-right .img-small}
+<img class="lazyload img-right img-small" alt="carbide air 540" data-src="/img/case/carbide-air-540.png" />
 
 If you're interested in building a gaming PC, it is imperative that you choose the [right case](https://www.computercaselab.com/what-makes-a-computer-case-the-best-for-gaming/){: target="_blank"}. Of course, that's easier said than done. 
 
@@ -669,7 +669,7 @@ You may find this PC airflow guide helpful:
 
 **3.** A great gaming case has room for plenty of *quiet* case fans! This goes hand-in-hand with airflow. If your case doesn't have space to add case fans, it's a no go. 
 
-![Thermaltake Core G3](/img/case/thermaltake-core-g3.jpg){: .img-right .img-small}
+<img class="lazyload img-right img-small" alt="Thermaltake Core G3" data-src="/img/case/thermaltake-core-g3.jpg" />
 
 Most gaming cases ship with fans included – many of them have cool looking LEDs too. 
 
@@ -718,7 +718,7 @@ The 400C has a clean, modern, and minimalistic design with an entirely steel ext
 This case knows it's good-looking, and doesn't have to show off to get the attention it deserves. 
 
 <figure>
-<img class="img-middle" alt="back of corsair carbide 400c" src="/img/case/corsair-carbide-400c-back.jpg" />
+<img class="lazyload img-middle" alt="back of corsair carbide 400c" data-src="/img/case/corsair-carbide-400c-back.jpg" />
 <figcaption><p>Image courtesy of <a target="_blank" href="https://www.pcmag.com/review/344852/corsair-carbide-clear-400c">PC Mag review</a></p></figcaption>
 </figure>
 
@@ -738,7 +738,7 @@ In today's day and age, people are consuming their media much differently than t
 
 Moreover, rather than popping your favorite movie into the DVD player, most people choose to watch movies and TV shows via their favorite online streaming service, such as Netflix or Hulu. 
 
-![Corsair 400C inside](/img/case/400c-inside.png){: .img-middle}
+<img class="lazyload img-middle" alt="Corsair 400C inside" data-src="/img/case/400c-inside.png" />
 
 Corsair has taken note of this shift, and decided to remove 5.25-inch optical drive bays entirely from this case. 
 
@@ -758,7 +758,7 @@ The case supports up to five storage devices, two of which are 3.5-inch drives a
 
 The power supply and the removable 3.5-inch drive cage are both protected by overlapping plastic shrouds. When the plastic shrouds are there (they're removable), they hide most of the case's wiring, giving it a cleaner look and feel. 
 
-![Corsair 400C case airflow](/img/case/carbide-400c-airflow.png){: .img-middle}
+<img class="lazyload img-middle" alt="Corsair 400C case airflow" data-src="/img/case/carbide-400c-airflow.png" />
 
 The case also has several cable cutouts, which are lined with rubber. 
 
@@ -802,7 +802,7 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
 
 The case measures 415 x 332 x 458mm (HxWxD). Surprisingly, this case can house motherboards as small as Mini-ITX all the way up to full-sized E-ATX boards, and has eight expansion slots in the back. 
 
-![Corsair Air 540 Side](/img/case/air-540-side.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="Corsair Air 540 Side" data-src="/img/case/air-540-side.jpg" />
 
 It can house two 3.5-inch drives on the floor, and has a drive rack in the back which supports up to four 2.5-inch drives as well. 
 
@@ -824,7 +824,7 @@ The right side of the case has flat textured plastic, where you'll find a pair o
 
 The glass is lined with steel, ensuring the panel is sturdy. 
 
-![Air 540 Interior](/img/case/air-540-interior.png){: .img-middle}
+<img class="lazyload img-middle" alt="Air 540 Interior" data-src="/img/case/air-540-interior.png" />
 
 Behind the glass panel, you'll find the motherboard tray which can house anything up to Extended ATX motherboards, with nine cable management cutouts, eight of which have grommets in them. 
 
@@ -868,7 +868,7 @@ It also features a nice side panel window that allows you to display your compon
 
 The case is a big larger than its mATX little brother, the H400i. This is the smallest full ATX case in our list, even smaller than the Air 540. 
 
-![h500i case design](/img/case/h500i-case-design.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="h500i case design" data-src="/img/case/h500i-case-design.jpg" />
 
 The top of the case has two USB 3.1 ports, an HDD activity LED, a power button, and headphone and microphone jacks. 
 
@@ -886,7 +886,7 @@ NZXT advertises this case as a "smart case", hence the "i" at the end of its nam
 
 This case is loaded with awesome features, including an Adaptive Noise Reduction algorithm that adjusts fan speeds based on temperature and measured noise changes. 
 
-![nzxt h500i RGB lighting](/img/case/h500i-rgb.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="nzxt h500i RGB lighting" data-src="/img/case/h500i-rgb.jpg" />
 
 The case also comes with a fan controller and an LED RGB lighting controller. Lastly, the H500i ships with two pre-installed RGB lighting strips, one of which is located behind the cable management bar and the other in the top of the chassis. 
 
@@ -900,7 +900,7 @@ The case's interior doesn't have much pre-installed – no hard drive racks, no 
 
 The only thing that you'll find inside the case from the factory is a cable management bar. There's plenty of room for a plethora of different system builds. 
 
-![nzxt h500i small micro atx case](/img/case/h-500i-side.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="nzxt h500i small micro atx case" data-src="/img/case/h-500i-side.jpg" />
 
 There are mounting locations for two 2.5" drives and two 3.5" drives. You can either mount the drives on top of the PSU tunnel or behind the motherboard tray. 
 
@@ -936,7 +936,7 @@ The front panel IO has the power/reset buttons, your audio ports, and two USB 3 
 
 The sides of the case are identical with airflow vents and handles, making transport super easy. 
 
-![haf xb evo](/img/case/haf-xb-evo.jpeg){: .img-middle}
+<img class="lazyload img-middle" alt="haf xb evo" data-src="/img/case/haf-xb-evo.jpeg" />
 
 If you're looking for a case with exceptional build quality, you can't go wrong with this chassis. 
 
@@ -952,7 +952,7 @@ On the other hand – much like the Corsair Carbide Air 540 this case was design
 
 Besides, you can always add your own fan controller if you wish. 
 
-![haf xb evo](/img/case/haf-xb-evo.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="haf xb evo" data-src="/img/case/haf-xb-evo.jpg" />
 
 The case has dust filters on just about every air intake in order to combat dust from entering the enclosure and clogging up fans, damaging components, etc. 
 
@@ -970,7 +970,7 @@ This case has a removable motherboard tray, making installation much easier.
 
 Cooler Master has done a great job to ensure this case has a spacious interior despite being so small. In addition, since the components that don't need airflow are stored in the bottom, cooling potential is maximized. 
 
-![haf xb evo airflow](/img/case/haf-xb-evo-airflow.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="haf xb evo airflow" data-src="/img/case/haf-xb-evo-airflow.jpg" />
 
 In addition, the entire bottom section of the case has notches to aid with cable management. Despite this case's small size, there are plenty of cable management options, so don't worry about having a hard time there. 
 
@@ -988,7 +988,7 @@ The components on the second story enjoy unobstructed airflow, and at the same t
 
 Moreover, the HAF XB's top and side panels can all be removed, which means the case could also be used as a test bench. 
 
-![Cooler Master HAF XB](/img/case/cooler-master-haf.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="Cooler Master HAF XB" data-src="/img/case/cooler-master-haf.jpg" />
 
 The case is compatible with all modern tower-style coolers, and can support a 240mm radiator in addition to another 120mm radiator installed at the same time. 
 
