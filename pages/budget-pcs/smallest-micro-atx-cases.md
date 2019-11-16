@@ -108,18 +108,6 @@ Here is a list of the smallest micro ATX cases on the market:
 		<td><a class="big-button" href="#rexgear-1">View</a></td>
 	</tr>
 	<tr>
-		<td>Rosewill R379-M</td>
-		<td><a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload table-image" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim Design</li>
-			<li>Cheap Price</li>
-			<li>Airflow</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#r379-m">View</a></td>
-	</tr>
-	<tr>
 		<td>Cooler Master MasterBox Q300L</td>
 		<td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
 		<td class="components">
@@ -146,26 +134,97 @@ Here is a list of the smallest micro ATX cases on the market:
 </table>
 
 <div id="h400i" class="featured-info-box">
-<span>Top Pick</span>
+<span>OUR PICK</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H400i</h2>
-<h3>Best Micro ATX Case</h3>
+<h3>Best Small Micro ATX Case</h3>
+<p>If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Durable steel construction</li> 
+        <li>RGB digital fan controller</li> 
+        <li>Tempered glass side panel</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>A bit pricey</li>
+        <li>Heavy</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
-<p>If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you. It’s clean and sleek, with a sturdy steel design and beautiful tempered glass side panel for your viewing pleasure.</p>
+The greatness doesn’t stop at looks for the H400i, as its features set it apart from all other Micro ATX cases. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
 
-<div class="btn">
-<a class="learn-button cta-button" href="#nzxt-h400i">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price </a>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price</a>
+<a class="right-button cta-button learn-button" href="#nzxt-h400i">Read Review</a>
 </div>
-</div>
-</div>
-</div>
-
-The greatness doesn’t stop at looks for the H400i, as its features set it apart from all other Micro ATX case. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
 
 <div id="prodigy-m" class="featured-info-box">
 <span>Runner Up</span>
@@ -177,15 +236,89 @@ The greatness doesn’t stop at looks for the H400i, as its features set it apar
 <h2>BitFenix Prodigy M</h2>
 <h3>Micro ATX Case with Handle</h3>
 <p>The BitFenix Prodigy M is one of the smallest and most portable Micro ATX cases around right now. It’s compact enough to be considered for even Mini ITX builds, and even comes with handles for all of your LAN party needs.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#bitfenix-prodigy-m">Read Review </a>
+<div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Carrying handle</li> 
+        <li>Compact</li> 
+        <li>Versatile</li> 
+        <li>Good looking design</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Difficult to build in</li>
+        <li>Expensive</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Poor
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
 With portability matching no other, the BitFenix Prodigy M should be one of, if not your top choice when looking for your next Micro ATX LAN build. Its flexible handles are comfortable to hold and keep the case sturdy on its feet so you’ll need not worry about your components getting shuffled around.
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price</a>
+<a class="right-button cta-button learn-button" href="#bitfenix-prodigy-m">Read Review</a>
+</div>
 
 <div id="20-vt" class="featured-info-box">
 <span>Versatility Pick</span>
@@ -197,15 +330,91 @@ With portability matching no other, the BitFenix Prodigy M should be one of, if 
 <h2>Thermaltake Level 20 VT</h2>
 <h3>MATX Cube Case</h3>
 <p>The Thermaltake Level 20 VT has a 4-sided tempered glass panel design, perfect for viewing your assortment of RGB fans, light strips, and cooling loops. Packing plenty of room for water cooling and cable management while still taking up little space, it’s the perfect showpiece for your pimped out rig.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#thermaltake-level-20-vt">Read Review </a>
+<div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>4 Interchangeable tempered glass panels</li> 
+        <li>Six drive bays</li> 
+        <li>Easy to work with</li> 
+        <li>Cube design</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>No case fans included</li>
+        <li>Cost</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+  </div>    
+</section> 
 
-The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide the best view of your RGB lighting without the cabley mess. Sporting a “two chamber design,” all cables can be tucked under the motherboard out of view, giving your build a more clean look than ever before.
+The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide the best view of your RGB lighting without the cabley mess. 
+
+Sporting a “two chamber design,” all cables can be tucked under the motherboard out of view, giving your build a more clean look than ever before.
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price</a>
+<a class="right-button cta-button learn-button" href="#thermaltake-level-20-vt">Read Review</a>
+</div>
 
 <div id="bl631" class="featured-info-box">
 <span>Slim Pick</span>
@@ -217,15 +426,92 @@ The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide 
 <h2>IN-WIN BL631</h2>
 <h3>Slim Micro ATX Case</h3>
 <p>Do you need a slim Micro ATX case that looks good and won't break the bank? The IN-WIN BL631 is one of the smallest Micro ATX cases out there. This case has the perfect blend of style and satisfaction while covering most of the bases on anybody’s “most important case features” list.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#in-win-bl631">Read Review </a>
+<div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>4 front USB ports</li> 
+        <li>Ultra slim</li> 
+        <li>Aesthetically pleasing</li> 
+        <li>300W PSU included</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>No included fans</li>
+        <li>No room for a GPU</li> 
+        <li>Low profile expansion slots</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Ok
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          No
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+  </div>    
+</section> 
 
-If you need a media PC to match your TV color scheme, or you only have minimal desk space to work with, this is the case for you. You get a case and a PSU for under $100, AND it’s low profile – what more could anyone ask for?
+If you need a media PC to match your TV color scheme, or you only have minimal desk space to work with, this is the case for you. 
+
+You get a case and a PSU for under $100, AND it’s low profile – what more could anyone ask for?
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price</a>
+<a class="right-button cta-button learn-button" href="#in-win-bl631">Read Review</a>
+</div>
 
 <div id="rexgear-1" class="featured-info-box">
 <span>Small Pick</span>
@@ -237,35 +523,89 @@ If you need a media PC to match your TV color scheme, or you only have minimal d
 <h2>Nanoxia Rexgear 1</h2>
 <h3>Small Micro ATX Case</h3>
 <p>This little thing is probably one of the weirdest cases we’ve seen to date. With its color schemes ranging from Arctic Warrior, to Iron Man, to... The Cincinnati Bengals? This case isn’t cookie cutter or a carbon copy, but it’s fairly standard by all accounts and you’ll have no trouble trying to build your dream Micro ATX computer with it.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#nanoxia-rexgear-1">Read Review</a>
+<div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Fan controller knobs</li> 
+        <li>Anti-vibration PSU pads</li> 
+        <li>Sturdy design</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Fan controller knobs aren't PWM</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Average
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
-The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fans. Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
+The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fans.
 
-<div id="r379-m" class="featured-info-box">
-<span>Ultra Slim Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: smallest micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
-</div>
-<div class="text">
-<h2>Rosewill R379-M</h2>
-<h3>Smallest Micro ATX Case</h3>
-<p>If you’re looking for a super slim Micro ATX for APU gaming or maybe just for your next HTPC home theatre system, the Rosewill R379-M is one of the best slim Micro ATX options around. It's definitely small, so make sure you abide by the 80mm cooler height limit when looking for your CPU fan.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#rosewill-r379-m">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2HgNXLs">Check Price </a>
-</div>
-</div>
-</div>
-</div>
+ Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
 
-This small Micro ATX case is *not* meant for gaming, as it is too small to house a proper graphics card. It's great for workstations, however, and if you buy a CPU with a good APU (built-in graphics) you can probably get away with some light gaming as well. 
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price</a>
+<a class="right-button cta-button learn-button" href="#nanoxia-rexgear-1">Read Review</a>
+</div>
 
 <div id="q300l" class="featured-info-box">
 <span>Budget Pick</span>
@@ -277,15 +617,89 @@ This small Micro ATX case is *not* meant for gaming, as it is too small to house
 <h2>Cooler Master MasterBox Q300L</h2>
 <h3>Budget Micro ATX Case</h3>
 <p>The MasterBox Q300L. The king, the legend, the knight in shining armor. This bad boy will get you by for a good price – with most of the advantages of a pocket-drainer, this case won't actually drain your pockets.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#cooler-master-masterbox-q300l">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price </a>
+<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Great Airflow</li> 
+        <li>Spacious interior</li> 
+        <li>Easy cable management</li> 
+        <li>Magnetic dust filter</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Break-off expansion slots</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
-With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries. It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
+With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries. 
+
+It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price</a>
+<a class="right-button cta-button learn-button" href="#cooler-master-masterbox-q300l">Read Review</a>
+</div>
 
 <div id="fbm-05" class="featured-info-box">
 <span>(Dis)Honorable Mention</span>
@@ -297,17 +711,90 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 <h2>Rosewill FBM-05</h2>
 <h3>Extremely Cheap Micro ATX Case</h3>
 <p>There’s really not much to the Rosewill FBM-05 – it’s a Micro ATX case and it’s dirt cheap. It doesn’t perform exceptionally well in any category other than price, and we honestly wouldn’t suggest it for anything other than a low-end PC for Grandma (even then it’s a stretch, you love her right?) so she can web browse in peace.</p>
-<div class="btn">
-<a class="learn-button cta-button" href="#rosewill-fbm-05">Read Review </a>
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price </a>
+<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price </a>
 </div>
 </div>
 </div>
 </div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Dude it's dirt cheap</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Terrible airflow</li>
+        <li>No case feet</li>
+        <li>Cheap build quality</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Micro-ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Poor
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Poor
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          No
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Ok
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Loud
+        </div>
+      </div>
+  </div>    
+</section> 
 
 When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price</a>
+<a class="right-button cta-button learn-button" href="#rosewill-fbm-05">Read Review</a>
+</div>
+
 ## MATX Case Buying Guide
+<img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
 Buying an MATX case for your next gaming PC is definitely a move. 
 
@@ -327,7 +814,6 @@ Before you buy yourself any Micro ATX case – let alone a small or slim Micro A
 * Graphics card support
 
 ### Desk Space
-<img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
 Always consider how much desk space your case will take up since it’s ultimately  the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
 
@@ -640,7 +1126,7 @@ The Micro ATX form factor is compatible with most standard desktop parts and its
 
 The BL631 also incorporates a screw-less design for much quicker and simpler installation.
 
-<img class="lazyload img-middle" alt="bl-631 interior" src="/img/case/matx/bl-631-interior.jpg" />
+<img class="lazyload img-middle" alt="bl-631 interior" data-src="/img/case/matx/bl-631-interior.jpg" />
 
 This case doesn’t necessarily lack in the IO department, but it could be better. 
 
@@ -701,7 +1187,7 @@ The Rexgear’s horizontal mounting gives a much greater range of support for di
 
 The full length power supply support is also a welcome addition. 
 
-<img class="lazyload img-middle" alt="nanoxia rexgear 1 interior" src="/img/case/matx/rexgear-1-interior.jpg" />
+<img class="lazyload img-middle" alt="nanoxia rexgear 1 interior" data-src="/img/case/matx/rexgear-1-interior.jpg" />
 
 This case gives the PSU some loving with a dedicated dust filter, rubber vibration pads, and a PSU bracket.
 
@@ -760,80 +1246,8 @@ In addition, while supporting up to a full ATX power supply, the Q300L also bran
 This case really has it all for an affordable price.
 
 <div class="featured-specs-box">
-<h2 id="rosewill-r379-m">
-<span>#7</span> <a href="https://amzn.to/2HgNXLs" target="_blank">Rosewill R379-M</a>
-</h2>
-<div class="info">
-<a target="_blank" href="https://amzn.to/2HgNXLs"><img class="lazyload" alt="Rosewill R379-M: cheap micro atx case" data-src="/img/case/matx/r379-m.jpg" /></a>
-<div class="specs">
-<p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
-<p><span>Dimensions (HxWxD)</span><span>325 x 99 x 401mm</span></p>
-<p><span>Case Fans</span><span>1 Included, 1 Max</span></p>
-<p><span>Drive Bays</span><span>One 5.25”, Two 3.5”</span></p>
-<p><span>Expansion Slots</span><span>4 (Half-Height)</span></p>
-</div>
-</div>
-<div class="pros-n-cons">
-<ul class="pros">
-<span>Pros:</span>
-<li>Slim</li>
-<li>Easy to build in</li>
-<li>Cheap</li>
-<li>Includes 300W PSU</li>
-</ul>
-<ul class="cons">
-<span>Cons:</span>
-<li>Lacks front USB 3.0</li>
-<li>Only 1 fan</li>
-<li>No 2.5" bays</li>
-</ul>
-</div>
-<div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2HgNXLs">Check Price</a>
-</div>
-</div>
-
-The Rosewill R379-M is one of the most perfectly well rounded Micro ATX cases out there that allows all of the benefits of a Mini ITX case without the often frightening price. 
-
-Still, at low price points there will always be sacrifices that need to be made.
-
-In the case of the R379 the build quality and feature set takes a bit of a hit, making it difficult to suggest it for anything more than an HTPC. 
-
-The metal is quite thin and the exterior doesn’t appeal too much to the eyes. 
-
-It's not a dazzling case, but it gets the job done. 
-
-As for features, the R379 supports up to a maximum of Micro ATX boards but will also support Mini ITX boards. 
-
-The front IO sports both a headphone and a microphone jack, which sounds awesome! 
-
-Unfortunately, the case has two USB connectors on the front, but they're both USB 2.0.
-
-One of the biggest allures of this case is its included 300W SFF (Small Form Factor) power supply. 
-
-<img class="lazyload img-middle" alt="Rosewill R379-M" src="/img/case/matx/379-m-interior.jpg" />
-
-It can power all of the components you choose, as this case doesn't have enough room for a dedicated GPU anyway. 
-
-With regards to the expansion slots, they're only half-height. 
-
-It's important to keep in mind that SFF graphics cards are a bit hard to come by. 
-
-Taking that into consideration the highest end Ryzen APU at the moment (Ryzen 5 2400G) only sits at a measly 65W TDP, which is perfect for the case's power supply. 
-
-You’d better hope you pick the right cooling fan, because you only get one case fan for either intake or outtake. 
-
-We suggest intake, as the power supply can handle outtake and your CPU fan alone shouldn’t be left responsible for cooling your entire system.
-
-It’s slim, it’s cheap, and it even comes with a whole 300W of power preinstalled. 
-
-For the average builder on a budget, this case is a good choice. 
-
-If you're interested in building a gaming PC, on the other hand, you should look elsewhere.
-
-<div class="featured-specs-box">
 <h2 id="rosewill-fbm-05">
-<span>#8</span> <a href="https://amzn.to/2Q3V3po" target="_blank">Rosewill FBM-05</a>
+<span>#7</span> <a href="https://amzn.to/2Q3V3po" target="_blank">Rosewill FBM-05</a>
 </h2>
 <div class="info">
 <a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
