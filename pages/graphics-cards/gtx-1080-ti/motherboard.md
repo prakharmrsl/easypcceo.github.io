@@ -341,12 +341,12 @@ In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely 
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2KvHHRh">Asus Prime Z370-P II</a></td>
-		<td><a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2KvHHRh">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2Kwsqj8">Gigabyte X570 Gaming X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2Kwsqj8">Check</a></td>
 	</tr>
 	<tr>
@@ -357,6 +357,7 @@ In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely 
 </table>
 
 ## Finding a Motherboard for Your GPU
+<img alt="finding a motherboard for your GPU" class="lazyload img-right img-small" data-src="/img/gpu/1080ti/motherboard/gaming.png" />
 
 One simple thing you might not pay much attention to when buying a motherboard is the PCIE slots.
 
@@ -376,11 +377,19 @@ Gen 4 isn’t exactly all that impactful for gaming performance. Not to say it d
 
 When you’re browsing online looking for a motherboard you should keep an eye out for chipsets for sure. 
 
-In simple terms, you can think of chipsets like a hub for communication within the motherboard. The chipset of your motherboard controls all inbound and outbound communication between the motherboard and its components, thus the importance of your chipset to component compatibility can be detrimental.
+In simple terms, you can think of chipsets like a hub for communication within the motherboard. 
 
-For example, Intel CPUs with the K or KF designation are Unlocked, or overclock enabled, processors. But there’s a bit of a catch. Say you go ahead and choose one of Intel’s H310, B360, or Q370 chipsets, you will not have access to overclocking even with a K series CPU.
+The chipset of your motherboard controls all inbound and outbound communication between the motherboard and its components, thus the importance of your chipset to component compatibility can be detrimental.
 
-Again, on Intel’s side, chipsets can get a little confusing because of their first line of LGA1151 processors. The first couple of chipsets (H110, B150, Q150, H170, Q170, Z170) only support DDR3L memory which can be a bit difficult to find and has its own separate implications that we’d rather not get into.
+For example, Intel CPUs with the K or KF designation are Unlocked, or overclock enabled, processors. But there’s a bit of a catch. 
+
+Say you go ahead and choose one of Intel’s H310, B360, or Q370 chipsets, you will not have access to overclocking even with a K series CPU.
+
+Again, on Intel’s side, chipsets can get a little confusing because of their first line of LGA1151 processors. 
+
+The first couple of chipsets (H110, B150, Q150, H170, Q170, Z170) only support DDR3L memory which can be a bit difficult to find and has its own separate implications that we’d rather not get into.
+
+<img alt="finding a motherboard for your GPU" class="lazyload img-middle" data-src="/img/gpu/1080ti/motherboard/chipsets.png" />
 
 Point is, it can get a little confusing.
 
