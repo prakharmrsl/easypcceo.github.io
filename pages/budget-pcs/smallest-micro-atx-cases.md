@@ -6,6 +6,13 @@ seotitle: "7 Smallest Micro ATX Case Reviews of 2019 (MATX)"
 meta: "We're taking a look at the smallest micro ATX case options on the market. If you're looking for a small micro ATX case, you're in luck!"
 ---
 
+<div class="author-line">
+  <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+  <span>Jacob Tuwiner</span>
+</div>
+
+![smallest micro atx cases header image](/img/header/micro-atx-cases.png){: .page-header}
+
 <ul id="markdown-toc">
 <li><a href="#smallest-micro-atx-case-options" id="markdown-toc-smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
 <li><a href="#matx-case-buying-guide" id="markdown-toc-matx-case-buying-guide">MATX Case Buying Guide</a></li>
