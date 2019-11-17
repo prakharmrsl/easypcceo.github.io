@@ -11,6 +11,8 @@ meta: "We're going to be answering the common question 'does GPU memory clock sp
 	<span>Jacob Tuwiner</span>
 </div>
 
+![gpu memory clock speed header image](/img/header/gpu-memory.png){: .page-header}
+
 * TOC
 {: toc}
 
