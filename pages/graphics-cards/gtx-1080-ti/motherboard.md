@@ -323,7 +323,7 @@ The IO sports an impressive 1 USB 3.1 Gen 2, 2 USB 3.1 Gen 1, and 2 USB 2.0 port
 
 Just like our other picks, the Z390-A Pro doesn’t lack in the PCIE department with its 2 PCIE x16 Gen 3 and 4 PCIE x1 slots. Just as with AMD’s board, above and below the PCIE slots you’ll find two M.2 slots.
 
-Heading over to the SATA ports, you’ll be getting your money’s worth with 6 SATA III ports. Though, we should note that the motherboard’s description says that Sata 2 will be disabled when M.2 is in use. And, the board supports Intel Optane. Badass!
+Heading over to the SATA ports, you’ll be getting your money’s worth with 6 SATA III ports. Though, we should note that the motherboard’s description says that Sata 2 will be disabled when M.2 is in use. And, the board supports [Intel Optane](https://www.laptopmag.com/articles/intel-optane-memory-faq){: target="_blank"}. Badass!
 
 In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely stand out with any other flashy features due to its relatively low price. Though, you can sleep sound knowing that your new board can support 4000MHz RAM and above.
 
@@ -359,7 +359,7 @@ In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely 
 ## Finding a Motherboard for Your GPU
 <img alt="finding a motherboard for your GPU" class="lazyload img-right img-small" data-src="/img/gpu/1080ti/motherboard/gaming.png" />
 
-One simple thing you might not pay much attention to when buying a motherboard is the PCIE slots.
+One simple thing you might not pay much attention to when buying a motherboard is the [PCIE](https://www.tomshardware.com/reviews/pcie-definition,5754.html){: target="_blank"} slots.
 
 Believe it or not, PCIE slots have different generations that operate at different speeds, and we’re currently in the middle of a generational shift. 
 
@@ -374,6 +374,10 @@ Gen 3 is what most motherboards use right now, and it’s fast enough to handle 
 Gen 4 isn’t exactly all that impactful for gaming performance. Not to say it doesn’t improve performance, but if you’re choosing X570 just for PCIE 4.0’s gaming yields, you’re not in the right place. Rendering and video editing workloads, however, will benefit marginally more.
 
 ## Chipsets
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5mCJ3uGNTAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 When you’re browsing online looking for a motherboard you should keep an eye out for chipsets for sure. 
 
