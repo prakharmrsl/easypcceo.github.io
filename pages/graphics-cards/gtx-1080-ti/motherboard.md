@@ -121,7 +121,7 @@ AMD has been manipulating the market since its release of Ryzen, but for once it
 
 The Asus Prime Z370-P may not sport the integrated Wi-Fi or improved power delivery of the Z390, but it sure as hell proves itself as a worthy opponent. 
 
-While it does lack in the IO department for a $100USD motherboard, only running 4 USB ports (all at USB 3.1, however), it makes up for it with its PCIE lanes. 
+While it does lack in the IO department for a $100USD motherboard, only running 4 USB ports (all at USB 3.1, however), it makes up for it with its PCIE lanes. This motherboard will have no problem supporting [our pick for the best CPU for the 1080 Ti](/graphics-cards/gtx-1080-ti/cpu/) either.
 
 The Z370-P II manages to fit in 2 PCIE x16 Gen 3 lanes and 4 PCIE x1 lanes, so you’ll have all the expansion slots you'd ever need. And its 4 SATA III connectors ensure you’ll have enough space for your storage as well.
 
@@ -221,6 +221,8 @@ One of the X570’s biggest flaws so far is its price tag. Across the board, X57
 Moving down the board to the PCIE lanes, we can find a not-too-shabby two PCIE x16 Gen 4 lanes and 3 PCIE x1 lanes in tow. Above and below the PCIE lanes you can also find 2 whole M.2 slots.
 
 Moving over by the SATA slots we can find 6 SATA III ports and a very interesting cooling solution beside them. Due to the improvements made on the X570 chipset, its massive heat output requires a little fan to keep it cool. Ain’t that neat.
+
+You'll need to make sure you're using a good power supply with this motherboard. We recommend checking out our guide on the [best power supplies for the 1080 Ti](/graphics-cards/gtx-1080-ti/power-supply/) while you're here. 
 
 Interestingly, those chipset improvements have allowed for much faster RAM than ever before and the Gaming X can support upwards of 4000MHz RAM, which is just absolutely insane to me.
 

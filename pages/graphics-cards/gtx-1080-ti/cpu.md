@@ -114,7 +114,9 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
   </div>    
 </section>
 
-The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}.
+The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}. 
+
+If you want to make the most out of this CPU, make sure you use the proper motherboard that supports overclocking and has the other necessary features you need for optimal performance. More on that [here](/graphics-cards/gtx-1080-ti/motherboard/). 
 
 No matter what, you’ll be getting the most out of this amazing processor in tackling any task you throw its way. And that’s without overclocking.
 
