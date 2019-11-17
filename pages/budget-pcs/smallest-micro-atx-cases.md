@@ -11,7 +11,7 @@ meta: "We're taking a look at the smallest micro ATX case options on the market.
   <span>Jacob Tuwiner</span>
 </div>
 
-![smallest micro atx cases header image](/img/header/smallest-micro-atx-cases.png){: .page-header}
+![smallest micro atx cases header image](/img/header/smallest-micro-atx-cases.jpg){: .page-header}
 
 <ul id="markdown-toc">
 <li><a href="#smallest-micro-atx-case-options" id="markdown-toc-smallest-micro-atx-case-options">Smallest Micro ATX Case Options</a></li>
