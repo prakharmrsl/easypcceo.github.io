@@ -393,7 +393,7 @@ Again, on Intel’s side, chipsets can get a little confusing because of their f
 
 The first couple of chipsets (H110, B150, Q150, H170, Q170, Z170) only support DDR3L memory which can be a bit difficult to find and has its own separate implications that we’d rather not get into.
 
-<img alt="finding a motherboard for your GPU" class="lazyload img-middle" data-src="/img/gpu/1080ti/motherboard/chipsets.png" />
+<img alt="finding a motherboard for your GPU" class="lazyload img-middle" data-src="/img/gpu/1080ti/motherboard/chipsets.jpg" />
 
 Point is, it can get a little confusing.
 

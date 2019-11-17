@@ -266,6 +266,22 @@ With that said, our chosen power supply for the best power supply for a 1080 Ti 
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
 </div>
 
+## Best Motherboard for GTX 1080 Ti
+<img alt="finding a motherboard for your GPU" class="lazyload img-right img-small" data-src="/img/gpu/1080ti/motherboard/gaming.png" />
+
+If you're rocking a 1080 Ti, you better be using a good motherboard. 
+
+No, you don't need to shell out hundreds of dollars on a top-of-the-line board, but that doesn't mean you can go cheapo mode here either.
+
+The motherboard should be able to support other high-end components that you should be using with your 1080 Ti. After all, the 1080 Ti is a high-end GPU, and it would only make sense to use it with other high-end components. 
+
+Our chosen motherboard for the 1080 Ti is the [Asus Prime Z370-P II](https://amzn.to/2KvHHRh){: target="_blank"}. It's a solid all-around board that has plenty of awesome features. 
+
+<div class="buttons-wrapper">
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2KvHHRh">Check Price</a>
+<a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/motherboard/">Read Our Guide</a>
+</div>
+
 ## Best Nvidia Control Panel Settings for GTX 1080 Ti
 
 If you want to maximize the performance of your new 1080 Ti, you ought to optimize your Nvidia control panel settings.
