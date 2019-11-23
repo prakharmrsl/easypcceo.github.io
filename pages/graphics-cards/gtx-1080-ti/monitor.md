@@ -80,7 +80,7 @@ If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Res</span>
         </div>
         <div class="tab-btn-data">
           1440p
@@ -96,7 +96,7 @@ If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Time</span>
         </div>
         <div class="tab-btn-data">
           4ms
@@ -188,7 +188,7 @@ This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with t
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Res</span>
         </div>
         <div class="tab-btn-data">
           1440p
@@ -204,7 +204,7 @@ This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with t
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Time</span>
         </div>
         <div class="tab-btn-data">
           5ms
@@ -289,7 +289,7 @@ This allows for a completely seamless and smooth gameplay experience, especially
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Res</span>
         </div>
         <div class="tab-btn-data">
           1080p
@@ -305,7 +305,7 @@ This allows for a completely seamless and smooth gameplay experience, especially
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Time</span>
         </div>
         <div class="tab-btn-data">
           5ms
