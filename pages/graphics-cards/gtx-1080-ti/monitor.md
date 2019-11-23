@@ -52,6 +52,74 @@ If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [
 </div>
 </div>
 </div> 
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>1440p</li> 
+        <li>High refresh rate</li> 
+        <li>Stunning visuals</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Somewhat small display</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/screen-size.png"/><span class="tab-btn-title-margin">Size</span>
+        </div>
+        <div class="tab-btn-data">
+          27"
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+        </div>
+        <div class="tab-btn-data">
+          1440p
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/refresh.png"/><span class="tab-btn-title-margin">Refresh</span>
+        </div>
+        <div class="tab-btn-data">
+          165Hz
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+        </div>
+        <div class="tab-btn-data">
+          4ms
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/monitor-type.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          IPS
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/aspect.png"/><span class="tab-btn-title-margin">Ratio</span>
+        </div>
+        <div class="tab-btn-data">
+          16:9
+        </div>
+      </div>
+  </div>    
+</section>
 
 If you’ve decided that [G-Sync](https://www.tomshardware.com/reviews/nvidia-gsync-monitor-glossary-definition-explained,6008.html){: target="_blank"} supremacy is the route for you, then I have an amazing pick for you in this category. 
 
@@ -61,15 +129,19 @@ Now, now, I’m sure you’re dumbfounded by the ridiculously high price for thi
 
 This monitor has a couple more features than meets the eye.
 
-Although the resolution of the PG279Q falls short of our previous pick by about 5-inches, it does pack a bigger punch in the refresh rate category while also matching the 32GK650F-B’s 1440p resolution. 
+Although the resolution of the PG279Q falls short of our next pick's screen size by about 5-inches, it does pack a bigger punch in the refresh rate category while also matching the 32GK650F-B’s 1440p resolution. 
 
-Unlike LG’s monitor, Asus’ provides a refresh rate of 165Hz, crazy right? 
+Unlike LG’s monitor, Asus’ provides a refresh rate of 165Hz – crazy right? 
 
 By the way, if you don't know why refresh rate is important (especially if you're using a 1080 ti), you can check out [this](/refresh-rate-vs-frame-rate/) awesome article we wrote about it. 
 
 On top of that this monitor also sports an IPS panel, meaning it has noticeably better colors and viewing ranges when compared to non-IPS displays.
 
 This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2n8DMBo">Read Reviews on Amazon</a>
+</div>
 
 <div id="our-pick" class="featured-info-box">
 <span>Runner Up</span>
@@ -87,6 +159,75 @@ This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with t
 </div>
 </div>
 </div> 
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Large display</li> 
+        <li>Freesync support</li> 
+        <li>Beautiful colors</li>
+        <li>Cheap</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Response time could be faster</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/screen-size.png"/><span class="tab-btn-title-margin">Size</span>
+        </div>
+        <div class="tab-btn-data">
+          32"
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+        </div>
+        <div class="tab-btn-data">
+          1440p
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/refresh.png"/><span class="tab-btn-title-margin">Refresh</span>
+        </div>
+        <div class="tab-btn-data">
+          144Hz
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+        </div>
+        <div class="tab-btn-data">
+          5ms
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/monitor-type.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          VA
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/aspect.png"/><span class="tab-btn-title-margin">Ratio</span>
+        </div>
+        <div class="tab-btn-data">
+          16:9
+        </div>
+      </div>
+  </div>    
+</section>
 
 Grabbing our spot for the top [FreeSync](https://www.digitaltrends.com/computing/what-is-freesync/){: target="_blank"} monitor to pair with your GTX 1080 Ti is the LG 32GK650F-B. 
 
@@ -99,6 +240,10 @@ The huge 32-inch 1440p display won’t leave you wanting more unless maybe you�
 That’s not even all! On top of sporting that massive display, this monitor runs at a native 144Hz refresh rate. 
 
 This allows for a completely seamless and smooth gameplay experience, especially when paired with its included FreeSync support.
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2mf02cq">Read Reviews on Amazon</a>
+</div>
 
 <div id="also-awesome" class="featured-info-box">
 <span>Also Awesome</span>
@@ -116,6 +261,74 @@ This allows for a completely seamless and smooth gameplay experience, especially
 </div>
 </div>
 </div> 
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Dude it's dirt cheap</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Response time could be faster</li>
+        <li>Low refresh rate</li>
+        <li>Only 1080p</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/screen-size.png"/><span class="tab-btn-title-margin">Size</span>
+        </div>
+        <div class="tab-btn-data">
+          21.5"
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/resolution.png"/><span class="tab-btn-title-margin">Resolution</span>
+        </div>
+        <div class="tab-btn-data">
+          1080p
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/refresh.png"/><span class="tab-btn-title-margin">Refresh</span>
+        </div>
+        <div class="tab-btn-data">
+          75Hz
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/response-time.png"/><span class="tab-btn-title-margin">Response</span>
+        </div>
+        <div class="tab-btn-data">
+          5ms
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/monitor-type.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          IPS
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/aspect.png"/><span class="tab-btn-title-margin">Ratio</span>
+        </div>
+        <div class="tab-btn-data">
+          16:9
+        </div>
+      </div>
+  </div>    
+</section>
 
 Our cheapest monitor pick isn’t really too much to gawk at, but hey what do you expect from a cheap monitor. 
 
@@ -132,6 +345,10 @@ And in comparison to the other monitors on our list the 75Hz refresh rate seems 
 Support for HDMI 1.4 is awesome, and whether or not you consider the included VGA port as a bonus is really up to you. 
 
 Though, astoundingly, this El Cheapo monitor has managed to include FreeSync support amongst its other features. So you can, once again, expect a smooth stutterless experience.
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2n7zhaf">Read Reviews on Amazon</a>
+</div>
 
 ## 3 Best Monitors for 1080 Ti Graphics Card
 
