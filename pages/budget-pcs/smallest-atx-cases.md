@@ -42,7 +42,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
     <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
     <td class="components">
       <ul>
-      <li>Clean Design</li>
+      <li>Smallest ATX Case</li>
       </ul>
     </td>
     <td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
@@ -90,7 +90,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
 </table>
 
 <div id="corsair-carbide-series-400c" class="featured-info-box">
-<span>OUR PICK</span>
+<span>Smallest ATX Case</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2oFt85v"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
@@ -98,7 +98,7 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
 <div class="text">
 <h2>Corsair Carbide Series 400C</h2>
 <h3>Best Small ATX Case</h3>
-<p>The Corsair Carbide Series 400C is hands down our favorite small ATX case. This case is much smaller than the 600C - the case's big brother - thanks to Corsair removing this model's optical drive bays.</p>
+<p>The Corsair Carbide Series 400C is the smallest ATX case on the market and still offers plenty of functionality. It's our favorite small ATX case, hands down. This case is much smaller than the 600C - the case's big brother - thanks to Corsair removing this model's optical drive bays.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price on Amazon</a>
 </div>
