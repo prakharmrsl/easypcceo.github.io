@@ -141,7 +141,7 @@ Here is a list of the smallest micro ATX cases on the market:
 </table>
 
 <div id="h400i" class="featured-info-box">
-<span>OUR PICK</span>
+<span>SMALLEST MICRO ATX CASE</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
@@ -149,7 +149,7 @@ Here is a list of the smallest micro ATX cases on the market:
 <div class="text">
 <h2>NZXT H400i</h2>
 <h3>Best Small Micro ATX Case</h3>
-<p>If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you.</p>
+<p>The NZXT H400i is the smallest micro ATX case on the market, and features one of the best designs we've ever seen. This small micro ATX case has a spacious interior, great airflow, and easy cable management.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price on Amazon</a>
 </div>
@@ -225,6 +225,8 @@ Here is a list of the smallest micro ATX cases on the market:
       </div>
   </div>    
 </section> 
+
+If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you.
 
 The greatness doesn’t stop at looks for the H400i, as its features set it apart from all other Micro ATX cases. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
 
