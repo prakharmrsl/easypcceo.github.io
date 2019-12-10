@@ -232,14 +232,14 @@ Luckily, we’ve got you covered! Microsoft does have the [Surface Pen available
 <span>Best Travel Laptop for Gaming</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2E38Bwm"><img class="lazyload" alt="best travel laptop for gaming Asus ROG Strix Hero II" data-src="/img/laptop/travel/gaming-laptop.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2P5mDUm"><img class="lazyload" alt="best travel laptop for gaming" data-src="/img/laptop/travel/gaming-laptop.jpg" /></a>
 </div>
 <div class="text">
-<h2>Asus ROG Strix Hero II</h2>
+<h2>ASUS ROG Strix Hero II</h2>
 <h3>Also Awesome</h3>
-<p><p>
+<p>Yes! Yes! Finally, a laptop that can take on Crysis at maximum settings! In all seriousness though, this laptop’s pretty damn good. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E38Bwm">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2P5mDUm">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -316,7 +316,7 @@ Luckily, we’ve got you covered! Microsoft does have the [Surface Pen available
   </div>    
 </section>
 
-Yes! Yes! Finally, a laptop that can take on Crysis at maximum settings! In all seriousness though, this laptop’s pretty damn good. If you’re opting for a gaming laptop, it’s probably safe to say you’d like to play a fair amount of games on it. Well, here’s your lucky break courtesy of Asus.
+If you’re opting for a gaming laptop, it’s probably safe to say you’d like to play a fair amount of games on it.
 
 If gaming was your goal you’re definitely in the right spot, but this laptop can handle as much as you think you can throw at it, and more. 
 
@@ -333,6 +333,6 @@ You’ll have some great loading times with the included 512GB NVMe, and with 16
 Oh, and did we mention the full RGB? Now we did.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2E38Bwm">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2P5mDUm">Read Reviews on Amazon</a>
 </div>
 
