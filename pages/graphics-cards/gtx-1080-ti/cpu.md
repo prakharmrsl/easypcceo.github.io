@@ -27,15 +27,15 @@ It's important to choose a CPU that isn't going to bottleneck your graphics card
 If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/2r1tFQu){: target="_blank"} is our top pick. 
 
 <div id="top-pick" class="featured-info-box">
-<span>Top Pick</span>
+<span>Best CPU for 1080 Ti</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2r1tFQu"><img class="lazyload" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i9-9900KF</h2>
-<h3>Best CPU for 1080 Ti</h3>
-<p>On the very top of the heap comes the ever-popular Intel i9-9900KF, the be all end all of desktop processors in 2019. Taking the number one spot on not just our list, but on benchmarks globally as well, this processor has no competitors really anywhere!
+<h3>Our Pick</h3>
+<p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2019. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
 </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2r1tFQu">Check Price on Amazon</a>
@@ -113,6 +113,8 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
       </div>
   </div>    
 </section>
+
+Taking the number one spot on not just our list, but on benchmarks globally as well, this processor has no competitors really anywhere!
 
 The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}. 
 
