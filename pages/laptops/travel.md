@@ -336,3 +336,87 @@ Oh, and did we mention the full RGB? Now we did.
   <a target="_blank" class="big-button-center" href="https://amzn.to/2P5mDUm">Read Reviews on Amazon</a>
 </div>
 
+## Which Laptop Best Suits Your Needs? 
+
+I used my laptop everywhere I went on my 7 month trip through Europe and Asia. It is lightweight, portable, and pretty powerful. 
+
+However, since it uses such powerful components, the battery life is less than ideal. Since I usually used it in a cafe with an outlet readily available at all times, this wasn't an issue for me. 
+
+But if you're not always able to charge, a laptop with a long-lasting battery is going to be important for you. 
+
+It's pretty hard to say one laptop is "the best for travel" because everyone has different needs. The real question is, which laptop best suits YOUR needs? 
+
+### What are you using your laptop for? 
+
+Unless you're using your laptop for online work which requires a lot of processing power, you don't need to go all out on a high-end laptop. That's why our overall top pick isn't very pricey. 
+
+Spending two grand on a new laptop may seem like a great idea, but that money would be better spent elsewhere. You'd be surprised how far $2,000 gets you in Eastern Europe. 
+
+You can definitely get away with a Chromebook on the road if you just need to browse the web, process word documents, and stream Netflix. 
+
+Only digital nomads that are working remotely need more powerful laptops, and even then a high performance laptop is only necessary in some cases.
+
+### Any size constraints?
+
+If you're backpacking or just working with limited space, lugging a big bulky laptop around isn't a great idea. There are so many ultra-thin and lightweight options out there these days, so there's no excuse to travel with a 10 pound monster. 
+
+Some daypacks can't fit more than a 15-inch laptop in them. Remember that before you make your purchase. Along with screen size, consider the laptop's weight. A traveler with a heavy backpack is not a happy traveler. 
+
+## Important Specifications to Consider 
+
+Before you buy a laptop, you need to determine your non-negotiable features, minimum performance requirements, and the absolute highest amount of money you can spend. 
+
+Often you'll need to balance out these three key factors when looking for the best laptop for you. 
+
+For example, you may have to have a 1080p resolution display with a touch screen and stylus so you can draw on the go. Or you may need a quad-core CPU so you can render videos on the go. 
+
+Figure out what you need in your laptop, and find one that satisfies your needs within your budget. 
+
+### 1. Price 
+
+Of course, price is the first and most important factor to consider before you buy. 
+
+Unless you need a high-performance laptop, don't shell out thousands of dollars for a top-of-the-line model. There are plenty of cheap and lightweight options that'll get the job done without breaking the bank.
+
+I'd recommend you determine your budget before you begin looking for a laptop, and understand that you may need to make some performance sacrifices if your number is too low. 
+
+### 2. Mobility
+
+If you're an on-the-go, minimalistic traveler, mobility is another huge factor. You wouldn't lug a heavy brick around in your backpack, so don't lug a 10 lb laptop around either! 
+
+You want something that's small, light, and thin so it doesn't weigh you down and fits in your day bag. 
+
+Luckily, laptops are getting both smaller and faster these days, so it shouldn't be hard to find a good option in this department. 
+
+### 3. Battery 
+
+Another big one is battery life - if you think you'll be in coffee shops or coworking spaces all the time, this may not be a huge deal as you'll always be able to charge up. 
+
+Conversely, for those always on the move or without immediate access to electricity all the time, a laptop with superb battery life is a must. 
+
+Keep in mind that smaller, thinner laptops tend to have smaller batteries, and they'll drain even faster if the laptop has a lot of power hungry components. 
+
+This is especially the case if you're using your laptop to perform demanding tasks. 
+
+### 4. Power 
+
+If you're running demanding programs like Photoshop or Adobe Premier Pro, a high-performance laptop is a must. 
+
+The CPU is the brain of your computer, so make sure to get a beefy CPU if you need a lot of power. You can't go wrong with a quad-core i5 or i7 CPU, and don't forget about AMD's new Ryzen 5/Ryzen 7 CPUs.
+
+Anything older/less powerful is fine for web browsing. 
+
+In terms of graphics, you can usually get away with an integrated graphics chips. However, graphic designers and gamers may need a dedicated graphics chip to handle their workload. 
+
+### 5. Storage
+
+Most travel laptops are lacking in the storage department, especially those with longer battery life. 
+
+If you're the type to take a lot of travel photos and videos, the importance of having ample storage cannot be overstated. 
+
+I'd highly recommend going for a laptop with an SSD as opposed to an HDD (mechanical hard drive). They're much faster and use less power as well. 
+
+Seriously, mechanical hard drives suck. They make your computer boot super slow, and are often the cause of your computer freezing. 
+
+SSDs are much faster on all fronts and worth the extra money. You can always store your extra photos/files on an external portable drive or on the cloud. 
+
