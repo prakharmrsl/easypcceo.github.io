@@ -116,17 +116,17 @@ If you need the extra storage room, you can always buy an external travel hard d
 </div>
 
 <div id="microsoft-surface-pro-7" class="featured-info-box">
-<span>Best Laptop for Travel Blogging</span>
+<span>Best Travel Laptop for Productivity</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2P5fuU2"><img class="lazyload" alt="best travel blogging laptop is the Microsoft surface pro 7" data-src="/img/laptop/travel/surface-pro-7.jpg" /></a>
+<a target="_blank" href="https://amzn.to/347vlpE"><img class="lazyload" alt="best laptop for travel blogging" data-src="/img/laptop/travel/surface-pro-7.jpg" /></a>
 </div>
 <div class="text">
 <h2>Microsoft Surface Pro 7</h2>
 <h3>Runner Up</h3>
-<p><p>
+<p>Maybe you’re a graphic designer on the go, an artist abroad, or an executive up and about. No matter what you do or who you are, it’s hard to argue against the fact that the Surface Pro 7 from Microsoft is the top of the line when it comes to productivity. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2P5fuU2">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/347vlpE">Check Price on Amazon</a>
 </div>
 </div>
 </div>
