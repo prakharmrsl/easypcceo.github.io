@@ -103,11 +103,15 @@ Our view of an all-around great laptop includes a great price, performance to bo
 
 It’s truly amazing what types of stuff Lenovo managed to fit into this beautiful piece of machinery and the specifications in relation to its price are almost outlandish.
 
-Thanks to AMD’s new innovations in processor architecture the Flex 14’s Ryzen 5 3500U brings 4 cores with hyperthreading technology to the table, meaning that even at under $600USD you’ll be able to run through rendering or other productivity tasks with ease. Plus, the chip’s integrated graphics offes performance unheard of from prior generations.
+Thanks to AMD’s new innovations in processor architecture the Flex 14’s Ryzen 5 3500U brings 4 cores with hyperthreading technology to the table, meaning that even at under $600USD you’ll be able to run through rendering or other productivity tasks with ease. 
+
+Plus, the chip’s integrated graphics offes performance unheard of from prior generations.
 
 And don’t think that low price point means it’s lacking features, because it’s loaded with them! Packing a beautiful rear folding design and a 14in FHD touchscreen, you can use this handy laptop as a tablet. It even comes included with a touchscreen pen.
 
-Looking at its other internals, it sure isn’t lacking there either. 12GB of speedy DDR4 system memory is more than enough to handle dozens of Google Chrome tabs. The only piece that might disappoint is the size of the storage. With 256GB storage, don’t expect to be saving all your family pictures for any prolonged amount of time, but the tradeoff is the blazing quick speeds that the internal NVMe SSD can hit.
+Looking at its other internals, it sure isn’t lacking there either. 12GB of speedy DDR4 system memory is more than enough to handle dozens of Google Chrome tabs. The only piece that might disappoint is the size of the storage. 
+
+With 256GB storage, don’t expect to be saving all your family pictures for any prolonged amount of time, but the tradeoff is the blazing quick speeds that the internal NVMe SSD can hit.
 
 If you need the extra storage room, you can always buy an external travel hard drive like the [Western Digital Elements 2TB](https://amzn.to/38pbfdG){: target="_blank"}.
 
