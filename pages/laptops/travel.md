@@ -12,8 +12,18 @@ redirect_from: /laptops/
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#which-laptop-best-suits-your-needs" id="markdown-toc-which-laptop-best-suits-your-needs">Which Laptop Best Suits Your Needs?</a> 
+</li>
+<li><a href="#important-specifications-to-consider" id="markdown-toc-important-specifications-to-consider">Important Specifications to Consider</a> <ul>
+<li><a href="#1-price" id="markdown-toc-1-price">1. Price</a></li>
+<li><a href="#2-mobility" id="markdown-toc-2-mobility">2. Mobility</a></li>
+<li><a href="#3-battery" id="markdown-toc-3-battery">3. Battery</a></li>
+<li><a href="#4-power" id="markdown-toc-4-power">4. Power</a></li>
+<li><a href="#5-storage" id="markdown-toc-5-storage">5. Storage</a></li>
+</ul>
+</li>
+</ul>
 
 After traveling Europe for 7 months and working online to support myself, I learned a lot about what to look for in a good travel laptop. 
 
@@ -114,13 +124,13 @@ Our view of an all-around great laptop includes a great price, performance to bo
 
 It’s truly amazing what types of stuff Lenovo managed to fit into this beautiful piece of machinery and the specifications in relation to its price are almost outlandish.
 
-Thanks to AMD’s new innovations in processor architecture the Flex 14’s Ryzen 5 3500U brings 4 cores with hyperthreading technology to the table, meaning that even at under $600USD you’ll be able to run through rendering or other productivity tasks with ease. 
+Thanks to AMD’s new innovations in processor architecture the Flex 14’s Ryzen 5 3500U brings 4 cores with [hyperthreading technology](https://www.tomshardware.com/reviews/hyper-threading-intel-definition,5746.html){: target="_blank"} to the table, meaning that even at under $600USD you’ll be able to run through rendering or other productivity tasks with ease. 
 
 Plus, the chip’s integrated graphics offes performance unheard of from prior generations.
 
 And don’t think that low price point means it’s lacking features, because it’s loaded with them! Packing a beautiful rear folding design and a 14in FHD touchscreen, you can use this handy laptop as a tablet. It even comes included with a touchscreen pen.
 
-Looking at its other internals, it sure isn’t lacking there either. 12GB of speedy DDR4 system memory is more than enough to handle dozens of Google Chrome tabs. The only piece that might disappoint is the size of the storage. 
+Looking at its other internals, it sure isn’t lacking there either. 12GB of speedy [DDR4 system memory](https://www.lenovo.com/us/en/faqs/pc-life-faqs/what-is-ddr4-ram/){: target="_blank"} is more than enough to handle dozens of Google Chrome tabs. The only piece that might disappoint is the size of the storage. 
 
 With 256GB storage, don’t expect to be saving all your family pictures for any prolonged amount of time, but the tradeoff is the blazing quick speeds that the internal NVMe SSD can hit.
 
@@ -225,7 +235,7 @@ You’d be hard-pressed to find a machine offering the same performance and feat
 
 To pack that kind of power into a chassis small enough to be considered a standalone tablet really must’ve taken some industry know-how. 
 
-With its 10th generation Intel Core i7-1065G7 it is easily the fastest laptop on our list, and while its integrated graphics might not be ready for a match of Rainbow Six: Seige, it’ll serve you just fine watching YouTube or even editing videos. 
+With its 10th generation Intel Core i7-1065G7 it is easily the fastest laptop on our list, and while its [integrated graphics](https://hexus.net/tech/tech-explained/graphics/19311-the-integrated-graphics-processor-igp/){: target="_blank"} might not be ready for a match of Rainbow Six: Seige, it’ll serve you just fine watching YouTube or even editing videos. 
 
 Alongside that amazing CPU sits 16GB of DDR4 RAM which is a great amount for any computer, laptop or otherwise.
 
@@ -343,6 +353,8 @@ You’ll have some great loading times with the included 512GB NVMe, and with 16
 
 Oh, and did we mention the full RGB? Now we did.
 
+Sure, you could probably get the same performance out of a [$600 desktop gaming PC](/budget-pcs/600/), but you can't bring a desktop with you anywhere in the world and game on the go!
+
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2P5mDUm">Read Reviews on Amazon</a>
 </div>
@@ -416,6 +428,10 @@ If you're running demanding programs like Photoshop or Adobe Premier Pro, a high
 The CPU is the brain of your computer, so make sure to get a beefy CPU if you need a lot of power. You can't go wrong with a quad-core i5 or i7 CPU, and don't forget about AMD's new Ryzen 5/Ryzen 7 CPUs.
 
 Anything older/less powerful is fine for web browsing. 
+
+What's the bottom line here?
+
+Make sure you get the right CPU for the job. [This](https://www.tomshardware.com/reviews/cpu-buying-guide,5643.html){: target="_blank"} guide from Tom's Hardware will teach you how to buy the right CPU for your needs. 
 
 In terms of graphics, you can usually get away with an integrated graphics chips. However, graphic designers and gamers may need a dedicated graphics chip to handle their workload. 
 
