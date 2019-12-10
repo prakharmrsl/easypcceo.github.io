@@ -12,6 +12,17 @@ redirect_from: /laptops/
 	<span>Jacob Tuwiner</span>
 </div>
 
+* TOC 
+{: toc}
+
+After traveling Europe for 7 months and working online to support myself, I learned a lot about what to look for in a good travel laptop. 
+
+But the thing is, it's pretty hard to nail down the "best travel laptop" since it really depends on your needs. 
+
+In this guide, I'm going to break down my top 3 choices and explain why they're so awesome. I'm also going to outline what you should consider before you buy a travel laptop. 
+
+But if you're just looking for the [best all around travel laptop](https://amzn.to/2LAEeS4){: target="_blank"}, we chose the Lenovo Flex 14. 
+
 <div id="lenovo-flex-14" class="featured-info-box">
 <span>Best Travel Laptop</span>
 <div class="content">
