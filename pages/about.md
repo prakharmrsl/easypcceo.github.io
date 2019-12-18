@@ -61,7 +61,7 @@ I am a writer for Cryptoslate, a cryptocurrency news website. Check out my [auth
 Check out my **LinkedIn** [here](https://www.linkedin.com/in/jacob-tuwiner-29277b142/){: target="_blank"}.
 
 ## Jordyn Hamilton - Editor in Chief 
-![Jordyn](/img/profile/jordyn.png){: .circle .img-right .img-small}
+![Jordyn](/img/profile/jordyn.jpg){: .circle .img-right .img-small}
 
 The Man? The Myth? The Legend?
 
