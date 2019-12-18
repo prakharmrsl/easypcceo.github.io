@@ -1,5 +1,5 @@
 ---
-title: "How Much Do You Need to Spend on a Gaming PC?" 
+title: "How Much Should You Spend on a Gaming PC?" 
 permalink: "/how-much-should-you-spend-gaming-pc/"
 layout: page
 seotitle: "How Much Should You Spend on a Gaming PC in 2019?" 
@@ -14,20 +14,22 @@ meta: "We're going to be discussing how much you should spend on a gaming PC in 
 * TOC
 {: toc}
 
-How much you should spend on a gaming PC isn’t always an easily answerable question. 
+Here's how much you should spend on a gaming PC:
 
-As I’m sure you can tell, there are many different options in terms of components relating to whatever tasks you may want your computer to tackle, this means that budgets will always vary.
+$300-400 is plenty for basic games in 720p. If you want to game in 1080p, $500-$1,000 is a good range. Gaming in 1440p or higher is going to call for a budget of $1,000-$1,200 for the PC itself and another $400-$600 on peripherals. And lastly, 4K gaming is going to require a budget of more than $2,000.
+
+But the amount you should spend on a gaming PC isn’t always an easily answerable question. 
+
+As I’m sure you can tell, there are many different options in terms of components relating to whatever tasks you may want your computer to tackle, and this means that budgets will always vary.
 
 While on the one hand, a student or someone who’s a bit strapped for cash may have a very low budget of around [$300USD](/budget-pcs/300/) to [$500USD](/budget-pcs/500/). 
 
 On the other hand, someone who may have been saving up specifically for a high-end gaming PC with dreams of becoming a famous streamer might drop [$1,000USD](/budget-pcs/500/) to $2,500USD for their ultimate gaming setup.
 
-**In the following article, we will cover for you the minimum and optimal budget requirements for each and every popular resolution for video games. Here we go!**
-
 ## How Much Should You Spend to Game in 720p? 
 ![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right .img-small}
 
-Starting down here on the low end, building a PC that will run the most popular games at [720p](https://en.wikipedia.org/wiki/720p){: target="_blank"} is a piece of cake.
+If you want to game in [720p](https://en.wikipedia.org/wiki/720p){: target="_blank"}, spending $300-$400 on a gaming PC will get the job done. 
 
 Given a budget of anywhere as low as $300USD can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
 
@@ -49,7 +51,9 @@ That sounds like a pretty good deal to me.
 
 ![how much should you spend to game in 1080p on a pc](/img/how-much-should-you-spend-gaming-pc/1080p.jpg){: .img-right .img-small}
 
-[1080p](https://electronics.howstuffworks.com/what-does-1080p-mean.htm){: target="_blank"}, the king of gaming resolutions and the most commonly used for gaming. 
+If you want to game in 1080p, expect to pay anywhere from $500 all the way up to $1,000 for a capable gaming PC. 
+
+[1080p](https://electronics.howstuffworks.com/what-does-1080p-mean.htm){: target="_blank"}, the king of gaming resolutions and the most commonly used resolution for gaming. 
 
 However, being that it’s such a common resolution, the number of possible configurations for a great 1080p experience is staggering. 
 
@@ -75,6 +79,8 @@ For a complete 1080p playable build you can vision a bill of around [$700USD](/b
 ![1440p gaming rig](/img/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-right .img-small}
 
 The next two resolutions are where we will see our highest numbers yet. Don’t expect to have a traditional “budget” build if you want to play your new games anywhere this luxuriously.
+
+If you want to game in 1440p, you'll need to spend at least $1,000 on a gaming PC, but that's just the minimum. You'd be better off shelling out $1,200 for a gaming PC, and that's before any other peripherals. 
 
 Building for 1440p gaming will always exceed $1,000USD, and there’s no doubt about it. When you’re playing at this high of a resolution you want 60fps, and 1440p ain’t no pushover when it comes to minimum specs.
 
