@@ -5,7 +5,7 @@ permalink: /about/
 seotitle: "About Jacob Tuwiner & Easy PC"
 ---
 
-## My Story
+## Jacob Tuwiner - Owner & Founder 
 
 My name is Jacob Tuwiner. I'm the owner and creator of Easy PC, a site designed to help the new guy in the computer space. Whether you want to build your first gaming PC or your first cryptocurrency mining rig, I've got you covered.   
 
@@ -32,7 +32,7 @@ I figured there were plenty of other people who were in the same situation as me
 I first made the [Easy PC YouTube channel](https://www.youtube.com/channel/UCuPW6x4ZBXR06cjmf1wOS2g){:target="_blank"} and eventually this website in order to help those just starting out. Trust me, it's a lot easier than it seems! The hardest part is getting started, and it's all down hill from there. 
 
 
-## My Current PC Specs
+### My Current PC Specs
 
 If you're curious about what I'm running in my rig, I'm going to list my specs down below. 
 
@@ -48,7 +48,7 @@ I don't really feel the need to run my games in 1440p or 4K resolution. I'd rath
 
 It's not the most expensive build in the world, but it definitely suits my purposes well. 
 
-## Get in Touch
+### Get in Touch
 
 I have social media too! 
 
@@ -59,6 +59,43 @@ I also play PC games! If you want to play with me, [add me on steam!](http://ste
 I am a writer for Cryptoslate, a cryptocurrency news website. Check out my [author profile](https://cryptoslate.com/author/jacob-tuwiner/){: target="_blank"}! 
 
 Check out my **LinkedIn** [here](https://www.linkedin.com/in/jacob-tuwiner-29277b142/){: target="_blank"}.
+
+## Jordyn Hamilton - Editor in Chief 
+![Jordyn](/img/profile/jordyn.png){: .circle .img-right .img-small}
+
+The Man? The Myth? The Legend?
+
+Hey there! I’m Jordyn Hamilton, a writer and editor for Easy PC. The one-stop-shop for brand new PC builders, gamers, and enthusiasts alike.
+
+I got my start in the PC community around 2017 when a good friend of mine convinced me to build a gaming computer after he’d done the same. I had always thought about getting into PC gaming since the most I’d experienced up to that point was 30fps Minecraft on my old HP laptop. 
+
+So the concept of running any games at a good framerate, and for a good price, was gorgeous to me. Around that time, I got a job editing for an online blog. I made around $1,400 working on it and I threw about $500 of that into my brand new PC build. 
+
+Mind you, I did not know anything about computers prior to this and I did not seek out any help in choosing parts (like I should have). In the end, my first build looked a little something like: FX 6300, RX 560 4GB, random $10 aftermarket CPU cooler, just to name a few hiccups. 
+
+That build served me well for a couple of months until I got bored with it and wanted to upgrade. What I did was sell the parts for a little less than I paid, then I used the money to buy more used parts so I could build two more computers. Then I sold those and repeated the process until I had around $1,000.
+
+Fast forward to February 2018. At this point component prices were horrible but I want my PC now, so I charged in full of zeal with $1,000 to build the best I could, and that build fuels me to this day. Though, at this point, I think I’ve sunk another $100 or so into it.
+
+### My Current PC Specs
+
+While my rig isn’t the greatest by any means, it’s what I could get at the time with the knowledge I had at the time.
+
+* **CPU:** Ryzen 5 2600 Overclocked to 4.05GHz
+* **Motherboard:** MSI B350 PC MATE 
+* **RAM:** PNY Anarchy 2x8GB 2400MHz Overclocked to 3133MHz
+* **Storage:** 2TB 7200RPM HDD, 500GB 7200RPM HDD, 240GB SATA SSD, 32GB M.2 SSD
+* **Graphics Card:** GeForce GTX 980 G1 Gaming  
+* **Case**: DIYPC VisionII-Bl Black
+* **PSU:** Corsair RM650x 650W PSU 
+
+### Get in Touch  
+
+If you’d like to go ahead and follow me on the Twitter that I never use (@jdrkhamilton), then feel free! I do check messages there.
+
+Check out my Instagram account at, you guessed it, @jdrkhamilton.
+
+If you’d like to reach me via email, do you think you could guess what it is? If you guess jdrkhamilton@gmail.com you were 100% correct!
 
 ## Disclaimer
 
