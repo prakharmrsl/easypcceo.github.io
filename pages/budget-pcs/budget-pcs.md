@@ -89,10 +89,10 @@ If you want some help picking out your components, we've got a bunch of build gu
 		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
 		<td class="components">
 			<ul>
-			<li>Ryzen 3 2200G</li>
-			<li>RX 570 ROG STRIX 4GB</li>
-			<li>Corsair Vengeance LPX 8GB DDR4-2400MHz</li>
-			<li>WD Caviar Blue 1TB</li>
+			<li>Intel i3-9100F</li>
+			<li>GTX 1650 OC 4GB</li>
+			<li>8GB DDR4-2666MHz</li>
+			<li>Seagate Barracuda 2TB</li>
 			</ul>
 		</td>
 		<td><a class="big-button" href="/budget-pcs/500/">Build Guide</a></td>
