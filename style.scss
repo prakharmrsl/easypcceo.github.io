@@ -1541,7 +1541,7 @@ blockquote p {
  }
 
  .featured-info-box {
-   margin: 50px 0;
+   margin: 50px 0 -30px 0;
    border: 5px solid #212121;
    position: relative;
    > span {
@@ -1575,6 +1575,7 @@ blockquote p {
         }
         .img {
           padding: 20px;
+          margin-bottom: -40px;
         }
       }
    .btn.btn-centered {
