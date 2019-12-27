@@ -4,6 +4,7 @@ permalink: "/graphics-cards/gtx-1080-ti/"
 layout: page
 seotitle: "5 Best GTX 1080 Ti Graphics Cards 2019 (Comparison)" 
 meta: "We've rounded up and reviewed the 5 best GTX 1080 Ti graphics cards on the market in 2019"
+redirect_from: /crypto-mining/gtx-1080-review/
 ---
 
 <div class="author-line">
