@@ -1,5 +1,5 @@
 ---
-title: "Best Gaming Desks" 
+title: "Cryptocurrency mining hardware" 
 permalink: "/crypto-mining/"
 layout: page
 seotitle: "redirecting..." 

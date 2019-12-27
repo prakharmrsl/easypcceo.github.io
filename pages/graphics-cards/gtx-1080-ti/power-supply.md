@@ -4,6 +4,7 @@ permalink: "/graphics-cards/gtx-1080-ti/power-supply/"
 layout: page
 seotitle: "3 Best Power Supplies for GTX 1080 Ti 2019 (Best Deals)" 
 meta: "Buying the best power supply for the GTX 1080 Ti has never been easier."
+redirect_from: /crypto-mining/bitcoin-hardware/
 ---
 
 <div class="author-line">
