@@ -1,9 +1,9 @@
 ---
-title: "The Best Graphics Cards for Gaming of 2019" 
+title: "The Best Graphics Cards for Gaming of 2020" 
 permalink: "/graphics-cards/"
 layout: page
-seotitle: "5 Best Graphics Cards for Gaming 2019 (Comparison)" 
-meta: "If you're building a gaming PC, you need to check out this list of the best graphics cards of 2019 before you build"
+seotitle: "5 Best Graphics Cards for Gaming 2020 (Comparison)" 
+meta: "If you're building a gaming PC, you need to check out this list of the best graphics cards of 2020 before you build"
 redirect_from: /crypto-mining/rx-580-review/
 ---
 
