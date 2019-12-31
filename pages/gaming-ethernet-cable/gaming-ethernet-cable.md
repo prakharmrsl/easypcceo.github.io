@@ -1,9 +1,9 @@
 ---
-title: "The Best Ethernet Cable for the Xbox One (2019)"
+title: "The Best Ethernet Cable for the Xbox One (2020)"
 permalink: "/gaming-ethernet-cable/"
 layout: page
 seotitle: "Best Ethernet Cable for Xbox One & Xbox One X (2020)" 
-meta: "We're taking a look at the best ethernet cable for the Xbox One in 2019!"
+meta: "We're taking a look at the best ethernet cable for the Xbox One in 2020!"
 ---
 
 ![Gaming Ethernet Cable Header](/img/header/gaming-ethernet-cables.jpg)

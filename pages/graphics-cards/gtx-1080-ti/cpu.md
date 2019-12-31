@@ -2,7 +2,7 @@
 title: "The Best CPUs for The GTX 1080 Ti" 
 permalink: "/graphics-cards/gtx-1080-ti/cpu/"
 layout: page
-seotitle: "3 Best CPUs for GTX 1080 Ti in 2019 (No Bottleneck)" 
+seotitle: "3 Best CPUs for GTX 1080 Ti in 2020 (No Bottleneck)" 
 meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you buy the right CPU for the job"
 ---
 
@@ -35,7 +35,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
 <div class="text">
 <h2>Intel Core i9-9900KF</h2>
 <h3>Our Pick</h3>
-<p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2019. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
+<p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2020. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
 </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2r1tFQu">Check Price on Amazon</a>
@@ -48,7 +48,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Best CPU for gaming of 2019</li> 
+        <li>Best CPU for gaming of 2020</li> 
         <li>Handles workstation tasks with ease</li> 
         <li>High overclocking potential</li>
       </ul> 
