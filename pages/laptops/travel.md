@@ -29,7 +29,7 @@ After traveling Europe for 7 months and working online to support myself, I lear
 
 But the thing is, it's pretty hard to nail down the "best travel laptop" since it really depends on your needs. 
 
-In this guide, I'm going to break down my top 3 choices and explain why they're so awesome. I'm also going to outline what you should consider before you buy a travel laptop, and [where to find good laptops](https://financepond.com/shopping/best-places-to-buy-a-laptop/){: target="_blank"}. 
+In this guide, I'm going to break down my top 3 choices and explain why they're so awesome. I'm also going to outline what you should consider before you buy a travel laptop. 
 
 But if you're just looking for the [best all around travel laptop](https://amzn.to/2LAEeS4){: target="_blank"}, we chose the Lenovo Flex 14. 
 
