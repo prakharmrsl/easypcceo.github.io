@@ -293,6 +293,8 @@ Corsair manages to pull off such a small yet spacious interior with their awesom
 
 It's an ATX Cube chassis, meaning the motherboard, CPU and GPU were compartmentalized from the rest of the build, and the components that don't require active cooling are moved to the back of the case. 
 
+The Air 540 is almost small enough to pass as a micro atx case - it'd probably be mistaken for one by the untrained eye (click [here](/budget-pcs/smallest-micro-atx-cases/) for our guide on the smallest micro atx cases.)
+
 This way, airflow isn't wasted on the parts that don't really need it – definitely a cool design by Corsair. 
 
 One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
