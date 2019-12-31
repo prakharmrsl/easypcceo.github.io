@@ -1,8 +1,8 @@
 ---
-title: "Best Small ATX Cases of 2019"
+title: "Best Small ATX Cases of 2020"
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2019)" 
+seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2020)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
@@ -14,7 +14,7 @@ meta: "We're taking a look at the smallest atx case options on the market. If yo
 ![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
 
 <ul id="markdown-toc">
-<li><a href="#top-5-smallest-atx-case-options-of-2019" id="markdown-toc-top-5-smallest-atx-case-options-of-2019">Top 5 Smallest ATX Case Options of 2019</a></li>
+<li><a href="#top-5-smallest-atx-case-options-of-2020" id="markdown-toc-top-5-smallest-atx-case-options-of-2020">Top 5 Smallest ATX Case Options of 2020</a></li>
 <li><a href="#case-buying-guide" id="markdown-toc-case-buying-guide">Case Buying Guide</a></li>
 <li><a href="#a-great-case-is" id="markdown-toc-a-great-case-is">A Great Case Is…</a></li>
 <li><a href="#do-you-need-a-gaming-case" id="markdown-toc-do-you-need-a-gaming-case">Do You Need a ‘Gaming’ Case?</a></li>
@@ -28,7 +28,7 @@ In this guide, we're taking a look at the 5 smallest ATX cases on the market.
 
 But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](https://amzn.to/2oFt85v){: target="_blank"} as the best smallest ATX case. It's got style, performance, and reliability all packed into one affordable package. 
 
-## Top 5 Smallest ATX Case Options of 2019 
+## Top 5 Smallest ATX Case Options of 2020 
 
 <table class="basic-table" align="center">
   <tr>
