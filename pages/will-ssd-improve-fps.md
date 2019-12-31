@@ -1,8 +1,8 @@
 ---
-title: "Is an SSD Worth it for Gaming in 2019? [Impact on FPS]" 
+title: "Is an SSD Worth it for Gaming in 2020? [Impact on FPS]" 
 permalink: "/will-ssd-improve-fps/"
 layout: page
-seotitle: "Will an SSD Improve FPS? Explained 2019 (Quick Answer)" 
+seotitle: "Will an SSD Improve FPS? Explained 2020 (Quick Answer)" 
 meta: "Using an SSD is highly recommended by many for the performance boosts, but will an SSD improve FPS when gaming?"
 ---
 
@@ -20,7 +20,7 @@ But will an SSD improve FPS?
 
 **The simple answer is no. An SSD will not improve your FPS in games, except in the very rare instance in which a game may load textures straight from storage instead of the widely accepted VRAM loading. However, an SSD will improve performance on many other fronts.** 
 
-With that being said, in this post, we're going to be discussing whether or not an SSD is worth it for gaming in 2019 and beyond. 
+With that being said, in this post, we're going to be discussing whether or not an SSD is worth it for gaming in 2020 and beyond. 
 
 Let's dive in: 
 
