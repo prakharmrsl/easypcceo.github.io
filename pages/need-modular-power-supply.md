@@ -1,8 +1,8 @@
 ---
-title: "Do You Need a Modular PSU?" 
+title: "Do You Need a Modular PSU for Your Gaming PC?" 
 permalink: "/need-modular-power-supply/"
 layout: page
-seotitle: "Do You Need a Modular Power Supply? (2020)" 
+seotitle: "Do You Need a Modular Power Supply in 2019? [Things to Know]" 
 meta: "In this guide, we're going to show you why you really do need a modular power supply if you want to save space in your rig."
 ---
 

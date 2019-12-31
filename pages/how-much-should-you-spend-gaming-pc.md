@@ -2,8 +2,8 @@
 title: "How Much Should You Spend on a Gaming PC?" 
 permalink: "/how-much-should-you-spend-gaming-pc/"
 layout: page
-seotitle: "How Much Should You Spend on a Gaming PC in 2020?" 
-meta: "We're going to be discussing how much you should spend on a gaming PC in 2020 if you want to game with good settings and FPS."
+seotitle: "How Much Should You Spend on a Gaming PC in 2019?" 
+meta: "We're going to be discussing how much you should spend on a gaming PC in 2019 if you want to game with good settings and FPS."
 ---
 
 <div class="author-line">
@@ -200,4 +200,4 @@ Sometimes you can get amazing deals on barebones systems though.
 
 This would allow you to have an almost completed system on the spot, you’ve just got to buy a couple more parts to finish up your build.
 
-If you would like to check out our recommended (2020) spec sheets for each individual resolution, feel free to check them out below.
+If you would like to check out our recommended (2019) spec sheets for each individual resolution, feel free to check them out below.

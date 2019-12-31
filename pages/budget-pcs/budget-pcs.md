@@ -2,7 +2,7 @@
 title: "How to Build a Gaming Computer from A to Z (Full Guide)"
 permalink: "/budget-pcs/"
 layout: page
-seotitle: "Building a Gaming PC From Start to Finish in 2020 (Full Guide)"
+seotitle: "Building a Gaming PC From Start to Finish in 2019 (Full Guide)"
 ---
 ![Budget PCs Header](/img/header/budget-pcs.jpg)
 

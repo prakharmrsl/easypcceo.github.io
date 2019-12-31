@@ -1,5 +1,5 @@
 ---
-title: "Here's Why GPU Memory Clock Speed Matters for Gaming (2020)" 
+title: "Here's Why GPU Memory Clock Speed Matters for Gaming (2019)" 
 permalink: "/gpu-memory-clock-speed/"
 layout: page
 seotitle: "Does GPU Memory Clock Speed Matter for Gaming?" 
