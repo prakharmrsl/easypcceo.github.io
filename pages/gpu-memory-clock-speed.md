@@ -2,7 +2,7 @@
 title: "GPU Memory Clock Speed vs GPU Core Clock Speed: What's The Difference?" 
 permalink: "/gpu-memory-clock-speed/"
 layout: page
-seotitle: "GPU Memory & Core Clock Speeds Explained (HUGE Difference)" 
+seotitle: "GPU Memory vs Core Clock Speed (HUGE Difference)" 
 meta: "GPU memory clock speed and GPU core clock speed are often confused with one another, but they're both pretty important to consider. So, what's the difference? " 
 ---
 
