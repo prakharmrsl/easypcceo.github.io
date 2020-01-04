@@ -2,16 +2,18 @@
 - name: Budget Gaming PCs 
   url: /budget-pcs/
   subcategories:
-    - subtitle: "$400 Build"
+    - subtitle: "$400 Gaming PC"
       subhref: "/budget-pcs/400/"
-    - subtitle: "$500 Build"
+    - subtitle: "$500 Gaming PC"
       subhref: "/budget-pcs/500/"
-    - subtitle: "$600 Build"
+    - subtitle: "$600 Gaming PC"
       subhref: "/budget-pcs/600/"
-    - subtitle: "$700 Build"
+    - subtitle: "$700 Gaming PC"
       subhref: "/budget-pcs/700/"
-    - subtitle: "$800 Build"
+    - subtitle: "$800 Gaming PC"
       subhref: "/budget-pcs/800/"
+    - subtitle: "$900 Gaming PC"
+    - subhref: "/budget-pcs/900/"
 
 - name: Graphics Cards 
   url: /graphics-cards/
