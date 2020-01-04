@@ -1,9 +1,9 @@
 ---
-title: "Here's Why GPU Memory Clock Speed Matters for Gaming (2020)" 
+title: "GPU Memory Clock Speed vs GPU Core Clock Speed: What's The Difference?" 
 permalink: "/gpu-memory-clock-speed/"
 layout: page
-seotitle: "Does GPU Memory Clock Speed Matter for Gaming?" 
-meta: "We're going to be answering the common question 'does GPU memory clock speed matter for gaming' in this post." 
+seotitle: "GPU Memory & Core Clock Speeds Explained (HUGE Difference)" 
+meta: "GPU memory clock speed and GPU core clock speed are often confused with one another, but they're both pretty important to consider. So, what's the difference? " 
 ---
 
 <div class="author-line">
@@ -20,17 +20,33 @@ On a GPU spec sheet, I’m sure you’ve seen it, there’s a ton of numbers, ri
 
 There’s the GPU’s name, the core clock speed, the amount of onboard VRAM, and finally there’s the clock speed of the VRAM. 
 
-But how important is your memory clock, really? 
+But how important is your memory clock, really? And what about your GPU's core clock speed?
 
 **The memory clock of your GPU is actually almost as important as your core clock, if not more important.**
 
 In the following article we will cover exactly how important GPU memory clock speed is for gaming, so you can make a more informed decision. 
 
+## Memory Clock Speed Explained  
+
+The memory, or VRAM on your GPU is used to temporarily store assets like textures that are being used in whatever game you may be playing. 
+
+![gpu memory clock speed](/img/gpu-memory-clock-speed/gpu.jpg){: .img-middle}
+
+This means that having faster VRAM allows your graphics card to process these assets quicker, and having more VRAM allows for more assets to be stored. 
+
+So, having a higher VRAM clock speed can help your games render much faster.
+
+Overclocking can also be a huge factor in your graphics card performance and just like the core clock, you can overclock your GPU memory. 
+
+We always suggest overclocking to get the best possible performance out of your components.
+
 ## Does Memory Clock Speed Affect FPS? 
 
 Well, I actually don’t know what to tell you here. 
 
-Just kidding, of course I do. To sum it up briefly, there is no real clear one-size-fits-all answer I can give you as to whether or not GPU memory clock speed does anything to your FPS in games.
+Just kidding, of course I do. 
+
+To sum it up briefly, there is no real clear one-size-fits-all answer I can give you as to whether or not GPU memory clock speed does anything to your FPS in games.
 
 When choosing a GPU you would, of course, want to compare the raw performance of each individual graphics card and graphics card model. 
 
@@ -46,25 +62,13 @@ Some games just happen to benefit a lot more for VRAM frequency than others, and
 
 So, GPU Memory clock can affect FPS, be it by 1% or by 10%, it just depends on what game you're playing.
 
-## Memory Clock Speed for Gaming 
-
-The memory, or VRAM on your GPU is used to temporarily store assets like textures that are being used in whatever game you may be playing. 
-
-![gpu memory clock speed](/img/gpu-memory-clock-speed/gpu.jpg){: .img-middle}
-
-This means that having faster VRAM allows your graphics card to process these assets quicker, and having more VRAM allows for more assets to be stored. 
-
-So, having a higher VRAM clock speed can help your games render much faster.
-
-Overclocking can also be a huge factor in your graphics card performance and just like the core clock, you can overclock your GPU memory. We always suggest overclocking to get the best possible performance out of your components.
-
-## Core Clock vs Memory Clock Ratio 
+## Core Clock Speed Explained 
 
 What is very important for FPS, is the actual graphics processor’s core clock speed. 
 
 This will be the most invaluable number you find on your graphics card, because bigger means better.
 
- Generally the faster your core clock, the higher FPS games will run at, but this only applies when comparing the same type of graphics card to a different model of itself (eg. 2080 FE vs. 2080 ROG Strix) since different cards have varying number components and build structure.
+Generally the faster your core clock, the higher FPS games will run at, but this only applies when comparing the same type of graphics card to a different model of itself (eg. 2080 FE vs. 2080 ROG Strix) since different cards have varying number components and build structure.
 
 The GPU core clock speed measures how fast your graphics processor can, well, process graphics. So overclocking your GPU core clock will always directly affect the FPS you get in games. 
 
