@@ -268,7 +268,7 @@ If you want to push your graphics card to the max via overclocking, water coolin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZfnPFNnXqC0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
 
-Alright, I’m going to explain this in very simple terms, because it’s a pretty complex concept. 
+Alright, I’m going to explain this in very simple terms, because it’s a pretty complex concept. Forget about GPU memory clock speed and core clock for now - we've got a guide that talks about that [here](/gpu-memory-clock-speed/).
 
 As you probably already know, CPUs use cores. Whether the CPU has 1, 2, 4, or 8 cores, each core can handle one process at a time (which basically means using electrical signals to say yes or no really quickly, over and over again). 
 
