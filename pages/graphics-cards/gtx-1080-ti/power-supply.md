@@ -473,4 +473,4 @@ The efficiency rating of a power supply is just what the name implies; a rating 
 
 In short, the higher the efficiency rating on your PSU, the more electricity makes it from the wall to your computer as opposed to being lost to heat or other outlets. 
 
-For a more in-depth look check out [this](https://www.maketecheasier.com/80-plus-power-supply-ratings/){: target="_blank"} article.
+For a more in-depth look, check out [this](/power-supply-ratings/) article we wrote that's all about power supply efficiency ratings.
