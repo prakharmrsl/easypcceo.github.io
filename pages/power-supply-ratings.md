@@ -88,7 +88,7 @@ Platinum and Titanium-rated power supplies are usually reserved for the server s
 Platinum-rated power supplies are rated for 90% efficiency at 20% load, 92% efficiency at 50% load, and oddly enough 89% at 100% load for whatever reason.
 
 ## 80 Plus Titanium
-<img class="lazyload img-right img-small" alt="80+ titanium power supply rating" src="/img/power-supply-ratings/titanium.jpg"/>
+<img class="lazyload img-right img-small" alt="80+ titanium power supply rating" src="/img/power-supply-ratings/titanium.png"/>
 
 Sitting atop the very peak of this powerful mountain is the king of all power supplies; the 80 Plus Titanium.
 
