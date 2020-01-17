@@ -2,7 +2,7 @@
 title: "How to Water Cool a GPU (GPU Water Cooling)" 
 permalink: "/graphics-cards/water-cooling/"
 layout: page
-seotitle: "GPU Water Cooling: Everything You Need to Know (Setup Guide)" 
+seotitle: "GPU Water Cooling: Everything You Need to Know (2020)" 
 meta: "If you're planning on overclocking your GPU, you need to read this guide beforehand. "
 ---
 
