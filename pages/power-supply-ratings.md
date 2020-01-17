@@ -11,6 +11,8 @@ meta: "A lot of people new to building a gaming PC wonder whether or not cable m
 	<span>Jacob Tuwiner</span>
 </div>
 
+![power supply ratings page header](/img/power-supply-ratings/header.jpg)
+
 Power supplies are often misunderstood and overlooked. 
 
 Noob builders choose their power supply based upon wattage only, simply assuming that higher numbers are inherently better. 
@@ -20,14 +22,6 @@ Some prebuilts give no attention to their PSU choice at all and live with whatev
 Although it's easy to focus on the sexy components like your CPU and GPU, it's also important to consider how crucial the quality of a power supply is to your system's long-term stability.
 
 If you're new to the DIY computer-space trying to figure out what power supply to use in your next build, you may not think to look for the Power Supply Efficiency Rating when choosing a PSU.
-
-What is the Power Supply Efficiency Rating anyway? 
-
-What’s the difference between an 80 Plus Gold rated PSU and an 80 Plus Bronze rated PSU? 
-
-And what does 80% efficiency even mean? 
-
-All of these are very common questions and the answer isn’t quite as obvious as it may seem at a glance.
 
 ## How Does a Power Supply Work?
 
@@ -56,12 +50,16 @@ Here are all of the power supply ratings:
 * 80 Plus
 
 Starting at the bottom fo the barrel, the generic 80 Plus rating is given to power supplies that’re rated at 80% efficiency at all 3 workloads. These power supplies can usually be found very cheap but won’t be providing the greatest longevity promises.
-80 Plus Bronze
+
+## 80 Plus Bronze
+<img class="lazyload img-right img-small" alt="80+ bronze power supply rating" src="/img/power-supply-ratings/bronze.png"/>
+
 Bronze-rated power supplies, however, despite being the second-lowest rating are some of (if not the) most popular power supplies for consumers. Well, 80 Plus Bronze power supplies are rated for at least 82% efficiency at 20% load, 85% efficiency at 50% load, and 82% efficiency at 100% load.
 
 The secret the Bronze-rated’s success is the general reliability of them, paired alongside with their low cost when compared to Gold-rated power supplies. Though, how does the Silver-rated fare?
 
 ## 80 Plus Silver
+<img class="lazyload img-right img-small" alt="80+ silver power supply rating" src="/img/power-supply-ratings/silver.png"/>
 
 Oddly enough, Silver-rated power supplies aren’t really popular, nor really on the radar at all. 
 
@@ -70,6 +68,7 @@ There’s no simple answer we can give, but the gist of it is that Silver-rated 
 PSUs with the Silver rating are rated for 85% efficiency at 20% load, 88% efficiency at 50% load, and 85% efficiency at 100% load.
 
 ## 80 Plus Gold
+<img class="lazyload img-right img-small" alt="80+ gold power supply rating" src="/img/power-supply-ratings/gold.png"/>
 
 Most mid-range to high-range systems today will be sporting an 80 Plus Gold rated power supply due to their amazing reliability and relatively low cost. These PSUs might even be more popular than Bronze-rated ones!
 
@@ -78,6 +77,7 @@ Gold-rated is also the level at which manufacturers start using the Fully-Modula
 80 Plus Gold power supplies are rated for 87% efficiency at both 20% and 100% load, similar to the Bronze and Silver, and 90% efficiency at 50% load.
 
 ## 80 Plus Platinum
+<img class="lazyload img-right img-small" alt="80+ platinum power supply rating" src="/img/power-supply-ratings/platinum.png"/>
 
 Now we’re getting up to the high-end ratings, starting with the amazing feat of engineering that is 80 Plus Platinum.
 
@@ -88,6 +88,7 @@ Platinum and Titanium-rated power supplies are usually reserved for the server s
 Platinum-rated power supplies are rated for 90% efficiency at 20% load, 92% efficiency at 50% load, and oddly enough 89% at 100% load for whatever reason.
 
 ## 80 Plus Titanium
+<img class="lazyload img-right img-small" alt="80+ titanium power supply rating" src="/img/power-supply-ratings/titanium.png"/>
 
 Sitting atop the very peak of this powerful mountain is the king of all power supplies; the 80 Plus Titanium.
 
