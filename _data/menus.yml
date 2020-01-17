@@ -14,6 +14,11 @@
       subhref: "/budget-pcs/800/"
     - subtitle: "$900 Gaming PC"
       subhref: "/budget-pcs/900/"
+    - subtitle: "$1000 Gaming PC"
+      subhref: "/budget-pcs/1000/"
 
 - name: Graphics Cards 
   url: /graphics-cards/
+  subcategories:
+    - subtitle: "GTX 1080 Ti"
+      subhref: "/graphics-cards/gtx-1080-ti/"
