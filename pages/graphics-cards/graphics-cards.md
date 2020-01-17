@@ -254,6 +254,14 @@ These chips can be used to play light games like CS:GO and Garry’s Mod with pr
 
 Still, if you want to build a true gaming PC, stay away from integrated graphics. Any title with halfway decent graphics is going to need a discrete (dedicated) graphics card. 
 
+## GPU Water Cooling 
+
+Believe it or not, processors aren't the only component that you can water cool. 
+
+In fact, GPU water cooling is a thing, and we happen to have a guide on it [here](/graphics-cards/water-cooling/). 
+
+If you want to push your graphics card to the max via overclocking, water cooling is definitely the move. 
+
 ## How Does a Graphics Card Work? 
 
 <div class="vid-container">
