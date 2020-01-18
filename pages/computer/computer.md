@@ -9,19 +9,19 @@ When purchasing a new computer, many people don’t really think about the compa
 
 Whether you’re playing video games and streaming to thousands of fans, designing the next big company’s brand new logo, or testing and retesting lines of code for your new app, there’s always a certain type of part that’ll improve your workload. 
 
-## What Are the PC Parts that Matter to Performance?
+## What Parts Are in a PC? 
 
 Every component in your computer has a job, and for the most part, the computer cannot function without every part. The only exception to this rule is if you have extra hard drives or SSDs past your boot drive.
 
 ### CPU (Central Processing Unit)
-(Picture)
+<img class="lazyload" alt="cpu" data-src="/img/1000/cpu.jpg" />
 
 You can think of the CPU (or processor) sort of like the brain of your computer. 
 
 It handles compute tasks, processing instructions passed through by the motherboard distributing answers to tell all of the parts what to do.
 
 ### CPU Cooler
-(Picture)
+<img class="lazyload" alt="cooler" data-src="/img/1000/cooler.jpg" />
 
 Your CPU cooler has a huge impact on the overall performance of your processor. 
 
@@ -30,7 +30,8 @@ As your CPU uses electricity, it gives off heat, and a lot of it. So much so tha
 Keeping your CPU cool can allow it to perform at its maximum speed and potential.
 
 ### Motherboard
-(Picture)
+<img class="lazyload" alt="motherboard" data-src="/img/1000/motherboard.jpg" />
+
 The motherboard acts as an outlet with which all the components can communicate through. 
 
 Everything in your computer is connected either directly or via cables to the motherboard to allow communication between the part and the processor. 
@@ -38,14 +39,14 @@ Everything in your computer is connected either directly or via cables to the mo
 The motherboard also handles power distribution from the power supply to the rest of the computer.
 
 ### RAM (Random Access Memory)
-(Picture)
+<img class="lazyload" alt="ram" data-src="/img/1000/ram.jpg" />
 
 Your RAM is the system’s short-term responsible for storing temporary data from programs running on your computer. 
 
 Thus, you’ll need high amounts of RAM if you’re planning on running tons of programs at the same time.
 
 ### Storage
-(Picture)
+<img class="lazyload" alt="hdd" data-src="/img/1000/hdd.jpg" />
 
 Storage is pretty self-explanatory. This is where data is saved in the form of files, programs, photos, videos, you get it. 
 
@@ -54,14 +55,14 @@ There are two types of storage: Hard Disk Drives and Solid State Drives.
 HDDs use a metal platter to physically etch your data, while SSDs use a series of 1’s and 0’s on a memory chip to store your data. HDDs are much cheaper, while SSDs are much faster. 
 
 ### GPU (Graphics Processing Unit)
-(Picture)
+<img class="lazyload" alt="gpu" data-src="/img/1000/gpu.jpg" />
 
 The GPU (Graphics Processing Unit) processes the graphics of your system, or what ends up showing on your monitor. 
 
 Having a high power graphics card is the key to getting better performance when gaming, as games rely heavily on your graphics output, of course.
 
 ### PSU (Power Supply Unit)
-(Picture)
+<img class="lazyload" alt="psu" data-src="/img/1000/psu.jpg" />
 
 Having the right power supply can determine whether or not your computer even turns on or not. 
 
@@ -70,7 +71,7 @@ The power supply delivers power from the wall of your home to the entirety of yo
 If you’d like to learn more about power supplies, we have an article about PSU efficiencies [here](/power-supply-ratings/).
 
 ### Case
-(Picture)
+<img class="lazyload" alt="case" data-src="/img/1000/case.jpg" />
 
 The case of your computer isn’t generally as important as the main components in the sense that you don’t generally need one to run your system, though having a power button is quite handy for obvious reasons. 
 
@@ -81,6 +82,7 @@ Having the right case means getting proper airflow to your components, allowing 
 Well, just a short scroll down will show you the different types of workloads or professions you might encounter, and what parts are beneficial to look for when budgeting for a specific workload.
 
 ### Graphic Design
+<img class="lazyload img-right img-small" alt="cpu" data-src="/img/graphic-design/graphic.jpg" />
 
 Graphic design doesn't actually require all that powerful of a computer all around. We suggest a minimum of 8GB of RAM with a newer dual-core Intel CPU, but the new i3-9100F is also a good quad-core choice.
 
@@ -89,12 +91,14 @@ Graphics aren't all that important, but the type of monitor you use definitely i
 Having a quick hard drive or SSD would also be good for speedy file access. We suggest the Samsung 860 Evo 500GB.
 
 ### Photo Editing
+<img class="lazyload img-right img-small" alt="photoshop logo" data-src="/img/photo-editing/photoshop-logo.png" />
 
 Just as with a graphic design-focused computer, you can photo edit on just about anything. 
 
 For the best experience, you should opt for a newer quad-core processor and at least 8GB of RAM. The graphics card doesn't matter really, but having a fast SSD is definitely recommended. Going for a high-end IPS monitor would help more than focusing on internal components, we suggest the LG 34UC80-B.
 
 ### Video Editing
+<img class="lazyload img-right img-small" alt="premiere pro logo" data-src="/img/video-editing/video-editing.jpg" />
 
 You'd think for editing videos, of all things, that your system would need a really good graphics card, right? You couldn't be more wrong.
 
@@ -103,6 +107,7 @@ Like many of our workloads, you'll need a beefy CPU if you want to keep up with 
 You should also make sure you have at least 16GB of RAM in your system for video editing, but 32GB is also a reasonable number. Having a fast drive, such as an SSD, would also benefit you greatly.
 
 ### Coding
+<img class="lazyload img-right img-small" alt="coding" data-src="/img/programming/code.jpg" />
 
 The CPU is generally the most important component when it comes to coding, but to be completely honest, you could write code on a potato.
 
@@ -111,6 +116,7 @@ Coding doesn't require a very expensive or high-end processor. Many would-be cod
 If you don't just code, you could also go for a low-end Intel or AMD chip. Intel CPUs like the Pentium G5420 offer high speed with a low core count, but the new i3-9100F gives you much higher speeds with 4 cores. AMD's Ryzen 3 1200 also has 4 cores, but at a slower speed for cheaper cost.
 
 ### Stock Trading
+<img class="lazyload img-right img-small" alt="coding" data-src="/img/programming/code.jpg" />
 
 The single most important part for a high-frequency Stock Trading computer is the processor. 
 
@@ -123,6 +129,7 @@ Your other components won’t matter as much to the overall performance, but we 
 We also suggest including an NVMe SSD for fast boot times.
 
 ### Gaming
+<img class="lazyload img-right img-small" alt="gaming" data-src="/img/1000/gaming.jpg" />
 
 When gaming, the most important part is obviously the graphics card, but your CPU could also play a big role.
 
@@ -133,6 +140,7 @@ One of the best possible CPU/GPU pairing you can go for right now is an Intel Co
 If you’d like to compare the performance of various processors and graphics cards, we suggest using the online tool UserBenchmark which compiles component benchmarks from all over the work to give total average performance numbers.
 
 ### Streaming
+<img class="lazyload img-right img-small" alt="streaming" data-src="/img/streaming/twitch.jpg" />
 
 Streaming is a similar situation to gaming, as you'll still need that beefy GPU to run your games well, and having a higher quality graphics card can help in reducing lost frames when streaming your games.
 
