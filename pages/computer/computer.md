@@ -14,14 +14,14 @@ Whether you’re playing video games and streaming to thousands of fans, designi
 Every component in your computer has a job, and for the most part, the computer cannot function without every part. The only exception to this rule is if you have extra hard drives or SSDs past your boot drive.
 
 ### CPU (Central Processing Unit)
-<img class="lazyload" alt="cpu" data-src="/img/1000/cpu.jpg" />
+<img class="lazyload img-middle" alt="cpu" data-src="/img/1000/cpu.jpg" />
 
 You can think of the CPU (or processor) sort of like the brain of your computer. 
 
 It handles compute tasks, processing instructions passed through by the motherboard distributing answers to tell all of the parts what to do.
 
 ### CPU Cooler
-<img class="lazyload" alt="cooler" data-src="/img/1000/cooler.jpg" />
+<img class="lazyload img-middle" alt="cooler" data-src="/img/1000/cpu-cooler.jpg" />
 
 Your CPU cooler has a huge impact on the overall performance of your processor. 
 
@@ -30,7 +30,7 @@ As your CPU uses electricity, it gives off heat, and a lot of it. So much so tha
 Keeping your CPU cool can allow it to perform at its maximum speed and potential.
 
 ### Motherboard
-<img class="lazyload" alt="motherboard" data-src="/img/1000/motherboard.jpg" />
+<img class="lazyload img-middle" alt="motherboard" data-src="/img/1000/motherboard.jpg" />
 
 The motherboard acts as an outlet with which all the components can communicate through. 
 
@@ -39,14 +39,14 @@ Everything in your computer is connected either directly or via cables to the mo
 The motherboard also handles power distribution from the power supply to the rest of the computer.
 
 ### RAM (Random Access Memory)
-<img class="lazyload" alt="ram" data-src="/img/1000/ram.jpg" />
+<img class="lazyload img-middle" alt="ram" data-src="/img/1000/ram.jpg" />
 
 Your RAM is the system’s short-term responsible for storing temporary data from programs running on your computer. 
 
 Thus, you’ll need high amounts of RAM if you’re planning on running tons of programs at the same time.
 
 ### Storage
-<img class="lazyload" alt="hdd" data-src="/img/1000/hdd.jpg" />
+<img class="lazyload img-middle" alt="hdd" data-src="/img/800/hdd.jpg" />
 
 Storage is pretty self-explanatory. This is where data is saved in the form of files, programs, photos, videos, you get it. 
 
@@ -54,15 +54,17 @@ There are two types of storage: Hard Disk Drives and Solid State Drives.
 
 HDDs use a metal platter to physically etch your data, while SSDs use a series of 1’s and 0’s on a memory chip to store your data. HDDs are much cheaper, while SSDs are much faster. 
 
-### GPU (Graphics Processing Unit)
-<img class="lazyload" alt="gpu" data-src="/img/1000/gpu.jpg" />
+SSDs won't necessarily increase your FPS if you're building a gaming PC, but they will significantly increase your computer's load speed, and your games' loading speeds as well. More on that [here](/will-ssd-improve-fps/).
 
-The GPU (Graphics Processing Unit) processes the graphics of your system, or what ends up showing on your monitor. 
+### GPU (Graphics Processing Unit)
+<img class="lazyload img-middle" alt="gpu" data-src="/img/1000/gpu.jpg" />
+
+The GPU (Graphics Processing Unit) processes the graphics of your system, or what ends up showing on your monitor. Choosing a [good graphics card](/graphics-cards/) is INCREDIBLY important if you want to [build a good gaming PC](/budget-pcs/).
 
 Having a high power graphics card is the key to getting better performance when gaming, as games rely heavily on your graphics output, of course.
 
 ### PSU (Power Supply Unit)
-<img class="lazyload" alt="psu" data-src="/img/1000/psu.jpg" />
+<img class="lazyload img-middle" alt="psu" data-src="/img/1000/psu.jpg" />
 
 Having the right power supply can determine whether or not your computer even turns on or not. 
 
@@ -71,11 +73,13 @@ The power supply delivers power from the wall of your home to the entirety of yo
 If you’d like to learn more about power supplies, we have an article about PSU efficiencies [here](/power-supply-ratings/).
 
 ### Case
-<img class="lazyload" alt="case" data-src="/img/1000/case.jpg" />
+<img class="lazyload img-middle" alt="case" data-src="/img/1000/case.jpg" />
 
 The case of your computer isn’t generally as important as the main components in the sense that you don’t generally need one to run your system, though having a power button is quite handy for obvious reasons. 
 
-Having the right case means getting proper airflow to your components, allowing them to run at their best.
+Having the right case means getting proper airflow to your components, allowing them to run at their best. 
+
+Cases come in all different shapes and sizes. You can buy a [compact ATX case](/budget-pcs/smallest-atx-cases/), a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/), or a large full ATX case. It's totally up to you.
 
 ## How Do I Know What’s Important for My Workload?
 
@@ -133,11 +137,17 @@ We also suggest including an NVMe SSD for fast boot times.
 
 When gaming, the most important part is obviously the graphics card, but your CPU could also play a big role.
 
-By pairing a high-end GPU with a low-end CPU (or vice versa) you create what we call a bottleneck. This happens when too much information is being flooded to a part that can’t handle it, so you should always pair a CPU and GPU that are a similar level on the market. 
+By pairing a high-end GPU with a low-end CPU (or vice versa) you create what we call a bottleneck. 
 
-One of the best possible CPU/GPU pairing you can go for right now is an Intel Core i9-9900KF paired with an Nvidia RTX 2080-Ti. This pairing ensures you can handle 1080p, 1440p, and even 4K gameplay with more than ease. Hell, you could probably push some 8K gameplay if you can find a way to support it. 
+This happens when too much information is being flooded to a part that can’t handle it, so you should always pair a CPU and GPU that are a similar level on the market. 
+
+One of the best possible CPU/GPU pairing you can go for right now is an Intel Core i9-9900KF paired with an Nvidia RTX 2080-Ti. 
+
+This pairing ensures you can handle 1080p, 1440p, and even 4K gameplay with more than ease. Hell, you could probably push some 8K gameplay if you can find a way to support it. 
 
 If you’d like to compare the performance of various processors and graphics cards, we suggest using the online tool UserBenchmark which compiles component benchmarks from all over the work to give total average performance numbers.
+
+For more information on the best budget gaming computers, we have a ton of information and build guides [here](/budget-pcs/).
 
 ### Streaming
 <img class="lazyload img-right img-small" alt="streaming" data-src="/img/streaming/twitch.jpg" />
