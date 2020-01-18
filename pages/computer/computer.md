@@ -5,8 +5,12 @@ layout: page
 seotitle: "What Computer Do You Need? (Computer Buying Guide)" 
 ---
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#what-parts-are-in-a-pc" id="markdown-toc-what-parts-are-in-a-pc">What Parts Are in a PC?</a> 
+</li>
+<li><a href="#how-do-i-know-whats-important-for-my-workload" id="markdown-toc-how-do-i-know-whats-important-for-my-workload">How Do I Know What’s Important for My Workload?</a> 
+</li>
+</ul>
 
 When purchasing a new computer, many people don’t really think about the compatibility of what components are in the system in relation to their workload 
 
