@@ -5,6 +5,11 @@ layout: page
 seotitle: "What Computer Do You Need? (Computer Buying Guide)" 
 ---
 
+<div class="author-line">
+	<img class="lazyload author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
 <ul id="markdown-toc">
 <li><a href="#what-parts-are-in-a-pc" id="markdown-toc-what-parts-are-in-a-pc">What Parts Are in a PC?</a> 
 </li>
