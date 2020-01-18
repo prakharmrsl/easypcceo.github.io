@@ -106,7 +106,11 @@ For the best experience, you should opt for a newer quad-core processor and at l
 
 You'd think for editing videos, of all things, that your system would need a really good graphics card, right? You couldn't be more wrong.
 
-Like many of our workloads, you'll need a beefy CPU if you want to keep up with any sort of heavy video editing. Something with a high core count at high speed. Don't get us wrong, having a proper graphics card is definitely good, but you don't need to go overboard if you're just planning for video editing. Unless you're editing 4K and 8K footage, you won't need an expensive graphics card. 
+Like many of our workloads, you'll need a beefy CPU if you want to keep up with any sort of heavy video editing. 
+
+Something with a high core count at high speed. Don't get us wrong, having a proper graphics card is definitely good, but you don't need to go overboard if you're just planning for video editing. 
+
+Unless you're editing 4K and 8K footage, you won't need an expensive graphics card. 
 
 You should also make sure you have at least 16GB of RAM in your system for video editing, but 32GB is also a reasonable number. Having a fast drive, such as an SSD, would also benefit you greatly.
 
@@ -120,7 +124,7 @@ Coding doesn't require a very expensive or high-end processor. Many would-be cod
 If you don't just code, you could also go for a low-end Intel or AMD chip. Intel CPUs like the Pentium G5420 offer high speed with a low core count, but the new i3-9100F gives you much higher speeds with 4 cores. AMD's Ryzen 3 1200 also has 4 cores, but at a slower speed for cheaper cost.
 
 ### Stock Trading
-<img class="lazyload img-right img-small" alt="coding" data-src="/img/programming/code.jpg" />
+<img class="lazyload img-right img-small" alt="coding" data-src="/img/programming/trading.jpg" />
 
 The single most important part for a high-frequency Stock Trading computer is the processor. 
 
