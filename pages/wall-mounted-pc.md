@@ -16,7 +16,7 @@ There are a lot of ways to make a PC truly unique from things like water-cooling
 
 But, one of the easiest and coolest ways to create a PC that sticks out from the crowd is to make your computer wall mounted.
 
-Not only does wall mounting a PC eliminates the need for a case which can actually save you money, it also looks badass and can add a real personal touch to your setup.
+Not only does wall mounting a PC eliminates the need for a [case](/budget-pcs/smallest-micro-atx-cases/) which can actually save you money, it also looks badass and can add a real personal touch to your setup.
 
 Wall mounting a computer at first might sound like a complex and daunting task but, if you break it down into simple steps it’s something that anyone can do, no matter your experience with building computers. 
 
@@ -29,6 +29,7 @@ The best way to start your build is to take a look at builds that are already ou
 Remember, this is YOUR build so you should take ideas from everywhere and combine them into your own unique project.
 
 Here are some great examples for inspiration:
+
 <figure>
 <img alt="example of a wall mounted PC" class="lazyload img-middle" src="/img/wall-mounted-pc/example-1.png" />
 <figcaption><p>Source: <a target="_blank" href="https://hu.pinterest.com/pin/528117493791827113/?lp=true">Daniel Vidal via Pinterest</a></p></figcaption>
@@ -47,9 +48,9 @@ Here are some great examples for inspiration:
 
 As you can tell by looking at these pictures, no two wall-mounted builds are quite the same. 
 
-All of them have their own distinct look and feel. For example, the one on the bottom is made of rustic wood and some really cool metal piping to hide the cables. 
+All of them have their own distinct look and feel. 
 
-My personal favorite part is how he uses the giant green button as a power switch. 
+For example, the one on the bottom is made of rustic wood and some really cool metal piping to hide the cables. My personal favorite part is how he uses the giant green button as a power switch. 
 
 In the middle, the bracket to mount it on the wall is made entirely of metal which looks amazing but is almost impossible to make with basic tools. 
 
