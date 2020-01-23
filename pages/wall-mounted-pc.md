@@ -92,6 +92,8 @@ Since this step is going to look so different for everyone I’m going to be tal
 
 Remember that through this process SAFETY should be your number one priority. If you don't know how to do something or need help don’t be afraid to ask someone.
 
+### Choosing Your Theme & Materials 
+
 So to start off, I decided in my design that I wanted to create my PC with a Chicago Bears theme so that it would match the rest of my room. 
 
 To achieve this theme I choose to use plywood as the main base. 
@@ -99,6 +101,8 @@ To achieve this theme I choose to use plywood as the main base.
 I think plywood can make a great option for novice builders because it's readily available and can be cut and formed to your needs without too much work. 
 
 Another benefit of plywood is that you can paint it to whatever color you want.
+
+### Sourcing Your Parts 
 
 So to start I ventured to my local hardware store (in my case this was Menards yours might vary). And picked out a 4’ x 8’ sheet of sanded plywood. 
 
@@ -109,6 +113,8 @@ If you didn’t already know a furring strip is just a thin piece of wood used f
 In my case I’m going to screw it to the back of the plywood. So that it sticks out from the wall just far enough so the cables have somewhere to sit. 
 
 I’m also going to mount hooks onto the other sides of the strips giving me an easy way to hang it on the wall.
+
+### How to Build a Wall Mounted PC (Step by Step)
 
 Just to help speed up my explanation a little and not bore you with the details here's a list of the steps I went through during the building process:
 
