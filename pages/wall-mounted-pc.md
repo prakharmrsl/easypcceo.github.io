@@ -84,7 +84,7 @@ While this plan doesn’t list the exact dimensions of every part I made sure to
 
 Another thing I included was the white circles and box that represented the cuts that I made to route my cables through.
 
-Starting the building process.
+## Starting The Build Process
 
 This is the fun part, were you actually get to start turning the design that you’ve created into a reality. 
 
