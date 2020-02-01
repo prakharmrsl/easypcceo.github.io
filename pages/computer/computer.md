@@ -91,7 +91,9 @@ The case of your computer isn’t generally as important as the main components 
 
 Having the right case means getting proper airflow to your components, allowing them to run at their best. 
 
-Cases come in all different shapes and sizes. You can buy a [compact ATX case](/budget-pcs/smallest-atx-cases/), a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/), or a large full ATX case. It's totally up to you.
+Cases come in all different shapes and sizes. You can buy a [compact ATX case](/budget-pcs/smallest-atx-cases/), a [small micro ATX case](/budget-pcs/smallest-micro-atx-cases/), or a large full ATX case. It's totally up to you. 
+
+The design of your case is (obviously) going to have a tremendous impact on the look and feel of your gaming [setup](https://chainstogains.com/ergonomic-pc-gaming-setup/){: target="_blank"}. 
 
 ## How Do I Know What’s Important for My Workload?
 
