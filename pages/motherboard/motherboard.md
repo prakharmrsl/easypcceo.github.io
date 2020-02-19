@@ -6,8 +6,27 @@ seotitle: ""
 meta: "In this article we're going to break down everything you need to know about buying a motherboard so you can buy the best motherboard for your PC"
 ---
 
-* TOC
-{: toc}
+<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
+<ul id="markdown-toc">
+<li><a href="#form-factor" id="markdown-toc-form-factor">Form Factor</a> 
+</li>
+<li><a href="#memory-capacity" id="markdown-toc-memory-capacity">Memory Capacity</a> 
+</li>
+<li><a href="#motherboard-chipsets" id="markdown-toc-motherboard-chipsets">Motherboard Chipsets</a> 
+</li>
+<li><a href="#motherboard-sockets" id="markdown-toc-motherboard-sockets">Motherboard Sockets</a> 
+</li>
+<li><a href="#onboard-connectors" id="markdown-toc-onboard-connectors">Onboard Connectors</a> 
+</li>
+<li><a href="#the-used-market" id="markdown-toc-the-used-market">The Used Market</a> 
+</li>
+<li><a href="#motherboard-comparison" id="markdown-toc-motherboard-comparison">Motherboard Comparison</a></li>
+<li><a href="#best-motherboards-for-your-cpu" id="markdown-toc-best-motherboards-for-your-cpu">Best Motherboards for Your CPU</a></li>
+</ul>
 
 Though we don’t suggest you bank your entire budget on just your motherboard, we’ve seen some crazy configurations using $300 motherboards with $80 processors, which is a big mistake.
 
@@ -112,7 +131,7 @@ Motherboards tend to have a hard cap on the amount of RAM that your system can f
 Whether it's 64GB, 128GB, or 256GB there is a total maximum allowed for each board, so choosing a board that only supports 32GB when you bought a 64GB kit could lose you some dough.
 
 ### RAM Speed
-<img class="lazyload" alt="ram speed" src="/img/motherboard/ram-speed.jpg" />
+<img class="lazyload" alt="ram speed" src="/img/motherboard/ram-speed.png" />
 
 Similarly, motherboards will have a maximum supported memory speed.
 
@@ -121,6 +140,7 @@ When it comes to Intel’s H370 and B360 boards, the maximum supported speed gen
 For AMD motherboards it’s a bit of a mixed bag so just be sure to check the maximum speed supported before you hit that ‘Buy Now’ button. 
 
 ## Motherboard Chipsets
+<img class="lazyload" alt="motherboard-chipset" src="/img/motherboard/chipset.jpg" />
 
 We’ll cover motherboard socket types later, but first we’ll go ahead and cover motherboard chipsets. 
 
@@ -129,6 +149,7 @@ Chipsets on motherboards control the flow of data sets or directions from the CP
 Each chipset can provide a different set of features depending on what the manufacturer has programmed it to handle, and in turn, each chipset is specific to a certain CPU socket.
 
 ### AMD Consumer Chipsets
+<img class="lazyload img-right img-small" alt="amd motherboard-chipset" src="/img/motherboard/amd-chipset.png" />
 
 AMD’s current modern socket is AM4, all of the new Ryzen-based and Athlon processors use this socket. 
 
@@ -168,6 +189,7 @@ These high speeds greatly benefit Photo and Video editing programs like Photosho
 These chipsets also support overclocking and large numbers of PCIE lanes.
 
 ### Intel Consumer Chipsets
+<img class="lazyload img-right img-small" alt="motherboard-chipset" src="/img/motherboard/chipset.png" />
 
 On Intel’s side, it’s simultaneously easier and more difficult. 
 
@@ -283,6 +305,7 @@ Anyways, for those who need fans out the wazoo, companies like Corsair and NZXT 
 This also often allows you to control RGB fans with programs on your computer.
 
 ### USB Headers
+<img class="lazyload" alt="motherboard usb headers" src="/img/motherboard/usb-headers.jpg" />
 
 One problem you might run into if you're buying a respectable case with a cheap or old motherboard, is having the proper USB headers.
 
@@ -291,6 +314,7 @@ Some older boards lack onboard USB 3.0 headers, and because of that you wouldn�
 Similarly, you may not have enough USB headers, but the likelihood of encountering this issue is almost zero.
 
 ### SATA Ports
+<img class="lazyload img-right img-small" alt="motherboard-sata-ports" src="/img/motherboard/motherboard-sata-ports.jpeg" />
 
 One thing people often overlook when choosing a motherboard is the number of SATA ports.
 
@@ -298,7 +322,8 @@ If you’re just planning on running a simple 1-2 hard drive/SSD gaming rig this
 
 Make sure you have the number you want right of the bat or get ready to set up some external storage.
 
-### M.2 Ports
+### M.2 Slots
+<img class="lazyload" alt="motherboard-m2-slot" src="/img/motherboard/m2-port.jpeg" />
 
 M.2 storage isn’t mandatory but it sure is useful. Making sure you have enough, if any, M.2 ports on your new motherboard is important. 
 
