@@ -55,7 +55,7 @@ This does mean that you will be paying quite a bit more to have the luxury.
 
 In the past, modular PSUs tended to run at a significantly higher price than similar non-modular models but it seems like lately, the price gap has narrowed. 
 
-This is going purely off of only [80+ Bronze rated power supplies](https://www.corsair.com/ww/en/blog/80-plus-platinum-what-does-it-mean-and-what-is-the-benefit-to-me){: target="_blank"}, though, which we do not suggest if you’re already splurging on a modular PSU.
+This is going purely off of only [80+ Bronze rated power supplies](https://www.corsair.com/ww/en/blog/80-plus-platinum-what-does-it-mean-and-what-is-the-benefit-to-me){: target="_blank"}, though, which we do not suggest if you’re already splurging on a modular PSU. 
 
 ## What’s the Difference Between Modular and Semi-Modular PSUs?
 
@@ -72,6 +72,8 @@ For example, if you have a build that only uses M.2 SSDs and you don’t need an
 These semi-modular options allow for builders to still have most of the benefits of a fully modular power supply without the exorbitant price. As a result, they have become a very popular option in mid-range configurations, but honestly, mid-range doesn’t always mean bad.
 
 Depending on where you purchase your power supply, in some instances we’ve found that going for the fully modular options may result in better savings. Though, this may not always be the case, as prices vary across sites.
+
+In addition, modular power supplies tend to be higher quailty, which means they'll usually have [higher efficiency ratings](/power-supply-ratings/) as well.
 
 ## Do Fully Modular PSUs Come with Cables? 
 
