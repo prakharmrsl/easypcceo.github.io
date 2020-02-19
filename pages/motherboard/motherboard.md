@@ -2,7 +2,7 @@
 title: "What to Look for in a Motherboard" 
 permalink: "/motherboard/"
 layout: page
-seotitle: "How to Choose a Motherboard (Advice from an Expert)" 
+seotitle: "How to Choose a Motherboard (Expert Advice)" 
 meta: "In this article we're going to break down everything you need to know about buying a motherboard so you can buy the best motherboard for your PC"
 ---
 
