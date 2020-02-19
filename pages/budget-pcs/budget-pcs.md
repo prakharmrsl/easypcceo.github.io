@@ -227,6 +227,14 @@ If you bought a fully modular power supply, connect the 24-pin motherboard power
 
 Then for all power supplies, connect the opposite ends to the corresponding motherboard connectors and press down until the latch clicks.
 
+We have a full guide on the difference between modular and non-modular power supplies, and the pros/cons of each. You can find that guide [here](/need-modular-power-supply/). 
+
+But if you're too lazy to read that article too, here's the TLDR: 
+
+Modular power supplies are a bit more expensive but are way easier to work with and help with [cable management](/cable-management/) as well, so overall they're worth the investment. 
+
+In addition, if you want to learn more about power supply efficiency ratings, check out our full explanation [here](/power-supply-ratings/). 
+
 ### Step 6: Install Your CPU 
 
 <figure><img alt="installing cpu" src="/img/pc-guide/installing-cpu.jpg" />
@@ -236,7 +244,6 @@ Then for all power supplies, connect the opposite ends to the corresponding moth
 On the CPU socket, pull back the retention arm, then match the triangle on your CPU with the triangle on the socket, and carefully place your processor into the socket carefully without force. 
 
 Once it’s in wiggle it gently to make sure it’s in properly, then pull the retention arm back down.
-
 
 ### Step 7: Attach The CPU Cooler 
 ![installing the cpu cooler](/img/pc-guide/installing-cpu-cooler.jpg)
@@ -393,7 +400,7 @@ The second part of the power supply installation is the cable management which w
 
 ### Motherboard
 
-Be careful with the motherboard, the heart of your computer. One small slip could end its miserable life. 
+Be careful with the [motherboard](/motherboard/), the heart of your computer. One small slip could end its miserable life. 
 
 Lucky for you, motherboards are made very durable, but that doesn’t mean manhandle the damned thing.
 
@@ -405,7 +412,6 @@ To install the IO shield, match up the shield with the ports on your motherboard
 
 ![installing the motherboard io shield](/img/pc-guide/installing-io-shield.jpg){: .img-middle}
 
-(Image 28)
 The motherboard does not directly sit on the wall of the case, it uses small screws called “stand-offs” that keep it raised slightly to avoid the possibility of static electricity reaching your board. 
 
 ![motherboard standoff](/img/pc-guide/motherboard-standoff.jpg){: .img-middle}
@@ -421,6 +427,8 @@ Once they are matched up, place the rest of the motherboard down making sure to 
 Then use the provided screws to secure the motherboard to the stand-offs on all sides of the board. Ta-da, you’ve installed your motherboard!
 
 ![screwing in your motherboard](/img/pc-guide/screwing-in-motherboard.jpg){: .img-middle}
+
+Remember that you don't need a super fancy motherbaord for gaming (more on that here) so you don't need to spend hundreds of dollars on a motherboard unless you want to flex your wallet. Check out our full guide about motherboards' impact on gaming performance [here](/does-motherboard-matter-gaming/). 
 
 ### Graphics Card
 

@@ -28,7 +28,9 @@ meta: "In this article we're going to break down everything you need to know abo
 <li><a href="#best-motherboards-for-your-cpu" id="markdown-toc-best-motherboards-for-your-cpu">Best Motherboards for Your CPU</a></li>
 </ul>
 
-Though we don’t suggest you bank your entire budget on just your motherboard, we’ve seen some crazy configurations using $300 motherboards with $80 processors, which is a big mistake.
+Though we don’t suggest you bank your entire budget on just your motherboard, we’ve seen some crazy configurations using $300 motherboards with $80 processors, which is a big mistake. 
+
+[Your motherboard doesn't matter all that much for gaming](/does-motherboard-matter-gaming/) so don't spend half of your budget on the best motherboard around!
 
 The same goes in the opposite direction. 
 
