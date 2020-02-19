@@ -28,7 +28,7 @@ Likewise, **the type of motherboard you buy will not generally affect your gamin
 
 ## Does Your Motherboard Affect FPS? 
 
-Motherboards do not directly influence your gaming performance at all. 
+[Motherboards](/motherboard/) do not directly influence your gaming performance at all. 
 
 ![picture of a motherboard](/img/motherboard-affect-fps/motherboard-pic.jpg){: .img-middle}
 
