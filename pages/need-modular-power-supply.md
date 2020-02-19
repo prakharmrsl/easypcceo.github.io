@@ -37,7 +37,7 @@ The best part of a modular power supply is that you use only the cables that you
 
 The goal of a modular power supply is to keep all those extra cables that you don’t use out of the way for a number of beneficial reasons, mainly to make the building process easier. 
 
-When you don’t have any unused cables hanging out, your build process is better, the overall look of your build is better, and even your [airflow will improve with less clutter in the way](https://forums.tomshardware.com/threads/does-cable-management-effect-airflow.1881393/).{: target="_blank"}
+When you don’t have any unused cables hanging out, your build process is better, the overall look of your build is better, and even your [airflow will improve with less clutter in the way](https://forums.tomshardware.com/threads/does-cable-management-effect-airflow.1881393/){: target="_blank"}
 
 ## Modular Power Supply vs Regular Power Supply: What’s the Difference?
 
