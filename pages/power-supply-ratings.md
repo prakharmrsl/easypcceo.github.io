@@ -72,7 +72,7 @@ PSUs with the Silver rating are rated for 85% efficiency at 20% load, 88% effici
 
 Most mid-range to high-range systems today will be sporting an 80 Plus Gold rated power supply due to their amazing reliability and relatively low cost. These PSUs might even be more popular than Bronze-rated ones!
 
-Gold-rated is also the level at which manufacturers start using the Fully-Modular classification for PSUs, allowing for a higher level of customizability and utility in the ways you use your power supply.
+Gold-rated is also the level at which manufacturers start using the Fully-Modular classification for PSUs, allowing for a higher level of customizability and utility in the ways you use your power supply. Fully-Modular PSUs also make [cable management](/cable-management/) way easier. However, [you don't need a modular power supply.](/need-modular-power-supply/) 
 
 80 Plus Gold power supplies are rated for 87% efficiency at both 20% and 100% load, similar to the Bronze and Silver, and 90% efficiency at 50% load.
 
