@@ -189,7 +189,7 @@ These high speeds greatly benefit Photo and Video editing programs like Photosho
 These chipsets also support overclocking and large numbers of PCIE lanes.
 
 ### Intel Consumer Chipsets
-<img class="lazyload img-right img-small" alt="motherboard-chipset" src="/img/motherboard/chipset.png" />
+<img class="lazyload img-right img-small" alt="motherboard-chipset" src="/img/motherboard/intel-chipset.png" />
 
 On Intel’s side, it’s simultaneously easier and more difficult. 
 
@@ -305,7 +305,7 @@ Anyways, for those who need fans out the wazoo, companies like Corsair and NZXT 
 This also often allows you to control RGB fans with programs on your computer.
 
 ### USB Headers
-<img class="lazyload" alt="motherboard usb headers" src="/img/motherboard/usb-headers.jpg" />
+<img class="lazyload" alt="motherboard usb headers" src="/img/motherboard/usb-headers.jpeg" />
 
 One problem you might run into if you're buying a respectable case with a cheap or old motherboard, is having the proper USB headers.
 
@@ -323,7 +323,7 @@ If you’re just planning on running a simple 1-2 hard drive/SSD gaming rig this
 Make sure you have the number you want right of the bat or get ready to set up some external storage.
 
 ### M.2 Slots
-<img class="lazyload" alt="motherboard-m2-slot" src="/img/motherboard/m2-port.jpeg" />
+<img class="lazyload img-right img-small" alt="motherboard-m2-slot" src="/img/motherboard/m2-port.jpeg" />
 
 M.2 storage isn’t mandatory but it sure is useful. Making sure you have enough, if any, M.2 ports on your new motherboard is important. 
 
