@@ -89,8 +89,9 @@ Now let's cover each part of that process more in-depth:
 
 To begin CPU overclocking, we’ve gotta get into the BIOS which is kind of like your motherboard’s own little miniature operating system.
 
-1. Restart your computer if it's on 
-2. Either wait for the above screen and quickly press the ‘Delete’ key or just spam it until you enter the BIOS as we all do
+<img class="lazyload" alt="bios overclocking" data-src="/img/overclocking/cpu/overclock1.jpg" />
+
+Restart your computer if it's on, and either wait for the above screen and quickly press the ‘Delete’ key or just spam it until you enter the BIOS as we all do
 
 <img class="lazyload" alt="bios" data-src="/img/overclocking/cpu/bios.jpg" />
 
