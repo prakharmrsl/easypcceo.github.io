@@ -44,17 +44,16 @@ Still, there's more to a case than just its looks.
 
 A micro ATX case should have enough space for your components, cables, and airflow. 
 
-<div class="watch-out">
-<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
-<p>Your case's airflow is vital to the health of your PC.</p>
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
-<p>Without good airflow, your components may overheat, which can potentially damage or break them altogether.</p>
+  <p>Small Micro ATX cases are awesome, but they are more difficult to use than traditional ATX cases that have more space.</p>
 
-<p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
+  <p>If you're new to building, using an ATX case is probably a better option.</p>
 
-<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+  <p>In addition, ATX motherboards usually have more features, and won't fit in your micro-ATX case.</p>
 
-<p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
+  <p>You can check out our guide on the <a href="/budget-pcs/smallest-atx-cases/">smallest ATX cases here</a>. They support full-size motherboards but aren't too big and bulky.</p>
 
 </div>
 
@@ -858,6 +857,20 @@ If you’re new to building computers or maybe just rusty you may want to find a
 ### Airflow
 
 Airflow may not seem as important in a smaller case since smaller form factor builds don’t usually produce as much heat as more beefy ones. We cannot stress enough how important it is to keep your parts cool to get the best performance and longevity out of your components.
+
+<div class="watch-out">
+<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+<p>Your case's airflow is vital to the health of your PC.</p>
+
+<p>Without good airflow, your components may overheat, which can potentially damage or break them altogether.</p>
+
+<p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
+
+<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+
+<p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
+
+</div>
 
 ### Storage Options
 <img class="lazyload img-right img-small" alt="small matx case example" src="/img/case/matx/micro-atx-case-example.jpg" />
