@@ -7,7 +7,7 @@ meta: "Everyone has heard about overclocking, but new builders may find it overw
 ---
 
 <div class="author-line">
-	<img class="author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
