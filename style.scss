@@ -111,7 +111,7 @@ p {
 
 a {
   color: #466DB2;
-  text-decoration: none;
+  text-decoration: underline;
 	cursor: pointer;
   &:hover, &:active {
     color: $blue;
@@ -1940,7 +1940,7 @@ blockquote p {
 }
 
 .quick-tip {
-   background: #8cc7ff;
+   background: #8cc7ff66;
    color: black; 
    padding: 9px 20px 1px; 
    margin-bottom: 40px;
