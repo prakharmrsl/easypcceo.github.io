@@ -7,12 +7,20 @@ meta: "Overclocking your CPU can be tricky, especially if you're new to the worl
 ---
 
 <div class="author-line">
-	<img class="author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#overclocking-support" id="markdown-toc-overclocking-support">Overclocking Support</a></li>
+<li><a href="#monitoring--stress-testing" id="markdown-toc-monitoring--stress-testing">Monitoring &amp; Stress Testing</a> 
+</li>
+<li><a href="#disclaimer" id="markdown-toc-disclaimer">DISCLAIMER</a></li>
+<li><a href="#how-to-overclock-your-processor-msi" id="markdown-toc-how-to-overclock-your-processor-msi">How to Overclock Your Processor (MSI)</a></li>
+<li><a href="#is-it-good-to-overclock-your-cpu" id="markdown-toc-is-it-good-to-overclock-your-cpu">Is it Good to Overclock Your CPU?</a></li>
+<li><a href="#why-would-i-want-to-overclock-my-cpu" id="markdown-toc-why-would-i-want-to-overclock-my-cpu">Why Would I Want to Overclock My CPU?</a></li>
+<li><a href="#how-much-can-i-overclock-my-cpu" id="markdown-toc-how-much-can-i-overclock-my-cpu">How Much Can I Overclock My CPU?</a></li>
+</ul>
 
 Whether you’re a gamer, content creator, artist, or editor, everyone can benefit from a boost in CPU performance. 
 
