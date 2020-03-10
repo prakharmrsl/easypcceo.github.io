@@ -7,7 +7,7 @@ meta: "Everyone has heard about overclocking, but new builders may find it overw
 ---
 
 <div class="author-line">
-	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<img class="author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
@@ -37,7 +37,7 @@ But you may have some more questions about overclocking...
 You're going to find all of that out in more in this post. 
 
 ## What is Overclocking?
-<img class="lazyload img-right img-small" alt="overclocking thumbnail" src="/img/overclocking/overclocking-thumbnail.jpg" />
+<img class="lazyload img-right img-small" alt="overclocking thumbnail" data-src="/img/overclocking/overclocking-thumbnail.jpg" />
 
 A component's speed is measured by how quickly it can process instructions, known as its [clock speed](https://www.tomshardware.com/news/clock-speed-definition,37657.html){: target="_bank"}. 
 
@@ -52,7 +52,7 @@ Overclocking has been around for a long time and as time goes on it’s getting 
 More importantly, it’s become a lot safer, and with tons of online text guides or videos to learn from, you can start overclocking in a matter of minutes.
 
 ## Is Overclocking Bad? 
-<img class="lazyload img-right img-small" alt="is overclocking bad" src="/img/overclocking/bad.jpg" />
+<img class="lazyload img-right img-small" alt="is overclocking bad" data-src="/img/overclocking/bad.jpg" />
 
 Overclocking is only a bad idea if you don't have a proper cooling solution. Don't overclock your CPU with a stock cooler, and you'll be fine. 
 
@@ -71,7 +71,7 @@ That doesn't mean you should try and push a 3.0GHz base clock CPU to 7GHz (that'
 In fact, overclocking is a great way to maximize the power of your components, especially if you have an overclocking friendly CPU. 
 
 ## Overclocking Your CPU 
-<img class="lazyload img-right img-small" alt="overclocking cpu" src="/img/overclocking/cpu.jpg" />
+<img class="lazyload img-right img-small" alt="overclocking cpu" data-src="/img/overclocking/cpu.jpg" />
 
 The CPU is the most popular component to overclock since it can be relatively easy but with practice, there are super advanced settings and such you can delve into. 
 
@@ -94,7 +94,7 @@ If you follow our tutorial that teaches you [how to overclock your CPU safely](/
 ### How Much Performance Gain from Overclocking CPU? 
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/drqmCms6XQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" data-src="https://www.youtube.com/embed/drqmCms6XQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 I was able to overclock my Ryzen 3 1200 from the base frequency of 3.1GHz to 3.8GHz with the stock cooler, which is pretty sweet.
@@ -114,7 +114,7 @@ Ryzen is known for overclocking, so you may not get the same performance out of 
 Here's a video comparing the performance of a stock Ryzen 3 1200 vs a Ryzen 3 1200 overclocked in several different games:
 
 ## Overclocking Your Graphics Card
-<img class="lazyload img-right img-small" alt="overclocking gpu" src="/img/overclocking/gpu.jpg" />
+<img class="lazyload img-right img-small" alt="overclocking gpu" data-src="/img/overclocking/gpu.jpg" />
 
 Overclocking your graphics card can be a quick and easy way to squeeze out a couple more frames. 
 
@@ -143,7 +143,7 @@ That being said, even overclocking your GPU a tad is worth it, and can be done w
 Unlike overclocking your CPU or RAM, you don't need to restart your computer and enter your system's [BIOS](https://en.wikipedia.org/wiki/BIOS){: target="_blank"} to overclock your GPU. 
 
 ## Overclocking Your Memory (RAM)
-<img class="lazyload" alt="overclocking ram" src="/img/overclocking/ram.jpg" />
+<img class="lazyload" alt="overclocking ram" data-src="/img/overclocking/ram.jpg" />
 
 RAM is another pretty popular component to overclock, although it might not provide too many benefits compared to your CPU or GPU.
 
@@ -168,7 +168,7 @@ But that doesn't mean you shouldn't overclock your RAM, especially if your RAM i
 Overclocking your RAM is a great idea if you're using a Ryzen CPU, since the Ryzen architecture's performance is heavily dependent on your RAM, as opposed to Intel CPUs which aren't as RAM dependent. 
 
 ### Monitor
-<img class="lazyload" alt="overclocking monitor" src="/img/overclocking/monitor.jpg" />
+<img class="lazyload" alt="overclocking monitor" data-src="/img/overclocking/monitor.jpg" />
 
 Overclocking your monitor? What the heck? 
 
