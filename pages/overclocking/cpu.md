@@ -66,9 +66,9 @@ It’s just a useful tool to have and we highly suggest using it to monitor at l
 
 ## DISCLAIMER
 
-**Consider the following before making the choice to overclock:
+Consider the following before making the choice to overclock:
 
-Overclocking your CPU will 100% void its warranty as stated by the manufacturer. Incorrectly or overdoing a CPU overclock can cause BSODs which can damage and corrupt files on your computer. Similarly, pushing a CPU too far without proper cooling can shorten the lifespan of the chip or damage it outright.**
+**Overclocking your CPU will 100% void its warranty as stated by the manufacturer. Incorrectly or overdoing a CPU overclock can cause BSODs which can damage and corrupt files on your computer. Similarly, pushing a CPU too far without proper cooling can shorten the lifespan of the chip or damage it outright.**
 
 One more quick “Before You Begin,” if you chose to install CineBench or any other CPU benchmarking software you should run it while your CPU is still on its stock speed and record the numbers. 
 
@@ -76,7 +76,18 @@ Once you have the performance numbers saved somewhere, you can compare your over
 
 ## How to Overclock Your Processor (MSI)
 
-To begin CPU overclocking, first, we’ve gotta get into the BIOS which is kind of like your motherboard’s own little miniature operating system.
+Here's the short answer: 
+
+1. Restart your computer and enter BIOS
+2. Enter your BIOS' advanced mode and click on OC Settings
+3. Scroll down to CPU Ratio and hit "+" or "-" to increase your decrease clock speed
+4. Increase clock speed in 100MHz increments and test for stability
+5. Continue increasing clock speed until your system crashes
+6. Find your perfect overclock! 
+
+Now let's cover each part of that process more in-depth: 
+
+To begin CPU overclocking, we’ve gotta get into the BIOS which is kind of like your motherboard’s own little miniature operating system.
 
 1. Restart your computer if it's on 
 2. Either wait for the above screen and quickly press the ‘Delete’ key or just spam it until you enter the BIOS as we all do
