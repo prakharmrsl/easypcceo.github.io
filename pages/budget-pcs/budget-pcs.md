@@ -352,7 +352,10 @@ So, you’ve tested all of your components and the process went quite smoothly! 
 Considering you have most of your important components, your processor, memory, CPU cooler, and possibly an M.2 SSD installed, the rest of the build should be streamlined and easy for the most part.
 
 ### Opening the Case
+
 Opening your case is the first step to the building since, of course, you need to access the interior where your components will reside.
+
+Building in an [ATX case](/budget-pcs/smallest-atx-cases/) is going to be the easiest for beginners since it's the largest, but you can build in a case of any size. 
 
 If you have a tempered glass side panel, just unscrew the thumbscrews on the side, remove the glass, and place it someplace where it won’t be scratched or otherwise damaged.
 

@@ -44,6 +44,20 @@ Still, there's more to a case than just its looks.
 
 A micro ATX case should have enough space for your components, cables, and airflow. 
 
+<div class="watch-out">
+<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+<p>Your case's airflow is vital to the health of your PC.</p>
+
+<p>Without good airflow, your components may overheat, which can potentially damage or break them altogether.</p>
+
+<p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
+
+<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+
+<p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
+
+</div>
+
 It needs to be strong, good looking, and affordable. 
 
 Here is a list of the smallest micro ATX cases on the market:
@@ -610,7 +624,7 @@ You get a case and a PSU for under $100, AND it’s low profile – what more co
 
 The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fans.
 
- Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
+Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price</a>
@@ -795,7 +809,9 @@ It even comes with a side panel (although acrylic) to view the glorious parts yo
   </div>    
 </section> 
 
-When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
+When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? 
+
+Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
 
 <div class="buttons-wrapper">
