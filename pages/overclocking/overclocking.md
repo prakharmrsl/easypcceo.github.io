@@ -134,7 +134,7 @@ Instead, check out our step-by-step tutorial that'll show you exactly [how to ov
 
 ### Is Overclocking GPU Worth It? 
 
-Overclocking your GPU is most definitely worth it — considering the graphics card is the most important component for gaming performance, pushing your GPU to the limit will increase your in-game performance without you needing to shell out a bunch of money.
+Overclocking your [GPU clock speed](/gpu-memory-clock-speed/) is most definitely worth it — considering the graphics card is the most important component for gaming performance, pushing your GPU to the limit will increase your in-game performance without you needing to shell out a bunch of money.
 
 However, you should know that different graphics cards have different overclocking capabilities, so don't expect huge performance gains if your GPU isn't known for insane overclocks. 
 
