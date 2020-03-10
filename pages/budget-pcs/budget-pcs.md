@@ -65,21 +65,12 @@ If you want some help picking out your components, we've got a bunch of build gu
 		<th>Price</th>
 		<th>Name</th>
 		<th>Image</th>
-		<th>Components</th>
 		<th>Build Guide</th>
 	</tr>
 	<tr>
 		<td><b>$400</b></td>
 		<td>Extreme Budget Gamer</td>
 		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 3 1200</li>
-			<li>RX 570 4GB</li>
-			<li>8GB DDR4-3000</li>
-			<li>1TB HDD</li>
-			</ul>
-		</td>
 		<td>
 		<a class="big-button" href="/budget-pcs/400/">Build Guide</a></td>
 	</tr>
@@ -87,42 +78,18 @@ If you want some help picking out your components, we've got a bunch of build gu
 		<td><b>$500</b></td>
 		<td>Perfect Balance</td>
 		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Intel i3-9100F</li>
-			<li>GTX 1650 OC 4GB</li>
-			<li>8GB DDR4-2666MHz</li>
-			<li>Seagate Barracuda 2TB</li>
-			</ul>
-		</td>
 		<td><a class="big-button" href="/budget-pcs/500/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$600</b></td>
 		<td>Stealth Gamer</td>
 		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Ryzen 5 2600</li>
-			<li>GTX 1060 6GB</li>
-			<li>16GB DDR4-3000</li>
-			<li>480GB SSD</li>
-			</ul>
-		</td>
 		<td><a class="big-button" href="/budget-pcs/600/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$700</b></td>
 		<td>Phoenix</td>
 		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 2600</li>
-			<li>GTX 1660 Ti 6GB</li>
-			<li>16GB DDR4-3200</li>
-			<li>480GB SSD</li>
-			</ul>
-		</td>
 		<td>
 		<a class="big-button" href="/budget-pcs/700/">Build Guide</a></td>
 	</tr>
@@ -130,15 +97,19 @@ If you want some help picking out your components, we've got a bunch of build gu
 		<td><b>$800</b></td>
 		<td>Monster</td>
 		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
-		<td class="components">
-			<ul>
-			<li>AMD Ryzen 5 1400</li>
-			<li>GeForce GTX 1070 8GB Mini</li>
-			<li>G. Skill Ripjaws V 8GB 2400 MHz</li>
-			<li>WD Caviar Blue 1TB</li>
-			</ul>
-		</td>
 		<td><a class="big-button" href="/budget-pcs/800/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$900</b></td>
+		<td>Ripper</td>
+		<td><img class="table-image" src="/img/budget-pcs/900/case.jpg" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/900/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$1000</b></td>
+		<td>Beast</td>
+		<td><img class="table-image" src="/img/budget-pcs/1000/case.jpg" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/1000/">Build Guide</a></td>
 	</tr>
 </table>
 </div>
@@ -692,7 +663,6 @@ Oh boy, finally reaching the end here. Your drivers are very, very, very importa
 
 For AMD drivers it is a lot more simple to get all of the drivers you need. Simply go to their support page and select the product you need drivers for. 
 
-(Image 69 nice)
 For GPU drivers select Graphics, for CPU drivers select Processors, for motherboard chipset drivers select Chipsets, and for iGPU drivers select Processors with graphics. Once you’ve navigated to your product click Submit. From there just download the drivers for Windows 10.
 
 ![choose card for drivers](/img/pc-guide/choose-card-drivers.png)
@@ -700,7 +670,7 @@ For GPU drivers select Graphics, for CPU drivers select Processors, for motherbo
 For Intel drivers, head to the Intel download center and select the type of product you need drivers for. 
 
 ![intel drivers](/img/pc-guide/intel-drivers.png)
-(Image 71)
+
 Once you select a product type, select view by product and find the type you have. When you find it, click the link provided and it will send you to the download page for those drivers.
 
 ![selecting product type for intel drivers](/img/pc-guide/select-product-type.png)
