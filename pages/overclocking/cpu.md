@@ -24,7 +24,7 @@ meta: "Overclocking your CPU can be tricky, especially if you're new to the worl
 
 Whether you’re a gamer, content creator, artist, or editor, everyone can benefit from a boost in CPU performance. 
 
-Overclocking a CPU gives it instructions to run faster than its stock settings. Some processors can overclock much higher than others, and even processors within the same model will always perform differently based on the [silicon lottery](https://forums.tomshardware.com/threads/what-is-the-silicon-lottery.1442554/){: target="_blank"}.
+[Overclocking](/overclocking/) a CPU gives it instructions to run faster than its stock settings. Some processors can overclock much higher than others, and even processors within the same model will always perform differently based on the [silicon lottery](https://forums.tomshardware.com/threads/what-is-the-silicon-lottery.1442554/){: target="_blank"}.
 
 But before you begin, here are some critical things to keep in mind: 
 
@@ -158,3 +158,4 @@ That was a complex sentence so let me break it down:
 Some CPUs will overclock better than others. For example, AMD CPUs are well known for overclocking, especially their Ryzen line. 
 
 Other CPUs like Intel's locked processors won't overclock well, if at all. Look up the CPU before you buy, and see what kind of overclocking potential your CPU has. 
+
