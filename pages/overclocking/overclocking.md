@@ -14,7 +14,6 @@ meta: "Everyone has heard about overclocking, but new builders may find it overw
 * TOC
 {: toc}
 
-
 If you ended up here you’re probably wondering what the whole buzz about overclocking is. 
 
 Is overclocking worth it? 
@@ -22,12 +21,6 @@ Is overclocking worth it?
 **The short answer is yes, overclocking is definitely worth it. When done properly, overclocking is an easy way to get the maximum performance out of your processor, graphics card, and RAM. You can essentially boost the performance of your core components, giving the biggest bang for your PC gaming buck.** 
 
 But you may have some more questions about overclocking...
-
-Can you really get 2 times the performance in games? 
-
-Should you be worried about the longevity of my parts? 
-
-Will your graphics card explode? 
 
 You're going to find all of that out in more in this post. 
 
@@ -42,9 +35,9 @@ And faster is usually better, right?
 
 You can usually overclock without any issues, but increasing the voltage (the amount of power a part draws) will make it run even faster at the cost of extra heat.
 
-Overclocking has been around for a long time and as time goes on it’s gotten better and better with newer ways of overclocking constantly being released. 
+Overclocking has been around for a long time and as time goes on it’s getting easier by the day. 
 
-More importantly, it’s become a lot safer and with tons of online text guides or videos to learn from, you can start overclocking in a matter of minutes.
+More importantly, it’s become a lot safer, and with tons of online text guides or videos to learn from, you can start overclocking in a matter of minutes.
 
 ## Is Overclocking Bad? 
 <img class="lazyload img-right img-small" alt="is overclocking bad" src="/img/overclocking/bad.jpg" />
@@ -86,7 +79,11 @@ Despite the above warnings, I wouldn't sweat it too much - Just don't do anythin
 
 If you follow our tutorial that teaches you [how to overclock your CPU safely](/overclocking/cpu/), step-by-step, you'll be fine. 
 
-### How much Performance Gain from Overclocking CPU? 
+### How Much Performance Gain from Overclocking CPU? 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/drqmCms6XQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 I was able to overclock my Ryzen 3 1200 from the base frequency of 3.1GHz to 3.8GHz with the stock cooler, which is pretty sweet.
 
@@ -104,11 +101,8 @@ Ryzen is known for overclocking, so you may not get the same performance out of 
 
 Here's a video comparing the performance of a stock Ryzen 3 1200 vs a Ryzen 3 1200 overclocked in several different games:
 
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/drqmCms6XQs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ## Overclocking Your Graphics Card
+<img class="lazyload img-right img-small" alt="overclocking gpu" src="/img/overclocking/gpu.jpg" />
 
 Overclocking your graphics card can be a quick and easy way to squeeze out a couple more frames. 
 
@@ -137,6 +131,7 @@ That being said, even overclocking your GPU a tad is worth it, and can be done w
 Unlike overclocking your CPU or RAM, you don't need to restart your computer and enter your system's [BIOS](https://en.wikipedia.org/wiki/BIOS){: target="_blank"} to overclock your GPU. 
 
 ## Overclocking Your Memory (RAM)
+<img class="lazyload" alt="overclocking ram" src="/img/overclocking/ram.jpg" />
 
 RAM is another pretty popular component to overclock, although it might not provide too many benefits compared to your CPU or GPU.
 
@@ -161,6 +156,7 @@ But that doesn't mean you shouldn't overclock your RAM, especially if your RAM i
 Overclocking your RAM is a great idea if you're using a Ryzen CPU, since the Ryzen architecture's performance is heavily dependent on your RAM, as opposed to Intel CPUs which aren't as RAM dependent. 
 
 ### Monitor
+<img class="lazyload" alt="overclocking monitor" src="/img/overclocking/monitor.jpg" />
 
 Overclocking your monitor? What the heck? 
 
