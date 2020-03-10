@@ -11,8 +11,20 @@ meta: "Everyone has heard about overclocking, but new builders may find it overw
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#what-is-overclocking" id="markdown-toc-what-is-overclocking">What is Overclocking?</a></li>
+<li><a href="#is-overclocking-bad" id="markdown-toc-is-overclocking-bad">Is Overclocking Bad?</a></li>
+<li><a href="#is-overclocking-safe" id="markdown-toc-is-overclocking-safe">Is Overclocking Safe?</a></li>
+<li><a href="#overclocking-your-cpu" id="markdown-toc-overclocking-your-cpu">Overclocking Your CPU</a> 
+</li>
+<li><a href="#overclocking-your-graphics-card" id="markdown-toc-overclocking-your-graphics-card">Overclocking Your Graphics Card</a> 
+</li>
+<li><a href="#overclocking-your-memory-ram" id="markdown-toc-overclocking-your-memory-ram">Overclocking Your Memory (RAM)</a> 
+</li>
+<li><a href="#why-do-people-overclock-and-should-you" id="markdown-toc-why-do-people-overclock-and-should-you">Why Do People Overclock, and Should You?</a></li>
+<li><a href="#do-you-really-need-to-overclock" id="markdown-toc-do-you-really-need-to-overclock">Do You Really Need to Overclock?</a></li>
+<li><a href="#what-are-the-pros-and-cons-of-overclocking" id="markdown-toc-what-are-the-pros-and-cons-of-overclocking">What are the Pros and Cons of Overclocking?</a></li>
+</ul>
 
 If you ended up here you’re probably wondering what the whole buzz about overclocking is. 
 
