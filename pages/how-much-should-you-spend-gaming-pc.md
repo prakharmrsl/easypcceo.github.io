@@ -31,11 +31,11 @@ On the other hand, someone who may have been saving up specifically for a high-e
 
 If you want to game in [720p](https://en.wikipedia.org/wiki/720p){: target="_blank"}, spending $300-$400 on a gaming PC will get the job done. 
 
-Given a budget of anywhere as low as $300USD can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
+Given a budget of anywhere as low as [$300USD](/budget-pcs/300/) can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
 
 Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720p performance and a hyperthreaded CPU all in one $60 package. 
 
-Pairing this with relatively cheap memory, storage, a power supply, and a case will yield prime 720p gaming performance. 
+Pairing this with relatively cheap memory, storage, a power supply, and a [small micro atx case](/budget-pcs/smallest-micro-atx-cases/) or an [atx case](/budget-pcs/smallest-atx-cases/) will yield prime 720p gaming performance. 
 
 ![how much should you spend to game in 720p](/img/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 

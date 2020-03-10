@@ -355,7 +355,7 @@ Considering you have most of your important components, your processor, memory, 
 
 Opening your case is the first step to the building since, of course, you need to access the interior where your components will reside.
 
-Building in an [ATX case](/budget-pcs/smallest-atx-cases/) is going to be the easiest for beginners since it's the largest, but you can build in a case of any size. 
+Building in an [ATX case](/budget-pcs/smallest-atx-cases/) is going to be the easiest for beginners since it's the largest, but you can build in a [micro-ATX](/budget-pcs/smallest-micro-atx-cases/) or mini-ITX case as well. Just know the smaller the case, the harder it'll be. 
 
 If you have a tempered glass side panel, just unscrew the thumbscrews on the side, remove the glass, and place it someplace where it won’t be scratched or otherwise damaged.
 
