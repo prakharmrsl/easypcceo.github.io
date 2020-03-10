@@ -286,6 +286,20 @@ The Air 540 is almost small enough to pass as a micro atx case - it'd probably b
 
 This way, airflow isn't wasted on the parts that don't really need it – definitely a cool design by Corsair. 
 
+<div class="watch-out">
+<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+<p>Your case's airflow is vital to the health of your PC.</p>
+
+<p>Without good airflow, your components may overheat, which can potentially damage or break them altogether.</p>
+
+<p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
+
+<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+
+<p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
+
+</div>
+
 One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
 
 In order to achieve this feat, Corsair had to widen the chassis. 
