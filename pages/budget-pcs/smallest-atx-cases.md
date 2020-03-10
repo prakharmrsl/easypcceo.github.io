@@ -1,8 +1,8 @@
 ---
-title: "Best Small ATX Cases of 2020"
+title: "Best Small ATX Cases of 2020 (Slim & Compact)"
 permalink: "/budget-pcs/smallest-atx-cases/"
 layout: page
-seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2020)" 
+seotitle: "Top 5 Smallest ATX Case Reviews: Small & Slim (2020)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 ---
 
@@ -34,60 +34,49 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   <tr>
     <th>Case</th>
     <th>Image</th>
-    <th>Benefit</th>
     <th>See Case</th>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
     <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-    <td class="components">
-      <ul>
-      <li>Smallest ATX Case</li>
-      </ul>
-    </td>
-    <td><a class="big-button" href="#corsair-carbide-series-400c">View</a></td>
+    <td><a class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/34yTaIo">Corsair Carbide Series Air 540</a></td>
+    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
     <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
-    <td class="components">
-      <ul>
-      <li>Fantastic Cable Management</li>
-      </ul>
-    </td>
-    <td><a class="big-button" href="#corsair-carbide-series-air-540">View</a></td>
+    <td><a class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2MUOsLS">NZXT H500i</a></td>
+    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
     <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-    <td class="components">
-      <ul>
-      <li>Smart Case</li>
-      </ul>
-    </td>
-    <td><a class="big-button" href="#nzxt-h500i">View</a></td>
+    <td><a class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
     <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-    <td class="components">
-      <ul>
-      <li>Perfect for Travel</li>
-      </ul>
-    </td>
-    <td><a class="big-button" href="#cooler-master-haf-xb-ii-evo">View</a></td>
+    <td><a class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
     <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td class="components">
-      <ul>
-      <li>Slim ATX Case Design</li>
-      </ul>
-    </td>
-    <td><a class="big-button" href="#core-g3">View</a></td>
+    <td><a class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
   </tr>
 </table>
+
+Now we're going to take a look at each of these cases in-depth. 
+
+But first: 
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Even a small ATX case is large compared to micro ATX and mini ITX cases.</p>
+
+  <p>If you're looking for an even smaller case, check out our complete guide on the <a href="/budget-pcs/smallest-micro-atx-cases/">smallest micro atx cases</a>.</p>
+
+</div>
+
+Alright, here are the smallest ATX cases on the market: 
 
 <div id="corsair-carbide-series-400c" class="featured-info-box">
 <span>Smallest ATX Case</span>
@@ -297,11 +286,25 @@ The Air 540 is almost small enough to pass as a micro atx case - it'd probably b
 
 This way, airflow isn't wasted on the parts that don't really need it – definitely a cool design by Corsair. 
 
+<div class="watch-out">
+<h4>Watch Out<i class="box-icon-spacing fas fa-exclamation-triangle"></i></h4>
+<p>Your case's airflow is vital to the health of your PC.</p>
+
+<p>Without good airflow, your components may overheat, which can potentially damage or break them altogether.</p>
+
+<p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
+
+<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+
+<p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
+
+</div>
+
 One chamber is for your motherboard and 3.5" drive bays, while the other chamber houses the power supply, solid state drives, and 5.25" bays. 
 
 In order to achieve this feat, Corsair had to widen the chassis. 
 
-![corsair carbide series air 540](/img/case/air-540.jpg){: .img-middle}
+<img class="lazyload img-middle" alt="corsair carbide series air 540" data-src="/img/case/air-540.jpg" />
 
 Both chambers streamline airflow to provide the best possible cooling solution. On top of the compartmentalized interior, Corsair has also left room for water cooling compatibility and HDD bays. 
 
@@ -408,7 +411,9 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
 
 The case has a simple design but it still looks great - available in both black and white, the NZXT H500i has a nice side panel window and a bunch of cool features. 
 
-For starters, it comes with an Adaptive Noise Reduction Algorithm that changes fan speed automatically based on temperatures. This way, your case fans will only run as hard as they need to, thus reducing noise and increasing efficiency. 
+For starters, it comes with an Adaptive Noise Reduction Algorithm that changes fan speed automatically based on temperatures. 
+
+This way, your case fans will only run as hard as they need to, thus reducing noise and increasing efficiency. 
 
 The H500i comes with all of the fancy bells and whistles you'd expect from a high end case but for a modest price. 
 
@@ -659,7 +664,7 @@ It's always important to ensure that the case you want is compatible with your m
 
 A few plastic parts here and there are okay and most cases have some plastic. However, ensure the plastic is strong and of high quality before risking your expensive components. 
 
-**2.** A great gaming case has fantastic [airflow](https://linustechtips.com/main/topic/215986-how-important-is-airflow/){: target="_blank"}. If your case doesn't have good airflow, your PC could overheat and shut down. 
+**2.** A great gaming case has fantastic [airflow](/cable-management/). If your case doesn't have good airflow, your PC could overheat and shut down. 
 
 Despite being able to handle high temperatures, your parts can become damaged if they are too hot. Whether you're using 80mm, 120mm, or 140mm case fans, *airflow is incredibly important!* 
 
