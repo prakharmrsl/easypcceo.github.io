@@ -54,7 +54,7 @@ With that in mind, let's talk about each one in a bit more detail:
 
 ### Size & Form Factor 
 <figure>
-<img class="lazyload" alt="different size cases diagram" data-src="/img/cases/different-size-cases.png" />
+<img class="lazyload" alt="different size cases diagram" data-src="/img/cases/different-case-sizes.png" />
 <figcaption><p>Source: <a href="https://www.computercaselab.com/">Computer Case Lab</a></p></figcaption>
 </figure>
 
