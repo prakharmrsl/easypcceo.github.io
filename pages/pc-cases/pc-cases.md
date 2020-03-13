@@ -11,8 +11,19 @@ meta: "A lot of people have a hard time choosing the best PC case for their rig.
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#how-do-i-choose-a-pc-gaming-case" id="markdown-toc-how-do-i-choose-a-pc-case">How do I Choose a PC Case?</a> 
+</li>
+<li><a href="#are-pc-cases-important" id="markdown-toc-are-pc-cases-important">Are PC Cases Important?</a></li>
+<li><a href="#is-a-bigger-pc-case-better" id="markdown-toc-is-a-bigger-pc-case-better">Is a Bigger PC Case Better?</a></li>
+<li><a href="#are-bigger-fans-better" id="markdown-toc-are-bigger-fans-better">Are Bigger Fans Better?</a></li>
+<li><a href="#why-are-pc-cases-so-big" id="markdown-toc-why-are-pc-cases-so-big">Why Are PC Cases so Big?</a></li>
+<li><a href="#how-many-pc-fans-do-you-need" id="markdown-toc-how-many-pc-fans-do-you-need">How Many PC Fans Do You Need?</a></li>
+<li><a href="#are-pc-cases-universal" id="markdown-toc-are-pc-cases-universal">Are PC Cases Universal?</a></li>
+<li><a href="#should-i-get-a-mid-or-full-tower-case" id="markdown-toc-should-i-get-a-mid-or-full-tower-case">Should I Get a Mid or Full Tower Case?</a></li>
+<li><a href="#top-3-best-pc-cases" id="markdown-toc-top-3-best-pc-cases">Top 3 Best PC Cases</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
 
 You've got a powerhouse CPU, a monstrous graphics card, plenty of supercharged RAM and more storage than you know what to do with. 
 
@@ -24,7 +35,7 @@ We're taking a look at the best PC cases for the money in 2020 (hey, that rhymes
 
 Let's dive in: 
 
-## How do I Choose a PC Gaming Case?
+## How do I Choose a PC Case?
 
 Here's what you need to consider when choosing a PC gaming case: 
 
@@ -42,6 +53,10 @@ Here's what you need to consider when choosing a PC gaming case:
 With that in mind, let's talk about each one in a bit more detail: 
 
 ### Size & Form Factor 
+<figure>
+<a class="lazyload" alt="different size cases diagram" data-src="/img/cases/different-size-cases.jpg" />
+<figcaption><p>Source: <a href="https://www.computercaselab.com/">Computer Case Lab</a></p></figcaption>
+</figure>
 
 First up, we have the size and form factor of your case. These go hand in hand, which is why we're discussing them both at the same time. 
 
@@ -56,6 +71,11 @@ ATX cases are generally larger, while Mini ITX cases tend to be a bit smaller, b
 For example, some cases are smaller in physical dimension but can still house a full-size ATX case. Check out our guide on the [smallest ATX cases](/budget-pcs/smallest-atx-cases/) for more examples. 
 
 The size of your case will also have a big effect on the other components you can include, such as your graphics card, CPU cooler, hard drives, optical drives, case fans, etc. 
+
+<figure>
+<a class="lazyload" alt="cool case" data-src="/img/cases/cool-case.jpg" />
+<figcaption><p>Source: <a href="https://www.gamersnexus.com/">Gamers Nexus</a></p></figcaption>
+</figure>
 
 For example, if you want to overclock your CPU like a boss, you're gonna need a water cooling unit and a bunch of fans — or at the very least, a pretty beefy air cooler.
 
@@ -84,6 +104,11 @@ Smaller cases also tend to be harder to work with, since there's less wiggle roo
 However, the decision is yours — it's your PC, and you can do whatever you want with it. 
 
 ### Cooling Support & Included Fans
+
+<figure>
+<a class="lazyload" alt="airflow-diagram" data-src="/img/cases/airflow-diagram.jpg" />
+<figcaption><p>Source: <a href="https://www.evga.com/">EVGA</a></p></figcaption>
+</figure>
 
 **TLDR: Some cases come with a bunch of fans pre-installed, and others come with jack squat. Also, many cases have the option to add your own fans, of varying sizes. Check the case's fan configuration before buying to make sure your parts receive optimal airflow and remain cool during intense use.** 
 
