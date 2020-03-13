@@ -126,6 +126,11 @@ The answer?
 
 It depends. If you're not doing anything crazy with your PC like running 8 hard drives, four graphics cards, and an overclocked CPU, having a few fans in almost any configuration will be fine. 
 
+<figure>
+<img class="lazyload" alt="case fans" data-src="/img/cases/case-fans.jpeg" />
+<figcaption><p>Source: <a href="https://www.rockpapershotgun.com/">Computer Case Lab</a></p></figcaption>
+</figure>
+
 Especially if you leave the stock fans in your case (assuming it's a good case) you'll be fine. But you can always add more case fans if your case supports it.
 
 For example, many cases will come with a certain number of fans included, with the option of adding 3-5 more yourself. 
@@ -135,6 +140,7 @@ While we're on that note, let's discuss included fans.
 Some cases come with more fans than you'll know what to do with, while others don't come with any fans at all. If you're not comfortable with configuring fans properly, it's best to buy a case with them pre-installed for you. It'll make your life way easier. 
 
 ### Hard Drive Bays
+<img class="lazyload" alt="hard drive bays" data-src="/img/cases/hard-drive-bays.jpg" />
 
 Adding storage to your PC is (obviously) essential if you, oh I don't know, plan on using your PC. 
 
@@ -157,6 +163,10 @@ In addition, there are three different types of drive bays:
 If you want a ton of storage, opt for a case with more drive bays, but know there may be less space for other components as a result. 
 
 ### Airflow
+<figure>
+<img class="lazyload" alt="case airflow diagram" data-src="/img/cases/case-airflow.png" />
+<figcaption><p>Source: <a href="https://www.howtogeek.com/">How to Geek</a></p></figcaption>
+</figure>
 
 Your case's airflow is another big one — most cases nowadays have decent airflow, but you should still read the reviews beforehand to double check. 
 
@@ -165,7 +175,13 @@ Make sure you have positive airflow (more air is coming in than going out) to en
 There are several ways to configure your case's airflow, but that's a topic for another post. 
 
 For a full guide on airflow, click [here](https://www.howtogeek.com/303078/how-to-manage-your-pcs-fans-for-optimal-airflow-and-cooling/){: target="_blank"}. 
+
 ### Cable Management 
+<figure>
+<img src="/img/cable-management/good-cable-management.png" alt="example of good cable management">
+<figcaption><p>Source: <a href="https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable">Mocha_Bean on Reddit</a></p></figcaption>
+</figure>
+
 Despite popular belief, your case's cable management actually doesn't have a huge impact on airflow. 
 
 That's not to say you should forget about cable management altogether — obviously a well cable managed rig is going to have better cooling than a jumbled mess. That means a healthier environment for your components, and a longer lasting PC overall. 
@@ -183,6 +199,10 @@ You should consider how much space is behind the panel, how easy it is to manage
 For more information on [cable management and whether or not it matters](/cable-management/), click that link to check out our full guide. 
 
 ### Sound Proofing
+<figure>
+<img class="lazyload" alt="sound-proofing" data-src="/img/cases/sound-proof-mod.jpg" />
+<figcaption><p>Source: <a href="https://www.linustechtips.com/">Linus Tech Tips</a></p></figcaption>
+</figure>
 
 Some cases are louder than others, and to be fair, this is largely dependent on the fans. Companies like Be Quiet! Are made to operate silently, whereas other companies don't seem to give a damn about how loud their fans are. 
 
@@ -193,6 +213,10 @@ If you're hellbent on choosing a case but its stock fans are loud, you can alway
 You also want to consider how sound proof the case is. Some crappy cases don't contain sound well at all, while others are designed purposely with sound proof materials. 
 
 ### Modularity
+<figure>
+<img class="lazyload" alt="modular case" data-src="/img/cases/modular-case.jpg" />
+<figcaption><p>Source: <a href="https://www.pinterest.com/">Pinterest</a></p></figcaption>
+</figure>
 
 As mentioned previously, many cases are doing away with 5.25" drive bays altogether to make room for other components. 
 
