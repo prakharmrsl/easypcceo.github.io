@@ -54,7 +54,7 @@ With that in mind, let's talk about each one in a bit more detail:
 
 ### Size & Form Factor 
 <figure>
-<a class="lazyload" alt="different size cases diagram" data-src="/img/cases/different-size-cases.jpg" />
+<img class="lazyload" alt="different size cases diagram" data-src="/img/cases/different-size-cases.jpg" />
 <figcaption><p>Source: <a href="https://www.computercaselab.com/">Computer Case Lab</a></p></figcaption>
 </figure>
 
@@ -73,7 +73,7 @@ For example, some cases are smaller in physical dimension but can still house a 
 The size of your case will also have a big effect on the other components you can include, such as your graphics card, CPU cooler, hard drives, optical drives, case fans, etc. 
 
 <figure>
-<a class="lazyload" alt="cool case" data-src="/img/cases/cool-case.jpg" />
+<img class="lazyload" alt="cool case" data-src="/img/cases/cool-case.jpg" />
 <figcaption><p>Source: <a href="https://www.gamersnexus.com/">Gamers Nexus</a></p></figcaption>
 </figure>
 
@@ -106,7 +106,7 @@ However, the decision is yours — it's your PC, and you can do whatever you wan
 ### Cooling Support & Included Fans
 
 <figure>
-<a class="lazyload" alt="airflow-diagram" data-src="/img/cases/airflow-diagram.jpg" />
+<img class="lazyload" alt="airflow-diagram" data-src="/img/cases/airflow-diagram.jpg" />
 <figcaption><p>Source: <a href="https://www.evga.com/">EVGA</a></p></figcaption>
 </figure>
 
