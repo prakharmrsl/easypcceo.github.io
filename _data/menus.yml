@@ -22,3 +22,6 @@
   subcategories:
     - subtitle: "GTX 1080 Ti"
       subhref: "/graphics-cards/gtx-1080-ti/"
+
+- name: Cases
+  url: /pc-cases/
