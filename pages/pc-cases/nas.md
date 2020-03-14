@@ -125,7 +125,7 @@ This case (like many on this page) is not actually designed to be a NAS case.
 
 The Silverstone Grandia GD08B is a home theater PC case that happens to have a crap load of fans and, you guessed it, hard drive bays.
 
-<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-grandia-gd08.jpeg" />
+<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-grandia-gd08.jpg" />
 
 This thing has room for up to 9 drives, and is big enough to fit a full ATX motherboard as well. 
 
