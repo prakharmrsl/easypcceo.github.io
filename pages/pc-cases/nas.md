@@ -1,5 +1,5 @@
 ---
-title: "Build Your Own NAS with These Awesome NAS Cases" 
+title: "Build Your Own NAS with The Best NAS Cases" 
 permalink: "/pc-cases/nas/"
 layout: page
 seotitle: "Top 3 Best NAS Cases in 2020 (Good & Cheap)" 
@@ -14,27 +14,27 @@ meta: "If you're interested in building your own NAS rig, finding the best case 
 * TOC 
 {: toc}
 
-You're here because you want to build a NAS (Network Attached Storage) solution for your home or office. 
+You're here because you want to build a [NAS](https://www.seagate.com/tech-insights/what-is-nas-master-ti/){: target="_blank"} (Network Attached Storage) solution for your home or office. 
 
 Here's the deal:
 
 After building several NAS rigs myself and hours of research, I've rounded up the 5 best NAS cases I'd use again. 
 
-I was on a budget so I was sacrificing time to build my own NAS with PC cases — if you've got some extra money to spend and want to buy a pre-built NAS, I'd recommend the . 
+I was on a budget so I was sacrificing time to build my own NAS with PC cases — if you've got some extra money to spend and want to buy a pre-built NAS, I'd recommend the [Synology 5 Bay NAS Diskstation](https://amzn.to/2TQVcQQ){: target="_blank"}. 
 
-It'll save you hours of your time. 
+It's expensive but it'll save you hours of your time. 
 
-But if you want to get your hands dirty and build your own NAS, let's dive in:
+Now, if you want to get your hands dirty and build your own NAS, let's dive in:
 
-## Mini ITX NAS Case: SilverStone DS380B-USA
+## Best NAS Case: SilverStone DS380B-USA
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E-GQ4m026S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-This is the only case on our list that is actually designed for use as a NAS case. 
+This is the only [PC case](/pc-cases/) on our list that is actually designed for use as a NAS case. 
 
-Its small form factor makes it perfect for building a NAS, not to mention how many drives this thing can hold. 
+Its small Mini ITX form factor makes it perfect for building a NAS, not to mention how many drives this thing can hold. 
 
 The main focus of this case is of course, storage. Despite being such a small case, this bad boy can fit up to 12 3.5" hard drives. 
 
@@ -42,7 +42,9 @@ The main focus of this case is of course, storage. Despite being such a small ca
 
 In addition, the drive cage system can be entirely removed, creating much more space for other components. 
 
-Eight drives can be installed in hot swappable bays at the front of the case, and the rear of the case features another four drive cage. Though those four drive bays are not hot swappable, the entire drive bay can also be removed. 
+Eight drives can be installed in hot swappable bays at the front of the case, and the rear of the case features another four drive cage. 
+
+Though those four drive bays are not hot swappable, the entire drive bay can also be removed. 
 
 It's mainly constructed of steel with some brushed aluminum and a bit of plastic here and there, but overall the build is quite sturdy. 
 
@@ -54,19 +56,23 @@ Luckily, the drives are easily removed — simply pinch the tabs on either side 
 
 The case is incredibly small and can only support an SFX power supply, so a traditional ATX power supply is out of the question. 
 
-## Micro ATX NAS Case: Fractal Design Node 804 
+If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you. 
+
+## Best Micro ATX NAS Case: Fractal Design Node 804 
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q1I86pabPZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-The point of building a NAS is to save money, which is why the rest of the cases on this list aren't necessarily designed for use as a NAS. They're cheaper than a traditional NAS case, but still can work pretty well as a NAS system. 
+The point of building a NAS is to save money, which is why the rest of the cases on this list aren't necessarily designed for use as a NAS. 
+
+They're cheaper than a traditional NAS case, but still can work pretty well as a NAS system. 
 
 The front of this case features brushed aluminum and mesh towards the bottom with a subtle curvature, exuding a minimalistic, sleek and refined feel. 
 
 This cube case is totally badass, and if you're interested in building a NAS for your home or office, it's definitely a good option. 
 
-Using a Micro ATX NAS case is a better idea than an ATX for most, since the point of a NAS is storing as much data as possible without taking up much room. 
+Using a [Micro ATX](/budget-pcs/smallest-micro-atx-cases/) NAS case is a better idea than an [ATX](/budget-pcs/smallest-atx-cases/) for most, since the point of a NAS is storing as much data as possible without taking up much room. 
 
 <img class="lazyload" alt="best micro atx nas" data-src="/img/cases/nas/fractal-design-node-804.jpg" />
 
@@ -96,7 +102,7 @@ Despite having a ton of storage space for your NAS drives, [cable management](/c
 
 All in all, this thing makes great use of space and if you're in the market for a micro ATX NAS case, the Node 804 is going to be your best bet.
 
-## ATX NAS Case: Silverstone Grandia GD08B
+## Best ATX NAS Case: Silverstone Grandia GD08B
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-MZRGqyg0is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -106,7 +112,7 @@ This case (like many on this page) is not actually designed to be a NAS case.
 
 The Silverstone Grandia GD08B is a home theater PC case that happens to have a crap load of fans and, you guessed it, hard drive bays.
 
-<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-gd08.jpeg" />
+<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-grandia-gd08.jpeg" />
 
 This thing has room for up to 9 drives, and is big enough to fit a full ATX motherboard as well. 
 
@@ -121,6 +127,10 @@ I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to 
 Otherwise, it makes more sense to build a NAS in one of the cases below: 
 
 ## What is a NAS?
+<figure>
+<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/what-is-nas.jpg" />
+<figcaption><p>Source: <a target="_blank" href="https://www.avadirect.com/blog/what-is-nas-and-why-would-you-want-one-in-your-home/">AVA Direct</a></p></figcaption>
+</figure>
 
 A NAS (Network Attached Storage) is like a personal cloud storage solution for your home or office.
 
@@ -143,7 +153,6 @@ Here's why you should build your own NAS:
 * You'll have a better understanding of your build and what's going on. Should any issues arise, you'll be better equipped to deal with them and get things back on track smoothly. 
 * Customization is another huge benefit. You can customize your NAS to your liking, from the amount of storage to the case it's sitting in, the options are endless. 
 * Building your own NAS server will save you a lot of money, but remember, this is at the expense of your time. 
-
 
 ## NAS vs Cloud Storage 
 Building a NAS is like having a personal cloud storage center. Cloud storage is great, but you're relying on someone else to access all of your data. 
@@ -173,6 +182,7 @@ Instead, it's far more convenient to access all of your data from one centralize
 Again, external drives are a good solution and are easily portable, but can quickly become obsolete when you've got too much data to deal with. 
 
 ## Do You Need a NAS Case? 
+
 If you find yourself constantly buying new storage solutions — whether internal or external — and always running out of space, a NAS is probably a good idea. 
 
 Rather than paying for expensive cloud storage that gets painfully expensive as you scale, a NAS is like your own personal cloud storage solution in your home or office. 
@@ -188,3 +198,20 @@ External storage can only be accessed by one computer at a time since it needs t
 If you're using several TB of storage in your PC and still don't have enough room, or have sensitive data you want to secure and back up on your own server, a NAS is a terrific idea. 
 
 However, buying a prebuilt NAS system can be pretty expensive (upwards of $800-$1000 dollars). Builders on a budget can build their own NAS system with the use of a NAS case and a bit more time. 
+
+## More NAS Building Resources
+
+Here are some good places to go if you want to learn more:
+
+* Building your own NAS resource from [Windows Central](https://www.windowscentral.com/heres-what-you-need-know-when-building-your-own-nas){: target="_blank"}
+* Another great resource about building your own NAs from [Make Use Of](https://www.makeuseof.com/tag/need-network-storage-heres-how-to-build-your-own-nas-box/){: target="_blank"}
+* Network Attached Storage Overview on [Wikipedia](https://en.wikipedia.org/wiki/Network-attached_storage){: target="_blank"}
+
+## Conclusion
+
+NAS rigs are great mass storage replacements for external hard drives, and buying a good NAS case is a great way to save money too. 
+
+Building your own NAS is a bit more time consuming than buying a prebuilt NAS, but that doesn't mean you shouldn't do it. 
+
+You'll save money, learn how your NAS works and hell, you may even have some fun. 
+
