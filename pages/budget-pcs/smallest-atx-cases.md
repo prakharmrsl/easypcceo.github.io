@@ -712,7 +712,7 @@ It is more important to find a functional case that provides good airflow and ca
 
 Sure, a good looking case is always nice, but it is *not* necessary. If you're on a budget, especially a budget below $500, don't spend more than $50 on your case. 
 
-In fact, I'd recommend spending $40 or less. 
+In fact, I'd recommend spending $40 or less. For more information on [choosing the best case for your PC](/pc-cases/), check out our complete guide.
 
 ## Corsair Carbide Series 400C Review
 

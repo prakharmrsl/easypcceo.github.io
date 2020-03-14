@@ -29,7 +29,7 @@ The importance of cable management can be outlined in two categories:
 1. Fashion
 2. Function
 
-If your case comes rocking a side panel window, you don’t want messy cables running every which way. 
+If your [case](/pc-cases/) comes rocking a side panel window, you don’t want messy cables running every which way. 
 
 On the side of function, airflow is a very important aspect of any build.
 
