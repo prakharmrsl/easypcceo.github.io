@@ -162,6 +162,17 @@ In addition, there are three different types of drive bays:
 
 If you want a ton of storage, opt for a case with more drive bays, but know there may be less space for other components as a result. 
 
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Some cases have more storage than others. If you're interested in building a traditional gaming PC, you probably won't need a crazy amount of storage.</p>
+
+  <p>On the other hand, building a NAS system is going to require a special case with plenty of storage support.</p>
+
+  <p>We've created a list of the <a href="/pc-cases/nas/">best NAS cases</a> on the market for your NAS PC build. Click the link to check it out!</p>
+
+</div>
+
 ### Airflow
 <figure>
 <img class="lazyload" alt="case airflow diagram" data-src="/img/cases/case-airflow.png" />

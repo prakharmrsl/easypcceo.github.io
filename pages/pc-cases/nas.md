@@ -58,6 +58,17 @@ The case is incredibly small and can only support an SFX power supply, so a trad
 
 If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you. 
 
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you're building your own NAS in a case, traditional rules apply.</p>
+
+  <p>To learn everything you need to know about <a href="/pc-cases/">choosing a good PC case</a>, check out our complete guide.</p>
+
+  <p>Now back to NAS cases!</p>
+
+</div>
+
 ## Best Micro ATX NAS Case: Fractal Design Node 804 
 
 <div class="vid-container">
@@ -94,7 +105,9 @@ The case is chambered in two sections in order to create thermal zones.
 
 One is for the Micro ATX motherboard and two drive slots on the bottom of the case, along with enough room for an AIO cooler that fits in the same chamber.
 
-On the other side of the case, there is room for humongous power supply, as well as two removable drive bay cages that can hold up to eight 3.5" hard drives. However, you may have a bit of trouble cable managing all 8 of them at one time. 
+On the other side of the case, there is room for humongous power supply, as well as two removable drive bay cages that can hold up to eight 3.5" hard drives. 
+
+However, you may have a bit of trouble cable managing all 8 of them at one time. 
 
 Unfortunately, the main drawback of this case is its cable management options. 
 
@@ -155,6 +168,7 @@ Here's why you should build your own NAS:
 * Building your own NAS server will save you a lot of money, but remember, this is at the expense of your time. 
 
 ## NAS vs Cloud Storage 
+
 Building a NAS is like having a personal cloud storage center. Cloud storage is great, but you're relying on someone else to access all of your data. 
 
 If you're storing sensitive information and/or don't like the idea of depending on a third party, using a NAS is a great way to eliminate that issue.
@@ -177,7 +191,9 @@ Worse still, they can only be accessed from one device at a time.
 
 If you've got several computers/devices in your home or office, it can quickly become a pain to plug your drive into each computer over and over. 
 
-Instead, it's far more convenient to access all of your data from one centralized location. This way, you can access your files from a PC, laptop, Mac, or even a phone, as long as you're connected to the network. 
+Instead, it's far more convenient to access all of your data from one centralized location. 
+
+This way, you can access your files from a PC, laptop, Mac, or even a phone, as long as you're connected to the network. 
 
 Again, external drives are a good solution and are easily portable, but can quickly become obsolete when you've got too much data to deal with. 
 
