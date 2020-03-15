@@ -80,9 +80,34 @@ Each section has a featured hot swap drive cage, along with a few cases that you
 
 Hopefully this helps! 
 
-## Hot Swappable Setup for 3.5" Hard Drives 
+## Best Hot Swappable Case Options 
 
-You can't buy a prebuilt hot swappable case without buying a NAS, but you can buy a hot swappable drive cage and install it in a compatible case. I went ahead and researched the best options for you. 
+<table>
+	<tr>
+		<th>Drive Cage</th>
+		<th>PIC</th>
+		<th>Supports</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td>Startech Backplane</td>
+		<td><img alt="3.5 inch drive cage" class="table-image lazyload" data-src="/img/cases/hot-swap/startech-35-drives.jpg"></td>
+		<td>Four 3.5" Drives</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2TSRI0g">Check Amazon Price</a></td>
+	</tr>
+	<tr>
+		<td>ICY Dock Tough Armour</td>
+		<td><img alt="2.5 inch drive cage" class="table-image lazyload" data-src="/img/cases/hot-swap/4-drive-ssds.jpg"></td>
+		<td>Four 2.5" Drives</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2QgAK9R">Check Amazon Price</a></td>
+	</tr>
+</table>
+
+## Hot Swappable Drive Cages 
+
+You can't buy a prebuilt hot swappable case without buying a NAS, but you can buy a hot swappable drive cage and install it in a compatible case. 
+
+I went ahead and researched the best options for you. 
 
 Here's what I found: 
 
@@ -110,54 +135,6 @@ If that's not enough, the manufacturer also offers a 2-year warranty plus lifeti
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2TSRI0g">Read Reviews on Amazon</a>
 </div>
-
-### [Recommended Case: Corsair 750D ATX Full Tower Case](https://amzn.to/33l8Yhz){: target="_blank"}
-<img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable case" data-src="/img/cases/hot-swap/corsair-750d.jpg" />
-
-If you want to use the 3.5" hard drive bay that fits up to hard drives, the [Corsair 750D Airflow Edition](https://amzn.to/33l8Yhz){: target="_blank"} is a great option.
-
-It's definitely bigger than most cases considering it's a full tower.
-
-However, considering the drive cage needs three 5.25" bays for installation, you're going to need a big case.
-
-But keep in mind, this thing has a lot more to offer. You're going to get a good looking, robust case with terrific airflow, insanely good cable management, plenty of room inside, and a nice side panel window. 
-
-This monster is best suited for an enthusiast build, since it has support for a crap load of drives, all of the different cooling options you could imagine, and several large graphics cards. 
-
-But I figure you're going all out with your PC if you're planning on buying a hot swappable drive bay, so it's a good fit. 
-
-It's not a dirt cheap case by any means, but the value you're getting out of it is insane, especially considering its current price [on Amazon](https://amzn.to/33l8Yhz){: target="_blank"}.
-
-And if you do order it on Amazon, it'll come with free 2-day Prime shipping, which you probably couldn't get if you bought such a big case elsewhere. 
-
-However, if you want a cheaper case, check out the one below. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/33l8Yhz">Read Reviews on Amazon</a>
-</div>
-
-### [Budget Case: Thermaltake Versa H21 SPCC](https://amzn.to/38LNzPO){: target="_blank"}
-<img class="img-right img-small lazyload" alt="thermaltake versa h21 budget hot swappable case" data-src="/img/cases/hot-swap/thermaltake-versa-h21.jpg" />
-
-If you're on a tighter budget, the Thermaltake Versa H21 SPCC is way cheaper on [Amazon](https://amzn.to/38LNzPO){: target="_blank"} than the Corsair 750D, and is also compatible with the 3.5" hard drive hot swap cage.
-
-However, if you're on a budget, I don't really see why you'd want to shell out the extra money for one of these anyway, but the option is there. 
-
-This thing has pretty good reviews on Amazon, but as you'd expect from a cheap case, doesn't have any crazy features. 
-
-It is solid black and doesn't have a side panel window. It also only includes a single 120mm cooling fan. Pretty barebones if you ask me.
-
-But it *does* have three 5.25" drive bays which you can use to mount your hot swappable 3.5" backplane. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/38LNzPO">Read Reviews on Amazon</a>
-</div>
-
-## Hot Swappable Setup for Solid State Drives (SSDs)
-
-If you want to hot swap solid state drives instead of traditional hard drives, you can do that too. 
-
-Here is the best hot swappable drive cage adapater for SSDs I could find, as well as a compatible case:
 
 ### [Hot Swappable Drive Cage for SSDs](https://amzn.to/2QgAK9R){: target="_blank"}
 <img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
@@ -192,14 +169,95 @@ All in all, this is a great option if you want to have a hot swappable 2.5" SATA
   <a target="_blank" class="big-button-center" href="https://amzn.to/2QgAK9R">Read Reviews on Amazon</a>
 </div>
 
-### [Recommended Case: Fractal Design Focus G](https://amzn.to/2Ub6tKq){: target="_blank"}
+## Compatible PC Cases
+
+These are the PC cases I'd recommend for use with the hot swappable drive bays listed above. 
+
+Note that these aren't the only cases you can use, but they are compatible with the hot swappable cages listed above. 
+
+<table>
+	<tr>
+		<th>Drive Cage</th>
+		<th>PIC</th>
+		<th>Supports</th>
+		<th>Shop</th>
+	</tr>
+	<tr>
+		<td>Corsair 750D Airflow Edition</td>
+		<td><img alt="3.5 inch case" class="table-image lazyload" data-src="/img/cases/hot-swap/corsair-750d.jpg"></td>
+		<td>Both Drive Cages</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/33l8Yhz">Check Amazon Price</a></td>
+	</tr>
+	<tr>
+		<td>Thermaltake Versa H21 SPCC</td>
+		<td><img alt="2.5 inch drive cage" class="table-image lazyload" data-src="/img/cases/hot-swap/thermaltake-versa-h21.jpg"></td>
+		<td>Both Drive Cages</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/38LNzPO">Check Amazon Price</a></td>
+	</tr>
+	<tr>
+		<td>Fractal Design Focus G</td>
+		<td><img alt="focus g" class="table-image lazyload" data-src="/img/cases/hot-swap/focus-g.jpg"></td>
+		<td>SSD Drive Cage</td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Ub6tKq">Check Amazon Price</a></td>
+	</tr>
+</table>
+
+### [Corsair 750D ATX Full Tower Case](https://amzn.to/33l8Yhz){: target="_blank"}
+<img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable case" data-src="/img/cases/hot-swap/corsair-750d.jpg" />
+
+If you want to use the 3.5" hard drive bay that fits up to four hard drives, the [Corsair 750D Airflow Edition](https://amzn.to/33l8Yhz){: target="_blank"} is a great option.
+
+This case is compatible with both the 3.5" drive cage and the 2.5" SSD drive cage. 
+
+It's definitely bigger than most cases considering it's a full tower.
+
+However, considering the drive cage needs three 5.25" bays for installation, you're going to need a big case.
+
+But keep in mind, this thing has a lot more to offer. 
+
+You're going to get a good looking, robust case with terrific airflow, insanely good cable management, plenty of room inside, and a nice side panel window. 
+
+This monster is best suited for an enthusiast build, since it has support for a crap load of drives, all of the different cooling options you could imagine, and several large graphics cards. 
+
+But I figure you're going all out with your PC if you're planning on buying a hot swappable drive bay, so it's a good fit. 
+
+It's not a dirt cheap case by any means, but the value you're getting out of it is insane, especially considering its current price [on Amazon](https://amzn.to/33l8Yhz){: target="_blank"}.
+
+And if you do order it on Amazon, it'll come with free 2-day Prime shipping, which you probably couldn't get if you bought such a big case elsewhere. 
+
+However, if you want a cheaper case, check out the one below. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33l8Yhz">Read Reviews on Amazon</a>
+</div>
+
+### [Budget Case: Thermaltake Versa H21 SPCC](https://amzn.to/38LNzPO){: target="_blank"}
+<img class="img-right img-small lazyload" alt="thermaltake versa h21 budget hot swappable case" data-src="/img/cases/hot-swap/thermaltake-versa-h21.jpg" />
+
+If you're on a tighter budget, the Thermaltake Versa H21 SPCC is way cheaper on [Amazon](https://amzn.to/38LNzPO){: target="_blank"} than the Corsair 750D, and is also compatible with the 3.5" hard drive hot swap cage.
+
+This case is compatible with the 3.5" drive cage and the 2.5" cage. 
+
+However, if you're on a budget, I don't really see why you'd want to shell out the extra money for one of these anyway, but the option is there. 
+
+This thing has pretty good reviews on Amazon, but as you'd expect from a cheap case, doesn't have any crazy features. 
+
+It is solid black and doesn't have a side panel window. It also only includes a single 120mm cooling fan. Pretty barebones if you ask me.
+
+But it *does* have three 5.25" drive bays which you can use to mount your hot swappable 3.5" backplane. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/38LNzPO">Read Reviews on Amazon</a>
+</div>
+
+### [Fractal Design Focus G](https://amzn.to/2Ub6tKq){: target="_blank"}
 <img class="img-right img-small lazyload" alt="fractal design focus g" data-src="/img/cases/hot-swap/focus-g.jpg" />
 
 The [Focus G by Fractal Design](https://amzn.to/2Ub6tKq){: target="_blank"} is a great case all-around, but is especially a good pick if you want to hot hot swap your hard drives.
 
-This case only has two 5.25" drive bays, which means it isn't compatible with the 6 bay mechanical hard drive hot swap backplane that we talked about.
+This case only has two 5.25" drive bays, which means it is only compatible with the hot swappable SSD drive cage. 
 
-However, it's a great fit for the SSD hot swappable drive bay, as it only needs a single 5.25" bay. 
+The 3.5" hot swappable cage requires three 5.25" bays, so if you want to hot swap your mechanical drives, you'll need one of the cases above. 
 
 You'll be able to install your hot swappable drive bay with ease, and still have room for an optical drive too. 
 
