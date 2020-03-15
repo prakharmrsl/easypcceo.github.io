@@ -63,6 +63,23 @@ This video from Linus Tech Tips will explain how hot swapping works:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VtoGg0jxVc4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+## How to Use This Hot Swapping Guide
+
+Since I couldn't find any traditional cases with a hot swap feature, I had to find hot swappable adapters and compatible cases.
+
+Some adapters are meant for 3.5" drives, while others are meant for 2.5" drives.
+
+That being said, I've organized this guide in two parts:
+
+* 3.5" hot swap drive cage
+* 2.5" hot swap drive cage
+
+Each section has a featured hot swap drive cage, along with a few cases that you can use. 
+
+**Note:** The hot swap drive cages can be used with any compatible case, but not all cases are compatible. That's why I've selected some cases for you already that are compatible.**
+
+Hopefully this helps! 
+
 ## Hot Swappable Setup for 3.5" Hard Drives 
 
 You can't buy a prebuilt hot swappable case without buying a NAS, but you can buy a hot swappable drive cage and install it in a compatible case. I went ahead and researched the best options for you. 
