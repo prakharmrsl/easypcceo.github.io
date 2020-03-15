@@ -177,7 +177,7 @@ Note that these aren't the only cases you can use, but they are compatible with 
 
 <table>
 	<tr>
-		<th>Drive Cage</th>
+		<th>Case</th>
 		<th>PIC</th>
 		<th>Supports</th>
 		<th>Shop</th>
