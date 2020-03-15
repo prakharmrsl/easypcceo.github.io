@@ -41,6 +41,7 @@ In this article, we're going to take a look at the 3 best hot swappable case opt
 Let's dive in! 
 
 ## What is Hot Swapping? 
+<img class="lazyload" alt="hot swapping" data-src="/img/cases/hot-swap/hot-swapping.jpg" />
 
 Hot swapping is a configuration that allows you to remove and install hardware while your machine is running. 
 
