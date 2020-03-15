@@ -61,6 +61,7 @@ You can't buy a prebuilt hot swappable case without buying a NAS, but you can bu
 Here's what I found: 
 
 ### 3.5" Hot Swappable Drive Cage 
+<img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable cage" data-src="/img/cases/hot-swap/startech-35-drives.jpg" />
 
 The StarTech 4 Drive Hot Swap SATA Backplane (HSB4SATSASBA) is the hot swappable drive cage I'd choose for 3.5" mechanical hard drives. 
 
@@ -81,6 +82,7 @@ In addition, this thing comes with a built-in fan to keep your drives cool.
 If that's not enough, the manufacturer also offers a 2-year warranty plus lifetime technical support.
 
 ### [Recommended Case: Corsair 750D ATX Full Tower Case](https://amzn.to/33l8Yhz){: target="_blank"}
+<img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable case" data-src="/img/cases/hot-swap/corsair-750d.jpg" />
 
 If you want to use the 3.5" hard drive bay that fits up to hard drives, the [Corsair 750D Airflow Edition](https://amzn.to/33l8Yhz){: target="_blank"} is a great option.
 
@@ -101,6 +103,7 @@ And if you do order it on Amazon, it'll come with free 2-day Prime shipping, whi
 However, if you want a cheaper case, check out the one below. 
 
 ### [Budget Case: Thermaltake Versa H21 SPCC](https://amzn.to/38LNzPO){: target="_blank"}
+<img class="img-right img-small lazyload" alt="thermaltake versa h21 budget hot swappable case" data-src="/img/cases/hot-swap/thermaltake-versa-h21.jpg" />
 
 If you're on a tighter budget, the Thermaltake Versa H21 SPCC is way cheaper on [Amazon](https://amzn.to/38LNzPO){: target="_blank"} than the Corsair 750D, and is also compatible with the 3.5" hard drive hot swap cage.
 
@@ -132,6 +135,8 @@ It mounts in a standard 5.25" bay which most [PC cases](/pc-cases/) have these d
 
 Six drives in a single 5.25" drive bay isn't too shabby, huh? 
 
+<img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
+
 You can easily pop the drive bays out, screw your 2.5" SSD into the removable tray, and pop it into the drive bay. 
 
 In addition, this bad boy ships with its own set of daul 40mm cooling fans, which only activate when a drive is installed.
@@ -147,6 +152,7 @@ Once the 5.25" drive bay is mounted, you can connect your traditional SATA cable
 All in all, this is a great option if you want to have a hot swappable 2.5" SATA SSD drive bay in your PC case without having to buy a NAS. 
 
 ### [Recommended Case: Fractal Design Focus G](https://amzn.to/2Ub6tKq){: target="_blank"}
+<img class="img-right img-small lazyload" alt="fractal design focus g" data-src="/img/cases/hot-swap/focus-g.jpg" />
 
 The [Focus G by Fractal Design](https://amzn.to/2Ub6tKq){: target="_blank"} is a great case all-around, but is especially a good pick if you want to hot hot swap your hard drives.
 
