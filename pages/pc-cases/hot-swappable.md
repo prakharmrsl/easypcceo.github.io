@@ -81,6 +81,10 @@ In addition, this thing comes with a built-in fan to keep your drives cool.
 
 If that's not enough, the manufacturer also offers a 2-year warranty plus lifetime technical support.
 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2TSRI0g">Read Reviews on Amazon</a>
+</div>
+
 ### [Recommended Case: Corsair 750D ATX Full Tower Case](https://amzn.to/33l8Yhz){: target="_blank"}
 <img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable case" data-src="/img/cases/hot-swap/corsair-750d.jpg" />
 
@@ -102,6 +106,10 @@ And if you do order it on Amazon, it'll come with free 2-day Prime shipping, whi
 
 However, if you want a cheaper case, check out the one below. 
 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33l8Yhz">Read Reviews on Amazon</a>
+</div>
+
 ### [Budget Case: Thermaltake Versa H21 SPCC](https://amzn.to/38LNzPO){: target="_blank"}
 <img class="img-right img-small lazyload" alt="thermaltake versa h21 budget hot swappable case" data-src="/img/cases/hot-swap/thermaltake-versa-h21.jpg" />
 
@@ -115,6 +123,10 @@ It is solid black and doesn't have a side panel window. It also only includes a 
 
 But it *does* have three 5.25" drive bays which you can use to mount your hot swappable 3.5" backplane. 
 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/38LNzPO">Read Reviews on Amazon</a>
+</div>
+
 ## Hot Swappable Setup for Solid State Drives (SSDs)
 
 If you want to hot swap solid state drives instead of traditional hard drives, you can do that too. 
@@ -122,10 +134,7 @@ If you want to hot swap solid state drives instead of traditional hard drives, y
 Here is the best hot swappable drive cage adapater for SSDs I could find, as well as a compatible case:
 
 ### Hot Swappable Drive Cage for SSDs
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/84-9OmECpuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
 
 The [ICY DOCK Tough Armor Drive Bay](https://amzn.to/2QgAK9R){: target="_blank"} (model number MB882SP-1S-2B) is going to be your best bet if you want to hot swap 2.5" solid state drives.
 
@@ -135,8 +144,6 @@ It mounts in a standard 5.25" bay which most [PC cases](/pc-cases/) have these d
 
 Four drives in a single 5.25" drive bay isn't too shabby, huh? 
 
-<img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
-
 You can easily pop the drive bays out, screw your 2.5" SSD into the removable tray, and pop it into the drive bay. 
 
 In addition, this bad boy ships with its own set of daul 40mm cooling fans, which only activate when a drive is installed.
@@ -145,11 +152,19 @@ You should note, however, that the cooling fans do tend to run a bit loud, so yo
 
 In addition, the SSDs performed nearly identical to their performance in a normal configuration, meaning performance isn't lost when using this hot swappable drive bay.
 
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/84-9OmECpuE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 Simply screw it in to your 5.25" bay, pop your SSDs in there, and you're good to go. 
 
 Once the 5.25" drive bay is mounted, you can connect your traditional SATA cables to the back. 
 
 All in all, this is a great option if you want to have a hot swappable 2.5" SATA SSD drive bay in your PC case without having to buy a NAS. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2QgAK9R">Read Reviews on Amazon</a>
+</div>
 
 ### [Recommended Case: Fractal Design Focus G](https://amzn.to/2Ub6tKq){: target="_blank"}
 <img class="img-right img-small lazyload" alt="fractal design focus g" data-src="/img/cases/hot-swap/focus-g.jpg" />
@@ -165,6 +180,10 @@ You'll be able to install your hot swappable drive bay with ease, and still have
 This case has some awesoem features too, including the powerful stock fans, spacious interior, sleek design, and the side panel window. 
 
 All in all, it's a great choice, especially if you pick it up on [Amazon](https://amzn.to/2Ub6tKq){: target="_blank"} with free shipping. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2Ub6tKq">Read Reviews on Amazon</a>
+</div>
 
 ## Hot Swappable Drive Bays in Action 
 
