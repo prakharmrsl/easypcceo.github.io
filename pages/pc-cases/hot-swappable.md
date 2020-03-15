@@ -137,7 +137,7 @@ If that's not enough, the manufacturer also offers a 2-year warranty plus lifeti
 </div>
 
 ### [Hot Swappable Drive Cage for SSDs](https://amzn.to/2QgAK9R){: target="_blank"}
-<img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
+<img class="img-right img-small lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
 
 The [ICY DOCK Tough Armor Drive Bay](https://amzn.to/2QgAK9R){: target="_blank"} (model number MB882SP-1S-2B) is going to be your best bet if you want to hot swap 2.5" solid state drives.
 
