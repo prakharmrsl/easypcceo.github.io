@@ -11,8 +11,16 @@ meta: "If you're interested in building your own NAS rig, finding the best case 
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#what-is-hot-swapping" id="markdown-toc-what-is-hot-swapping">What is Hot Swapping?</a></li>
+<li><a href="#how-does-hot-swapping-work" id="markdown-toc-how-does-hot-swapping-work">How Does Hot Swapping Work?</a></li>
+<li><a href="#hot-swappable-setup-for-35-hard-drives" id="markdown-toc-hot-swappable-setup-for-35-hard-drives">Hot Swappable Setup for 3.5” Hard Drives</a> 
+</li>
+<li><a href="#hot-swappable-setup-for-solid-state-drives-ssds" id="markdown-toc-hot-swappable-setup-for-solid-state-drives-ssds">Hot Swappable Setup for Solid State Drives (SSDs)</a> 
+</li>
+<li><a href="#hot-swappable-drive-bays-in-action" id="markdown-toc-hot-swappable-drive-bays-in-action">Hot Swappable Drive Bays in Action</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
 
 I was messing around with my gaming PC's drive bay today and thought "wouldn't it be awesome if I had a hot swappable case for my hard drives?"
 
@@ -60,7 +68,7 @@ You can't buy a prebuilt hot swappable case without buying a NAS, but you can bu
 
 Here's what I found: 
 
-### 3.5" Hot Swappable Drive Cage 
+### [3.5" Hot Swappable Drive Cage](https://amzn.to/2TSRI0g){: target="_blank"} 
 <img class="img-right img-small lazyload" alt="3.5 drive bay hot swappable cage" data-src="/img/cases/hot-swap/startech-35-drives.jpg" />
 
 The StarTech 4 Drive Hot Swap SATA Backplane (HSB4SATSASBA) is the hot swappable drive cage I'd choose for 3.5" mechanical hard drives. 
@@ -133,7 +141,7 @@ If you want to hot swap solid state drives instead of traditional hard drives, y
 
 Here is the best hot swappable drive cage adapater for SSDs I could find, as well as a compatible case:
 
-### Hot Swappable Drive Cage for SSDs
+### [Hot Swappable Drive Cage for SSDs](https://amzn.to/2QgAK9R){: target="_blank"}
 <img class="img-middle lazyload" alt="4 hot swappable ssd drive cage" data-src="/img/cases/hot-swap/4-drive-ssds.jpg" />
 
 The [ICY DOCK Tough Armor Drive Bay](https://amzn.to/2QgAK9R){: target="_blank"} (model number MB882SP-1S-2B) is going to be your best bet if you want to hot swap 2.5" solid state drives.
