@@ -82,7 +82,7 @@ Hopefully this helps!
 
 ## Best Hot Swappable Case Options 
 
-<table>
+<table class="basic-table">
 	<tr>
 		<th>Drive Cage</th>
 		<th>PIC</th>
@@ -175,7 +175,7 @@ These are the PC cases I'd recommend for use with the hot swappable drive bays l
 
 Note that these aren't the only cases you can use, but they are compatible with the hot swappable cages listed above. 
 
-<table>
+<table class="basic-table">
 	<tr>
 		<th>Case</th>
 		<th>PIC</th>
