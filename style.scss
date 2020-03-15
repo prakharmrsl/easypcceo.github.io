@@ -1538,7 +1538,7 @@ blockquote p {
  }
 
  .featured-info-box {
-   margin: 50px 0 -30px 0;
+   margin: 20px 0;
    border: 5px solid #212121;
    position: relative;
    > span {
@@ -1806,6 +1806,7 @@ blockquote p {
   font-weight: 600;
   padding-bottom: 5px;
   text-transform: uppercase;
+  margin-top: -10px;
 }
 .info-list {
   margin: 0px;
