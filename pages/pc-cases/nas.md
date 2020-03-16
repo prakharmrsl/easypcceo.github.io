@@ -136,9 +136,9 @@ Though those four drive bays are not hot swappable, the entire drive bay can als
 
 It's mainly constructed of steel with some brushed aluminum and a bit of plastic here and there, but overall the build is quite sturdy. 
 
-<img class="lazyload img-middle" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
-
 Unfortunately, the drive bays themselves are made of plastic, not steel or aluminum. But that helps to keep costs low, which is probably the main reason you're building a NAS in the first place.
+
+<img class="lazyload img-middle" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
 
 Luckily, the drives are easily removed — simply pinch the tabs on either side and they slide out with ease. 
 
@@ -251,17 +251,15 @@ On the right hand side of the case there are 2 USB 3 ports, headphone/microphone
 
 It's a  smart compromise between wasting space on 5.25" bays and getting rid of them entirely.
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q1I86pabPZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 Under the front bezel, you'll find a few 2.5" SSD mounts, cable management room, and two dual 120mm removable fan filters.
 
 Moreover, the top cover slides off with some easy thumb screws. You'll find dual fan mounts on each side. 
 
 The right side has a 120mm/140mm and it'll work with a 240mm or 280mm radiator. 
 
-<img class="lazyload" alt="best micro atx nas interior" data-src="/img/cases/nas/an-and-tech-804-2.jpeg" />
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1I86pabPZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The left side doesn't fit a 280mm though, due to clearance constraints (but still fits a 240mm radiator). In total it has 10 fan mounts, which is pretty dope. 
 
@@ -374,15 +372,13 @@ The Grandia GD08B case (like many on this page) is not actually designed to be a
 
 This thing has room for up to 9 drives, and is big enough to fit a full ATX motherboard as well.
 
-<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-grandia-gd08.jpg" /> 
-
-Installing drives in this bad boy isn't going to be as easy as the hot swap NAS case we're featuring down below, not to mention an actual NAS like the djalf. 
-
-But it surely gets the job done. You'll first have to unscrew the top pane and build your PC as you normally would, and then you can install your hard drives. 
+Installing drives in this bad boy isn't going to be as easy as the hot swap NAS case we featured above, but it surely gets the job done. 
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-MZRGqyg0is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div> 
+
+You'll first have to unscrew the top pane and build your PC as you normally would, and then you can install your hard drives. 
 
 I'd only recommend building your NAS in this case if you plan on using the PC for day-to-day use as well, since it's so large. 
 
@@ -483,4 +479,3 @@ NAS rigs are great mass storage replacements for external hard drives, and buyin
 Building your own NAS is a bit more time consuming than buying a prebuilt NAS, but that doesn't mean you shouldn't do it. 
 
 You'll save money, learn how your NAS works and hell, you may even have some fun. 
-
