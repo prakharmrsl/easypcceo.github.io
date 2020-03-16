@@ -374,10 +374,6 @@ This thing has room for up to 9 drives, and is big enough to fit a full ATX moth
 
 Installing drives in this bad boy isn't going to be as easy as the hot swap NAS case we featured above, but it surely gets the job done. 
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-MZRGqyg0is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
-
 You'll first have to unscrew the top pane and build your PC as you normally would, and then you can install your hard drives. 
 
 I'd only recommend building your NAS in this case if you plan on using the PC for day-to-day use as well, since it's so large. 
@@ -406,7 +402,11 @@ If you've ever used the network at your school, college, or work as a shared dri
 
 You can create the same thing for yourself to secure and backup your data, without having to pile up external drive after external drive. 
 
-Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over. 
+Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over.
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhT-KI16jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
 
 ## Why You Should Build Your Own NAS 
 
