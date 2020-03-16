@@ -136,7 +136,7 @@ Though those four drive bays are not hot swappable, the entire drive bay can als
 
 It's mainly constructed of steel with some brushed aluminum and a bit of plastic here and there, but overall the build is quite sturdy. 
 
-<img class="lazyload" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
+<img class="lazyload img-middle" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
 
 Unfortunately, the drive bays themselves are made of plastic, not steel or aluminum. But that helps to keep costs low, which is probably the main reason you're building a NAS in the first place.
 
