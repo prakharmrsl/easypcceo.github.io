@@ -26,7 +26,7 @@ It's expensive but it'll save you hours of your time.
 
 Now, if you want to get your hands dirty and build your own NAS, let's dive in:
 
-## Best NAS Case: SilverStone DS380B-USA
+## Best NAS Case
 
 <div class="featured-info-box">
 <span>Top Pick</span>
@@ -150,7 +150,7 @@ If you're looking for the best NAS case on the market (aside from a dedicated pr
   <a target="_blank" class="big-button-center" href="https://amzn.to/2IR4Mwy">Read Reviews on Amazon</a>
 </div>
 
-## Best Micro ATX NAS Case: Fractal Design Node 804 
+## Best Micro ATX NAS Case
 
 The point of building a NAS is to save money, which is why the rest of the cases on this list aren't necessarily designed for use as a NAS. 
 
@@ -283,7 +283,7 @@ All in all, this thing makes great use of space and if you're in the market for 
   <a target="_blank" class="big-button-center" href="https://amzn.to/39WHtgI">Read Reviews on Amazon</a>
 </div>
 
-## Best ATX NAS Case: Silverstone Grandia GD08B
+## Best ATX NAS Case
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
