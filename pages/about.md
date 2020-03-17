@@ -31,6 +31,20 @@ I figured there were plenty of other people who were in the same situation as me
 
 I first made the [Easy PC YouTube channel](https://www.youtube.com/channel/UCuPW6x4ZBXR06cjmf1wOS2g){:target="_blank"} and eventually this website in order to help those just starting out. Trust me, it's a lot easier than it seems! The hardest part is getting started, and it's all down hill from there. 
 
+Here are some of the PC gaming and technology websites I've contributed to:
+
+* [Cryptoslate](https://www.cryptoslate.com/author/jacob-tuwiner/){: target="_blank"}
+* [PC Guide](https://www.pcguide.com/author/jacob-tuwiner/){: target="_blank"}
+* [PC Game Haven](https://pcgamehaven.com/pros-cons-nvidia-rtx-gpu/){: target="_blank"}
+* [EEWeb](https://www.eeweb.com/profile/jtuwiner/articles/selecting-sub-system-components-to-build-a-custom-pc){: target="_blank"}
+* [Bit Rebels](https://bitrebels.com/technology/components-gaming-pc-infographic/){: target="_blank"}
+* [Versa Technology](https://www.versatek.com/blog/author/jtuwin/){: target="_blank"}
+* [Computer Posture](https://www.computer-posture.co.uk/how-to-set-and-maintain-the-best-pc-gaming-posture/){: target="_blank"}
+* [Sanvada](https://www.sanvada.com/vr-gaming-stay/){: target="_blank"}
+* [Tech Sling](https://www.techsling.com/author/easypc/){: target="_blank"}
+* [Use the Bitcoin](https://usethebitcoin.com/ethereums-switch-proof-work-proof-stake/){: target="_blank"}
+* [Medium](https://medium.com/igdb/vr-gaming-ahead-of-its-time-c9572d205230){: target="_blank"}
+
 
 ### My Current PC Specs
 

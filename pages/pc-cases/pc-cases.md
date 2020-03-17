@@ -85,6 +85,17 @@ Another example is hard drive storage space.
 
 If you want a ton of hot swappable hard drives in your PC, or an optical drive, you'll need to make sure the case is big enough to fit them. 
 
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Hot swapping hard drives is incredibly convenient, whether you're building a NAS or a regular gaming PC.</p>
+
+  <p>We have a full guide on <a href="/pc-cases/hot-swappable/">hot swappable PC cases</a> that you can check out by clicking that link. </p>
+
+  <p>Now back to the guide!</p>
+
+</div>
+
 A lot of case manufacturers are removing optical drive bays (5.25") from their cases altogether as physical discs become more obsolete. 
 
 That being said, there may be some instances where you'd need an optical drive, and a water cooler, and 8 drives. If that's the case, you'll need a large, spacious case with enough room to accommodate your components. 

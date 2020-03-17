@@ -26,37 +26,100 @@ It's expensive but it'll save you hours of your time.
 
 Now, if you want to get your hands dirty and build your own NAS, let's dive in:
 
-## Best NAS Case: SilverStone DS380B-USA
+## Best NAS Case
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E-GQ4m026S0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="featured-info-box">
+<span>Top Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a>
 </div>
+<div class="text">
+<h2>SilverStone DS380B-USA</h2>
+<h3>Best Small NAS Case</h3>
+<p>This is the only PC case on our list that is actually designed for use as a NAS case. Its small Mini ITX form factor makes it perfect for building a NAS, not to mention how many drives this thing can hold.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2IR4Mwy">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Designed for NAS</li> 
+        <li>Small form factor</li> 
+        <li>Tons of drive space</li> 
+        <li>Hot swappable</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Price</li>
+        <li>Short power/reset cables</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          mITX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          No
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Eh
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
-This is the only [PC case](/pc-cases/) on our list that is actually designed for use as a NAS case. 
-
-Its small Mini ITX form factor makes it perfect for building a NAS, not to mention how many drives this thing can hold. 
-
-The main focus of this case is of course, storage. Despite being such a small case, this bad boy can fit up to 12 3.5" hard drives. 
-
-<img class="lazyload" alt="best mini itx nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" />
+The main focus of this case is of course, storage. Despite being such a small case, this bad boy can fit up to 12 3.5" hard drives.
 
 In addition, the drive cage system can be entirely removed, creating much more space for other components. 
 
 Eight drives can be installed in hot swappable bays at the front of the case, and the rear of the case features another four drive cage. 
-
-Though those four drive bays are not hot swappable, the entire drive bay can also be removed. 
-
-It's mainly constructed of steel with some brushed aluminum and a bit of plastic here and there, but overall the build is quite sturdy. 
-
-<img class="lazyload" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
-
-Unfortunately, the drive bays themselves are made of plastic, not steel or aluminum. But that helps to keep costs low, which is probably the main reason you're building a NAS in the first place.
-
-Luckily, the drives are easily removed — simply pinch the tabs on either side and they slide out with ease. 
-
-The case is incredibly small and can only support an SFX power supply, so a traditional ATX power supply is out of the question. 
-
-If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you. 
 
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
@@ -69,23 +132,120 @@ If you're looking for the best NAS case on the market (aside from a dedicated pr
 
 </div>
 
-## Best Micro ATX NAS Case: Fractal Design Node 804 
+Though those four drive bays are not hot swappable, the entire drive bay can also be removed. 
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q1I86pabPZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+It's mainly constructed of steel with some brushed aluminum and a bit of plastic here and there, but overall the build is quite sturdy. 
+
+Unfortunately, the drive bays themselves are made of plastic, not steel or aluminum. But that helps to keep costs low, which is probably the main reason you're building a NAS in the first place.
+
+<img class="lazyload img-middle" alt="best mini itx nas case interior" data-src="/img/cases/nas/silverstone-ds380b-2.jpg" />
+
+Luckily, the drives are easily removed — simply pinch the tabs on either side and they slide out with ease. 
+
+The case is incredibly small and can only support an SFX power supply, so a traditional ATX power supply is out of the question. 
+
+If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2IR4Mwy">Read Reviews on Amazon</a>
 </div>
+
+## Best Micro ATX NAS Case
 
 The point of building a NAS is to save money, which is why the rest of the cases on this list aren't necessarily designed for use as a NAS. 
 
 They're cheaper than a traditional NAS case, but still can work pretty well as a NAS system. 
 
-The front of this case features brushed aluminum and mesh towards the bottom with a subtle curvature, exuding a minimalistic, sleek and refined feel. 
-
-This cube case is totally badass, and if you're interested in building a NAS for your home or office, it's definitely a good option. 
-
 Using a [Micro ATX](/budget-pcs/smallest-micro-atx-cases/) NAS case is a better idea than an [ATX](/budget-pcs/smallest-atx-cases/) for most, since the point of a NAS is storing as much data as possible without taking up much room. 
 
-<img class="lazyload" alt="best micro atx nas" data-src="/img/cases/nas/fractal-design-node-804.jpg" />
+That brings us to our next case: 
+
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/39WHtgI"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
+</div>
+<div class="text">
+<h2>Fractal Design Node 804</h2>
+<h3>Micro ATX NAS Case</h3>
+<p>This cube case is totally badass, and if you're interested in building a NAS for your home or office, it's definitely a good option. </p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/39WHtgI">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Small</li> 
+        <li>Tons of drive space</li> 
+        <li>Good airflow</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not hot swappable</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          mATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
+
+The front of this case features brushed aluminum and mesh towards the bottom with a subtle curvature, exuding a minimalistic, sleek and refined feel. 
 
 On the right hand side of the case there are 2 USB 3 ports, headphone/microphone jacks and a slimline optical drive mount that hides inside the front bezel. 
 
@@ -97,7 +257,9 @@ Moreover, the top cover slides off with some easy thumb screws. You'll find dual
 
 The right side has a 120mm/140mm and it'll work with a 240mm or 280mm radiator. 
 
-<img class="lazyload" alt="best micro atx nas interior" data-src="/img/cases/nas/an-and-tech-804-2.jpeg" />
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q1I86pabPZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The left side doesn't fit a 280mm though, due to clearance constraints (but still fits a 240mm radiator). In total it has 10 fan mounts, which is pretty dope. 
 
@@ -115,29 +277,112 @@ Despite having a ton of storage space for your NAS drives, [cable management](/c
 
 All in all, this thing makes great use of space and if you're in the market for a micro ATX NAS case, the Node 804 is going to be your best bet.
 
-## Best ATX NAS Case: Silverstone Grandia GD08B
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/39WHtgI">Read Reviews on Amazon</a>
+</div>
 
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-MZRGqyg0is" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
+## Best ATX NAS Case
 
-This case (like many on this page) is not actually designed to be a NAS case.
+<div class="featured-info-box">
+<span>Also Awesome</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
+</div>
+<div class="text">
+<h2>Silverstone Grandia GD08B</h2>
+<h3>ATX NAS Case</h3>
+<p>The Silverstone Grandia GD08B is a home theater PC case that happens to have a crap load of fans and, you guessed it, hard drive bays.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2U9zkin">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Spacious interior</li> 
+        <li>Plenty of drive space</li> 
+        <li>Lots of fans</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not hot swappable</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          No
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
-The Silverstone Grandia GD08B is a home theater PC case that happens to have a crap load of fans and, you guessed it, hard drive bays.
+The Grandia GD08B case (like many on this page) is not actually designed to be a NAS case.
 
-<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/silverstone-grandia-gd08.jpg" />
+This thing has room for up to 9 drives, and is big enough to fit a full ATX motherboard as well.
 
-This thing has room for up to 9 drives, and is big enough to fit a full ATX motherboard as well. 
+Installing drives in this bad boy isn't going to be as easy as the hot swap NAS case we featured above, but it surely gets the job done. 
 
-Installing drives in this bad boy isn't going to be as easy as the hot swap NAS case we're featuring down below, not to mention an actual NAS like the djalf. 
-
-But it surely gets the job done. You'll first have to unscrew the top pane and build your PC as you normally would, and then you can install your hard drives. 
+You'll first have to unscrew the top pane and build your PC as you normally would, and then you can install your hard drives. 
 
 I'd only recommend building your NAS in this case if you plan on using the PC for day-to-day use as well, since it's so large. 
 
 I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to a smaller form factor case such as mATX or mITX, but the option is there. 
 
-Otherwise, it makes more sense to build a NAS in one of the cases below: 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">Read Reviews on Amazon</a>
+</div>
 
 ## What is a NAS?
 <figure>
@@ -157,7 +402,11 @@ If you've ever used the network at your school, college, or work as a shared dri
 
 You can create the same thing for yourself to secure and backup your data, without having to pile up external drive after external drive. 
 
-Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over. 
+Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over.
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhT-KI16jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
 
 ## Why You Should Build Your Own NAS 
 
@@ -230,4 +479,3 @@ NAS rigs are great mass storage replacements for external hard drives, and buyin
 Building your own NAS is a bit more time consuming than buying a prebuilt NAS, but that doesn't mean you shouldn't do it. 
 
 You'll save money, learn how your NAS works and hell, you may even have some fun. 
-
