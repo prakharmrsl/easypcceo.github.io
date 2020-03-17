@@ -39,27 +39,27 @@ But if you want us to cut to the chase, we recommend the [Corsair Carbide 400C](
   <tr>
     <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
     <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-    <td><a class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
     <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
-    <td><a class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
     <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-    <td><a class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
     <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-    <td><a class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
     <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td><a class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
   </tr>
 </table>
 
