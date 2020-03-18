@@ -46,6 +46,15 @@ If you want to up that budget just a tad, you can even throw in some cheap perip
 You can go right ahead and get a 1920x1080 monitor (future-proofing), a mechanical keyboard, and a pretty nice mouse all for under $500USD total. 
 
 That sounds like a pretty good deal to me.
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you want to check out the most up-to-date PC build made for 720p gaming, check out our <a ahref="/budget-pcs/400/">$400 gaming PC build guide</a>.</p>
+
+  <p>We've also got a full guide that'll show you exactly <a href="/budget-pcs/">how to build a gaming PC</a>, step-by-step with pictures. Check it out of you're new to building!</p>
+
+</div>
  
 ## How Much Should You Spend to Game in 1080p? 
 
@@ -73,7 +82,14 @@ On the high end, expect to pay upwards of $1,000USD for your amazing gaming buil
 
 If you want to add on peripherals, let’s try that. 
 
-For a complete 1080p playable build you can vision a bill of around [$700USD](/budget-pcs/700/) if not a little more, but if you want that sick 60fps gaming with all RGB peripherals then you best expect that price to skyrocket.
+For a complete 1080p playable build you can vision a bill of around $700USD if not a little more, but if you want that sick 60fps gaming with all RGB peripherals then you best expect that price to skyrocket.
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you want to check out the most up-to-date PC build made for 1080p gaming, check out our <a ahref="/budget-pcs/700/">$700 gaming PC build guide</a>.</p>
+
+</div>
 
 ## How Much Should You Spend to Game in 1440p? 
 ![1440p gaming rig](/img/how-much-should-you-spend-gaming-pc/1440p-gaming-rig.jpg){: .img-right .img-small}
@@ -97,6 +113,13 @@ At this price point, you are definitely going to want to throw in a good power s
 Why would you shell out over $1,000 just to equip your rig with El Cheapo peripherals? C’mon man. 
 
 For sure, you’re going to want complete and total RGB, keyboard, mouse, maybe even some headphones. Not to mention that a 1440p monitor is gonna run you quite a fortune, you’re gonna be looking at a total reaching upwards of $1,800USD! Have fun with that bill bro.
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you want to check out the most up-to-date budget PC build made for 1440p gaming, check out our <a ahref="/budget-pcs/1000/">$1000 gaming PC build guide</a>.</p>
+
+</div>
 
 ## How Much Should You Spend to Game in 4K? 
 ![4k gaming setup](/img/how-much-should-you-spend-gaming-pc/4k-setup.jpg){: .img-right .img-small}
