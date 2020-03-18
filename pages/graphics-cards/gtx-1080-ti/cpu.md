@@ -26,6 +26,47 @@ It's important to choose a CPU that isn't going to bottleneck your graphics card
 
 If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/2r1tFQu){: target="_blank"} is our top pick. 
 
+## 3 Best CPUs for 1080 Ti Graphics Card
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>CPU</th>
+    <th>Image</th>
+    <th>Benefit</th>
+    <th>See Price</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2r1tFQu">Intel Core i9-9900KF</a></td>
+    <td><a target="_blank" href="https://amzn.to/2r1tFQu"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Best Gaming CPU</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2r1tFQu">Check</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/32b52xF">Intel Core i9-9700k</a></td>
+    <td><a target="_blank" href="https://amzn.to/32b52xF"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Power</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/32b52xF">Check</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2NyVZRW">AMD Ryzen 5 3600</a></td>
+    <td><a target="_blank" href="https://amzn.to/2NyVZRW"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Price/Performance</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2NyVZRW">Check</a></td>
+  </tr>
+</table>
+
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1080 Ti</span>
 <div class="content">
@@ -338,8 +379,6 @@ But just like our other picks, this chip can overclock, and thatâ€™s where youâ€
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2NyVZRW">Read Reviews on Amazon</a>
 </div>
-
-## 3 Best CPUs for 1080 Ti Graphics Card
 
 <table class="basic-table" align="center">
 	<tr>
