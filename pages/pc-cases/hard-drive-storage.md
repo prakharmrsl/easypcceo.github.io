@@ -40,7 +40,7 @@ Corsair 750D ATX Full Tower Case
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a>
 </div>
 <div class="text">
 <h2>Fractal Design Node 804</h2>
@@ -163,6 +163,92 @@ For more information on [cable management and airflow](/cable-management/), chec
 
 ## Computer Case with Lots of 3.5" Bays 
 
+<div class="featured-info-box">
+<span>Top Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a>
+</div>
+<div class="text">
+<h2>Fractal Design Node 804</h2>
+<h3>Case with Hard Drive Storage</h3>
+<p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Compact</li> 
+        <li>Great airflow</li> 
+        <li>Tons of storage space</li> 
+        <li>Awesome side panel window</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Cable management</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          mATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
+
 ## PC Case with 6 Drive Bays 
 
 ## PC Case with 5.25" Bays 
@@ -171,7 +257,92 @@ For more information on [cable management and airflow](/cable-management/), chec
 
 ## Cheap PC Case for Hard Drive Storage
 
-The Phanteks Enthoo Pro M TG ATX Mid Tower Case is an absolute monster of a case and has tons of modularity and support for builds of all types. 
+<div class="featured-info-box">
+<span>Budget Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/33xZJuv"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/pro-m.png" /></a>
+</div>
+<div class="text">
+<h2>Phanteks Enthoo Pro M TG</h2>
+<h3>Cheap Case for Hard Drive Storage</h3>
+<p>The Phanteks Enthoo Pro M TG ATX Mid Tower Case is an absolute monster of a case and has tons of modularity and support for builds of all types.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/33xZJuv">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Spacious</li> 
+        <li>Airflow</li> 
+        <li>Tons of storage space</li> 
+        <li>Cheap</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Flexible side panels</li>
+        <li>Drive bays mostly not included</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>  
 
 This mid-range PC case is a terrific all around case for hard drive storage, if you're willing to spend a bit of extra money on the drive mounts. 
 
@@ -246,3 +417,7 @@ There's only a single 140mm fan included with this case, meaning you'll need to 
 On top of the case, Phanteks uses a removable bracket solution which is brilliant and makes installation far easier. 
 
 All in all, this thing is pretty solid and you can't go wrong, especially if you want a case designed for custom hard drive storage. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33xZJuv">Read Reviews on Amazon</a>
+</div>
