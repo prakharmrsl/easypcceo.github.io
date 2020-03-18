@@ -8,7 +8,7 @@ meta: "In this post we're going to be taking a look at the best PC cases for har
 
 <div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
-	<span>Jacob Tuwiner</span>
+	<a href="/about/"><span>Jacob Tuwiner</span></a>
 </div>
 
 Here's the deal: 
@@ -44,7 +44,7 @@ There is enough room for up to eight 3.5" bays to easily be added with simple mo
 
 <figure>
 <img class="img-middle lazyload" alt="enthoo pro m front on view" data-src="/img/cases/hard-drive-storage/pro-m.png">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 However, two drive brackets at the top of the case, in addition to a single 2.5" bracket behind the motherboard tray come included. 
@@ -55,7 +55,7 @@ But this allows you to install drives with flexible mounting options in any of t
 
 <figure>
 <img class="img-middle lazyload" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-front.png">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 You can mount them on top or bottom and out of the way, or move them in the center so they're cooled by the fans. 
@@ -70,7 +70,7 @@ One thing I don't like about this case is how flimsy the side panels are.
 
 <figure>
 <img class="img-middle lazyload" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-panel.png">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 Although the rest of the case's structure is quite sturdy, the panels have a bit more flex than I'd like on a case at this price point.
@@ -81,7 +81,7 @@ The I/O has two USB 3 ports, audio jacks and the reset button on the side, with 
 
 <figure>
 <img class="img-middle lazyload" alt="enthoo pro m front io panel" data-src="/img/cases/hard-drive-storage/pro-m-io.png">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 Phantex has done a great job with wiring as well.
@@ -90,7 +90,7 @@ Behind the front panel there's a removable dust filter that covers the front int
 
 <figure>
 <img class="img-middle lazyload" alt="enthoo pro m front dust filter" data-src="/img/cases/hard-drive-storage/pro-m-front-dust-filter.png">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 However, you'll still have to perform periodic maintanence, as the side ventilation is behind the dust filter which will allow dust to enter the case. 
@@ -102,8 +102,8 @@ The front of the case supports triple 120mm fans or dual 140mm with the mounting
 There's only a single 140mm fan included with this case, meaning you'll need to populate the case with your own fans. 
 
 <figure>
-<img class="img-middle lazyload" alt="enthoo pro m included fan" data-src="/img/cases/hard-drive-storage/included-fan.jpg">
-<figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
+<img class="img-middle lazyload" alt="enthoo pro m included fan" data-src="/img/cases/hard-drive-storage/included-fan.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
 On top of the case, Phanteks uses a removable bracket solution which is brilliant and makes installation far easier. 
