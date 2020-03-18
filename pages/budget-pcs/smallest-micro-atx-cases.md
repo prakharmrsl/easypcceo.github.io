@@ -107,13 +107,6 @@ Here is a list of the smallest micro ATX cases on the market:
 	<tr>
 		<td>Rosewill FBM-05</td>
 		<td><a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload table-image" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Dirt Cheap</li>
-			<li>Solid Construction</li>
-			<li>Budget Friendly</li>
-			</ul>
-		</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2Q3V3po">View on Amazon</a></td>
 	</tr>
 </table>
