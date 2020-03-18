@@ -50,7 +50,7 @@ That sounds like a pretty good deal to me.
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
-  <p>If you want to check out the most up-to-date PC build made for 720p gaming, check out our <a class="box-link" ahref="/budget-pcs/400/">$400 gaming PC build guide</a>.</p>
+  <p>If you want to check out the most up-to-date PC build made for 720p gaming, check out our <a href="/budget-pcs/400/">$400 gaming PC build guide</a>.</p>
 
   <p>We've also got a full guide that'll show you exactly <a href="/budget-pcs/">how to build a gaming PC</a>, step-by-step with pictures. Check it out of you're new to building!</p>
 
@@ -87,7 +87,7 @@ For a complete 1080p playable build you can vision a bill of around $700USD if n
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
-  <p>If you want to check out the most up-to-date PC build made for 1080p gaming, check out our <a class="box-link" ahref="/budget-pcs/700/">$700 gaming PC build guide</a>.</p>
+  <p>If you want to check out the most up-to-date PC build made for 1080p gaming, check out our <a href="/budget-pcs/700/">$700 gaming PC build guide</a>.</p>
 
 </div>
 
@@ -117,7 +117,7 @@ For sure, you’re going to want complete and total RGB, keyboard, mouse, maybe 
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
-  <p>If you want to check out the most up-to-date budget PC build made for 1440p gaming, check out our <a class="box-link" ahref="/budget-pcs/1000/">$1000 gaming PC build guide</a>.</p>
+  <p>If you want to check out the most up-to-date budget PC build made for 1440p gaming, check out our <a href="/budget-pcs/1000/">$1000 gaming PC build guide</a>.</p>
 
 </div>
 
