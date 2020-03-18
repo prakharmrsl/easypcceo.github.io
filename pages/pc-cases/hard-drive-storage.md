@@ -2,7 +2,7 @@
 title: "Top PC Cases with Tons of Hard Drive Storage" 
 permalink: "/pc-cases/hard-drive-storage/"
 layout: page
-seotitle: "3 Best PC Cases for Hard Drive Storage (2020)" 
+seotitle: "5 Best PC Cases for Hard Drive Storage (2020)" 
 meta: "In this post we're going to be taking a look at the best PC cases for hard drive storage on the market."
 ---
 
@@ -10,6 +10,9 @@ meta: "In this post we're going to be taking a look at the best PC cases for har
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<a href="/about/"><span>Jacob Tuwiner</span></a>
 </div>
+
+* TOC 
+{: toc}
 
 Here's the deal: 
 
@@ -32,15 +35,94 @@ Fractal Design Define R5 (Black) ATX Mid Tower Case
 Corsair 750D ATX Full Tower Case
 
 ## All Around Best PC Case for Hard Drive Storage 
-<img class="img-right img-small lazyload" alt="Node 804" data-src="/img/cases/hard-drive-storage/node-804/case.png">
 
-Fractal Design Node 804 MicroATX Mid Tower Case
+<div class="featured-info-box">
+<span>Top Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+</div>
+<div class="text">
+<h2>Fractal Design Node 804</h2>
+<h3>Case with Hard Drive Storage</h3>
+<p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Compact</li> 
+        <li>Great airflow</li> 
+        <li>Tons of storage space</li> 
+        <li>Awesome side panel window</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Cable management</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          mATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section> 
 
 The Node 804 from Fractal Design also made an appearance on our page about the [best PC cases for NAS systems](/pc-cases/nas/), and for good reason.
-
-This bad boy is small, but that doesn't it isn't spacious inside.
-
-The Node 804 is a cleverly designed case which is great for hard drive storage. 
 
 You can fit up to eight 3.5" drives in this thing, not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
 
