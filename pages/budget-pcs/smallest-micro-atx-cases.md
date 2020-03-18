@@ -65,32 +65,17 @@ Here is a list of the smallest micro ATX cases on the market:
 	<tr>
 		<th>Case</th>
 		<th>Image</th>
-		<th>Benefits</th>
-		<th>More</th>
+		<th>Shop</th>
 	</tr>
 	<tr>
 		<td>NZXT H400i</td>
 		<td><a target="_blank" href="https://amzn.to/347I77A"><img class="lazyload table-image" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Beautiful Design</li>
-			<li>Great Airflow</li>
-			<li>Small</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#h400i">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/347I77A">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>BitFenix Prodigy M</td>
 		<td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Carrying Handle</li>
-			<li>Side Panel Window</li>
-			<li>Sleek Design</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#prodigy-m">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2YkBSL0">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Thermaltake Level 20 VT</td>
@@ -102,43 +87,22 @@ Here is a list of the smallest micro ATX cases on the market:
 			<li>Simple</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#20-vt">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Vlqahn">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>IN-WIN BL631</td>
 		<td><a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload table-image" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Slim Case</li>
-			<li>Good Price</li>
-			<li>Cable Management</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#bl631">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2LGjJGe">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Nanoxia Rexgear 1</td>
 		<td><a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload table-image" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Color Schemes</li>
-			<li>Spacious Interior</li>
-			<li>Looks Awesome</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#rexgear-1">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2JIqWCK">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master MasterBox Q300L</td>
 		<td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Side Panel Window</li>
-			<li>Cable Management</li>
-			<li>Affordable</li>
-			</ul>
-		</td>
-		<td><a class="big-button" href="#q300l">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2YrFU4u">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Rosewill FBM-05</td>
@@ -150,7 +114,7 @@ Here is a list of the smallest micro ATX cases on the market:
 			<li>Budget Friendly</li>
 			</ul>
 		</td>
-		<td><a class="big-button" href="#fbm-05">View</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Q3V3po">View on Amazon</a></td>
 	</tr>
 </table>
 
