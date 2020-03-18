@@ -634,6 +634,39 @@ All in all, it's a fantastic case for the money.
   <a target="_blank" class="big-button-center" href="https://amzn.to/2vTJbgT">Read Reviews on Amazon</a>
 </div>
 
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+  </tr>
+</table>
+
 ## Case Buying Guide
 
 <img class="lazyload img-right img-small" alt="carbide air 540" data-src="/img/case/carbide-air-540.png" />
@@ -1004,3 +1037,36 @@ The HAF XB also offers [hot-swapping](https://whatis.techtarget.com/definition/h
 ### Review Summary
 
 The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too.
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+  </tr>
+</table>
