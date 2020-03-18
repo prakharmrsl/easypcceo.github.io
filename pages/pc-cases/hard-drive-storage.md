@@ -41,7 +41,7 @@ This mid-range PC case is a terrific all around case for hard drive storage.
 It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" drive bays. 
 
 <figure>
-<img class="lazyload" alt="enthoo pro m front on view" data-src="/img/cases/hard-drive-storage/enthoo-pro-m.png" />
+<img class="lazyload" alt="enthoo pro m front on view" data-src="/img/cases/hard-drive-storage/pro-m.jpg" />
 <figcaption><p>Source: <a target="_blank" ahref="https://hardwarecanucks.com/">Hardware Canucks</a></p></figcaption>
 </figure>
 
