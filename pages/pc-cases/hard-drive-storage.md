@@ -43,7 +43,7 @@ It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" driv
 There is enough room for up to eight 3.5" bays to easily be added with simple mounting brackets, but those brackets do not come with the case and must be purchased separately. 
 
 <figure>
-<img class="img-middle lazyloaded" alt="enthoo pro m front on view" data-src="/img/cases/hard-drive-storage/pro-m.jpg">
+<img class="img-middle lazyloaded" alt="enthoo pro m front on view" data-src="/img/cases/hard-drive-storage/pro-m.png">
 <figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ You'll notice there isn't a standard drive cage, allowing air to flow freely fro
 But this allows you to install drives with flexible mounting options in any of the five spots. 
 
 <figure>
-<img class="img-middle lazyloaded" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-front.jpg">
+<img class="img-middle lazyloaded" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-front.png">
 <figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ It is a midtower case with support for E-ATX, ATX, Micro ATX and Mini ITX form f
 One thing I don't like about this case is how flimsy the side panels are. 
 
 <figure>
-<img class="img-middle lazyloaded" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-panel.jpg">
+<img class="img-middle lazyloaded" alt="enthoo pro m front inside view" data-src="/img/cases/hard-drive-storage/pro-m-panel.png">
 <figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ Still, the value for the money is pretty insane at this price point, and you'd b
 The I/O has two USB 3 ports, audio jacks and the reset button on the side, with the power button on the top. 
 
 <figure>
-<img class="img-middle lazyloaded" alt="enthoo pro m front io panel" data-src="/img/cases/hard-drive-storage/pro-m-io.jpg">
+<img class="img-middle lazyloaded" alt="enthoo pro m front io panel" data-src="/img/cases/hard-drive-storage/pro-m-io.png">
 <figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ Phantex has done a great job with wiring as well.
 Behind the front panel there's a removable dust filter that covers the front intake. 
 
 <figure>
-<img class="img-middle lazyloaded" alt="enthoo pro m front dust filter" data-src="/img/cases/hard-drive-storage/pro-m-front-dust-filter.jpg">
+<img class="img-middle lazyloaded" alt="enthoo pro m front dust filter" data-src="/img/cases/hard-drive-storage/pro-m-front-dust-filter.png">
 <figcaption><p>Source: <a target="_blank" ahref="https://www.youtube.com/watch?v=CS8qUvhetV4">Hardware Canucks</a></p></figcaption>
 </figure>
 
