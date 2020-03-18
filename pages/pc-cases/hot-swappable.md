@@ -2,7 +2,7 @@
 title: "Top 3 Best Hot Swappable Cases" 
 permalink: "/pc-cases/hot-swappable/"
 layout: page
-seotitle: "3 Awesome Hot Swappable PC Case Options 2020 (Tons of Storage)" 
+seotitle: "3 Best Hot Swappable PC Cases 2020 (Tons of Storage)" 
 meta: "If you're interested in building your own NAS rig, finding the best case for the job is essential. In this guide we're taking a look at the 3 best NAS cases of 2020."
 ---
 
