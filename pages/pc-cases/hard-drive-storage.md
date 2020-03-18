@@ -27,12 +27,67 @@ Let's dive in:
 
 Here's a table of the top 5 best options on the market:
 
-Fractal Design Node 804 MicroATX Mid Tower Case
 Thermaltake View 91 ATX Full Tower Case
 Fractal Design Define R5 (Black) ATX Mid Tower Case
 Corsair 750D ATX Full Tower Case
 
 ## All Around Best PC Case for Hard Drive Storage 
+<img class="img-right img-small lazyload" alt="Node 804" data-src="/img/cases/hard-drive-storage/node-804/case.png">
+
+Fractal Design Node 804 MicroATX Mid Tower Case
+
+The Node 804 from Fractal Design also made an appearance on our page about the [best PC cases for NAS systems](/pc-cases/nas/), and for good reason.
+
+This bad boy is small, but that doesn't it isn't spacious inside.
+
+The Node 804 is a cleverly designed case which is great for hard drive storage. 
+
+You can fit up to eight 3.5" drives in this thing, not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
+
+Here's what the regular drive cages look like: 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Drive Bays" data-src="/img/cases/hard-drive-storage/node-804/drive-bays.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+And here's what the drive bays mounted on the bottom of the case look like: 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Drive Bays on the bottom of the case" data-src="/img/cases/hard-drive-storage/node-804/bottom-drive.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+Its front has a brushed aluminum design with a nice curviture to it. 
+
+In additon, the right hand size has two USB 3 ports, headphone/microphone jacks and a slimline optical drive that hides inside the front bezel. 
+
+The front panel drive bays are behind the front panel, right in front of two dual 120mm dust filters. 
+
+This thing has dual 120mm fan mounts on each side, which is pretty bad ass for such a small case. In fact, the Node 804 has 10 fan mounts total available for you. 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Case Fans" data-src="/img/cases/hard-drive-storage/node-804/dual-fans.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+All in all, this case has plenty of drive space, great airflow, and a sturdy design. 
+
+My only complaint is cable management. Because the case uses so much space for case fans and drive bays, it seems like cable management was a bit neglected.
+
+Nevertheless, crafty cable managers will figure it out just fine, and cable management doesn't have a tremendous impact on performance anyway. 
+
+For more information on [cable management and airflow](/cable-management/), check out our guide! 
+
+## Computer Case with Lots of 3.5" Bays 
+
+## PC Case with 6 Drive Bays 
+
+## PC Case with 5.25" Bays 
+
+## 12 3.5" Bay Computer Case 
+
+## Cheap PC Case for Hard Drive Storage
 
 The Phanteks Enthoo Pro M TG ATX Mid Tower Case is an absolute monster of a case and has tons of modularity and support for builds of all types. 
 
@@ -109,13 +164,3 @@ There's only a single 140mm fan included with this case, meaning you'll need to 
 On top of the case, Phanteks uses a removable bracket solution which is brilliant and makes installation far easier. 
 
 All in all, this thing is pretty solid and you can't go wrong, especially if you want a case designed for custom hard drive storage. 
-
-## Computer Case with Lots of 3.5" Bays 
-
-## PC Case with 6 Drive Bays 
-
-## PC Case with 5.25" Bays 
-
-## 12 3.5" Bay Computer Case 
-
-fa
