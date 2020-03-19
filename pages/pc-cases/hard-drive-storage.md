@@ -11,8 +11,16 @@ meta: "In this post we're going to be taking a look at the best PC cases for har
 	<a href="/about/"><span>Jacob Tuwiner</span></a>
 </div>
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#5-best-pc-cases-for-hard-drive-storage" id="markdown-toc-5-best-pc-cases-for-hard-drive-storage">5 Best PC Cases for Hard Drive Storage</a></li>
+<li><a href="#all-around-best-pc-case-for-hard-drive-storage" id="markdown-toc-all-around-best-pc-case-for-hard-drive-storage">All Around Best PC Case for Hard Drive Storage</a></li>
+<li><a href="#twelve-35-bay-computer-case" id="markdown-toc-twelve-35-bay-computer-case">Twelve 3.5” Bay Computer Case</a></li>
+<li><a href="#pc-case-with-lots-of-35-bays" id="markdown-toc-pc-case-with-lots-of-35-bays">PC Case with Lots of 3.5” Bays</a></li>
+<li><a href="#pc-case-with-6-drive-bays" id="markdown-toc-pc-case-with-6-drive-bays">PC Case with 6 Drive Bays</a></li>
+<li><a href="#cheap-pc-case-for-hard-drive-storage" id="markdown-toc-cheap-pc-case-for-hard-drive-storage">Cheap PC Case for Hard Drive Storage</a></li>
+<li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a> 
+</li>
+</ul>
 
 Here's the deal: 
 
@@ -89,7 +97,7 @@ But first:
 <div class="text">
 <h2>Fractal Design Node 804</h2>
 <h3>Micro ATX Case with Drive Storage</h3>
-<p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
+<p>This bad boy is small, but that doesn't mean it isn't spacious inside. The Node 804 is a cleverly designed case, great for hard drive storage.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
 </div>
@@ -190,7 +198,7 @@ Despite being so small, it manages to have great cooling options, loads of drive
 <div class="text">
 <h2>Thermaltake View 91</h2>
 <h3>Super Tower</h3>
-<p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this bad boy, without breaking a sweat. </p>
+<p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this case without breaking a sweat. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price on Amazon</a>
 </div>
@@ -268,9 +276,7 @@ Despite being so small, it manages to have great cooling options, loads of drive
   </div>    
 </section> 
 
-This thing looks good and performs better - from design to storage space, you can't beat the Thermaltake View 91. 
-
-The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
+Thermaltake made a case that looks good and performs better - from design to storage space, you can't beat the View 91. 
 
 And can we take a moment to talk about the sheer magnitude of this beastly case? It's huge!
 
@@ -470,7 +476,16 @@ But considering how awesome the Define series is, the R5 is nothing short of exc
   </div>    
 </section>  
 
-This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
+This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays.
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Since this case has 5.25" bays (despite most companies doing away with them entirely) you can even add a hot swap modification for your case, allowing you to hot swap hard drives whenever you want.</p>
+
+  <p>For more information on <a href="/pc-cases/hot-swappable/">hot swappable PC cases</a>, check out our guide.</p>
+
+</div>  
 
 The 750D is a step down from the monstrous 900D, but still has enough room for a lot of hard drive storage space and a bunch of cooling fans too. 
 
