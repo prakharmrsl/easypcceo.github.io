@@ -30,8 +30,6 @@ Let's dive in:
 
 Here's a table of the top 5 best options on the market:
 
-Corsair 750D ATX Full Tower Case
-
 ## All Around Best PC Case for Hard Drive Storage 
 
 <div class="featured-info-box">
@@ -417,6 +415,130 @@ Not only will you have plenty of drive storage, but you'll also have enough room
 </div>
 
 ## PC Case with 6 Drive Bays 
+
+<div class="featured-info-box">
+<span>Full Tower Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/3ddFhn1"><img class="lazyload" alt="Corsair 750D case" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a>
+</div>
+<div class="text">
+<h2>Corsair 750D</h2>
+<h3>ATX Full Tower Case</h3>
+<p>Corsair's Obsidian line is quite popular, and for good reason. The 750D closes the gap between the 900D and the case that started it all for Corsair, the 800D.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Spacious</li> 
+        <li>Cable management</li> 
+        <li>Six 3.5" drive bays</li> 
+        <li>Good price</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Airflow could be better</li>
+        <li>Parts of the design could be better</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Okay
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>  
+
+This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
+
+The drives can also be configured in different ways, or removed altogether. 
+
+<figure>
+<img class="img-middle lazyload" alt="drives" data-src="/img/cases/hard-drive-storage/750d/drives.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+As you can see, the 750D dwarfs in size compared to the 900D, but that's to be expected considering the 900D is a full tower case: 
+
+<figure>
+<img class="img-middle lazyload" alt="corsair 750d and 900d comparison in size" data-src="/img/cases/hard-drive-storage/750d/comparison.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+Behind the brushed aluminum finish front panel of this case you'll find two 120mm fans and a removable dust filter. 
+
+The top of the case also features a large magnetic dust filter, with plenty of fan mounting options below. In addition to having plenty of hard drive storage, the 750D is great for dusty environments.
+
+<figure>
+<img class="img-middle lazyload" alt="top of the case" data-src="/img/cases/hard-drive-storage/750d/top-case.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+Unfortunately, the front panel of the case sits only a few inches in front of the fans, which will definitely choke them and have an effect on airflow. 
+
+That issue aside, the case does look pretty damn good. It doesn't have any fancy LED lighting by default, but that's something you can definitely add. 
+
+However, this case still looks good without having to be flashy. 
+
+It's got a huge tempered glass side panel window, and a pretty sleek design as well, in addition to great cable management. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
+</div>
 
 ## Cheap PC Case for Hard Drive Storage
 
