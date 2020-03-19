@@ -537,7 +537,7 @@ However, this case still looks good without having to be flashy.
 It's got a huge tempered glass side panel window, and a pretty sleek design as well, in addition to great cable management. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3ddFhn1">Read Reviews on Amazon</a>
 </div>
 
 ## Cheap PC Case for Hard Drive Storage
