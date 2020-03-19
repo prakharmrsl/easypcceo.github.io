@@ -16,7 +16,7 @@ meta: "In this post we're going to be taking a look at the best PC cases for har
 
 Here's the deal: 
 
-You're here because you want to build a PC case with a ton of hard drive storage space.
+You're here because you want a PC case with a ton of hard drive storage space.
 
 I was in your position the last time I wanted to upgrade my PC - I had too many games, and not enough storage.
 
@@ -30,6 +30,54 @@ Let's dive in:
 
 Here's a table of the top 5 best options on the market:
 
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/3d4aeKq">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3d4aeKq">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2TZZPI6">Thermaltake View 91</a></td>
+    <td><a target="_blank" href="https://amzn.to/2TZZPI6"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2TZZPI6">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/33vLk1O">Fractal Design R5</a></td>
+    <td><a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/33vLk1O">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/3ddFhn1">Corsair 750D</a></td>
+    <td><a target="_blank" href="https://amzn.to/3ddFhn1"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3ddFhn1">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/33xZJuv">Phanteks Enthoo Pro M TG</a></td>
+    <td><a target="_blank" href="https://amzn.to/33xZJuv"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/33xZJuv">View on Amazon</a></td>
+  </tr>
+</table>
+
+Now let's take a look at each case in more detail. 
+
+But first: 
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you're building a gaming PC for the first time or you want to learn more about <a href="/pc-cases/">choosing the right case</a> for your build, check out our guide.</p>
+
+  <p>You'll learn everything you need to know, and then some.</p>
+
+  <p>Alright, now back to the guide!</p>
+
+</div>
+
 ## All Around Best PC Case for Hard Drive Storage 
 
 <div class="featured-info-box">
@@ -40,7 +88,7 @@ Here's a table of the top 5 best options on the market:
 </div>
 <div class="text">
 <h2>Fractal Design Node 804</h2>
-<h3>Case with Hard Drive Storage</h3>
+<h3>Micro ATX Case with Drive Storage</h3>
 <p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
@@ -120,7 +168,7 @@ Here's a table of the top 5 best options on the market:
 
 The Node 804 from Fractal Design also made an appearance on our page about the [best PC cases for NAS systems](/pc-cases/nas/), and for good reason.
 
-You can fit up to eight 3.5" drives in this thing, not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
+You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
 
 Here's what the regular drive cages look like: 
 
@@ -161,7 +209,7 @@ For more information on [cable management and airflow](/cable-management/), chec
   <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
 </div>
 
-## 12 3.5" Bay Computer Case 
+## Twelve 3.5" Bay Computer Case 
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
