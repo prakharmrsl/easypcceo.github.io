@@ -30,8 +30,6 @@ Let's dive in:
 
 Here's a table of the top 5 best options on the market:
 
-Thermaltake View 91 ATX Full Tower Case
-Fractal Design Define R5 (Black) ATX Mid Tower Case
 Corsair 750D ATX Full Tower Case
 
 ## All Around Best PC Case for Hard Drive Storage 
@@ -165,10 +163,10 @@ For more information on [cable management and airflow](/cable-management/), chec
   <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
 </div>
 
-## Computer Case with Lots of 3.5" Bays 
+## 12 3.5" Bay Computer Case 
 
 <div class="featured-info-box">
-<span>Runner Up</span>
+<span>Also Awesome</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2TZZPI6"><img class="lazyload" alt="Thermaltake View 91 - case with lots of hard drive storage" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a>
@@ -295,11 +293,132 @@ All in all, this case has more than a dozen fan mounts and storage bays for your
   <a target="_blank" class="big-button-center" href="https://amzn.to/2TZZPI6">Read Reviews on Amazon</a>
 </div>
 
+## PC Case with Lots of 3.5" Bays
+
+<div class="featured-info-box">
+<span>Versatility Pick</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload" alt="Fractal Design Define R5" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a>
+</div>
+<div class="text">
+<h2>Fractal Design Define R5</h2>
+<h3>ATX Midtower Case</h3>
+<p>This PC case has lots of 3.5" drive bays despite being a regular ATX mid tower pick. It's a standard ATX case without any flashy features, but is incredibly functional and an absolute steal for the price.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Traditional case</li> 
+        <li>Sturdy</li> 
+        <li>Design</li> 
+        <li>Modularity</li>
+        <li>Plenty of dust filters</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Non standard looking 5.25" bay covers</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          ATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>  
+
+At the core level, the Define R5 is just an improvement on previous models in the series.
+
+But considering how awesome the Define series is, the R5 is nothing short of excellent. 
+
+Screws hold the case's modular hard drive bays into place, making it easy to remove them if you choose. 
+
+But since you're looking for a PC case with plenty of drive storage, this bad boy can support up to eight hard drives (3.5" and 2.5") in addition to two 5.25" drives.
+
+<figure>
+<img class="lazyload" alt="Define r5 drive config" data-src="/img/cases/hard-drive-storage/define-r5/drive-config-1.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+The drives can be mounted in a multitude of different configurations, as the case's mounting options are incredible.
+
+Plus, the rear of the motherboard panel has room for dual solid state drives as well. 
+
+You can configure your drives in any which way you like with room left over for cooling radiators. 
+
+Thanks to the case's modularity, you it fits 120mm and 240mm raditaors on the top, front, or bottom of the case, which is pretty bad ass if you ask me. 
+
+<figure>
+<img class="lazyload" alt="Define r5 drive radiator" data-src="/img/cases/hard-drive-storage/define-r5/radiator.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+The Define R5 is also the first case in this series to have ample cable management room, which is a big win in my book. 
+
+Not only will you have plenty of drive storage, but you'll also have enough room for all of your cables. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
+</div>
+
 ## PC Case with 6 Drive Bays 
 
 ## PC Case with 5.25" Bays 
-
-## 12 3.5" Bay Computer Case 
 
 ## Cheap PC Case for Hard Drive Storage
 
