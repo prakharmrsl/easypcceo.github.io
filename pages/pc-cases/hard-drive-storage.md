@@ -175,7 +175,7 @@ For more information on [cable management and airflow](/cable-management/), chec
 </div>
 <div class="text">
 <h2>Thermaltake View 91</h2>
-<h3>Case with Hard Drive Storage</h3>
+<h3>Super Tower</h3>
 <p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this bad boy, without breaking a sweat. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price on Amazon</a>
@@ -261,7 +261,7 @@ As you can see from the pictures, it's probably one of the sexiest cases around.
 The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
 
 <figure>
-<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bays.png">
+<img class="lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bays.png">
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
@@ -270,7 +270,7 @@ However, if you want to run a custom water loop in the case or something like th
 Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
 
 <figure>
-<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB side panels" data-src="/img/cases/hard-drive-storage/view-91/side-panels.png">
+<img class="lazyload" alt="thermaltake view 91 TG RGB side panels" data-src="/img/cases/hard-drive-storage/view-91/side-panels.png">
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
@@ -281,7 +281,7 @@ On the right side of the case you'll find two more 4 x 120mm fan brackets, ident
 On top of that, the View 91 has a vertical GPU mount pre-installed, which will make your life way easier if you want to display your graphics card through the side of the case.
 
 <figure>
-<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB vertical GPU mount" data-src="/img/cases/hard-drive-storage/view-91/vertical-mount.png">
+<img class="lazyload" alt="thermaltake view 91 TG RGB vertical GPU mount" data-src="/img/cases/hard-drive-storage/view-91/vertical-mount.png">
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
