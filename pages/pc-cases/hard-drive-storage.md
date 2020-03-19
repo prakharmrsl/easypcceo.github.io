@@ -261,7 +261,7 @@ As you can see from the pictures, it's probably one of the sexiest cases around.
 The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
 
 <figure>
-<img class="lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bays.png">
+<img class="lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bay.png">
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
