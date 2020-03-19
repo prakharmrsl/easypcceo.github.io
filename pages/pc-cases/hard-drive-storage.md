@@ -170,49 +170,10 @@ The Node 804 from Fractal Design also made an appearance on our page about the [
 
 You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
 
-Here's what the regular drive cages look like: 
-
-<figure>
-<img class="img-middle lazyload" alt="Node 804 Drive Bays" data-src="/img/cases/hard-drive-storage/node-804/drive-bays.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
-</figure>
-
-And here's what the drive bays mounted on the bottom of the case look like: 
-
-<figure>
-<img class="img-middle lazyload" alt="Node 804 Drive Bays on the bottom of the case" data-src="/img/cases/hard-drive-storage/node-804/bottom-drive.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
-</figure>
-
-Its front has a brushed aluminum design with a nice curviture to it. 
-
-In additon, the right hand size has two USB 3 ports, headphone/microphone jacks and a slimline optical drive that hides inside the front bezel. 
-
-The front panel drive bays are behind the front panel, right in front of two dual 120mm dust filters. 
-
-This thing has dual 120mm fan mounts on each side, which is pretty bad ass for such a small case. In fact, the Node 804 has 10 fan mounts total available for you. 
-
-<figure>
-<img class="img-middle lazyload" alt="Node 804 Case Fans" data-src="/img/cases/hard-drive-storage/node-804/dual-fans.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
-</figure>
-
-All in all, this case has plenty of drive space, great airflow, and a sturdy design. 
-
-My only complaint is cable management. Because the case uses so much space for case fans and drive bays, it seems like cable management was a bit neglected.
-
-Nevertheless, crafty cable managers will figure it out just fine, and cable management doesn't have a tremendous impact on performance anyway. 
-
-For more information on [cable management and airflow](/cable-management/), check out our guide! 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
-</div>
-
 ## Twelve 3.5" Bay Computer Case 
 
 <div class="featured-info-box">
-<span>Also Awesome</span>
+<span>Runner Up</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/2TZZPI6"><img class="lazyload" alt="Thermaltake View 91 - case with lots of hard drive storage" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a>
@@ -300,49 +261,12 @@ For more information on [cable management and airflow](/cable-management/), chec
 
 This thing looks good and performs better - from design to storage space, you can't beat the Thermaltake View 91. 
 
-As you can see from the pictures, it's probably one of the sexiest cases around. 
-
 The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
-
-<figure>
-<img class="lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bay.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
-</figure>
-
-However, if you want to run a custom water loop in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
-
-Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
-
-<figure>
-<img class="lazyload" alt="thermaltake view 91 TG RGB side panels" data-src="/img/cases/hard-drive-storage/view-91/side-panels.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
-</figure>
-
-The top of the case has plenty of room for fans or a radiator if you choose, and the front of the case ships with three 120mm RGB fans pre-installed.
-
-On the right side of the case you'll find two more 4 x 120mm fan brackets, identical to the set on the top of the case. 
-
-On top of that, the View 91 has a vertical GPU mount pre-installed, which will make your life way easier if you want to display your graphics card through the side of the case.
-
-<figure>
-<img class="lazyload" alt="thermaltake view 91 TG RGB vertical GPU mount" data-src="/img/cases/hard-drive-storage/view-91/vertical-mount.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
-</figure>
-
-Most PC cases require a special vertical GPU moutn attachment and a riser cable. But if you don't want to mount your GPU vertically, the vertical mount can be easily removed as well. 
-
-The back of the case has 10 expansion slots, as this case will support up to an XL ATX standard motherboard. 
-
-All in all, this case has more than a dozen fan mounts and storage bays for your hard drives, making it one of the best cases for hard drive storage if you can afford it. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2TZZPI6">Read Reviews on Amazon</a>
-</div>
 
 ## PC Case with Lots of 3.5" Bays
 
 <div class="featured-info-box">
-<span>Versatility Pick</span>
+<span>Also Awesome</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload" alt="Fractal Design Define R5" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a>
@@ -428,44 +352,14 @@ All in all, this case has more than a dozen fan mounts and storage bays for your
   </div>    
 </section>  
 
-At the core level, the Define R5 is just an improvement on previous models in the series.
+The Define R5 can house up to eight hard drives in its drive cage, which supports both 3.5" and 2.5" drives. 
 
-But considering how awesome the Define series is, the R5 is nothing short of excellent. 
-
-Screws hold the case's modular hard drive bays into place, making it easy to remove them if you choose. 
-
-But since you're looking for a PC case with plenty of drive storage, this bad boy can support up to eight hard drives (3.5" and 2.5") in addition to two 5.25" drives.
-
-<figure>
-<img class="lazyload" alt="Define r5 drive config" data-src="/img/cases/hard-drive-storage/define-r5/drive-config-1.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
-</figure>
-
-The drives can be mounted in a multitude of different configurations, as the case's mounting options are incredible.
-
-Plus, the rear of the motherboard panel has room for dual solid state drives as well. 
-
-You can configure your drives in any which way you like with room left over for cooling radiators. 
-
-Thanks to the case's modularity, you it fits 120mm and 240mm raditaors on the top, front, or bottom of the case, which is pretty bad ass if you ask me. 
-
-<figure>
-<img class="lazyload" alt="Define r5 drive radiator" data-src="/img/cases/hard-drive-storage/define-r5/radiator.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
-</figure>
-
-The Define R5 is also the first case in this series to have ample cable management room, which is a big win in my book. 
-
-Not only will you have plenty of drive storage, but you'll also have enough room for all of your cables. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
-</div>
+At the core level, the Define R5 is just an improvement on previous models in the series. But considering how awesome the Define series is, the R5 is nothing short of excellent. 
 
 ## PC Case with 6 Drive Bays 
 
 <div class="featured-info-box">
-<span>Full Tower Pick</span>
+<span>Versatility Pick</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/3ddFhn1"><img class="lazyload" alt="Corsair 750D case" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a>
@@ -553,48 +447,13 @@ Not only will you have plenty of drive storage, but you'll also have enough room
 
 This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
 
-The drives can also be configured in different ways, or removed altogether. 
-
-<figure>
-<img class="img-middle lazyload" alt="drives" data-src="/img/cases/hard-drive-storage/750d/drives.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
-</figure>
-
-As you can see, the 750D dwarfs in size compared to the 900D, but that's to be expected considering the 900D is a full tower case: 
-
-<figure>
-<img class="img-middle lazyload" alt="corsair 750d and 900d comparison in size" data-src="/img/cases/hard-drive-storage/750d/comparison.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
-</figure>
-
-Behind the brushed aluminum finish front panel of this case you'll find two 120mm fans and a removable dust filter. 
-
-The top of the case also features a large magnetic dust filter, with plenty of fan mounting options below. In addition to having plenty of hard drive storage, the 750D is great for dusty environments.
-
-<figure>
-<img class="img-middle lazyload" alt="top of the case" data-src="/img/cases/hard-drive-storage/750d/top-case.png">
-<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
-</figure>
-
-Unfortunately, the front panel of the case sits only a few inches in front of the fans, which will definitely choke them and have an effect on airflow. 
-
-That issue aside, the case does look pretty damn good. It doesn't have any fancy LED lighting by default, but that's something you can definitely add. 
-
-However, this case still looks good without having to be flashy. 
-
-It's got a huge tempered glass side panel window, and a pretty sleek design as well, in addition to great cable management. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3ddFhn1">Read Reviews on Amazon</a>
-</div>
-
 ## Cheap PC Case for Hard Drive Storage
 
 <div class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/33xZJuv"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/pro-m.png" /></a>
+<a target="_blank" href="https://amzn.to/33xZJuv"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/case.jpg" /></a>
 </div>
 <div class="text">
 <h2>Phanteks Enthoo Pro M TG</h2>
@@ -680,6 +539,198 @@ It's got a huge tempered glass side panel window, and a pretty sleek design as w
 This mid-range PC case is a terrific all around case for hard drive storage, if you're willing to spend a bit of extra money on the drive mounts. 
 
 It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" drive bays. 
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/3d4aeKq">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3d4aeKq">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2TZZPI6">Thermaltake View 91</a></td>
+    <td><a target="_blank" href="https://amzn.to/2TZZPI6"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2TZZPI6">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/33vLk1O">Fractal Design R5</a></td>
+    <td><a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/33vLk1O">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/3ddFhn1">Corsair 750D</a></td>
+    <td><a target="_blank" href="https://amzn.to/3ddFhn1"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3ddFhn1">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/33xZJuv">Phanteks Enthoo Pro M TG</a></td>
+    <td><a target="_blank" href="https://amzn.to/33xZJuv"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/33xZJuv">View on Amazon</a></td>
+  </tr>
+</table>
+
+## Case Reviews 
+
+We're going to take a look at each case in a bit more detail. 
+
+Let's jump in: 
+
+### Fractal Design Node 804 
+
+Here's what the regular drive cages look like: 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Drive Bays" data-src="/img/cases/hard-drive-storage/node-804/drive-bays.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+And here's what the drive bays mounted on the bottom of the case look like: 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Drive Bays on the bottom of the case" data-src="/img/cases/hard-drive-storage/node-804/bottom-drive.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+Its front has a brushed aluminum design with a nice curviture to it. 
+
+In additon, the right hand size has two USB 3 ports, headphone/microphone jacks and a slimline optical drive that hides inside the front bezel. 
+
+The front panel drive bays are behind the front panel, right in front of two dual 120mm dust filters. 
+
+This thing has dual 120mm fan mounts on each side, which is pretty bad ass for such a small case. In fact, the Node 804 has 10 fan mounts total available for you. 
+
+<figure>
+<img class="img-middle lazyload" alt="Node 804 Case Fans" data-src="/img/cases/hard-drive-storage/node-804/dual-fans.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=q1I86pabPZI4">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+All in all, this case has plenty of drive space, great airflow, and a sturdy design. 
+
+My only complaint is cable management. Because the case uses so much space for case fans and drive bays, it seems like cable management was a bit neglected.
+
+Nevertheless, crafty cable managers will figure it out just fine, and cable management doesn't have a tremendous impact on performance anyway. 
+
+For more information on [cable management and airflow](/cable-management/), check out our guide! 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
+</div>
+
+### Thermaltake View 91 
+
+As you can see from the pictures, it's probably one of the sexiest cases around. 
+
+<figure>
+<img class="lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bay.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+However, if you want to run a custom water loop in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
+
+Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
+
+<figure>
+<img class="lazyload" alt="thermaltake view 91 TG RGB side panels" data-src="/img/cases/hard-drive-storage/view-91/side-panels.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+The top of the case has plenty of room for fans or a radiator if you choose, and the front of the case ships with three 120mm RGB fans pre-installed.
+
+On the right side of the case you'll find two more 4 x 120mm fan brackets, identical to the set on the top of the case. 
+
+On top of that, the View 91 has a vertical GPU mount pre-installed, which will make your life way easier if you want to display your graphics card through the side of the case.
+
+<figure>
+<img class="lazyload" alt="thermaltake view 91 TG RGB vertical GPU mount" data-src="/img/cases/hard-drive-storage/view-91/vertical-mount.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+Most PC cases require a special vertical GPU moutn attachment and a riser cable. But if you don't want to mount your GPU vertically, the vertical mount can be easily removed as well. 
+
+The back of the case has 10 expansion slots, as this case will support up to an XL ATX standard motherboard. 
+
+All in all, this case has more than a dozen fan mounts and storage bays for your hard drives, making it one of the best cases for hard drive storage if you can afford it. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2TZZPI6">Read Reviews on Amazon</a>
+</div>
+
+### Fractal Design R5
+
+Screws hold the case's modular hard drive bays into place, making it easy to remove them if you choose. 
+
+But since you're looking for a PC case with plenty of drive storage, this bad boy can support up to eight hard drives (3.5" and 2.5") in addition to two 5.25" drives.
+
+<figure>
+<img class="lazyload" alt="Define r5 drive config" data-src="/img/cases/hard-drive-storage/define-r5/drive-config-1.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+The drives can be mounted in a multitude of different configurations, as the case's mounting options are incredible.
+
+Plus, the rear of the motherboard panel has room for dual solid state drives as well. 
+
+You can configure your drives in any which way you like with room left over for cooling radiators. 
+
+Thanks to the case's modularity, you it fits 120mm and 240mm raditaors on the top, front, or bottom of the case, which is pretty bad ass if you ask me. 
+
+<figure>
+<img class="lazyload" alt="Define r5 drive radiator" data-src="/img/cases/hard-drive-storage/define-r5/radiator.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=d_ZLKzqcUtM">Linus Tech Tips</a></p></figcaption>
+</figure>
+
+The Define R5 is also the first case in this series to have ample cable management room, which is a big win in my book. 
+
+Not only will you have plenty of drive storage, but you'll also have enough room for all of your cables. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
+</div>
+
+### Corsair 750D 
+
+Corsair is a well-respected brand in the PC gaming community, because they consistently create kick ass products. The 750D is no different.
+
+This case excels in terms of hard drive storage space. Its drives can be configured differently, or removed altogether. 
+
+<figure>
+<img class="img-middle lazyload" alt="drives" data-src="/img/cases/hard-drive-storage/750d/drives.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+As you can see, the 750D dwarfs in size compared to the 900D, but that's to be expected considering the 900D is a full tower case: 
+
+<figure>
+<img class="img-middle lazyload" alt="corsair 750d and 900d comparison in size" data-src="/img/cases/hard-drive-storage/750d/comparison.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+Behind the brushed aluminum finish front panel of this case you'll find two 120mm fans and a removable dust filter. 
+
+The top of the case also features a large magnetic dust filter, with plenty of fan mounting options below. In addition to having plenty of hard drive storage, the 750D is great for dusty environments.
+
+<figure>
+<img class="img-middle lazyload" alt="top of the case" data-src="/img/cases/hard-drive-storage/750d/top-case.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=b1X1ur2-LFg">Hardware Canucks</a></p></figcaption>
+</figure>
+
+Unfortunately, the front panel of the case sits only a few inches in front of the fans, which will definitely choke them and have an effect on airflow. 
+
+That issue aside, the case does look pretty damn good. It doesn't have any fancy LED lighting by default, but that's something you can definitely add. 
+
+However, this case still looks good without having to be flashy. 
+
+It's got a huge tempered glass side panel window, and a pretty sleek design as well, in addition to great cable management. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3ddFhn1">Read Reviews on Amazon</a>
+</div>
+
+### Phanteks Enthoo Pro M TG 
 
 There is enough room for up to eight 3.5" bays to easily be added with simple mounting brackets, but those brackets do not come with the case and must be purchased separately. 
 
