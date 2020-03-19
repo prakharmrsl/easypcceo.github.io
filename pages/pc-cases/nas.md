@@ -26,32 +26,7 @@ It's expensive but it'll save you hours of your time.
 
 Now, if you want to get your hands dirty and build your own NAS, let's dive in:
 
-## Top 3 Best NAS Case Options in 2020
-
-<table class="basic-table" align="center">
-  <tr>
-    <th>Case</th>
-    <th>Image</th>
-    <th>See Case</th>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/2IR4Mwy">SilverStone DS380B-USA</a></td>
-    <td><a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload table-image" alt="SilverStone DS380B-USA" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2IR4Mwy">View on Amazon</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/39WHtgI">Fractal Design Node 804</a></td>
-    <td><a target="_blank" href="https://amzn.to/39WHtgI"><img alt="Fractal Design Node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/39WHtgI">View on Amazon</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/2U9zkin">Silverstone Grandia GD08B</a></td>
-    <td><a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2U9zkin">View on Amazon</a></td>
-  </tr>
-</table>
-
-## All Around Best NAS Case
+## Best NAS Case
 
 <div class="featured-info-box">
 <span>Top Pick</span>
@@ -278,8 +253,6 @@ It's a  smart compromise between wasting space on 5.25" bays and getting rid of 
 
 Under the front bezel, you'll find a few 2.5" SSD mounts, cable management room, and two dual 120mm removable fan filters.
 
-This case has a boat load of hard drive bays despite its small size, which is why it also made it on our list of the [best PC cases for hard drive storage](/pc-cases/hard-drive-storage/).
-
 Moreover, the top cover slides off with some easy thumb screws. You'll find dual fan mounts on each side. 
 
 The right side has a 120mm/140mm and it'll work with a 240mm or 280mm radiator. 
@@ -314,7 +287,7 @@ All in all, this thing makes great use of space and if you're in the market for 
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="silverstone-grandia-gd08-case" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
 </div>
 <div class="text">
 <h2>Silverstone Grandia GD08B</h2>
@@ -410,29 +383,6 @@ I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">Read Reviews on Amazon</a>
 </div>
-
-<table class="basic-table" align="center">
-  <tr>
-    <th>Case</th>
-    <th>Image</th>
-    <th>See Case</th>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/2IR4Mwy">SilverStone DS380B-USA</a></td>
-    <td><a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload table-image" alt="SilverStone DS380B-USA" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2IR4Mwy">View on Amazon</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/39WHtgI">Fractal Design Node 804</a></td>
-    <td><a target="_blank" href="https://amzn.to/39WHtgI"><img alt="Fractal Design Node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/39WHtgI">View on Amazon</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://amzn.to/2U9zkin">Silverstone Grandia GD08B</a></td>
-    <td><a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2U9zkin">View on Amazon</a></td>
-  </tr>
-</table>
 
 ## What is a NAS?
 <figure>

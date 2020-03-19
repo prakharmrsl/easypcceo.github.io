@@ -217,8 +217,6 @@ But keep in mind, this thing has a lot more to offer.
 
 You're going to get a good looking, robust case with terrific airflow, insanely good cable management, plenty of room inside, and a nice side panel window. 
 
-The 750D is also on our list of the [best PC cases for hard drive storage](/pc-cases/hard-drive-storage/) because it's so big and has a bunch of drive bays inside already.  
-
 This monster is best suited for an enthusiast build, since it has support for a crap load of drives, all of the different cooling options you could imagine, and several large graphics cards. 
 
 But I figure you're going all out with your PC if you're planning on buying a hot swappable drive bay, so it's a good fit. 

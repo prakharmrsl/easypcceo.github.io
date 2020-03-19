@@ -11,16 +11,8 @@ meta: "In this post we're going to be taking a look at the best PC cases for har
 	<a href="/about/"><span>Jacob Tuwiner</span></a>
 </div>
 
-<ul id="markdown-toc">
-<li><a href="#5-best-pc-cases-for-hard-drive-storage" id="markdown-toc-5-best-pc-cases-for-hard-drive-storage">5 Best PC Cases for Hard Drive Storage</a></li>
-<li><a href="#all-around-best-pc-case-for-hard-drive-storage" id="markdown-toc-all-around-best-pc-case-for-hard-drive-storage">All Around Best PC Case for Hard Drive Storage</a></li>
-<li><a href="#twelve-35-bay-computer-case" id="markdown-toc-twelve-35-bay-computer-case">Twelve 3.5” Bay Computer Case</a></li>
-<li><a href="#pc-case-with-lots-of-35-bays" id="markdown-toc-pc-case-with-lots-of-35-bays">PC Case with Lots of 3.5” Bays</a></li>
-<li><a href="#pc-case-with-6-drive-bays" id="markdown-toc-pc-case-with-6-drive-bays">PC Case with 6 Drive Bays</a></li>
-<li><a href="#cheap-pc-case-for-hard-drive-storage" id="markdown-toc-cheap-pc-case-for-hard-drive-storage">Cheap PC Case for Hard Drive Storage</a></li>
-<li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a> 
-</li>
-</ul>
+* TOC 
+{: toc}
 
 Here's the deal: 
 
@@ -97,7 +89,7 @@ But first:
 <div class="text">
 <h2>Fractal Design Node 804</h2>
 <h3>Micro ATX Case with Drive Storage</h3>
-<p>This bad boy is small, but that doesn't mean it isn't spacious inside. The Node 804 is a cleverly designed case, great for hard drive storage.</p>
+<p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
 </div>
@@ -176,16 +168,7 @@ But first:
 
 The Node 804 from Fractal Design also made an appearance on our page about the [best PC cases for NAS systems](/pc-cases/nas/), and for good reason.
 
-You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case.
-
-Although a larger case is probably best in terms of storage space, I decided to choose the Node 804 as the best all around pick thanks to its clever design. 
-
-Despite being so small, it manages to have great cooling options, loads of drive space, and it doesn't break the bank. 
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price</a>
-<a class="right-button cta-button learn-button" href="#fractal-design-node-804">Read Review</a>
-</div>
+You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
 
 ## Twelve 3.5" Bay Computer Case 
 
@@ -198,7 +181,7 @@ Despite being so small, it manages to have great cooling options, loads of drive
 <div class="text">
 <h2>Thermaltake View 91</h2>
 <h3>Super Tower</h3>
-<p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this case without breaking a sweat. </p>
+<p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this bad boy, without breaking a sweat. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price on Amazon</a>
 </div>
@@ -276,16 +259,9 @@ Despite being so small, it manages to have great cooling options, loads of drive
   </div>    
 </section> 
 
-Thermaltake made a case that looks good and performs better - from design to storage space, you can't beat the View 91. 
+This thing looks good and performs better - from design to storage space, you can't beat the Thermaltake View 91. 
 
-And can we take a moment to talk about the sheer magnitude of this beastly case? It's huge!
-
-Perfect for enthusiasts that want a boat load of storage space for drives and lots of room for water pumps, cooling fans, graphics cards, etc.
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price</a>
-<a class="right-button cta-button learn-button" href="#thermaltake-view-91">Read Review</a>
-</div>
+The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
 
 ## PC Case with Lots of 3.5" Bays
 
@@ -376,16 +352,9 @@ Perfect for enthusiasts that want a boat load of storage space for drives and lo
   </div>    
 </section>  
 
-The Define R5 can house up to eight hard drives in its drive cage, which supports both [3.5" and 2.5"](https://smallbusiness.chron.com/difference-between-25-35-hard-drives-67453.html){: target="_blank"} drives. 
+The Define R5 can house up to eight hard drives in its drive cage, which supports both 3.5" and 2.5" drives. 
 
-At the core level, the Define R5 is just an improvement on previous models in the series. 
-
-But considering how awesome the Define series is, the R5 is nothing short of excellent. 
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price</a>
-<a class="right-button cta-button learn-button" href="#fractal-design-r5">Read Review</a>
-</div>
+At the core level, the Define R5 is just an improvement on previous models in the series. But considering how awesome the Define series is, the R5 is nothing short of excellent. 
 
 ## PC Case with 6 Drive Bays 
 
@@ -476,23 +445,7 @@ But considering how awesome the Define series is, the R5 is nothing short of exc
   </div>    
 </section>  
 
-This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays.
-
-<div class="quick-tip">
-  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-
-  <p>Since this case has 5.25" bays (despite most companies doing away with them entirely) you can even add a hot swap modification for your case, allowing you to hot swap hard drives whenever you want.</p>
-
-  <p>For more information on <a href="/pc-cases/hot-swappable/">hot swappable PC cases</a>, check out our guide.</p>
-
-</div>  
-
-The 750D is a step down from the monstrous 900D, but still has enough room for a lot of hard drive storage space and a bunch of cooling fans too. 
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price</a>
-<a class="right-button cta-button learn-button" href="#corsair-750d">Read Review</a>
-</div>
+This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
 
 ## Cheap PC Case for Hard Drive Storage
 
@@ -587,11 +540,6 @@ This mid-range PC case is a terrific all around case for hard drive storage, if 
 
 It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" drive bays. 
 
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33xZJuv">Check Price</a>
-<a class="right-button cta-button learn-button" href="#phanteks-enthoo-pro-m-tg">Read Review</a>
-</div>
-
 <table class="basic-table" align="center">
   <tr>
     <th>Case</th>
@@ -681,7 +629,7 @@ As you can see from the pictures, it's probably one of the sexiest cases around.
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
-However, if you want to run a [custom water loop](https://www.instructables.com/id/Custom-Loop-Water-Cooling-PC/){: target="_blank"} in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
+However, if you want to run a custom water loop in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
 
 Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
 
@@ -808,7 +756,7 @@ It's totally up to you, which is a nice feature.
 
 The Pro M also features a tempered glass side panel window, not to mention plenty of room for radiators, graphics cards, CPU coolers, your power supply, etc.
 
-It is a midtower case with support for E-ATX, [ATX](https://en.wikipedia.org/wiki/ATX){: target="_blank"}, Micro ATX and Mini ITX form factors. 
+It is a midtower case with support for E-ATX, ATX, Micro ATX and Mini ITX form factors. 
 
 One thing I don't like about this case is how flimsy the side panels are. 
 

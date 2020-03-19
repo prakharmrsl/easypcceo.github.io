@@ -1552,7 +1552,7 @@ blockquote p {
      font-weight: 600;
      padding: 10px;
      letter-spacing: 0.2em;
-   
+   }
    .content {
      display: flex;
      align-items: center;
@@ -1606,7 +1606,7 @@ blockquote p {
       font-weight: 900;
      }
      p {
-       font-size: 17px;
+       font-size: 15px;
      }
    }
  }
@@ -1806,7 +1806,7 @@ blockquote p {
   font-weight: 600;
   padding-bottom: 5px;
   text-transform: uppercase;
-  margin-top: -25px;
+  margin-top: -30px;
 }
 .info-list {
   margin: 0px;
@@ -1960,12 +1960,13 @@ blockquote p {
    padding: 9px 20px 1px; 
    margin-bottom: 40px;
    border-radius: 5px;
+
    h4 {
     font-size: 1.5rem;
     color: black;
     margin-top: -1rem;
    }
-} 
+}
 
 .box-link {
   color:#466db2;
