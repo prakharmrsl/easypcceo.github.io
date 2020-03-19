@@ -170,6 +170,10 @@ The Node 804 from Fractal Design also made an appearance on our page about the [
 
 You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case.
 
+Although a larger case is probably best in terms of storage space, I decided to choose the Node 804 as the best all around pick thanks to its clever design. 
+
+Despite being so small, it manages to have great cooling options, loads of drive space, and it doesn't break the bank. 
+
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price</a>
 <a class="right-button cta-button learn-button" href="#fractal-design-node-804">Read Review</a>
@@ -268,6 +272,10 @@ This thing looks good and performs better - from design to storage space, you ca
 
 The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
 
+And can we take a moment to talk about the sheer magnitude of this beastly case? It's huge!
+
+Perfect for enthusiasts that want a boat load of storage space for drives and lots of room for water pumps, cooling fans, graphics cards, etc.
+
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price</a>
 <a class="right-button cta-button learn-button" href="#thermaltake-view-91">Read Review</a>
@@ -364,7 +372,9 @@ The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5"
 
 The Define R5 can house up to eight hard drives in its drive cage, which supports both 3.5" and 2.5" drives. 
 
-At the core level, the Define R5 is just an improvement on previous models in the series. But considering how awesome the Define series is, the R5 is nothing short of excellent. 
+At the core level, the Define R5 is just an improvement on previous models in the series. 
+
+But considering how awesome the Define series is, the R5 is nothing short of excellent. 
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price</a>
@@ -461,6 +471,8 @@ At the core level, the Define R5 is just an improvement on previous models in th
 </section>  
 
 This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
+
+The 750D is a step down from the monstrous 900D, but still has enough room for a lot of hard drive storage space and a bunch of cooling fans too. 
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price</a>
