@@ -411,6 +411,29 @@ I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to 
   <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">Read Reviews on Amazon</a>
 </div>
 
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2IR4Mwy">SilverStone DS380B-USA</a></td>
+    <td><a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload table-image" alt="SilverStone DS380B-USA" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2IR4Mwy">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/39WHtgI">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://amzn.to/39WHtgI"><img alt="Fractal Design Node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/39WHtgI">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2U9zkin">Silverstone Grandia GD08B</a></td>
+    <td><a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2U9zkin">View on Amazon</a></td>
+  </tr>
+</table>
+
 ## What is a NAS?
 <figure>
 <img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/what-is-nas.jpg" />
