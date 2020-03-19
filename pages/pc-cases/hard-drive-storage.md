@@ -168,7 +168,12 @@ But first:
 
 The Node 804 from Fractal Design also made an appearance on our page about the [best PC cases for NAS systems](/pc-cases/nas/), and for good reason.
 
-You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case. 
+You can fit up to eight 3.5" drives in this [small Micro ATX case](/budget-pcs/smallest-micro-atx-cases/), not to mention its two 2.5" drive bays on the front panel and two 2.5"/3.5" drive bays on the bottom of the case.
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price</a>
+<a class="right-button cta-button learn-button" href="#fractal-design-node-804">Read Review</a>
+</div>
 
 ## Twelve 3.5" Bay Computer Case 
 
@@ -263,6 +268,11 @@ This thing looks good and performs better - from design to storage space, you ca
 
 The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
 
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price</a>
+<a class="right-button cta-button learn-button" href="#thermaltake-view-91">Read Review</a>
+</div>
+
 ## PC Case with Lots of 3.5" Bays
 
 <div class="featured-info-box">
@@ -356,6 +366,11 @@ The Define R5 can house up to eight hard drives in its drive cage, which support
 
 At the core level, the Define R5 is just an improvement on previous models in the series. But considering how awesome the Define series is, the R5 is nothing short of excellent. 
 
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price</a>
+<a class="right-button cta-button learn-button" href="#fractal-design-r5">Read Review</a>
+</div>
+
 ## PC Case with 6 Drive Bays 
 
 <div class="featured-info-box">
@@ -446,6 +461,11 @@ At the core level, the Define R5 is just an improvement on previous models in th
 </section>  
 
 This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, in addition to four dedicated 2.5" drives and three 5.25" optical drive bays. 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price</a>
+<a class="right-button cta-button learn-button" href="#corsair-750d">Read Review</a>
+</div>
 
 ## Cheap PC Case for Hard Drive Storage
 
@@ -539,6 +559,11 @@ This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, i
 This mid-range PC case is a terrific all around case for hard drive storage, if you're willing to spend a bit of extra money on the drive mounts. 
 
 It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" drive bays. 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33xZJuv">Check Price</a>
+<a class="right-button cta-button learn-button" href="#phanteks-enthoo-pro-m-tg">Read Review</a>
+</div>
 
 <table class="basic-table" align="center">
   <tr>
