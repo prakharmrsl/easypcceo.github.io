@@ -376,7 +376,7 @@ Perfect for enthusiasts that want a boat load of storage space for drives and lo
   </div>    
 </section>  
 
-The Define R5 can house up to eight hard drives in its drive cage, which supports both 3.5" and 2.5" drives. 
+The Define R5 can house up to eight hard drives in its drive cage, which supports both [3.5" and 2.5"](https://smallbusiness.chron.com/difference-between-25-35-hard-drives-67453.html){: target="_blank"} drives. 
 
 At the core level, the Define R5 is just an improvement on previous models in the series. 
 
@@ -681,7 +681,7 @@ As you can see from the pictures, it's probably one of the sexiest cases around.
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
 </figure>
 
-However, if you want to run a custom water loop in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
+However, if you want to run a [custom water loop](https://www.instructables.com/id/Custom-Loop-Water-Cooling-PC/){: target="_blank"} in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
 
 Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
 
@@ -808,7 +808,7 @@ It's totally up to you, which is a nice feature.
 
 The Pro M also features a tempered glass side panel window, not to mention plenty of room for radiators, graphics cards, CPU coolers, your power supply, etc.
 
-It is a midtower case with support for E-ATX, ATX, Micro ATX and Mini ITX form factors. 
+It is a midtower case with support for E-ATX, [ATX](https://en.wikipedia.org/wiki/ATX){: target="_blank"}, Micro ATX and Mini ITX form factors. 
 
 One thing I don't like about this case is how flimsy the side panels are. 
 
