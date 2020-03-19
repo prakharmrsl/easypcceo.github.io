@@ -418,8 +418,6 @@ Not only will you have plenty of drive storage, but you'll also have enough room
 
 ## PC Case with 6 Drive Bays 
 
-## PC Case with 5.25" Bays 
-
 ## Cheap PC Case for Hard Drive Storage
 
 <div class="featured-info-box">
