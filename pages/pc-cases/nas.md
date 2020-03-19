@@ -253,6 +253,8 @@ It's a  smart compromise between wasting space on 5.25" bays and getting rid of 
 
 Under the front bezel, you'll find a few 2.5" SSD mounts, cable management room, and two dual 120mm removable fan filters.
 
+This case has a boat load of hard drive bays despite its small size, which is why it also made it on our list of the [best PC cases for hard drive storage](/pc-cases/hard-drive-storage/).
+
 Moreover, the top cover slides off with some easy thumb screws. You'll find dual fan mounts on each side. 
 
 The right side has a 120mm/140mm and it'll work with a 240mm or 280mm radiator. 

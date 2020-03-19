@@ -173,6 +173,8 @@ In addition, there are three different types of drive bays:
 
 If you want a ton of storage, opt for a case with more drive bays, but know there may be less space for other components as a result. 
 
+Luckily, we have a full guide on [PC cases for hard drive storage](/pc-cases/hard-drive-storage/) which you can check out by clicking that link. 
+
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
