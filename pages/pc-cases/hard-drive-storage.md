@@ -161,20 +161,24 @@ Nevertheless, crafty cable managers will figure it out just fine, and cable mana
 
 For more information on [cable management and airflow](/cable-management/), check out our guide! 
 
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
+</div>
+
 ## Computer Case with Lots of 3.5" Bays 
 
 <div class="featured-info-box">
-<span>Top Pick</span>
+<span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a>
+<a target="_blank" href="https://amzn.to/2TZZPI6"><img class="lazyload" alt="Thermaltake View 91 - case with lots of hard drive storage" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a>
 </div>
 <div class="text">
-<h2>Fractal Design Node 804</h2>
+<h2>Thermaltake View 91</h2>
 <h3>Case with Hard Drive Storage</h3>
-<p>This bad boy is small, but that doesn't it isn't spacious inside. The Node 804 is a cleverly designed case which is great for hard drive storage.</p>
+<p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this bad boy, without breaking a sweat. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -184,16 +188,17 @@ For more information on [cable management and airflow](/cable-management/), chec
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Compact</li> 
+        <li>Huge case</li> 
         <li>Great airflow</li> 
         <li>Tons of storage space</li> 
         <li>Awesome side panel window</li>
+        <li>Sick RGB lighting</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
-        <li>Cable management</li>
+        <li>Price</li>
       </ul> 
     </div>
   </div>
@@ -203,7 +208,7 @@ For more information on [cable management and airflow](/cable-management/), chec
           <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
-          mATX
+          ATX
         </div>
       </div>
       <div class="tab-btn">
@@ -248,6 +253,47 @@ For more information on [cable management and airflow](/cable-management/), chec
       </div>
   </div>    
 </section> 
+
+This thing looks good and performs better - from design to storage space, you can't beat the Thermaltake View 91. 
+
+As you can see from the pictures, it's probably one of the sexiest cases around. 
+
+The internal drive cage has twelve drive bays which can hold either 3.5" or 2.5" drives. 
+
+<figure>
+<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB" data-src="/img/cases/hard-drive-storage/view-91/drive-bays.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+However, if you want to run a custom water loop in the case or something like that, the drive bays can be easily removed. Simply unscrew them from the case and they'll slide right out. 
+
+Both sides of the case have tempered glass panels which swing open on hinges, and can be easily removed. 
+
+<figure>
+<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB side panels" data-src="/img/cases/hard-drive-storage/view-91/side-panels.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+The top of the case has plenty of room for fans or a radiator if you choose, and the front of the case ships with three 120mm RGB fans pre-installed.
+
+On the right side of the case you'll find two more 4 x 120mm fan brackets, identical to the set on the top of the case. 
+
+On top of that, the View 91 has a vertical GPU mount pre-installed, which will make your life way easier if you want to display your graphics card through the side of the case.
+
+<figure>
+<img class="img-middle lazyload" alt="thermaltake view 91 TG RGB vertical GPU mount" data-src="/img/cases/hard-drive-storage/view-91/vertical-mount.png">
+<figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=vanp1QFdpXg">Blue Smoke Gamer</a></p></figcaption>
+</figure>
+
+Most PC cases require a special vertical GPU moutn attachment and a riser cable. But if you don't want to mount your GPU vertically, the vertical mount can be easily removed as well. 
+
+The back of the case has 10 expansion slots, as this case will support up to an XL ATX standard motherboard. 
+
+All in all, this case has more than a dozen fan mounts and storage bays for your hard drives, making it one of the best cases for hard drive storage if you can afford it. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2TZZPI6">Read Reviews on Amazon</a>
+</div>
 
 ## PC Case with 6 Drive Bays 
 
