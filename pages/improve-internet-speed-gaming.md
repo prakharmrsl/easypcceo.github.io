@@ -16,15 +16,13 @@ meta: "What are some ways to improve your internet speed for gaming? After attem
 
 Whether you die one off a high kill streak or are building a base, nobody likes to lag. 
 
-It doesn't matter what game you're playing, lagging is easily one of the most annoying things about being a gamer. 
-
 I remember when I was a kid, I'd always be playing Xbox (either COD or GTA IV) with my friends.
 
 One minute I'd be kicking butt, and the next I was screaming to my little sister "Ellie, get off the damn internet!" as I lagged uncontrollably. 
 
 I tried every trick in the book to improve my internet connection speed. Some worked, some didn't.
 
-In this article, I'm going to share my top 17 tips that'll show you how to improve internet speed for gaming. These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
+In this article, I'm going to share my top 14 tips that'll help you improve your internet speed for gaming. These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
 
 However, I'm going to address the elephant in the room:
 
@@ -38,7 +36,7 @@ But for those of you who want to improve internet speed without upgrading, you'l
 
 According to [Xfinity](https://www.xfinity.com/hub/internet/internet-speed-for-gaming){: target="_blank"}, most game console manufacturers recommend at least 3Mbps of download speed and .5 Mbps to 1Mbps of upload speed. Remember that those numbers are purely for gaming, meaning you should have more available if others are using the internet at the same time. 
 
-## 14 Ways to Improve Your Internet Speed 
+## How to Speed Up Your Internet For Free 
 
 These 14 tips are tried and true tactics. Not all of them will work for you, but they're all worth a shot. 
 
@@ -206,4 +204,55 @@ If possible, don't use the internet for anything else, but that may be a stretch
 
 I hate to say it, but at the end of the day, upgrading your internet package is the best way to reduce lag and improve your internet speed for gaming.
 
-Sorry, but spending a bit of extra money each month is the best way to fix the problem. If you're strapped for cash, the methods above will help. But again, upgrading your WiFi is almost always the best option. 
+Sorry, but spending a bit of extra money each month is the best way to fix the problem. If you're strapped for cash, the methods above will help. But again, upgrading your WiFi is almost always the best option.
+
+## Frequently Asked Questions 
+
+Here I'll answer some of the most common questions I'm asked with regards to internet speed and gaming. 
+
+### Is 100 Mbps Good for Gaming? 
+
+Yeah, 100Mbps is terrific for gaming. As long as your upload speeds are similar in strength, you shouldn't have any issues with lag. 
+
+In fact, a 100 Mbps download speed should be sufficient for YouTube, TV, Hulu, Netflix, *and* gaming at the same time. You're good bro! 
+
+### What Internet is Best for Gaming?
+
+Here are the best internet service providers for gaming: 
+
+<table class="basic-table">
+	<tr>
+		<th>Logo</th>
+		<th>ISP</th>
+		<th>Monthly Price</th>
+		<th>Download Speeds</th>
+		<th>Pricing</th>
+	</tr>
+	<tr>
+		<td><img class="table-image lazyload" alt="AT&T Logo" data-src="/img/internet/at&t.png" /></td>
+		<td>AT&T</td>
+		<td>$50</td>
+		<td>100-940 Mbps</td>
+		<td><a class="big-button" target="_blank" href="https://www.attsavings.com/internet/att-fiber">View Plans</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image lazyload" alt="Xfinity Logo" data-src="/img/internet/xfinity.png" /></td>
+		<td>Xfinity</td>
+		<td>$30-$300</td>
+		<td>15-2000 Mbps</td>
+		<td><a class="big-button" target="_blank" href="https://www.xfinity.com/learn/internet-service/wifi">View Plans</a></td>
+	</tr>
+	<tr>
+		<td><img class="table-image lazyload" alt="Verizon Logo" data-src="/img/internet/verizon.jpg" /></td>
+		<td>Verizon</td>
+		<td>$40-$80</td>
+		<td>200-940 Mbps</td>
+		<td><a class="big-button" target="_blank" href="https://www.verizon.com/home/promo/lead/?CMP=KNC_CON_PRS_12356_CL_20180713_NA_ReviewsOrg_000007_ReviewsOrg&abr=CL&c=A004055&kbid=100515">View Plans</a></td>
+	</tr>
+</table>
+
+### What is the Best Internet Speed for Gaming and Streaming? 
+
+Obviously the best internet speed is as fast as possible - but realistically speaking, anything above 
+
+### How do I Prioritize My Internet for Gaming? 
