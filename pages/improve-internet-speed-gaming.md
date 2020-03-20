@@ -253,6 +253,12 @@ Here are the best internet service providers for gaming:
 
 ### What is the Best Internet Speed for Gaming and Streaming? 
 
-Obviously the best internet speed is as fast as possible - but realistically speaking, anything above 
+Obviously the best internet speed is as fast as possible - but realistically speaking, anything above 20-30 Mbps and you're fine. 
+
+You won't experience any issues, you'll have good ping and won't need to worry about too many others using the network. 
 
 ### How do I Prioritize My Internet for Gaming? 
+
+First, identify your gaming console's (or PC's) MAC address. It's a unique identifier number that all devices have. 
+
+Next, you'll need to refer to the model number of your modem/router. This way you can login to your control panel and prioritize the MAC address of your device, and/or limit the bandwidth of others. 
