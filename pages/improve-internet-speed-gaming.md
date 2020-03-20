@@ -2,7 +2,8 @@
 title: "How to Improve Internet Speeed for Gaming" 
 permalink: "/improve-internet-speed-gaming/"
 layout: page
-seotitle: "14 Ways to Improve Internet Speed for Gaming (No Lag)
+seotitle: "14 Ways to Improve Internet Speed for Gaming (No Lag)"
+meta: "What are some ways to improve your internet speed for gaming? After attempting every trick in the book, I've compiled 14 tactics to increase internet speed. Enjoy!"
 ---
 
 <div class="author-line">
