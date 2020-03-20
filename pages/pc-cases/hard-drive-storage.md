@@ -625,6 +625,12 @@ It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" driv
   </tr>
 </table>
 
+## PC Cases for Hard Drive Storage Video 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1yYzGJnFzik" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 ## Case Reviews 
 
 We're going to take a look at each case in a bit more detail. 
