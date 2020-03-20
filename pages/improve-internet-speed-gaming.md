@@ -32,18 +32,24 @@ Oftentimes the best way to improve internet speed is upgrading your internet or 
 
 That's the solution my dad implemented after he was tired of my sister and I fighting all of the time, and it worked like a charm. 
 
-But for those of you who want to improve internet speed without upgrading, let's dive in: 
+But for those of you who want to improve internet speed without upgrading, you'll find a lot of value on this page. 
 
 ## What is a Good Internet Speed for Gaming? 
 
 According to [Xfinity](https://www.xfinity.com/hub/internet/internet-speed-for-gaming){: target="_blank"}, most game console manufacturers recommend at least 3Mbps of download speed and .5 Mbps to 1Mbps of upload speed. Remember that those numbers are purely for gaming, meaning you should have more available if others are using the internet at the same time. 
+
+## 14 Ways to Improve Your Internet Speed 
+
+These 14 tips are tried and true tactics. Not all of them will work for you, but they're all worth a shot. 
+
+Let's dive in: 
 
 ### Check Your Internet Speed
 The first thing you need to do is check your internet connection as it is, specifically when you're lagging. 
 
 You need to have a baseline number in mind before you begin optimizing your internet - this way, you'll know whether the changes are having an impact on your internet speed.
 
-Internet Speed Test is a free and easy tool that'll help you check your upload and download speed in seconds. 
+[Internet Speed Test](https://www.speedtest.net/){: target="_blank"} is a free and easy tool that'll help you check your upload and download speed in seconds. 
 
 Write down your baseline numbers and test your internet speed again after each implementation of the tips below. 
 
