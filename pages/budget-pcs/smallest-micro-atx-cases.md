@@ -80,13 +80,6 @@ Here is a list of the smallest micro ATX cases on the market:
 	<tr>
 		<td>Thermaltake Level 20 VT</td>
 		<td><a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload table-image" alt="Thermaltake Level 20 VT" data-src="/img/case/matx/20-vt.jpg" /></a></td>
-		<td class="components">
-			<ul>
-			<li>Cube Case</li>
-			<li>4-Sided Windows</li>
-			<li>Simple</li>
-			</ul>
-		</td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2Vlqahn">View on Amazon</a></td>
 	</tr>
 	<tr>
