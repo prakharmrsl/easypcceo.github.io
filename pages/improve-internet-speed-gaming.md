@@ -31,6 +31,8 @@ In this article, I'm going to share my top 14 tips that'll help you improve your
 
 These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
 
+<img class="img-middle lazyload" alt="internet speed is fast" data-src="/img/internet/fast.jpg" />
+
 However, I'm going to address the elephant in the room:
 
 Oftentimes the best way to improve internet speed is upgrading your internet or switching to a better provider. 
@@ -87,11 +89,22 @@ Moving your gaming setup closer to your router is one way to alleviate this issu
 If you place it in a central location in your home, it should distribute the WiFi signal evenly to the rooms in your house, creating a better overall experience for everyone. 
 
 ### Use a WiFi Extender  
-<img class="img-right img-small lazyload" alt="wifi extender" data-src="/img/internet/wifi-extender.jpg" />
+<img class="img-middle lazyload" alt="wifi extender" data-src="/img/internet/wifi-extender.jpg" />
 
 If your router is closer to your gaming setup and you've still not seen much of an impact on performance (or you can't move closer), using a WiFi extender is another solution.
 
 Kind of like redstone repeaters in Minecraft, WiFi extenders pick up your WiFi signal and broadcast them out again. 
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Using a WiFi extender is a great way to improve your internet speed for gaming without having to move your router or gaming setup.</p>
+
+  <p>If you're interested in extending your WiFi's range, we recommend the Linksys AC1900 range extender.</p>
+
+  <p>It's powerful, easy to use, and pretty cheap. Click <a target="_blank" href="https://amzn.to/2WD8SQX">here</a> to check its current price on Amazon.</p>
+
+</div>
 
 Most of them are pretty easy to use - my grandmother has one that plugs into the wall and sends her WiFi signal to the farthest rooms in the house. They're relatively inexpensive and can be a great solution.
 
@@ -159,7 +172,22 @@ Ethernet cables are designed for the internet, and your home's power lines are d
 
 Ethernet is more reliable than Powerline, and Ethernet cables can transmit faster internet speeds. 
 
-Still, it's  better than nothing. But there's one caveat:
+Still, it's  better than nothing. And just because it's not as good as Ethernet doesn't mean you shouldn't use one. 
+
+My Powerline adapter was awesome and I didn't lag at all when I was using it. 
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>If you're thinking about getting a Powerline adapter to improve your internet connection, I'd recommend the TP-Link AV2000.</p>
+
+  <p>I've used it personally and it worked like a charm. It was easy to setup, reliable, fast, and pretty cheap too. Best of all, I didn't have to run an Ethernet cable across my house.</p>
+
+  <p>I got mine on Amazon for cheap with Prime shipping. You can click <a target="_blank" href="https://amzn.to/33FsqG2">here</a> to check the current price.</p>
+
+</div>
+
+But there's one caveat:
 
 Your gaming setup needs to be using the same circuit as your router. 
 
@@ -180,6 +208,8 @@ Once I may or may not have tried to download a pirated editing software. Karma i
 The download had a virus which screwed up my internet connection for a few weeks. 
 
 It wasn't until I identified and eliminated the virus (by wiping the drive it was on and losing all the data…) that I was able to recover my internet speeds.
+
+If you don't want to deal with a virus on your PC, I recommend getting an antivirus software like Norton. They're [cheap on Amazon](https://amzn.to/2WC3IVG){: target="_blank"} and worth the investment. 
 
 ### Check for on-system interference
 

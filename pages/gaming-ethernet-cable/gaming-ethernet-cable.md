@@ -68,32 +68,6 @@ When it comes to insuring you have a stable connection, you should definitely be
 	</tr>
 </table>
 
-## How to Choose an Ethernet Cable for Gaming 
-
-If you're going to spend your hard earned money on a gaming Ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming Ethernet cable: 
-
-* **Length:** The length of an Ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest Ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or [PC](/budget-pcs/). I'd recommend finding an Ethernet cable no longer than 300 feet. 
-
-* **Compatibility:** Ensure that your Ethernet cable is compatible with your gaming system, whether it be an Xbox One, PS4, or PC. Many Ethernet cables are manufactured by an [OEM](https://en.wikipedia.org/wiki/Original_equipment_manufacturer){: target="_blank"} (Original Equipment Provider) brand. If so, it should work with your system without any issues. 
-
-## Cat5e vs. Cat6 Ethernet Cables
-
-According to [Diffen.com](https://www.diffen.com/difference/Cat5e_vs_Cat6){: target="_blank"}: 
-
-<blockquote source="https://www.diffen.com/difference/Cat5e_vs_Cat6">
-	<p>Cat6 cables, also called Category 6 or Cat 6 cables, provide lower crosstalk, a higher signal-to-noise ratio, and are suitable for 10GBASE-T (10-Gigabit Ethernet), while Cat5e cables support only up to 1000BASE-T (Gigabit Ethernet). As a means of future-proofing your network, Cat6 is generally a better choice and worth the small premium in price. Cat5e and Cat6 cables are both backwards compatible, which means newer Cat6 cables can be used with older Cat5e, Cat5 and even Cat3 equipment.</p>
-</blockquote>
-
-Essentially, Cat6 cables are newer, and are capable of transferring faster than older Cat5e cables.
-
-Both cables are interchangable, and work the same way. However, Cat6 cables are newer and faster. 
-
-If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the other cables in your network to Cat6. Otherwise, your old Cat5e cables will slow down the network. 
-
-<div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/xntkJ3tHtwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 <div id="xbox-one-ethernet-cable" class="featured-info-box">
 <span>Best Ethernet Cable for Xbox One</span>
 <div class="content">
@@ -176,6 +150,49 @@ If you're a gamer wanting to improve your connection, I'd highly recommend this 
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2Jt4qdD">Read Reviews on Amazon</a>
+</div>
+
+## How to Improve Internet Speed for Gaming 
+
+Installing an Ethernet cable is a great way to improve your internet connection, but it's not all you can do. 
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Tired of lagging?</p>
+
+  <p>I just created a 14-step guide that'll show you how to ensure your internet speed is as fast as possible.</p> 
+
+  <p>You can check it out by clicking <a href="/improve-internet-speed-gaming/">here</a>.</p>
+
+</div>
+
+Now, let's get back to the article. 
+
+## How to Choose an Ethernet Cable for Gaming 
+
+If you're going to spend your hard earned money on a gaming Ethernet cable, you'll want to ensure you're buying the best one for your needs. Here are some things to keep in mind before you buy a gaming Ethernet cable: 
+
+* **Length:** The length of an Ethernet cable has a direct impact on connection speed. As the cable becomes longer, signal quality decreases, resulting in reduced network performance and sluggish transfer rates. Look for the shortest Ethernet cable possible, as long as it is long enough to reach your Xbox One, PS4, or [PC](/budget-pcs/). I'd recommend finding an Ethernet cable no longer than 300 feet. 
+
+* **Compatibility:** Ensure that your Ethernet cable is compatible with your gaming system, whether it be an Xbox One, PS4, or PC. Many Ethernet cables are manufactured by an [OEM](https://en.wikipedia.org/wiki/Original_equipment_manufacturer){: target="_blank"} (Original Equipment Provider) brand. If so, it should work with your system without any issues. 
+
+## Cat5e vs. Cat6 Ethernet Cables
+
+According to [Diffen.com](https://www.diffen.com/difference/Cat5e_vs_Cat6){: target="_blank"}: 
+
+<blockquote source="https://www.diffen.com/difference/Cat5e_vs_Cat6">
+	<p>Cat6 cables, also called Category 6 or Cat 6 cables, provide lower crosstalk, a higher signal-to-noise ratio, and are suitable for 10GBASE-T (10-Gigabit Ethernet), while Cat5e cables support only up to 1000BASE-T (Gigabit Ethernet). As a means of future-proofing your network, Cat6 is generally a better choice and worth the small premium in price. Cat5e and Cat6 cables are both backwards compatible, which means newer Cat6 cables can be used with older Cat5e, Cat5 and even Cat3 equipment.</p>
+</blockquote>
+
+Essentially, Cat6 cables are newer, and are capable of transferring faster than older Cat5e cables.
+
+Both cables are interchangable, and work the same way. However, Cat6 cables are newer and faster. 
+
+If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the other cables in your network to Cat6. Otherwise, your old Cat5e cables will slow down the network. 
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/xntkJ3tHtwA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ## What is Ethernet? 

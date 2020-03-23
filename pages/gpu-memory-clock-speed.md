@@ -2,7 +2,7 @@
 title: "GPU Memory Clock Speed vs GPU Core Clock Speed: What's The Difference?" 
 permalink: "/gpu-memory-clock-speed/"
 layout: page
-seotitle: "GPU Memory Clock Speed: Does it Matter? (2020)" 
+seotitle: "Difference Between Memory & Core Clock Speed (GPU)" 
 meta: "GPU memory clock speed and GPU core clock speed are often confused with one another, but they're both pretty important to consider. So, what's the difference? " 
 ---
 
@@ -39,6 +39,10 @@ So, having a higher VRAM clock speed can help your games render much faster.
 Overclocking can also be a huge factor in your graphics card performance and just like the core clock, you can overclock your GPU memory. 
 
 We always suggest overclocking to get the best possible performance out of your components.
+
+## What's The Difference Between Memory Clock and Core Clock on a GPU? 
+
+The memory clock is the speed of the VRAM on the GPU, whereas the core clock is the speed of the GPU's chip. You can compare a GPU's core clock to teh CPU clock and the RAM clock in a gaming PC. Usually core clock affects gaming performance more than memory clock does. 
 
 ## Does Memory Clock Speed Affect FPS? 
 
