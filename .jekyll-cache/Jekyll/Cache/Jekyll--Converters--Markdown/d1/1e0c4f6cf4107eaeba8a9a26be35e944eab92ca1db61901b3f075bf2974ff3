@@ -1,0 +1,146 @@
+I"%#<ul id="markdown-toc">
+  <li><a href="#wall-mounted-pc-examples" id="markdown-toc-wall-mounted-pc-examples">Wall Mounted PC Examples</a></li>
+  <li><a href="#making-your-design" id="markdown-toc-making-your-design">Making your design</a></li>
+  <li><a href="#starting-the-build-process" id="markdown-toc-starting-the-build-process">Starting The Build Process</a>    <ul>
+      <li><a href="#choosing-your-theme--materials" id="markdown-toc-choosing-your-theme--materials">Choosing Your Theme &amp; Materials</a></li>
+      <li><a href="#sourcing-your-parts" id="markdown-toc-sourcing-your-parts">Sourcing Your Parts</a></li>
+      <li><a href="#how-to-build-a-wall-mounted-pc-step-by-step" id="markdown-toc-how-to-build-a-wall-mounted-pc-step-by-step">How to Build a Wall Mounted PC (Step by Step)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Making a wall mounted PC is a super fun, unique and rewarding experience.</p>
+
+<p>It allows you to take control and produce something that really expresses your creativity.</p>
+
+<p>There are a lot of ways to make a PC truly unique from things like water-cooling to building it inside a desk.</p>
+
+<p>But, one of the easiest and coolest ways to create a PC that sticks out from the crowd is to make your computer wall mounted.</p>
+
+<p>Not only does wall mounting a PC eliminates the need for a <a href="/budget-pcs/smallest-micro-atx-cases/">case</a> which can actually save you money, it also looks badass and can add a real personal touch to your setup.</p>
+
+<p>Wall mounting a computer at first might sound like a complex and daunting task but, if you break it down into simple steps it’s something that anyone can do, no matter your experience with building computers.</p>
+
+<h2 id="wall-mounted-pc-examples">Wall Mounted PC Examples</h2>
+
+<p>The first thing to do when you start on your journey of building a wall mounted PC is to brainstorm and make a design that caters to your ideas.</p>
+
+<p>The best way to start your build is to take a look at builds that are already out there on the internet and figure out what your likes and dislikes are for each one.</p>
+
+<p>Remember, this is YOUR build so you should take ideas from everywhere and combine them into your own unique project.</p>
+
+<p>Here are some great examples for inspiration:</p>
+
+<figure>
+<img alt="example of a wall mounted PC" class="lazyload img-middle" src="/img/wall-mounted-pc/example-1.png" />
+<figcaption><p>Source: <a target="_blank" href="https://hu.pinterest.com/pin/528117493791827113/?lp=true">Daniel Vidal via Pinterest</a></p></figcaption>
+</figure>
+
+<figure>
+<img alt="another example of a wall mounted PC" class="lazyload img-middle" src="/img/wall-mounted-pc/example-2.png" />
+<figcaption><p>Source: <a target="-blank" href="https://hu.pinterest.com/pin/415316396871423317/?lp=true">Gisela Schumacher via Pinterest</a></p></figcaption>
+</figure>
+
+<figure>
+<img alt="third example of a wall mounted PC" class="lazyload img-middle" src="/img/wall-mounted-pc/example-3.png" />
+<figcaption><p>Source: <a href="https://www.reddit.com/r/buildapc/comments/3kkfo1/rustic_wallmounted_pc_build_wood_copper/">u/Bushmonk via Reddit</a></p></figcaption>
+</figure>
+
+<p>As you can tell by looking at these pictures, no two wall-mounted builds are quite the same.</p>
+
+<p>All of them have their own distinct look and feel.</p>
+
+<p>For example, the one on the bottom is made of rustic wood and some really cool metal piping to hide the cables. My personal favorite part is how he uses the giant green button as a power switch.</p>
+
+<p>In the middle, the bracket to mount it on the wall is made entirely of metal which looks amazing but is almost impossible to make with basic tools.</p>
+
+<p>A few good questions to ask yourself during the design process are:</p>
+
+<ul>
+  <li>Where are you going to mount the PC</li>
+  <li>What materials do you want to use (Metal, Wood, 3D printing)</li>
+  <li>What tools do you have to your disposal to work with</li>
+  <li>What is your overall budget</li>
+  <li>What computer components are you going to have to use/purchase</li>
+  <li>How are you planning on turning on and off the computer</li>
+  <li>How are you going to mount all the I/O for easy access</li>
+</ul>
+
+<h2 id="making-your-design">Making your design</h2>
+
+<p>Now that you have a good idea in your head of what you want it to look like it’s time to put “pen to paper” as they say and make a design for your build.</p>
+
+<p>It’s very important to make a design in some way shape or form. It doesn’t need to be perfect but even a simple drawing can save you a lot of headaches later on when you actually start the building process.</p>
+
+<p>Here are just a few details to keep in mind that a good design should include:</p>
+
+<ul>
+  <li>Everything roughly in proportion to each other (you shouldn’t have an SSD the same size as your motherboard for example)</li>
+  <li>Everything clearly labeled</li>
+  <li>Plans for the holes (or whatever other method) you’re going to use to route your cables</li>
+  <li>List of all the parts and materials you will need</li>
+</ul>
+
+<p>For some inspiration here’s the design that I drew up before building mine</p>
+
+<p><img alt="wall mounted pc design blueprint" class="lazyload img-middle" src="/img/wall-mounted-pc/design-blueprint.jpg" /></p>
+
+<p>While this plan doesn’t list the exact dimensions of every part I made sure to measure everything and make sure it was true to size.</p>
+
+<p>Another thing I included was the white circles and box that represented the cuts that I made to route my cables through.</p>
+
+<h2 id="starting-the-build-process">Starting The Build Process</h2>
+
+<p>This is the fun part, were you actually get to start turning the design that you’ve created into a reality.</p>
+
+<p>Since this step is going to look so different for everyone I’m going to be talking mostly about my own build.</p>
+
+<p>Remember that through this process SAFETY should be your number one priority. If you don’t know how to do something or need help don’t be afraid to ask someone.</p>
+
+<h3 id="choosing-your-theme--materials">Choosing Your Theme &amp; Materials</h3>
+
+<p>So to start off, I decided in my design that I wanted to create my PC with a Chicago Bears theme so that it would match the rest of my room.</p>
+
+<p>To achieve this theme I choose to use plywood as the main base.</p>
+
+<p>I think plywood can make a great option for novice builders because it’s readily available and can be cut and formed to your needs without too much work.</p>
+
+<p>Another benefit of plywood is that you can paint it to whatever color you want.</p>
+
+<h3 id="sourcing-your-parts">Sourcing Your Parts</h3>
+
+<p>So to start I ventured to my local hardware store (in my case this was Menards yours might vary). And picked out a 4’ x 8’ sheet of sanded plywood.</p>
+
+<p>While I was there I made sure to grab a can of blue paint, some paint brushes, a nice set of spade drill bits and an eight-foot furring strip.</p>
+
+<p>If you didn’t already know a furring strip is just a thin piece of wood used for a variety of things.</p>
+
+<p>In my case I’m going to screw it to the back of the plywood. So that it sticks out from the wall just far enough so the cables have somewhere to sit.</p>
+
+<p>I’m also going to mount hooks onto the other sides of the strips giving me an easy way to hang it on the wall.</p>
+
+<h3 id="how-to-build-a-wall-mounted-pc-step-by-step">How to Build a Wall Mounted PC (Step by Step)</h3>
+
+<p>Just to help speed up my explanation a little and not bore you with the details here’s a list of the steps I went through during the building process:</p>
+
+<ol>
+  <li>Cut the plywood sheet down to the proper size</li>
+  <li>Drilled all the holes for the cables to route through</li>
+  <li>Used screws to attach the furring strips to the back of the ply</li>
+  <li>Attached the hooks to the furring strips</li>
+  <li>Painted the plywood (sanded before and used 2 coats paint + primer)</li>
+  <li>Started mounting the computer parts (Used two 90 degree brackets for PSU, drilled holes for mobo standoffs and put in screws for hard drive hangers. I used fishing leaders to hang the hard drives (ik it’s redneck)</li>
+  <li>Routed all the cables for the power supply through the holes previously drilled</li>
+  <li>Added hooks to furring strips for wall mounting</li>
+  <li>Attached the cables for the power button mounted on my desk (I used a key switch so that it turned on just like a car)</li>
+  <li>Finally, I put on my bears logo decal and mounted it on the wall</li>
+</ol>
+
+<p>Here’s a picture of the final product:</p>
+
+<p><img alt="custom wall mounted PC" class="lazyload img-middle" src="/img/wall-mounted-pc/custom-wall-mounted-pc.png" /></p>
+
+<p>Now that I’ve been able to share my build with you guys I really hope it will inspire some of you to go out and do the same thing.</p>
+
+<p>Just remember to take your time, plan everything out and most important of all, have fun. Happy building to everyone!</p>
+:ET

@@ -11,8 +11,13 @@ meta: "What are some ways to improve your internet speed for gaming? After attem
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC 
-{: toc}
+<ul id="markdown-toc">
+  <li><a href="#what-is-a-good-internet-speed-for-gaming" id="markdown-toc-what-is-a-good-internet-speed-for-gaming">What is a Good Internet Speed for Gaming?</a></li>
+  <li><a href="#how-to-speed-up-your-internet-for-free" id="markdown-toc-how-to-speed-up-your-internet-for-free">How to Speed Up Your Internet For Free</a>    
+  </li>
+  <li><a href="#frequently-asked-questions" id="markdown-toc-frequently-asked-questions">Frequently Asked Questions</a>    
+  </li>
+</ul>
 
 Whether you die one off a high kill streak or are building a base, nobody likes to lag. 
 
@@ -22,7 +27,9 @@ One minute I'd be kicking butt, and the next I was screaming to my little sister
 
 I tried every trick in the book to improve my internet connection speed. Some worked, some didn't.
 
-In this article, I'm going to share my top 14 tips that'll help you improve your internet speed for gaming. These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
+In this article, I'm going to share my top 14 tips that'll help you improve your internet speed for gaming. 
+
+These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
 
 However, I'm going to address the elephant in the room:
 
@@ -34,7 +41,11 @@ But for those of you who want to improve internet speed without upgrading, you'l
 
 ## What is a Good Internet Speed for Gaming? 
 
-According to [Xfinity](https://www.xfinity.com/hub/internet/internet-speed-for-gaming){: target="_blank"}, most game console manufacturers recommend at least 3Mbps of download speed and .5 Mbps to 1Mbps of upload speed. Remember that those numbers are purely for gaming, meaning you should have more available if others are using the internet at the same time. 
+According to [Xfinity](https://www.xfinity.com/hub/internet/internet-speed-for-gaming){: target="_blank"}: 
+
+<blockquote>
+<p>Most game console manufacturers recommend at least 3Mbps of download speed and .5 Mbps to 1Mbps of upload speed. Remember that those numbers are purely for gaming, meaning you should have more available if others are using the internet at the same time.</p>
+</blockquote> 
 
 ## How to Speed Up Your Internet For Free 
 
@@ -43,6 +54,8 @@ These 14 tips are tried and true tactics. Not all of them will work for you, but
 Let's dive in: 
 
 ### Check Your Internet Speed
+<img class="img-right img-small lazyload" alt="internet speed test" data-src="/img/internet/speed-test.png" />
+
 The first thing you need to do is check your internet connection as it is, specifically when you're lagging. 
 
 You need to have a baseline number in mind before you begin optimizing your internet - this way, you'll know whether the changes are having an impact on your internet speed.
@@ -52,6 +65,7 @@ You need to have a baseline number in mind before you begin optimizing your inte
 Write down your baseline numbers and test your internet speed again after each implementation of the tips below. 
 
 ### Restart your modem and router 
+<img class="img-right img-small lazyload" alt="router restart" data-src="/img/internet/restart-router.png" />
 
 Restarting your modem and/or router should always be the first fix on your list.
 
@@ -62,6 +76,7 @@ Often when my grandma asks me to fix an issue with her computer or phone, I rest
 The same is true for your router - try restarting it before taking more drastic action. 
 
 ### Move Your Router to a Central Location 
+<img class="lazyload" alt="central router location" data-src="/img/internet/central-router.jpg" />
 
 Gaming far from your router is often a problem, especially if you're in a big house with a bunch of walls (or floors) between you and your router.
 
@@ -72,6 +87,7 @@ Moving your gaming setup closer to your router is one way to alleviate this issu
 If you place it in a central location in your home, it should distribute the WiFi signal evenly to the rooms in your house, creating a better overall experience for everyone. 
 
 ### Use a WiFi Extender  
+<img class="img-right img-small lazyload" alt="wifi extender" data-src="/img/internet/wifi-extender.jpg" />
 
 If your router is closer to your gaming setup and you've still not seen much of an impact on performance (or you can't move closer), using a WiFi extender is another solution.
 
@@ -89,7 +105,9 @@ For example, my gaming setup is literally right next to my router, but for a whi
 
 And yes, I didn't have any *problems* with WiFi nor did I lag, but after connecting with an Ethernet cable, my internet speed more than doubled, instantly. 
 
-We have an entire page on our website about gaming Ethernet cables which you can check out by clicking that link. 
+<img class="img-middle lazyload" alt="use a wired connection" data-src="/img/internet/ethernet.jpg" />
+
+We have an entire page on our website about [gaming Ethernet cables](/gaming-ethernet-cable/) which you can check out by clicking that link. 
 
 Most of the cables we feature are great for the Xbox One and Xbox One X, but they'll also work for any other gaming console (or PC) as well. 
 
@@ -113,6 +131,7 @@ You don't need the fastest Ethernet cable of all time for gaming, but you'll def
 Generally speaking, a Cat 5e or Cat 6 cable should be sufficient for gaming. 
 
 ### Use a Powerline adapter
+<img class="img-right img-small lazyload" alt="powerline adapter" data-src="/img/internet/powerline-adapters.jpg" />
 
 What if you can't run an Ethernet cable from your router to your gaming setup?
 
@@ -126,6 +145,8 @@ These bad boys make use of the existing electrical wiring in your home to send a
 
 Simply connect an Ethernet cable from your router to your Powerline adapter, and plug your Powerline adapter into the nearest power outlet. 
 
+<img class="img-middle lazyload" alt="powerline adapter in the wall" data-src="/img/internet/powerline-in-wall.jpg" />
+
 Next, plug the other Powerline adapter into an outlet near your PC, and run the other included Ethernet cable from the adapter to your PC. 
 
 The internet connection will go through your house's electrical circuitry and act like a wired connection.
@@ -133,6 +154,8 @@ The internet connection will go through your house's electrical circuitry and ac
 It's important to note, however, that while this solution is better than a wireless alternative, it's not a replacement for an actual Ethernet cable.
 
 Ethernet cables are designed for the internet, and your home's power lines are designed for electricity. 
+
+<img class="lazyload" alt="powerline diagram" data-src="/img/internet/powerline-diagram.jpg" />
 
 Ethernet is more reliable than Powerline, and Ethernet cables can transmit faster internet speeds. 
 
@@ -147,6 +170,8 @@ This shouldn't be an issue for a small home or an apartment, but large houses ma
 If you're gaming on a computer or have other computer users in the house, check them for viruses with a virus scanner. 
 
 Viruses can hide on your computer and drain precious resources away from what you're doing, thus slowing down your internet connection across all devices. 
+
+<img class="lazyload" alt="virus scan" data-src="/img/internet/virus-scan.jpg" />
 
 They're annoying and hard to find, but eliminating a virus is a great way to improve speeds. 
 
@@ -165,6 +190,7 @@ Sometimes it's not a virus that's slowing you down, but your virus detection sof
 Close them down one by one and test your internet connection speed to identify the culprit. 
 
 ### Make sure your firmware and software is up to date
+<img class="lazyload" alt="router dashboard" data-src="/img/internet/router-dashboard.png" />
 
 Most people don't know that their modem/router actually has its own software that needs to be updated on a regular basis, much like the drivers on your computer. 
 
@@ -201,6 +227,7 @@ Some things use more WiFi than others. Try to avoid downloading and streaming vi
 If possible, don't use the internet for anything else, but that may be a stretch. Still, try to preserve as much bandwidth for gaming as possible. 
 
 ### Upgrade your internet package
+<img class="lazyload" alt="router dashboard" data-src="/img/internet/slow-vs-fast.jpg" />
 
 I hate to say it, but at the end of the day, upgrading your internet package is the best way to reduce lag and improve your internet speed for gaming.
 
