@@ -31,8 +31,6 @@ In this article, I'm going to share my top 14 tips that'll help you improve your
 
 These tips actually work (I've tested them myself), and if you do all (or most of them), you should see an improvement. 
 
-<img class="img-middle lazyload" alt="internet speed is fast" data-src="/img/internet/fast.jpg" />
-
 However, I'm going to address the elephant in the room:
 
 Oftentimes the best way to improve internet speed is upgrading your internet or switching to a better provider. 
@@ -40,6 +38,10 @@ Oftentimes the best way to improve internet speed is upgrading your internet or 
 That's the solution my dad implemented after he was tired of my sister and I fighting all of the time, and it worked like a charm. 
 
 But for those of you who want to improve internet speed without upgrading, you'll find a lot of value on this page. 
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-MDzN7MHhvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## What is a Good Internet Speed for Gaming? 
 
