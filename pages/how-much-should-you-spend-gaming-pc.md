@@ -50,7 +50,7 @@ That sounds like a pretty good deal to me.
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
 
-  <p>If you want to check out the most up-to-date PC build made for 720p gaming, check out our <a ahref="/budget-pcs/400/">$400 gaming PC build guide</a>.</p>
+  <p>If you want to check out the most up-to-date PC build made for 720p gaming, check out our <a href="/budget-pcs/400/">$400 gaming PC build guide</a>.</p>
 
   <p>We've also got a full guide that'll show you exactly <a href="/budget-pcs/">how to build a gaming PC</a>, step-by-step with pictures. Check it out of you're new to building!</p>
 
