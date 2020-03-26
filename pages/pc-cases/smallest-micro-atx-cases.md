@@ -887,6 +887,19 @@ Nevertheless, micro ATX is still suitable for most people and builds.
 
 Even micro ATX cases these days have pretty spacious interiors, large enough to accommodate most PC builds. 
 
+## Like the guide?
+
+<div class="quick-tip">
+  <h4>Join Our Discord Server<i class="box-icon-spacing fab fa-discord"></i></h4>
+
+  <p>We've got an Easy PC Discord server for PC gaming enthusiasts just like you.</p>
+
+  <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
+
+  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+
+</div>
+
 ## Case Reviews
 
 This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 

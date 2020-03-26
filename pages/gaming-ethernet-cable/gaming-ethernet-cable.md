@@ -310,6 +310,19 @@ The adapters use your home's electrical wiring to send a signal. It works surpri
 
 If you're going to use a powerline adapter, I'd recommend the [TP-Link AV1000 Gigabit Powerline](https://amzn.to/2NySQAj){: target="_blank"} adapter. 
 
+## Liked the guide?
+
+<div class="quick-tip">
+  <h4>Join Our Discord Server<i class="box-icon-spacing fab fa-discord"></i></h4>
+
+  <p>We've got an Easy PC Discord server for PC gaming enthusiasts just like you.</p>
+
+  <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
+
+  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+
+</div>
+
 ## Conclusion 
 
 If you want to improve your internet connection, a Cat5e or Cat6 cable is a great way to do so. A direct connection will always be faster than a wireless connection. If you decide to buy a Cat cable, make sure it is long enough to reach your gaming setup (but not too long, or it will hurt your connection.)

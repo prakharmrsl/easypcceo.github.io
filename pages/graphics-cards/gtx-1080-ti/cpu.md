@@ -474,3 +474,16 @@ In a hyperthreaded CPU, your computer may see 12 cores while your CPU is really 
 It allows for your CPU’s cores to share resources more effectively to speed up task execution. 
 
 We should note that the virtual cores gained by hyperthreaded CPUs are no substitute for physical cores (eg. 6-cores, 12-threads vs 8-cores, no hyperthreading).
+
+## Liked the guide?
+
+<div class="quick-tip">
+  <h4>Join Our Discord Server<i class="box-icon-spacing fab fa-discord"></i></h4>
+
+  <p>We've got an Easy PC Discord server for PC gaming enthusiasts just like you.</p>
+
+  <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
+
+  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+
+</div>

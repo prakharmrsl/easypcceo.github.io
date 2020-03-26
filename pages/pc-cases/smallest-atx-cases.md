@@ -1037,6 +1037,20 @@ The case is compatible with all modern tower-style coolers, and can support a 24
 
 The HAF XB also offers [hot-swapping](https://whatis.techtarget.com/definition/hot-swap){: target="_blank"} for two hard drives, and has carrying handles on the sides which make transportation easy. 
 
+## Liked the Guide? 
+
+<div class="quick-tip">
+  <h4>Join Our Discord Server<i class="box-icon-spacing fab fa-discord"></i></h4>
+
+  <p>We've got an Easy PC Discord server for PC gaming enthusiasts just like you.</p>
+
+  <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
+
+  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+
+</div>
+
+
 ### Review Summary
 
 The case's form factor isn't for everyone, but for those looking for a small ATX case, the HAF XB is great. Oh, and you can use it as a test bench, too.
@@ -1073,3 +1087,4 @@ The case's form factor isn't for everyone, but for those looking for a small ATX
     <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
   </tr>
 </table>
+
