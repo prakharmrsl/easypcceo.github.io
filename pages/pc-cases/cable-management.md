@@ -451,7 +451,7 @@ Don't be afraid to map out your cable management plan on a piece of paper or the
 
 ### Start with the small cables 
 <figure>
-<img class="lazyload" alt="small cables" data-src="/img/cases/cable-management/small-cables.jpg" />
+<img class="lazyload" alt="small cables" data-src="/img/cases/cable-management/small-cables.png" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
@@ -482,7 +482,7 @@ Don't cable manage your SATA cables until the end!
 
 ### Rotate your fans (if necessary)
 <figure>
-<img class="lazyload" alt="rotate-fan" data-src="/img/cases/cable-management/rotate-fan.jpg" />
+<img class="lazyload" alt="rotate-fan" data-src="/img/cases/cable-management/rotate-fan.png" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
@@ -492,7 +492,7 @@ Instead of having to run your cable across the fan, mount your case fan so that 
 
 ### Hide modular power supply cables in the crevice
 <figure>
-<img class="lazyload" alt="hide modular cable" data-src="/img/cases/cable-management/hide-cables.jpg" />
+<img class="lazyload" alt="hide modular cable" data-src="/img/cases/cable-management/hide-cables.png" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
@@ -506,7 +506,7 @@ Here are some awesome cable management ideas that'll save you time and energy:
 
 ### Label your fan power cables
 <figure>
-<img class="lazyload" alt="label fan cables" data-src="/img/cases/cable-management/label-fans.jpg" />
+<img class="lazyload" alt="label fan cables" data-src="/img/cases/cable-management/label-fans.png" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
@@ -516,7 +516,7 @@ It will also help you reconfigure your RGB patterns when it's no longer obvious 
 
 ### Keep your big cables in mind 
 <figure>
-<img class="lazyload" alt="thick cable" data-src="/img/cases/cable-management/thick-cable.jpg" />
+<img class="lazyload" alt="thick cable" data-src="/img/cases/cable-management/thick-cable.png" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
