@@ -710,6 +710,7 @@ td {
     list-style-type: none;
     display: block;
     position: relative;
+    white-space: nowrap;
     @media (max-width: 1170px) {
       font-size: 16px;
       line-height: 1.8em;
@@ -2018,6 +2019,10 @@ blockquote p {
 
 .position {
   font-style: italic;
-  margin-left: 50px;
-  display: block;
+
+  @media (max-width: 768px) {
+      margin-top: -10px;
+      margin-left: 50px;
+      display: block;
+    }
 }
