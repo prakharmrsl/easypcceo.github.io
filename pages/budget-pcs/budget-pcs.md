@@ -56,20 +56,20 @@ For more on this topic, read our guide about [how much you should spend on a gam
 
 ## Budget Gaming PCs 
 
-If you want some help picking out your components, we've got a bunch of build guides ranging from $400 to $800. Check them out below: 
+If you want some help picking out your components, we've got a bunch of build guides ranging from $400 to $1000. Check them out below: 
 
 
 <div id="overview">
-<table class="basic-table table-colorful" align="center">
+<table class="basic-table" align="center">
 	<tr>
-		<th>Price</th>
+		<th>Budget</th>
 		<th>Name</th>
 		<th>Image</th>
 		<th>Build Guide</th>
 	</tr>
 	<tr>
 		<td><b>$400</b></td>
-		<td>Extreme Budget Gamer</td>
+		<td>Budget Gamer</td>
 		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
 		<td>
 		<a class="big-button" href="/budget-pcs/400/">Build Guide</a></td>
@@ -102,13 +102,13 @@ If you want some help picking out your components, we've got a bunch of build gu
 	<tr>
 		<td><b>$900</b></td>
 		<td>Ripper</td>
-		<td><img class="table-image" src="/img/budget-pcs/900/case.jpg" /></a></td>
+		<td><img class="table-image" src="/img/900/case.jpg" /></td>
 		<td><a class="big-button" href="/budget-pcs/900/">Build Guide</a></td>
 	</tr>
 	<tr>
 		<td><b>$1000</b></td>
 		<td>Beast</td>
-		<td><img class="table-image" src="/img/budget-pcs/1000/case.jpg" /></a></td>
+		<td><img class="table-image" src="/img/1000/case.jpg" /></td>
 		<td><a class="big-button" href="/budget-pcs/1000/">Build Guide</a></td>
 	</tr>
 </table>

@@ -4,6 +4,7 @@ permalink: "/pc-cases/"
 layout: page
 seotitle: "How to Choose a PC Case: Everything to Consider (2020)" 
 meta: "A lot of people have a hard time choosing the best PC case for their rig. In this guide, we're going to cover everything you need to know when choosing a case for your PC."
+redirect_from: /budget-pcs/case-fans/
 ---
 
 <div class="author-line">
@@ -219,6 +220,8 @@ Next time I buy a case (and this is my advice for you too) I'd read up on the ca
 You should consider how much space is behind the panel, how easy it is to manage cables, and where your grommets are located. 
 
 For more information on [cable management and whether or not it matters](/cable-management/), click that link to check out our full guide. 
+
+We also have a page about the [best cases for cable management](/pc-cases/cable-management/) if you want to check that out as well. 
 
 ### Sound Proofing
 <figure>

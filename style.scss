@@ -635,7 +635,7 @@ textarea[type="message"] {
 }
 
 .basic-table {
-  margin-top: 20px;
+  margin: 20px 0;
   width: 100%;
 }
 
@@ -1968,8 +1968,53 @@ blockquote p {
    }
 }
 
+.discord {
+   background: #7289da;
+   color: black; 
+   padding: 9px 20px 1px; 
+   margin-bottom: 20px;
+   border-radius: 5px;
+
+   h4 {
+    font-size: 1.5rem;
+    color: black;
+    margin-top: -1rem;
+   }
+
+   a {
+    color: #0008ff;
+   }
+}
+
 .box-link {
   color:#466db2;
   text-decoration: underline;
   cursor: pointer;
+}
+
+.quote-box {
+  background: transparent url("/img/icons/quote.png") no-repeat scroll 0 0/35px auto;
+  margin: 40px 20px 40px 20px;
+  padding: 0 0 0 60px;
+  p {
+    font-style: italic;
+  }
+}
+
+.quote-ref {
+  img {
+    height: 40px;
+    border-radius: 50%;
+    display: inline;
+    margin-right: 15px;
+    vertical-align: middle;
+  }
+
+  a {
+    font-weight: 700;
+  }
+}
+
+.position {
+  font-style: italic;
 }

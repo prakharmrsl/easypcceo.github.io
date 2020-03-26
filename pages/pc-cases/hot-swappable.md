@@ -215,7 +215,7 @@ However, considering the drive cage needs three 5.25" bays for installation, you
 
 But keep in mind, this thing has a lot more to offer. 
 
-You're going to get a good looking, robust case with terrific airflow, insanely good cable management, plenty of room inside, and a nice side panel window. 
+You're going to get a good looking, robust case with terrific airflow, insanely good [cable management](/pc-cases/cable-management/), plenty of room inside, and a nice side panel window. 
 
 This monster is best suited for an enthusiast build, since it has support for a crap load of drives, all of the different cooling options you could imagine, and several large graphics cards. 
 

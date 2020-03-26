@@ -1,0 +1,163 @@
+I"�,<div class="author-line">
+	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
+<p><img src="/img/header/cable-management.jpg" alt="cable management and airflow header" class="page-header" /></p>
+
+<ul id="markdown-toc">
+  <li><a href="#does-cable-management-matter" id="markdown-toc-does-cable-management-matter">Does Cable Management Matter?</a></li>
+  <li><a href="#why-is-cable-management-important" id="markdown-toc-why-is-cable-management-important">Why is Cable Management Important?</a></li>
+  <li><a href="#an-example-of-bad-cable-management" id="markdown-toc-an-example-of-bad-cable-management">An Example of Bad Cable Management</a></li>
+  <li><a href="#an-example-of-good-cable-management" id="markdown-toc-an-example-of-good-cable-management">An Example of Good Cable Management</a></li>
+  <li><a href="#best-cable-management-techniques" id="markdown-toc-best-cable-management-techniques">Best Cable Management Techniques</a>    <ul>
+      <li><a href="#modular-power-supply" id="markdown-toc-modular-power-supply">Modular Power Supply</a></li>
+      <li><a href="#zip-ties" id="markdown-toc-zip-ties">Zip Ties</a></li>
+      <li><a href="#side-panel-space" id="markdown-toc-side-panel-space">Side Panel Space</a></li>
+      <li><a href="#routing-holes" id="markdown-toc-routing-holes">Routing Holes</a></li>
+      <li><a href="#extra-cables" id="markdown-toc-extra-cables">Extra Cables</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>What if I told you that having sucky cable management could lead to your computer actually performing worse? Cable management may not seem very important when building your first PC, especially if it’s a budget build that doesn’t include a side panel window.</p>
+
+<p><strong>Luckily, cable management doesn’t have a huge impact on airflow when all is said and done. You’d have to do a pretty terrible job for it to really affect your PC’s airflow. But that doesn’t mean you should ignore cable management altogether.</strong></p>
+
+<h2 id="does-cable-management-matter">Does Cable Management Matter?</h2>
+
+<p>Cable management matters more for looks than it does for cooling performance, but that doesn’t mean you should ignore it.</p>
+
+<p>Poor cable management will make your PC run slightly hotter - in addition, if you don’t tidy up your cables, the inside of your gaming PC is going to look like a freaking bird’s nest.</p>
+
+<div class="vid-container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/5IPaLKzkVjE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<h2 id="why-is-cable-management-important">Why is Cable Management Important?</h2>
+
+<p>Having optimal airflow to all of your components could mean life or death for your PC, at least in the long run, as running at very high temperatures can damage your processor and/or graphics card over time.</p>
+
+<p>The importance of cable management can be outlined in two categories:</p>
+
+<ol>
+  <li>Fashion</li>
+  <li>Function</li>
+</ol>
+
+<p>If your <a href="/pc-cases/">case</a> comes rocking a side panel window, you don’t want messy cables running every which way.</p>
+
+<p>On the side of function, airflow is a very important aspect of any build.</p>
+
+<p>We recommend trying to keep your CPU and GPU temperatures around or below 70-75 C° (under load) for longevity and performance.</p>
+
+<p>While you can safely go above that to around 80-85 C°, we do not recommend running those temperatures for very long.</p>
+
+<h2 id="an-example-of-bad-cable-management">An Example of Bad Cable Management</h2>
+<p><img src="/img/cable-management/bad-cable-management.png" alt="example of bad cable management" /></p>
+
+<p>In this photo by <a href="https://www.reddit.com/r/pcmasterrace/comments/8jrq6p/my_first_build_w_suggested_improvements_staring/" target="_blank">Reddit user Swordcrafter537</a> showing off their first build, the cable management can be clearly seen.</p>
+
+<p>Now, we understand the PC community isn’t the type to criticize (haha…), but we’ve just got to take a look at this setup.</p>
+
+<p>In all honesty, we don’t even know where to start with this monstrosity.</p>
+
+<p>As you can see, this mess of cables is practically a bird’s nest and we half expect there to be a small animal lurking somewhere in the case’s depths.</p>
+
+<p>One of the most apparent issues is the CPU power cable (coming from the top left) which goes from the power supply at the bottom of the case, into the nest, and then out and <em>over</em> the CPU cooler.</p>
+
+<p>This choice of routing nearly gave our editor and aneurysm.</p>
+
+<p>The second thing we can tackle is pretty much every other cable in the case that seems to be congregated all at one location in the center.</p>
+
+<p>This mass of cables that includes SATA, motherboard power, Molex, front panel connector, and everything in between is a huge issue.</p>
+
+<p>Going back to the airflow dilemma we spoke about earlier, let’s take a look at how the airflow for this build may pan out.</p>
+
+<p>At the bottom right (or front) of the case, we have the one and only intake fane. This intake fan feeds directly into the cable bundle, a hinderance in which airflow is restricted.</p>
+
+<p>The CPU cooler, luckily, has one intake that directly hits the radiator as it’s a water cooling unit.</p>
+
+<p>The graphics card isn’t so lucky.</p>
+
+<p>The only cool air that the graphics card would receive is from that front intake fan, and the cables between that fan and the GPU will drastically affect the temperature of the GPU and in turn performance in games.</p>
+
+<h2 id="an-example-of-good-cable-management">An Example of Good Cable Management</h2>
+
+<p><img src="/img/cable-management/good-cable-management.png" alt="example of good cable management" /></p>
+
+<p>Thank you to <a href="https://www.reddit.com/r/pcmasterrace/comments/4erbjx/just_built_a_pc_for_my_friend_pretty_good_cable" target="_blank">Mocha_Bean on Reddit</a> for a great example of simple cable management that still makes the cut.</p>
+
+<p>So let’s go ahead an figure out what makes this cable management so darn good.</p>
+
+<p>One of the first noticeable differences compared to Swordcraft537’s build is the area between the graphics card and the front intake fan.</p>
+
+<p>What do you see? Empty space? Yes! Perfect, no cables to block the flow of fresh air from the front of the case to the hardworking GPU.</p>
+
+<p>Unlike the first build, Mocha_Bean’s also does not include a water cooling solution, but due to the pristine cable management, it doesn’t matter!</p>
+
+<p>With no cables in the pathway, new cool air can reach both the GPU and CPU, simultaneously cooling them.</p>
+
+<p>Delving into the Fashion factor we mentioned earlier, just look at how clean the build is. Without all the random cables everywhere it is much more aesthetically pleasing.</p>
+
+<p>Now imagine a higher-end build with even more effort put into the looks of the cable management, that sounds sexy.</p>
+
+<h2 id="best-cable-management-techniques">Best Cable Management Techniques</h2>
+
+<p>Time to take a look at specific processes you can go through to make sure your cables are managed to the best of your ability so you can have the most high-quality airflow for your new system.</p>
+
+<p>By the way, buying <a href="/pc-cases/cable-management/">a good case for cable management</a> is one of the best (and the easiest) things you can do to make your life a whole lot easier. <a href="/budget-pcs/smallest-atx-cases/">ATX cases</a> are generally your best bet when it comes to cable management (that’s our guide on the best ATX cases).</p>
+
+<p>Even some of the <a href="/budget-pcs/smallest-micro-atx-cases/">smallest micro atx cases</a> on the market have good cable management options, assuming you buy the right one.</p>
+
+<h3 id="modular-power-supply">Modular Power Supply</h3>
+<p><img src="/img/cable-management/modular-power-supply.jpg" alt="modular power supply" class="img-right img-small" /></p>
+
+<p>Using a modular power supply is a great way to improve your cable management.</p>
+
+<p>The idea behind them is as follows:</p>
+
+<p>Rather than coming with a bunch of cables already connected to the power supply, you can connect the cables you need, and leave the ones you don’t need.</p>
+
+<p>Sometimes when building with a non-modular power supply, you’ll only use 25% of the cables and have the rest dangling loose. It’s a cable management nightmare.</p>
+
+<p>On the other hand, with a modular power supply, you only use the cables you need.</p>
+
+<p>This saves both time and space, making cable management a breeze.</p>
+
+<p>If you want to know more about the differences between modular and non-modular power supplies (and the benefits of a modular PSU), check out <a href="/need-modular-power-supply/">this guide I wrote about modular power supplies</a>!</p>
+
+<h3 id="zip-ties">Zip Ties</h3>
+<p><img src="/img/cable-management/zip-ties.png" alt="zip ties" class="img-right img-small" /></p>
+
+<p>Zip ties will be your best friend when routing your cables. They make it easier to keep your cables pinned down exactly where you want them, giving a cleaner look to your build overall.</p>
+
+<p>All cases have little slots on the side of the case for zip ties to be fastened for cable management purposes.</p>
+
+<p>It’s a breeze to slide them in and tie your cables down as shown in the above picture.</p>
+
+<h3 id="side-panel-space">Side Panel Space</h3>
+<p><img src="/img/cable-management/side-panel-space.jpg" alt="side panel space for cables" class="img-right img-small" /></p>
+
+<p>Most cases have a raised area on the rear side panel that allows for easier cable management if you have larger cables or maybe just a higher number of them.</p>
+
+<p>As long as you can keep your routed cables within the raised area you should have no issues fitting all of your cables in the back where nobody will ever see them again…</p>
+
+<h3 id="routing-holes">Routing Holes</h3>
+<p><img src="/img/cable-management/routing-holes.png" alt="routing holes for cable management" class="img-right img-small" /></p>
+
+<p>Routing holes are pretty much what the name implies, holes that allow for routing. These holes are pretty mandatory for any case and they’re generally universal in shape, though some cases have rubber inlets to block any possible sight of the other side of the case.</p>
+
+<p>They’re fairly easy to use and don’t need much explanation, but designating certain types of cables to different holes can help keep your build mess-free and easy to service.</p>
+
+<p>Additionally, it’s important to buy a case that has these routing holes in the right places. Some cases don’t utilize them properly, making cable management a pain-in-the-neck.</p>
+
+<h3 id="extra-cables">Extra Cables</h3>
+<p><img src="/img/cable-management/extra-cables.png" alt="extra cables" class="img-right img-small" /></p>
+
+<p>Sometimes you may find yourself with extra cables and no idea where to put them – that’s where unused hard drive bays can come in handy.</p>
+
+<p>If you’ve got any extra empty hard drive bays, you may find that stuffing extra cables in there could be a viable alternative to letting them hang loose in the case.</p>
+
+<p>Just make sure you’re not blocking any precious airflow!</p>
+:ET

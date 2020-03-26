@@ -147,7 +147,7 @@ The case is incredibly small and can only support an SFX power supply, so a trad
 If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2IR4Mwy">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2IR4Mwy">View on Amazon</a>
 </div>
 
 ## Best Micro ATX NAS Case
@@ -273,12 +273,12 @@ However, you may have a bit of trouble cable managing all 8 of them at one time.
 
 Unfortunately, the main drawback of this case is its cable management options. 
 
-Despite having a ton of storage space for your NAS drives, [cable management](/cable-management/) may be a bit of a problem. 
+Despite having a ton of storage space for your NAS drives, [cable management](/cable-management/) may be a bit of a problem. If you want a case that has terrific cable management options, check out our guide about the [best PC cases for cable management](/pc-cases/cable-management/).
 
 All in all, this thing makes great use of space and if you're in the market for a micro ATX NAS case, the Node 804 is going to be your best bet.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/39WHtgI">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/39WHtgI">View on Amazon</a>
 </div>
 
 ## Best ATX NAS Case
@@ -381,7 +381,7 @@ I'd only recommend building your NAS in this case if you plan on using the PC fo
 I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to a smaller form factor case such as mATX or mITX, but the option is there. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">View on Amazon</a>
 </div>
 
 ## What is a NAS?

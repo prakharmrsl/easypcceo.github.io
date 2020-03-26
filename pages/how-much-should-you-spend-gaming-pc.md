@@ -26,6 +26,63 @@ While on the one hand, a student or someone who’s a bit strapped for cash may 
 
 On the other hand, someone who may have been saving up specifically for a high-end gaming PC with dreams of becoming a famous streamer might drop [$1,000USD](/budget-pcs/500/) to $2,500USD for their ultimate gaming setup.
 
+## Check Out Our Build Guides 
+
+<div id="overview">
+<table class="basic-table" align="center">
+	<tr>
+		<th>Budget</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Build Guide</th>
+	</tr>
+	<tr>
+		<td><b>$400</b></td>
+		<td>Budget Gamer</td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
+		<td>
+		<a class="big-button" href="/budget-pcs/400/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$500</b></td>
+		<td>Perfect Balance</td>
+		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/500/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$600</b></td>
+		<td>Stealth Gamer</td>
+		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/600/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$700</b></td>
+		<td>Phoenix</td>
+		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
+		<td>
+		<a class="big-button" href="/budget-pcs/700/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$800</b></td>
+		<td>Monster</td>
+		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/800/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$900</b></td>
+		<td>Ripper</td>
+		<td><img class="table-image" src="/img/900/case.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/900/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$1000</b></td>
+		<td>Beast</td>
+		<td><img class="table-image" src="/img/1000/case.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/1000/">Build Guide</a></td>
+	</tr>
+</table>
+</div>
+
 ## How Much Should You Spend to Game in 720p? 
 ![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right .img-small}
 
@@ -153,6 +210,61 @@ Sure, you could definitely go for a Titan RTX, if you’re willing to pay more t
 On the low end, you could also go for an RTX 2060, 2070, or the ‘Super’ variants of either, as well as an RX 5700 XT on AMD’s side. 
 
 None of these cards will get you near high settings (or even medium) at 60fps, but that 4K playable resolution is still technically attainable at their $400USD to $500USD price points.
+
+<div id="overview">
+<table class="basic-table" align="center">
+	<tr>
+		<th>Budget</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Build Guide</th>
+	</tr>
+	<tr>
+		<td><b>$400</b></td>
+		<td>Budget Gamer</td>
+		<td><a href="#the-extreme-budget-gamer-400"><img class="table-image" src="/img/case/fbm-x1.jpg" /></a></td>
+		<td>
+		<a class="big-button" href="/budget-pcs/400/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$500</b></td>
+		<td>Perfect Balance</td>
+		<td><a href="#the-perfect-balance-500"><img class="table-image" src="/img/case/nzxt s340.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/500/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$600</b></td>
+		<td>Stealth Gamer</td>
+		<td><a href="#the-stealth-gamer-600"><img class="table-image" src="/img/case/cuboid-r1png.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/600/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$700</b></td>
+		<td>Phoenix</td>
+		<td><a href="#the-phoenix-700"><img class="table-image" src="/img/case/bitfenix-comrade.png" /></a></td>
+		<td>
+		<a class="big-button" href="/budget-pcs/700/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$800</b></td>
+		<td>Monster</td>
+		<td><a href="#the-monster-800"><img class="table-image" src="/img/case/nzxt-s340-black.png" /></a></td>
+		<td><a class="big-button" href="/budget-pcs/800/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$900</b></td>
+		<td>Ripper</td>
+		<td><img class="table-image" src="/img/900/case.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/900/">Build Guide</a></td>
+	</tr>
+	<tr>
+		<td><b>$1000</b></td>
+		<td>Beast</td>
+		<td><img class="table-image" src="/img/1000/case.jpg" /></td>
+		<td><a class="big-button" href="/budget-pcs/1000/">Build Guide</a></td>
+	</tr>
+</table>
+</div>
 
 ## How to Save Money When Building a Gaming PC
 
