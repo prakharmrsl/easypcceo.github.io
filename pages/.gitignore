@@ -1,8 +1,0 @@
-.DS_Store
-.jekyll
-.jekyll-metadata
-.bundle
-Gemfile
-Gemfile.lock
-node_modules
-package.json
