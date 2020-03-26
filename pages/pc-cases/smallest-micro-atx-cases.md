@@ -837,7 +837,6 @@ When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your
 
 Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
-
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price</a>
 <a class="right-button cta-button learn-button" href="#rosewill-fbm-05">Read Review</a>
@@ -896,8 +895,12 @@ Even micro ATX cases these days have pretty spacious interiors, large enough to 
 
   <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
 
-  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+  <p>It's free too - hope to see you there!</p>
 
+</div>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://discord.gg/j9teBbv">Join the Server</a>
 </div>
 
 ## Case Reviews

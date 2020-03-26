@@ -484,6 +484,10 @@ We should note that the virtual cores gained by hyperthreaded CPUs are no substi
 
   <p>It's a small community, but growing! Whether you need tech support, want to show off your rig or just play some games, you can hit up the server whenever you want.</p>
 
-  <p>It's free too - click <a href="https://discord.gg/j9teBbv" target="_blank">here</a> to join. Hope to see you there!</p>
+  <p>It's free too - hope to see you there!</p>
 
+</div>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://discord.gg/j9teBbv">Join the Server</a>
 </div>
