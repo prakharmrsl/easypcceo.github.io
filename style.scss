@@ -1994,10 +1994,11 @@ blockquote p {
 
 .quote-box {
   background: transparent url("/img/icons/quote.png") no-repeat scroll 0 0/35px auto;
-  margin: 40px 20px 40px 20px;
+  margin: 40px 20px 40px 10px;
   padding: 0 0 0 60px;
   p {
     font-style: italic;
+    margin-left: -10px;
   }
 }
 
