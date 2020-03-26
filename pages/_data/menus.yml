@@ -1,0 +1,32 @@
+
+- name: Budget Gaming PCs 
+  url: /budget-pcs/
+  subcategories:
+    - subtitle: "$400 Gaming PC"
+      subhref: "/budget-pcs/400/"
+    - subtitle: "$500 Gaming PC"
+      subhref: "/budget-pcs/500/"
+    - subtitle: "$600 Gaming PC"
+      subhref: "/budget-pcs/600/"
+    - subtitle: "$700 Gaming PC"
+      subhref: "/budget-pcs/700/"
+    - subtitle: "$800 Gaming PC"
+      subhref: "/budget-pcs/800/"
+    - subtitle: "$900 Gaming PC"
+      subhref: "/budget-pcs/900/"
+    - subtitle: "$1000 Gaming PC"
+      subhref: "/budget-pcs/1000/"
+
+- name: Graphics Cards 
+  url: /graphics-cards/
+  subcategories:
+    - subtitle: "GTX 1080 Ti"
+      subhref: "/graphics-cards/gtx-1080-ti/"
+
+- name: Cases
+  url: /pc-cases/
+  subcategories:
+    - subtitle: "Cable Management Cases"
+      subhref: "/pc-cases/cable-management/"
+    - subtitle: "Hard Drive Storage Cases"
+      subhref: "/pc-cases/hard-drive-storage/"

@@ -20,7 +20,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -112,7 +112,7 @@ p {
 a {
   color: #466DB2;
   text-decoration: underline;
-	cursor: pointer;
+  cursor: pointer;
   &:hover, &:active {
     color: $blue;
   }
@@ -928,7 +928,7 @@ tr {
 
 @media (max-width: 768px) {
 #markdown-toc, .toc_list {
-	display: none;
+  display: none;
 }
 
 }
@@ -945,8 +945,8 @@ tr {
  display: block;
  color: #000;
  &:hover{
-	transform: translateY(-.1rem);
-	transition: .1s;
+  transform: translateY(-.1rem);
+  transition: .1s;
  }
 }
 
@@ -1475,7 +1475,7 @@ blockquote p {
         font-weight: bold;
       }
       span:last-child {
-	max-width: 50%;	    
+  max-width: 50%;     
       }
     }
    }
@@ -1576,8 +1576,8 @@ blockquote p {
         }
       }
    .btn.btn-centered {
-	display: flex;
-    	justify-content: center;
+  display: flex;
+      justify-content: center;
    }
      .btn {
        margin-top: 20px;
@@ -1659,7 +1659,7 @@ blockquote p {
 }
 
 .page-header {
-	margin: -15px 0 5px 0;
+  margin: -15px 0 5px 0;
 }
 
 // author box 

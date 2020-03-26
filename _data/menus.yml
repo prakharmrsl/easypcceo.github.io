@@ -25,3 +25,16 @@
 
 - name: Cases
   url: /pc-cases/
+  subcategories:
+    - subtitle: "Cable Management Cases"
+      subhref: "/pc-cases/cable-management/"
+    - subtitle: "Hard Drive Storage Cases"
+      subhref: "/pc-cases/hard-drive-storage/"
+    - subtitle: "Hot Swappable Cases"
+      subhref: "/pc-cases/hot-swappable/"
+    - subtitle: "NAS Cases"
+      subhref: "/pc-cases/nas/"
+    - subtitle: "Small ATX Cases"
+      subhref: "/pc-cases/smallest-atx-cases/"
+    - subtitle: "Small Micro ATX Cases"
+      subhref: "/pc-cases/smallest-micro-atx-cases/"
