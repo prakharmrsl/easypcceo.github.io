@@ -92,7 +92,7 @@ Given a budget of anywhere as low as [$300USD](/budget-pcs/300/) can get you a f
 
 Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720p performance and a hyperthreaded CPU all in one $60 package. 
 
-Pairing this with relatively cheap memory, storage, a power supply, and a [small micro atx case](/budget-pcs/smallest-micro-atx-cases/) or an [atx case](/budget-pcs/smallest-atx-cases/) will yield prime 720p gaming performance. 
+Pairing this with relatively cheap memory, storage, a power supply, and a [small micro atx case](/pc-cases/smallest-micro-atx-cases/) or an [atx case](/budget-pcs/smallest-atx-cases/) will yield prime 720p gaming performance. 
 
 ![how much should you spend to game in 720p](/img/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 

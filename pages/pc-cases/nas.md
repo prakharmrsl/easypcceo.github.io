@@ -156,7 +156,7 @@ The point of building a NAS is to save money, which is why the rest of the cases
 
 They're cheaper than a traditional NAS case, but still can work pretty well as a NAS system. 
 
-Using a [Micro ATX](/budget-pcs/smallest-micro-atx-cases/) NAS case is a better idea than an [ATX](/budget-pcs/smallest-atx-cases/) for most, since the point of a NAS is storing as much data as possible without taking up much room. 
+Using a [Micro ATX](/pc-cases/smallest-micro-atx-cases/) NAS case is a better idea than an [ATX](/budget-pcs/smallest-atx-cases/) for most, since the point of a NAS is storing as much data as possible without taking up much room. 
 
 That brings us to our next case: 
 

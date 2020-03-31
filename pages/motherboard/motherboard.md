@@ -79,7 +79,7 @@ The only real downside to this form factor is the sheer amount of different mATX
 
 With so many choices it can often be difficult to differentiate between what’s good and what isn’t, but generally, you can find a good quality board for around $60+ depending on the chipset.
 
-By the way, we've got an awesome guide on the smallest (and the coolest) mATX cases on the market which you can read [here](/budget-pcs/smallest-micro-atx-cases/).
+By the way, we've got an awesome guide on the smallest (and the coolest) mATX cases on the market which you can read [here](/pc-cases/smallest-micro-atx-cases/).
 
 ### ATX
 <img class="img-right img-small lazyload" alt="atx motherboard" src="/img/motherboard/atx.jpg" />

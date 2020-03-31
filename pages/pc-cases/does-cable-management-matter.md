@@ -103,7 +103,7 @@ Time to take a look at specific processes you can go through to make sure your c
 
 By the way, buying [a good case for cable management](/pc-cases/cable-management/) is one of the best (and the easiest) things you can do to make your life a whole lot easier. [ATX cases](/budget-pcs/smallest-atx-cases/) are generally your best bet when it comes to cable management (that's our guide on the best ATX cases). 
 
-Even some of the [smallest micro atx cases](/budget-pcs/smallest-micro-atx-cases/) on the market have good cable management options, assuming you buy the right one.
+Even some of the [smallest micro atx cases](/pc-cases/smallest-micro-atx-cases/) on the market have good cable management options, assuming you buy the right one.
 
 ### Modular Power Supply 
 ![modular power supply](/img/cable-management/modular-power-supply.jpg){: .img-right .img-small}
