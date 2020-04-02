@@ -2,7 +2,7 @@
 title: "Top 3 Inverted PC Cases of 2020" 
 permalink: "/pc-cases/inverted/"
 layout: page
-seotitle: "3 Best Inverted PC Case Options 2020 (Comparison)" 
+seotitle: "3 Best Inverted ATX Case Options 2020 (Comparison)" 
 meta: "If you only have enough room to put your PC on the left side of your desk, choosing a good inverted PC case is your best option."
 ---
 
