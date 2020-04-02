@@ -26,7 +26,64 @@ It's expensive but it'll save you hours of your time.
 
 Now, if you want to get your hands dirty and build your own NAS, let's dive in:
 
-## Best NAS Case
+## Top 3 Best NAS Case Options 
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>See Case</th>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2IR4Mwy">SilverStone DS380B-USA</a></td>
+    <td><a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload table-image" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2IR4Mwy">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/39WHtgI">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://amzn.to/39WHtgI"><img alt="fractal design node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/39WHtgI">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://amzn.to/2U9zkin">Silverstone Grandia GD08B</a></td>
+    <td><a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2U9zkin">View on Amazon</a></td>
+  </tr>
+</table>
+
+## What is a NAS?
+<figure>
+<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/what-is-nas.jpg" />
+<figcaption><p>Source: <a target="_blank" href="https://www.avadirect.com/blog/what-is-nas-and-why-would-you-want-one-in-your-home/">AVA Direct</a></p></figcaption>
+</figure>
+
+A NAS (Network Attached Storage) is like a personal cloud storage solution for your home or office.
+
+Typically, a NAS has multiple large capacity hard drives configured together in a NAS case, and is attached to your network. 
+
+It functions like an external hard drive, except it's *way* better than that. 
+
+Instead of needing to be plugged into your computer, you can plug your NAS into your router. Then, every device on your network can access it. 
+
+If you've ever used the network at your school, college, or work as a shared drive that's accessible no matter which computer you're using, that was a NAS server. 
+
+You can create the same thing for yourself to secure and backup your data, without having to pile up external drive after external drive. 
+
+Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over.
+
+<div class="vid-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhT-KI16jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div> 
+
+## Why You Should Build Your Own NAS 
+
+Here's why you should build your own NAS:
+
+* You'll have a better understanding of your build and what's going on. Should any issues arise, you'll be better equipped to deal with them and get things back on track smoothly. 
+* Customization is another huge benefit. You can customize your NAS to your liking, from the amount of storage to the case it's sitting in, the options are endless. 
+* Building your own NAS server will save you a lot of money, but remember, this is at the expense of your time. 
+
+## Best NAS Cases
 
 <div class="featured-info-box">
 <span>Top Pick</span>
@@ -287,7 +344,7 @@ All in all, this thing makes great use of space and if you're in the market for 
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a>
 </div>
 <div class="text">
 <h2>Silverstone Grandia GD08B</h2>
@@ -383,38 +440,6 @@ I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">View on Amazon</a>
 </div>
-
-## What is a NAS?
-<figure>
-<img class="lazyload" alt="atx nas case" data-src="/img/cases/nas/what-is-nas.jpg" />
-<figcaption><p>Source: <a target="_blank" href="https://www.avadirect.com/blog/what-is-nas-and-why-would-you-want-one-in-your-home/">AVA Direct</a></p></figcaption>
-</figure>
-
-A NAS (Network Attached Storage) is like a personal cloud storage solution for your home or office.
-
-Typically, a NAS has multiple large capacity hard drives configured together in a NAS case, and is attached to your network. 
-
-It functions like an external hard drive, except it's *way* better than that. 
-
-Instead of needing to be plugged into your computer, you can plug your NAS into your router. Then, every device on your network can access it. 
-
-If you've ever used the network at your school, college, or work as a shared drive that's accessible no matter which computer you're using, that was a NAS server. 
-
-You can create the same thing for yourself to secure and backup your data, without having to pile up external drive after external drive. 
-
-Another benefit of creating a NAS is the ability to use them on multiple devices on your network without having to plug it in over and over.
-
-<div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwhT-KI16jo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
-
-## Why You Should Build Your Own NAS 
-
-Here's why you should build your own NAS:
-
-* You'll have a better understanding of your build and what's going on. Should any issues arise, you'll be better equipped to deal with them and get things back on track smoothly. 
-* Customization is another huge benefit. You can customize your NAS to your liking, from the amount of storage to the case it's sitting in, the options are endless. 
-* Building your own NAS server will save you a lot of money, but remember, this is at the expense of your time. 
 
 ## NAS vs Cloud Storage 
 

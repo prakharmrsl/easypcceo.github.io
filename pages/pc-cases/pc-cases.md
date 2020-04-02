@@ -252,7 +252,9 @@ Luckily, many higher end cases are modular, meaning you can install or uninstall
 Want to add an optical drive? No problem. Want to add a tri-fan GPU that'll bump into your drive bays? No problem, just remove it. 
 
 Modularity isn't a necessity, but it's certainly a nice luxury to have as it helps to futureproof your build. (Although, according to [Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law){: target="_blank"}, is it even possible to future proof?)
+
 ### Aesthetics
+
 This one doesn't have much to do with the functionality of your case, but if you're like most enthusiasts, you want your case to look badass. 
 
 RGB lighting and sick designs won't impact performance, but it'll definitely make you feel a lot cooler. 
@@ -260,6 +262,10 @@ RGB lighting and sick designs won't impact performance, but it'll definitely mak
 After all, you're investing a lot of time and money into your build, so you might as well be proud to see it sitting atop your desk in all its glory.
 
 Cases come in all different shapes, sizes, colors, etc. I personally like minimalistic designs with some nice lights and a tempered glass side panel window, but this one's totally up to you. 
+
+By the way, most cases have a side panel window on the left side panel. This assumes you'll have your PC to the right of your setup so you can peer into the window and see your components.
+
+But if you have limited desk space and want a PC with a side panel window on the right, check out our guide about [inverted PC cases](/pc-cases/inverted/). It'll show you some of the coolest inverted PC cases with right side panel windows.
 
 ### Budget
 

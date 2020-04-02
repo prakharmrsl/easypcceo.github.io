@@ -533,7 +533,7 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
 <a class="right-button cta-button learn-button" href="#cooler-master-haf-xb-evo-review">Read Review</a>
 </div>
 
-<div id="core-g3" class="featured-info-box">
+<div class="featured-info-box">
 <span>Slim Pick</span>
 <div class="content">
 <div class="img">
@@ -623,13 +623,13 @@ In recent years, Thermaltake has produced many cases that are largely popular, e
 
 The Thermaltake Core G3 is no exception, offering a stylish full sized form factor without being too big and bulky. 
 
-It's also one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC. 
+This [inverted PC case](/pc-cases/inverted/) one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC. 
 
 Somehow this case can house a full sized ATX motherboard despite how slim it is. 
 
 Unfortunately, since the case is so small, cable management is a bit of an issue - that's really our only complaint about the case. 
 
-The [cable management has an impact on airflow](/cable-management/), but the case is ventilated all around, so the interior still remains cool during operation. 
+The [cable management has an impact on airflow](/pc-cases/does-cable-management-matter/), but the case is ventilated all around, so the interior still remains cool during operation. 
 
 All in all, it's a fantastic case for the money. 
 

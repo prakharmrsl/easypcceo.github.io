@@ -9,7 +9,7 @@ seotitle: "About Jacob Tuwiner & Easy PC"
 
 My name is Jacob Tuwiner. I'm the owner and creator of Easy PC, a site designed to help the new guy in the computer space. Whether you want to build your first gaming PC or your first cryptocurrency mining rig, I've got you covered.   
 
-I used to be a console gamer back in the day, until I played on my friend's gaming PC for the first time. I couldn't believe my eyes when I saw Battlefield 4 in true 1080p resolution with ultra settings, 60 FPS. I also loved raiding someone's base in Rust which is still my favorite game to this day! From that moment on I knew I had to build a gaming PC.
+I used to be a console gamer from age 9, until I played on my friend's gaming PC for the first time. I couldn't believe my eyes when I saw Battlefield 4 in true 1080p resolution with ultra settings, 60 FPS. I also loved raiding someone's base in Rust which is still my favorite game to this day! From that moment on I knew I had to build a gaming PC.
 
 ![ME](/img/profile/headshot.png){: .circle .img-right .img-small}
 
@@ -24,10 +24,6 @@ I checked everything and tried again. Nothing.
 Then I looked two more times and realized I made a novice mistake. I didn't connect the CPU power cable!
 
 I turned it on again. Bam! Everything was working properly. From that moment on I was a member of the PC gaming community. 
-
-Then I heard about Bitcoin, and I found it quite fascinating. I started researching cryptocurrencies and how they work and honestly I found the topic quite confusing at first. In fact, building my first gaming PC wasn't too easy for me either. 
-
-I figured there were plenty of other people who were in the same situation as me, and it turns out I was right. 
 
 I first made the [Easy PC YouTube channel](https://www.youtube.com/channel/UCuPW6x4ZBXR06cjmf1wOS2g){:target="_blank"} and eventually this website in order to help those just starting out. Trust me, it's a lot easier than it seems! The hardest part is getting started, and it's all down hill from there. 
 
@@ -45,6 +41,16 @@ Here are some of the PC gaming and technology websites I've contributed to:
 * [Use the Bitcoin](https://usethebitcoin.com/ethereums-switch-proof-work-proof-stake/){: target="_blank"}
 * [Medium](https://medium.com/igdb/vr-gaming-ahead-of-its-time-c9572d205230){: target="_blank"}
 
+
+### My Experience Building Computers 
+
+I've been building computers for more than 8 years now (I started when I was 12 years old). I used to tear down my PC every week and put it back together for fun (yeah, I had no life). 
+
+Now I can configure a PC in less than 30 minutes, blind folded with my hands behind my back. Okay, not really, but I can build a PC in just about 30 minutes. 
+
+I'm always looking at the latest hardware deals and staying up to date with the newest PC hardware. 
+
+With more than 8 years of PC building experience under my belt and many more to come, I've created Easy PC to share my expertise with people like you! 
 
 ### My Current PC Specs
 
