@@ -38,3 +38,5 @@
       subhref: "/pc-cases/smallest-atx-cases/"
     - subtitle: "Small Micro ATX Cases"
       subhref: "/pc-cases/smallest-micro-atx-cases/"
+    - subtitle: "Inverted PC Cases"
+      subhref: "/pc-cases/inverted/"
