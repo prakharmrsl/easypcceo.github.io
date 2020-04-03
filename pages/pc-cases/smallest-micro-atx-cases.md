@@ -61,56 +61,44 @@ It needs to be strong, good looking, and affordable.
 
 Here is a list of the smallest micro ATX cases on the market:
 
+## Top 3 Smallest Micro ATX Cases
+
 <table class="basic-table" align="center">
 	<tr>
 		<th>Case</th>
 		<th>Image</th>
+    <th>Reason</th>
 		<th>Shop</th>
 	</tr>
   <tr>
     <td>Thermaltake Core V21</td>
     <td><a target="_blank" href="https://amzn.to/3aIG5P8"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
     <td><a target="_blank" class="big-button" href="https://amzn.to/3aIG5P8">View on Amazon</a></td>
   </tr>
 	<tr>
-		<td>NZXT H400i</td>
-		<td><a target="_blank" href="https://amzn.to/347I77A"><img class="lazyload table-image" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/347I77A">View on Amazon</a></td>
-	</tr>
-	<tr>
 		<td>BitFenix Prodigy M</td>
 		<td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2YkBSL0">View on Amazon</a></td>
-	</tr>
-  <tr>
-    <td>Corsair Carbide Air 240</td>
-    <td><a target="_blank" href="https://amzn.to/2wQOi5t"><img class="lazyload table-image" alt="corsair carbide air 240" data-src="/img/case/matx/air-240.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2wQOi5t">View on Amazon</a></td>
-  </tr>
-	<tr>
-		<td>Thermaltake Level 20 VT</td>
-		<td><a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload table-image" alt="Thermaltake Level 20 VT" data-src="/img/case/matx/20-vt.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Vlqahn">View on Amazon</a></td>
-	</tr>
-	<tr>
-		<td>IN-WIN BL631</td>
-		<td><a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload table-image" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LGjJGe">View on Amazon</a></td>
-	</tr>
-	<tr>
-		<td>Nanoxia Rexgear 1</td>
-		<td><a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload table-image" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2JIqWCK">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master MasterBox Q300L</td>
 		<td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2YrFU4u">View on Amazon</a></td>
-	</tr>
-	<tr>
-		<td>Rosewill FBM-05</td>
-		<td><a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload table-image" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Q3V3po">View on Amazon</a></td>
 	</tr>
 </table>
 
