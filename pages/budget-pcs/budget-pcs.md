@@ -50,7 +50,7 @@ For a modest gaming build, we suggest a budget between $600-750USD. This will al
 
 When it comes to workstations, you’ll be pricing much higher in most cases if you plan to buy brand new parts. Buying used server hardware, though, can give you an amazing budget workstation. While we do suggest buying used parts if you want better performance in a budget, we don’t recommend it for lack of warranty.
 
-Browsing builds are easy and cheap, running you under $500 all the time for sure.
+Browsing builds are easy and cheap, running you under $500 all the time for sure. And don't forget that [buying used parts](/used-parts/) are always an option (that's our guide about building dirt cheap gaming PCs with used parts.)
 
 For more on this topic, read our guide about [how much you should spend on a gaming PC](/how-much-should-you-spend-gaming-pc/). 
 
