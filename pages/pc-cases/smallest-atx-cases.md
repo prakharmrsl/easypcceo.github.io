@@ -2,7 +2,7 @@
 title: "Best Small ATX Cases of 2020 (Slim & Compact)"
 permalink: "/pc-cases/smallest-atx-cases/"
 layout: page
-seotitle: "Top 5 Smallest ATX Case Reviews: Small & Slim (2020)" 
+seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2020)" 
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 redirect_from: /budget-pcs/smallest-atx-cases/
 ---
