@@ -118,7 +118,7 @@ If you do decide to go for Cat6 cables, you'll need to upgrade *all* of the othe
 <a target="_blank" href="https://amzn.to/2X7aOl9"><img class="lazyload" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a>
 </div>
 <div class="text">
-<h2>Mediabridge RJ45 Cat5e</h2>
+<h2>Mediabridge RJ45 Cat6</h2>
 <h3>Gaming Ethernet Cable</h3>
 <p>The <a target="_blank" href="https://amzn.to/2X7aOl9">Mediabridge RJ45 Cat5e</a> is the best Ethernet cable for the Xbox One.</p>
 <div class="btn btn-centered">
