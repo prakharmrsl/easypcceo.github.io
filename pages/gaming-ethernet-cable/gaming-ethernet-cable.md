@@ -401,6 +401,29 @@ If you're a gamer wanting to improve your connection, I'd highly recommend this 
   <a target="_blank" class="big-button-center" href="https://amzn.to/2R64ias">View on Amazon</a>
 </div>
 
+<table>
+  <tr>
+    <th>IMG</th>
+    <th>Name</th>
+    <th>Price</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2X7aOl9"><img class="lazyload table-image" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2X7aOl9">Mediabridge RJ45 Cat5e 25ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2X7aOl9">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2UYxvFA"><img class="lazyload table-image" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/rite-av.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2UYxvFA">RiteAV Cat6 50ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2UYxvFA">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2R64ias"><img class="lazyload table-image" alt="DanYee 10Ft cable CAT7" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2R64ias">DanYee Cat 7 10ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2R64ias">View on Amazon</a></td>
+  </tr>
+</table>
+
 ## What is Ethernet? 
 
 Ethernet refers to the most common LAN (Local Area Network) used today. A LAN is a connected network of computers (nodes) in a small area, such as a school or university, your home, or a data center. Ethernet is *not* wireless. Although it may seem odd that we're still using Ethernet cables in a world of wireless connectivity, Ethernet cables actually still serve an important purpose. 

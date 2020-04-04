@@ -1032,6 +1032,45 @@ Still, seriously, we beg of you, please don’t put your medium to high-end part
 <a class="right-button cta-button learn-button" href="#rosewill-fbm-05">Read Review</a>
 </div>
 
+<table class="basic-table" align="center">
+  <tr>
+    <th>Case</th>
+    <th>Image</th>
+    <th>Reason</th>
+    <th>Shop</th>
+  </tr>
+  <tr>
+    <td>Thermaltake Core V21</td>
+    <td><a target="_blank" href="https://amzn.to/3aIG5P8"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3aIG5P8">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td>BitFenix Prodigy M</td>
+    <td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2YkBSL0">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td>Cooler Master MasterBox Q300L</td>
+    <td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2YrFU4u">View on Amazon</a></td>
+  </tr>
+</table>
+
 ## A Closer Look at The Best Micro ATX Case
 
 <div class="vid-container">
