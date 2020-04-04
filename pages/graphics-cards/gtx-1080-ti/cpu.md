@@ -16,7 +16,7 @@ meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you b
 * TOC
 {: toc}
 
-Want a CPU that’ll push your FPS to the limit?
+Want a [CPU](/cpu/) that’ll push your FPS to the limit?
 
 Maybe something that’ll get you them sweet sweet CPU render times?
 

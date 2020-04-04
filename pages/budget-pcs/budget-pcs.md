@@ -24,7 +24,7 @@ Here’s what to focus on for each type of build:
 ### Gaming Build
 ![gaming PC](/img/pc-guide/gaming-pc.jpg){: .img-right .img-small}
 
-The main things to focus on when building a gaming computer are any parts that may increase your frames per second or enrich your experience in general. That could include a lot of separate parts, which is why gaming builds are usually more expensive when compared to other types.
+The main things to focus on when building a gaming computer are any parts that may increase your frames per second or enrich your experience in general. That could include a lot of separate parts, which is why gaming builds are usually more expensive when compared to other types. That's why it's important to [choose the proper CPU for your PC.](/cpu/)
 
 Your graphics card will be the main factor involved in increasing your FPS in games but don’t forget that having a slow CPU can bring down the performance of your graphics card. You also may want solid-state storage to boost your load times.
 

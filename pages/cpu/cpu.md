@@ -11,10 +11,18 @@ meta: "There is no best CPU, only the best CPU for you. That's why you're going 
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#what-is-a-cpu" id="markdown-toc-what-is-a-cpu">What is a CPU?</a></li>
+<li><a href="#how-to-get-the-best-cpu-for-your-money" id="markdown-toc-how-to-get-the-best-cpu-for-your-money">How to Get the Best CPU for Your Money</a></li>
+<li><a href="#what-will-you-use-your-cpu-for" id="markdown-toc-what-will-you-use-your-cpu-for">What Will You Use Your CPU For?</a> 
+</li>
+<li><a href="#must-know-cpu-specifications" id="markdown-toc-must-know-cpu-specifications">Must-Know CPU Specifications</a> 
+</li>
+<li><a href="#what-do-you-need-more-clock-speed-cores-or-threads" id="markdown-toc-what-do-you-need-more-clock-speed-cores-or-threads">What do You Need More: Clock Speed, Cores or Threads?</a></li>
+<li><a href="#amd-vs-intel" id="markdown-toc-amd-vs-intel">AMD vs Intel</a></li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
 
-How to Choose a CPU
 Here's the deal: 
 
 There is no such thing as the best CPU, *only the best CPU for you.*
@@ -80,7 +88,9 @@ For example, games like ARMA III are far more CPU intensive than better optimize
 Still, generally speaking, the CPU is less important than the GPU for gaming. If gaming is all you want to do, there's no need to shell out $300 for a top-of-the-line CPU like the Intel Core i9-9900K. 
 
 For most gaming builds, a mid-range i5 or better yet, Ryzen 5 is a terrific choice. 
+
 ### Creative Media Work & Streaming: $250-$350 range  
+
 <img class="lazyload" alt="streaming pc setup" src="/img/cpus/streaming.jpg" >
 
 This is where things get a bit more complicated. If you're building a dedicated streaming PC, there's no need to get an insanely powerful CPU. Assuming you have a dedicated gaming PC and another PC dedicated entirely to streaming, an i3 or Ryzen 3 CPU will get the job done just fine. If you really want to play it safe, upgrading to an i5 or Ryzen 5 is a good idea. 
@@ -338,5 +348,3 @@ For the first time AMD CPUs were not just cheaper than Intel's closest offerings
 That holds true today - if you're thinking about buying a new CPU, I'll almost always recommend a Ryzen chip over an Intel chip as they tend to have the best bang for your PC building buck. 
 
 But again, there is no "best" CPU, there is only the best CPU for you. Hopefully these CPU buying tips helped you out enough to make an informed decision. 
-
-## Conclusion 
