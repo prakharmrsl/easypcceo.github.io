@@ -1095,7 +1095,7 @@ There are three main case sizes: ATX, Micro ATX, and Mini ITX.
 
 ATX cases are the largest, followed by Micro ATX and Mini ITX, respectively. 
 
-If you're looking for a [small ATX case](/budget-pcs/smallest-atx-cases/), we happen to have a guide about that too!
+If you're looking for a [small ATX case](/budget-pcs/smallest-atx-cases/), we happen to have a guide about that, and a guide about the <a href="/smallest-mini-itx-cases/">smallest Mini-ITX cases</a> too!
 
 However, ATX cases and motherboards tend to be more expensive, as they're larger and usually have more features. 
 

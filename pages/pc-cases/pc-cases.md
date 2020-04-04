@@ -69,7 +69,7 @@ ATX motherboards are the largest of the three, followed by Micro ATX and Mini IT
 
 ATX cases are generally larger, while Mini ITX cases tend to be a bit smaller, but that's not always the case. 
 
-For example, some cases are smaller in physical dimension but can still house a full-size ATX case. Check out our guide on the [smallest ATX cases](/budget-pcs/smallest-atx-cases/) for more examples. 
+For example, some cases are smaller in physical dimension but can still house a full-size ATX case. Check out our guide on the [smallest ATX cases](/budget-pcs/smallest-atx-cases/) for more examples. Or, if you want a tiny and compact case that can fit on your desk, check out our guide on the 5 [smallest Mini-ITX cases](/pc-cases/smallest-mini-itx-cases/)!
 
 The size of your case will also have a big effect on the other components you can include, such as your graphics card, CPU cooler, hard drives, optical drives, case fans, etc. 
 

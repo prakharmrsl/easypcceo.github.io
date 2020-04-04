@@ -73,7 +73,7 @@ But first:
 
   <p>Even a small ATX case is large compared to micro ATX and mini ITX cases.</p>
 
-  <p>If you're looking for an even smaller case, check out our complete guide on the <a href="/pc-cases/smallest-micro-atx-cases/">smallest micro atx cases</a>.</p>
+  <p>If you're looking for an even smaller case, check out our complete guide on the <a href="/pc-cases/smallest-micro-atx-cases/">smallest micro atx cases</a> or the <a href="/pc-cases/smallest-itx-cases/">smallest ITX cases</a>.</p>
 
 </div>
 
