@@ -1,0 +1,129 @@
+I"Ê<div class="container-fluid">
+<p> For display with square&nbsp;<a href="https://en.wikipedia.org/wiki/Pixel" target="_blank">Pixels.</a></p>
+<div class="card">
+  <div class="card-header">Monitor Data</div>
+  <div class="card-body">
+    <div class="row">
+        <div class="col-md-3">
+            <h4>Horizontal Resolution:</h4>      
+            <h4>Vertical Resolution:</h4>      
+            <h4>Diagonal:</h4>      
+        </div>
+        <div class="col-md-6">
+            <div class="form-inline">
+                <input class="form-control" value="1600" type="number" id="txtHR" />
+                <span>&nbsp;pixles,</span> 
+                <input class="form-control" value="900" type="number" id="txtVR" /><span>&nbsp;pixles,</span>
+                <input class="form-control" value="20" type="number" id="txtDiagonal" /><span>&nbsp;inches (</span><span id="metricdiag">50.8</span><span>)</span>
+            </div>
+        </div>
+        <div class="col-md-3">
+        <h4>Megapixels:</h4><span id="mpix">1.44</span>
+        <h4>Aspect Ratio:</h4><span id="aspect">16:9</span>     
+        </div>
+    </div> 
+    <div class="text-center">
+        <input type="button" style="margin:10px" class="btn btn-info" onclick="do_dpi()" value="Calculate" />
+    </div>
+  </div>
+  <div class="card-footer">
+     <p id="result"></p>
+  </div>
+</div>
+<div style="margin:20px;"></div>
+</div>
+<script type="text/javascript">
+function round2 (i) {
+    return Math.round(i * 100) / 100;
+}
+function do_dpi () {
+    if (! document.getElementById ) {
+        alert("Your browser does not support the basic DOM API, sorry.");
+        return;
+    }
+   var x = document.getElementById('txtHR').value;
+   var y = document.getElementById('txtVR').value;
+   var diag = document.getElementById('txtDiagonal').value;
+    if (y == 0 || x == 0) return;
+    var result = calc_dpi(x,y,diag);
+    document.getElementById('metricdiag').innerHTML = round2(result.metricdiag);
+    document.getElementById('result').innerHTML =
+        '<b>Display size: </b>' + round2(result.sizex) + '" &times; ' + round2(result.sizey) + '" = ' + 
+        round2(result.area) + 'in&sup2; (' +
+        round2(result.metricsizex) + 'cm &times; ' + round2(result.metricsizey) + 'cm = ' +
+        round2(result.metricarea) + 'cm&sup2;) at ' + 
+        '<span title="Y: ' + round2(result.yppi) + '">' + round2(result.xppi) + '</span>' +
+        ' <abbr title="pixels per inch">PPI</abbr>,</br> ' +
+        '<span><b>Dot Pitch: &nbsp;</b></span>'+Math.round(result.dotpitch * 10000)/10000 +
+        'mm,<br> ' +
+        ' <abbr title="pixels per square inch"><b>PPI&sup2:&nbsp;</b></abbr>' + Math.round(result.sqppi);
+    document.getElementById('aspect').innerHTML = aspect_ratio(x,y);
+    document.getElementById('mpix').innerHTML = in_megapixels(x,y);
+}
+function calc_dpi (x,y,diag) {
+    var ratio = y/x;
+    var xd = Math.sqrt( Math.pow(diag,2) / ( 1 + Math.pow(ratio, 2) ));
+    var yd = xd * ratio;
+    var pitch = 25.4/(x/xd); // metric
+    var result = {
+        metricdiag : diag * 2.54,
+        sizex : xd,
+        sizey : yd,
+        area  : xd*yd,
+        metricsizex : 2.54*xd,
+        metricsizey : 2.54*yd,
+        metricarea : xd*yd * 2.54*2.54,
+        xppi : x/xd,
+        yppi : y/yd,
+        dotpitch : pitch,
+        sqppi : x/xd*y/yd
+    };
+    return result;
+}
+function in_megapixels (x,y) {
+    return round2(x*y/1000000);
+}
+function aspect_ratio (x,y) {
+    var car = { // common aspect ratios we recognize
+        "3:4" : 3/4,
+        "1:1" : 1,
+        "5:4" : 5/4,
+        "4:3" : 4/3,
+        "IMAX 1.43:1" : 1.43,
+        "3:2" : 3/2,
+        "5:3" : 5/3,
+        "14:9" : 14/9,
+        "16:10" : 16/10,
+        "16:9" : 16/9,
+        "17:9" : 17/9,
+        "21:9" : 21/9,
+//      "Academy ratio 1.375:1" : 1.375,
+//      "CinemaScope 2.35:1" : 2.35,
+//      "Cinemara 2.59:1" : 2.59,
+//      "Ultra Panavision 70 2.75:1" : 2.75,
+//      "MGM 65 2.76:1" : 2.76,
+    };
+    var ratio = x/y;
+    for (ratio_name in car) {
+        var r2 = car[ratio_name];
+        if (Math.abs(r2/ratio-1) < 0.016)  // 1.6% error margin is ok
+            return ratio_name;
+    }
+    // this aspect ratio is unknown.
+    if (x-0 > y-0) // "1.xx:1"
+        return round2(x/y) + ":1";
+    else
+        return "1:" + round2(y/x);
+}
+function set_mon (x, y, diag) {
+    if (x)
+        document.getElementById('txtHR').value = x;
+    if (y)
+        document.getElementById('txtVR').value = y;
+    if (diag) 
+        document.getElementById('txtDiagonal').value = diag;
+    do_dpi();
+}
+</script>
+
+:ET
