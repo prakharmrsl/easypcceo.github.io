@@ -1,12 +1,12 @@
-I"�Q<div class="author-line">
+I"�X<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
 <ul id="markdown-toc">
   <li><a href="#3-best-cpus-for-1070-graphics-card" id="markdown-toc-3-best-cpus-for-1070-graphics-card">3 Best CPUs for 1070 Graphics Card</a></li>
-  <li><a href="#how-to-choose-the-right-cpu-for-you" id="markdown-toc-how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</a></li>
   <li><a href="#gtx-1070-cpu-bottleneck" id="markdown-toc-gtx-1070-cpu-bottleneck">GTX 1070 CPU Bottleneck</a></li>
+  <li><a href="#how-to-choose-the-right-cpu-for-you" id="markdown-toc-how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</a></li>
   <li><a href="#gtx-1070-cpu-requirements" id="markdown-toc-gtx-1070-cpu-requirements">GTX 1070 CPU Requirements</a></li>
   <li><a href="#liked-the-guide" id="markdown-toc-liked-the-guide">Liked the guide?</a></li>
 </ul>
@@ -35,36 +35,52 @@
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/3bVgUJF">Intel Core i9-9900KF</a></td>
-    <td><a target="_blank" href="https://amzn.to/3bVgUJF"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3bVgUJF">Ryzen 5 1600 AF</a></td>
+    <td><a target="_blank" href="https://amzn.to/3bVgUJF"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
     <td class="components">
       <ul>
-      <li>Best Gaming CPU</li>
+      <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3bVgUJF">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3bVgUJF">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2xT1VAU">Intel Core i9-9700k</a></td>
-    <td><a target="_blank" href="https://amzn.to/2xT1VAU"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2xT1VAU">Ryzen 5 2600</a></td>
+    <td><a target="_blank" href="https://amzn.to/2xT1VAU"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/gtx-1070/r5.jpg" /></a></td>
     <td class="components">
       <ul>
-      <li>Power</li>
+      <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2xT1VAU">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2xT1VAU">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://amzn.to/34do6xP">AMD Ryzen 5 3600</a></td>
-    <td><a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a></td>
     <td class="components">
       <ul>
-      <li>Price/Performance</li>
+      <li>Performance Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/34do6xP">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/34do6xP">View on Amazon</a></td>
   </tr>
 </table>
+
+<h2 id="gtx-1070-cpu-bottleneck">GTX 1070 CPU Bottleneck</h2>
+
+<p>I’m going to start by saying if you have a 60Hz monitor, you’ll be fine with any modern Core i5 or Ryzen 5 CPU.</p>
+
+<p>That’s because they’ll all be able to hit at least 60 FPS when paired with a GTX 1070 at ultra settings in 1080p.</p>
+
+<p>So even if your CPU bottlenecks the 1070 a bit, and your FPS is stuck at 80 FPS even though you could be getting 100 FPS, the real bottleneck is your 60 Hz monitor in the first place.</p>
+
+<p>So if you’re planning on running a GTX 1070 in your rig, I’d recommend upgrading your monitor beforehand anyway.</p>
+
+<p>With that out of the way, here’s a great video that talks about CPU bottlenecks with the GTX 1070:</p>
+
+<div class="vid-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nW3dNjGaaBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1070</span>
@@ -78,7 +94,7 @@
 <p>The Ryzen 5 1600 AF is widely regarded as the best gaming CPU for the money, with the highest performance per dollar among any other CPU we've seen. The 1600 AF is the best CPU for the GTX 1070, hands down.  
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3bVgUJF">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3bVgUJF">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -198,14 +214,14 @@
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2xT1VAU"><img class="lazyload" alt="ryzen 5 2600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2xT1VAU"><img class="lazyload" alt="ryzen 5 2600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 2600</h2>
 <h3>6-Core Processor</h3>
 <p>Next on our list is the Ryzen 5 2600, a slightly more powerful (and more expensive) version of the 1600 AF. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2xT1VAU">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2xT1VAU">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -302,14 +318,14 @@
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a>
+<a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
 <h3>Performance Pick</h3>
 <p>The Ryzen 5 3600 is probably the best all around CPU of 2020 in terms of price to performance. Everyone loves the Ryzen 5 3600, gamers and non-gamers alike.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/34do6xP">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/34do6xP">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -391,7 +407,7 @@
 
 <p>Let’s start with the numbers.</p>
 
-<p>The Ryzen 5 3600 has a core clock of 3.6 GHz and a boost clock of 4.2 GHz, not to mention how well this CPU can overclock. For more information on <a href="/overclocking/cpu/">overclocking your CPU</a>, check out our guide.</p>
+<p>The Ryzen 5 3600 has a core clock of 3.6 GHz and a boost clock of 4.2 GHz, not to mention how well this CPU can overclock. For more information on <a href="/overclocking/cpu/">overclocking your CPU</a>, View on Amazon out our guide.</p>
 
 <p>Despite the R5 3600 having great clock speeds, like we mentioned in our <a href="/cpu/">guide about buying a CPU</a>, the clock speed of your CPU isn’t the end-all-be-all number to look at.</p>
 
@@ -407,7 +423,47 @@
   <a target="_blank" class="big-button-center" href="https://amzn.to/34do6xP">Read Reviews on Amazon</a>
 </div>
 
+<table class="basic-table" align="center">
+  <tr>
+    <th>CPU</th>
+    <th>Image</th>
+    <th>Benefit</th>
+    <th>See Price</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/3bVgUJF">Ryzen 5 1600 AF</a></td>
+    <td><a target="_blank" href="https://amzn.to/3bVgUJF"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3bVgUJF">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/2xT1VAU">Ryzen 5 2600</a></td>
+    <td><a target="_blank" href="https://amzn.to/2xT1VAU"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/gtx-1070/r5.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2xT1VAU">View on Amazon</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="https://amzn.to/34do6xP">AMD Ryzen 5 3600</a></td>
+    <td><a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a></td>
+    <td class="components">
+      <ul>
+      <li>Performance Pick</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/34do6xP">View on Amazon</a></td>
+  </tr>
+</table>
+
 <h2 id="how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</h2>
+<p><img class="img-right img-small lazyload" alt="how to choose the right cpu for you" data-src="/img/cpu/gtx-1070/choose.jpg" /></p>
 
 <p>As we’ve already mentioned, the “best CPU” is specific to you and your needs.</p>
 
@@ -419,25 +475,10 @@
 
 <p>Then you can determine what your budget looks like to meet your needs, and purchase a CPU accordingly.</p>
 
-<p>For more information on <a href="/cpu/">choosing the best CPU for your PC</a>, check out our guide by clicking that link.</p>
-
-<h2 id="gtx-1070-cpu-bottleneck">GTX 1070 CPU Bottleneck</h2>
-
-<p>I’m going to start by saying if you have a 60Hz monitor, you’ll be fine with any modern Core i5 or Ryzen 5 CPU.</p>
-
-<p>That’s because they’ll all be able to hit at least 60 FPS when paired with a GTX 1070 at ultra settings in 1080p.</p>
-
-<p>So even if your CPU bottlenecks the 1070 a bit, and your FPS is stuck at 80 FPS even though you could be getting 100 FPS, the real bottleneck is your 60 Hz monitor in the first place.</p>
-
-<p>So if you’re planning on running a GTX 1070 in your rig, I’d recommend upgrading your monitor beforehand anyway.</p>
-
-<p>With that out of the way, here’s a great video that talks about CPU bottlenecks with the GTX 1070:</p>
-
-<div class="vid-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/nW3dNjGaaBg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
+<p>For more information on <a href="/cpu/">choosing the best CPU for your PC</a>, View on Amazon out our guide by clicking that link.</p>
 
 <h2 id="gtx-1070-cpu-requirements">GTX 1070 CPU Requirements</h2>
+<p><img class="img-right img-small lazyload" alt="gtx 1070" data-src="/img/cpu/gtx-1070/1070.jpg" /></p>
 
 <p>The “minimum CPU” depends on how CPU-intensive and GPU-intensives games you want to play are.</p>
 
