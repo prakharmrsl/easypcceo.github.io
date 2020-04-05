@@ -79,7 +79,7 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
 <p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2020. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2r1tFQu">View on Amazon Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2r1tFQu">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -186,7 +186,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
 <p>Although it doesn’t rank as high as the 9900K or 9900KF believe me, the 9700K is no slouch when it comes to gaming and rendering workloads either.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/32b52xF">View on Amazon Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/32b52xF">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -286,7 +286,7 @@ Just as before, we have for you a couple of notes before making your purchase:
 <h3>A Cheap Processor for the 1080 Ti</h3>
 <p>Finally, my favorite topic, budget picks. This time around we’ve strayed away from the Intel theme, opting for the new Ryzen 5 3600 and its beautiful price to performance ratio.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2NyVZRW">View on Amazon Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2NyVZRW">Check Price on Amazon</a>
 </div>
 </div>
 </div>
