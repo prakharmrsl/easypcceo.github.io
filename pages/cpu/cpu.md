@@ -53,7 +53,7 @@ Don't waste your money on the best CPU around if you don't need it, and don't sk
 
 It's important to get the best bang for your buck, and that means nailing down what you want to accomplish and buying your CPU accordingly. 
 
-The best CPU for the [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/cpu/) isn't necessarily going to be the [best CPU for the GTX 1070](/cpu/gtx-1070/) - remember that.
+The best CPU for the [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/cpu/) isn't necessarily going to be the [best CPU for the GTX 1070](/cpu/gtx-1070/) or the [1060](/cpu/gtx-1060/) - remember that.
 
 Once you know what the aim of your build is, you can begin qualifying CPUs. But that doesn't mean go for the CPU with the highest clock speed, either. Instead, consider how many instructions per clock it can perform (this is going to have a much more significant impact on performance than clock speed alone.)
 

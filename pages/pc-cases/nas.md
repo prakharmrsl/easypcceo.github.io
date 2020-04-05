@@ -18,7 +18,7 @@ You're here because you want to build a [NAS](https://www.seagate.com/tech-insig
 
 Here's the deal:
 
-After building several NAS rigs myself and hours of research, I've rounded up the 5 best NAS cases I'd use again. 
+After building several NAS rigs myself and hours of research, I've rounded up the 3 best NAS cases I'd use again. 
 
 I was on a budget so I was sacrificing time to build my own NAS with PC cases — if you've got some extra money to spend and want to buy a pre-built NAS, I'd recommend the [Synology 5 Bay NAS Diskstation](https://amzn.to/2TQVcQQ){: target="_blank"}. 
 
