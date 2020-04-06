@@ -2,7 +2,7 @@
 title: "The Best CPUs for The GTX 1080 Ti" 
 permalink: "/graphics-cards/gtx-1080-ti/cpu/"
 layout: page
-seotitle: "3 Best CPUs for GTX 1080 Ti in 2020 (No Bottleneck)" 
+seotitle: "3 Best CPUs for GTX 1080 & 1080 Ti (No Bottleneck)" 
 meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you buy the right CPU for the job"
 ---
 
@@ -26,7 +26,7 @@ It's important to choose a CPU that isn't going to bottleneck your graphics card
 
 If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/2r1tFQu){: target="_blank"} is our top pick. 
 
-## 3 Best CPUs for 1080 Ti Graphics Card
+## 3 Best CPUs for 1080 & 1080 Ti Graphics Cards
 
 <table class="basic-table" align="center">
   <tr>
@@ -66,6 +66,12 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
     <td><a target="_blank" class="big-button" href="https://amzn.to/2NyVZRW">View on Amazon</a></td>
   </tr>
 </table>
+
+## Best CPU for 1080 vs 1080 Ti?
+
+A lot of people ask me for my opinion on the best CPU for the 1080 vs the 1080 Ti - the truth is, since both cards are similar in performance, the same CPU will work well for both of them.
+
+Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080. 
 
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1080 Ti</span>
@@ -175,7 +181,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
 </div>
 
 <div id="runner-up" class="featured-info-box">
-<span>Runner Up</span>
+<span>Best CPU for 1080</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/32b52xF"><img class="lazyload" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a>
@@ -283,7 +289,7 @@ Just as before, we have for you a couple of notes before making your purchase:
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
-<h3>A Cheap Processor for the 1080 Ti</h3>
+<h3>Best Budget CPU for 1080</h3>
 <p>Finally, my favorite topic, budget picks. This time around we’ve strayed away from the Intel theme, opting for the new Ryzen 5 3600 and its beautiful price to performance ratio.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2NyVZRW">Check Price on Amazon</a>
