@@ -1587,7 +1587,7 @@ blockquote p {
          padding: 10px 0 10px 0% !important;
          float: none;
          border-radius: 3px;
-         width: 80%;
+         width: 55%;
        }
      }
      h2,
@@ -1944,7 +1944,21 @@ blockquote p {
 .quick-tip {
    background: #8cc7ff66;
    color: black; 
-   padding: 9px 20px 1px; 
+   padding: 9px 20px; 
+   margin-bottom: 20px;
+   border-radius: 5px;
+
+   h4 {
+    font-size: 1.5rem;
+    color: black;
+    margin-top: -1rem;
+   }
+}
+
+.summary {
+   background: #feefb3;
+   color: black; 
+   padding: 9px 20px; 
    margin-bottom: 20px;
    border-radius: 5px;
 
@@ -2026,3 +2040,4 @@ blockquote p {
       display: block;
     }
 }
+
