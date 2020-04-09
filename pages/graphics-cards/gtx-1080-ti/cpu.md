@@ -437,6 +437,28 @@ Or maybe you don’t and you’ve already bought it. Christ, that was fast.
 
 From us to you, here are some things you should know when choosing the processor for your next build. (By the way, View on Amazon out our guide on [choosing a cpu](/cpu/) for the full writeup.)
 
+## Best CPU for Other Graphics Cards
+
+Check out our other CPU recommendations: 
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>CPU</th>
+    <th>Image</th>
+    <th>Guide</th>
+  </tr>
+  <tr>
+    <td><a href="/cpu/gtx-1070/">Best CPU for GTX 1070</a></td>
+    <td><a href="/cpu/gtx-1070/"><img class="lazyload table-image" alt="best cpu for 1070" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
+    <td><a class="big-button" href="/cpu/gtx-1070/">Read the Guide</a></td>
+  </tr>
+  <tr>
+    <td><a href="/cpu/gtx-1060/">Best CPU for GTX 1060</a></td>
+    <td><a href="/cpu/gtx-1060/"><img class="lazyload table-image" alt="best cpu for 1070" data-src="/img/cpu/gtx-1060/i5-8400.jpg" /></a></td>
+    <td><a class="big-button" href="/cpu/gtx-1060/">Read the Guide</a></td>
+  </tr>
+</table>
+
 ### Clock Speed
 <img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" />
 

@@ -1,4 +1,4 @@
-I"�T<div class="author-line">
+I"�[<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
@@ -6,8 +6,10 @@
 <p><img src="/img/header/1080ti-processors.png" alt="best cpu for 1080 ti header graphic" class="page-header" /></p>
 
 <ul id="markdown-toc">
-  <li><a href="#3-best-cpus-for-1080-ti-graphics-card" id="markdown-toc-3-best-cpus-for-1080-ti-graphics-card">3 Best CPUs for 1080 Ti Graphics Card</a></li>
-  <li><a href="#how-to-choose-the-right-cpu-for-you" id="markdown-toc-how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</a>    <ul>
+  <li><a href="#3-best-cpus-for-1080--1080-ti-graphics-cards" id="markdown-toc-3-best-cpus-for-1080--1080-ti-graphics-cards">3 Best CPUs for 1080 &amp; 1080 Ti Graphics Cards</a></li>
+  <li><a href="#best-cpu-for-1080-vs-1080-ti" id="markdown-toc-best-cpu-for-1080-vs-1080-ti">Best CPU for 1080 vs 1080 Ti?</a></li>
+  <li><a href="#how-to-choose-the-right-cpu-for-you" id="markdown-toc-how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</a></li>
+  <li><a href="#best-cpu-for-other-graphics-cards" id="markdown-toc-best-cpu-for-other-graphics-cards">Best CPU for Other Graphics Cards</a>    <ul>
       <li><a href="#clock-speed" id="markdown-toc-clock-speed">Clock Speed</a></li>
       <li><a href="#core-count" id="markdown-toc-core-count">Core Count</a></li>
       <li><a href="#hyperthreading" id="markdown-toc-hyperthreading">Hyperthreading</a></li>
@@ -26,7 +28,7 @@
 
 <p>If you’re on the hunt for the best CPU for the 1080 Ti, the <a href="https://amzn.to/2r1tFQu" target="_blank">Intel i9-9900KF</a> is our top pick.</p>
 
-<h2 id="3-best-cpus-for-1080-ti-graphics-card">3 Best CPUs for 1080 Ti Graphics Card</h2>
+<h2 id="3-best-cpus-for-1080--1080-ti-graphics-cards">3 Best CPUs for 1080 &amp; 1080 Ti Graphics Cards</h2>
 
 <table class="basic-table" align="center">
   <tr>
@@ -66,6 +68,12 @@
     <td><a target="_blank" class="big-button" href="https://amzn.to/2NyVZRW">View on Amazon</a></td>
   </tr>
 </table>
+
+<h2 id="best-cpu-for-1080-vs-1080-ti">Best CPU for 1080 vs 1080 Ti?</h2>
+
+<p>A lot of people ask me for my opinion on the best CPU for the 1080 vs the 1080 Ti - the truth is, since both cards are similar in performance, the same CPU will work well for both of them.</p>
+
+<p>Yes, the 1080 Ti is slightly more powerful than the 1080, but since <em>most</em> games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080.</p>
 
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1080 Ti</span>
@@ -177,7 +185,7 @@
 </div>
 
 <div id="runner-up" class="featured-info-box">
-<span>Runner Up</span>
+<span>Best CPU for 1080</span>
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://amzn.to/32b52xF"><img class="lazyload" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a>
@@ -287,7 +295,7 @@
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
-<h3>A Cheap Processor for the 1080 Ti</h3>
+<h3>Best Budget CPU for 1080</h3>
 <p>Finally, my favorite topic, budget picks. This time around we’ve strayed away from the Intel theme, opting for the new Ryzen 5 3600 and its beautiful price to performance ratio.</p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/2NyVZRW">Check Price on Amazon</a>
@@ -434,6 +442,28 @@
 <p>Or maybe you don’t and you’ve already bought it. Christ, that was fast.</p>
 
 <p>From us to you, here are some things you should know when choosing the processor for your next build. (By the way, View on Amazon out our guide on <a href="/cpu/">choosing a cpu</a> for the full writeup.)</p>
+
+<h2 id="best-cpu-for-other-graphics-cards">Best CPU for Other Graphics Cards</h2>
+
+<p>Check out our other CPU recommendations:</p>
+
+<table class="basic-table" align="center">
+  <tr>
+    <th>CPU</th>
+    <th>Image</th>
+    <th>Guide</th>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/cpu/gtx-1070/">Best CPU for GTX 1070</a></td>
+    <td><a target="_blank" href="/cpu/gtx-1070/"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="/cpu/gtx-1070/">Read the Guide</a></td>
+  </tr>
+  <tr>
+    <td><a target="_blank" href="/cpu/gtx-1060/">Best CPU for GTX 1060</a></td>
+    <td><a target="_blank" href="/cpu/gtx-1060/"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="/cpu/gtx-1060/">Read the Guide</a></td>
+  </tr>
+</table>
 
 <h3 id="clock-speed">Clock Speed</h3>
 <p><img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" /></p>
