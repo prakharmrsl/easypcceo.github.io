@@ -707,7 +707,7 @@ Despite being able to handle high temperatures, your parts can become damaged if
 You may find this PC airflow guide helpful: 
 
 <div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sh6F2eccMec" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qGYr2fgBB-s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 **3.** A great gaming case has room for plenty of *quiet* case fans! This goes hand-in-hand with airflow. If your case doesn't have space to add case fans, it's a no go. 
