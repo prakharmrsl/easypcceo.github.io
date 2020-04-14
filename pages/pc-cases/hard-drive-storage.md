@@ -1,5 +1,5 @@
 ---
-title: "Top PC Cases with Tons of Hard Drive Storage" 
+title: "Best Cases for Hard Drive Storage" 
 permalink: "/pc-cases/hard-drive-storage/"
 layout: page
 seotitle: "5 Best PC Cases for Hard Drive Storage (2020)" 

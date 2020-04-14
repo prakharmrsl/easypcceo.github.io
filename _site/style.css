@@ -1243,7 +1243,8 @@ td:first-child {
 
 .components {
   text-align: left;
-  padding-left: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
   line-height: 2em;
   font-weight: bold;
   letter-spacing: 0em;
@@ -2574,7 +2575,7 @@ blockquote p {
 }
 
 .tab-btn-title .tab-img {
-  width: 1.2rem;
+  width: 1.5rem;
   margin: unset;
   display: unset;
   vertical-align: middle;
@@ -2759,6 +2760,20 @@ blockquote p {
     margin-left: 50px;
     display: block;
   }
+}
+
+.disclose {
+  background: #f7f8fb !important;
+  border-radius: 4px !important;
+  font-size: .85em !important;
+  margin: 0 .7% 30px !important;
+  padding: 9px 19px !important;
+  text-align: center !important;
+  border: 2px solid #ced4e2 !important;
+  color: #616161;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
 }
 
 /*# sourceMappingURL=style.css.map */
