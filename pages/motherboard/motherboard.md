@@ -357,7 +357,7 @@ Although, DDR4 memory has become incredibly cheap these days, so I'd say it's a 
 
 ### Used Server and Workstation Hardware
 
-The used market is probably one of the best places to find discounted workstation and server hardware, as prices will continue to drop as developers push out more and more new hardware to take over as years progress. 
+The used market is probably one of the best places to find discounted workstation and [server](/game-hosts/) hardware, as prices will continue to drop as developers push out more and more new hardware to take over as years progress. 
 
 The motherboards, however, are one of the most expensive parts.
 

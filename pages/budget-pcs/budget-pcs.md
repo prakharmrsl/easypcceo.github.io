@@ -48,7 +48,7 @@ Of course, you always have a budget going into an expensive project. Whether you
 
 For a modest gaming build, we suggest a budget between $600-750USD. This will allow you to play games at high settings at a moderate FPS, or low to medium settings at high FPS. If you want a baseline 60FPS high settings build, we suggest a minimum of $1000USD. However, with sales and coupons, you could definitely lower that bar.
 
-When it comes to workstations, you’ll be pricing much higher in most cases if you plan to buy brand new parts. Buying used server hardware, though, can give you an amazing budget workstation. While we do suggest [buying used parts](/used-parts/) if you want better performance in a budget, we don’t recommend it for lack of warranty. 
+When it comes to workstations, you’ll be pricing much higher in most cases if you plan to buy brand new parts. Buying used [server](/game-hosts/) hardware, though, can give you an amazing budget workstation. While we do suggest [buying used parts](/used-parts/) if you want better performance in a budget, we don’t recommend it for lack of warranty. 
 
 Browsing builds are easy and cheap, running you under $500 all the time for sure. 
 

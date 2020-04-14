@@ -1,32 +1,34 @@
----
-title: "The Best CPUs for The GTX 1080 Ti" 
-permalink: "/graphics-cards/gtx-1080-ti/cpu/"
-layout: page
-seotitle: "3 Best CPUs for GTX 1080 & 1080 Ti (No Bottleneck)" 
-meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you buy the right CPU for the job"
----
-
-<div class="author-line">
+I"m[<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
-![best cpu for 1080 ti header graphic](/img/header/1080ti-processors.png){: .page-header}
+<p><img src="/img/header/1080ti-processors.png" alt="best cpu for 1080 ti header graphic" class="page-header" /></p>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+  <li><a href="#3-best-cpus-for-1080--1080-ti-graphics-cards" id="markdown-toc-3-best-cpus-for-1080--1080-ti-graphics-cards">3 Best CPUs for 1080 &amp; 1080 Ti Graphics Cards</a></li>
+  <li><a href="#best-cpu-for-1080-vs-1080-ti" id="markdown-toc-best-cpu-for-1080-vs-1080-ti">Best CPU for 1080 vs 1080 Ti?</a></li>
+  <li><a href="#how-to-choose-the-right-cpu-for-you" id="markdown-toc-how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</a></li>
+  <li><a href="#best-cpu-for-other-graphics-cards" id="markdown-toc-best-cpu-for-other-graphics-cards">Best CPU for Other Graphics Cards</a>    <ul>
+      <li><a href="#clock-speed" id="markdown-toc-clock-speed">Clock Speed</a></li>
+      <li><a href="#core-count" id="markdown-toc-core-count">Core Count</a></li>
+      <li><a href="#hyperthreading" id="markdown-toc-hyperthreading">Hyperthreading</a></li>
+    </ul>
+  </li>
+  <li><a href="#liked-the-guide" id="markdown-toc-liked-the-guide">Liked the guide?</a></li>
+</ul>
 
-Want a [CPU](/cpu/) that’ll push your FPS to the limit?
+<p>Want a <a href="/cpu/">CPU</a> that’ll push your FPS to the limit?</p>
 
-Maybe something that’ll get you them sweet sweet CPU render times?
+<p>Maybe something that’ll get you them sweet sweet CPU render times?</p>
 
-Or maybe you're on the hunt for a good CPU to pair with your [1080 Ti](/graphics-cards/gtx-1080-ti/) without breaking the bank. 
+<p>Or maybe you’re on the hunt for a good CPU to pair with your <a href="/graphics-cards/gtx-1080-ti/">1080 Ti</a> without breaking the bank.</p>
 
-It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it. 
+<p>It’s important to choose a CPU that isn’t going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it.</p>
 
-If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/2r1tFQu){: target="_blank"} is our top pick. 
+<p>If you’re on the hunt for the best CPU for the 1080 Ti, the <a href="https://amzn.to/2r1tFQu" target="_blank">Intel i9-9900KF</a> is our top pick.</p>
 
-## 3 Best CPUs for 1080 & 1080 Ti Graphics Cards
+<h2 id="3-best-cpus-for-1080--1080-ti-graphics-cards">3 Best CPUs for 1080 &amp; 1080 Ti Graphics Cards</h2>
 
 <table class="basic-table" align="center">
   <tr>
@@ -67,11 +69,11 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
   </tr>
 </table>
 
-## Best CPU for 1080 vs 1080 Ti?
+<h2 id="best-cpu-for-1080-vs-1080-ti">Best CPU for 1080 vs 1080 Ti?</h2>
 
-A lot of people ask me for my opinion on the best CPU for the 1080 vs the 1080 Ti - the truth is, since both cards are similar in performance, the same CPU will work well for both of them.
+<p>A lot of people ask me for my opinion on the best CPU for the 1080 vs the 1080 Ti - the truth is, since both cards are similar in performance, the same CPU will work well for both of them.</p>
 
-Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080. 
+<p>Yes, the 1080 Ti is slightly more powerful than the 1080, but since <em>most</em> games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080.</p>
 
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1080 Ti</span>
@@ -89,7 +91,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
 </div>
 </div>
 </div>
-</div> 
+</div>
 <section class="section-pros-cons">
   <div class="pros-cons-container">
     <div class="pros-container"> 
@@ -112,7 +114,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/clock.png"/><span class="tab-btn-title-margin">Clock</span>
+          <img class="tab-img" src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Clock</span>
         </div>
         <div class="tab-btn-data">
           3.6GHz 
@@ -120,7 +122,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Boost</span>
+          <img class="tab-img" src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
         </div>
         <div class="tab-btn-data">
           5GHz
@@ -128,7 +130,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/cores.png"/><span class="tab-btn-title-margin">Cores</span>
+          <img class="tab-img" src="/img/icons/cores.png" /><span class="tab-btn-title-margin">Cores</span>
         </div>
         <div class="tab-btn-data">
           8
@@ -136,7 +138,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/bulb.png"/><span class="tab-btn-title-margin">TDP</span>
+          <img class="tab-img" src="/img/icons/bulb.png" /><span class="tab-btn-title-margin">TDP</span>
         </div>
         <div class="tab-btn-data">
           95W
@@ -144,7 +146,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img" src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Coffee Lake
@@ -152,7 +154,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Cooler</span>
+          <img class="tab-img" src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Cooler</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -161,20 +163,22 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
   </div>    
 </section>
 
-Taking the number one spot on not just our list, but on benchmarks globally as well, this processor has no competitors really anywhere!
+<p>Taking the number one spot on not just our list, but on benchmarks globally as well, this processor has no competitors really anywhere!</p>
 
-The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}. 
+<p>The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz <a href="https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors" target="_blank">boost clock turbo</a>.</p>
 
-If you want to make the most out of this CPU, make sure you use the proper motherboard that supports overclocking and has the other necessary features you need for optimal performance. More on that [here](/graphics-cards/gtx-1080-ti/motherboard/). 
+<p>If you want to make the most out of this CPU, make sure you use the proper motherboard that supports overclocking and has the other necessary features you need for optimal performance. More on that <a href="/graphics-cards/gtx-1080-ti/motherboard/">here</a>.</p>
 
-No matter what, you’ll be getting the most out of this amazing processor in tackling any task you throw its way. And that’s without overclocking.
+<p>No matter what, you’ll be getting the most out of this amazing processor in tackling any task you throw its way. And that’s without overclocking.</p>
 
-There are a couple of notes you should take before purchasing one for yourself, though:
+<p>There are a couple of notes you should take before purchasing one for yourself, though:</p>
 
-* The 9900KF will cost you $5 more (on average) than the 9900K for a 1% performance increase and lack of integrated graphics
-* We suggest you only use a Z390 motherboard for this CPU, as VRM restraints on Z370 could tank your performance
-* This processor does NOT come with a cooler out-of-the-box, so you will have to buy an aftermarket cooler
-* Make sure you research your cooler before buying, as the 9900KF is a toasty monster
+<ul>
+  <li>The 9900KF will cost you $5 more (on average) than the 9900K for a 1% performance increase and lack of integrated graphics</li>
+  <li>We suggest you only use a Z390 motherboard for this CPU, as VRM restraints on Z370 could tank your performance</li>
+  <li>This processor does NOT come with a cooler out-of-the-box, so you will have to buy an aftermarket cooler</li>
+  <li>Make sure you research your cooler before buying, as the 9900KF is a toasty monster</li>
+</ul>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2r1tFQu">Read Reviews on Amazon</a>
@@ -219,7 +223,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/clock.png"/><span class="tab-btn-title-margin">Clock</span>
+          <img class="tab-img" src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Clock</span>
         </div>
         <div class="tab-btn-data">
           3.6GHz 
@@ -227,7 +231,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Boost</span>
+          <img class="tab-img" src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
         </div>
         <div class="tab-btn-data">
           4.9GHz
@@ -235,7 +239,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/cores.png"/><span class="tab-btn-title-margin">Cores</span>
+          <img class="tab-img" src="/img/icons/cores.png" /><span class="tab-btn-title-margin">Cores</span>
         </div>
         <div class="tab-btn-data">
           8
@@ -243,7 +247,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/bulb.png"/><span class="tab-btn-title-margin">TDP</span>
+          <img class="tab-img" src="/img/icons/bulb.png" /><span class="tab-btn-title-margin">TDP</span>
         </div>
         <div class="tab-btn-data">
           95W
@@ -251,7 +255,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img" src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Coffee Lake
@@ -259,7 +263,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Cooler</span>
+          <img class="tab-img" src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Cooler</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -268,14 +272,16 @@ There are a couple of notes you should take before purchasing one for yourself, 
   </div>    
 </section>
 
-Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the [threads](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html){: target="_blank"}.
+<p>Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the <a href="https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html" target="_blank">threads</a>.</p>
 
-Unlike with the 9900K vs 9900KF, the KF skew of the 9700K doesn’t offer any performance increase for practically the same cost, or even much higher from some retailers, so there’s no real point in choosing it over the version with integrated graphics.
+<p>Unlike with the 9900K vs 9900KF, the KF skew of the 9700K doesn’t offer any performance increase for practically the same cost, or even much higher from some retailers, so there’s no real point in choosing it over the version with integrated graphics.</p>
 
-Just as before, we have for you a couple of notes before making your purchase:
+<p>Just as before, we have for you a couple of notes before making your purchase:</p>
 
-* We, again, suggest a Z390 board for this chip but in this case, it’s only for overclocking. Otherwise, you should be fine.
-* If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.
+<ul>
+  <li>We, again, suggest a Z390 board for this chip but in this case, it’s only for overclocking. Otherwise, you should be fine.</li>
+  <li>If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.</li>
+</ul>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/32b52xF">Read Reviews on Amazon</a>
@@ -319,7 +325,7 @@ Just as before, we have for you a couple of notes before making your purchase:
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/clock.png"/><span class="tab-btn-title-margin">Clock</span>
+          <img class="tab-img" src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Clock</span>
         </div>
         <div class="tab-btn-data">
           3.6GHz 
@@ -327,7 +333,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Boost</span>
+          <img class="tab-img" src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
         </div>
         <div class="tab-btn-data">
           4.2GHz
@@ -335,7 +341,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/cores.png"/><span class="tab-btn-title-margin">Cores</span>
+          <img class="tab-img" src="/img/icons/cores.png" /><span class="tab-btn-title-margin">Cores</span>
         </div>
         <div class="tab-btn-data">
           6
@@ -343,7 +349,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/bulb.png"/><span class="tab-btn-title-margin">TDP</span>
+          <img class="tab-img" src="/img/icons/bulb.png" /><span class="tab-btn-title-margin">TDP</span>
         </div>
         <div class="tab-btn-data">
           65W
@@ -351,7 +357,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img" src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Zen 2
@@ -359,7 +365,7 @@ Just as before, we have for you a couple of notes before making your purchase:
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Cooler</span>
+          <img class="tab-img" src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Cooler</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -368,19 +374,19 @@ Just as before, we have for you a couple of notes before making your purchase:
   </div>    
 </section>
 
-If you were to ask me personally, this CPU is always my choice for price to performance and I will always suggest it without fail. 
+<p>If you were to ask me personally, this CPU is always my choice for price to performance and I will always suggest it without fail.</p>
 
-You might wonder “Why not the 3600X, it performs better” and I say sit down, shut up, and listen.
+<p>You might wonder “Why not the 3600X, it performs better” and I say sit down, shut up, and listen.</p>
 
-Ranking number 25 on the top CPUs in performance, the 3600 offers performance other CPUs could only dream of at this price point.
+<p>Ranking number 25 on the top CPUs in performance, the 3600 offers performance other CPUs could only dream of at this price point.</p>
 
-Think about this: 
+<p>Think about this:</p>
 
-For less than the price of a single i9-9900KF, you can buy an AMD Ryzen 5 3600, 16GB of DDR4-3000MHz or 3200MHz memory, and an X570 chipset motherboard all brand new. That’s just freakin’ crazy!
+<p>For less than the price of a single i9-9900KF, you can buy an AMD Ryzen 5 3600, 16GB of DDR4-3000MHz or 3200MHz memory, and an X570 chipset motherboard all brand new. That’s just freakin’ crazy!</p>
 
-Now, if you’re comparing performance to our previous picks it does fall a bit short, offering only 6 cores and 12 threads at a base of 3.6GHz and a max turbo of 4.2GHz.
+<p>Now, if you’re comparing performance to our previous picks it does fall a bit short, offering only 6 cores and 12 threads at a base of 3.6GHz and a max turbo of 4.2GHz.</p>
 
-But just like our other picks, this chip can overclock, and that’s where you’ll find the best of this budget CPU. The overclocking potential of the 3600 is unbelievable, especially on an X570 board.
+<p>But just like our other picks, this chip can overclock, and that’s where you’ll find the best of this budget CPU. The overclocking potential of the 3600 is unbelievable, especially on an X570 board.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2NyVZRW">Read Reviews on Amazon</a>
@@ -425,21 +431,21 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	</tr>
 </table>
 
-## How to Choose the Right CPU for You
+<h2 id="how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</h2>
 
 <div class="vid-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/i2z6Da0yDL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/i2z6Da0yDL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab. 
+<p>Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab.</p>
 
-Or maybe you don’t and you’ve already bought it. Christ, that was fast.
+<p>Or maybe you don’t and you’ve already bought it. Christ, that was fast.</p>
 
-From us to you, here are some things you should know when choosing the processor for your next build. (By the way, View on Amazon out our guide on [choosing a cpu](/cpu/) for the full writeup.)
+<p>From us to you, here are some things you should know when choosing the processor for your next build. (By the way, View on Amazon out our guide on <a href="/cpu/">choosing a cpu</a> for the full writeup.)</p>
 
-## Best CPU for Other Graphics Cards
+<h2 id="best-cpu-for-other-graphics-cards">Best CPU for Other Graphics Cards</h2>
 
-Check out our other CPU recommendations: 
+<p>Check out our other CPU recommendations:</p>
 
 <table class="basic-table" align="center">
   <tr>
@@ -459,51 +465,51 @@ Check out our other CPU recommendations:
   </tr>
 </table>
 
-### Clock Speed
-<img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" />
+<h3 id="clock-speed">Clock Speed</h3>
+<p><img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" /></p>
 
-The clock speed of a processor is the speed at which it can complete its given tasks. 
+<p>The clock speed of a processor is the speed at which it can complete its given tasks.</p>
 
-Meaning your processor has a set amount of time to execute each instruction it’s given, measured in Gigahertz (GHz) nowadays, but used to be measured in Megahertz (MHz). 
+<p>Meaning your processor has a set amount of time to execute each instruction it’s given, measured in Gigahertz (GHz) nowadays, but used to be measured in Megahertz (MHz).</p>
 
-This, of course, means that the CPU can complete more instructions the higher the clock speed is.
+<p>This, of course, means that the CPU can complete more instructions the higher the clock speed is.</p>
 
-In short, a higher clock is usually better in most cases, and processes like overclocking can boost your CPU’s clock speed higher than its factory setting. 
+<p>In short, a higher clock is usually better in most cases, and processes like overclocking can boost your CPU’s clock speed higher than its factory setting.</p>
 
-Though, as your CPU speed gets higher, it might require more power and output more heat as a result.
+<p>Though, as your CPU speed gets higher, it might require more power and output more heat as a result.</p>
 
-But clock speed isn’t the only thing that determines how fast a processor is.
+<p>But clock speed isn’t the only thing that determines how fast a processor is.</p>
 
-### Core Count
-<img class="lazyload img-small img-right" alt="core count" data-src="/img/cpu/core-count.jpg" />
+<h3 id="core-count">Core Count</h3>
+<p><img class="lazyload img-small img-right" alt="core count" data-src="/img/cpu/core-count.jpg" /></p>
 
-As confusing as it may sound, cores are basically individual processing units. 
+<p>As confusing as it may sound, cores are basically individual processing units.</p>
 
-So a CPU (Central Processing Unit) may have 2, 4, 6, or even 8 individual processing units, or cores, within its walls.
+<p>So a CPU (Central Processing Unit) may have 2, 4, 6, or even 8 individual processing units, or cores, within its walls.</p>
 
-The odd naming scheme stems from the fact that originally, processors only had one core, and all instructions went through that single processing unit. 
+<p>The odd naming scheme stems from the fact that originally, processors only had one core, and all instructions went through that single processing unit.</p>
 
-Though, as manufacturers started to realize, they could cram more units onto a single silicon die to increase performance, resulting in the up to 64-core [server](/game-hosts/) processors of today.
+<p>Though, as manufacturers started to realize, they could cram more units onto a single silicon die to increase performance, resulting in the up to 64-core <a href="/game-hosts/">server</a> processors of today.</p>
 
-You’re going to hear the word “usually” a lot here because there are many other architectural factors that play into CPU performance that we don’t have space to cover at the moment, but oh well.
+<p>You’re going to hear the word “usually” a lot here because there are many other architectural factors that play into CPU performance that we don’t have space to cover at the moment, but oh well.</p>
 
-Usually, a higher core count plus a higher clock speed means better performance, but that depends on the field.
+<p>Usually, a higher core count plus a higher clock speed means better performance, but that depends on the field.</p>
 
-For example, a higher core count processor will handle rendering and video editing tasks a lot better than a lower core count processor, but some lower core count processors might help you get a higher FPS boost in games since many games don’t utilize most of your CPU cores.
+<p>For example, a higher core count processor will handle rendering and video editing tasks a lot better than a lower core count processor, but some lower core count processors might help you get a higher FPS boost in games since many games don’t utilize most of your CPU cores.</p>
 
-### Hyperthreading
+<h3 id="hyperthreading">Hyperthreading</h3>
 
-Hyperthreading is a little neat trick that Intel came up with back in 2002 that’s managed to not only survive but become commonplace almost two decades into the future.
+<p>Hyperthreading is a little neat trick that Intel came up with back in 2002 that’s managed to not only survive but become commonplace almost two decades into the future.</p>
 
-What hyperthreading does is essentially trick the computer into thinking it has a lot more cores than it actually does. 
+<p>What hyperthreading does is essentially trick the computer into thinking it has a lot more cores than it actually does.</p>
 
-In a hyperthreaded CPU, your computer may see 12 cores while your CPU is really only packing 6 physical cores.
+<p>In a hyperthreaded CPU, your computer may see 12 cores while your CPU is really only packing 6 physical cores.</p>
 
-It allows for your CPU’s cores to share resources more effectively to speed up task execution. 
+<p>It allows for your CPU’s cores to share resources more effectively to speed up task execution.</p>
 
-We should note that the virtual cores gained by hyperthreaded CPUs are no substitute for physical cores (eg. 6-cores, 12-threads vs 8-cores, no hyperthreading).
+<p>We should note that the virtual cores gained by hyperthreaded CPUs are no substitute for physical cores (eg. 6-cores, 12-threads vs 8-cores, no hyperthreading).</p>
 
-## Liked the guide?
+<h2 id="liked-the-guide">Liked the guide?</h2>
 
 <div class="quick-tip">
   <h4>Join Our Discord Server<i class="box-icon-spacing fab fa-discord"></i></h4>
@@ -519,3 +525,4 @@ We should note that the virtual cores gained by hyperthreaded CPUs are no substi
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://discord.gg/j9teBbv">Join the Server</a>
 </div>
+:ET

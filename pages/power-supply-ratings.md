@@ -83,7 +83,7 @@ Now we’re getting up to the high-end ratings, starting with the amazing feat o
 
 When looking for your next power supply, it’s highly unlikely that you’ll be needing a Platinum-rated PSU anytime soon. Unless you really think those power savings will be worth it.
 
-Platinum and Titanium-rated power supplies are usually reserved for the server space since their efficiency and redundancy are basically unmatched but at a great cost, with Platinum-rated power supplies regularly reaching over $200USD.
+Platinum and Titanium-rated power supplies are usually reserved for the [server](/game-hosts/) space since their efficiency and redundancy are basically unmatched but at a great cost, with Platinum-rated power supplies regularly reaching over $200USD.
 
 Platinum-rated power supplies are rated for 90% efficiency at 20% load, 92% efficiency at 50% load, and oddly enough 89% at 100% load for whatever reason.
 

@@ -65,7 +65,9 @@ It functions like an external hard drive, except it's *way* better than that.
 
 Instead of needing to be plugged into your computer, you can plug your NAS into your router. Then, every device on your network can access it. 
 
-If you've ever used the network at your school, college, or work as a shared drive that's accessible no matter which computer you're using, that was a NAS server. 
+If you've ever used the network at your school, college, or work as a shared drive that's accessible no matter which computer you're using, that was a NAS server.
+
+In addition to storing files, you can use a NAS for [game hosting](/game-hosts/) as well. 
 
 You can create the same thing for yourself to secure and backup your data, without having to pile up external drive after external drive. 
 

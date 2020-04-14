@@ -453,7 +453,7 @@ If you have a wired Ethernet cable, connection interference is not an issue. You
 
 Let's break these points down: 
 
-**Cost:** Ethernet cables can be expensive, and depending on the complexity of your network, they can be *very* expensive. If you merely want one gaming Ethernet cable for your PS4 or PC, it won't be costly at all. On the other hand, if you're the owner of a business – large or small – you'll need modems, firewalls, servers, and you'll probably have to pay someone to install it for you as well. 
+**Cost:** Ethernet cables can be expensive, and depending on the complexity of your network, they can be *very* expensive. If you merely want one gaming Ethernet cable for your PS4 or PC, it won't be costly at all. On the other hand, if you're the owner of a business – large or small – you'll need modems, firewalls, [servers](/game-hosts/), and you'll probably have to pay someone to install it for you as well. 
 
 **Mobility:** If you're using WiFi, you can walk freely about your home or business while accessing the internet. It's incredibly convenient, and we often take this for granted. If you're using a wired connection, you won't be able to move around. Lastly, portable devices such as tablets, smartphones, netbooks and e-readers don't come equipped with Ethernet ports. 
 
