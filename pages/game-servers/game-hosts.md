@@ -346,7 +346,7 @@ Host Havoc has a 99.9% uptime guarantee, and in my experience, it's been 100%. T
 
 I've not had any issues with them (so far), and I highly recommend them to anyone looking for a gaming server. Whether you want to play Rust, ARK, Minecraft, or any of the other 25 games they offer, you can't go wrong here.
 
-Click the red button below to check them our, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/)
+Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>

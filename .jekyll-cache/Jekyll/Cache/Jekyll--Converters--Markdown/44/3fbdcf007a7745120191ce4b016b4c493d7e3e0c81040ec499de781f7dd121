@@ -1,0 +1,179 @@
+I"�<div class="author-line">
+    <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
+    <span>Jacob Tuwiner</span>
+</div>
+
+<h2 id="rust-crashing-fixes">Rust Crashing Fixes</h2>
+
+<p>There are quite a few different reasons that your game could crash when attempting to join a server:</p>
+
+<ul>
+  <li>Outdated Graphics Drivers</li>
+  <li>Outdated Steam Client</li>
+  <li>Low Virtual Memory</li>
+  <li>Missing game files</li>
+  <li>Discord overlay sometimes causes crashes</li>
+</ul>
+
+<p>Whatever your issue may be, we’ve got the solution for you.</p>
+
+<p>Try each one of these in order until Rust stops crashing.</p>
+
+<h3 id="increase-your-virtual-memory-limit">Increase Your Virtual Memory Limit</h3>
+
+<p>This is one of the most common fixes for Rust crashing, although not as simple as some of the other options.</p>
+
+<p>Note: This will require a system restart.</p>
+
+<ul>
+  <li>
+    <p>Open file manager and right-click This PC</p>
+  </li>
+  <li>
+    <p>Go to Advanced system settings in the top right</p>
+  </li>
+  <li>
+    <p>Under performance, go to settings</p>
+  </li>
+  <li>
+    <p>Select Advanced at the top</p>
+  </li>
+  <li>
+    <p>Select Change under Virtual memory</p>
+  </li>
+  <li>
+    <p>Deselect Automatically manage paging file size for all drives</p>
+  </li>
+  <li>
+    <p>Click on your drive and go to Custom size</p>
+  </li>
+  <li>
+    <p>Look at the Currently allocated amount, add 2048 to it, and type the resulting number into both Initial size and Maximum size</p>
+  </li>
+  <li>
+    <p>Click set, OK, OK again, then Apply</p>
+  </li>
+  <li>
+    <p>Restart Windows and try running Rust</p>
+  </li>
+</ul>
+
+<h2 id="updating-your-graphics-drivers">Updating Your Graphics Drivers</h2>
+
+<p>Outdated graphics drivers are a lot more common of a problem, but they’re generally the easiest fix you can do and you might as well update them anyway. You might actually get better performance in all of your games.</p>
+
+<h3 id="nvidia">Nvidia</h3>
+<p><img class="lazyload" alt="geforce drivers" data-src="/img/game-hosts/rust/crashing/geforce-drivers.png" /></p>
+
+<ul>
+  <li>
+    <p>Install the <a href="https://www.nvidia.com/en-us/geforce/geforce-experience/download/">Nvidia GeForce Experience</a> application if you haven’t already</p>
+  </li>
+  <li>
+    <p>Once installed, open the application and make an account or login</p>
+  </li>
+  <li>
+    <p>Click on the Drivers tab and select Check for Updates</p>
+  </li>
+</ul>
+
+<h3 id="amd">AMD</h3>
+
+<ul>
+  <li>
+    <p>Download and install the <a href="https://www.amd.com/en/support">AMD Auto Detect and Install</a> tool (scroll down on the page)</p>
+  </li>
+  <li>
+    <p>Once installed run the application and click Install</p>
+  </li>
+  <li>
+    <p>When it’s finished it will automatically detect your graphics card</p>
+  </li>
+  <li>
+    <p>After detecting the drivers, it will prompt you to select a version</p>
+  </li>
+  <li>
+    <p>Select the Recommended Version and hit Install</p>
+  </li>
+</ul>
+
+<h2 id="try-running-in-directx-9">Try Running in DirectX 9</h2>
+
+<p>Your game might take a very small hit in performance with this method, but it’s not a difference that’s noticeable by most people and you want to get to playing Rust already right?</p>
+
+<ul>
+  <li>
+    <p>Start Steam, navigate to your library, and find Rust</p>
+  </li>
+  <li>
+    <p>Right-click Rust and select Properties</p>
+  </li>
+  <li>
+    <p>Select Set Launch Options</p>
+  </li>
+  <li>
+    <p>Type “-dx9”</p>
+  </li>
+  <li>
+    <p>Try launching again</p>
+  </li>
+</ul>
+
+<h2 id="opt-out-of-steam-beta-participation">Opt Out of Steam Beta Participation</h2>
+
+<p>Some users might have opted into Steam’s beta program in the past but forgot. Steam’s Beta Participation program allows you to test new updates for games before they get rolled out to the majority of players. This can, of course, lead to some unstable build installations.</p>
+
+<ul>
+  <li>
+    <p>Start Steam</p>
+  </li>
+  <li>
+    <p>In the top left, click Steam, then go into Settings</p>
+  </li>
+  <li>
+    <p>If you are participating in Steam Beta, click CHANGE</p>
+  </li>
+  <li>
+    <p>Open the drop down menu and select “NONE - Opt out of all beta programs”</p>
+  </li>
+  <li>
+    <p>Hit OK and restart Steam</p>
+  </li>
+</ul>
+
+<h2 id="rust-game-requirements">Rust Game Requirements</h2>
+
+<p>If all of the solutions above aren’t working, your PC might not be powerful enough to run the game.</p>
+
+<p>Here are Rust’s minimum requirements according to the <a href="https://store.steampowered.com/app/252490/Rust/" target="_blank">Steam page</a>:</p>
+
+<ul>
+  <li>OS: 64-bit processor and operating system</li>
+  <li>CPU: Intel Core i7-3770 / AMD FX-9590 or better</li>
+  <li>Memory: 10 GB RAM</li>
+  <li>Graphics: GTX 670 2GB / AMD R9 280 better</li>
+  <li>DirectX: Version 11</li>
+  <li>Network: Broadband Internet connection</li>
+  <li>Storage: 20 GB available space</li>
+  <li>Additional Notes: SSD is highly recommended or expect longer than average load times.</li>
+</ul>
+
+<p>But remember, <em>that’s just the bare minimum</em>. For ideal performance, these are the recommended specs:</p>
+
+<ul>
+  <li>OS: 64-bit processor and operating system</li>
+  <li>CPU: Intel Core i7-4690K / AMD Ryzen 5 1600</li>
+  <li>Memory: 16 GB RAM</li>
+  <li>GPU: GTX 980 / AMD R9 Fury</li>
+  <li>DirectX: Version 12</li>
+  <li>Network: Broadband Internet connection</li>
+  <li>Storage: 20 GB available space</li>
+  <li>Additional Notes: SSD is highly recommended.</li>
+</ul>
+
+<h2 id="rust-still-crashing-when-joining-server">Rust Still Crashing When Joining Server?</h2>
+
+<p>If Rust is still crashing when joining a server, well, sorry bro.</p>
+
+<p>You can <a href="/contact/">contact me</a> for additional help :)</p>
+:ET
