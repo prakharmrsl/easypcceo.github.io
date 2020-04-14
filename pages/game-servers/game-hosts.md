@@ -54,7 +54,7 @@ This table compares some of the most popular game server hosting companies:
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -66,7 +66,7 @@ This table compares some of the most popular game server hosting companies:
   </tr>
   <tr>
       <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>A+ Performance</li>
@@ -78,7 +78,7 @@ This table compares some of the most popular game server hosting companies:
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
     <td class="components">
       <ul>
       <li>Reliable</li>
@@ -183,7 +183,7 @@ As you can (hopefully) see, the advantages of dedicated game servers far outweig
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -195,7 +195,7 @@ As you can (hopefully) see, the advantages of dedicated game servers far outweig
   </tr>
   <tr>
       <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>A+ Performance</li>
@@ -207,7 +207,7 @@ As you can (hopefully) see, the advantages of dedicated game servers far outweig
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
     <td class="components">
       <ul>
       <li>Reliable</li>
