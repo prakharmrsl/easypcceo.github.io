@@ -344,7 +344,7 @@ And while their control panel is incredibly easy to use (another great feature o
 
 Host Havoc has a 99.9% uptime guarantee, and in my experience, it's been 100%. The only time my server went down was game related, not Host Havoc related (which I found out after their support team helped me.)
 
-I've not had any issues with them (so far), and I highly recommend them to anyone looking for a gaming server. Whether you want to play Rust, ARK, Minecraft, or any of the other 25 games they offer, you can't go wrong here.
+I've not had any issues with them (so far), and I highly recommend them to anyone looking for a gaming server. Whether you want to play Rust, ARK, Minecraft, or any of the other 25 games they offer (including [Terraria](/game-hosts/terraria/)), you can't go wrong here.
 
 Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
 

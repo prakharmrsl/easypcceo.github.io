@@ -835,6 +835,8 @@ Of course, more features will cost more money, but you may find the increased co
 
 The first thing to look at is available slots/players. Most providers increase price linearly with each additional slot, though some may offer bulk discounts. 
 
+Some providers will cover more games than others. For example, Gameserverkings covers popular games like [Rust](/game-hosts/rust/) and Terraria, but lacks on the smaller titles.
+
 Another important characteristic to consider is server locations. If you and your friends/other players are located far from the server, you can expect a higher ping and a bit of lag.
 
 The amount of memory is an additional quality to look at. For more information, you can refer to the section on RAM below.
