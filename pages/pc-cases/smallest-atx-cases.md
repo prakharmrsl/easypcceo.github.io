@@ -738,6 +738,30 @@ Before you pull the trigger on the case of your dreams, make sure that:
 
 Otherwise, you'll be quite disappointed!
 
+## Frequently Asked Questions (FAQ)
+
+Here are some of the most common questions I'm asked about the smallest ATX cases:
+
+### What is the smallest ATX case?
+
+The smallest ATX case is the Corsair Carbide Series 400C. It's small and compact, yet provides terrific performance, cable management, and good looks. 
+
+### Cat ATX fit micro ATX cases? 
+
+Yes, ATX cases are designed to be 'backwards compatible' with micro ATX motherboards. Micro ATX motherboards use the same mounting standoff locations as ATX, minus a few of them (since it's smaller). Generally, an ATX case can fit a micro ATX motherboard, but not the other way around. 
+
+### What does ATX mean? 
+
+ATX stands for Advanced Technology eXtended. The motherboard/power supply configuration was developed by Intel in 1995, and has become one of the most popular PC form factors since. 
+
+### Is ATX better than Micro ATX?
+
+Micro ATX cases blend the small form factor of ITX cases with the functionality of ATX boards. If you want to run a powerful PC in a decent sized case that's still small enough for your desk and portable, a micro ATX case is definitely a good choice. 
+
+### How many case fans do I need?
+
+The number of case fans depends on how hot your system will be. If you plan on running your components with stock frequencies, you can probably get away with a few. But heavy overclocking will require more than just a few, configured in an optimal layout. 
+
 ## Do You Need a 'Gaming' Case?
 
 Many companies advertise their cases as "gaming cases". Just because a case is outfitted with cool LED lights does not necessarily make it a gaming case. 
@@ -1109,3 +1133,4 @@ The case's form factor isn't for everyone, but for those looking for a small ATX
   </tr>
 </table>
 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the smallest ATX case?","acceptedAnswer":[{"@type":"Answer","text":"The smallest ATX case is the Corsair Carbide Series 400C. It's small and compact, yet provides terrific performance, cable management, and good looks. "}]},{"@type":"Question","name":"Cat ATX fit micro ATX cases? ","acceptedAnswer":[{"@type":"Answer","text":"Yes, ATX cases are designed to be 'backwards compatible' with micro ATX motherboards. Micro ATX motherboards use the same mounting standoff locations as ATX, minus a few of them (since it's smaller). Generally, an ATX case can fit a micro ATX motherboard, but not the other way around. "}]},{"@type":"Question","name":"What does ATX mean? ","acceptedAnswer":[{"@type":"Answer","text":"ATX stands for Advanced Technology eXtended. The motherboard/power supply configuration was developed by Intel in 1995, and has become one of the most popular PC form factors since. "}]},{"@type":"Question","name":"Is ATX better than Micro ATX?","acceptedAnswer":[{"@type":"Answer","text":"Micro ATX cases blend the small form factor of ITX cases with the functionality of ATX boards. If you want to run a powerful PC in a decent sized case that's still small enough for your desk and portable, a micro ATX case is definitely a good choice. "}]},{"@type":"Question","name":"How many case fans do I need?","acceptedAnswer":[{"@type":"Answer","text":"The number of case fans depends on how hot your system will be. If you plan on running your components with stock frequencies, you can probably get away with a few. But heavy overclocking will require more than just a few, configured in an optimal layout. "}]},{"@type":"Question","name":"Do You Need a 'Gaming' Case?","acceptedAnswer":[{"@type":"Answer","text":"Many companies advertise their cases as \"gaming cases\". Just because a case is outfitted with cool LED lights does not necessarily make it a gaming case. "}]}]}</script>
