@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.review %}<div itemprop="review" itemscope itemtype="http://schema.org/Review">{% endif %}
+
 <article class="page">
 
   <h1>{{ page.title }}</h1>
@@ -13,6 +13,7 @@ layout: default
 
 
 </article>
+{% if page.review %}<div itemprop="review" itemscope itemtype="http://schema.org/Review">{% endif %}
 {% if page.review %}{% include review.html %}</div>
 
 {% endif %}
