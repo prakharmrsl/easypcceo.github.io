@@ -1,18 +1,20 @@
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org/",
-  "@type": "Review",
-  "reviewBody": "The restaurant has great ambiance.",
-  "itemReviewed": {
-    "@type": "Restaurant",
-    "name": "Fine Dining Establishment"
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name" : "{{ page.title }}",
   },
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "worstRating": 1,
-    "bestRating": 5,
-    "reviewAspect": "Ambiance"
+  "review" : {
+    "@type" : "Review",
+    "author" : {
+      "@type" : "Person",
+      "name" : "Jacob Tuwiner"
+    },
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "4",
+      "bestRating" : "5",
+      "worstRating" : "0"
+    }
   }
 }
-</script>
