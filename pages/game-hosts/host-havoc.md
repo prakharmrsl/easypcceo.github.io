@@ -4,7 +4,7 @@ permalink: "/game-hosts/host-havoc/"
 layout: page
 seotitle: "Host Havoc Review: 5 Things to Know Before Buying (2020)" 
 meta: "I've tried every hosting company on the web, and in this review of Host Havoc, you'll learn why they're my favorite." 
-review: 4.8
+review: 4.5
 ---
 
 <div class="author-line">
