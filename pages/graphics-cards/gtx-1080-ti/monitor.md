@@ -174,8 +174,6 @@ Although the resolution of the PG279Q falls short of our next pick's screen size
 
 Unlike LG’s monitor, Asus’ provides a refresh rate of 165Hz – crazy right? 
 
-By the way, if you don't know why refresh rate is important (especially if you're using a 1080 ti), you can check out [this](/refresh-rate-vs-frame-rate/) awesome article we wrote about it. 
-
 On top of that this monitor also sports an IPS panel, meaning it has noticeably better colors and viewing ranges when compared to non-IPS displays.
 
 This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.

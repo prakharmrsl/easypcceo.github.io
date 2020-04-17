@@ -67,6 +67,8 @@ Here are some of the things you should consider:
 
 Let's start out by discussing some common uses. Knowing what you'll be doing with your CPU is the first step to take before deciding how powerful it should be, and ultimately which CPU you'll pick for your build. 
 
+Using a CPU for surfing the web won't require nearly as much power as a [CPU for an RTX 2080 Ti](/cpu/rtx-2080-ti/), for example.  
+
 ### Basic Tasks: $50-$100 range  
 <img class="lazyload" alt="surfing-web" src="/img/cpus/surfing-web.jpg" >
 

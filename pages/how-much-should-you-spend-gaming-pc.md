@@ -22,7 +22,7 @@ But the amount you should spend on a gaming PC isn’t always an easily answerab
 
 As I’m sure you can tell, there are many different options in terms of components relating to whatever tasks you may want your computer to tackle, and this means that budgets will always vary.
 
-While on the one hand, a student or someone who’s a bit strapped for cash may have a very low budget of around [$300USD](/budget-pcs/300/) to [$500USD](/budget-pcs/500/). 
+While on the one hand, a student or someone who’s a bit strapped for cash may have a very low budget of around [$400USD](/budget-pcs/400/) to [$500USD](/budget-pcs/500/). 
 
 On the other hand, someone who may have been saving up specifically for a high-end gaming PC with dreams of becoming a famous streamer might drop [$1,000USD](/budget-pcs/500/) to $2,500USD for their ultimate gaming setup.
 
@@ -88,7 +88,7 @@ On the other hand, someone who may have been saving up specifically for a high-e
 
 If you want to game in [720p](https://en.wikipedia.org/wiki/720p){: target="_blank"}, spending $300-$400 on a gaming PC will get the job done. 
 
-Given a budget of anywhere as low as [$300USD](/budget-pcs/300/) can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
+Given a budget of anywhere as low as $300USD can get you a fully functioning gaming PC ready to run your favorite games as anywhere from 30fps to 60fps in some cases, all thanks to AMD’s Vega integrated graphics chips.
 
 Using AMD’s 2018 Athlon GE chips (200GE, 220GE, or 240GE) you can get easy 720p performance and a hyperthreaded CPU all in one $60 package. 
 
@@ -96,7 +96,7 @@ Pairing this with relatively cheap memory, storage, a power supply, and a [small
 
 ![how much should you spend to game in 720p](/img/how-much-should-you-spend-gaming-pc/720p.jpg){: .img-middle}
 
-You can even grab a small [SSD](/will-ssd-improve-fps/) while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
+You can even grab a small SSD while staying in budget and overclock the CPU with a cheap B450 motherboard, though you may want to opt for an aftermarket cooler instead of the provided stock cooler.
 
 If you want to up that budget just a tad, you can even throw in some cheap peripherals. 
 
