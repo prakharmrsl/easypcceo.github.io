@@ -2,8 +2,8 @@
 title: "The Best CPUs for The RTX 2080 Ti" 
 permalink: "/cpu/rtx-2080-ti/"
 layout: page
-seotitle: "3 Best CPUs for GTX 1060 in 2020 (3GB & 6GB)"
-meta: "If you don't want to bottleneck your GTX 1060, you need to make sure you buy the right CPU for the job."
+seotitle: "3 Best CPUs for RTX 2080 Ti (No Bottleneck)"
+meta: "If you don't want to bottleneck your RTX 2080 Ti, you need to make sure you buy the right CPU for the job."
 ---
 
 <div class="author-line">
