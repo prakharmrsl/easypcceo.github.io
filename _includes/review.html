@@ -2,16 +2,17 @@
 {
   "@context": "http://schema.org/",
   "@type": "Review",
-  "author": "Jacob Tuwiner",
+  "reviewBody": "The restaurant has great ambiance.",
   "itemReviewed": {
-    "@type": "Hosting Company",
-    "name": "{{ page.title }}"
+    "@type": "Restaurant",
+    "name": "Fine Dining Establishment"
   },
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": {{ page.review }},
+    "ratingValue": 5,
     "worstRating": 1,
     "bestRating": 5,
+    "reviewAspect": "Ambiance"
   }
 }
 </script>
