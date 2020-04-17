@@ -1,13 +1,26 @@
-<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing">
-   <meta itemprop="name" content="{{ page.title }}">
-  </span>
-    
-   <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-     <b>Review by:</b> <span itemprop="name">Jacob</span>
-   </span>
-   
-   <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
-    <b>Rating:</b> <span itemprop="ratingValue">{{ page.review }}</span>
-    <meta itemprop="worstRating" content="1">
-    <meta itemprop="bestRating" content="5">
-   </span>
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Product",
+  "name" : "{{ page.title }}",
+  "aggregateRating" : {
+    "@type" : "AggregateRating",
+    "ratingValue" : "{{ page.review }}",
+    "bestRating" : "5",
+    "worstRating" : "0"
+  },
+  "review" : {
+    "@type" : "Review",
+    "author" : {
+      "@type" : "Person",
+      "name" : "Jacob Tuwiner"
+    },
+    "reviewRating" : {
+      "@type" : "Rating",
+      "ratingValue" : "{{ page.review }}",
+      "bestRating" : "5",
+      "worstRating" : "0"
+    }
+  }
+}
+</script>
