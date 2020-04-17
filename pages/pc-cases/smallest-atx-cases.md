@@ -8,6 +8,7 @@ redirect_from: /budget-pcs/smallest-atx-cases/
 ---
 
 <div class="author-line">
+  <span>Updated April 17th, 2020 by</span>
   <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
   <span>Jacob Tuwiner</span>
 </div>
