@@ -568,7 +568,7 @@ To make your own rust server, we suggest you use a separate server box, but you 
 
 When you get your server up, you can go test it out yourself and try to invite some friends so you can make sure everything’s working correctly.
 
-To learn how to host a free dedicated Rust server, head to our guide [here](/game-hosting/rust/dedicated-server/).
+If you want to learn [how to make a Rust server for free](/game-hosting/rust/dedicated-server/), check out our guide. 
 
 ## Rust Server Hosting Guide
 
