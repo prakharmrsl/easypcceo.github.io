@@ -1,32 +1,38 @@
----
-title: Best $500 Gaming PC of 2020 - Plays ALL Games
-permalink: "/budget-pcs/500/"
-layout: page
-seotitle: "Best $500 Gaming PC: Prebuilt & Custom Built (Updated 2020)" 
----
-<div class="author-line">
+I"9�<div class="author-line">
 	<img class="lazyload author-image jordyn-profile-pic" alt="written by jordyn hamilton" data-src="/img/profile/jordyn.jpg" />
 	<span>Jordyn Hamilton</span>
 </div>
 
-![$500 gaming pc page header graphic](/img/header/500-pc.png){: .page-header}
+<p><img src="/img/header/500-pc.png" alt="$500 gaming pc page header graphic" class="page-header" /></p>
 
-This was equally the most tiring and difficult build guide we’ve done (barring that time I screwed up and had to redo, like, 8 graphs), so we really hope it helps you out. 
+<p>This was equally the most tiring and difficult build guide we’ve done (barring that time I screwed up and had to redo, like, 8 graphs), so we really hope it helps you out.</p>
 
-Like usual, we have offerings from both Intel and AMD, but in this guide (similarly to the $400) we also have an Integrated Graphics option that, this time around, happens to be a godlike Mini-ITX build for your enjoyment. 
+<p>Like usual, we have offerings from both Intel and AMD, but in this guide (similarly to the $400) we also have an Integrated Graphics option that, this time around, happens to be a godlike Mini-ITX build for your enjoyment.</p>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+  <li><a href="#prebuilt-option" id="markdown-toc-prebuilt-option">Prebuilt Option</a></li>
+  <li><a href="#best-500-gaming-pc-build" id="markdown-toc-best-500-gaming-pc-build">Best $500 Gaming PC Build</a></li>
+  <li><a href="#500-gaming-pc-build-overview-video" id="markdown-toc-500-gaming-pc-build-overview-video">$500 Gaming PC Build Overview Video</a></li>
+  <li><a href="#performance-benchmarks" id="markdown-toc-performance-benchmarks">Performance Benchmarks</a>    <ul>
+      <li><a href="#gaming-benchmark" id="markdown-toc-gaming-benchmark">Gaming Benchmark</a></li>
+      <li><a href="#cpu-speed-benchmark" id="markdown-toc-cpu-speed-benchmark">CPU Speed Benchmark</a></li>
+    </ul>
+  </li>
+  <li><a href="#other-budgets" id="markdown-toc-other-budgets">Other Budgets</a></li>
+  <li><a href="#peripherals" id="markdown-toc-peripherals">Peripherals</a></li>
+  <li><a href="#windows-10" id="markdown-toc-windows-10">Windows 10</a></li>
+  <li><a href="#internet-connection" id="markdown-toc-internet-connection">Internet Connection</a></li>
+</ul>
 
-## Prebuilt Option
+<h2 id="prebuilt-option">Prebuilt Option</h2>
 
-Before we talk about the custom build, let's quickly talk about a $500 prebuilt gaming PC.
+<p>Before we talk about the custom build, let’s quickly talk about a $500 prebuilt gaming PC.</p>
 
-It’s understandable: 
+<p>It’s understandable:</p>
 
-Some people just don’t feel like doing the research, ordering the parts, and learning how to build a gaming computer. 
+<p>Some people just don’t feel like doing the research, ordering the parts, and learning how to build a gaming computer.</p>
 
-So, for the lazy ones, we have a prebuilt option to suit your $500 budget. 
+<p>So, for the lazy ones, we have a prebuilt option to suit your $500 budget.</p>
 
 <div id="prebuilt" class="featured-info-box">
 <span>Prebuilt Option</span>
@@ -67,7 +73,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/processor.png"/><span class="tab-btn-title-margin">CPU</span>
+          <img class="lazyload tab-img" data-src="/img/icons/processor.png" /><span class="tab-btn-title-margin">CPU</span>
         </div>
         <div class="tab-btn-data">
           R3 1200
@@ -75,7 +81,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Clock</span>
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Clock</span>
         </div>
         <div class="tab-btn-data">
           3.5GHz
@@ -83,7 +89,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png"/><span class="tab-btn-title-margin">RAM</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">RAM</span>
         </div>
         <div class="tab-btn-data">
           8GB DDR4
@@ -91,7 +97,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png"/><span class="tab-btn-title-margin">SSD</span>
+          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png" /><span class="tab-btn-title-margin">SSD</span>
         </div>
         <div class="tab-btn-data">
           240GB
@@ -99,7 +105,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/microsoft.png"/><span class="tab-btn-title-margin">OS</span>
+          <img class="lazyload tab-img" data-src="/img/icons/microsoft.png" /><span class="tab-btn-title-margin">OS</span>
         </div>
         <div class="tab-btn-data">
           Windows 10
@@ -107,7 +113,7 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">WiFi</span>
+          <img class="lazyload tab-img" data-src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">WiFi</span>
         </div>
         <div class="tab-btn-data">
           802.11AC
@@ -116,27 +122,27 @@ So, for the lazy ones, we have a prebuilt option to suit your $500 budget.
   </div>    
 </section>
 
-This PC, while pretty lacking in almost every field, does have some upsides. 
+<p>This PC, while pretty lacking in almost every field, does have some upsides.</p>
 
-Its cooling is actually really good for a cheap case, including 2 front 120mm intake fands and 1 rear 120mm outtake. 
+<p>Its cooling is actually really good for a cheap case, including 2 front 120mm intake fands and 1 rear 120mm outtake.</p>
 
-Plus it has a power supply shroud which is also pretty rear in cheap cases.
+<p>Plus it has a power supply shroud which is also pretty rear in cheap cases.</p>
 
-In terms of upgrading, you have 1 open DDR4 RAM slot so you can plop in another 8GB stick for 16GB total, but keep in mind you only have two slots. 
+<p>In terms of upgrading, you have 1 open DDR4 RAM slot so you can plop in another 8GB stick for 16GB total, but keep in mind you only have two slots.</p>
 
-And since you’ve got an AM4 motherboard, with a couple of BIOS updates you can even jump to a Ryzen 3000 processor. 
+<p>And since you’ve got an AM4 motherboard, with a couple of BIOS updates you can even jump to a Ryzen 3000 processor.</p>
 
-However, we couldn’t confirm the motherboard chipset, so you might want to upgrade that anyway.
+<p>However, we couldn’t confirm the motherboard chipset, so you might want to upgrade that anyway.</p>
 
-This PC also includes a keyboard and mouse, so that’s a plus for sure, and it doesn’t stop there. 
+<p>This PC also includes a keyboard and mouse, so that’s a plus for sure, and it doesn’t stop there.</p>
 
-It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and a 1-Year warranty with free tech support. Ain’t that neat.
+<p>It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and a 1-Year warranty with free tech support. Ain’t that neat.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/38lW0Ct">Read Reviews on Amazon</a>
 </div>
 
-## Best $500 Gaming PC Build 
+<h2 id="best-500-gaming-pc-build">Best $500 Gaming PC Build</h2>
 
 <table class="basic-table" align="center">
 	<tr>
@@ -238,11 +244,11 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
 		<td><a class="big-button" href="#psu">View</a></td>
 	</tr>
 	<tr>
-	<td colspan="5"><a class="big-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&ASIN.1=B07R7Q3JZH&Quantity.1=1&ASIN.2=B07T6N8N56&Quantity.2=1&ASIN.3=B07QF1H9YR&Quantity.3=1&ASIN.4=B07BH56G9R&Quantity.4=1&ASIN.5=B07H2RR55Q&Quantity.5=1&ASIN.6=B01N6JQS8C&Quantity.6=1&ASIN.7=B07DTP6QKG&Quantity.7=11&ASIN.8=B072F29JP4&Quantity.8=1">Order This Build on Amazon<i class="fas fa-shopping-cart"></i></a></td>
+	<td colspan="5"><a class="big-button" target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?AssociateTag=flarp0c-20&amp;ASIN.1=B07R7Q3JZH&amp;Quantity.1=1&amp;ASIN.2=B07T6N8N56&amp;Quantity.2=1&amp;ASIN.3=B07QF1H9YR&amp;Quantity.3=1&amp;ASIN.4=B07BH56G9R&amp;Quantity.4=1&amp;ASIN.5=B07H2RR55Q&amp;Quantity.5=1&amp;ASIN.6=B01N6JQS8C&amp;Quantity.6=1&amp;ASIN.7=B07DTP6QKG&amp;Quantity.7=11&amp;ASIN.8=B072F29JP4&amp;Quantity.8=1">Order This Build on Amazon<i class="fas fa-shopping-cart"></i></a></td>
 </tr>
 </table>
 
-*Prices fluctuate daily. All budgets are within a $50 threshold*
+<p><em>Prices fluctuate daily. All budgets are within a $50 threshold</em></p>
 
 <div id="cpu" class="featured-info-box">
 <span>CPU</span>
@@ -281,7 +287,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/clock.png"/><span class="tab-btn-title-margin">Clock</span>
+          <img class="tab-img" src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Clock</span>
         </div>
         <div class="tab-btn-data">
           3.6GHz 
@@ -289,7 +295,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Boost</span>
+          <img class="tab-img" src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
         </div>
         <div class="tab-btn-data">
           4.2GHz
@@ -297,7 +303,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/cores.png"/><span class="tab-btn-title-margin">Cores</span>
+          <img class="tab-img" src="/img/icons/cores.png" /><span class="tab-btn-title-margin">Cores</span>
         </div>
         <div class="tab-btn-data">
           4
@@ -305,7 +311,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/bulb.png"/><span class="tab-btn-title-margin">TDP</span>
+          <img class="tab-img" src="/img/icons/bulb.png" /><span class="tab-btn-title-margin">TDP</span>
         </div>
         <div class="tab-btn-data">
           65W
@@ -313,7 +319,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/architecture.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="tab-img" src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           Coffee Lake
@@ -321,7 +327,7 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="tab-img" src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Cooler</span>
+          <img class="tab-img" src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Cooler</span>
         </div>
         <div class="tab-btn-data">
           Yes
@@ -330,13 +336,13 @@ It also comes pre-equipped with a 240GB SSD, WiFi, Windows 10 Professional, and 
   </div>    
 </section>
 
-We were going to try and go for the next step up on team blue, but the price difference in relation to performance gain just didn’t fit the price, and we don’t actually lose all that much sticking to the 9100F. It’s a great processor.
+<p>We were going to try and go for the next step up on team blue, but the price difference in relation to performance gain just didn’t fit the price, and we don’t actually lose all that much sticking to the 9100F. It’s a great processor.</p>
 
-Gaming does quite good with 4 cores at a base clock of 3.6GHz, and with its 4.2GHz boost, your games are gonna love you. It's great at multitasking, and could even hold its own in more intensive applications like [hosting a Rust server](/game-hosts/rust/dedicated-server/), for example.
+<p>Gaming does quite good with 4 cores at a base clock of 3.6GHz, and with its 4.2GHz boost, your games are gonna love you. It’s great at multitasking, and could even hold its own in more intensive applications like <a href="/game-hosts/rust/dedicated-server/">hosting a Rust server</a>, for example.</p>
 
-At this price, what more can you even ask for, we can’t stress how amazing of a [CPU](/cpu/) this thing is.
+<p>At this price, what more can you even ask for, we can’t stress how amazing of a <a href="/cpu/">CPU</a> this thing is.</p>
 
-You’ll have your LGA1151 motherboard to upgrade your processor later (if you so choose), just make sure you don’t go for an overclockable CPU because it won’t work here.
+<p>You’ll have your LGA1151 motherboard to upgrade your processor later (if you so choose), just make sure you don’t go for an overclockable CPU because it won’t work here.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/35oxm24">Read Reviews on Amazon</a>
@@ -378,7 +384,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/motherboard.png"/><span class="tab-btn-title-margin">Form</span>
+          <img class="lazyload tab-img" data-src="/img/icons/motherboard.png" /><span class="tab-btn-title-margin">Form</span>
         </div>
         <div class="tab-btn-data">
           mATX
@@ -386,7 +392,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/chipset.png"/><span class="tab-btn-title-margin">Chipset</span>
+          <img class="lazyload tab-img" data-src="/img/icons/chipset.png" /><span class="tab-btn-title-margin">Chipset</span>
         </div>
         <div class="tab-btn-data">
           B365
@@ -394,7 +400,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png"/><span class="tab-btn-title-margin">Slots</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Slots</span>
         </div>
         <div class="tab-btn-data">
           4
@@ -402,7 +408,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/sata.png"/><span class="tab-btn-title-margin">SATA</span>
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">SATA</span>
         </div>
         <div class="tab-btn-data">
           6
@@ -410,7 +416,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/nvme.png"/><span class="tab-btn-title-margin">M.2</span>
+          <img class="lazyload tab-img" data-src="/img/icons/nvme.png" /><span class="tab-btn-title-margin">M.2</span>
         </div>
         <div class="tab-btn-data">
           1
@@ -418,7 +424,7 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Overclock</span>
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Overclock</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -427,13 +433,13 @@ You’ll have your LGA1151 motherboard to upgrade your processor later (if you s
   </div>    
 </section>
 
-Offering 4 RAM slots at a price that would make AMD jealous, you can stick with this board for years with no issues. 
+<p>Offering 4 RAM slots at a price that would make AMD jealous, you can stick with this board for years with no issues.</p>
 
-Just remember that you can’t overclock with it. 
+<p>Just remember that you can’t overclock with it.</p>
 
-Also, keep in mind its maximum support of 2666MHz, this just means higher rated memory will downclock when you put it in but they’ll still work.
+<p>Also, keep in mind its maximum support of 2666MHz, this just means higher rated memory will downclock when you put it in but they’ll still work.</p>
 
-And, with its MicroATX form factor, you could even save some cost with a lower-end [MicroATX case](/budget-pcs/smallest-micro-atx-cases/) instead of our [ATX Mid Tower](/budget-pcs/smallest-atx-cases/) pick.
+<p>And, with its MicroATX form factor, you could even save some cost with a lower-end <a href="/budget-pcs/smallest-micro-atx-cases/">MicroATX case</a> instead of our <a href="/budget-pcs/smallest-atx-cases/">ATX Mid Tower</a> pick.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2PXmJg7">Read Reviews on Amazon</a>
@@ -477,7 +483,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/clock.png"/><span class="tab-btn-title-margin">Core</span>
+          <img class="lazyload tab-img" data-src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Core</span>
         </div>
         <div class="tab-btn-data">
           1485MHz
@@ -485,7 +491,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Boost</span>
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
         </div>
         <div class="tab-btn-data">
           1695MHz
@@ -493,7 +499,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ruler.png"/><span class="tab-btn-title-margin">Length</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ruler.png" /><span class="tab-btn-title-margin">Length</span>
         </div>
         <div class="tab-btn-data">
           151mm
@@ -501,7 +507,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/fan.png"/><span class="tab-btn-title-margin">Fans</span>
+          <img class="lazyload tab-img" data-src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Fans</span>
         </div>
         <div class="tab-btn-data">
           1
@@ -509,7 +515,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png"/><span class="tab-btn-title-margin">Memory</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Memory</span>
         </div>
         <div class="tab-btn-data">
           4GB
@@ -517,7 +523,7 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Ports</span>
+          <img class="lazyload tab-img" data-src="/img/icons/wire.png" /><span class="tab-btn-title-margin">Ports</span>
         </div>
         <div class="tab-btn-data">
           3
@@ -526,11 +532,11 @@ And, with its MicroATX form factor, you could even save some cost with a lower-e
   </div>    
 </section>
 
-When we were putting together this build we had such a difficult time finding something that would fit into the price perfectly while providing better performance than our $400 budget, then we discovered the GTX 1650 Super. 
+<p>When we were putting together this build we had such a difficult time finding something that would fit into the price perfectly while providing better performance than our $400 budget, then we discovered the GTX 1650 Super.</p>
 
-Now, I guess I was just out of the loop because I knew about the GTX 1650, but the Super was a mystery to me until now. But hell, it performs really well and it fits into our budget, so why not suggest it?
+<p>Now, I guess I was just out of the loop because I knew about the GTX 1650, but the Super was a mystery to me until now. But hell, it performs really well and it fits into our budget, so why not suggest it?</p>
 
-We won’t promise 1080p 60fps gaming in all of your favorite titles, but this puppy can handle quite a beating, so you’ll definitely get that solid 60 in some games at high and others at medium settings. Its [core clock speeds](/gpu-memory-clock-speed/) are pretty good, and can always be [overclocked](/overclocking/).
+<p>We won’t promise 1080p 60fps gaming in all of your favorite titles, but this puppy can handle quite a beating, so you’ll definitely get that solid 60 in some games at high and others at medium settings. Its <a href="/gpu-memory-clock-speed/">core clock speeds</a> are pretty good, and can always be <a href="/overclocking/">overclocked</a>.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2EFhGMl">Read Reviews on Amazon</a>
@@ -574,7 +580,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/database.png"/><span class="tab-btn-title-margin">Amount</span>
+          <img class="lazyload tab-img" data-src="/img/icons/database.png" /><span class="tab-btn-title-margin">Amount</span>
         </div>
         <div class="tab-btn-data">
           8GB
@@ -582,7 +588,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png"/><span class="tab-btn-title-margin">Modules</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Modules</span>
         </div>
         <div class="tab-btn-data">
           2x4GB
@@ -590,7 +596,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Speed</span>
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Speed</span>
         </div>
         <div class="tab-btn-data">
           2666MHz
@@ -598,7 +604,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/chip.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="lazyload tab-img" data-src="/img/icons/chip.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           DDR4
@@ -606,7 +612,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/cas.png"/><span class="tab-btn-title-margin">CAS</span>
+          <img class="lazyload tab-img" data-src="/img/icons/cas.png" /><span class="tab-btn-title-margin">CAS</span>
         </div>
         <div class="tab-btn-data">
           16
@@ -614,7 +620,7 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/voltage.png"/><span class="tab-btn-title-margin">Voltage</span>
+          <img class="lazyload tab-img" data-src="/img/icons/voltage.png" /><span class="tab-btn-title-margin">Voltage</span>
         </div>
         <div class="tab-btn-data">
           1.2V
@@ -623,11 +629,11 @@ We won’t promise 1080p 60fps gaming in all of your favorite titles, but this p
   </div>    
 </section>
 
-This kit is just about the best 2666MHz 2x4GB we could find for a good price, but honestly, you could go for the 1x8GB stick from our AMD build instead and have similar or better performance.
+<p>This kit is just about the best 2666MHz 2x4GB we could find for a good price, but honestly, you could go for the 1x8GB stick from our AMD build instead and have similar or better performance.</p>
 
-Basically, if you don’t really care to go past 16GB of RAM (which we think is enough for anyone), stick with this 2x4GB kit and add another later. 
+<p>Basically, if you don’t really care to go past 16GB of RAM (which we think is enough for anyone), stick with this 2x4GB kit and add another later.</p>
 
-Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just keep adding as you go.
+<p>Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just keep adding as you go.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2r4jlb1">Read Reviews on Amazon</a>
@@ -670,7 +676,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           HDD
@@ -678,7 +684,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/gigabyte.png"/><span class="tab-btn-title-margin">Capacity</span>
+          <img class="lazyload tab-img" data-src="/img/icons/gigabyte.png" /><span class="tab-btn-title-margin">Capacity</span>
         </div>
         <div class="tab-btn-data">
           2TB
@@ -686,7 +692,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/expensive.png"/><span class="tab-btn-title-margin">Price/GB</span>
+          <img class="lazyload tab-img" data-src="/img/icons/expensive.png" /><span class="tab-btn-title-margin">Price/GB</span>
         </div>
         <div class="tab-btn-data">
           $0.25
@@ -694,7 +700,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ruler.png"/><span class="tab-btn-title-margin">Size</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ruler.png" /><span class="tab-btn-title-margin">Size</span>
         </div>
         <div class="tab-btn-data">
           3.5"
@@ -702,7 +708,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/sata.png"/><span class="tab-btn-title-margin">Interface</span>
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">Interface</span>
         </div>
         <div class="tab-btn-data">
           SATA
@@ -710,7 +716,7 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/nvme.png"/><span class="tab-btn-title-margin">NVME</span>
+          <img class="lazyload tab-img" data-src="/img/icons/nvme.png" /><span class="tab-btn-title-margin">NVME</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -719,9 +725,9 @@ Or, if you’d like to go for 32GB down the line, go for a 1x8GB stick and just 
   </div>    
 </section>
 
-The full 2TB of storage provided by Seagate and the 256MB cache alongside it will ensure you have more than enough space for all your games, and at amazing speeds for a mechanical hard drive.
+<p>The full 2TB of storage provided by Seagate and the 256MB cache alongside it will ensure you have more than enough space for all your games, and at amazing speeds for a mechanical hard drive.</p>
 
-The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutely great for a boot drive, app drive, or small game drive if you’ve got the extra room for it.
+<p>The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutely great for a boot drive, app drive, or small game drive if you’ve got the extra room for it.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2M2EWI0">Read Reviews on Amazon</a>
@@ -764,7 +770,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           SSD
@@ -772,7 +778,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/gigabyte.png"/><span class="tab-btn-title-margin">Capacity</span>
+          <img class="lazyload tab-img" data-src="/img/icons/gigabyte.png" /><span class="tab-btn-title-margin">Capacity</span>
         </div>
         <div class="tab-btn-data">
           120GB
@@ -780,7 +786,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/expensive.png"/><span class="tab-btn-title-margin">Price/GB</span>
+          <img class="lazyload tab-img" data-src="/img/icons/expensive.png" /><span class="tab-btn-title-margin">Price/GB</span>
         </div>
         <div class="tab-btn-data">
           $0.18
@@ -788,7 +794,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/ruler.png"/><span class="tab-btn-title-margin">Size</span>
+          <img class="lazyload tab-img" data-src="/img/icons/ruler.png" /><span class="tab-btn-title-margin">Size</span>
         </div>
         <div class="tab-btn-data">
           2.5"
@@ -796,7 +802,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/sata.png"/><span class="tab-btn-title-margin">Interface</span>
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">Interface</span>
         </div>
         <div class="tab-btn-data">
           SATA
@@ -804,7 +810,7 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/nvme.png"/><span class="tab-btn-title-margin">NVME</span>
+          <img class="lazyload tab-img" data-src="/img/icons/nvme.png" /><span class="tab-btn-title-margin">NVME</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -813,13 +819,13 @@ The Kingston SSD is pretty standard, it runs at high speeds and it’s absolutel
   </div>    
 </section>
 
-Although this SSD only has 120GB, it will make your PC load incredibly quickly.
+<p>Although this SSD only has 120GB, it will make your PC load incredibly quickly.</p>
 
-We recommend you keep the installs on this drive minimal, otherwise it'll fill up fast. It's only meant to serve as a storage drive for your OS and drivers. 
+<p>We recommend you keep the installs on this drive minimal, otherwise it’ll fill up fast. It’s only meant to serve as a storage drive for your OS and drivers.</p>
 
-Games, applications, movies, music, etc. should all be stored on the mass storage mechanical drive instead. 
+<p>Games, applications, movies, music, etc. should all be stored on the mass storage mechanical drive instead.</p>
 
-You'll definitely want to upgrade to a larger SSD in the future, by the way, but this is good for now. 
+<p>You’ll definitely want to upgrade to a larger SSD in the future, by the way, but this is good for now.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2M6MPfE">Read Reviews on Amazon</a>
@@ -862,7 +868,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/flash.png"/><span class="tab-btn-title-margin">Wattage</span>
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Wattage</span>
         </div>
         <div class="tab-btn-data">
           600
@@ -870,7 +876,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/positive-vote.png"/><span class="tab-btn-title-margin">Rating</span>
+          <img class="lazyload tab-img" data-src="/img/icons/positive-vote.png" /><span class="tab-btn-title-margin">Rating</span>
         </div>
         <div class="tab-btn-data">
           Bronze
@@ -878,7 +884,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/wire.png"/><span class="tab-btn-title-margin">Modular</span>
+          <img class="lazyload tab-img" data-src="/img/icons/wire.png" /><span class="tab-btn-title-margin">Modular</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -886,7 +892,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/color-palette.png"/><span class="tab-btn-title-margin">Color</span>
+          <img class="lazyload tab-img" data-src="/img/icons/color-palette.png" /><span class="tab-btn-title-margin">Color</span>
         </div>
         <div class="tab-btn-data">
           Black
@@ -894,7 +900,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/sata.png"/><span class="tab-btn-title-margin">SATA</span>
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">SATA</span>
         </div>
         <div class="tab-btn-data">
           6
@@ -902,7 +908,7 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png" /><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -911,11 +917,11 @@ You'll definitely want to upgrade to a larger SSD in the future, by the way, but
   </div>    
 </section>
 
-With its 80+ Bronze rating, you’ll be getting the best that ‘budget’ has to offer, and you can expect the BR 600 to last quite a while on account of EVGA’s included 3-Year warranty for the thing. But as always, read the fine print!
+<p>With its 80+ Bronze rating, you’ll be getting the best that ‘budget’ has to offer, and you can expect the BR 600 to last quite a while on account of EVGA’s included 3-Year warranty for the thing. But as always, read the fine print!</p>
 
-For more info on [PSU ratings](/power-supply-ratings/), check out our full guide by clicking that link.
+<p>For more info on <a href="/power-supply-ratings/">PSU ratings</a>, check out our full guide by clicking that link.</p>
 
-600 Watts is plenty to power any modest system, but if you plan on upgrading your graphics card, make sure you have the right GPU power connectors so you don’t get stuck with a GPU that you can’t even use.
+<p>600 Watts is plenty to power any modest system, but if you plan on upgrading your graphics card, make sure you have the right GPU power connectors so you don’t get stuck with a GPU that you can’t even use.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2M7HdBT">Read Reviews on Amazon</a>
@@ -957,7 +963,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
   <div class="tabs-container">
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Type</span>
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png" /><span class="tab-btn-title-margin">Type</span>
         </div>
         <div class="tab-btn-data">
           ATX
@@ -965,7 +971,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/breeze.png"/><span class="tab-btn-title-margin">Airflow</span>
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png" /><span class="tab-btn-title-margin">Airflow</span>
         </div>
         <div class="tab-btn-data">
           Poor
@@ -973,7 +979,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
       </div>
       <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/sketch.png"/><span class="tab-btn-title-margin">Design</span>
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png" /><span class="tab-btn-title-margin">Design</span>
         </div>
         <div class="tab-btn-data">
           Average
@@ -981,7 +987,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/window.png"/><span class="tab-btn-title-margin">Window</span>
+          <img class="lazyload tab-img" data-src="/img/icons/window.png" /><span class="tab-btn-title-margin">Window</span>
         </div>
         <div class="tab-btn-data">
           No
@@ -989,7 +995,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/package.png"/><span class="tab-btn-title-margin">Spacious</span>
+          <img class="lazyload tab-img" data-src="/img/icons/package.png" /><span class="tab-btn-title-margin">Spacious</span>
         </div>
         <div class="tab-btn-data">
           Ok
@@ -997,7 +1003,7 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
       </div>
     <div class="tab-btn">
         <div class="tab-btn-title">
-          <img class="lazyload tab-img" data-src="/img/icons/speaker.png"/><span class="tab-btn-title-margin">Noise</span>
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png" /><span class="tab-btn-title-margin">Noise</span>
         </div>
         <div class="tab-btn-data">
           Quiet
@@ -1006,88 +1012,93 @@ For more info on [PSU ratings](/power-supply-ratings/), check out our full guide
   </div>    
 </section>
 
-This [small ATX case](/budget-pcs/smallest-atx-cases/) will provide all the cooling you need at a fair price, what more could you ask for. It’ll also be easy to build in due to the size of your MicroATX motherboard, plus you have room to upgrade to a full ATX board in the future.
+<p>This <a href="/budget-pcs/smallest-atx-cases/">small ATX case</a> will provide all the cooling you need at a fair price, what more could you ask for. It’ll also be easy to build in due to the size of your MicroATX motherboard, plus you have room to upgrade to a full ATX board in the future.</p>
 
-It includes 1 front 120mm intake fan and 1 rear 120mm outtake fan so you have proper airflow, and 3 5.25” drive bays for all of those amazing CD drives you’ve got (we’re comedians now). And if you so desire, there are also 2 3.5” bays for something useful like a temp monitor, SD card reader, or floppy disk reader.
+<p>It includes 1 front 120mm intake fan and 1 rear 120mm outtake fan so you have proper airflow, and 3 5.25” drive bays for all of those amazing CD drives you’ve got (we’re comedians now). And if you so desire, there are also 2 3.5” bays for something useful like a temp monitor, SD card reader, or floppy disk reader.</p>
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2M5Hghj">Read Reviews on Amazon</a>
 </div>
 
-## $500 Gaming PC Build Overview Video
+<h2 id="500-gaming-pc-build-overview-video">$500 Gaming PC Build Overview Video</h2>
 
 <div class="vid-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bKdilzkSWP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bKdilzkSWP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
 
-## Performance Benchmarks 
+<h2 id="performance-benchmarks">Performance Benchmarks</h2>
 
-It’s time to take a quick look at the actual performance benchmarks of the parts we chose for this build. 
+<p>It’s time to take a quick look at the actual performance benchmarks of the parts we chose for this build.</p>
 
-### Gaming Benchmark 
+<h3 id="gaming-benchmark">Gaming Benchmark</h3>
 
-<img class="lazyload img-middle" alt="$500 gaming pc performance benchmarks" data-src="/img/500/gaming-performance.png" />
+<p><img class="lazyload img-middle" alt="$500 gaming pc performance benchmarks" data-src="/img/500/gaming-performance.png" /></p>
 
-Beginning with our framerate gaming benchmarks, it’s no surprise Intel takes over with its superb single-core performance alongside the marginally increased performance of the GTX 1650S when pit against the RX 580.
+<p>Beginning with our framerate gaming benchmarks, it’s no surprise Intel takes over with its superb single-core performance alongside the marginally increased performance of the GTX 1650S when pit against the RX 580.</p>
 
-The price of the RX 580 and the GTX 1650S on the low-end are actually pretty similar and, in some cases, the same. So if you want the extra cores of the Ryzen 5 2600 you could go ahead and swap that RX 580 for a GTX 1650S instead for a boost in gaming performance.
+<p>The price of the RX 580 and the GTX 1650S on the low-end are actually pretty similar and, in some cases, the same. So if you want the extra cores of the Ryzen 5 2600 you could go ahead and swap that RX 580 for a GTX 1650S instead for a boost in gaming performance.</p>
 
-The integrated Vega 11 graphics on the Ryzen 5 3400G hold their own in delivering a playable performance in all games, just not that solid 60fps that you might get from a dedicated graphics card.
+<p>The integrated Vega 11 graphics on the Ryzen 5 3400G hold their own in delivering a playable performance in all games, just not that solid 60fps that you might get from a dedicated graphics card.</p>
 
-### CPU Speed Benchmark 
-<img class="lazyload img-middle" alt="$500 gaming pc CPU benchmarks" data-src="/img/500/cpu-benchmark.png" />
+<h3 id="cpu-speed-benchmark">CPU Speed Benchmark</h3>
+<p><img class="lazyload img-middle" alt="$500 gaming pc CPU benchmarks" data-src="/img/500/cpu-benchmark.png" /></p>
 
-Looking at base clock speed performance with our three competitors shows that there isn’t too much of a difference in single-core performance, but Intel does take that top spot like always.
+<p>Looking at base clock speed performance with our three competitors shows that there isn’t too much of a difference in single-core performance, but Intel does take that top spot like always.</p>
 
-Once you look at the multi-core performance, however, AMD blows Intel out of the water in both cases by a mile. And considering the Ryzen 5 2600’s extra 2 cores on the 3400G, it’s no surprise that it wins in the multi-core.
+<p>Once you look at the multi-core performance, however, AMD blows Intel out of the water in both cases by a mile. And considering the Ryzen 5 2600’s extra 2 cores on the 3400G, it’s no surprise that it wins in the multi-core.
 (Graph 3)
-The overclocked performance graph was a bit of a surprise for us; it doesn’t seem like anything changed.
+The overclocked performance graph was a bit of a surprise for us; it doesn’t seem like anything changed.</p>
 
-Starting with the single-core, our whole lineup has maintained a consistent distance between each other, while keeping in their same respective lanes. This trend would continue in the multi-core benchmark if it weren’t for the 2600’s massive jump ahead. Not like it changed places.
+<p>Starting with the single-core, our whole lineup has maintained a consistent distance between each other, while keeping in their same respective lanes. This trend would continue in the multi-core benchmark if it weren’t for the 2600’s massive jump ahead. Not like it changed places.</p>
 
-## Other Budgets 
+<h2 id="other-budgets">Other Budgets</h2>
 
-$500 is a good baseline for an entry level gaming PC, but we've got build guides for a bunch of other budgets as well. 
+<p>$500 is a good baseline for an entry level gaming PC, but we’ve got build guides for a bunch of other budgets as well.</p>
 
-* [$400 gaming PC build guide](/budget-pcs/400/)
-* [$600 gaming PC build guide](/budget-pcs/600/)
-* [$700 gaming PC build guide](/budget-pcs/700/)
-* [$800 gaming PC build guide](/budget-pcs/800/)
-* [$900 gaming PC build guide](/budget-pcs/900/)
-* [$1000 gaming PC build guide](/budget-pcs/1000/)
+<ul>
+  <li><a href="/budget-pcs/400/">$400 gaming PC build guide</a></li>
+  <li><a href="/budget-pcs/600/">$600 gaming PC build guide</a></li>
+  <li><a href="/budget-pcs/700/">$700 gaming PC build guide</a></li>
+  <li><a href="/budget-pcs/800/">$800 gaming PC build guide</a></li>
+  <li><a href="/budget-pcs/900/">$900 gaming PC build guide</a></li>
+  <li><a href="/budget-pcs/1000/">$1000 gaming PC build guide</a></li>
+</ul>
 
-## Peripherals 
+<h2 id="peripherals">Peripherals</h2>
 
-After you build your gaming PC, you're going to need some peripherals too before you're ready to game. 
+<p>After you build your gaming PC, you’re going to need some peripherals too before you’re ready to game.</p>
 
-Most gamers opt to buy a good gaming monitor, a gaming keyboard/mouse, a gaming headset, and even a microphone. 
+<p>Most gamers opt to buy a good gaming monitor, a gaming keyboard/mouse, a gaming headset, and even a microphone.</p>
 
-We know you're on a budget, so we made a list of our top peripheral picks in each category. 
+<p>We know you’re on a budget, so we made a list of our top peripheral picks in each category.</p>
 
-Here are our recommended peripherals for this build: 
+<p>Here are our recommended peripherals for this build:</p>
 
-* [Dell SE2417HG Gaming Monitor](https://amzn.to/2Z0Txcs){: target="_blank"}
-* [Redragon K558 Anala Gaming Keyboard](https://amzn.to/35vrzba){: target="_blank"}
-* [Redragon M711 Cobra Gaming Mouse](){: target="_blank"}
-* [Behringer HX2000 Headphones](https://amzn.to/36DU1aW){: target="_blank"}
-* [Blue Snowball Microphone](https://amzn.to/34xEeZy){: target="_blank"}
+<ul>
+  <li><a href="https://amzn.to/2Z0Txcs" target="_blank">Dell SE2417HG Gaming Monitor</a></li>
+  <li><a href="https://amzn.to/35vrzba" target="_blank">Redragon K558 Anala Gaming Keyboard</a></li>
+  <li><a href="" target="_blank">Redragon M711 Cobra Gaming Mouse</a></li>
+  <li><a href="https://amzn.to/36DU1aW" target="_blank">Behringer HX2000 Headphones</a></li>
+  <li><a href="https://amzn.to/34xEeZy" target="_blank">Blue Snowball Microphone</a></li>
+</ul>
 
-## Windows 10
+<h2 id="windows-10">Windows 10</h2>
 
-If you’ve never built your own personal computer before, you may be a little baffled at the whole Windows 10 installation and activation process. 
+<p>If you’ve never built your own personal computer before, you may be a little baffled at the whole Windows 10 installation and activation process.</p>
 
-If you don’t know how to install Windows 10 and would like to learn, check out that section in our How to Guide for PC building here.
+<p>If you don’t know how to install Windows 10 and would like to learn, check out that section in our How to Guide for PC building here.</p>
 
-The cost might also be a bit of an issue. Maybe you’re looking at Windows 10 keys from Microsoft or Amazon; you’ll regularly see them for $100+. 
+<p>The cost might also be a bit of an issue. Maybe you’re looking at Windows 10 keys from Microsoft or Amazon; you’ll regularly see them for $100+.</p>
 
-Crazy, right? 
+<p>Crazy, right?</p>
 
-In reality, you can just go onto eBay and purchase an OEM key for around $5 from 1 of hundreds of sellers and even get instant delivery.
+<p>In reality, you can just go onto eBay and purchase an OEM key for around $5 from 1 of hundreds of sellers and even get instant delivery.</p>
 
-## Internet Connection
+<h2 id="internet-connection">Internet Connection</h2>
 
-In regards to the internet connection, we never fit our build guides out with Wi-Fi adapters, and usually, just suggest them in a section such as this. So here we are!
+<p>In regards to the internet connection, we never fit our build guides out with Wi-Fi adapters, and usually, just suggest them in a section such as this. So here we are!</p>
 
-For the best speed and lowest latency internet connection, you’ll want to stick with ethernet if you can, and most motherboards nowadays are fitted with a minimum of a Gigabit Ethernet port.
+<p>For the best speed and lowest latency internet connection, you’ll want to stick with ethernet if you can, and most motherboards nowadays are fitted with a minimum of a Gigabit Ethernet port.</p>
 
-However, for those of you that really need the wireless connection, you can opt for an internal Wi-Fi adapter like the TP-Link Archer R4E, or a USB adapter like this Inamax USB Wi-Fi adapter.
+<p>However, for those of you that really need the wireless connection, you can opt for an internal Wi-Fi adapter like the TP-Link Archer R4E, or a USB adapter like this Inamax USB Wi-Fi adapter.</p>
+:ET

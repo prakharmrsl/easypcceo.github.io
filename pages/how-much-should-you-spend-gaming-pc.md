@@ -157,6 +157,10 @@ If you want to game in 1440p, you'll need to spend at least $1,000 on a gaming P
 
 Building for 1440p gaming will always exceed $1,000USD, and there’s no doubt about it. When you’re playing at this high of a resolution you want 60fps, and 1440p ain’t no pushover when it comes to minimum specs.
 
+There are some benefits of spending this much money, however. Your PC will be a workstation monster, able to tackle any intensive task you throw at it, on top of gaming. 
+
+It's well equipped to [host a Rust server](/game-hosts/rust/dedicated-server/), for example, and would do so with ease.
+
 For 60fps 1440p gaming you want a minimum of a GTX 1070 Ti or RTX 2060-Super graphics card in your system, and even then you may not get 60fps in all titles. 
 
 Each of these cards will run you between $380USD and $420USD, so definitely expect it to take up a large portion of your budget. 
