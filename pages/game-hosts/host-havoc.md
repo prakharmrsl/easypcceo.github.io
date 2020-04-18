@@ -456,8 +456,6 @@ I'd recommend Host Havoc to anyone with a medium to high budget, who is serious 
   "@context" : "http://schema.org",
   "@type" : "Product",
   "name" : "Host Havoc",
-  "image" : "https://www.easypc.io/img/game-hosts/host-havoc/logo.jpg",
-  "description" : "Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.",
   "review" : {
     "@type" : "Review",
     "author" : {
@@ -466,9 +464,9 @@ I'd recommend Host Havoc to anyone with a medium to high budget, who is serious 
     },
     "reviewRating" : {
       "@type" : "Rating",
-      "ratingValue" : "11",
-      "bestRating" : "25",
-      "worstRating" : "3"
+      "ratingValue" : "4.5",
+      "bestRating" : "5",
+      "worstRating" : "0"
     }
   }
 }
