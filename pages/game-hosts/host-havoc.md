@@ -152,7 +152,7 @@ Here's a quote from Clay:
 </div>  
 
 ## Host Havoc Locations
-<img class="lazyload" alt="host havoc locations" data-src="/img/game-hosts/host-havoc/locations.jpg">
+<img class="lazyload" alt="host havoc locations" data-src="/img/game-hosts/host-havoc/locations.JPG">
 
 If you're going to buy a server with Host Havoc - or any server company, for that matter - it's essential you live close to one of their server nodes. 
 
