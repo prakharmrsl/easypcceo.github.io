@@ -462,6 +462,7 @@ I'd recommend Host Havoc to anyone with a medium to high budget, who is serious 
     "ratingValue" : "9",
     "bestRating" : "10",
     "worstRating" : "0"
+    "ratingCount" : "10"
   },
   "review" : {
     "@type" : "Review",
