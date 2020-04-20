@@ -11,18 +11,35 @@ meta: "I was wondering how long a gaming PC lasts so I created these statistics 
 	<span>Jacob Tuwiner</span>
 </div>
 
-* TOC
-{: toc}
+There is no definitive answer to this question. For example, some people will need to upgrade their PC every year or even more often, while others can go five years without needing to upgrade.
 
-One of the most common questions I'm asked is the lifespan of a gaming PC. They're generally more expensive than a console, to begin with, but what about upgrades?
+You've probably heard people talk about gaming PCs losing value over time, but never seen any hard data to back it up. 
 
-There is no definitive answer to this question. For example, some people will need to upgrade their PC every year or even more often, while others can go five years without needing to upgrade. 
+I decided to find out the hard numbers for myself.
 
-It all depends on your expectations, but as a general rule of thumb, most people will upgrade their gaming PC every 2-3 years. 
+Here are the results:
 
-But again, the lifespan of your gaming PC comes down to the games you want to play, how much performance you want, what kind of graphics you'd like, and your expectations. 
+A gaming PC worth $2,226 ten years ago is worth roughly $438 today, a drop of around 400%:
 
-Let's talk about how long a gaming PC lasts for most people: 
+<img class="lazyload" alt="gaming pc depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-1.png" />
+
+However, not every component depreciated at the same rate. The rate of depreciation differed because some parts, like cases, are going to hold their value better than others. 
+
+CPUs, on the other hand, are constantly being released, and a ten-year-old CPU is going to be several times slower than the latest CPU, according to [Moore's Law](https://www.investopedia.com/terms/m/mooreslaw.asp){: target="_blank"}. 
+
+In addition to calculating the overall depreciation of the PC over the span of 10 years, I also wanted to know how much each component depreciated over ten years.
+
+Here's a graph of component depreciation over a ten year period (higher bars mean more depreciation):
+
+<img class="lazyload" alt="gaming pc component depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-2.png" />
+
+As you can see, the GPU, CPU and RAM lost most of their value when compared to the other components. This is to be expected, as they're being updated most often and have the largest impact on gaming performance. 
+
+The data suggest that when it comes time to upgrade, you'll probably need to upgrade your GPU and CPU first, followed by your RAM. Surprisingly, the case seemed to lose more value than even the motherboard or hard drive. And lastly, your PSU will hold its value the best, at least in our experiment. 
+
+My findings make sense anecdotally as well - when I upgraded my PC, the first component I swapped was my graphics card, followed by the CPU and lastly the RAM. 
+
+I'm still using the same case, motherboard, hard drive and PSU that were originally installed in the build.
 
 ## Gaming PC Depreciation Statistics
 

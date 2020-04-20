@@ -1,23 +1,50 @@
-I"U0<div class="author-line">
+I"K7<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
-<p>One of the most common questions I’m asked is the lifespan of a gaming PC. They’re generally more expensive than a console, to begin with, but what about upgrades?</p>
-
 <p>There is no definitive answer to this question. For example, some people will need to upgrade their PC every year or even more often, while others can go five years without needing to upgrade.</p>
 
-<p>It all depends on your expectations, but as a general rule of thumb, most people will upgrade their gaming PC every 2-3 years.</p>
+<p>You’ve probably heard people talk about gaming PCs losing value over time, but never seen any hard data to back it up.</p>
 
-<p>But again, the lifespan of your gaming PC comes down to the games you want to play, how much performance you want, what kind of graphics you’d like, and your expectations.</p>
+<p>I decided to find out the hard numbers for myself.</p>
 
-<p>Let’s talk about how long a gaming PC lasts for most people:</p>
+<p>Here are the results:</p>
 
-<h2 id="gaming-pc-depreciation">Gaming PC Depreciation</h2>
+<p>A gaming PC worth $2,226 ten years ago is worth roughly $438 today, a drop of around 400%:</p>
+
+<p><img class="lazyload" alt="gaming pc depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-1.png" /></p>
+
+<p>However, not every component depreciated at the same rate. The rate of depreciation differed because some parts, like cases, are going to hold their value better than others.</p>
+
+<p>CPUs, on the other hand, are constantly being released, and a ten-year-old CPU is going to be several times slower than the latest CPU, according to <a href="https://www.investopedia.com/terms/m/mooreslaw.asp" target="_blank">Moore’s Law</a>.</p>
+
+<p>In addition to calculating the overall depreciation of the PC over the span of 10 years, I also wanted to know how much each component depreciated over ten years.</p>
+
+<p>Here’s a graph of component depreciation over a ten year period (higher bars mean more depreciation):</p>
+
+<p><img class="lazyload" alt="gaming pc component depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-2.png" /></p>
+
+<p>As you can see, the GPU, CPU and RAM lost most of their value when compared to the other components. This is to be expected, as they’re being updated most often and have the largest impact on gaming performance.</p>
+
+<p>The data suggest that when it comes time to upgrade, you’ll probably need to upgrade your GPU and CPU first, followed by your RAM. Surprisingly, the case seemed to lose more value than even the motherboard or hard drive. And lastly, your PSU will hold its value the best, at least in our experiment.</p>
+
+<p>My findings make sense anecdotally as well - when I upgraded my PC, the first component I swapped was my graphics card, followed by the CPU and lastly the RAM.</p>
+
+<p>I’m still using the same case, motherboard, hard drive and PSU that were originally installed in the build.</p>
+
+<h2 id="gaming-pc-depreciation-statistics">Gaming PC Depreciation Statistics</h2>
+
+<p>In short:</p>
+
+<ul>
+  <li>Over a 10 year period, a high-end gaming PC lost more than 400% of its value</li>
+  <li>The CPU, GPU, and RAM lose value faster than the PSU, HDD, and MOBO</li>
+</ul>
 
 <p>I’ve always heard people talk about gaming PC’s losing value over time, but I’d never seen any hard data to back it up.</p>
 
-<p>I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the ‘best PC gaming components’ of 2010, along with their prices at the time.</p>
+<p>I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the ‘best PC gaming components’ of 2010, along with their prices ten years ago.</p>
 
 <p>Then, I looked at the rate of their value depreciation over time, to see what the PC is worth today.</p>
 
@@ -124,11 +151,11 @@
 
 <p>For example, my friend Diego built his gaming PC when he was in the 8th grade (probably 5-6 years ago at this point). He invested a lot of money in his PC at the time, opting for an i7-4790K and an R9 290X, with 16GB of DDR3 RAM, and an SSD.</p>
 
-<p>At the time, his PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn’t upgraded a thing aside from adding another SSD, and the PC is still trucking along.</p>
+<p>His PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn’t upgraded a thing aside from adding another SSD, and the PC is still trucking along.</p>
 
 <p>However, he’s not maxing the latest titles at 1440p ultra settings, nor does he play <em>insanely</em> demanding games.</p>
 
-<p>Still, the games he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates.</p>
+<p>Still, he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates.</p>
 
 <p>But if he wanted to play the latest games with the best performance, he’d have to upgrade. Again, it all comes down to your expectations.</p>
 

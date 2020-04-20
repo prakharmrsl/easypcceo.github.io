@@ -1,29 +1,21 @@
-I"�+<div class="author-line">
+I"38<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
 
-<p>One of the most common questions I’m asked is the lifespan of a gaming PC. They’re generally more expensive than a console, to begin with, but what about upgrades?</p>
-
 <p>There is no definitive answer to this question. For example, some people will need to upgrade their PC every year or even more often, while others can go five years without needing to upgrade.</p>
-
-<p>It all depends on your expectations, but as a general rule of thumb, most people will upgrade their gaming PC every 2-3 years.</p>
-
-<p>But again, the lifespan of your gaming PC comes down to the games you want to play, how much performance you want, what kind of graphics you’d like, and your expectations.</p>
-
-<p>Let’s talk about how long a gaming PC lasts for most people:</p>
-
-<h2 id="gaming-pc-depreciation">Gaming PC Depreciation</h2>
 
 <p>I’ve always heard people talk about gaming PC’s losing value over time, but I’d never seen any hard data to back it up.</p>
 
-<p>I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the ‘best PC gaming components’ of 2010, along with their prices at the time.</p>
+<p>I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the ‘best PC gaming components’ of 2010, along with their prices ten years ago.</p>
 
 <p>Then, I looked at the rate of their value depreciation over time, to see what the PC is worth today.</p>
 
 <p>The results?</p>
 
 <p>A gaming PC worth $2,226 ten years ago is worth roughly $438 today, a drop of around 400%:</p>
+
+<p><img class="lazyload" alt="gaming pc depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-1.png" /></p>
 
 <p>However, not every component depreciated at the same rate. The rate of depreciation differed because some parts, like cases, are going to hold their value better than others.</p>
 
@@ -32,6 +24,47 @@
 <p>In addition to calculating the overall depreciation of the PC over the span of 10 years, I also wanted to know how much each component depreciated over ten years.</p>
 
 <p>Here’s a graph of component depreciation over a ten year period (higher bars mean more depreciation):</p>
+
+<p><img class="lazyload" alt="gaming pc component depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-2.png" /></p>
+
+<p>As you can see, the GPU, CPU and RAM lost most of their value when compared to the other components. This is to be expected, as they’re being updated most often and have the largest impact on gaming performance.</p>
+
+<p>The data suggest that when it comes time to upgrade, you’ll probably need to upgrade your GPU and CPU first, followed by your RAM. Surprisingly, the case seemed to lose more value than even the motherboard or hard drive. And lastly, your PSU will hold its value the best, at least in our experiment.</p>
+
+<p>My findings make sense anecdotally as well - when I upgraded my PC, the first component I swapped was my graphics card, followed by the CPU and lastly the RAM.</p>
+
+<p>I’m still using the same case, motherboard, hard drive and PSU that were originally installed in the build.</p>
+
+<h2 id="gaming-pc-depreciation-statistics">Gaming PC Depreciation Statistics</h2>
+
+<p>In short:</p>
+
+<ul>
+  <li>Over a 10 year period, a high-end gaming PC lost more than 400% of its value</li>
+  <li>The CPU, GPU, and RAM lose value faster than the PSU, HDD, and MOBO</li>
+</ul>
+
+<p>I’ve always heard people talk about gaming PC’s losing value over time, but I’d never seen any hard data to back it up.</p>
+
+<p>I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the ‘best PC gaming components’ of 2010, along with their prices ten years ago.</p>
+
+<p>Then, I looked at the rate of their value depreciation over time, to see what the PC is worth today.</p>
+
+<p>The results?</p>
+
+<p>A gaming PC worth $2,226 ten years ago is worth roughly $438 today, a drop of around 400%:</p>
+
+<p><img class="lazyload" alt="gaming pc depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-1.png" /></p>
+
+<p>However, not every component depreciated at the same rate. The rate of depreciation differed because some parts, like cases, are going to hold their value better than others.</p>
+
+<p>CPUs, on the other hand, are constantly being released, and a ten-year-old CPU is going to be several times slower than the latest CPU, according to <a href="https://www.investopedia.com/terms/m/mooreslaw.asp" target="_blank">Moore’s Law</a>.</p>
+
+<p>In addition to calculating the overall depreciation of the PC over the span of 10 years, I also wanted to know how much each component depreciated over ten years.</p>
+
+<p>Here’s a graph of component depreciation over a ten year period (higher bars mean more depreciation):</p>
+
+<p><img class="lazyload" alt="gaming pc component depreciation chart over 10 year period" data-src="/img/gaming-pc-lifespan/depreciation-2.png" /></p>
 
 <p>As you can see, the GPU, CPU and RAM lost most of their value when compared to the other components. This is to be expected, as they’re being updated most often and have the largest impact on gaming performance.</p>
 
@@ -59,9 +92,11 @@
 
 <p>With an $800 budget, let’s say you can fit a Ryzen 5 3600 and a GTX 1070 in your build, and you want to run all games at 1080p with high or ultra settings.</p>
 
+<p><img class="lazyload img-right img-small" alt="gaming pc" data-src="/img/gaming-pc-lifespan/1.png" /></p>
+
 <p>That mindset would be okay for 2-3 years, but it all comes down to your expectations, which is something you need to figure out yourself.</p>
 
-<p>For example, let’s say Jim gets the new PC with an R5 and a GTX 1070. Jim wants to play all of the newest titles in 1080p with great settings and framerates, but he’s alright with turning his settings down a bit and not having locked 60FPS in more demanding games.</p>
+<p>For example, let’s say Jim gets the new PC with an <a href="/cpu/gtx-1070/">R5 and a GTX 1070</a>. Jim wants to play all of the newest titles in 1080p with great settings and framerates, but he’s alright with turning his settings down a bit and not having locked 60FPS in more demanding games.</p>
 
 <p>On the other hand, Bill is building the same PC but has much higher expectations. He wants to run all games at 60 FPS, 1080p, with maxed-out settings.</p>
 
@@ -72,6 +107,8 @@
 <p>One of the best parts about building a gaming PC as opposed to buying a console is the freedom to upgrade whenever you want.</p>
 
 <p>Buy the parts that you need right now to achieve what you want, i.e. a Ryzen 5 and a 1070. In 2 years time, or whenever you feel is necessary, you can swap out your graphics card for the next best thing.</p>
+
+<p><img class="lazyload" alt="gaming pc setup" data-src="/img/gaming-pc-lifespan/setup.jpg" /></p>
 
 <p>Selling the GPU you have and using the money to fund the purchase of your new card will help to offset the cost of the new GPU as well, which is also pretty awesome.</p>
 
@@ -93,6 +130,8 @@
 
 <h2 id="how-long-do-prebuilt-pcs-last">How Long do Prebuilt PCs Last?</h2>
 
+<p><img class="lazyload img-right img-small" alt="prebuilt gaming pc setup" data-src="/img/gaming-pc-lifespan/prebuilt.png" /></p>
+
 <p>A prebuilt PC itself isn’t going to have a longer or shorter lifespan than a custom-built PC based on the fact that it’s prebuilt.</p>
 
 <p>Prebuilt PCs aren’t inherently better or worse than custom-built PCs - the only difference is they’re built by someone else.</p>
@@ -101,9 +140,10 @@
 
 <p>That being said, you’d be hard-pressed to find a prebuilt PC for the same price as a custom-built PC with better performance.</p>
 
-<p>This performance discrepancy means a $500 prebuilt PC will probably need upgrading sooner than a $500 custom-built PC because the prebuilt probably have slower parts, to begin with.</p>
+<p>This performance discrepancy means a $500 prebuilt PC will probably need upgrading sooner than a <a href="/budget-pcs/500/">$500 custom-built PC</a> because the prebuilt probably have slower parts, to begin with.</p>
 
 <h2 id="how-long-will-a-high-end-computer-last">How Long Will a High-End Computer Last?</h2>
+<p><img class="lazyload img-small img-right" alt="gaming pc setup" data-src="/img/gaming-pc-lifespan/high-end.jpg" /></p>
 
 <p>A high-end PC will last a long time if you’re willing to turn your settings down a bit. Sure, a top-of-the-line PC will be able to smash 1440p gaming with ease when it’s first constructed.</p>
 
@@ -113,11 +153,11 @@
 
 <p>For example, my friend Diego built his gaming PC when he was in the 8th grade (probably 5-6 years ago at this point). He invested a lot of money in his PC at the time, opting for an i7-4790K and an R9 290X, with 16GB of DDR3 RAM, and an SSD.</p>
 
-<p>At the time, his PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn’t upgraded a thing aside from adding another SSD, and the PC is still trucking along.</p>
+<p>His PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn’t upgraded a thing aside from adding another SSD, and the PC is still trucking along.</p>
 
 <p>However, he’s not maxing the latest titles at 1440p ultra settings, nor does he play <em>insanely</em> demanding games.</p>
 
-<p>Still, the games he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates.</p>
+<p>Still, he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates.</p>
 
 <p>But if he wanted to play the latest games with the best performance, he’d have to upgrade. Again, it all comes down to your expectations.</p>
 
@@ -125,9 +165,15 @@
 
 <p>It depends on what you’re looking to accomplish. Generally speaking, most people will upgrade a component every 2-3 years. But that doesn’t mean you need to constantly spend hundreds of dollars.</p>
 
-<p>Most people upgrade their storage, or buy a new GPU and keep everything else as-is. You can sell your GPU, and use the money to upgrade to the latest version, so in the grand scheme of things you don’t have to spend that much out of pocket, after the initial purchase.</p>
+<p>Most people upgrade their storage, or buy a new GPU and keep everything else as-is. You can sell your <a href="/graphics-cards/">GPU</a>, and use the money to upgrade to the latest version, so in the grand scheme of things you don’t have to spend that much out of pocket, after the initial purchase.</p>
 
 <p>If you want to play the newest games at the best possible settings all of the time, you’ll need to upgrade yearly to keep up. If you’re cool with turning things down just a bit and don’t have outlandish expectations, your PC will last you 3-5 years, depending on how much you invest upfront.</p>
+
+<h2 id="how-much-should-you-spend-on-a-gaming-pc">How Much Should You Spend on a Gaming PC?</h2>
+
+<p>The answer to this question is, well, it depends.</p>
+
+<p>It depends on how much you have to spend, and what kind of performance you’re looking to achieve. For a full explanation, check out our full guide by clicking <a href="/how-much-should-you-spend-gaming-pc/">here</a>.</p>
 
 <h2 id="are-gaming-pcs-worth-it">Are Gaming PCs Worth It?</h2>
 
