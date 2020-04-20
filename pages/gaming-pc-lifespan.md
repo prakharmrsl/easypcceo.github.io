@@ -144,7 +144,7 @@ His PC was an absolute monster that cost nearly $2,000 when all was said and don
 
 However, he's not maxing the latest titles at 1440p ultra settings, nor does he play *insanely* demanding games.
 
-Still, the games he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates. 
+Still, he manages to play some of the latest AAA titles in 1080p with respectable graphics and framerates. 
 
 But if he wanted to play the latest games with the best performance, he'd have to upgrade. Again, it all comes down to your expectations. 
 
