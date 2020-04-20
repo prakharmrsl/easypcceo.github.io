@@ -74,7 +74,7 @@ If you want to host a Rust dedicated server the easy way, you're better off inve
 ## Hosting a Rust Server (The Hard Way)
 
 <div class="vid-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/A21Okdl114Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JXxesUJocTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 Well, if paying for hosting isn't your thing, I've got your back. 
@@ -148,6 +148,10 @@ To receive pre-release updates, use the command **app_update 258550 -beta prerel
 Rust Oxide is a server-side Rust mod that allows you to outfit your server with tons of amazing plugins to enhance the experience.
 
 ### How to Install Rust Oxide
+
+<div class="vid-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JXxesUJocTY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 The installation process is quick and painless. Here’s how you do it:
 
