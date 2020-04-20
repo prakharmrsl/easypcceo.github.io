@@ -3,7 +3,7 @@ title: "How Long Does a Gaming PC Last?"
 permalink: "/gaming-pc-lifespan/"
 layout: page
 seotitle: "How Long Does a Gaming PC Last? (Statistics)" 
-meta: "I was wondering 'how long does a gaming PC last?' so I created these statistics to answer the question."
+meta: "I was wondering how long a gaming PC lasts so I created these statistics to answer the question."
 ---
 
 <div class="author-line">
