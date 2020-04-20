@@ -195,7 +195,7 @@ To be honest with you, though, we’re not entirely sold on the whole idea of 4K
 
 Assuming you’re putting your dollars out to reach for the sky and tackle 4K 60fps gaming, you’re going to be blowing some serious holes in your pockets my friend. 
 
-Go ahead and expect to spend upwards of $2,000USD or more for the computer alone.
+Go ahead and expect to spend upwards of $2,000USD or more for the computer alone. But keep in mind that if you spend this much, your PC will [last a long time](/gaming-pc-lifespan/) if you're okay with turning some settings down eventually. 
 
 ![4k gaming setup with keyboard](/img/how-much-should-you-spend-gaming-pc/4k-desk.jpg){: .img-middle}
 
