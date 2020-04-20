@@ -1,4 +1,4 @@
-I"J7<div class="author-line">
+I"w8<div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
 </div>
@@ -7,9 +7,22 @@
 
 <p>You’ve probably heard people talk about gaming PCs losing value over time, but never seen any hard data to back it up.</p>
 
+<table class="basic-table">
+  <tr>
+    <th>PIC</th>
+    <th>Game</th>
+    <th>Guide</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="rust logo" src="/img/game-hosts/rust/logo.png" /></td>
+    <td>Rust</td>
+    <td><a href="/game-hosts/rust/">Check it out</a></td>
+  </tr>
+</table>
+
 <p>I decided to find out the hard numbers for myself.</p>
 
-<p>Here are the results</p>
+<p>Here are the results:</p>
 
 <p>A gaming PC worth $2,226 ten years ago is worth roughly $438 today, a drop of around 400%:</p>
 

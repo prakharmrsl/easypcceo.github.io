@@ -445,6 +445,10 @@ Most people who buy a server will keep it for months or years to come, meaning i
 
 I will admit that my last 'thing I didn't like' was me being picky, and overall I'm glad they have a guarantee at all, which they do the honor. 
 
+## Popular Games 
+
+{% include games.html %}
+
 ## Conclusion 
 
 In summary, Host Havoc is a dank hosting company that offers premium servers for large communities, fantastic support, and a robust control panel compatible with mods and plugins.

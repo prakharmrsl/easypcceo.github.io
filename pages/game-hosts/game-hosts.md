@@ -775,3 +775,7 @@ If you want to game with a few friends, paying $5-$10 per month should be fine. 
 I'm paying a measly $3/month for a Minecraft server meant for my girlfriend and me to play a survival world. The server doesn't require any high-end equipment or anything because it only has to handle the two of us playing. 
 
 But if I wanted even 10 people to join, it would surely start to lag. If you're taking your server seriously, it's worth spending the extra money because you get what you pay for in the hosting world. 
+
+## Popular Games 
+
+{% include games.html %}

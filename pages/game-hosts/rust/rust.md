@@ -711,6 +711,10 @@ So here are our top picks for Rust plugins that can improve the quality of your 
 
 [Crafting Controller](https://umod.org/plugins/crafting-controller){: target="_blank"} Allows you to modify item crafting times.
 
+## Popular Games 
+
+{% include games.html %}
+
 ## Conclusion 
 
 Hosting a Rust server is hard enough, not to mention the buying process. But if you want your server to thrive, choosing the right server hosting company is imperative. 
