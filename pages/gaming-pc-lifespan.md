@@ -33,7 +33,7 @@ In short:
 
 I've always heard people talk about gaming PC's losing value over time, but I'd never seen any hard data to back it up. 
 
-I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the 'best PC gaming components' of 2010, along with their prices at the time. 
+I decided to find out the hard numbers for myself. In a spreadsheet, I put together a list of the 'best PC gaming components' of 2010, along with their prices ten years ago. 
 
 Then, I looked at the rate of their value depreciation over time, to see what the PC is worth today. 
 
@@ -140,7 +140,7 @@ On the other hand, if you're alright with turning the settings down a bit, you w
 
 For example, my friend Diego built his gaming PC when he was in the 8th grade (probably 5-6 years ago at this point). He invested a lot of money in his PC at the time, opting for an i7-4790K and an R9 290X, with 16GB of DDR3 RAM, and an SSD.
 
-At the time, his PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn't upgraded a thing aside from adding another SSD, and the PC is still trucking along. 
+His PC was an absolute monster that cost nearly $2,000 when all was said and done. He hasn't upgraded a thing aside from adding another SSD, and the PC is still trucking along. 
 
 However, he's not maxing the latest titles at 1440p ultra settings, nor does he play *insanely* demanding games.
 
