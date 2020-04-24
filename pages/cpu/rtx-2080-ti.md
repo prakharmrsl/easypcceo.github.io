@@ -506,6 +506,16 @@ Check out our other CPU recommendations:
   </tr>
 </table>
 
+## Compare CPUs 
+
+If you want to compare different CPUs to help you decide which is best for your 1060, here are some awesome resources for you:
+
+* [UserBenchmark](https://www.userbenchmark.com/){: target="_blank"}
+* [CPUBoss](http://cpuboss.com/){: target="_blank"}
+* [CPU Benchmarks](https://www.cpubenchmark.net/){: target="_blank"}
+
+Those links should help!
+
 ## Liked the guide?
 
 <div class="quick-tip">
