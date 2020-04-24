@@ -1,5 +1,5 @@
 ---
-title: "PingPerfect Review: Buy Their Servers?" 
+title: "PingPerfect Review 2020" 
 permalink: "/game-hosts/pingperfect/"
 layout: page
 seotitle: "PingPerfect Review: 5 Things to Know Before Buying (2020)" 
