@@ -144,7 +144,7 @@ What I can say, however, is my friends and I had incredibly low ping for the ent
 Overall, I was quite pleased with its performance.
 
 ## PingPerfect Control Panel 
-<img class="lazyload" alt="pingperfect control panel" data-src="/img/game-hosts/ping-perfect/control-panel.jpg">
+<img class="lazyload" alt="pingperfect control panel" data-src="/img/game-hosts/ping-perfect/control-panel.JPG">
 
 PingPerfect uses a custom variant of TCAdmin, a battle tested control panel that's flexible, functional, and reliable. The control panel does have somewhat of a learning curve for newbies, but it's not too bad. 
 
