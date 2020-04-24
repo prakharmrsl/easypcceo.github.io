@@ -27,6 +27,8 @@ Their servers are fast, support is on point, and the value is there for most peo
 
   <p>However, their servers do get a bit pricey as you scale to larger slot counts. </p>
 
+  <p><b>Score: 4.8/5</b></p>
+
 </div>
 
 ## What We're Looking For 
