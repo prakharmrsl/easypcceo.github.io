@@ -65,7 +65,7 @@ And if you're the type who likes a free trial instead, they can hook you up with
 Their stellar support, long company history, terrific performance and wide variety of games speak for themselves. PingPerfect is one of the best hosting companies in the industry.
 
 ## PingPerfect Locations 
-<img class="lazyload" alt="pingperfect locations" data-src="/img/game-hosts/ping-perfect/locations.jpg">
+<img class="lazyload" alt="pingperfect locations" data-src="/img/game-hosts/ping-perfect/locations.JPG">
 
 PingPerfect has server nodes all around the world. 
 
@@ -106,7 +106,7 @@ PingPerfect is primarily a game hosting company, but they offer other hosting se
 Since I only tested their game servers, I'm going to steer clear of the VPS/voice servers in this review, as I cannot attest to their quality. But if they're anything like their game servers, I'd highly recommend them as well.
 
 ## PingPerfect Games 
-<img class="lazyload" alt="pingperfect games" data-src="/img/game-hosts/ping-perfect/games.jpg">
+<img class="lazyload" alt="pingperfect games" data-src="/img/game-hosts/ping-perfect/games.JPG">
 
 PingPerfect supports more than 130 [games](https://pingperfect.com/gameservers/){: target="_blank"}, all with instant server deployment, meaning your server will be up and running within seconds after paying. 
 
@@ -151,7 +151,7 @@ Either way, I can't complain about PingPerfect's control panel. It allows you to
 PingPerfect's control panel also has links to helpful resources like Tebex, where you can monetize your server, and their knowledgebase, which has a plethora of helpful information. 
 
 ## PingPerfect Knowledgebase 
-<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/knowledgebase.jpg">
+<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/knowledgebase.JPG">
 
 PingPerfect has an impressive knowledge base with more than 600 tips, tricks, and step-by-step tutorials that'll help you get your server up and running. You can access their knowledge base via your game panel, their main website, or by searching for a solution in Google, adding "PingPerfect" to the end. 
 
@@ -159,7 +159,7 @@ Nine times out of ten, Google will return a knowledge base tutorial, or a helpfu
 
 In their categories tab, you'll see nearly 600 individual articles in the game servers section, and significantly less covering other aspects of the site, and none covering their dedicated servers. It seems like their main customer base needs help with game servers, so it's easy to understand why they've somewhat neglected other sections of their knowledgebase. 
 
-<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/categories.jpg">
+<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/categories.JPG">
 
 It also looks like they have a plethora of articles for their popular games like Rust and ARK, but significantly less for less popular games like Insurgency Sandstorm. 
 
@@ -206,7 +206,7 @@ This table compares PingPerfect to other popular hosting companies:
 {% include hosts.html %}
 
 ## PingPerfect Support 
-<img class="lazyload" alt="pingperfect support" data-src="/img/game-hosts/ping-perfect/support.jpg">
+<img class="lazyload" alt="pingperfect support" data-src="/img/game-hosts/ping-perfect/support.JPG">
 
 Should you need any help with literally anything, PingPerfect's support team will come to the rescue in ten minutes or less. 
 
@@ -258,7 +258,7 @@ As you can see, PingPerfect offers the cheapest price of all the companies, but 
 
 PingPerfect also offers a discount for longer commitments. 5% discount for quarterly, 10% discount for semi-annually, and 15% discount for annual payments. 
 
-<img class="lazyload" alt="pingperfect slot pricing" data-src="/img/game-hosts/ping-perfect/slot-prices.jpg">
+<img class="lazyload" alt="pingperfect slot pricing" data-src="/img/game-hosts/ping-perfect/slot-prices.JPG">
 
 However, it can also increase in price - like most hosting companies, you can pay for additional performance add ons, like additional memory and CPU priority. Those addons probably aren't necessary for most beginner server owners, though, and can always be added later.
 
