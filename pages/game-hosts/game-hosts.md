@@ -45,50 +45,7 @@ Let's jump in:
 
 This table compares some of the most popular game server hosting companies: 
 
-<table class="basic-table" align="center">
-  <tr>
-    <th>Logo</th>
-    <th>Host</th>
-    <th>Details</th>
-    <th>Rent</th>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
-    <td class="components">
-      <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
-    <td class="components">
-      <ul>
-      <li>A+ Performance</li>
-      <li>Fair pricing</li>
-      <li>Lots of games</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
-    <td class="components">
-      <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
-  </tr>
-</table>
+{% include hosts.html %}
 
 ## What is a Dedicated Game Server?
 
@@ -174,50 +131,7 @@ As you can (hopefully) see, the advantages of dedicated game servers far outweig
 
 ## Top Game Server Hosting Options 
 
-<table class="basic-table" align="center">
-  <tr>
-    <th>Logo</th>
-    <th>Host</th>
-    <th>Details</th>
-    <th>Rent</th>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
-    <td class="components">
-      <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
-    <td class="components">
-      <ul>
-      <li>A+ Performance</li>
-      <li>Fair pricing</li>
-      <li>Lots of games</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
-    <td class="components">
-      <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
-  </tr>
-</table>
+{% include hosts.html %}
 
 For the last several months, I've been looking for a new server company to host with. 
 
@@ -455,9 +369,10 @@ Ping Perfect is a large company with server nodes around the world. They probabl
 
 Whether you want to play ARK, Rust, 7 Days to Die, or any of the other 130+ games they support, Ping Perfect is a great option. 
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://pingperfect.com/aff.php?aff=803">Rent from PingPerfect</a>
-</div>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
+</div> 
 
 <div class="featured-info-box">
 <span>Also Awesome</span>

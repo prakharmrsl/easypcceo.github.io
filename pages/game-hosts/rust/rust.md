@@ -438,9 +438,10 @@ Ping Perfect is a large company with server nodes around the world. They probabl
 
 If you want a great company with fair pricing for your Rust server, Ping Perfect is a great option. 
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://pingperfect.com/aff.php?aff=803">Rent from PingPerfect</a>
-</div>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
+</div> 
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
