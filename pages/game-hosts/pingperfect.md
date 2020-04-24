@@ -66,6 +66,8 @@ Their stellar support, long company history, terrific performance and wide varie
 
 ## PingPerfect Locations 
 <img class="lazyload" alt="pingperfect locations" data-src="/img/game-hosts/ping-perfect/locations.JPG">
+* TOC 
+{: toc}
 
 PingPerfect has server nodes all around the world. 
 
