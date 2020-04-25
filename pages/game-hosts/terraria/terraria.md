@@ -881,8 +881,6 @@ Thankfully, this also translates to server hosting. [RAM](https://www.digitaltre
 
 A small world with just a couple players should have at least 1 GB of RAM. A large world with about a dozen players may require 2 GB. Beyond this, 4-8 GB of RAM should be enough to handle almost anything you want, including many players and mods.
 
-## Popular Games 
-
 {% include games.html %}
 
 ## Conclusion 

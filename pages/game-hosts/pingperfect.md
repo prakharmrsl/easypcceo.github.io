@@ -335,6 +335,8 @@ I know it's hard to do that for more than 600 tutorials, but at least starting w
 
 I'd also prefer tiered pricing that rewards users to rent larger servers. Their pricing structure is great for small to medium sized servers, but there is no incentive to buy more slots than what is absolutely necessary.
 
+{% include games.html %}
+
 ## The Final Word 
 
 PingPerfect is a great hosting company, but everyone has different needs. If you're looking to get started hosting a game server on a tight budget, PingPerfect is a great choice. 

@@ -2054,3 +2054,36 @@ blockquote p {
   justify-content: space-around;
   align-items: center;
 }
+
+.price-menu-internal {
+  max-width: 800px !important;
+  margin: 0 auto;
+ 
+ ul {
+  padding: 0 !important;
+ }
+
+ li {
+  list-style-type: none;
+  padding-bottom: 12px;
+ }
+  
+}
+
+.game-icon {
+  background-size: contain;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  position: relative;
+  display: inline-block;
+  line-height: 1em;
+  width: 2em;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+
+.game-icon-text {
+  vertical-align: middle;
+  padding-left: .5em;
+  font-size: 1.5em;
+}

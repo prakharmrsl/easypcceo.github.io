@@ -470,6 +470,8 @@ After all, paying for dedicated game hosting is supposed to make your life easie
   <a target="_blank" class="big-button-center" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent from GSK</a>
 </div>
 
+{% include games.html %}
+
 ## How to Choose Game Server Hosting 
 
 Alright, you've decided to go with dedicated game server hosting. Awesome!
@@ -689,8 +691,4 @@ If you want to game with a few friends, paying $5-$10 per month should be fine. 
 
 I'm paying a measly $3/month for a Minecraft server meant for my girlfriend and me to play a survival world. The server doesn't require any high-end equipment or anything because it only has to handle the two of us playing. 
 
-But if I wanted even 10 people to join, it would surely start to lag. If you're taking your server seriously, it's worth spending the extra money because you get what you pay for in the hosting world. 
-
-## Popular Games 
-
-{% include games.html %}
+But if I wanted even 10 people to join, it would surely start to lag. If you're taking your server seriously, it's worth spending the extra money because you get what you pay for in the hosting world.  

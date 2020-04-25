@@ -12,9 +12,7 @@ meta: "After running several rust servers with more than a dozen hosting compani
 </div>
 
 <ul id="markdown-toc">
-  
   <li><a href="#what-is-rust-server-hosting" id="markdown-toc-what-is-rust-server-hosting">What is Rust Server Hosting?</a></li>
-  
   <li><a href="#top-3-rust-server-hosting-options" id="markdown-toc-top-3-rust-server-hosting-options">Top 3 Rust Server Hosting Options</a></li>
   <li><a href="#free-rust-server-hosting-private-server" id="markdown-toc-free-rust-server-hosting-private-server">Free Rust Server Hosting (Private Server)</a></li>
   <li><a href="#how-to-make-a-rust-server" id="markdown-toc-how-to-make-a-rust-server">How to Make a Rust Server</a></li>
@@ -711,8 +709,6 @@ So here are our top picks for Rust plugins that can improve the quality of your 
 [Rust Kits](https://umod.org/plugins/rust-kits){: target="_blank"} Adds the ability to create item kits for players.
 
 [Crafting Controller](https://umod.org/plugins/crafting-controller){: target="_blank"} Allows you to modify item crafting times.
-
-## Popular Games 
 
 {% include games.html %}
 
