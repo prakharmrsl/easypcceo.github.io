@@ -11,6 +11,8 @@ meta: "If you want to take control of the action, hosting your own Squad server 
     <span>Jacob Tuwiner</span>
 </div>
 
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How Much Does it Cost to Rent a Game Server? ","acceptedAnswer":[{"@type":"Answer","text":"Renting a game server can range anywhere from $10 per month to $150 per month, depending on the size of your server, the game you're playing, and you're hosting company. \n"}]},{"@type":"Question","name":"How to Host Your Squad Server (Free)","acceptedAnswer":[{"@type":"Answer","text":"Alright, so, while you can host a Squad server for completely free of your home computer or separate computer on your network, it's really not a good idea."}]},{"@type":"Question","name":"What are the Game Modes in Squad? ","acceptedAnswer":[{"@type":"Answer","text":"Advance and Secure\nRandom Advance and Secure\nSkirmish\nDestruction\nInsurgency\nInvasion\nTerritory Control\nShooting Range (Single player sandbox for training and practice)"}]}]}</script>
+
 <ul id="markdown-toc">
   <li><a href="#top-3-squad-server-providers" id="markdown-toc-top-3-squad-server-providers">Top 3 Squad Server Providers</a></li>
   <li><a href="#about-squad" id="markdown-toc-about-squad">About Squad</a></li>
@@ -233,6 +235,12 @@ Here is a list of the game modes in Squad:
 * Invasion
 * Territory Control
 * Shooting Range (Single player sandbox for training and practice)
+
+## How Much Does it Cost to Rent a Game Server? 
+
+Renting a game server can range anywhere from $10 per month to $150 per month, depending on the size of your server, the game you're playing, and you're hosting company. 
+
+Keep in mind, you get what you pay for. More players and larger maps usually means higher prices, and since Squad is such a large scale multiplayer game, Squad server hosting is usually on the expensive side. 
 
 ## How to Host Your Squad Server (Free)
 
