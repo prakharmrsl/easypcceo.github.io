@@ -361,9 +361,10 @@ HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player.
 
 If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from GSK</a>
-</div>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+</div> 
 
 ## Best Terraria Server Hosting with Mods 
 
