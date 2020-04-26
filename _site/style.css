@@ -2838,7 +2838,7 @@ blockquote p {
     position: absolute;
     right: 0;
     top: 13px;
-    z-index: 2;
+    z-index: 999;
     color: #fff;
     text-decoration: none;
     text-transform: uppercase;
@@ -2880,7 +2880,7 @@ blockquote p {
     height: 100%;
     background: #000;
     bottom: 0;
-    z-index: 1;
+    z-index: 99;
     float: none;
     overflow-y: auto;
     padding-bottom: 50px;
