@@ -45,13 +45,14 @@ To save you the frustration and waste of money I had to deal with, here are the 
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">PingPerfect</a></td>
+    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803
+">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="gameservers logo" data-src="/img/game-hosts/streamline-servers/logo.png" /></td>
@@ -98,15 +99,15 @@ Here are the best Squad server hosting companies on the market:
 
 {% include ping-perfect.html %}
 
-[PingPerfect](https://hosthavoc.com/billing/aff.php?aff=1379){: target="_blank"} is one of the best server hosting companies around, regardless of the game you're playing. Between their fair pricing, stellar support, great performance, and awesome control panel, it doesn't get better than them. 
+[PingPerfect](https://pingperfect.com/aff.php?aff=803){: target="_blank"} is one of the best server hosting companies around, regardless of the game you're playing. Between their fair pricing, stellar support, great performance, and awesome control panel, it doesn't get better than them. 
 
 PingPerfect offers Squad server hosting starting at $0.95/slot. Their Squad servers have a minimum slot count of 20 and a maximum of 72. Considering most large scale Squad games are 40v40, it does seem a bit odd that they don't have a max slot count of 80, but oh well. 
 
 On top of choosing your slot count, you can pay for extra CPU priority, which is great for Squad server hosting since the games have a lot of players (which use a lot of CPU power).
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
 </div> 
 
 {% include streamline-servers.html %}
@@ -138,6 +139,45 @@ The server locations are quite limited, but they offer paid performance increase
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
 </div>
+
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
+    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="gameservers logo" data-src="/img/game-hosts/streamline-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://streamline-servers.com/billing/aff.php?aff=974">Streamline Servers</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a href="https://streamline-servers.com/billing/aff.php?aff=974" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+</table>
 
 ## How to Choose Squad Server Hosting
 <img class="lazyload" alt="squad" data-src="/img/game-hosts/squad/logo.png">
