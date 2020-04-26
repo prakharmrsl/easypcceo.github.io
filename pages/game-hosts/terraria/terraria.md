@@ -93,8 +93,10 @@ Both options have their own advantages and disadvantages. The next section will 
     <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gtxgaming.co.uk/"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
-    <td><a target="_blank" href="https://www.gtxgaming.co.uk/">GTX Gaming</a></td>
+      <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>255 slots</li>
@@ -102,7 +104,8 @@ Both options have their own advantages and disadvantages. The next section will 
       <li>Auto backups</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
@@ -229,8 +232,10 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
     <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gtxgaming.co.uk/"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
-    <td><a target="_blank" href="https://www.gtxgaming.co.uk/">GTX Gaming</a></td>
+      <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>255 slots</li>
@@ -238,7 +243,8 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
       <li>Auto backups</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
@@ -459,7 +465,7 @@ For just a bit more, you can also opt to upgrade your process priority.
 
 ## Cheapest Terraria Server Hosting
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
+<div class="featured-info-box">
 <span>Budget Hosting</span>
 <div class="content">
 <div class="img">
@@ -559,18 +565,20 @@ If you don’t want to shell out, Nitrous Networks provides great value and feat
 
 ## Best Large Terraria Server Host
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
+<div class="featured-info-box">
 <span>Large Server Hosting</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="GTX Gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a>
+<a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+"><img class="lazyload" alt="GTX Gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a>
 </div>
 <div class="text">
 <h2>GTX Gaming</h2>
 <h3>Game Servers</h3>
 <p>With over 10 years of experience, GTX Gaming provides great customization and offers massive Terraria servers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from GTX Gaming</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">Rent from GTX Gaming</a>
 </div>
 </div>
 </div>
@@ -802,8 +810,10 @@ The biggest downside of this provider is the cost, but if you’re looking for a
     <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gtxgaming.co.uk/"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
-    <td><a target="_blank" href="https://www.gtxgaming.co.uk/">GTX Gaming</a></td>
+      <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>255 slots</li>
@@ -811,7 +821,8 @@ The biggest downside of this provider is the cost, but if you’re looking for a
       <li>Auto backups</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
