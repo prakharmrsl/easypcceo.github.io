@@ -13,8 +13,6 @@ redirect_from: /budget-pcs/smallest-atx-cases/
   <span>Jacob Tuwiner</span>
 </div>
 
-![Smallest ATX Case Header](/img/header/smallest-atx-cases.jpg){: .page-header}
-
 <ul id="markdown-toc">
 <li><a href="#top-5-smallest-atx-case-options-of-2020" id="markdown-toc-top-5-smallest-atx-case-options-of-2020">Top 5 Smallest ATX Case Options of 2020</a></li>
 <li><a href="#case-buying-guide" id="markdown-toc-case-buying-guide">Case Buying Guide</a></li>
