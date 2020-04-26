@@ -14,7 +14,7 @@ meta: "There are many great Tekkit Server Hosting companies to up your game, but
 <ul id="markdown-toc">
   <li><a href="#about-tekkit" id="markdown-toc-about-tekkit">About Tekkit</a></li>
   <li><a href="#what-is-a-tekkit-server-in-minecraft" id="markdown-toc-what-is-a-tekkit-server-in-minecraft">What is a Tekkit Server in Minecraft?</a></li>
-  <li><a href="#top-3-tekkit-server-providers-compared-1" id="markdown-toc-top-3-tekkit-server-providers-compared-1">Top 3 Tekkit Server Providers Compared</a></li>
+  <li><a href="#best-tekkit-server-providers-compared">Best Tekkit Server Hosting</a></li>
   <li><a href="#how-to-choose-tekkit-server-hosting" id="markdown-toc-how-to-choose-tekkit-server-hosting">How to Choose Tekkit Server Hosting</a></li>
   <li><a href="#how-much-ram-do-you-need-for-a-tekkit-server" id="markdown-toc-how-much-ram-do-you-need-for-a-tekkit-server">How Much RAM do you need for a Tekkit server?</a></li>
   <li><a href="#how-to-host-a-tekkit-server" id="markdown-toc-how-to-host-a-tekkit-server">How to Host a Tekkit Server</a></li>
