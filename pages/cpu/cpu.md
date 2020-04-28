@@ -83,6 +83,8 @@ If you're using your processor for gaming, chances are it won't need to be insan
 
 As long as your CPU is a good pair for your graphics card, you won't have an issue running most games. But if your CPU bottlenecks your graphics card, you're going to run into some problems. 
 
+For example, you wouldn't want to pair a Pentium CPU with a new [RTX 2060](/cpu/rtx-2060/).
+
 That's why it's important to use the right CPU/GPU combo depending on the types of games you want to play and how demanding the games will be. 
 
 However, not *all* games rely primarily on the GPU - some may use more of the GPU than you may think. 

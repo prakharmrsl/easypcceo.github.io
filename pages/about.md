@@ -117,6 +117,41 @@ Check out my Instagram account at, you guessed it, @jdrkhamilton.
 
 If you’d like to reach me via email, do you think you could guess what it is? If you guess jdrkhamilton@gmail.com you were 100% correct!
 
+## Diego Riitano - Writer
+<img class="lazyload circle img-right img-small" alt="diego riitano" data-src="/img/profile/diego.jpg">
+
+My name is Diego Riitano. I am a writer and editor here at Easy PC. I enjoy creating PC and gaming content that’s easy for a newcomer to understand.
+
+I entered the PC world for the first time the summer before my freshman year of high school. I remember playing games on my cheap laptop and being unsatisfied with the low frame rates and disappointed graphics.
+
+After doing some research, I realized the best way to get the performance I wanted was to pick my own components and build a PC myself. 
+
+I was very intimidated at the prospect of building my own computer, but after seeing many guides online, I thought I should make the leap.
+
+After multiple weeks of researching the best components, I was finally ready to order. The day my parts arrived I was incredibly excited to finally build it. Being a total novice, it took me around 3 hours to get it all together.
+
+Taking it slow and steady, I managed to get my PC built without any major problems. When it finally booted up, I was ecstatic to start playing games. Finally I could play AAA titles with max settings and still get a buttery smooth 60+ FPS.
+
+For the past 6 years since then, I’ve been building computers and learning more about gaming and PCs every day. I like to help those new to the scene since I remember exactly how I felt when I built my first PC.
+
+My Current PC Specs:
+
+Nowadays, my rig isn’t the most powerful, but it definitely suits my purposes well. As long as I can play most games at 1080p with respectable frame rates, I’m satisfied.
+
+* CPU: Intel i7-4790K
+* Motherboard: MSI Z97 PC Mate
+* RAM: 4x4GB DDR3 1600 MHz
+* Storage: 240 GB SSD, 480 GB SSD
+* Graphics Card: Radeon R9 290 4 GB
+* Case: Sentey Burton Plus 3.0 GS-6510
+* PSU: Antec HCG-850M 850 Watt Bronze Plus
+
+### Get in Touch!
+
+I’m not very active on social media, but if you’d like to contact me, you can shoot me an email at diegoriitano2@gmail.com.
+
+Besides PCs, I’m also interested in cryptocurrency and blockchain. Check out my author profile on Cryptoslate. 
+
 ## Disclaimer
 
 This site is affiliated with Amazon and eBay. Commissions are earned from purchases as a direct result of clicking the affiliate links on this site. 
