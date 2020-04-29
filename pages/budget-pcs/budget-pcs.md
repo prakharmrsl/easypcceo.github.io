@@ -18,7 +18,7 @@ From your type of workload to the money you’re willing to throw down, we’ll 
 
 At the beginning of any project is an idea. What is your idea? Since you have decided to build your very own computer, you must have some motive. Do you want to play video games? Do you work with 3D modeling programs? Do you want to browse cat videos on the internet? 
 
-There’s a budget and build for every occasion, but first, you have to decide what you want to do. [It really depends on the purpose of your PC](/computer/).
+There’s a budget and build for every occasion, but first, you have to decide what you want to do. It really depends on the purpose of your PC.
 Here’s what to focus on for each type of build:
 
 ### Gaming Build

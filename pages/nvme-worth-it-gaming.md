@@ -46,7 +46,7 @@ It’s like having a ton of little faster drives working as one!
 
 ## NVME vs SATA SSD for Gaming 
 
-For reasons we’ve covered in our article [Will an SSD Improve FPS](/will-ssd-improve-fps/), an SSD **will not** increase your FPS in video games as long as they’re relatively modern titles. 
+An SSD **will not** increase your FPS in video games as long as they’re relatively modern titles. 
 
 What an SSD can help improve, however, are your load times. 
 

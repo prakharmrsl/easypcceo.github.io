@@ -130,8 +130,6 @@ Applying an unstable overclock will cause artifacting in games and can end up cr
 
 We don’t suggest increasing voltages for graphics card overclocking. 
 
-Instead, check out our step-by-step tutorial that'll show you exactly [how to overclock your GPU easily (and safely)](/overclocking/gpu/).
-
 ### Is Overclocking GPU Worth It? 
 
 Overclocking your [GPU clock speed](/gpu-memory-clock-speed/) is most definitely worth it — considering the graphics card is the most important component for gaming performance, pushing your GPU to the limit will increase your in-game performance without you needing to shell out a bunch of money.
@@ -155,9 +153,7 @@ In some instances you can purchase lower speed memory and overclock it to perfor
 
 One situation the would benefit from memory overclocking would be if you’re running an APU; a processor with integrated graphics. 
 
-APUs utilize some of your system memory as GPU memory, so higher clocked RAM should benefit your FPS.
-
-If you want to learn [how to overclock your RAM safely and easily](/overclocking/ram/), click that link to check out our step-by-step guide. 
+APUs utilize some of your system memory as GPU memory, so higher clocked RAM should benefit your FPS.. 
 
 ### Is Overclocking Ram Worth It? 
 

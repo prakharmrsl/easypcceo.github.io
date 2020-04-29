@@ -35,7 +35,7 @@ Likewise, **the type of motherboard you buy will not generally affect your gamin
 
 What your motherboard type will do, is allow your graphics card and processor to perform better (or worse).
 
-It's sort of similar to a [Solid State Drive's impact on FPS](/will-ssd-improve-fps/). It doesn't directly affect framerate, but it definitely makes your PC more responsive overall and your games will load way faster as well. 
+It's sort of similar to a Solid State Drive's impact on FPS. It doesn't directly affect framerate, but it definitely makes your PC more responsive overall and your games will load way faster as well. 
 
 ### CPU
 

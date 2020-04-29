@@ -258,7 +258,7 @@ Still, if you want to build a true gaming PC, stay away from integrated graphics
 
 Believe it or not, processors aren't the only component that you can water cool. 
 
-In fact, GPU water cooling is a thing, and we happen to have a guide on it [here](/graphics-cards/water-cooling/). 
+In fact, GPU water cooling is a thing, and we happen to have a guide on it [here](/graphics-cards/). 
 
 If you want to push your graphics card to the max via overclocking, water cooling is definitely the move. 
 
