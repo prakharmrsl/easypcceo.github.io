@@ -4,7 +4,6 @@ permalink: "/game-hosts/pingperfect/"
 layout: page
 seotitle: "PingPerfect Review: 5 Things to Know Before Buying (2020)" 
 meta: "I've tried every hosting company on the web, and in this review of PingPerfect, you'll learn why they're one of my favorite." 
-review: 4.6
 ---
 
 <div class="author-line">
@@ -26,8 +25,6 @@ Their servers are fast, support is on point, and the value is there for most peo
   <p>They have a wide range of supported games, and tremendous support staff.</p>
 
   <p>However, their servers do get a bit pricey as you scale to larger slot counts. </p>
-
-  <p><b>Score: 4.5/5</b></p>
 
 </div>
 
