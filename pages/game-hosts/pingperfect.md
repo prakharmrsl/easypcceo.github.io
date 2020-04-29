@@ -4,7 +4,7 @@ permalink: "/game-hosts/pingperfect/"
 layout: page
 seotitle: "PingPerfect Review: 5 Things to Know Before Buying (2020)" 
 meta: "I've tried every hosting company on the web, and in this review of PingPerfect, you'll learn why they're one of my favorite." 
-review: 4.8
+review: 4.5
 ---
 
 <div class="author-line">
