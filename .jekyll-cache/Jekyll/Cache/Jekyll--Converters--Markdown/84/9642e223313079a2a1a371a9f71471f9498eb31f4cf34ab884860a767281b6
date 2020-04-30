@@ -1,4 +1,4 @@
-I"X�<div class="author-line">
+I"��<div class="author-line">
   <span>Updated March 24th by</span>
 	<img class="lazyload author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
 	<span>Jacob Tuwiner</span>
@@ -1025,6 +1025,26 @@ work, all on one machine.</p>
   <li><strong>Fallout 4:</strong> 720p Low 58FPS average</li>
   <li><strong>Fortnite:</strong> 720p Low 64FPS average</li>
 </ul>
+
+<h3 id="what-about-server-hosting">What about server hosting?</h3>
+
+<p>If you want to host a server on your PC, it’s possible - in fact, it’s pretty easy. We have a full tutorial that teaches you how to <a href="/game-hosts/rust/dedicated-server/">host a Rust server on your PC</a> in less than 5 minutes. Seriously, it’s pretty easy.</p>
+
+<p>But you’re usually better off paying a <a href="/game-hosts/">game hosting company</a> a small monthly fee to do it for you.</p>
+
+<p>Here’s why:</p>
+
+<p><strong>1.</strong> Servers require a lot of processing power. Gaming is already demanding enough - trying to run a server at the same time will tank the server’s performance.</p>
+
+<p><strong>2.</strong> Your server will lag when more people join, getting worse as player count increases.</p>
+
+<p><strong>3.</strong> Players can only join when your PC is on <em>and</em> the server is running. That means you have to leave your PC on 24/7 so everyone can play.</p>
+
+<p>Companies like <a href="/game-hosts/host-havoc/">Host Havoc</a> and <a href="/game-hosts/pingperfect/">PingPerfect</a> are cheap and support a ton of different games.</p>
+
+<p>If you want to host a server for <a href="/game-hosts/rust/">Rust</a>, <a href="/game-hosts/squad/">Squad</a>, <a href="/game-hosts/terraria/">Terraria</a>, Minecraft, <a href="/game-hosts/tekkit/">Tekkit</a>, and more, your best bet is paying for hosting.</p>
+
+<p>They’ll take care of the setup, ensure stellar performance all the time, and they’re cheap. Hosting companies take the headache out of server hosting, so you and your friends can enjoy the game like you’re supposed to.</p>
 
 <h2 id="400-prebuilt-gaming-pc">$400 Prebuilt Gaming PC</h2>
 <p><img class="lazyload img-small img-right" alt="$400 prebuilt gaming pc" data-src="/img/400/prebuilt.jpg" /></p>
