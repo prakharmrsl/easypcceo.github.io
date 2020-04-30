@@ -1,87 +1,95 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>{% if page.seotitle %}{{ page.seotitle }} {% else %} {{ page.title }} {% endif %}</title>
 
-    {% include meta.html %}
+<head>
+  <title>{% if page.seotitle %}{{ page.seotitle }}{% else %}{{ page.title }}{% endif %}</title>
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  {% include meta.html %}
+
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700" rel="stylesheet">
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <script src="https://code.jquery.com/jquery-3.5.0.min.js" ></script>
-    <script src="/js/mobile-nav.js"></script>
-  </head>
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+  <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.5.0.min.js"></script>
+  <script src="{{ '/js/responsive-menu.js' | absolute_url }}"></script>
+</head>
 
-  <body>
-    <div class="wrapper-masthead">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          <a href="#" class="menu"><span></span>Menu</a>
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
-          </div>
+<body>
 
-          <nav>
+  <div class="wrapper-masthead">
+    <div class="container">
+      <header class="masthead clearfix">
+
+        <div class="site-info">
+          <a class="site-avatar" href="{{ site.baseurl }}/"><img src="{{ site.avatar }}"></a>
+          <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        </div>
+
+        <button class="menu-toggle">Menu</button>
+
+        <nav class="nav-primary">
+          <ul class="nav-menu">
             {% for item in site.data.menus %}
-              {% if item.subcategories != null %}
-                <span class="item-with-sub">
-                  <a href="{{ site.baseurl }}{{ item.url }}">
-                    <li>{{ item.name }} ▼</li>
-                    <div class="sub-menu">
+              <li class="menu-item">
+                <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}{% if item.subcategories %}<span> ▼</span>{% endif %}</a>
+
+                {% if item.subcategories != null %}
+                  <button class="sub-menu-toggle"></button>
+                  <ul class="sub-menu">
                     {% for subcategory in item.subcategories %}
-                      <a href="{{ site.url }}{{ subcategory.subhref }}"><li>{{ subcategory.subtitle }}</li></a>
+                      <li class="menu-item">
+                        <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                      </li>
                     {% endfor %}
-                  </div>
-                  </a>
-                </span>
+                  </ul>
+                {% endif %}
 
-              {% else %} 
-              <a href="{{ site.baseurl }}{{ item.url }}">
-                <li>{{ item.name }}</li>
-              </a>
-              {% endif %}
+              </li>
             {% endfor %}
-          </nav>
-        </header>
+          </ul>
+        </nav>
+
+      </header>
+    </div>
+  </div>
+
+  <div class="hero">
+    <div class="hero-content">
+      <h2 class="text-center">Welcome to Easy PC</h2>
+      <p class="text-center">Building a PC, Made Easy</p>
+      <div class="btn-center">
+        <a class="big-button" href="/budget-pcs/">Build Your Dream PC</a>
       </div>
     </div>
+  </div>
 
-    <div class="hero">
-      <div class="hero-content">
-        <h2 class="text-center">Welcome to Easy PC</h2>
-        <p class="text-center">Building a PC, Made Easy</p>
-        <div class="btn-center">
-  <a class="big-button" href="/budget-pcs/">Build Your Dream PC</a>
-</div>
-      </div>
-    </div>
+  <div id="main" role="main">
+    {{ content }}
+  </div>
 
-    <div id="main" role="main">
-      {{ content }}
-    </div>
+  <div class="wrapper-footer">
+    <div class="container">
+      <footer class="footer">
 
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <div class="footer-menu">
-           {% for item in site.data.footer %}
+        <div class="footer-menu">
+          {% for item in site.data.footer %}
             <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
           {% endfor %}
-          </div>
-          <div class="icons">
-            {% include svg-icons.html %}           
-          </div>
-        </footer>
-      </div>
-    </div>
+        </div>
 
-    {% include analytics.html %}
-  </body>
+        <div class="icons">
+          {% include svg-icons.html %}
+        </div>
+
+      </footer>
+    </div>
+  </div>
+
+  {% include analytics.html %}
+
+</body>
+
 </html>
