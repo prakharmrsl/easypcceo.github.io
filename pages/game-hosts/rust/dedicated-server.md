@@ -107,17 +107,17 @@ First, let’s cover the SteamCMD installation. SteamCMD is essentially a comman
 
 * Once downloaded, right-click the file and select “Extract to steamcmd” if you have an archival application and place the resulting folder on your desktop.
 
-<img class="lazyload" alt="steam cmd on desktop" data-src="/img/game-hosts/rust/dedicated/steamcmd.png">
+<img class="lazyload" alt="steam cmd on desktop" data-src="/img/game-hosts/rust/dedicated/steamcmd.PNG">
 
 * Now open the steamcmd folder and open the steamcmd application
 
 * A command prompt will open and begin to update. Just wait for the window to finish, it’ll look something like this:
 
-<img class="lazyload" alt="command prompt" data-src="/img/game-hosts/rust/dedicated/command-prompt.png">
+<img class="lazyload" alt="command prompt" data-src="/img/game-hosts/rust/dedicated/command-prompt.PNG">
 
 * From here log in using the command login anonymous
 
-<img class="lazyload" alt="login anonymous" data-src="/img/game-hosts/rust/dedicated/login-anonymous.png">
+<img class="lazyload" alt="login anonymous" data-src="/img/game-hosts/rust/dedicated/login-anonymous.PNG">
 
 * Leave this window open as we move to the next part
 
@@ -129,7 +129,7 @@ Time to install the Rust server itself.
 
 * And install the server with the command **app_update 258550 validate**
 
-<img class="lazyload" alt="steam server validate" data-src="/img/game-hosts/rust/dedicated/validate.png">
+<img class="lazyload" alt="steam server validate" data-src="/img/game-hosts/rust/dedicated/validate.PNG">
 
 * This might take a minute
 
@@ -169,7 +169,7 @@ The installation process is quick and painless. Here’s how you do it:
 
 * When it’s finished, verify the Oxide version by typing the command oxide.version and it should look something like this
 
-<img class="lazyload" alt="installing rust oxide" data-src="/img/game-hosts/rust/dedicated/oxide.png">
+<img class="lazyload" alt="installing rust oxide" data-src="/img/game-hosts/rust/dedicated/oxide.PNG">
 
 ### Adding Plugins to Rust Oxide
 
@@ -181,7 +181,7 @@ All of the tiles are set and you’re 100% ready to start up the server and get 
 
 * Navigate to the folder you chose to place your rust server folder (in our case C:\steamcmd\rust_server)
 
-<img class="lazyload" alt="executing rust server" data-src="/img/game-hosts/rust/dedicated/execute.png">
+<img class="lazyload" alt="executing rust server" data-src="/img/game-hosts/rust/dedicated/execute.PNG">
 
 * Double-click the RustDedicated executable to start your server 
 
@@ -199,13 +199,13 @@ This file will offer you a way to easily check for updates whenever you might ne
 
 * Open your server folder
 
-<img class="lazyload" alt="rust server folder" data-src="/img/game-hosts/rust/dedicated/folder.png">
+<img class="lazyload" alt="rust server folder" data-src="/img/game-hosts/rust/dedicated/folder.PNG">
 
 * Create a new text document and open it
 
 * Type **C:\steamcmd\steamcmd.exe +login anonymous +force_install_dir "C:\steamcmd\rust_server" +app_update 258550 validate +quit** but replace the file locations with your steamcmd and server locations
 
-<img class="lazyload" alt="creating batch file" data-src="/img/game-hosts/rust/dedicated/bat-file.png">
+<img class="lazyload" alt="creating batch file" data-src="/img/game-hosts/rust/dedicated/bat-file.PNG">
 
 * Hit File, then Save As and save the document as update.bat
 
@@ -223,7 +223,7 @@ This file should serve as the primary way you start your server.
 
 Note: When filling in the spaces with your info, do not include the parenthesis.
 
-<img class="lazyload" alt="run file" data-src="/img/game-hosts/rust/dedicated/run-file.png">
+<img class="lazyload" alt="run file" data-src="/img/game-hosts/rust/dedicated/run-file.PNG">
 
 * Go to File, Save as, and save the file as Run.bat
 
