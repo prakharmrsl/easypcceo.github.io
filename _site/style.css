@@ -1635,7 +1635,7 @@ tr {
 
 .services {
   overflow: hidden;
-  height: 50vh;
+  height: 33vh;
   position: relative;
 }
 
@@ -2926,6 +2926,15 @@ blockquote p {
   .wrapper-masthead nav.sub-menu a {
     font-size: 12px !important;
   }
+}
+
+.center-text {
+  padding: 50px;
+}
+
+.center-text_title {
+  text-align: center;
+  font-size: 60px;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -1059,7 +1059,7 @@ tr {
 
 .services {
   overflow: hidden;
-  height: 50vh;
+  height: 33vh;
   position: relative;
   @media (max-width: 820px) {
     height: auto;
@@ -2207,4 +2207,13 @@ blockquote p {
     .wrapper-masthead nav.sub-menu a{
         font-size: 12px !important;
     }
+}
+
+.center-text {
+  padding: 50px;
+}
+
+.center-text_title {
+  text-align: center;
+  font-size: 60px;
 }
