@@ -354,11 +354,11 @@ img {
 
 @media (max-width: 640px) {
   .wrapper-masthead nav > .item-with-sub,
-  .wrapper-masthead nav > a {
+.wrapper-masthead nav > a {
     float: none;
   }
   .wrapper-masthead nav > .item-with-sub .sub-menu,
-  .wrapper-masthead nav > a .sub-menu {
+.wrapper-masthead nav > a .sub-menu {
     top: 55px;
   }
 }
@@ -1301,7 +1301,7 @@ td:first-child {
 
 @media (max-width: 640px) {
   .table-colorful tr td:nth-child(2),
-  .table-colorful tr th:nth-child(2) {
+.table-colorful tr th:nth-child(2) {
     display: none;
   }
 }
@@ -2099,7 +2099,7 @@ blockquote p {
     display: block;
   }
   .featured-specs-box .info > a,
-  .featured-specs-box .info .specs {
+.featured-specs-box .info .specs {
     width: 100%;
   }
   .featured-specs-box .info > a {
@@ -2255,7 +2255,7 @@ blockquote p {
     display: block;
   }
   .featured-info-box .content .img,
-  .featured-info-box .content .text {
+.featured-info-box .content .text {
     width: 100%;
   }
   .featured-info-box .content .img {
@@ -2846,7 +2846,7 @@ blockquote p {
     padding-top: 30px;
   }
   .menu:hover,
-  .menu:focus {
+.menu:focus {
     color: #fff;
     text-decoration: none;
   }
@@ -2859,7 +2859,7 @@ blockquote p {
     margin: 0 auto 5px;
   }
   .menu span:before,
-  .menu span:after {
+.menu span:after {
     content: " ";
     background: #fff;
     position: absolute;
@@ -2923,7 +2923,7 @@ blockquote p {
     padding: 0 20px;
   }
   .wrapper-masthead nav .sub-menu li,
-  .wrapper-masthead nav.sub-menu a {
+.wrapper-masthead nav.sub-menu a {
     font-size: 12px !important;
   }
 }
