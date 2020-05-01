@@ -1,0 +1,182 @@
+.nav-primary {
+  display: none;
+  width: 100%;
+  @include breakpoint(lg) {
+    display: block;
+    text-align: right;
+  }
+}
+
+.nav-menu {
+  margin: 0;
+  padding: 0;
+
+  .menu-item {
+  	display: inline-block;
+    position: relative;
+    width: 100%;
+  	list-style: none;
+    @include breakpoint(lg) {
+      width: inherit;
+      padding: 2.11rem 1rem;
+      border-right: 1px solid #666;
+    }
+
+    &:first-child {
+      @include breakpoint(lg) {
+        border-left: 1px solid #666;
+      }
+    }
+
+    &:hover {
+      background: #111;
+    }
+
+    a {
+      display: block;
+      position: relative;
+    	margin: 0;
+    	padding: .625rem 0;
+      border: 0;
+      font-weight: 400;
+      letter-spacing: .05em;
+      color: #fff;
+      text-transform: uppercase;
+      text-decoration: none;
+      transition: all .2s ease-in-out;
+      @include breakpoint(lg) {
+        padding: 0;
+        font-size: .75rem;
+      }
+
+      span {
+        display: none;
+        @include breakpoint(lg) {
+          display: inline;
+        }
+      }
+
+    }
+
+    &:hover .sub-menu {
+      @include breakpoint(lg) {
+        display: block;
+      }
+    }
+
+  }
+
+}
+
+.sub-menu {
+  display: none;
+  margin: 0;
+  padding: 0;
+  @include breakpoint(lg) {
+    position: absolute;
+    z-index: 99;
+    width: auto;
+    margin-top: 1rem;
+    margin-left: -1rem;
+    padding: 0;
+    text-align: left;
+    background: #111;
+  }
+
+  .menu-item {
+    @include breakpoint(lg) {
+      width: 100%;
+      padding: 1rem;
+      border: 0;
+    }
+
+    &:first-child {
+      border: 0;
+    }
+
+    a {
+      @include breakpoint(lg) {
+        width: 100%;
+        margin: 0;
+        color: #fff;
+      }
+
+    }
+
+  }
+
+}
+
+
+// Responsive Menu Toggler
+.menu-toggle {
+  display: block;
+  position: relative;
+  float: right;
+  width: 5.125rem;
+  height: 3.125rem;
+  padding: 0 .125rem;
+  color: #fff;
+  background: none;
+  box-shadow: none;
+  overflow: hidden;
+  visibility: visible;
+  border: 0;
+  text-align: left;
+  @include breakpoint(lg) {
+  	display: none;
+  	visibility: hidden;
+  }
+
+  &:hover {
+    box-shadow: none;
+  }
+
+  &:before {
+    display: inline-block;
+    position: absolute;
+    top: 3px;
+    right: 4px;
+    font: normal 1.875rem/1.5 'FontAwesome';
+    color: #fff;
+    content: '\f0c9';
+  }
+
+  &.activated::before {
+    right: 1rem;
+    content: '\f00d';
+  }
+
+}
+
+.sub-menu-toggle {
+  display: block;
+  position: absolute;
+  top: .1rem;
+  right: 0;
+  padding: .375rem .125rem 0;
+  background: transparent;
+  visibility: visible;
+  border: 0;
+  @include breakpoint(lg) {
+  	display: none;
+  	visibility: hidden;
+  }
+
+  &:hover {
+		box-shadow: none;
+	}
+
+  &:before {
+    padding: .875rem .313rem;
+    font: normal 1rem/1 'FontAwesome';
+    color: #fff;
+    content: '\f078';
+    cursor: pointer;
+  }
+
+  &.activated::before {
+    content: '\f077';
+  }
+
+}

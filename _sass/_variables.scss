@@ -25,3 +25,13 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+// Breakpoints need to be em values and calculated from a 16px base to match their calulated equivelents.
+$grid-breakpoints: (
+  xs: 0,
+  sm: 34.375em, // ~550px
+  md: 46.875em, // ~750px
+  lg: 62.5em,   // ~1000px
+  xl: 75em,     // ~1200px
+  xxl: 83.75em  // ~1340px
+) !default;

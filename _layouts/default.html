@@ -1,13 +1,16 @@
 <!DOCTYPE html>
+
 <html>
   <head>
-  	    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MX8QJZ2');</script>
-<!-- End Google Tag Manager -->
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MX8QJZ2');</script>
+    <!-- End Google Tag Manager -->
+
     <title>{% if page.seotitle %}{{ page.seotitle }} {% else %} {{ page.title }} {% endif %}</title>
 
     {% include meta.html %}
@@ -33,45 +36,49 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
     <script src="https://code.jquery.com/jquery-3.5.0.min.js" ></script>
-    <script src="/js/mobile-nav.js"></script>
+    <script src="{{ '/js/responsive-menu.js' | absolute_url }}"></script>
   </head>
 
   <body>
+
   	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX8QJZ2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX8QJZ2"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
     <div class="wrapper-masthead static">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          <a href="#" class="menu"><span></span>Menu</a>
+
           <div class="site-info">
+            <a class="site-avatar" href="{{ site.baseurl }}/"><img src="{{ site.avatar }}"></a>
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            {% for item in site.data.menus %}
-              {% if item.subcategories != null %}
-                <span class="item-with-sub">
-                  <a href="{{ site.baseurl }}{{ item.url }}">
-                    <li>{{ item.name }} ▼</li>
-                    <div class="sub-menu">
-                    {% for subcategory in item.subcategories %}
-                      <a href="{{ site.url }}{{ subcategory.subhref }}"><li>{{ subcategory.subtitle }}</li></a>
-                    {% endfor %}
-                  </div>
-                  </a>
-                </span>
+          <button class="menu-toggle">Menu</button>
 
-              {% else %} 
-              <a href="{{ site.baseurl }}{{ item.url }}">
-                <li>{{ item.name }}</li>
-              </a>
-              {% endif %}
-            {% endfor %}
+          <nav class="nav-primary">
+            <ul class="nav-menu">
+              {% for item in site.data.menus %}
+                <li class="menu-item">
+                  <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}{% if item.subcategories %}<span> ▼</span>{% endif %}</a>
+
+                  {% if item.subcategories != null %}
+                    <button class="sub-menu-toggle"></button>
+                    <ul class="sub-menu">
+                      {% for subcategory in item.subcategories %}
+                        <li class="menu-item">
+                          <a href="{{ site.url }}{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  {% endif %}
+
+                </li>
+              {% endfor %}
+            </ul>
           </nav>
+
         </header>
       </div>
     </div>
