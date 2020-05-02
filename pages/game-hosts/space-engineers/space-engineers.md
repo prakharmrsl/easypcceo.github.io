@@ -173,7 +173,7 @@ You can even try out Host Havocs features before committing with their 72-hour R
 <h3>Hosting Provider</h3>
 <p>VeryGames is a new server host to us, but suffice to say that they blew us away with the sheer amount of stuff they give you.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.verygames.net/en/">Rent from GameServers</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.verygames.net/en/">Rent from VeryGames</a>
 </div>
 </div>
 </div>
