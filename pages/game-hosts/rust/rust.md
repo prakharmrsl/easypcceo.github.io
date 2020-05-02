@@ -433,7 +433,6 @@ They transferred all of my data from another company to theirs, the first time. 
 
 Ping Perfect is a large company with server nodes around the world. They probably have a server node near you, wherevever you live.
 
-
 If you want a great company with fair pricing for your Rust server, Ping Perfect is a great option. 
 
 <div class="buttons-wrapper">
