@@ -270,7 +270,7 @@ In fact, there are so many options that it might be a bit overwhelming trying to
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="best terraria server host" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
 </div>
 <div class="text">
 <h2>Host Havoc</h2>
