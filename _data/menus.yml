@@ -27,12 +27,10 @@
       subhref: "/game-hosts/rust/"
     - subtitle: "Terraria Hosting"
       subhref: "/game-hosts/terraria/"
-    - subtitle: "Squad Hosting"
-      subhref: "/game-hosts/squad/"
     - subtitle: "DayZ Hosting"
       subhref: "/game-hosts/dayz/"
-    - subtitle: "Tekkit Hosting"
-      subhref: "/game-hosts/tekkit/"
+    - subtitle: "TF2 Hosting"
+      subhref: "/game-hosts/tf2/"
 
 - name: Cases
   url: /pc-cases/
