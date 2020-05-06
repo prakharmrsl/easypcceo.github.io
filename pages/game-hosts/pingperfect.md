@@ -57,7 +57,7 @@ Based in East Yorkshire, England, PingPerfect has more than 20 locations all aro
 
 PingPerfect also offers free web hosting to all of their game server customers, something unique to their company as far as I know. This generous offer sets them apart from their competition, once again going above and beyond the call of duty. With their free website hosting, you can make a site to promote your server, helping it grow and even monetizing it down the line. 
 
-Best of all, PingPerfect stands behind their product. They have a 24 hour money back guarantee, meaning if you don't like your game server for whatever reason, they'll refund you immediately, no questions asked. 
+Best of all, PingPerfect stands behind their product. They have a 48 hour money back guarantee, meaning if you don't like your game server for whatever reason, they'll refund you immediately, no questions asked. 
 
 And if you're the type who likes a free trial instead, they can hook you up with a free 48 hour trial as well. A money back guarantee is one thing, but offering their service free of charge is another. 
 
@@ -145,7 +145,11 @@ Overall, I was quite pleased with its performance.
 
 PingPerfect uses a custom variant of TCAdmin, a battle tested control panel that's flexible, functional, and reliable. The control panel does have somewhat of a learning curve for newbies, but it's not too bad. 
 
-It's one of the oldest control panels on the market, but thanks to PingPerfect's custom design, it looks more modern and is easier on the eyes than the original version. However, the 'custom design' seems like more of a color scheme change than anything else. In our [Host Havoc review](/game-hosts/host-havoc/), you'll see the same TCAdmin control panel with a darker background. 
+It's one of the oldest control panels on the market, but thanks to PingPerfect's custom design, it looks more modern and is easier on the eyes than the original version. 
+
+Although it may look similar to other control panels on the outside, their TCA implementation has a ton of scripts you cannot see that make everything easier for the customer. 
+
+For example, you can upgrade to a beta version of the game if you want, one click installs of Umod (oxide), a reset world button, an Rcon details button, etc. 
 
 Either way, I can't complain about PingPerfect's control panel. It allows you to start, stop, and even reinstall your game server with ease. TCAdmin is available on any platform with a standard web browser, and PingPerfects is apparently working on a custom android/IOS panel so you can easily manage your server on the go.
 
@@ -158,7 +162,9 @@ PingPerfect has an impressive knowledge base with more than 600 tips, tricks, an
 
 Nine times out of ten, Google will return a knowledge base tutorial, or a helpful forum thread. 
 
-In their categories tab, you'll see nearly 600 individual articles in the game servers section, and significantly less covering other aspects of the site, and none covering their dedicated servers. It seems like their main customer base needs help with game servers, so it's easy to understand why they've somewhat neglected other sections of their knowledgebase. 
+In their categories tab, you'll see nearly 600 individual articles in the game servers section, and significantly less covering other aspects of the site, and none covering their dedicated servers. It seems like their main customer base needs help with game servers, so it's easy to understand why they've focused on that area of the knowledgebase. 
+
+PingPerfect told me they update their knowledgebase as they get questions from their customers, meaning it covers all of the most common questions they receive. 
 
 <img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/categories.JPG">
 
@@ -170,33 +176,7 @@ Again, having more resources for games with higher demand makes sense. But if yo
 
 I used PingPerfect to set up a Rust server during my tests, and I used their knowledgebase to install Rust Oxide and the Gather Manager plugin, one of the most popular plugins in the game. 
 
-While I was able to successfully install the plugin without issue in less than two minutes, I can see how a brand new server host would be confused by their knowledgebase tutorial. 
-
-Here's what the tutorial says: 
-
-<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/tutorial.png">
-
-First of all, there aren't any images. Most server hosting companies don't include images though, so I won't hold that against them (if they had images though, they'd be going above and beyond the call of duty!) 
-
-Images aside, the tutorial was a bit vague. Step one was easy, and I was able to figure it out quickly. All you have to do is click the mod manager button, and then click "install" next to Umod (Oxide 2). The server takes care of the rest.
-
-Next, you upload the plugins you want to oxide/plugins. Simple enough right?
-
-It should be, at least, for a veteran server owner. But a brand new server owner may not know where to locate oxide/plugins, which lives in the "File Manager" tab. Then, you have to open the "oxide" folder and lastly, upload the plugin cs file to the plugins folder. 
-
-<img class="lazyload" alt="pingperfect knowledgebase" data-src="/img/game-hosts/ping-perfect/file-manager.png">
-
-I knew that already because I've [created my own Rust dedicated server](/game-hosts/rust/dedicated-server/), and that's how you add plugins to a server hosted on your PC. 
-
-Following the same process made sense to me, because renting a server from PingPerfect is the same as hosting it yourself, but they take care of the hosting (if that makes sense). 
-
-The point is a new server owner probably wouldn't have known where to find the right folder, nor would they even know where to find plugins in the first place.
-
-And yes, Google would probably help, not to mention PingPerfect's support team, but having the information on their knowledgebase in the first pace would've been best. After all, that's what the knowledgebase is for. 
-
-Having a partially helpful knowledge base defeats the purpose of creating one in the first place, wasting the time of the customer *and* PingPerfect's support team, as they have to deal with more questions than necessary. 
-
-Although, to PingPerfect's credit, I found their tutorial about making yourself admin helpful and clear. I can't speak to the thoroughness of their entire knowledgebase, and generally speaking, it's pretty good.
+I found their tutorial about making yourself admin helpful and clear. I can't speak to the thoroughness of their entire knowledgebase, but generally speaking, it's pretty good.
 
 Besides, if you can't figure out what's going wrong or need some extra help for any reason whatsoever, PingPerfect's support has your back (more on that below). 
 
@@ -300,9 +280,9 @@ Let's compare them using the same slot count. Here is a table showing the same c
 	</tr>
 </table>
 
-The same can be said for other games. It'd be nice to see PingPerfect adopt a pricing model that rewards their users for buying bigger servers. Still, it's hard to argue PingPerfect's prices aren't good, because they're still low, especially for what you're getting. 
+Not all of their pricing is static, however - some games have bulk pricing discounts, on top of the quarterly or yearly commitment discounts.
 
-In summary, PingPerfect's pricing is fair, and is especially good for small server owners, but may get pricey as you grow. 
+In summary, PingPerfect's pricing is fair, and is especially good for small server owners, but may get pricey as you grow. Overall, they're a great value for the money and probably underpriced, if anything. 
 
 ## What I Liked 
 
