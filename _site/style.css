@@ -2796,7 +2796,7 @@ blockquote p {
   position: relative;
   display: inline-block;
   line-height: 1em;
-  width: 2em;
+  width: 3em;
   border-radius: 50%;
   vertical-align: middle;
 }
