@@ -31,6 +31,8 @@
       subhref: "/game-hosts/dayz/"
     - subtitle: "TF2 Hosting"
       subhref: "/game-hosts/tf2/"
+    - subtitle: "Arma 3 Hosting"
+      subhref: "/game-hosts/arma-3/"
 
 - name: Cases
   url: /pc-cases/
