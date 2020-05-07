@@ -105,10 +105,42 @@ Survival games like ARK, Rust and [DayZ](/game-hosts/dayz/) tend to cost anywher
 
 They're generally cheaper than MMO servers because they have far less players. 
 
-## Types of Game Servers 
+## Types of Servers 
 
-### Hybrid Game Server
+When I first started hosting, I didn't know the difference between VPS servers and dedicated servers, not to mention "game servers". 
 
-### Dedicated Game Server
+Here's what you need to know:
+
+### Dedicated Game Servers
+
+Dedicated servers provide the best performance of any type. A dedicated server is entirely yours - its entire existence is dedicated to your game. 
+
+Unlike shared servers, nobody else has access to your machine. These servers are designed for high-demand games that need performance. 
+
+You wouldn't use a dedicated server for a simple mobile game or low-resource retro game like [Terraria](/game-hosts/terraria/).
+
+Instead, dedicated servers are best used for games like CS:GO that are highly competitive and need top-notch performance at all times.  
+
+### VPS Servers (aka Hybrid Servers)
+
+A VPS server, or Virtual Private Server, is essentially a slice of a dedicated server shared by several users. 
+
+VPS servers run virtual machines on a dedicated server. One dedicated server (depending on its performance) could be sectioned off into four VPS servers. Four users can use the same hardware for different purposes, but they can only harness 25% of the server hardware's total capability. 
+
+You can think of a dedicated server like a filing cabinet, and a VPS server as a drawer in the filing cabinet. Each drawer contains folders, which are the actual files used to run the server. 
+
+Most people use VPS hosting for small groups of players working togehter, like in a small Minecraft server with friends. 
+
+If you only want to run around with a dozen or so friends, VPS servers will provide enough performance. 
+
+However, I wouldn't recommend a VPS server for anyone who wants to grow a large community on their server. As you scale, VPS servers don't have adequate performance. Large servers need reliable performance, especially for competitive games like [Arma 3](/game-hosts/arma/), [Squad](/game-hosts/squad/) and [Rust](/game-hosts/rust/) where lag will make your player base abandon the game. 
 
 ## Conclusion 
+
+Game hosting can be pretty cheap or pretty expensive, depending on the type of game you're playing. 
+
+The number of concurrent players has the most significant impact on price - more players means more resources, so you'll have to pay more. 
+
+Generally speaking, game servers range from $15-$100 per month, but you may end up paying a lot more, or a lot less. 
+
+Hopefully this guide helped you - if you have any questions, feel free to [contact me](/contact/) and I'll get back to you ASAP. 
