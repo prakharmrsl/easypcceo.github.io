@@ -100,7 +100,7 @@ meta: "I've tried every hosting company on the web, and in this review of Host H
   </div>    
 </section> 
 
-After hosting servers for a variety of different games, including Rust, ARK, Battlefield, and even TF2, I've dealt with my fair share of hosting companies. 
+After hosting servers for a variety of different games, including Rust, ARK, Battlefield, and even [TF2](/game-hosts/tf2/), I've dealt with my fair share of hosting companies. 
 
 Trying more than a dozen hosting companies has given me a strong sense of what I like in a hosting company, what I don't like, and what I *hate*. 
 
