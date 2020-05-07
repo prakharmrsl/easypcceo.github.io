@@ -11,6 +11,18 @@ meta: "If you're interested in hosting a gaming server, you're probably wonderin
     <span>Jacob Tuwiner</span>
 </div>
 
+<ul id="markdown-toc">
+  <li><a href="#what-is-a-game-server" id="markdown-toc-what-is-a-game-server">What is a Game Server?</a></li>
+  <li><a href="#what-impacts-game-server-cost" id="markdown-toc-what-impacts-game-server-cost">What Impacts Game Server Cost?</a></li>
+  <li><a href="#how-much-does-it-cost-to-run-a-game-server-247" id="markdown-toc-how-much-does-it-cost-to-run-a-game-server-247">How Much Does it Cost to Run a Game Server 24/7?</a></li>
+  <li><a href="#how-much-does-an-mmo-server-cost" id="markdown-toc-how-much-does-an-mmo-server-cost">How Much Does an MMO Server Cost?</a></li>
+  <li><a href="#how-much-does-a-minecraft-server-cost" id="markdown-toc-how-much-does-a-minecraft-server-cost">How Much Does a Minecraft Server Cost?</a></li>
+  <li><a href="#how-much-does-an-ark-server-cost" id="markdown-toc-how-much-does-an-ark-server-cost">How Much Does an ARK Server Cost?</a></li>
+  <li><a href="#types-of-servers" id="markdown-toc-types-of-servers">Types of Servers</a>    
+  </li>
+  <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
+
 Here's how much a game server costs:
 
 **It depends on the host you choose and the game. Generally speaking, gaming servers can range from $5 per month to $150 per month. The cost of a game server depends on how many player slots you want, and the type of game you're playing. For example, small [Terraria servers](/game-hosts/terraria/) will cost less than a large [Arma 3 server](/game-hosts/arma-3/).** 
@@ -33,6 +45,8 @@ Let's dive in:
 
 ## What is a Game Server?
 
+Before you can fully understand game server pricing, it's important to know what a game server is in the first place. 
+
 This video will probably explain things better than I can: 
 
 <div class="vid-container">
@@ -47,7 +61,27 @@ Basically, everyone in the game connects to the server. The game server tracks a
 
 The larger the map and the more players in the game, the more processing power the server must use. 
 
+## What Impacts Game Server Cost? 
+<img class="lazyload img-right img-small" alt="game server" data-src="/img/game-hosts/cost/gaming.jpg">
+
+The cost of a game server depends on the game you're playing, total number of concurrent players, and some other factors (like the cost of electricity where your game host is located). 
+
+Here are some of the basic factors that impact the cost of game hosting: 
+
+* **CPU:** The more players join your server, the more CPU power you're going to need. Some games, however, require CPUs with lower cores and faster clocks, while others make use of multi-threaded CPUs and all of their cores. 
+
+* **RAM:** Games with large maps/worlds like Minecraft, [Tekkit](/game-hosts/tekkit/), Rust, etc. will make use of a lot of RAM. Do you need 4GB, 8GB, 16GB, etc? More RAM means a higher monthly rental fee. 
+
+* **Storage:** SSDs are significantly less expensive nowadays, and have become standard in the hosting industry. I'd recommend staying away from any hosting company that doesn't make use of SSDs.
+
+* **Network:** Some hosting companies give 100Mbps ports, although the best companies like [PingPerfect](/game-hosts/pingperfect/) and [Host Havoc](/game-hosts/host-havoc/) have 1Gbps ports. Server hardware is important, but don't underestimate the impact your server's network speed will have on performance. 
+
+* **OS:** Most servers make use of Linux and Windows operating systems. Some hosting companies have designed custom operating systems made specifically for hosting, and nothing else. They tend to be more efficient for them, but it probably won't make a big difference client side. 
+
+As your server scales in size (higher concurrent player count), you'll need more of the server's resources outlined above, which will raise your rental fee.  
+
 ## How Much Does it Cost to Run a Game Server 24/7?
+<img class="lazyload" alt="game server" data-src="/img/game-hosts/cost/server.jpg">
 
 As mentioned above, renting a server will cost you $5-$150 per month, depending on how you scale and the game you're playing. 
 
@@ -56,6 +90,7 @@ But running the server yourself, is a different story. If you want to setup a se
 On average, a server can use between 500 to 1,200 watts per hour. If the average use is 850 watts per hour, multiplied by 24 in a day cmoes out to 20,400 watts daily, or 20.4 kilowatts (kWh). So that means it would cost $731.94 to power the game server yourself for one year.
 
 ## How Much Does an MMO Server Cost? 
+<img class="lazyload" alt="mmo server" data-src="/img/game-hosts/cost/mmo-server.jpg">
 
 MMO servers cost much more than other game servers because they have far more players gaming at once, which means more for the server to process. 
 
@@ -72,6 +107,7 @@ Simply put, an MMO can cost you anywhere from a few hundred to a few thousand pe
 For example, a 50k concurrent player base on an MMO may cost you ~$1500 per month, even with a bulk discount. 
 
 ## How Much Does a Minecraft Server Cost?
+<img class="lazyload" alt="minecraft server" data-src="/img/game-hosts/cost/minecraft.jpg">
 
 Minecraft servers are far cheaper than MMO servers, but they can still get pricey. 
 
@@ -107,11 +143,12 @@ They're generally cheaper than MMO servers because they have far less players.
 
 ## Types of Servers 
 
-When I first started hosting, I didn't know the difference between VPS servers and dedicated servers, not to mention "game servers". 
+When I first started hosting [game servers](https://en.wikipedia.org/wiki/Game_server){: target="_blank"}, I didn't know the difference between VPS servers and dedicated servers.
 
 Here's what you need to know:
 
 ### Dedicated Game Servers
+<img class="lazyload img-right img-small" alt="dedicated game server" data-src="/img/game-hosts/cost/dedicated.jpg">
 
 Dedicated servers provide the best performance of any type. A dedicated server is entirely yours - its entire existence is dedicated to your game. 
 
@@ -122,6 +159,7 @@ You wouldn't use a dedicated server for a simple mobile game or low-resource ret
 Instead, dedicated servers are best used for games like CS:GO that are highly competitive and need top-notch performance at all times.  
 
 ### VPS Servers (aka Hybrid Servers)
+<img class="lazyload img-right img-small" alt="vps game server" data-src="/img/game-hosts/cost/vps.jpg">
 
 A VPS server, or Virtual Private Server, is essentially a slice of a dedicated server shared by several users. 
 

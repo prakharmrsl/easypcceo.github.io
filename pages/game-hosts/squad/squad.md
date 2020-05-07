@@ -223,6 +223,8 @@ As we've said before (and we'll say again), you get what you pay for, at least m
 
 All in all, compare prices to match your needs to get the most for your dollar when server shopping.
 
+If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
+
 ## What are the Game Modes in Squad? 
 
 Here is a list of the game modes in Squad:

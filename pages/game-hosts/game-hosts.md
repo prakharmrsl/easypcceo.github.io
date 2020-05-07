@@ -661,6 +661,8 @@ Conversely, if you want to grow your server as large as possible, the monthly co
 
 For most people, [spending between $29-$129/month is necessary, depending on the scale of your server. Anything less is probably too little for a server with a decent population, and anything more is probably overpriced. 
 
+If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
+
 ## Do You Need a Dedicated Server for Gaming? 
 
 You always need a server for online gaming (like everything else online) but technically, you don't *need* a dedicated server. That's why games like COD used one of the lobby members as the host back in the day. 

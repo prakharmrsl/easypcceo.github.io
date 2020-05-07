@@ -881,6 +881,8 @@ Having mods or plug-ins installed for you might incur a one-time cost of about $
 
 Upgrading the CPU, RAM, and hard drive of the server will also drive up monthly costs. Other features like DDoS protection and back-ups might be offered for free, but they could also end up costing more depending on the provider.
 
+If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
+
 ## How Much RAM Does a Terraria Server Need?
 
 One of the great things about Terraria is that it’s not a very resource heavy game at all. The 2-D nature of the game and pixel art style graphics don’t require beefy hardware, unlike modern AAA titles with power-hungry 3-D graphics.

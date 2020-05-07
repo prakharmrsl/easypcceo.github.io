@@ -460,6 +460,8 @@ Arma 3 servers vary in price, ranging from around $20 per month to $80 per month
 
 Most hosting companies charge based on the slot count of your server. Since Arma 3 servers typically have huge player counts (it is a large scale military simulator, after all), they can get pricey. 
 
+If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
+
 ### How much RAM do you need for an Arma 3 server?
 
 You'll need no more than 4GB of RAM for an Arma 3 server, 2GB being the minimum. 

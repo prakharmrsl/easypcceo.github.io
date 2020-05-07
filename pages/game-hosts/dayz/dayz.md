@@ -57,7 +57,7 @@ Like many things, you may find your company preference is greatly influenced by 
 
 You might be in pursuit of the best performance, cheapest server, or a great modded experience. 
 
-Because of this, we selected five different providers that provide a variety of features. In our decision, we factored cost, performance, support, server locations, and other components.
+Because of this, we selected five different providers that provide a variety of features. In our decision, we factored [cost](/game-hosts/cost/), performance, support, server locations, and other components.
 
 One server provider may stick out to you above the others for its features, which is why we included five varying server companies to choose from.
 

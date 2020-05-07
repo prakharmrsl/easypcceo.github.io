@@ -660,6 +660,8 @@ Server hosting doesn’t tend to cost a whole lot across the board and Rust serv
 
 On average between hosts a Rust server can run you anywhere between $10 per month to $25 per month on most hosts. However, some hosts can reach up to $50 a month, while others like [Fragnet](https://fragnet.net/games/rust-experimental){: target="_blank"} charge by the amount of player slots it will have.
 
+If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
+
 ## How to Grow a Rust Server 
 
 For those of you who want to own a public server for random players to join and enjoy, you might have a bit of trouble getting people to join your server at first, but trust me, when the ball starts rolling it rolls fast.
