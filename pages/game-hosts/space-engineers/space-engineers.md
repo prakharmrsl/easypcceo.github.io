@@ -68,13 +68,13 @@ Here is a table comparing the best Space Engineers server hosting companies:
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affse=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -144,9 +144,94 @@ For example, the monthly cost on a 3-month commitment is less than that of a sin
   <a target="_blank" class="big-button-center" href="https://www.gameservers.com/?ref=1666562">Rent from GameServers</a>
 </div>
 
-{% include host-havoc.html %}
+<div id="corsair-carbide-series-400c" class="featured-info-box">
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affse=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+</div>
+<div class="text">
+<h2>Host Havoc</h2>
+<h3>Game Servers</h3>
+<p>Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">Rent from Host Havoc</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>99.9% Uptime</li> 
+        <li>Servers around the world</li> 
+        <li>Best game server hosting support</li> 
+        <li>Great control panel</li>
+        <li>Easy plugin/mod support</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>High minimum server slot count</li>
+        <li>No free trial</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section> 
 
-For the budgeters out there, we couldn't just leave out our favorite budget pick: [Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target=" _blank"}.
+For the budgeters out there, we couldn't just leave out our favorite budget pick: [Host Havoc](https://hosthavoc.com/billing/aff.php?affse=1379){: target=" _blank"}.
 
 Now, while Host Havoc does offer the lowest per-slot price, it may not be as good as some of our top picks if you're only planning on hosting a small number of players because the minimum slot count is 15, so just make sure you're picking a host that'll get you your money's worth.
 
@@ -159,7 +244,7 @@ As for what else Host Havoc offers, the configuration is just as simple as Gamer
 You can even try out Host Havocs features before committing with their 72-hour Risk-Free Money Back Guarantee.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
@@ -283,13 +368,13 @@ There are also addons like automatic backups to keep your server alive in case o
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affse=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
 </table>
 

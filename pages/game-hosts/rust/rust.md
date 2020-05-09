@@ -40,8 +40,8 @@ But how do you go about choosing a Rust hosting company?
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -49,7 +49,7 @@ But how do you go about choosing a Rust hosting company?
       <li>Easy to use</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
@@ -166,8 +166,8 @@ This table shows the best Rust server hosting options:
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -175,7 +175,7 @@ This table shows the best Rust server hosting options:
       <li>Easy to use</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
@@ -207,14 +207,14 @@ This table shows the best Rust server hosting options:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
 </div>
 <div class="text">
 <h2>Host Havoc</h2>
 <h3>Game Servers</h3>
 <p>Offering premium Rust server hosting at a good price, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from Host Havoc</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent from Host Havoc</a>
 </div>
 </div>
 </div>
@@ -292,7 +292,7 @@ This table shows the best Rust server hosting options:
   </div>    
 </section> 
 
-[Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target="_blank"} is my overall number one pick. I've been using them since 2016 when I wanted to go with a new hosting company for my Rust server, and I haven't looked back ever since. 
+[Host Havoc](https://hosthavoc.com/billing/aff.php?affrust=1379){: target="_blank"} is my overall number one pick. I've been using them since 2016 when I wanted to go with a new hosting company for my Rust server, and I haven't looked back ever since. 
 
 They blew me away in all four aspects of the criteria I mentioned above. Aside from their terrific performance and uptime, I love their support team. 
 
@@ -311,7 +311,7 @@ Otherwise, considering their minimum slot count is still a bit pricey, Host Havo
 Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 

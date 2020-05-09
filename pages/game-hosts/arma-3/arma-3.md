@@ -2,7 +2,7 @@
 title: "Best Arma 3 Server Hosting" 
 permalink: "/game-hosts/arma-3/"
 layout: page
-seotitle: "5 Best Arma 3 Hosting Companies " 
+seotitle: "5 Best Arma 3 Hosting Companies (2020 Reviews)" 
 meta: "There are many great Arma 3 Server Hosting companies to up your game, but this review will cover the top 5 providers." 
 ---
 
@@ -72,14 +72,14 @@ Let's dive in!
     <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -156,14 +156,14 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
     <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -318,7 +318,92 @@ Nevertheless, many Arma 3 hosts swear by NFO's performance, customer support, an
 
 ## Cheapest Arma 3 Server Hosting 
 
-{% include host-havoc.html %}
+<div class="featured-info-box">
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+</div>
+<div class="text">
+<h2>Host Havoc</h2>
+<h3>Game Servers</h3>
+<p>Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent from Host Havoc</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>99.9% Uptime</li> 
+        <li>Servers around the world</li> 
+        <li>Best game server hosting support</li> 
+        <li>Great control panel</li>
+        <li>Easy plugin/mod support</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>High minimum server slot count</li>
+        <li>No free trial</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section> 
 
 If you're looking for Arma 3 server hosting that won't break the bank, Host Havoc has your back. 
 
@@ -329,7 +414,7 @@ Host Havoc supports all Arma 3 mods and DLCs and has some of the best support I'
 For new hosts that want an easy-to-use interface, helpful support, and fast servers all for a low cost, Host Havoc is the best option. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 

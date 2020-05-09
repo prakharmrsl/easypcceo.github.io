@@ -54,8 +54,8 @@ Both options have their own advantages and disadvantages. The next section will 
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -63,7 +63,7 @@ Both options have their own advantages and disadvantages. The next section will 
       <li>Easy to use</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
@@ -193,8 +193,8 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -202,7 +202,7 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
       <li>Easy to use</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
@@ -270,14 +270,14 @@ In fact, there are so many options that it might be a bit overwhelming trying to
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="best terraria server host" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload" alt="best terraria server host" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
 </div>
 <div class="text">
 <h2>Host Havoc</h2>
 <h3>Game Servers</h3>
 <p>Offering premium hosting for Terraria servers as well as other games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from Host Havoc</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent from Host Havoc</a>
 </div>
 </div>
 </div>
@@ -362,7 +362,7 @@ HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player.
 If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
@@ -671,14 +671,14 @@ This provider offers well over a dozen locations for widespread coverage.
 <span>High-Performance Server</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="Game Server Kings" data-src="/img/game-hosts/terraria/game-server-kings.png" /></a>
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload" alt="Game Server Kings" data-src="/img/game-hosts/terraria/game-server-kings.png" /></a>
 </div>
 <div class="text">
 <h2>GameServer Kings</h2>
 <h3>Game Servers</h3>
 <p>By utilizing the most powerful hardware, GameServer Kings provides high-speed Terraria servers with great mod support.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from GameServer Kings</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent from GameServer Kings</a>
 </div>
 </div>
 </div>
@@ -772,8 +772,8 @@ The biggest downside of this provider is the cost, but if you’re looking for a
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
       <li>99.9% uptime</li>
@@ -781,7 +781,7 @@ The biggest downside of this provider is the cost, but if you’re looking for a
       <li>Easy to use</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
