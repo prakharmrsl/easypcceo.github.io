@@ -101,6 +101,7 @@ Hosting a server yourself will cause performance and uptime issues that you won'
 Fortunately, CS:GO server hosting is fairly cheap, even for 128 tick servers. 
 
 ## How Much Does it Cost to Host a CS:GO Server?
+<img class="lazyload img-right img-small" alt="csgo logo" data-src="/img/game-hosts/csgo/logo.jpg">
 
 Generally speaking, CS:GO hosting is cheap, ranging from $5 per month to $50 per month, depending on the hosting company, server hardware, and most importantly, slot count. 
 
