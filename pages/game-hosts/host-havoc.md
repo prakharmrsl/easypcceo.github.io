@@ -11,7 +11,7 @@ meta: "I've tried every hosting company on the web, and in this review of Host H
     <span>Jacob Tuwiner</span>
 </div>
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
+<div class="featured-info-box">
 <span>Review</span>
 <div class="content">
 <div class="img">

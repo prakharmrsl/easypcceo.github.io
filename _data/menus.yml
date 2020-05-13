@@ -33,6 +33,8 @@
       subhref: "/game-hosts/tf2/"
     - subtitle: "Arma 3 Hosting"
       subhref: "/game-hosts/arma-3/"
+    - subtitle: "Space Engineers Hosting"
+      subhref: "/game-hosts/space-engineers/"
 
 - name: Cases
   url: /pc-cases/
