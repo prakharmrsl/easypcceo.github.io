@@ -220,7 +220,7 @@ PingPerfect also offers a 48-hour trial period to get a feel for the service.
 
 GameServers offers Space Engineers server hosting for $0.99 per slot, starting at eight slots and going up to 60 slots. 
 
-When it comes to performance, [GameServers](https://www.verygames.net/en/){: target=" _blank"} is almost unmatched for the price, but for that, you've gotta get rid of some configuration options you'd get with other server hosts.
+When it comes to performance, [GameServers](https://www.gameservers.com/){: target=" _blank"} is almost unmatched for the price, but for that, you've gotta get rid of some configuration options you'd get with other server hosts.
 
 GameServers's configuration menu is as simple and streamlined as it gets. No extra bells or whistles, and no extra hassle. Simply pick the game, server type, the number of slots, and location, then you're ready to get started.
 
