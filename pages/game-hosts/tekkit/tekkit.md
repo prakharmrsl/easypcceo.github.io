@@ -55,7 +55,7 @@ This table compares the best Tekkit server hosting companies:
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
+    <td><img class="lazyload table-image" alt="good hosting for tekkit: apex" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
     <td><a target="_blank" href="https://billing.apexminecrafthosting.com/aff.php?aff=2776">Apex Hosting</a></td>
     <td class="components">
       <ul>
@@ -164,7 +164,7 @@ This table compares the best Tekkit server hosting companies:
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
+    <td><img class="lazyload table-image" alt="best hosting for tekkit" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
     <td><a target="_blank" href="https://billing.apexminecrafthosting.com/aff.php?aff=2776">Apex Hosting</a></td>
     <td class="components">
       <ul>
@@ -282,7 +282,7 @@ This provider offers excellent prices, as well as massive customizability. Even 
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
+    <td><img class="lazyload table-image" alt="best hosting for tekkit" data-src="/img/game-hosts/tekkit/apex.jfif" /></td>
     <td><a target="_blank" href="https://billing.apexminecrafthosting.com/aff.php?aff=2776">Apex Hosting</a></td>
     <td class="components">
       <ul>

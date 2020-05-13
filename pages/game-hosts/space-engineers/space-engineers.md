@@ -58,13 +58,13 @@ Here is a table comparing the best Space Engineers server hosting companies:
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
@@ -111,7 +111,95 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
   <a target="_blank" class="big-button-center" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
 </div>
 
-{% include ping-perfect.html %}
+<div class="featured-info-box">
+<div class="content">
+<div class="img">
+<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers
+"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
+</div>
+<div class="text">
+<h2>PingPerfect</h2>
+<h3>Game Servers</h3>
+<p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
+</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers
+">Rent from PingPerfect</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Terrific performance</li> 
+        <li>Great support</li>
+        <li>Competitive pricing for small servers</li>
+        <li>Servers all over the world</li>
+        <li>Lots of games</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Some of their support documentation is lacking</li>
+        <li>Large servers can get a bit pricey</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section>
 
 PingPerfect's Space Engineers servers start at $1.00 per slot, with discounts when you commit to longer term service agreements. Their Space Engineers servers start at 12 slots, and go up to 60 slots max. 
 
@@ -124,7 +212,7 @@ Like GTX Gaming, PingPerfect offers a couple of specific city-side hosting serve
 PingPerfect also offers a 48-hour trial period to get a feel for the service.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
 </div> 
 
@@ -358,13 +446,13 @@ There are also addons like automatic backups to keep your server alive in case o
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="https://pingperfect.com/aff.php?aff=803" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>

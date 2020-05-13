@@ -52,8 +52,8 @@ But how do you go about choosing a Rust hosting company?
     <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+      <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>A+ Performance</li>
@@ -61,7 +61,7 @@ But how do you go about choosing a Rust hosting company?
       <li>Lots of games</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
@@ -178,8 +178,8 @@ This table shows the best Rust server hosting options:
     <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a target="_blank" href="https://pingperfect.com/aff.php?aff=803">PingPerfect</a></td>
+      <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>A+ Performance</li>
@@ -187,7 +187,7 @@ This table shows the best Rust server hosting options:
       <li>Lots of games</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
@@ -319,7 +319,7 @@ Click the red button below to check them out, or the blue button to read our [Ho
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://pingperfect.com/aff.php?aff=803
+<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust
 "><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
 </div>
 <div class="text">
@@ -328,7 +328,7 @@ Click the red button below to check them out, or the blue button to read our [Ho
 <p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803
+<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust
 ">Rent from PingPerfect</a>
 </div>
 </div>
@@ -424,7 +424,7 @@ You can choose from one of their many locations around the world, host your serv
 
 If you choose to add any of those features to your Rust server, the cost will go up a bit, but the nice thing is the server is totally customizable to fit your needs.
 
-Before I began using [PingPerfect](https://pingperfect.com/aff.php?aff=803
+Before I began using [PingPerfect](http://www.pingperfect.com/aff.php?aff=803&page=rust
 ){: target=" _blank"}, I was hosting my server with a different company. Traditionally, transfering a server is an absolute nightmare. 
 
 But that wasn't the case with PingPerfect.
@@ -436,7 +436,7 @@ Ping Perfect is a large company with server nodes around the world. They probabl
 If you want a great company with fair pricing for your Rust server, Ping Perfect is a great option. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
 </div> 
 
