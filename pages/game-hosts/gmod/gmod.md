@@ -19,17 +19,14 @@ One of the greatest strengths of Garry’s Mod is its compatibility with other m
 
 Using a physics gun allows you to manipulate objects in any way you desire. You can build vehicles, construct cities, or make almost anything you want. The only limit is your imagination.
 
-<img class="img-right img-small lazyload" alt="Garry's Mod" data-src="/img/game-hosts/gmod/gmod.png">
-
 However, the sandbox mode is just the beginning for Garry’s Mod. There are numerous add-ons and different game modes available to play. 
 
 ## Private GMod Hosting Options 
+<img class="img-right img-small lazyload" alt="Garry's Mod" data-src="/img/game-hosts/gmod/gmod.png">
 
 The simplest solution if you just want to play with a couple friends is [hosting through Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=852214295){: target="_blank"}. To do this, simply start a new game, then invite your friends to join through Steam.
 
 This is an easy option, but has a couple big drawbacks. Obviously, your friends will only be able to play when you have the game open. Additionally, this option is best for just a couple people, as it isn’t well optimized for large groups.
-
-<img class="img-right img-small lazyload" alt="Steam" data-src="/img/game-hosts/gmod/steam.jpg">
 
 Alternatively, you can host your own dedicated Garry’s Mod server on your PC. One advantage of this is that a dedicated server tends to be more stable than the game itself.
 
@@ -52,8 +49,6 @@ If this doesn't seem like it's in your wheelhouse, you can always rent from a [s
 ## How We Chose
 
 Due to the nature of hosting providers, there are almost countless options available for rent.
-
-<img class="img-right img-small lazyload" alt="Server" data-src="/img/game-hosts/gmod/server.jpg"> 
 
 Some renters are in search of the fastest servers, while others simply want a cheap option.
 
