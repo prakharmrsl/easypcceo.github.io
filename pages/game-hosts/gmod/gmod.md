@@ -1,18 +1,27 @@
 ---
-title: "5 Best Garry's Mod Server Hosting Companies" 
+title: "Best GMod Server Hosting" 
 permalink: "/game-hosts/gmod/"
 layout: page
-seotitle: "5 Best Garry's Mod Server Hosting Companies (2020)" 
-meta: "There are many great Garry's Mod Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "5 Best GMod Server Hosting Companies (2020 Reviews)" 
+meta: "There are many great GMod Server Hosting companies to up your game, but this review will cover the top 5 providers." 
 ---
 
 <div class="author-line">
-    <span>Reviewed by</span><img class="author-image" alt="written by Diego Riitano" src="/img/profile/close.jpg" />
+    <span>Reviewed by</span><img class="author-image" alt="written by Diego Riitano" src="/img/profile/diego-small.jpg" />
     <span>Diego Riitano</span>
 </div>
 
-* TOC
-{: toc}
+<ul id="markdown-toc">
+<li><a href="#private-gmod-hosting-options" id="markdown-toc-private-gmod-hosting-options">Private GMod Hosting Options</a></li>
+<li><a href="#best-gmod-server-hosting" id="markdown-toc-best-gmod-server-hosting">Best GMod Server Hosting</a></li>
+<li><a href="#cheapest-garrys-mod-server-host" id="markdown-toc-cheapest-garrys-mod-server-host">Cheapest Garry’s Mod Server Host</a></li>
+<li><a href="#fastest-garrys-mod-server-host" id="markdown-toc-fastest-garrys-mod-server-host">Fastest Garry’s Mod Server Host</a></li>
+<li><a href="#how-much-does-a-gmod-server-cost" id="markdown-toc-how-much-does-a-gmod-server-cost">How much does a GMod Server Cost?</a></li>
+<li><a href="#how-much-ram-do-you-need-for-a-garrys-mod-server" id="markdown-toc-how-much-ram-do-you-need-for-a-garrys-mod-server">How much RAM do you need for a Garry’s Mod Server?</a></li>
+<li><a href="#gmod-mod-server-types" id="markdown-toc-gmod-mod-server-types">GMod Mod Server Types</a> 
+</li>
+<li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
+</ul>
 
 Long before Minecraft arrived on the scene, Garry’s Mod was redefining the genre of sandbox gaming. 
 
