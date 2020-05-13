@@ -11,6 +11,9 @@ meta: "There are many great Garry's Mod Server Hosting companies to up your game
     <span>Diego Riitano</span>
 </div>
 
+* TOC
+{: toc}
+
 Long before Minecraft arrived on the scene, Garry’s Mod was redefining the genre of sandbox gaming. 
 
 It was originally developed back in 2004 as a mod for Half-life 2, by [Garry Newman](https://www.reddit.com/r/Games/comments/1dxfyq/hi_im_garry_newman_creator_of_garrys_mod_ama/){: target="_blank"}. This is where the game gets its name.
@@ -19,7 +22,11 @@ One of the greatest strengths of Garry’s Mod is its compatibility with other m
 
 Using a physics gun allows you to manipulate objects in any way you desire. You can build vehicles, construct cities, or make almost anything you want. The only limit is your imagination.
 
-However, the sandbox mode is just the beginning for Garry’s Mod. There are numerous add-ons and different game modes available to play. 
+However, the sandbox mode is just the beginning for Garry’s Mod. There are numerous add-ons and different game modes available to play.
+
+Like most games, GMod is better played with friends - in this article, we're taking a look at GMod server hosting. 
+
+Let's dive in!  
 
 ## Private GMod Hosting Options 
 <img class="img-right img-small lazyload" alt="Garry's Mod" data-src="/img/game-hosts/gmod/gmod.png">
