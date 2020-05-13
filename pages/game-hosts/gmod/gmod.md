@@ -61,7 +61,47 @@ Because of this, we avoided selecting one best choice.
 
 Instead, we have chosen 5 different providers that offer quality servers. We decided based on their cost, support, performance, locations, as well as other features we tested while using their service for GMod and a variety of other games.
 
-## Best Garry’s Mod Server Host
+## Best GMod Server Hosting
+
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=garrys-mod">PingPerfect</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=garrys-mod" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affgmod=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affgmod=1379" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+</table>
 
 {% include gtx-gaming.html %}
 
@@ -227,7 +267,92 @@ They offer over a dozen servers in North America, Europe, and Australia.
 </div>
 
 ## Fastest Garry’s Mod Server Host
-{% include host-havoc.html %}
+<div class="featured-info-box">
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affgmod=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+</div>
+<div class="text">
+<h2>Host Havoc</h2>
+<h3>Game Servers</h3>
+<p>Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affgmod=1379">Rent from Host Havoc</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>99.9% Uptime</li> 
+        <li>Servers around the world</li> 
+        <li>Best game server hosting support</li> 
+        <li>Great control panel</li>
+        <li>Easy plugin/mod support</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>High minimum server slot count</li>
+        <li>No free trial</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section> 
 
 Conversely, price might not be an issue for you. [Host Havoc](/game-hosts/host-havoc/) offers servers powered by high-grade hardware to ensure lightning-fast speeds. 
 
@@ -240,7 +365,7 @@ Support is also great, averaging a response time of under 15 minutes. If that do
 Looking at hardware, all their servers use enterprise-class Xeon processors along with high-speed DDR4 memory. Over 80% of their servers utilize powerful NVMe SSDs.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affgmod=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
@@ -321,6 +446,8 @@ If the runners make it to the end of the course, they have the opportunity to fi
 Of course, this is just a small fraction of all the [available game modes](https://gmod.fandom.com/wiki/Category:Gamemodes){: target="_blank"}. At least 20 exist in total.
 
 All of these game modes are multiplayer, which means you’ll generally need a server to play on. There are many server options in the multiplayer section of Garry’s Mod, but if you want your own server, we’ll cover those options in the following sections.
+
+{% include games.html %}
 
 ## Conclusion
 
