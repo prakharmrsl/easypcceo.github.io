@@ -37,6 +37,48 @@ Like most games, GMod is better played with friends - in this article, we're tak
 
 Let's dive in!  
 
+## Popular GMod Hosting
+
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=garrys-mod">PingPerfect</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=garrys-mod" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affgmod=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affgmod=1379" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+</table>
+
 ## Private GMod Hosting Options 
 <img class="img-right img-small lazyload" alt="Garry's Mod" data-src="/img/game-hosts/gmod/gmod.png">
 

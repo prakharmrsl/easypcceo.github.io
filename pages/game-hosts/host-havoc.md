@@ -184,7 +184,7 @@ Let's talk about each one:
 
 Host Havoc is probably best known for their [game servers](https://hosthavoc.com/games){: target="_blank"}. That's why most of the advertising on their homepage is dedicated to video games.
 
-They support more than 25 popular games, including Minecraft, Arma 3, ARK, 7 Days to Die, CS:GO, Rust, Garry's Mod, Space Engineers, Terraria, and more. 
+They support more than 25 popular games, including Minecraft, [Arma 3](/game-hosts/arma-3/), ARK, 7 Days to Die, CS:GO, [Rust](/game-hosts/rust/), [Garry's Mod](/game-hosts/gmod/), [Space Engineers](/game-hosts/space-engineers/), [Terraria](/game-hosts/terraria/), and more. 
 
 They base their pricing on the number of slots you choose, and the price per slot varies from game to game.
 

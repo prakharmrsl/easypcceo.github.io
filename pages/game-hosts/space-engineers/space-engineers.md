@@ -83,7 +83,7 @@ Here is a table comparing the best Space Engineers server hosting companies:
  
 In the words of the devs themselves, "Space Engineers is an open world sandbox game defined by creativity and exploration."
 
-Like other sandbox games such as Garry's mod, Space engineers strives to provide a stimulating building experience with realistic physics on its volumetric-based physics engine. You can interact with everything, build, and destroy anything your heart desires.
+Like other sandbox games such as [Garry's Mod](/game-hosts/gmod/), Space engineers strives to provide a stimulating building experience with realistic physics on its volumetric-based physics engine. You can interact with everything, build, and destroy anything your heart desires.
 
 Following its release on Steam Early Access in 2013, Space Engineers has garnered more than 3 million copies sold and has won many indie game awards during its lifetime. 
 
