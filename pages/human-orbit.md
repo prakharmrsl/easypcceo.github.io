@@ -1,8 +1,8 @@
 ---
-title: "What is Human Orbit Game?" 
+title: "What is Human Orbit?" 
 permalink: "/human-orbit/"
 layout: page
-seotitle: "What Is Human Orbit Game?" 
+seotitle: "What Is Human Orbit? (Game)" 
 meta: "This page is all about Human Orbit the game, which never became a success."
 ---
 
