@@ -33,6 +33,50 @@ Community servers are somewhat better, but have their own pitfalls as well. To h
 
 In this article, we're taking a look at the best DayZ server hosting companies around. 
 
+## Popular DayZ Hosting Providers
+
+Here is a table comparing the top DayZ hosting providers:
+
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">PingPerfect</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+</table>
+
 ## DayZ Standalone vs DayZ Mod
 
 Before going any further, it’s important to make a distinction between [DayZ Standalone](https://store.steampowered.com/app/221100/DayZ/){: target="_blank"} and the DayZ mod.
@@ -73,14 +117,15 @@ Here is a table comparing the best DayZ hosting companies:
     <th>Buy</th>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -104,23 +149,21 @@ Here is a table comparing the best DayZ hosting companies:
   </tr>
 </table>
 
-## DayZ Standalone Modded Server Hosting 
+{% include gtx-gaming.html %}
 
-{% include host-havoc.html %}
+You might not want to settle for just any server rental. If you’re looking for blazing speeds, then GTX Gaming offers high performance servers to meet your needs.
 
-If you’re looking for a server with great support, then [Host Havoc](/game-hosts/host-havoc/) is an excellent choice.
+Every one of their game servers uses SSD’s, and 90% utilize i7 4.2 GHz processors. If you’re not satisfied, they offer a 24-hour refund policy.
 
-This provider offers DayZ servers starting 20 slots for $18.50 a month, increasing up to 80 slots. They have 11 servers across North America and Europe, including one in Oceania. 
+A 10-slot server costs $12.50 a month, with the ability to increase up to 127 slots max. Additionally, GTX Gaming offers over a dozen servers on all continents besides Antarctica and Africa.
 
-Mod installation is a relatively simple [process](https://hosthavoc.com/billing/index.php/knowledgebase/215/How-to-install-mods-on-your-DayZ-server.html){: target="_blank"}. Simply gather mod ID’s from the Steam workshop, then input them into the server control panel’s Workshop Mod Handler. A couple more steps, and installation is finished. 
+Mod installation is reasonably easy as well, involving downloading mods through the Steam Workshop in the server game panel.
 
-Host Havoc also offers free DDOS protection and a 72-hour money back guarantee if you’re not totally satisfied. 
-
-Their service is also great, with an average response time of under 15 minutes. 
+If the server’s stock performance isn’t enough for you, upgrades are available for the RAM, CPU clock speed and priority, and SSD. You can even upgrade your support ticket priority to VIP status.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
 ## DayZ Server Hosting PC 
@@ -138,24 +181,8 @@ Free DDOS protection and the ability to add a dedicated IP address round out thi
   <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
 </div>
 
-## Fast DayZ Server Hosting
-{% include gtx-gaming.html %}
-
-You might not want to settle for just any server rental. If you’re looking for blazing speeds, then GTX Gaming offers high performance servers to meet your needs.
-
-Every one of their game servers uses SSD’s, and 90% utilize i7 4.2 GHz processors. If you’re not satisfied, they offer a 24-hour refund policy.
-
-A 10-slot server costs $12.50 a month, with the ability to increase up to 127 slots max. Additionally, GTX Gaming offers over a dozen servers on all continents besides Antarctica and Africa.
-
-Mod installation is reasonably easy as well, involving downloading mods through the Steam Workshop in the server game panel.
-
-If the server’s stock performance isn’t enough for you, upgrades are available for the RAM, CPU clock speed and priority, and SSD. You can even upgrade your support ticket priority to VIP status.
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
-</div>
-
 ## Cheap DayZ Standalone Server Hosting 
+
 <div class="featured-info-box">
 <div class="content">
 <div class="img">
@@ -257,6 +284,25 @@ Included with every server is built-in DDOS protection, as well as 1 GB of free 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
+</div> 
+
+## DayZ Standalone Modded Server Hosting 
+
+{% include host-havoc.html %}
+
+If you’re looking for a server with great support, then [Host Havoc](/game-hosts/host-havoc/) is an excellent choice.
+
+This provider offers DayZ servers starting 20 slots for $18.50 a month, increasing up to 80 slots. They have 11 servers across North America and Europe, including one in Oceania. 
+
+Mod installation is a relatively simple [process](https://hosthavoc.com/billing/index.php/knowledgebase/215/How-to-install-mods-on-your-DayZ-server.html){: target="_blank"}. Simply gather mod ID’s from the Steam workshop, then input them into the server control panel’s Workshop Mod Handler. A couple more steps, and installation is finished. 
+
+Host Havoc also offers free DDOS protection and a 72-hour money back guarantee if you’re not totally satisfied. 
+
+Their service is also great, with an average response time of under 15 minutes. 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
 ## DayZ Server Hosting PS4/Xbox
@@ -364,14 +410,15 @@ Additionally, a MySQL database is offered for free with all servers.
     <th>Buy</th>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?aff=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>

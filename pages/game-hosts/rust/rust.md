@@ -40,40 +40,35 @@ But how do you go about choosing a Rust hosting company?
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
+      <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
     <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
-      <li>A+ Performance</li>
-      <li>Fair pricing</li>
-      <li>Lots of games</li>
+      <li>Runner Up</li>
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
+      <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -166,40 +161,35 @@ This table shows the best Rust server hosting options:
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
+      <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
     <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
-      <li>A+ Performance</li>
-      <li>Fair pricing</li>
-      <li>Lots of games</li>
+      <li>Runner Up</li>
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
+      <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -207,14 +197,16 @@ This table shows the best Rust server hosting options:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+<a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a>
 </div>
 <div class="text">
-<h2>Host Havoc</h2>
+<h2>GTX Gaming</h2>
 <h3>Game Servers</h3>
-<p>Offering premium Rust server hosting at a good price, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
+<p>With over 10 years of experience, GTX Gaming offers reliable, high performance game servers at a terrific price.
+</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent from Host Havoc</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
 </div>
 </div>
 </div>
@@ -224,19 +216,18 @@ This table shows the best Rust server hosting options:
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>99.9% Uptime</li> 
-        <li>Servers around the world</li> 
-        <li>Best game server hosting support</li> 
-        <li>Great control panel</li>
-        <li>Easy plugin/mod support</li>
+        <li>Great performance</li> 
+        <li>Competitive pricing</li>
+        <li>Free game switching</li>
+        <li>Custom control panels</li>
+        <li>Worldwide support</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
-        <li>Pricier than their competition</li>
-        <li>High minimum server slot count</li>
-        <li>No free trial</li> 
+        <li>Knowledgebase could be better</li>
+        <li>Support could be faster</li> 
       </ul> 
     </div>
   </div>
@@ -262,7 +253,7 @@ This table shows the best Rust server hosting options:
           <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
         </div>
         <div class="tab-btn-data">
-          Great
+          Good
         </div>
       </div>
     <div class="tab-btn">
@@ -290,29 +281,19 @@ This table shows the best Rust server hosting options:
         </div>
       </div>
   </div>    
-</section> 
+</section>  
 
-[Host Havoc](https://hosthavoc.com/billing/aff.php?affrust=1379){: target="_blank"} is my overall number one pick. I've been using them since 2016 when I wanted to go with a new hosting company for my Rust server, and I haven't looked back ever since. 
+As you'll find out in our [GTX Gaming review](/game-hosts/gtx-gaming/), they're one of the best game hosting companies around. 
 
-They blew me away in all four aspects of the criteria I mentioned above. Aside from their terrific performance and uptime, I love their support team. 
+Their Rust servers start at a mere $0.50 per slot, with a minimum monthly payment of $10 for a 50 slot server. 
 
-In my experience their average response time was around 10 minutes, which is faster than any of the other companies I've tried. Most of my tickets were swiftly answered within just 5 minutes of asking the question. 
+GTX Gaming supports Oxide/Umod support with automatic updates, online backup manager support, Rust IO live map support, dynamic wiping, and *way* more. You can check out the Rust hosting page on the GTX Gaming website for more information. 
 
-Usually they would link to a helpful article on their resource page that solved the problem, and when that wasn't enough, a support staff member would personally help me out. 
-
-And while their control panel is incredibly easy to use (another great feature of Host Havoc) you're bound to run into issues with your server eventually, so having a responsive and helpful support team is crucial. 
-
-Host Havoc offers Rust servers from 30 to 400 slots, and the price scales up accordingly. For example, a 30 slot rust server costs $0.46/slot, whereas a 400 slot Rust server costs just $0.18/slot. 
-
-The bulk discount is nice for large servers, but that's the thing - Host Havoc is best suited for server owners who plan on having a decent player base.
-
-Otherwise, considering their minimum slot count is still a bit pricey, Host Havoc may not be the best pick for tiny servers.
-
-Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
+I tested their Rust servers with my friends and I was blown away by not only the performance but the pricing as well.  
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
 <div class="featured-info-box">
@@ -444,15 +425,14 @@ If you want a great company with fair pricing for your Rust server, Ping Perfect
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961
-"><img class="lazyload" alt="Game Server Kings" data-src="/img/game-hosts/game-server-kings/logo.png" /></a>
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affrust=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
 </div>
 <div class="text">
-<h2>Game Server Kings</h2>
+<h2>Host Havoc</h2>
 <h3>Game Servers</h3>
-<p>Gameserverkings' Rust servers are fast, reliable, and best of all, cheap. If you want a budget-friendly Rust hosting company, GSK is the move.</p>
+<p>Offering premium Rust server hosting at a good price, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent from GSK</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent from Host Havoc</a>
 </div>
 </div>
 </div>
@@ -462,15 +442,19 @@ If you want a great company with fair pricing for your Rust server, Ping Perfect
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Terrific performance</li> 
-        <li>Great support team</li>
-        <li>Affordable prices</li>
+        <li>99.9% Uptime</li> 
+        <li>Servers around the world</li> 
+        <li>Best game server hosting support</li> 
+        <li>Great control panel</li>
+        <li>Easy plugin/mod support</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
-        <li>Support less than 10 games</li>
+        <li>Pricier than their competition</li>
+        <li>High minimum server slot count</li>
+        <li>No free trial</li> 
       </ul> 
     </div>
   </div>
@@ -524,27 +508,30 @@ If you want a great company with fair pricing for your Rust server, Ping Perfect
         </div>
       </div>
   </div>    
-</section>  
+</section> 
 
-GSK aims to make their service "less about technical configuration, and more about playing the game."
+[Host Havoc](https://hosthavoc.com/billing/aff.php?affrust=1379){: target="_blank"} is my overall number one pick. I've been using them since 2016 when I wanted to go with a new hosting company for my Rust server, and I haven't looked back ever since. 
 
-That's a breath of fresh air, considering most hosting companies can be a pain in the ass. 
+They blew me away in all four aspects of the criteria I mentioned above. Aside from their terrific performance and uptime, I love their support team. 
 
-After all, paying for dedicated game hosting is supposed to make your life easier, not harder! 
+In my experience their average response time was around 10 minutes, which is faster than any of the other companies I've tried. Most of my tickets were swiftly answered within just 5 minutes of asking the question. 
 
-Their Rust servers start at 60 slots and go up to 200 slots, a smaller range than Host Havoc and PingPerfect.
+Usually they would link to a helpful article on their resource page that solved the problem, and when that wasn't enough, a support staff member would personally help me out. 
 
-However, their price per slot is only $0.17, meaning you're getting more for your money. And if you commit to a longer time frame, you can save even more money. 
+And while their control panel is incredibly easy to use (another great feature of Host Havoc) you're bound to run into issues with your server eventually, so having a responsive and helpful support team is crucial. 
 
-Like PingPerfect, you can choose to add high CPU priority, and a dedicated IP address. Of course, those luxuries come at an extra cost. 
+Host Havoc offers Rust servers from 30 to 400 slots, and the price scales up accordingly. For example, a 30 slot rust server costs $0.46/slot, whereas a 400 slot Rust server costs just $0.18/slot. 
 
-What's the bottom line here?
+The bulk discount is nice for large servers, but that's the thing - Host Havoc is best suited for server owners who plan on having a decent player base.
 
-If you want a Rust hosting company that won't break the bank, Gameserverkings is our top pick.
+Otherwise, considering their minimum slot count is still a bit pricey, Host Havoc may not be the best pick for tiny servers.
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent from GSK</a>
-</div>
+Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+</div> 
 
 ## Free Rust Server Hosting (Private Server)
 <img class="lazyload" alt="rust game" data-src="/img/game-hosts/rust/game.jpg">

@@ -36,24 +36,24 @@
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/34do6xP">AMD Ryzen 5 3600</a></td>
-    <td><a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload table-image" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/2T4zCas">AMD Ryzen 5 3600</a></td>
+    <td><a target="_blank" href="https://amzn.to/2T4zCas"><img class="lazyload table-image" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/34do6xP">View on eBay</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/2T4zCas">View on eBay</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/35b9wrf">Intel Core i5 9400F</a></td>
-    <td><a target="_blank" href="https://amzn.to/35b9wrf"><img class="lazyload table-image" alt="intel core i5 9400f, another great cpu for the rtx 2060" data-src="/img/cpu/rtx-2060/i5-9400f.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3dNfYrI">Intel Core i5 9400F</a></td>
+    <td><a target="_blank" href="https://amzn.to/3dNfYrI"><img class="lazyload table-image" alt="intel core i5 9400f, another great cpu for the rtx 2060" data-src="/img/cpu/rtx-2060/i5-9400f.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/35b9wrf">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3dNfYrI">View on Amazon</a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="http://rover.ebay.com/rover/1/711-53200-19255-0/1?ff3=4&amp;pub=5575177097&amp;toolid=10001&amp;campid=5338671840&amp;customid=ryzen-5-1600-af&amp;mpre=https%3A%2F%2Fwww.ebay.com%2Fsch%2Fi.html%3F_from%3DR40%26_trksid%3Dp2380057.m570.l1313.TR12.TRC2.A0.H0.Xryzen%2B5%2B1600%2Baf.TRS0%26_nkw%3Dryzen%2B5%2B1600%2Baf%26_sacat%3D0">AMD Ryzen 5 1600 AF (12nm)</a></td>
@@ -83,14 +83,14 @@
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/34do6xP"><img class="lazyload" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a>
+<a target="_blank" href="https://amzn.to/2T4zCas"><img class="lazyload" alt="ryzen 5 3600, another great cpu for the gtx 1070" data-src="/img/cpu/gtx-1070/r5-3600.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
 <h3>Best CPU for RTX 2060</h3>
 <p>The Ryzen 5 3600 is probably the best all around CPU of 2020 in terms of price to performance. Everyone loves the Ryzen 5 3600, gamers and non-gamers alike.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/34do6xP">Check Amazon Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2T4zCas">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -181,21 +181,21 @@
 <p>The Ryzen 5 3600 is undoubtedly the best choice for the RTX 2060.</p>
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/34do6xP">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2T4zCas">View on Amazon</a>
 </div>
 
 <div class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/35b9wrf"><img class="lazyload" alt="intel core i5 9400f, another great cpu for the rtx 2060" data-src="/img/cpu/rtx-2060/i5-9400f.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3dNfYrI"><img class="lazyload" alt="intel core i5 9400f, another great cpu for the rtx 2060" data-src="/img/cpu/rtx-2060/i5-9400f.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i5 9400F</h2>
 <h3>Good CPU for RTX 2060</h3>
 <p>This CPU might not seem too powerful on paper, but, in the real world, it offers great gaming performance for the price. It’s a great alternative for all the Intel fanboys.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/35b9wrf">Check Amazon Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3dNfYrI">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -282,7 +282,7 @@
 <p>The Core i5 9400f is an excellent choice for those who want Ryzen 5 3600 like gaming performance on a tighter budget.</p>
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/35b9wrf">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3dNfYrI">View on Amazon</a>
 </div>
 
 <div id="top-pick" class="featured-info-box">

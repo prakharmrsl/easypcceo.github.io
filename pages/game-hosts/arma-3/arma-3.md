@@ -51,14 +51,15 @@ Let's dive in!
     <th>Buy</th>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="gameservers logo" data-src="/img/game-hosts/streamline-servers/logo.png" /></td>
-    <td><a target="_blank" href="https://streamline-servers.com/billing/aff.php?aff=974">Streamline Servers</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://streamline-servers.com/billing/aff.php?aff=974" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
@@ -135,14 +136,15 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
     <th>Buy</th>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="gameservers logo" data-src="/img/game-hosts/streamline-servers/logo.png" /></td>
-    <td><a target="_blank" href="https://streamline-servers.com/billing/aff.php?aff=974">Streamline Servers</a></td>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://streamline-servers.com/billing/aff.php?aff=974" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
@@ -197,9 +199,10 @@ The largest server offered by GTX Gaming for Arma 3 Exile is 120 slots, coming i
 
 Considering GTX Gaming's instant deployment, countless features, and fair pricing, they're great for anyone who wants to host a modded Arma 3 server, especially with a high slot count. 
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
-</div>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+</div> 
 
 ## Best Arma 3 Life Server Hosting 
 

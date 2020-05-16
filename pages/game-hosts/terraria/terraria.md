@@ -54,70 +54,37 @@ Both options have their own advantages and disadvantages. The next section will 
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
-    <td class="components">
-      <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
-    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-">Citadel Servers</a></td>
-    <td class="components">
-      <ul>
-      <li>Worldwide locations</li>
-      <li>100+ games</li>
-      <li>A+ mod support</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379
-">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
-    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
-    <td class="components">
-      <ul>
-      <li>Free voice server</li>
-      <li>Cheap</li>
-      <li>High ratings</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
-  </tr>
-  <tr>
       <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 "><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
     <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">GTX Gaming</a></td>
     <td class="components">
       <ul>
-      <li>255 slots</li>
-      <li>24-hour trial</li>
-      <li>Auto backups</li>
+      <li>Top Pick</li>
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
+      <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Also Awesome</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -183,7 +150,7 @@ After this, the world will be open and you and your friends can join by going to
 
 Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe running to keep the server up.
 
-## Top 5 Terraria Hosting Options 
+## Best Terraria Server Hosting 
 
 <table class="basic-table" align="center">
   <tr>
@@ -193,70 +160,37 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
-    <td class="components">
-      <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
-    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-">Citadel Servers</a></td>
-    <td class="components">
-      <ul>
-      <li>Worldwide locations</li>
-      <li>100+ games</li>
-      <li>A+ mod support</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379
-">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
-    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
-    <td class="components">
-      <ul>
-      <li>Free voice server</li>
-      <li>Cheap</li>
-      <li>High ratings</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
-  </tr>
-  <tr>
       <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 "><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
     <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">GTX Gaming</a></td>
     <td class="components">
       <ul>
-      <li>255 slots</li>
-      <li>24-hour trial</li>
-      <li>Auto backups</li>
+      <li>Top Pick</li>
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
+      <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Also Awesome</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
 </table>
 
@@ -266,104 +200,21 @@ In fact, there are so many options that it might be a bit overwhelming trying to
 
 ## Best Terraria Server Host
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
-<span>Top Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload" alt="best terraria server host" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
-</div>
-<div class="text">
-<h2>Host Havoc</h2>
-<h3>Game Servers</h3>
-<p>Offering premium hosting for Terraria servers as well as other games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent from Host Havoc</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>99.9% Uptime</li> 
-        <li>Servers around the world</li> 
-        <li>Best game server hosting support</li> 
-        <li>Great control panel</li>
-        <li>Easy plugin/mod support</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Pricier than their competition</li>
-        <li>High minimum server slot count</li>
-        <li>No free trial</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
+{% include gtx-gaming.html %}
 
-The best all-around Terraria server is [HostHavoc](/game-hosts/host-havoc/). The wide variety of features offered and the great reviews are a testament to this hosting provider. 
+Alternatively, you might be trying to create a massive server with room for plenty of players. In that case, GTX Gaming is the server host for you.
 
-HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player. They have 11 server locations across the United States and Europe, so your ping will stay lower.
+Providing servers from 10 slots all the way up to a massive 255 players, you’ll never run out of room to grow your game. Furthermore, each slot costs just $.60. 
 
-If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
+They provide plenty of upgrade options for their server hardware. You can upgrade the server’s CPU, SSD, and memory.
+
+Even without upgrades, every server starts with a solid 5 GB of RAM, which is plenty for most Terraria servers. 
+
+This provider offers well over a dozen locations for widespread coverage.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
 ## Best Terraria Server Hosting with Mods 
@@ -463,6 +314,110 @@ One of the best features of CitadelServers is their mod support. If you’re not
 With 11 servers in the US alone, and over a dozen other worldwide locations, CitadelServers has you covered no matter where you are. 
 
 For just a bit more, you can also opt to upgrade your process priority. 
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
+</div>
+
+<div class="featured-info-box">
+<span>Also Awesome</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload" alt="best terraria server host" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
+</div>
+<div class="text">
+<h2>Host Havoc</h2>
+<h3>Game Servers</h3>
+<p>Offering premium hosting for Terraria servers as well as other games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent from Host Havoc</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>99.9% Uptime</li> 
+        <li>Servers around the world</li> 
+        <li>Best game server hosting support</li> 
+        <li>Great control panel</li>
+        <li>Easy plugin/mod support</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Pricier than their competition</li>
+        <li>High minimum server slot count</li>
+        <li>No free trial</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section> 
+
+The best all-around Terraria server is [HostHavoc](/game-hosts/host-havoc/). The wide variety of features offered and the great reviews are a testament to this hosting provider. 
+
+HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player. They have 11 server locations across the United States and Europe, so your ping will stay lower.
+
+If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+</div> 
 
 ## Cheapest Terraria Server Hosting
 
@@ -564,106 +519,9 @@ DDoS protection is included in all servers, however, they only have seven total 
 
 If you don’t want to shell out, Nitrous Networks provides great value and features for the money.
 
-## Best Large Terraria Server Host
-
-<div class="featured-info-box">
-<span>Large Server Hosting</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
-"><img class="lazyload" alt="GTX Gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a>
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent from Nitrous Networks</a>
 </div>
-<div class="text">
-<h2>GTX Gaming</h2>
-<h3>Game Servers</h3>
-<p>With over 10 years of experience, GTX Gaming provides great customization and offers massive Terraria servers.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
-">Rent from GTX Gaming</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Up to 255 slots</li> 
-        <li>Many customization options</li> 
-        <li>24-hour free trial</li>
-        <li>Automatic Back-ups</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Additional RAM costs extra</li>
-        <li>Larger minimum slot size</li>
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Good
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
-
-Alternatively, you might be trying to create a massive server with room for plenty of players. In that case, GTX Gaming is the server host for you.
-
-Providing servers from 10 slots all the way up to a massive 255 players, you’ll never run out of room to grow your game. Furthermore, each slot costs just $.60. 
-
-They provide plenty of upgrade options for their server hardware. You can upgrade the server’s CPU, SSD, and memory.
-
-Even without upgrades, every server starts with a solid 5 GB of RAM, which is plenty for most Terraria servers. 
-
-This provider offers well over a dozen locations for widespread coverage.
 
 ## Fastest Terraria Server
 
@@ -772,70 +630,37 @@ The biggest downside of this provider is the cost, but if you’re looking for a
     <th>Rent</th>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
-    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
-    <td class="components">
-      <ul>
-      <li>99.9% uptime</li>
-      <li>Terrific support</li>
-      <li>Easy to use</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
-    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
-">Citadel Servers</a></td>
-    <td class="components">
-      <ul>
-      <li>Worldwide locations</li>
-      <li>100+ games</li>
-      <li>A+ mod support</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379
-">Rent a Server</a></td>
-  </tr>
-  <tr>
-      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
-    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
-    <td class="components">
-      <ul>
-      <li>Free voice server</li>
-      <li>Cheap</li>
-      <li>High ratings</li>
-      </ul>
-    </td>
-    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent a Server</a></td>
-  </tr>
-  <tr>
       <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 "><img class="lazyload table-image" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></a></td>
     <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">GTX Gaming</a></td>
     <td class="components">
       <ul>
-      <li>255 slots</li>
-      <li>24-hour trial</li>
-      <li>Auto backups</li>
+      <li>Top Pick</li>
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
 ">Rent a Server</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961"><img class="lazyload table-image" data-src="/img/game-hosts/game-server-kings/logo.png" /></a></td>
-    <td><a target="_blank" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Gameserverkings</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
-      <li>Reliable</li>
-      <li>Affordable</li>
-      <li><10 games</li>
+      <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://www.gameserverkings.com/games/rust-server-hosting/?ref=7961">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Also Awesome</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affterraria=1379">Rent a Server</a></td>
   </tr>
 </table>
 

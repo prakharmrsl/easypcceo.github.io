@@ -157,94 +157,20 @@ Now, I can confidently recommend the top 7 best server hosting companies, for ju
 
 Let's dive in: 
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
-<span>Top Pick</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
-</div>
-<div class="text">
-<h2>Host Havoc</h2>
-<h3>Game Servers</h3>
-<p>Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from Host Havoc</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>99.9% Uptime</li> 
-        <li>Servers around the world</li> 
-        <li>Best game server hosting support</li> 
-        <li>Great control panel</li>
-        <li>Easy plugin/mod support</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Pricier than their competition</li>
-        <li>High minimum server slot count</li>
-        <li>No free trial</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
+{% include gtx-gaming.html %}
+
+As you’ll find out in our [GTX Gaming review](/game-hosts/gtx-gaming/), they’re one of the best game hosting companies around.
+
+Brand reputation, performance, support, ease of use and insane value all come to mind when I hear their name.
+
+I tested their Rust servers with my friends and I was blown away by not only the performance but their pricing as well.
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+</div> 
+
+{% include host-havoc.html %}
 
 [Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target="_blank"} is my overall number one pick. I've been using them since 2016 when I wanted to go with a new hosting company for my Rust server, and I haven't looked back ever since. 
 

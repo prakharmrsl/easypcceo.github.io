@@ -394,7 +394,7 @@ While this is great for those hosting a large server, it isn't the best for the 
 
 The lowest player count available is 30 slots, meaning you're paying 30 x $0.46, which comes out to roughly $14/month. 
 
-Even though other server hosting companies like GTX Gaming also have a high minimum slot count for the game, they generally have a lower cost per slot. 
+Even though other server hosting companies like [GTX Gaming](/game-hosts/gtx-gaming/) also have a high minimum slot count for the game, they generally have a lower cost per slot. 
 
 Host Havoc is on the pricier side if you just want a small server. 
 
