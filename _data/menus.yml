@@ -37,6 +37,8 @@
       subhref: "/game-hosts/space-engineers/"
     - subtitle: "Unturned Hosting"
       subhref: "/game-hosts/unturned/"
+    - subtitle: "7 Days to Die Hosting"
+      subhref: "/game-hosts/7-days-to-die/"
 
 
 - name: Cases
