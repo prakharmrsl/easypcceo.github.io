@@ -1,4 +1,4 @@
-I"µz<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can You Use GTX 1060 with AMD? ","acceptedAnswer":[{"@type":"Answer","text":"Yes, you ccan pair Nvidia GPUs with AMD CPUs, without any compatibility problems."}]},{"@type":"Question","name":"Which CPU is Best for GTX 1060? ","acceptedAnswer":[{"@type":"Answer","text":"There is no single 'best' CPU for a graphics card, it depends on your needs. But you can't go wrong with the Ryzen 5 1600 AF (12nm).\n"}]},{"@type":"Question","name":"What is the Radeon equivalent of GTX 1060? ","acceptedAnswer":[{"@type":"Answer","text":"Most people agree that the RX 480 is the Radeon equivalent of the GTX 1060 6GB model."}]},{"@type":"Question","name":"Is RX 480 Better than GTX 1060?","acceptedAnswer":[{"@type":"Answer","text":"The RX 480 and GTX 1060 are practically neck and neck when it comes to performance. In some situations, the 1060 wins, such as DX11. But in DX12, the RX 480 wins. "}]}]}</script>
+I"Ž{<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Can You Use GTX 1060 with AMD? ","acceptedAnswer":[{"@type":"Answer","text":"Yes, you ccan pair Nvidia GPUs with AMD CPUs, without any compatibility problems."}]},{"@type":"Question","name":"Which CPU is Best for GTX 1060? ","acceptedAnswer":[{"@type":"Answer","text":"There is no single 'best' CPU for a graphics card, it depends on your needs. But you can't go wrong with the Ryzen 5 1600 AF (12nm).\n"}]},{"@type":"Question","name":"What is the Radeon equivalent of GTX 1060? ","acceptedAnswer":[{"@type":"Answer","text":"Most people agree that the RX 480 is the Radeon equivalent of the GTX 1060 6GB model."}]},{"@type":"Question","name":"Is RX 480 Better than GTX 1060?","acceptedAnswer":[{"@type":"Answer","text":"The RX 480 and GTX 1060 are practically neck and neck when it comes to performance. In some situations, the 1060 wins, such as DX11. But in DX12, the RX 480 wins. "}]}]}</script>
 
 <div class="author-line">
 	<img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
@@ -491,6 +491,12 @@
     <td><a target="_blank" class="big-button" href="https://amzn.to/2zErG9j">View on Amazon</a></td>
   </tr>
 </table>
+
+<div class="featured-info-box">
+<div class="content">
+<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&amp;webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
+</div>
+</div>
 
 <h2 id="how-to-choose-the-right-cpu-for-you">How to Choose the Right CPU for You</h2>
 <p><img class="img-right img-small lazyload" alt="how to choose the right cpu for you" data-src="/img/cpu/gtx-1070/choose.jpg" /></p>
