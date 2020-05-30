@@ -443,6 +443,12 @@ I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to 
   <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">View on Amazon</a>
 </div>
 
+<div class="featured-info-box">
+<div class="content">
+<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
+</div>
+</div>
+
 ## NAS vs Cloud Storage 
 
 Building a NAS is like having a personal cloud storage center. Cloud storage is great, but you're relying on someone else to access all of your data. 

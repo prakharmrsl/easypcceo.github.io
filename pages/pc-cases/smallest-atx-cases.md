@@ -669,6 +669,12 @@ All in all, it's a fantastic case for the money.
   </tr>
 </table>
 
+<div class="featured-info-box">
+<div class="content">
+<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
+</div>
+</div>
+
 ## Case Buying Guide
 
 <img class="lazyload img-right img-small" alt="carbide air 540" data-src="/img/case/carbide-air-540.png" />

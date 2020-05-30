@@ -100,6 +100,12 @@ If you are planning on overclocking, though, you can completely ignore your grap
 
 Your boost clock does not scale with your overclock.
 
+<div class="featured-info-box">
+<div class="content">
+<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
+</div>
+</div>
+
 ## GPU Clock Speed Test and Utilities 
 
 If you already have a graphics card, finding and testing your GPU’s performance may be a worthwhile endeavour when looking to upgrade. Tools like [UserBenchmark](https://gpu.userbenchmark.com/Software){: target="_blank"} and [3DMark](https://benchmarks.ul.com/3dmark){: target="_blank"} can test your graphics card’s performance, score it, and compare it to other similar or higher end GPUs.

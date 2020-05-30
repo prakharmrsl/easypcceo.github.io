@@ -83,6 +83,12 @@ On the other hand, someone who may have been saving up specifically for a high-e
 </table>
 </div>
 
+<div class="featured-info-box">
+<div class="content">
+<script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
+</div>
+</div>
+
 ## How Much Should You Spend to Game in 720p? 
 ![720p vs 1080p gaming comparison chart](/img/how-much-should-you-spend-gaming-pc/720p-vs-1080p.jpg){: .img-right .img-small}
 
