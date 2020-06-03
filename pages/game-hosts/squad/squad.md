@@ -248,7 +248,7 @@ Keep in mind, you get what you pay for. More players and larger maps usually mea
 
 Alright, so, while you can host a Squad server for completely free of your home computer or separate computer on your network, it's really not a good idea.
 
-First of all, the sheer processing power and system memory you would need to run an online game like Squad is a lot more than games like Rust, Ark, or Minecraft. Squad is designed for large simultaneous player counts, and it isn't cost-effective to host it from home.
+First of all, the sheer processing power and system memory you would need to run an online game like Squad is a lot more than games like [Rust](/game-hosts/rust/), [Ark](/game-hosts/ark/), or Minecraft. Squad is designed for large simultaneous player counts, and it isn't cost-effective to host it from home.
 
 On the same note, having large numbers of players connecting to a server on your home network isn't going to serve for a great gaming experience for you nor anybody else playing on the server.
 

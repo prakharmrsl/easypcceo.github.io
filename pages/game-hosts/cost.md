@@ -137,7 +137,7 @@ The amount of RAM you choose has a direct impact on pricing.
 
 ## How Much Does an ARK Server Cost?
 
-Survival games like ARK, Rust and [DayZ](/game-hosts/dayz/) tend to cost anywhere from $15 to $80 per month. 
+Survival games like [ARK](/game-hosts/ark/), [Rust](/game-hosts/rust/) and [DayZ](/game-hosts/dayz/) tend to cost anywhere from $15 to $80 per month. 
 
 They're generally cheaper than MMO servers because they have far less players. 
 

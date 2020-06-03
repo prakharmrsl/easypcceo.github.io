@@ -13,7 +13,7 @@ meta: "I've tried every hosting company on the web, and in this review of PingPe
 
 {% include ping-perfect.html %}
 
-I've hosted servers for Rust, ARK, TF2, and CS:GO - and I can honestly say that PingPerfect is among the [best hosting companies](/game-hosts/) I've had the pleasure of working with. 
+I've hosted servers for [Rust](/game-hosts/rust/), [ARK](/game-hosts/ark/), [TF2](/game-hosts/tf2/), and [CS:GO](/game-hosts/csgo/) - and I can honestly say that PingPerfect is among the [best hosting companies](/game-hosts/) I've had the pleasure of working with. 
 
 Their servers are fast, support is on point, and the value is there for most people. However, there were still a few things I didn't like about PingPerfect, which we'll get to in the review. 
 

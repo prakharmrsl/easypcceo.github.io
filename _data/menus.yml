@@ -25,6 +25,8 @@
   subcategories:
     - subtitle: "Rust Hosting"
       subhref: "/game-hosts/rust/"
+    - subtitle: "ARK Hosting"
+      subhref: "/game-hosts/ark/"
     - subtitle: "Terraria Hosting"
       subhref: "/game-hosts/terraria/"
     - subtitle: "DayZ Hosting"

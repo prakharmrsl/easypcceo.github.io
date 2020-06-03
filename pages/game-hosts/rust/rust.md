@@ -75,7 +75,7 @@ But how do you go about choosing a Rust hosting company?
 ## What is Rust Server Hosting?
 <img class="lazyload" alt="hazmut suit guy fighting in rust" data-src="/img/game-hosts/rust/rust-fight.jpg">
 
-Now, for the uninitiated, you don’t always have to pop into that public online Rust server and just work with whatever cards are dealt there. 
+You don’t always have to pop into that public online Rust server and just work with whatever cards are dealt there. 
 
 Hundreds of players are hosting their own private and public Rust servers to offer a better gaming experience for the community as a whole.
 
@@ -283,7 +283,7 @@ This table shows the best Rust server hosting options:
   </div>    
 </section>  
 
-As you'll find out in our [GTX Gaming review](/game-hosts/gtx-gaming/), they're one of the best game hosting companies around. 
+As you'll find out in our [GTX Gaming review](/game-hosts/gtx-gaming/), they're one of the best game hosting companies around, especially for open-world survival games like Rust and [ARK](/game-hosts/ark/). 
 
 Their Rust servers start at a mere $0.50 per slot, with a minimum monthly payment of $10 for a 50 slot server. 
 
