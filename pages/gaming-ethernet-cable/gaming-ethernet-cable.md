@@ -66,17 +66,6 @@ When it comes to insuring you have a stable connection, you should definitely be
 
 ## How to Improve Internet Speed for Gaming 
 
-<div id="366522465">
-    <script type="text/javascript">
-        try {
-            window._mNHandle.queue.push(function (){
-                window._mNDetails.loadTag("366522465", "728x90", "366522465");
-            });
-        }
-        catch (error) {}
-    </script>
-</div>
-
 There are a bunch of ways you can improve your internet speed. 
 
 Using an Ethernet cable is a good start, but did you know your network might be limiting your interent speed? 
