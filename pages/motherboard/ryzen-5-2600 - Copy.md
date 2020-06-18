@@ -1,10 +1,9 @@
 ---
 title: "The Best Motherboards for The GTX 1080 Ti" 
-permalink: "/graphics-cards/gtx-1080-ti/motherboard/"
+permalink: "/motherboard/gtx-1080-ti//"
 layout: page
 seotitle: "3 Best Motherboards for GTX 1080 Ti (2020)" 
 meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're wasting your money!"
-redirect_to: /motherboard/gtx-1080-ti/
 ---
 
 <div class="author-line">

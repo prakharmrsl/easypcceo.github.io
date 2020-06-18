@@ -1,24 +1,13 @@
 
-- name: Budget Gaming PCs 
+- name: Gaming PCs 
   url: /budget-pcs/
   subcategories:
-    - subtitle: "$400 Gaming PC"
-      subhref: "/budget-pcs/400/"
-    - subtitle: "$500 Gaming PC"
-      subhref: "/budget-pcs/500/"
-    - subtitle: "$600 Gaming PC"
-      subhref: "/budget-pcs/600/"
-    - subtitle: "$700 Gaming PC"
-      subhref: "/budget-pcs/700/"
-    - subtitle: "$800 Gaming PC"
-      subhref: "/budget-pcs/800/"
-    - subtitle: "$900 Gaming PC"
-      subhref: "/budget-pcs/900/"
-    - subtitle: "$1000 Gaming PC"
-      subhref: "/budget-pcs/1000/"
-
-- name: CPUs
-  url: /cpu/
+    - subtitle: "CPUs"
+      subhref: "/cpu/"
+    - subtitle: "Cases"
+      subhref: "/pc-cases/"
+    - subtitle: "Motherboards"
+      subhref: "/motherboard/"
 
 - name: Game Hosting
   url: /game-hosts/
@@ -41,24 +30,3 @@
       subhref: "/game-hosts/unturned/"
     - subtitle: "7 Days to Die Hosting"
       subhref: "/game-hosts/7-days-to-die/"
-
-
-- name: Cases
-  url: /pc-cases/
-  subcategories:
-    - subtitle: "Cable Management Cases"
-      subhref: "/pc-cases/cable-management/"
-    - subtitle: "Hard Drive Storage Cases"
-      subhref: "/pc-cases/hard-drive-storage/"
-    - subtitle: "Hot Swappable Cases"
-      subhref: "/pc-cases/hot-swappable/"
-    - subtitle: "NAS Cases"
-      subhref: "/pc-cases/nas/"
-    - subtitle: "Small ATX Cases"
-      subhref: "/pc-cases/smallest-atx-cases/"
-    - subtitle: "Small Micro ATX Cases"
-      subhref: "/pc-cases/smallest-micro-atx-cases/"
-    - subtitle: "Small ITX Cases"
-      subhref: "/pc-cases/smallest-mini-itx-cases/"
-    - subtitle: "Inverted PC Cases"
-      subhref: "/pc-cases/inverted/"
