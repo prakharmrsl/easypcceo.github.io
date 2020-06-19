@@ -83,17 +83,6 @@ There are two types of player hosted servers you can get access to, but we’ll 
 
 The baseline, though, is that Rust players can have their servers for whatever reasons they might have to do so.
 
-<div id="366522465">
-    <script type="text/javascript">
-        try {
-            window._mNHandle.queue.push(function (){
-                window._mNDetails.loadTag("366522465", "728x90", "366522465");
-            });
-        }
-        catch (error) {}
-    </script>
-</div>
-
 ## Rust Dedicated Server vs. Rust Server Hosting
 
 As we mentioned prior, there are two different types of private Rust servers: Dedicated and Hosted. 
