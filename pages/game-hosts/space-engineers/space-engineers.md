@@ -2,8 +2,8 @@
 title: "Best Space Engineers Server Hosting Providers" 
 permalink: "/game-hosts/space-engineers/"
 layout: page
-seotitle: "5 Best Space Engineers Server Hosting Companies (2020)" 
-meta: "There are many great Space Engineers Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "3 Best Space Engineers Server Hosting Companies (2020)" 
+meta: "There are many great Space Engineers Server Hosting companies to up your game, but this review will cover the top 3 providers." 
 ---
 
 <div class="author-line">
@@ -54,17 +54,17 @@ Here is a table comparing the best Space Engineers server hosting companies:
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">PingPerfect</a></td>
+      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
+    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
@@ -74,7 +74,7 @@ Here is a table comparing the best Space Engineers server hosting companies:
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -97,6 +97,46 @@ We compared the total speeds of each host, their pricing, and the features that 
 
 ## Top Space Engineers Hosting Providers
 
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for space engineers gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
+    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">RENT A SERVER</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affse=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">RENT A SERVER</a></td>
+  </tr>
+</table>
+
 {% include gtx-gaming.html %}
 
 Our top pick for Space Engineers server hosts had to go to [GTX Gaming](https://www.gtxgaming.co.uk/clientarea/cart.php?a=confproduct&i=1){: target="_blank"}, no doubt.
@@ -112,19 +152,19 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
 </div>
 
 <div class="featured-info-box">
+<span>Budget Hosting</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers
-"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
+<a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261
+"><img class="lazyload" alt="Nitrous Networks" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a>
 </div>
 <div class="text">
-<h2>PingPerfect</h2>
+<h2>Nitrous Networks</h2>
 <h3>Game Servers</h3>
-<p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
-</p>
+<p>For Space Engineers players looking for a small server to play with friends, Nitrous Networks provides the lowest prices in its class.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers
-">Rent from PingPerfect</a>
+<a target="_blank" class="cta-button buy-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261
+">Rent from Nitrous Networks</a>
 </div>
 </div>
 </div>
@@ -134,18 +174,18 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Terrific performance</li> 
-        <li>Great support</li>
-        <li>Competitive pricing for small servers</li>
-        <li>Servers all over the world</li>
-        <li>Lots of games</li>
+        <li>Free voice server included</li> 
+        <li>Very low prices</li> 
+        <li>Includes free web hosting and MySQL</li>
+        <li>Highly reviewed</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
-        <li>Some of their support documentation is lacking</li>
-        <li>Large servers can get a bit pricey</li> 
+        <li>No mod support</li>
+        <li>Terraria servers max out at 30 slots</li>
+        <li>Not many server locations</li> 
       </ul> 
     </div>
   </div>
@@ -163,7 +203,7 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
           <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
         </div>
         <div class="tab-btn-data">
-          Yes
+          No
         </div>
       </div>
       <div class="tab-btn">
@@ -171,7 +211,7 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
           <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
         </div>
         <div class="tab-btn-data">
-          Great
+          Good
         </div>
       </div>
     <div class="tab-btn">
@@ -199,37 +239,16 @@ Additionally, no matter where you are, they've got a location closeby, ensuring 
         </div>
       </div>
   </div>    
-</section>
+</section> 
 
-PingPerfect's Space Engineers servers start at $1.00 per slot, with discounts when you commit to longer term service agreements. Their Space Engineers servers start at 12 slots, and go up to 60 slots max. 
+If you’re short on cash, Nitrous Networks is a great option that won’t break the bank. Their cheap Space Engineers server hosting starts at just $9.20 per month for a 10 slot server, making it one of the cheapest options on the list. 
 
-[PingPerfect](https://pingperfect.com/gameservers/space-engineers-game-server-hosting-rental.php){: target=" _blank"} is one of our go-to's when it comes to hosting a server for any game, so it shouldn't surprise anyone in the runner-up spot.
+DDoS protection is included in all servers, however, they only have seven total locations. Be sure to check the closest location before purchasing to make sure your ping won’t be too high.
 
-PingPerfect has a similar layout to that of GTX Gaming, but they offer a few more configuration options. Not only do they allow you to choose things like server branding and SSD hosting for better speeds, but their service area is much larger.
-
-Like GTX Gaming, PingPerfect offers a couple of specific city-side hosting servers across the US. At the time of writing, their Miami, USA and New York, USA servers are sold out, but they still have just about anything else you could need.
-
-PingPerfect also offers a 48-hour trial period to get a feel for the service.
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
-</div> 
-
-{% include gameservers.html %}
-
-GameServers offers Space Engineers server hosting for $0.99 per slot, starting at eight slots and going up to 60 slots. 
-
-When it comes to performance, [GameServers](https://www.gameservers.com/){: target=" _blank"} is almost unmatched for the price, but for that, you've gotta get rid of some configuration options you'd get with other server hosts.
-
-GameServers's configuration menu is as simple and streamlined as it gets. No extra bells or whistles, and no extra hassle. Simply pick the game, server type, the number of slots, and location, then you're ready to get started.
-
-They give you the option to purchase a Teamspeak, Ventrilo, or Mumble voice server with your hosting, but you don't have to choose any of them. Then, once you get to the payment terms, you can get incrementally increasing discounts by choosing longer time commitments. 
-
-For example, the monthly cost on a 3-month commitment is less than that of a single month. If you know you're going to use the server for a while, buying a bulk package upfront makes the most sense. 
+If you don’t want to shell out, Nitrous Networks provides great value and features for the money.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gameservers.com/?ref=1666562">Rent from GameServers</a>
+  <a target="_blank" class="big-button-center" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent from Nitrous Networks</a>
 </div>
 
 <div id="corsair-carbide-series-400c" class="featured-info-box">
@@ -332,99 +351,9 @@ As for what else Host Havoc offers, the configuration is just as simple as Gamer
 You can even try out Host Havocs features before committing with their 72-hour Risk-Free Money Back Guarantee.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
-
-<div class="featured-info-box">
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://www.verygames.net/en/"><img class="lazyload" alt="verygames logo" data-src="/img/game-hosts/space-engineers/verygames.png" /></a>
-</div>
-<div class="text">
-<h2>VeryGames</h2>
-<h3>Hosting Provider</h3>
-<p>VeryGames is a new server host to us, but suffice to say that they blew us away with the sheer amount of stuff they give you.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.verygames.net/en/">Rent from VeryGames</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Tons of value</li> 
-        <li>Lots of discounts</li> 
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Small servers</li>
-        <li>Not long established</li>
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Eh
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
-
-[VeryGames](https://www.verygames.net/en/shop/space-engineers-server-host-space-engineers-rental-mieten_55){: target=" _blank"} is a new server host to us, but suffice to say that they blew us away with the sheer amount of stuff they give you.
-
-In terms of the rental period offerings, they have discounts from as little as 3 months all the way up to two years. You're even given the option of hosting multiple servers and they provide discounts for those as well. There are even more cost savings to be had if you consider the player slot counts (6, 8, and unlimited) and their respective prices.
-
-There are also addons like automatic backups to keep your server alive in case of a hardware hiccup, and extra disk space to make sure that your glorious builds can stretch the universe over.
 
 <table class="basic-table">
   <tr>
@@ -442,17 +371,17 @@ There are also addons like automatic backups to keep your server alive in case o
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers">PingPerfect</a></td>
+      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
+    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=space-engineers" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
@@ -462,7 +391,7 @@ There are also addons like automatic backups to keep your server alive in case o
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
