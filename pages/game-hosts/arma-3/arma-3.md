@@ -59,7 +59,7 @@ Let's dive in!
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -79,7 +79,7 @@ Let's dive in!
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -103,7 +103,7 @@ Instead of worrying about the technical crap, you can focus on what's essential:
 ## Renting an Arma 3 Server vs. Hosting Your Own 
 <img class="lazyload" alt="arma 3 game banner" data-src="/img/game-hosts/arma-3/arma-3-banner.png">
 
-You *can* host your own Arma 3 server on your PC, although I'd highly recommend you rent a server instead. 
+You *can* host your own Arma 3 server on your PC, although I'd highly recommend you RENT A SERVER instead. 
 
 Here's why: 
 
@@ -143,7 +143,7 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -163,7 +163,7 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -184,8 +184,8 @@ The largest server offered by GTX Gaming for Arma 3 Exile is 120 slots, coming i
 Considering GTX Gaming's instant deployment, countless features, and fair pricing, they're great for anyone who wants to host a modded Arma 3 server, especially with a high slot count. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
 </div> 
 
 ## Best Modded Arma 3 Server Hosting 
@@ -304,8 +304,8 @@ Host Havoc supports all Arma 3 mods and DLCs and has some of the best support I'
 For new hosts that want an easy-to-use interface, helpful support, and fast servers all for a low cost, Host Havoc is the best option. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
 
 <table class="basic-table">
@@ -324,7 +324,7 @@ For new hosts that want an easy-to-use interface, helpful support, and fast serv
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -344,7 +344,7 @@ For new hosts that want an easy-to-use interface, helpful support, and fast serv
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
