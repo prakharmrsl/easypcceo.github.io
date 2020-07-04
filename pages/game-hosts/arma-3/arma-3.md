@@ -62,15 +62,14 @@ Let's dive in!
     <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3
-">PingPerfect</a></td>
+    <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -147,15 +146,14 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
     <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="best hosting for squad: pingperfect" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3
-">PingPerfect</a></td>
+    <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -168,20 +166,6 @@ Renting an Arma 3 server from a [hosting company](/game-hosts/) is your best bet
     <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
   </tr>
 </table>
-
-{% include streamline-servers.html %}
-
-Streamline Servers have been hosting Arma games since the original launch. They're also highly recommended by Arma 3 server hosts in Arma forums around the web. 
-
-This established hosting company has terrific support, performance, and fair pricing, making them the best all-around pick for Arma 3 hosting. 
-
-Streamline Servers' Arma 3 packages are $1.50 per slot, starting at ten slots ($15/month) and going all the way up to 100 slots ($150/month). Their servers are available in 22 locations and include Arma 3 Epoch and Exile hosting. 
-
-Their servers are not the lowest price per slot, but not the most expensive either. With instant installation, low ping, global locations, modding support, and a custom control panel, hosting with Streamline Servers is worth every penny. 
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://streamline-servers.com/billing/aff.php?aff=974">Rent from Streamline Servers</a>
-</div>
 
 ## Best Arma 3 Exile Server Hosting 
 
@@ -204,208 +188,23 @@ Considering GTX Gaming's instant deployment, countless features, and fair pricin
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
-## Best Arma 3 Life Server Hosting 
+## Best Modded Arma 3 Server Hosting 
 
-<div class="featured-info-box">
-<div class="content">
-<div class="img">
-<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3
-"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
-</div>
-<div class="text">
-<h2>PingPerfect</h2>
-<h3>Game Servers</h3>
-<p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
-</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3
-">Rent from PingPerfect</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Terrific performance</li> 
-        <li>Great support</li>
-        <li>Competitive pricing for small servers</li>
-        <li>Servers all over the world</li>
-        <li>Lots of games</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Some of their support documentation is lacking</li>
-        <li>Large servers can get a bit pricey</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section>
+{% include citadel-servers.html %}
 
-[PingPerfect](/game-hosts/pingperfect/) is one of my favorite hosting companies across the board for reasons outlined in our review (click the link to check it out). 
+Citadel Servers is one of my favorite hosting companies across the board for modded Arma 3 server hosting. 
 
-Arma 3 Life is another popular game mode, and PingPerfect takes the cake when it comes to Arma 3 Life hosting. 
+Arma 3 Life, KOTH, etc. are all popular game modes, and Citadel Servers takes the cake when it comes to modded Arma 3 hosting. 
 
-They have instant deployment Arma 3 Life servers starting at $0.56 per slot, but their customers receive discounts when they make longer-term commitments. 
+Their servers start at a minimum of 10 slots for $0.87/slot ($8.70/month) and go up to 127 slots. As you increase slot count, the price per slot decreases, which is great for if you want to host a large server. A 127 slot server is $0.47/slot, far cheaper than the base price. 
 
-If you buy three months of hosting up front, you save 5%; a semi-annual commitment will save you 10%, and annual payments will save you 15%. 
+You also get discounts for committing to a quarterly, semi-annual, or annual commitment. 
 
-PingPerfect's Arma 3 Life servers start at 30 slots and go up to a maximum of 100 slots. PingPerfect also offers free web hosting with all of its game servers so that you can set up a website for your server's community. 
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=arma-3">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
-</div> 
-
-## Best Arma 3 KOTH Server Hosting 
-
-<div class="featured-info-box">
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://www.nfoservers.com/"><img class="lazyload" alt="NFO Servers" data-src="/img/game-hosts/nfo-servers.png" /></a>
-</div>
-<div class="text">
-<h2>NFO Servers</h2>
-<h3>Game Hosting</h3>
-<p>NFO Servers are highly rated and reviewed in the Arma 3 hosting community. They guarantee high performance and unmetered bandwidth with every hosting package, and have a ton of experience hosting Arma servers.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.nfoservers.com/">Rent from NFO Servers</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Popular Arma 3 hosting</li> 
-        <li>Great support</li>
-        <li>High performance</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>A bit expensive</li>
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section>
-
-Their Arma 3 servers start at approximately $0.90 per slot for a 50 slot server, and their servers have a maximum slot count of 80. 
-
-NFO has relatively cheap pricing per slot, but considering the lowest slot count you can buy is 50, the entry price is still pretty high (~$45). 
-
-Nevertheless, many Arma 3 hosts swear by NFO's performance, customer support, and control panel. If you're running a large Arma 3 KOTH server and want to save as much money per player as you can, NFO Servers is the move. 
+If you're interested in hosting an Arma 3 Life server, or you just want cheap Arma 3 server hosting, Citadel Servers is the way to go! 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.nfoservers.com/">Rent from NFO</a>
-</div> 
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
+</div>
 
 ## Cheapest Arma 3 Server Hosting 
 
@@ -508,6 +307,46 @@ For new hosts that want an easy-to-use interface, helpful support, and fast serv
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
+
+<table class="basic-table">
+  <tr>
+    <th>Logo</th>
+    <th>Company</th>
+    <th>About</th>
+    <th>Buy</th>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="best hosting for gmod gtx gaming" data-src="/img/game-hosts/terraria/gtx-gaming.png" /></td>
+    <td><a target="_blank" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
+">GTX Gaming</a></td>
+    <td class="components">
+      <ul>
+      <li>Top Pick</li>
+      </ul>
+    </td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+  </tr>
+  <tr>
+    <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
+    <td class="components">
+      <ul>
+      <li>Runner Up</li>
+      </ul>
+    </td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
+  </tr>
+  <tr>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Host Havoc</a></td>
+    <td class="components">
+      <ul>
+      <li>Budget Pick</li>
+      </ul>
+    </td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affarma=1379">Rent a Server</a></td>
+  </tr>
+</table>
 
 ## Arma 3 Server Hosting Guide 
 

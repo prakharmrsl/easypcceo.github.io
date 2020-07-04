@@ -53,7 +53,7 @@ Here is a table comparing the top DayZ hosting providers:
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -63,7 +63,7 @@ Here is a table comparing the top DayZ hosting providers:
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
@@ -73,7 +73,7 @@ Here is a table comparing the top DayZ hosting providers:
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -125,7 +125,7 @@ Here is a table comparing the best DayZ hosting companies:
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -135,7 +135,7 @@ Here is a table comparing the best DayZ hosting companies:
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
@@ -145,7 +145,7 @@ Here is a table comparing the best DayZ hosting companies:
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -162,7 +162,7 @@ Mod installation is reasonably easy as well, involving downloading mods through 
 If the server’s stock performance isn’t enough for you, upgrades are available for the RAM, CPU clock speed and priority, and SSD. You can even upgrade your support ticket priority to VIP status.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
@@ -282,7 +282,7 @@ In addition to the low price, they offer dozens of servers across every continen
 Included with every server is built-in DDOS protection, as well as 1 GB of free web hosting space.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
 </div> 
 
@@ -301,7 +301,7 @@ Host Havoc also offers free DDOS protection and a 72-hour money back guarantee i
 Their service is also great, with an average response time of under 15 minutes. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
@@ -418,7 +418,7 @@ Additionally, a MySQL database is offered for free with all servers.
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="citadel servers" data-src="/img/game-hosts/citadel-servers/logo.png" /></td>
@@ -428,7 +428,7 @@ Additionally, a MySQL database is offered for free with all servers.
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
@@ -438,7 +438,7 @@ Additionally, a MySQL database is offered for free with all servers.
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -526,7 +526,7 @@ For a quick overview of how to set up a server, check out the section above on p
 
 ### How much is it to rent a DayZ server?
 
-This is a common question, but there’s no one right answer for how much it costs to rent a server.
+This is a common question, but there’s no one right answer for how much it costs to RENT A SERVER.
 
 It all depends on your needs and goals as a server owner. 
 

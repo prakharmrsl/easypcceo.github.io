@@ -64,7 +64,7 @@ Both options have their own advantages and disadvantages. The next section will 
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
-">Rent a Server</a></td>
+">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
@@ -74,7 +74,7 @@ Both options have their own advantages and disadvantages. The next section will 
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -84,7 +84,7 @@ Both options have their own advantages and disadvantages. The next section will 
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
-">Rent a Server</a></td>
+">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
@@ -180,7 +180,7 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -190,7 +190,7 @@ Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe 
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -213,7 +213,7 @@ Even without upgrades, every server starts with a solid 5 GB of RAM, which is pl
 This provider offers well over a dozen locations for widespread coverage.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
 </div> 
 
@@ -415,7 +415,7 @@ HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player.
 If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div> 
 
@@ -640,7 +640,7 @@ The biggest downside of this provider is the cost, but if you’re looking for a
       </ul>
     </td>
     <td><a target="_blank" class="big-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612
-">Rent a Server</a></td>
+">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
@@ -650,7 +650,7 @@ The biggest downside of this provider is the cost, but if you’re looking for a
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -660,7 +660,7 @@ The biggest downside of this provider is the cost, but if you’re looking for a
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -730,7 +730,7 @@ Fortunately, there are plenty of options if you want to take your game to the ne
 
 If you’re somewhat tech-savvy, you may prefer to set-up and host your own server. This is a great option if you have a computer to spare and want to game with your friends.
 
-Overall though, the most versatile choice is to rent a server. Hosting providers have options for small servers with friends all the way up to massive online worlds.
+Overall though, the most versatile choice is to RENT A SERVER. Hosting providers have options for small servers with friends all the way up to massive online worlds.
 
 The numerous features also allow you a ton of flexibility. Adding mod support, world back-ups, game updates, and DDoS protection gives you a safe and secure server that requires no maintenance or managing.
 
