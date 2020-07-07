@@ -1,159 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  	    <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-MX8QJZ2');</script>
-<!-- End Google Tag Manager -->
-
-<script type="text/javascript">
-    window._mNHandle = window._mNHandle || {};
-    window._mNHandle.queue = window._mNHandle.queue || [];
-    medianet_versionId = "3121199";
-</script>
-<script src="https://contextual.media.net/dmedianet.js?cid=8CU43298T" async="async"></script>
-
-
-    <title>3 Best Rust Server Hosting Options 2020 (Comparison) </title>
-
-        <meta charset="utf-8" />
-    <meta content='text/html; charset=utf-8' http-equiv='Content-Type'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
-    
-    <meta name="description" content="After running several rust servers with more than a dozen hosting companies, I've rounded up the top 3 rust server hosting companies on the market." />
-    <meta property="og:description" content="After running several rust servers with more than a dozen hosting companies, I've rounded up the top 3 rust server hosting companies on the market." />
-    
-    <meta name="author" content="Easy PC" />
-
-    
-    <meta property="og:title" content="Best Rust Server Hosting" />
-    <meta property="twitter:title" content="Best Rust Server Hosting" />
-    <div id="amzn-assoc-ad-7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=7ee36eaa-b5b6-4047-aa06-ef63cf03c886"></script>
-    <!-- Facebook Pixel Code -->
-<script>
-  !function(f,b,e,v,n,t,s)
-  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-  n.queue=[];t=b.createElement(e);t.async=!0;
-  t.src=v;s=b.getElementsByTagName(e)[0];
-  s.parentNode.insertBefore(t,s)}(window, document,'script',
-  'https://connect.facebook.net/en_US/fbevents.js');
-  fbq('init', '1009421505904678');
-  fbq('track', 'PageView');
-</script>
-<noscript><img height="1" width="1" style="display:none"
-  src="https://www.facebook.com/tr?id=1009421505904678&ev=PageView&noscript=1"
-/></noscript>
-<!-- End Facebook Pixel Code -->
-    
-    
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="Easy PC - " href="/feed.xml" />
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700" rel="stylesheet">
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="ahrefs-site-verification" content="3105cf5fdf3fd2569b94d4146fff097da3eebb619973f0e5d3f5e56799e22db4">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <script src="https://unpkg.com/lazysizes@4.1.6/lazysizes.js" async></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
-    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-    <script src="https://code.jquery.com/jquery-3.5.0.min.js" ></script>
-    <script src="/js/mobile-nav.js"></script>
-  </head>
-
-  <body>
-  	<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MX8QJZ2"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
-    <div class="wrapper-masthead static">
-      <div class="container">
-        <header class="masthead clearfix">
-          <a href="/" class="site-avatar"><img src="/img/epc-logo.jpg" /></a>
-          <a href="#" class="menu"><span></span>Menu</a>
-          <div class="site-info">
-            <h1 class="site-name"><a href="/">Easy PC</a></h1>
-            <p class="site-description"></p>
-          </div>
-
-          <nav>
-            
-              
-                <span class="item-with-sub">
-                  <a href="/budget-pcs/">
-                    <li>Gaming PCs ▼</li>
-                    <div class="sub-menu">
-                    
-                      <a href="http://localhost:4000/cpu/"><li>CPUs</li></a>
-                    
-                      <a href="http://localhost:4000/pc-cases/"><li>Cases</li></a>
-                    
-                      <a href="http://localhost:4000/motherboard/"><li>Motherboards</li></a>
-                    
-                  </div>
-                  </a>
-                </span>
-
-              
-            
-              
-                <span class="item-with-sub">
-                  <a href="/game-hosts/">
-                    <li>Game Hosting ▼</li>
-                    <div class="sub-menu">
-                    
-                      <a href="http://localhost:4000/game-hosts/rust/"><li>Rust Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/ark/"><li>ARK Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/terraria/"><li>Terraria Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/dayz/"><li>DayZ Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/tf2/"><li>TF2 Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/arma-3/"><li>Arma 3 Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/space-engineers/"><li>Space Engineers Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/unturned/"><li>Unturned Hosting</li></a>
-                    
-                      <a href="http://localhost:4000/game-hosts/7-days-to-die/"><li>7 Days to Die Hosting</li></a>
-                    
-                  </div>
-                  </a>
-                </span>
-
-              
-            
-          </nav>
-        </header>
-      </div>
-    </div>
-
-    <div id="main" role="main" class="container">
-      <article class="page">
-
-  <h1>Best Rust Server Hosting</h1>
-
-  <div class="entry">
-    <div class="author-line">
+I"П<div class="author-line">
     <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
     <span>Jacob Tuwiner</span>
 </div>
@@ -361,7 +206,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>With over 10 years of experience, GTX Gaming offers reliable, high performance game servers at a terrific price.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
 </div>
 </div>
 </div>
@@ -463,7 +308,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Citadel Servers is one of the best budget hosting companies on the market. They offer a wide variety of games for an affordable price per slot. </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://citadelservers.com/client/aff.php?aff=379
-">RENT A SERVER</a>
+">Rent from Citadel Servers</a>
 </div>
 </div>
 </div>
@@ -551,7 +396,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Overall, if you’re looking for a Rust server hosting company on a budget, Citadel Servers is a great choice.</p>
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
 </div>
 
 <div class="featured-info-box">
@@ -565,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h3>Game Servers</h3>
 <p>Offering premium Rust server hosting at a good price, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from Host Havoc</a>
 </div>
 </div>
 </div>
@@ -943,61 +788,4 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How Much Does it Cost to Host a Rust Server?","acceptedAnswer":[{"@type":"Answer","text":"On average between hosts a Rust server can run you anywhere between $10 per month to $25 per month on most hosts. However, some hosts can reach up to $50 a month, while others like Fragnet charge by the amount of player slots it will have."}]},{"@type":"Question","name":"How Do You Make a Private Server on Rust?","acceptedAnswer":[{"@type":"Answer","text":"To make your own rust server, we suggest you use a separate server box, but you can use your main computer if you’d like. Once you choose your device, it’s a simple matter of downloading files and setting configurations, easy stuff."}]},{"@type":"Question","name":"Can Rust Be Played Offline? ","acceptedAnswer":[{"@type":"Answer","text":"You can't play Rust offline because Steam requires authentication to prevent piracy, but that can't happen when you're offline. "}]},{"@type":"Question","name":"How to Grow a Rust Server","acceptedAnswer":[{"@type":"Answer","text":"One way to get new members to join is by advertising on the Rust Server Directory or PlayRust subreddits. Try posting a thread with some information about your server. Otherwise you can try posting on the official Rust discord server or one of the many player-ran Rust fan servers that dot the internet."}]}]}</script>
 <!-- Generated by https://www.matthewwoodward.co.uk/ -->
-
-  </div>
-
-
-</article>
-
-    </div>
-
-    <div class="wrapper-footer">
-      <div class="container">
-        <footer class="footer">
-          <div class="footer-menu">
-           
-            <a href="/contact/">Contact Us</a>
-          
-            <a href="/about/">About Us</a>
-          
-            <a href="/about/#disclaimer">Disclaimer</a>
-          
-          </div>
-          <div class="icons">
-            
-
-
-
-
-
-
-
-
-<a href="https://www.twitter.com/easypcio"><i class="svg-icon twitter"></i></a>
-
-<a href="https://youtube.com/easypcyoutubechannel"><i class="svg-icon youtube"></i></a>
-
-          </div>
-        </footer>
-      </div>
-    </div>
-
-    
-	<!-- Google Analytics -->
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-102581591-1', 'auto');
-		ga('send', 'pageview', {
-		  'page': '/game-hosts/rust/',
-		  'title': 'Best Rust Server Hosting'
-		});
-	</script>
-	<!-- End Google Analytics -->
-
-
-  </body>
-</html>
+:ET
