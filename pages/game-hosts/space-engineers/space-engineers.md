@@ -3,7 +3,7 @@ title: "Best Space Engineers Server Hosting Providers"
 permalink: "/game-hosts/space-engineers/"
 layout: page
 seotitle: "3 Best Space Engineers Server Hosting Companies (2020)" 
-meta: "There are many great Space Engineers Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+meta: "There are many great Space Engineers Server Hosting companies to up your game, but this review will cover the top 3 providers." 
 ---
 
 <div class="author-line">
@@ -107,33 +107,28 @@ They offer the best all-around server package alongside a wide array of configur
 
 Additionally, no matter where you are, they've got a location closeby, ensuring optimal performance. We should note, however, that servers based in Stockholm, Sweden, and Sao Paulo, Brazil cost an extra $10 and $19, respectively.
 
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent from GTX Gaming</a>
-</div>
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
+</div> 
 
 {% include citadel-servers.html %}
 
 Citadel Servers is another great game hosting company, especially for Space Engineers server hosting. 
 
+Their Space Engineers servers start at $0.87/slot with a minimum of 10 slots per month, and a maximum of 64 slots per month. 
 
+Citadel Servers' nodes can be found all over the world, so you probably live near one (which is important, unless you want to lag like crazy!)
 
-{% include gameservers.html %}
+Their price per slot is slightly higher than Host Havoc ($0.75/slot) but they have a lower minimum slot count, which means their minimum monthly payment is also lower. 
 
-GameServers offers Space Engineers server hosting for $0.99 per slot, starting at eight slots and going up to 60 slots. 
-
-When it comes to performance, [GameServers](https://www.gameservers.com/){: target=" _blank"} is almost unmatched for the price, but for that, you've gotta get rid of some configuration options you'd get with other server hosts.
-
-GameServers's configuration menu is as simple and streamlined as it gets. No extra bells or whistles, and no extra hassle. Simply pick the game, server type, the number of slots, and location, then you're ready to get started.
-
-They give you the option to purchase a Teamspeak, Ventrilo, or Mumble voice server with your hosting, but you don't have to choose any of them. Then, once you get to the payment terms, you can get incrementally increasing discounts by choosing longer time commitments. 
-
-For example, the monthly cost on a 3-month commitment is less than that of a single month. If you know you're going to use the server for a while, buying a bulk package upfront makes the most sense. 
+If you just want to host a small, private Space Engineers server for you and some friends, Citadel Servers makes the most sense. On the other hand, if you want a large server, Host Havoc or GTX Gaming is probably the best option. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://www.gameservers.com/?ref=1666562">Rent from GameServers</a>
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
 </div>
 
-<div id="corsair-carbide-series-400c" class="featured-info-box">
+<div class="featured-info-box">
 <div class="content">
 <div class="img">
 <a target="_blank" href="https://hosthavoc.com/billing/aff.php?affse=1379"><img class="lazyload" alt="Host Havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a>
@@ -143,7 +138,7 @@ For example, the monthly cost on a 3-month commitment is less than that of a sin
 <h3>Game Servers</h3>
 <p>Offering premium hosting for a variety of games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">Rent from Host Havoc</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">RENT A SERVER</a>
 </div>
 </div>
 </div>
@@ -234,98 +229,8 @@ You can even try out Host Havocs features before committing with their 72-hour R
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
-
-<div class="featured-info-box">
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://www.verygames.net/en/"><img class="lazyload" alt="verygames logo" data-src="/img/game-hosts/space-engineers/verygames.png" /></a>
-</div>
-<div class="text">
-<h2>VeryGames</h2>
-<h3>Hosting Provider</h3>
-<p>VeryGames is a new server host to us, but suffice to say that they blew us away with the sheer amount of stuff they give you.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://www.verygames.net/en/">Rent from VeryGames</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Tons of value</li> 
-        <li>Lots of discounts</li> 
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Small servers</li>
-        <li>Not long established</li>
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Eh
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
-
-[VeryGames](https://www.verygames.net/en/shop/space-engineers-server-host-space-engineers-rental-mieten_55){: target=" _blank"} is a new server host to us, but suffice to say that they blew us away with the sheer amount of stuff they give you.
-
-In terms of the rental period offerings, they have discounts from as little as 3 months all the way up to two years. You're even given the option of hosting multiple servers and they provide discounts for those as well. There are even more cost savings to be had if you consider the player slot counts (6, 8, and unlimited) and their respective prices.
-
-There are also addons like automatic backups to keep your server alive in case of a hardware hiccup, and extra disk space to make sure that your glorious builds can stretch the universe over.
 
 <table class="basic-table">
   <tr>
