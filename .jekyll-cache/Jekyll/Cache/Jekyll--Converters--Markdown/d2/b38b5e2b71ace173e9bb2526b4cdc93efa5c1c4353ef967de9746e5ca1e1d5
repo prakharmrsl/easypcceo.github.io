@@ -1,4 +1,4 @@
-I"y—<div class="author-line">
+I"µ”<div class="author-line">
     <span>Reviewed by</span><img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
     <span>Jacob Tuwiner</span>
 </div>
@@ -46,17 +46,17 @@
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a></td>
-    <td><a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Nitrous Networks</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
@@ -66,7 +66,7 @@
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -189,19 +189,18 @@
 </div>
 
 <div class="featured-info-box">
-<span>Budget Hosting</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261
-"><img class="lazyload" alt="Nitrous Networks" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a>
+<a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379
+"><img class="lazyload" alt="Streamline Servers logo" data-src="/img/game-hosts/citadel-servers/logo.png" /></a>
 </div>
 <div class="text">
-<h2>Nitrous Networks</h2>
-<h3>Game Servers</h3>
-<p>For Space Engineers players looking for a small server to play with friends, Nitrous Networks provides the lowest prices in its class.</p>
+<h2>Citadel Servers</h2>
+<h3>Hosting Provider</h3>
+<p>Citadel Servers is one of the best budget hosting companies on the market. They offer a wide variety of games for an affordable price per slot. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261
-">Rent from Nitrous Networks</a>
+<a target="_blank" class="cta-button buy-button" href="https://citadelservers.com/client/aff.php?aff=379
+">Rent from Citadel Servers</a>
 </div>
 </div>
 </div>
@@ -211,18 +210,16 @@
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Free voice server included</li> 
-        <li>Very low prices</li> 
-        <li>Includes free web hosting and MySQL</li>
-        <li>Highly reviewed</li>
+        <li>Dude they're dirt cheap</li>
+        <li>Long established company</li> 
+        <li>Fastest servers</li>
+        <li>Great support</li>
       </ul> 
     </div>
     <div class="cons-container"> 
       <div class="pro-con-title">Cons</div> 
       <ul class="info-list"> 
-        <li>No mod support</li>
-        <li>Terraria servers max out at 30 slots</li>
-        <li>Not many server locations</li> 
+        <li>A bit less performance than competition</li>
       </ul> 
     </div>
   </div>
@@ -240,7 +237,7 @@
           <img class="tab-img lazyload" data-src="/img/icons/person.png" /><span class="tab-btn-title-margin">Mods</span>
         </div>
         <div class="tab-btn-data">
-          No
+          Yes
         </div>
       </div>
       <div class="tab-btn">
@@ -248,7 +245,7 @@
           <img class="tab-img lazyload" data-src="/img/icons/emergency.png" /><span class="tab-btn-title-margin">Support</span>
         </div>
         <div class="tab-btn-data">
-          Good
+          Ok
         </div>
       </div>
     <div class="tab-btn">
@@ -278,15 +275,7 @@
   </div>    
 </section>
 
-<p>If youâ€™re short on cash, Nitrous Networks is a great option that wonâ€™t break the bank. Their cheap Space Engineers server hosting starts at just $9.20 per month for a 10 slot server, making it one of the cheapest options on the list.</p>
-
-<p>DDoS protection is included in all servers, however, they only have seven total locations. Be sure to check the closest location before purchasing to make sure your ping wonâ€™t be too high.</p>
-
-<p>If you donâ€™t want to shell out, Nitrous Networks provides great value and features for the money.</p>
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent from Nitrous Networks</a>
-</div>
+<p>Citadel Servers is another great game hosting company, especially for Space Engineers server hosting.</p>
 
 <div class="featured-info-box">
 <div class="content">
@@ -488,7 +477,7 @@
 <p>You can even try out Host Havocs features before committing with their 72-hour Risk-Free Money Back Guarantee.</p>
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">Rent a Server</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affse=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
 </div>
 
@@ -598,17 +587,17 @@
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&amp;page=space-engineers">PingPerfect</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&amp;page=space-engineers" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
     <td><img class="lazyload table-image" alt="host havoc logo" data-src="/img/game-hosts/host-havoc/logo.jpg" /></td>
@@ -618,7 +607,7 @@
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://hosthavoc.com/billing/aff.php?affse=1379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
 </table>
 

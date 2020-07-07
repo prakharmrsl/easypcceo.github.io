@@ -48,17 +48,17 @@ But how do you go about choosing a Rust hosting company?
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
-    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
+      <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -68,7 +68,7 @@ But how do you go about choosing a Rust hosting company?
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -169,17 +169,17 @@ This table shows the best Rust server hosting options:
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/terraria/citadel-servers.png" /></a></td>
-    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
+      <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
+    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">PingPerfect</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -189,7 +189,7 @@ This table shows the best Rust server hosting options:
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -292,11 +292,134 @@ GTX Gaming supports Oxide/Umod support with automatic updates, online backup man
 I tested their Rust servers with my friends and I was blown away by not only the performance but the pricing as well.  
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
 </div> 
 
-{{ include citadel-servers.html }}
+<div class="featured-info-box">
+<span>Runner Up</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=rust
+"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
+</div>
+<div class="text">
+<h2>PingPerfect</h2>
+<h3>Game Servers</h3>
+<p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
+</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust
+">Rent from PingPerfect</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Terrific performance</li> 
+        <li>Great support</li>
+        <li>Fair pricing</li>
+        <li>Servers all over the world</li>
+        <li>Lots of games</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Some of their support documentation is lacking</li>
+        <li>Control panel has less functionality than others</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Dedicated
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
+        </div>
+        <div class="tab-btn-data">
+          Good
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
+        </div>
+        <div class="tab-btn-data">
+          PC
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
+        </div>
+        <div class="tab-btn-data">
+          TCAdmin
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
+        </div>
+        <div class="tab-btn-data">
+          Free
+        </div>
+      </div>
+  </div>    
+</section>  
+
+PingPerfect offers a ton of features, including: 
+
+* Instant setup in all locations
+* 24/7 Support team
+* Game tracker integration
+* One click install addons
+* Support for Oxide and mods
+* Scheduler system (restart/steam update/update mod/send command)
+* Automatic offsite backups
+
+Their Rust servers start at just $0.19 per slot, with a minimum requirement of 50 slots. Although the minimum Rust slot requirement is higher than Host Havoc's, their price per slot is less than half. 
+
+That means Rust servers start at less than $10/month for a bunch of people. However, PingPerfect also has a bunch of add-ons to choose from when you buy the Rust server.
+
+You can choose from one of their many locations around the world, host your server on an SSD, request additional bandwidth, memory, and CPU priority. 
+
+If you choose to add any of those features to your Rust server, the cost will go up a bit, but the nice thing is the server is totally customizable to fit your needs.
+
+Before I began using [PingPerfect](http://www.pingperfect.com/aff.php?aff=803&page=rust
+){: target=" _blank"}, I was hosting my server with a different company. Traditionally, transfering a server is an absolute nightmare. 
+
+But that wasn't the case with PingPerfect.
+
+They transferred all of my data from another company to theirs, the first time. That was surprising, to say the least. They're also a company that's open-minded and take suggestions from their user base. 
+
+Ping Perfect is a large company with server nodes around the world. They probably have a server node near you, wherevever you live.
+
+If you want a great company with fair pricing for your Rust server, Ping Perfect is a great option. 
+
+<div class="buttons-wrapper">
+  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">READ REVIEW</a>
+</div> 
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
@@ -406,8 +529,8 @@ Otherwise, considering their minimum slot count is still a bit pricey, Host Havo
 Click the red button below to check them out, or the blue button to read our [Host Havoc review](/game-hosts/host-havoc/).
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
 
 ## Free Rust Server Hosting (Private Server)
@@ -423,7 +546,7 @@ Running a server on your internet will take up a portion of your internet bandwi
 
 In addition, running a server on your main computer (as opposed to a separate tower) will use some of your PC’s valuable resources which can lower your FPS in games while running the server. 
 
-## How to Make a Rust Server
+## How Do You Make a Private Server on Rust? 
 <img class="lazyload" alt="making a rust game server" data-src="/img/game-hosts/rust/make-server.png">
 
 To make your own rust server, we suggest you use a separate server box, but you can use your main computer if you’d like. Once you choose your device, it’s a simple matter of downloading files and setting configurations, easy stuff.
@@ -431,6 +554,10 @@ To make your own rust server, we suggest you use a separate server box, but you 
 When you get your server up, you can go test it out yourself and try to invite some friends so you can make sure everything’s working correctly.
 
 If you want to learn [how to make a Rust server for free](/game-hosts/rust/dedicated-server/), check out our guide. 
+
+## Can Rust Be Played Offline? 
+
+You can't play Rust offline because Steam requires authentication to prevent piracy, but that can't happen when you're offline. 
 
 ## Rust Server Hosting Guide
 
@@ -584,3 +711,5 @@ Hosting a Rust server is hard enough, not to mention the buying process. But if 
 Hopefully this guide pointed you in the right direction. If you need any extra help choosing or want some assistance, please feel free to [contact me](/contact/). 
 
 Happy Rusting!
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How Much Does it Cost to Host a Rust Server?","acceptedAnswer":[{"@type":"Answer","text":"On average between hosts a Rust server can run you anywhere between $10 per month to $25 per month on most hosts. However, some hosts can reach up to $50 a month, while others like Fragnet charge by the amount of player slots it will have."}]},{"@type":"Question","name":"How Do You Make a Private Server on Rust?","acceptedAnswer":[{"@type":"Answer","text":"To make your own rust server, we suggest you use a separate server box, but you can use your main computer if you’d like. Once you choose your device, it’s a simple matter of downloading files and setting configurations, easy stuff."}]},{"@type":"Question","name":"Can Rust Be Played Offline? ","acceptedAnswer":[{"@type":"Answer","text":"You can't play Rust offline because Steam requires authentication to prevent piracy, but that can't happen when you're offline. "}]},{"@type":"Question","name":"How to Grow a Rust Server","acceptedAnswer":[{"@type":"Answer","text":"One way to get new members to join is by advertising on the Rust Server Directory or PlayRust subreddits. Try posting a thread with some information about your server. Otherwise you can try posting on the official Rust discord server or one of the many player-ran Rust fan servers that dot the internet."}]}]}</script><!-- Generated by https://www.matthewwoodward.co.uk/ -->
