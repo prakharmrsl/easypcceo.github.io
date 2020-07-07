@@ -214,10 +214,10 @@ This provider offers well over a dozen locations for widespread coverage.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
 </div> 
 
-## Best Terraria Server Hosting with Mods 
+## Cheapest Terraria Server Hosting
 
 <div class="featured-info-box">
 <span>Best Mod Support</span>
@@ -230,7 +230,7 @@ This provider offers well over a dozen locations for widespread coverage.
 <h3>Game Servers</h3>
 <p>Respectable pricing and a variety of locations are two components of this mod-friendly server host.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
+<a target="_blank" class="cta-button buy-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
 </div>
 </div>
 </div>
@@ -316,8 +316,10 @@ With 11 servers in the US alone, and over a dozen other worldwide locations, Cit
 For just a bit more, you can also opt to upgrade your process priority. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
 </div>
+
+## Fastest Terraria Server Hosting
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
@@ -330,7 +332,7 @@ For just a bit more, you can also opt to upgrade your process priority.
 <h3>Game Servers</h3>
 <p>Offering premium hosting for Terraria servers as well as other games, Host Havoc prides themselves on their performance, support, and dedication to their customers.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from Host Havoc</a>
+<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
 </div>
 </div>
 </div>
@@ -416,211 +418,8 @@ If you have any troubles, they have 24/7 support services that generally respond
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
-
-## Cheapest Terraria Server Hosting
-
-<div class="featured-info-box">
-<span>Budget Hosting</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://billing.nitrous-networks.com/aff.php?aff=4261
-"><img class="lazyload" alt="Nitrous Networks" data-src="/img/game-hosts/terraria/nitrous-networks.jpg" /></a>
-</div>
-<div class="text">
-<h2>Nitrous Networks</h2>
-<h3>Game Servers</h3>
-<p>For Terraria players looking for a small server to play with friends, Nitrous Networks provides the lowest prices in its class.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://billing.nitrous-networks.com/aff.php?aff=4261
-">Rent from Nitrous Networks</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Free voice server included</li> 
-        <li>Very low prices</li> 
-        <li>Includes free web hosting and MySQL</li>
-        <li>Highly reviewed</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>No mod support</li>
-        <li>Terraria servers max out at 30 slots</li>
-        <li>Not many server locations</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          No
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Good
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
-
-If you’re short on cash, Nitrous Networks is a great option that won’t break the bank. They offer servers starting at just over $5.50 a month for 8 players, increasing to a maximum of 30 slots.
-
-Additionally, they offer a free voice server which provides additional value for your money. 
-
-DDoS protection is included in all servers, however, they only have seven total locations. Be sure to check the closest location before purchasing to make sure your ping won’t be too high.
-
-If you don’t want to shell out, Nitrous Networks provides great value and features for the money.
-
-<div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent from Nitrous Networks</a>
-</div>
-
-## Fastest Terraria Server
-
-<div id="corsair-carbide-series-400c" class="featured-info-box">
-<span>High-Performance Server</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload" alt="Game Server Kings" data-src="/img/game-hosts/terraria/game-server-kings.png" /></a>
-</div>
-<div class="text">
-<h2>GameServer Kings</h2>
-<h3>Game Servers</h3>
-<p>By utilizing the most powerful hardware, GameServer Kings provides high-speed Terraria servers with great mod support.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent from GameServer Kings</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Quad-core CPU and SSD-driven servers</li> 
-        <li>TShock mod support</li> 
-        <li>Automated back-ups</li>
-        <li>99.9% uptime</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>More expensive</li>
-        <li>Not many server locations</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          GSK Terraria
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
-
-You might instead be looking for a server with blazing speeds. GameServerKings offers servers from 8 to 64 people for $.99 a slot.
-
-Where this provider really shines is with its hardware. Every server comes with at least 64 GB of RAM, a quad-core CPU, and multiple SSD’s, to ensure peak performance.
-
-TShock is included with all servers, allowing you to add plug-ins and mods at your whim. They offer servers in North America as well as Europe. 
-
-You can upgrade your CPU priority and add a dedicated IP address if you’d like.
-
-The biggest downside of this provider is the cost, but if you’re looking for a fast, powerful server, GameServerKings has plenty of options.
 
 <table class="basic-table" align="center">
   <tr>
