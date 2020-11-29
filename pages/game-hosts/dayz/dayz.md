@@ -2,8 +2,8 @@
 title: "Best DayZ Server Hosting Companies" 
 permalink: "/game-hosts/dayz/"
 layout: page
-seotitle: "5 Best DayZ Hosting Companies 2020 (Comparison)" 
-meta: "There are many great DayZ Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "3 Best DayZ Hosting Companies 2020 (Comparison)" 
+meta: "There are many great DayZ Server Hosting companies to up your game, but this review will cover the top 3 providers." 
 ---
 
 <div class="author-line">
@@ -66,14 +66,14 @@ Here is a table comparing the top DayZ hosting providers:
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">PingPerfect</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
-      <li>Budget Pick</li>
+      <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -138,14 +138,14 @@ Here is a table comparing the best DayZ hosting companies:
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">PingPerfect</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
-      <li>Budget Pick</li>
+      <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -163,7 +163,7 @@ If the server’s stock performance isn’t enough for you, upgrades are availab
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
 </div> 
 
 ## DayZ Server Hosting PC 
@@ -178,119 +178,14 @@ Citadel Servers also includes a MySQL database for free. Mod support is also exc
 Free DDOS protection and the ability to add a dedicated IP address round out this server provider’s features.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">Rent from Citadel Servers</a>
+  <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
 </div>
-
-## Cheap DayZ Standalone Server Hosting 
-
-<div class="featured-info-box">
-<div class="content">
-<div class="img">
-<a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa
-"><img class="lazyload" alt="Ping Perfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></a>
-</div>
-<div class="text">
-<h2>PingPerfect</h2>
-<h3>Game Servers</h3>
-<p>Not only do they have great servers and an awesome control panel, they also have an amazing support team. Their responsiveness and helpfulness absolutely blew me away, especially when compared to the other companies on this list.
-</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa
-">Rent from PingPerfect</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Terrific performance</li> 
-        <li>Great support</li>
-        <li>Competitive pricing for small servers</li>
-        <li>Servers all over the world</li>
-        <li>Lots of games</li>
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>Some of their support documentation is lacking</li>
-        <li>Large servers can get a bit pricey</li> 
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          Yes
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Great
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          PC
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          TCAdmin
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section>
-
-On the other hand, you might just want to rent a DayZ server for the cheapest price available, no frills attached. PingPerfect offers exceptional prices while still providing quality servers.
-
-For just $6.30 a month, you can purchase a server with 10 slots, with the option to increase up to 100 slots. If you pay quarterly or annually, you’ll even get a discount from that price!
-
-In addition to the low price, they offer dozens of servers across every continent besides Antarctica. Some locations might be sold out, however, so look ahead before buying.
-
-Included with every server is built-in DDOS protection, as well as 1 GB of free web hosting space.
-
-<div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
-</div> 
 
 ## DayZ Standalone Modded Server Hosting 
 
 {% include host-havoc.html %}
 
-If you’re looking for a server with great support, then [Host Havoc](/game-hosts/host-havoc/) is an excellent choice.
+If you’re looking for cheap DayZ server hosting with great mod support, then [Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target="_blank"} is an excellent choice.
 
 This provider offers DayZ servers starting 20 slots for $18.50 a month, increasing up to 80 slots. They have 11 servers across North America and Europe, including one in Oceania. 
 
@@ -302,96 +197,10 @@ Their service is also great, with an average response time of under 15 minutes.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
 
 ## DayZ Server Hosting PS4/Xbox
-
-<div class="featured-info-box">
-<span>Xbox/PS4 Hosting</span>
-<div class="content">
-<div class="img">
-<a target="_blank" href="https://server.nitrado.net/usa/rent-gameserver"><img class="lazyload" alt="dayz server hosting for xbox and ps4" data-src="/img/game-hosts/dayz/nitrado.png" /></a>
-</div>
-<div class="text">
-<h2>Nitrado</h2>
-<h3>Game Servers</h3>
-<p>Nitrado offers quality servers in the console sector, which is usually lacking in options.</p>
-<div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://server.nitrado.net/usa/rent-gameserver">Rent from Nitrado</a>
-</div>
-</div>
-</div>
-</div>
-<section class="section-pros-cons">
-  <div class="pros-cons-container">
-    <div class="pros-container"> 
-      <div class="pro-con-title">Pros</div> 
-      <ul class="info-list"> 
-        <li>Console hosting</li> 
-        <li>Servers on four continents</li> 
-        <li>Free MySQL Database</li> 
-      </ul> 
-    </div>
-    <div class="cons-container"> 
-      <div class="pro-con-title">Cons</div> 
-      <ul class="info-list"> 
-        <li>More expensive</li>
-        <li>No refund period</li>
-      </ul> 
-    </div>
-  </div>
-  <div class="tabs-container">
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/server.png"/><span class="tab-btn-title-margin">Type</span>
-        </div>
-        <div class="tab-btn-data">
-          Dedicated
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/person.png"/><span class="tab-btn-title-margin">Mods</span>
-        </div>
-        <div class="tab-btn-data">
-          No
-        </div>
-      </div>
-      <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/emergency.png"/><span class="tab-btn-title-margin">Support</span>
-        </div>
-        <div class="tab-btn-data">
-          Good
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/desktop.png"/><span class="tab-btn-title-margin">Platform</span>
-        </div>
-        <div class="tab-btn-data">
-          Xbox/PS4
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/cpanel.png"/><span class="tab-btn-title-margin">cPanel</span>
-        </div>
-        <div class="tab-btn-data">
-          Nitrado
-        </div>
-      </div>
-    <div class="tab-btn">
-        <div class="tab-btn-title">
-          <img class="tab-img lazyload" data-src="/img/icons/security.png"/><span class="tab-btn-title-margin">DDoS</span>
-        </div>
-        <div class="tab-btn-data">
-          Free
-        </div>
-      </div>
-  </div>    
-</section> 
 
 You may not be playing DayZ on a computer at all. If you’re a console gamer, there are very few hosting options, but luckily Nitrado has you covered.
 
@@ -431,14 +240,14 @@ Additionally, a MySQL database is offered for free with all servers.
     <td><a href="https://citadelservers.com/client/aff.php?aff=379" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-    <td><img class="lazyload table-image" alt="pingperfect logo" data-src="/img/game-hosts/ping-perfect/logo.png" /></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa">PingPerfect</a></td>
+      <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
+    <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?aff=1379">Host Havoc</a></td>
     <td class="components">
       <ul>
-      <li>Budget Pick</li>
+      <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a href="http://www.pingperfect.com/aff.php?aff=803&page=dayz-sa" target="_blank" class="big-button">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 

@@ -55,17 +55,17 @@ Here is a table comparing the top Unturned server hosting providers:
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
-      <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
-    <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned">PingPerfect</a></td>
+      <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/citadel-servers/logo.png" /></a></td>
+    <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379">Citadel Servers</a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affunturned=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -75,7 +75,7 @@ Here is a table comparing the top Unturned server hosting providers:
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affunturned=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affunturned=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -134,7 +134,7 @@ In our judgment, we considered features like price, server hardware, locations, 
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">Rent a Server</a></td>
+    <td><a href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612" target="_blank" class="big-button">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned"><img class="lazyload table-image" data-src="/img/game-hosts/ping-perfect/logo.png" /></a></td>
@@ -144,7 +144,7 @@ In our judgment, we considered features like price, server hardware, locations, 
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="http://www.pingperfect.com/aff.php?aff=803&page=unturned">RENT A SERVER</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://hosthavoc.com/billing/aff.php?affunturned=1379"><img class="lazyload table-image" data-src="/img/game-hosts/host-havoc/logo.jpg" /></a></td>
@@ -154,7 +154,7 @@ In our judgment, we considered features like price, server hardware, locations, 
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affunturned=1379">Rent a Server</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?affunturned=1379">RENT A SERVER</a></td>
   </tr>
 </table>
 
@@ -171,8 +171,8 @@ If you want to boost performance, upgrades are available for memory, CPU clock s
 Other features include free DDOS protection, 1-click world back-ups, Steam Workshop, and Rocket mod support, in addition to a 24-hour refund period if you are not satisfied.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
 </div> 
 
 ## Cheapest Unturned Server Host
@@ -278,8 +278,8 @@ Some of their offered features include free DDOS protection, free back-ups, and 
 If you’re not fully satisfied, they also offer a 48-hour refund period.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">READ REVIEW</a>
 </div> 
 
 ## Fastest Unturned Server Host
@@ -384,8 +384,8 @@ Back-ups and free DDOS protection are included with all servers.
 Moving to support, Host Havoc’s average response time is 15 minutes or less. If you are not satisfied, they have an impressive 72-hour refund period.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
 </div> 
 
 ## Feature-packed Host
