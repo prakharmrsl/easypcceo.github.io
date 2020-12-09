@@ -388,7 +388,7 @@ But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and
 
 In some cases, you may be looking to use your 1080 Ti for [cryptocurrency mining](https://www.webopedia.com/TERM/C/cryptocurrency-mining.html){: target="_blank"} instead and don’t worry we’ve got you covered with the EVGA Supernova 1600 T2.
 
-The quality of your power supply when crypto mining is absolutely detrimental to success. 
+The quality of your power supply when [crypto mining](http://www.bitrawr.com/mining){: target="_blank"} is absolutely detrimental to success. 
 
 Just think about how fast you’ll lose money if your PSU dies, for example. So you need something you can rely on and the Supernova T2 series doesn’t disappoint.
 

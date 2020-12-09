@@ -154,7 +154,7 @@ Besides PCs, I’m also interested in cryptocurrency and blockchain. Check out m
 
 ## Disclaimer
 
-This site is affiliated with Amazon and eBay. Commissions are earned from purchases as a direct result of clicking the affiliate links on this site. 
+This site is affiliated with Amazon and eBay. Commissions are earned from purchases as a direct result of clicking the [affiliate links](https://afflytics.com/blog/best-gaming-affiliate-programs/){: target="_blank"} on this site. 
 
 Keep in mind that the price you pay is the same. These commissions help me maintain and operate this site to help more people build their first rig!
 
