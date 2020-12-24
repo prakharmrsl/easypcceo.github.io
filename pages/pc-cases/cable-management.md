@@ -1,8 +1,8 @@
 ---
-title: "Best PC Cases for Cable Management" 
+title: "Best PC Cases for Cable Management"
 permalink: "/pc-cases/cable-management/"
 layout: page
-seotitle: "3 Best PC Cases for Cable Management 2020 (Comparison)" 
+seotitle: "3 Best PC Cases for Cable Management 2020 (Comparison)"
 meta: "If you're tired of having your cables in a big jumbled mess, obstructing airflow and looking like crap, this guide is for you. We're talking about the best PC cases for cable management of 2020."
 ---
 
@@ -23,16 +23,6 @@ meta: "If you're tired of having your cables in a big jumbled mess, obstructing 
   </li>
   <li><a href="#how-can-you-fix-cable-management" id="markdown-toc-how-can-you-fix-cable-management">How Can You Fix Cable Management?</a></li>
 </ul>
-
-Here's the deal:
-
-You want to build a gaming PC you're actually *proud of* - which means you can't have your cables in a big jumbled mess.
-
-That's why I've created this guide. The first case I ever bought had terrible cable management, and I want to help you avoid the same mistake.
-
-Today, we're taking a look at three of the best pc cases for cable management on the market today. 
-
-But if you are just here for the best case for cable management, we recommend the [NZXT H510i on Amazon](https://amzn.to/2xsrJnf){: target="_blank"}. It's well-designed, good looking, quiet, inexpensive and of course, has terrific cable management options.
 
 ## 3 Best PC Cases for Cable Management
 
@@ -75,27 +65,37 @@ But if you are just here for the best case for cable management, we recommend th
   </tr>
 </table>
 
-## What is Cable Management? 
+Here's the deal:
 
-Cable management is making sure you don't look like a complete PC building noob - in other words, keeping your cables nice and tidy inside your case. You should be organizing them in a way that doesn't totally suck. 
+You want to build a gaming PC you're actually _proud of_ - which means you can't have your cables in a big jumbled mess.
+
+That's why I've created this guide. The first case I ever bought had terrible cable management, and I want to help you avoid the same mistake.
+
+Today, we're taking a look at three of the best pc cases for cable management on the market today.
+
+But if you are just here for the best case for cable management, we recommend the [NZXT H510i on Amazon](https://amzn.to/2xsrJnf){: target="\_blank"}. It's well-designed, good looking, quiet, inexpensive and of course, has terrific cable management options.
+
+## What is Cable Management?
+
+Cable management is making sure you don't look like a complete PC building noob - in other words, keeping your cables nice and tidy inside your case. You should be organizing them in a way that doesn't totally suck.
 
 You can have a PC with your cables nice and tidy:
 
 ![example of good cable management](/img/cable-management/good-cable-management.png)
 
-Or you can have a PC with your cables running every which way, blocking airflow and making you look like a total noob: 
+Or you can have a PC with your cables running every which way, blocking airflow and making you look like a total noob:
 
 ![example of bad cable management](/img/cable-management/bad-cable-management.png)
 
-Using a modular power supply is one way to improve your cable management (see our [page on modular power supplies](/need-modular-power-supply/)) as well as zip-tying your cables together and hiding them away in your case. 
+Using a modular power supply is one way to improve your cable management (see our [page on modular power supplies](/need-modular-power-supply/)) as well as zip-tying your cables together and hiding them away in your case.
 
-But one of the best ways to manage your cables is buying an [awesome PC case](/pc-cases/) with good cable management options in the first place! 
+But one of the best ways to manage your cables is buying an [awesome PC case](/pc-cases/) with good cable management options in the first place!
 
 ## Why is Cable Management Important?
 
-Cable management is important if you want your PC to look clean and professional, but it actually doesn't have a big impact on performance, or even airflow. 
+Cable management is important if you want your PC to look clean and professional, but it actually doesn't have a big impact on performance, or even airflow.
 
-On our page about [cable management and airflow](/pc-cases/does-cable-management-matter/) we explain in further detail and show some examples of good cable management vs bad cable management. 
+On our page about [cable management and airflow](/pc-cases/does-cable-management-matter/) we explain in further detail and show some examples of good cable management vs bad cable management.
 
 But for now, here's what you need to know:
 
@@ -108,7 +108,7 @@ But for now, here's what you need to know:
 		</div>
 </div>
 
-## Best Cases for Cable Management 
+## Best Cases for Cable Management
 
 <div class="featured-info-box">
 <span>Our Pick</span>
@@ -195,17 +195,17 @@ But for now, here's what you need to know:
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 This case from NZXT is a favorite of ours here at Easy PC. It has a sleek design and despite being a [compact ATX case](/pc-cases/smallest-atx-cases/), it has a spacious interior.
 
-The H510i ships with two case fans pre-installed on the front panel, and a case fan on the rear of the case as well. 
+The H510i ships with two case fans pre-installed on the front panel, and a case fan on the rear of the case as well.
 
-You can hide your power supply and any extra cables in the power supply shroud at the bottom, which helps keep temperatures down and your case looking clean. 
+You can hide your power supply and any extra cables in the power supply shroud at the bottom, which helps keep temperatures down and your case looking clean.
 
-There is a lot of room between the motherboard tray and the right side panel of the case, which makes it easy to run cables behind the tray and out of the way. 
+There is a lot of room between the motherboard tray and the right side panel of the case, which makes it easy to run cables behind the tray and out of the way.
 
-In addition, there are a ton of grommets and holes that you can use to route your cables, instead of having a big jumbled mess. But don't just take my word for it, you can check out this case's glowing reviews on Amazon as well. 
+In addition, there are a ton of grommets and holes that you can use to route your cables, instead of having a big jumbled mess. But don't just take my word for it, you can check out this case's glowing reviews on Amazon as well.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2xsrJnf">View on Amazon</a>
@@ -296,15 +296,15 @@ In addition, there are a ton of grommets and holes that you can use to route you
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 Here's the deal:
 
-The Corsair Crystal 280X is one of my favorite cases right now, and not just because it has awesome cable management features. 
+The Corsair Crystal 280X is one of my favorite cases right now, and not just because it has awesome cable management features.
 
-If you're a fan of RGBs and side panel windows, you'll love this case. But more importantly, it has terrific cable management options. 
+If you're a fan of RGBs and side panel windows, you'll love this case. But more importantly, it has terrific cable management options.
 
-The best part about this case in my opinion is its stealthy secondary chamber which you can use to hide your power supply, hard drives, and your cables. 
+The best part about this case in my opinion is its stealthy secondary chamber which you can use to hide your power supply, hard drives, and your cables.
 
 Unfortunately this case doesn't have the best stock cooling, but you can add water-cooling radiators at the front and top of the case. You can also opt to add a few additional fans on the empty mounts.
 
@@ -397,41 +397,41 @@ Unfortunately this case doesn't have the best stock cooling, but you can add wat
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-The Cooler Master MasterBox Pro 5 RGB is one heck of a case. It's packed with three RGB fans, tempered glass panels, and great cable management options, all for less than $100. 
+The Cooler Master MasterBox Pro 5 RGB is one heck of a case. It's packed with three RGB fans, tempered glass panels, and great cable management options, all for less than $100.
 
-However, it does have a few compromises. First of all, there aren't any mounting options on the top of the case, so a 240mm or 360mm radiator is out of the picture. But you can mount a single 120mm radiator on the rear exhaust of the case, no problem. 
+However, it does have a few compromises. First of all, there aren't any mounting options on the top of the case, so a 240mm or 360mm radiator is out of the picture. But you can mount a single 120mm radiator on the rear exhaust of the case, no problem.
 
-In addition, the included fans require a single four pin molex connector for power - make sure your power supply has at least one of those if you plan on rocking this case. 
+In addition, the included fans require a single four pin molex connector for power - make sure your power supply has at least one of those if you plan on rocking this case.
 
-This case only has three intake fans on the front (covered by a panel) and a single rear exhaust fan, that's it. If you're going to run a medium-tier build like a $600 gaming PC or a $700 gaming PC, this case would be great. 
+This case only has three intake fans on the front (covered by a panel) and a single rear exhaust fan, that's it. If you're going to run a medium-tier build like a $600 gaming PC or a $700 gaming PC, this case would be great.
 
-Fitting components like an i5 9400f or maybe a Ryzen 5 3600 would be the most "computer" I'd put in this case. Likewise, a GTX 1060 or a 1070 would be the farthest I'd go. 
+Fitting components like an i5 9400f or maybe a Ryzen 5 3600 would be the most "computer" I'd put in this case. Likewise, a GTX 1060 or a 1070 would be the farthest I'd go.
 
-If you want to run premium high-end components in this case like a 1080 Ti or RTX 2080 Ti, you should upgrade to a higher end case with better airflow. 
+If you want to run premium high-end components in this case like a 1080 Ti or RTX 2080 Ti, you should upgrade to a higher end case with better airflow.
 
-The MasterCase line is Cooler Master's premium line designed for high-end builds. The MasterBox is still awesome, but meant for lower budgets. 
+The MasterCase line is Cooler Master's premium line designed for high-end builds. The MasterBox is still awesome, but meant for lower budgets.
 
-That being said, in terms of cable management, you won't have any issues with the MasterBox Pro 5 RGB. It has a lot of grommets for your cables and plenty of space between the right panel and the motherboard tray. 
+That being said, in terms of cable management, you won't have any issues with the MasterBox Pro 5 RGB. It has a lot of grommets for your cables and plenty of space between the right panel and the motherboard tray.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2Uh64HU">View on Amazon</a>
 </div>
 
-## Cable Management Tools 
+## Cable Management Tools
 
-A good case for cable management isn't all you're going to need. Any skilled PC builder has a few cable management tools in their belt. 
+A good case for cable management isn't all you're going to need. Any skilled PC builder has a few cable management tools in their belt.
 
-Here are some of our recommendations: 
+Here are some of our recommendations:
 
-* A Pair of Side Cutters
-* Small  
-* Scissors
-* Double Sided Tape
-* Cable Mesh (optional but useful)
+- A Pair of Side Cutters
+- Small
+- Scissors
+- Double Sided Tape
+- Cable Mesh (optional but useful)
 
-## Cable Management Tips 
+## Cable Management Tips
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HkB-GNEt9Fk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -439,17 +439,18 @@ Here are some of our recommendations:
 
 With your tools in hand and a good case, here are some of our best cable management tips:
 
-### Map it out 
+### Map it out
 
-As we mention in our <a href="/cable-management/">cable management guide</a>, it doesn't have a big impact on performance, or even airflow. Cable management is almost purely for looks. 
+As we mention in our <a href="/cable-management/">cable management guide</a>, it doesn't have a big impact on performance, or even airflow. Cable management is almost purely for looks.
 
-That being said, if you want your build to look awesome, you should have a battle plan in mind. 
+That being said, if you want your build to look awesome, you should have a battle plan in mind.
 
-You don't want to have a bunch of wires running diagonally all over the place, even if they're tied together. Cables should only appear to run vertically and horizontally for the best aesthetic. 
+You don't want to have a bunch of wires running diagonally all over the place, even if they're tied together. Cables should only appear to run vertically and horizontally for the best aesthetic.
 
-Don't be afraid to map out your cable management plan on a piece of paper or the Paint application to get a better idea of what you'll be doing. 
+Don't be afraid to map out your cable management plan on a piece of paper or the Paint application to get a better idea of what you'll be doing.
 
-### Start with the small cables 
+### Start with the small cables
+
 <figure>
 <img class="lazyload" alt="small cables" data-src="/img/cases/cable-management/small-cables.JPG" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
@@ -457,13 +458,13 @@ Don't be afraid to map out your cable management plan on a piece of paper or the
 
 Assuming you already have your build assembled, move the large cables out of the way (probably motherboard and CPU power) so you can start working on the tiny cables.
 
-These could be your case fan wires, audio cables, and some of the other cables that come with your case. 
+These could be your case fan wires, audio cables, and some of the other cables that come with your case.
 
-Use the small zip ties to clean them up, using existing case crevices to hide them, in addition to the empty spaces where DVD drives used to go. They make for great nooks to hide your front IO cables. 
+Use the small zip ties to clean them up, using existing case crevices to hide them, in addition to the empty spaces where DVD drives used to go. They make for great nooks to hide your front IO cables.
 
-### Save your SATA cables for last 
+### Save your SATA cables for last
 
-Since SATA data and power cables tend to be flimsy, you should save them for last. 
+Since SATA data and power cables tend to be flimsy, you should save them for last.
 
 They're way more prone to breaking that the rest of the cables in your system, trust me...
 
@@ -476,63 +477,67 @@ They're way more prone to breaking that the rest of the cables in your system, t
 		</div>
 </div>
 
-Moral of the story? 
+Moral of the story?
 
-Don't cable manage your SATA cables until the end! 
+Don't cable manage your SATA cables until the end!
 
 ### Rotate your fans (if necessary)
+
 <figure>
 <img class="lazyload" alt="rotate-fan" data-src="/img/cases/cable-management/rotate-fan.JPG" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-Rotating your fans can often give a cleaner run to your fan connector. 
+Rotating your fans can often give a cleaner run to your fan connector.
 
 Instead of having to run your cable across the fan, mount your case fan so that its cable originates closest to your fan power connector.
 
 ### Hide modular power supply cables in the crevice
+
 <figure>
 <img class="lazyload" alt="hide modular cable" data-src="/img/cases/cable-management/hide-cables.JPG" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-If you have a modular power supply, you can hide your cables in the cavity behind the PSU. 
+If you have a modular power supply, you can hide your cables in the cavity behind the PSU.
 
-Luckily, the best cable management cases we listed above have power supply shrouds, making this step easy. 
+Luckily, the best cable management cases we listed above have power supply shrouds, making this step easy.
 
-## Cable Management Ideas 
+## Cable Management Ideas
 
-Here are some awesome cable management ideas that'll save you time and energy: 
+Here are some awesome cable management ideas that'll save you time and energy:
 
 ### Label your fan power cables
+
 <figure>
 <img class="lazyload" alt="label fan cables" data-src="/img/cases/cable-management/label-fans.JPG" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-Labeling your fan power cables is going to make your life much easier when you want to reconfigure them in the future. 
+Labeling your fan power cables is going to make your life much easier when you want to reconfigure them in the future.
 
 It will also help you reconfigure your RGB patterns when it's no longer obvious which cable goes where.
 
-### Keep your big cables in mind 
+### Keep your big cables in mind
+
 <figure>
 <img class="lazyload" alt="thick cable" data-src="/img/cases/cable-management/thick-cable.JPG" />
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=HkB-GNEt9Fk">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-While running your small cables, think about where your main cables will (eventually) go. 
+While running your small cables, think about where your main cables will (eventually) go.
 
-You can use the large cables to hide the small ones later on using the cable mesh sleeve we mentioned in the tools section. 
+You can use the large cables to hide the small ones later on using the cable mesh sleeve we mentioned in the tools section.
 
 Planning rocks!
 
-## How Can You Fix Cable Management? 
+## How Can You Fix Cable Management?
 
-If your cables are a huge mess already, I'd recommend unplugging everything and starting from scratch. 
+If your cables are a huge mess already, I'd recommend unplugging everything and starting from scratch.
 
-You won't have much luck managing cables that are poorly configured from the start. 
+You won't have much luck managing cables that are poorly configured from the start.
 
-Unplug them all, and use the tips/ideas above to do it properly. 
+Unplug them all, and use the tips/ideas above to do it properly.
 
 ## Liked the guide?
 

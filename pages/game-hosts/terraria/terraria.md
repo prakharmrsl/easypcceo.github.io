@@ -1,9 +1,9 @@
 ---
-title: "Best Terraria Server Hosting Companies" 
+title: "Best Terraria Server Hosting Companies"
 permalink: "/game-hosts/terraria/"
 layout: page
-seotitle: "5 Best Terraria Server Hosting Companies (2020 Reviews)" 
-meta: "There are many great Terraria Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "5 Best Terraria Server Hosting Companies (2020 Reviews)"
+meta: "There are many great Terraria Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
 <div class="author-line">
@@ -21,28 +21,6 @@ meta: "There are many great Terraria Server Hosting companies to up your game, b
   <li><a href="#how-much-ram-does-a-terraria-server-need" id="markdown-toc-how-much-ram-does-a-terraria-server-need">How Much RAM Does a Terraria Server Need?</a></li>
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
-
-While many people unfamiliar with [Terraria](https://terraria.org/) consider it to just be 2-D Minecraft, there is so much more to it than that. 
-
-Terraria features a progression system that offers hours of content, more than a dozen bosses, and hundreds of weapons.
-
-There are four fully fleshed-out combat classes, and tons of accessories to boost offense, defense, and mobility.
-
-Besides combat, there are many biomes to explore, almost 200 block types to build with, and countless crafting recipes.
-
-Whether you’re a fighter, builder, adventurer, or explorer, Terraria offers something for everyone. The single-player experience provides endless entertainment.
-
-<img class="lazyload" alt="Terraria" data-src="/img/game-hosts/terraria/terraria.jpg">
-
-However, where Terraria really shines is in its multiplayer experience. There’s nothing better than conquering a new world with friends.
-
-Of course, in order to play with your friends, you’ll need a server. You can always just join a server, but that would leave you at the mercy of another’s rules.
-
-Terraria offers an in-game feature called “Host and Play”, allowing you to invite Steam friends to play on your world. This mode has its own drawbacks though, as the session ends for everyone as soon as you leave the game, and it can be prone to lag. 
-
-For complete creative freedom and a 24-7 gaming experience, you will need to set-up your own server. There are two ways to go about this: [renting a server](/game-hosts/), or hosting your own.
-
-Both options have their own advantages and disadvantages. The next section will cover these choices so you can decide which best meets your goal.
 
 ## Popular Terraria Hosting Companies
 
@@ -88,23 +66,45 @@ Both options have their own advantages and disadvantages. The next section will 
   </tr>
 </table>
 
+While many people unfamiliar with [Terraria](https://terraria.org/) consider it to just be 2-D Minecraft, there is so much more to it than that.
+
+Terraria features a progression system that offers hours of content, more than a dozen bosses, and hundreds of weapons.
+
+There are four fully fleshed-out combat classes, and tons of accessories to boost offense, defense, and mobility.
+
+Besides combat, there are many biomes to explore, almost 200 block types to build with, and countless crafting recipes.
+
+Whether you’re a fighter, builder, adventurer, or explorer, Terraria offers something for everyone. The single-player experience provides endless entertainment.
+
+<img class="lazyload" alt="Terraria" data-src="/img/game-hosts/terraria/terraria.jpg">
+
+However, where Terraria really shines is in its multiplayer experience. There’s nothing better than conquering a new world with friends.
+
+Of course, in order to play with your friends, you’ll need a server. You can always just join a server, but that would leave you at the mercy of another’s rules.
+
+Terraria offers an in-game feature called “Host and Play”, allowing you to invite Steam friends to play on your world. This mode has its own drawbacks though, as the session ends for everyone as soon as you leave the game, and it can be prone to lag.
+
+For complete creative freedom and a 24-7 gaming experience, you will need to set-up your own server. There are two ways to go about this: [renting a server](/game-hosts/), or hosting your own.
+
+Both options have their own advantages and disadvantages. The next section will cover these choices so you can decide which best meets your goal.
+
 ## Renting a Terraria Server vs Hosting Your Own
 
-Depending on how you plan to use the server and your goals, you may find that one of these options works better for you. There is no one best solution, but renting and hosting both offer a variety of features with their own upsides and downsides. 
+Depending on how you plan to use the server and your goals, you may find that one of these options works better for you. There is no one best solution, but renting and hosting both offer a variety of features with their own upsides and downsides.
 
 <img class="img-right img-small lazyload" alt="server" data-src="/img/game-hosts/terraria/server.jpg">
 
-### Advantages of Renting 
+### Advantages of Renting
 
 A rented server is online 24/7 with no input required from you. Once it’s set up, there’s no need to keep your computer on or monitor it.
 
-The server provider will usually also take care of all maintenance and security issues, meaning you don’t have to worry about backing up any files or issues like DDoS attacks.  
+The server provider will usually also take care of all maintenance and security issues, meaning you don’t have to worry about backing up any files or issues like DDoS attacks.
 
 ### Disadvantages of Renting
 
 Of course, renting a server will incur a monthly cost. This cost will increase with the number of players you have and additional features.
 
-The other downside of renting is that you don’t have total control of the server. You may not be able to customize every single aspect and feature of a rented server. 
+The other downside of renting is that you don’t have total control of the server. You may not be able to customize every single aspect and feature of a rented server.
 
 ### Advantages of Hosting Your Own
 
@@ -122,27 +122,27 @@ Additionally, most modern computers come with at least 4 GB of RAM, and many hav
 
 In order to host your own server, your computer has to be on. This means either keeping your computer on 24/7 or having periods when the server is down if your computer is off.
 
-In addition to shortening the life of your computer, you will have to pay increased electricity costs to keep it always on. 
+In addition to shortening the life of your computer, you will have to pay increased electricity costs to keep it always on.
 
 Maintenance is another thing to consider. If you’re hosting a server, you’ll have to keep up on a number of tasks like server backups, game updates, etc. You might consider all the extra work a hassle.
 
-Lastly, security is an issue you might be concerned about. Opening a port on your computer could create a vulnerability for your router. Internet security is a complex issue, especially if you’re not very familiar with it. 
+Lastly, security is an issue you might be concerned about. Opening a port on your computer could create a vulnerability for your router. Internet security is a complex issue, especially if you’re not very familiar with it.
 
 ## Free Terraria Server Hosting
 
-If after considering the options you decide to host your own server, then fear not! The set-up process is relatively easy and painless, even though creating a server might sound intimidating. 
+If after considering the options you decide to host your own server, then fear not! The set-up process is relatively easy and painless, even though creating a server might sound intimidating.
 
-This section will give you a quick rundown about what steps to take in order to host your own server, but we also have a more in-depth guide. 
+This section will give you a quick rundown about what steps to take in order to host your own server, but we also have a more in-depth guide.
 
-The first step is to find your Terraria installation folder. 
+The first step is to find your Terraria installation folder.
 
-The default installation path is **C:\Program Files (x86)\Steam\steamapps\common\Terraria**. 
+The default installation path is **C:\Program Files (x86)\Steam\steamapps\common\Terraria**.
 
 Next, open TerrariaServer.exe to bring up the command prompt. You might want to make a desktop shortcut as you’ll be accessing this frequently.
 
 <img class="img-right img-small lazyload" alt="Command Prompt" data-src="/img/game-hosts/terraria/cmd-prompt.png">
 
-The prompt will display a list of available worlds, with the option to create a new one. If you’re creating a new world, it will ask you to select the world size and other parameters. 
+The prompt will display a list of available worlds, with the option to create a new one. If you’re creating a new world, it will ask you to select the world size and other parameters.
 
 Once you have created a world, or chosen an existing one, it will present a number of options. You can change the number of players, the port, [port forwarding](https://whatismyipaddress.com/port-forwarding) (required if other players are on a different network), and the password.
 
@@ -150,7 +150,7 @@ After this, the world will be open and you and your friends can join by going to
 
 Keep in mind that you’ll have to keep your computer on and TerrariaServer.exe running to keep the server up.
 
-## Best Terraria Server Hosting 
+## Best Terraria Server Hosting
 
 <table class="basic-table" align="center">
   <tr>
@@ -204,18 +204,18 @@ In fact, there are so many options that it might be a bit overwhelming trying to
 
 Alternatively, you might be trying to create a massive server with room for plenty of players. In that case, GTX Gaming is the server host for you.
 
-Providing servers from 10 slots all the way up to a massive 255 players, you’ll never run out of room to grow your game. Furthermore, each slot costs just $.60. 
+Providing servers from 10 slots all the way up to a massive 255 players, you’ll never run out of room to grow your game. Furthermore, each slot costs just $.60.
 
 They provide plenty of upgrade options for their server hardware. You can upgrade the server’s CPU, SSD, and memory.
 
-Even without upgrades, every server starts with a solid 5 GB of RAM, which is plenty for most Terraria servers. 
+Even without upgrades, every server starts with a solid 5 GB of RAM, which is plenty for most Terraria servers.
 
 This provider offers well over a dozen locations for widespread coverage.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
-</div> 
+</div>
 
 ## Cheapest Terraria Server Hosting
 
@@ -305,15 +305,15 @@ This provider offers well over a dozen locations for widespread coverage.
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-CitadelServers is a great option if you’re looking to install mods in your server. This provider offers servers from 6 to 48 players, starting from $6.39 a month. 
+CitadelServers is a great option if you’re looking to install mods in your server. This provider offers servers from 6 to 48 players, starting from $6.39 a month.
 
 One of the best features of CitadelServers is their mod support. If you’re not the most tech-savvy, this provider offers a mod set-up service for an additional $20.
 
-With 11 servers in the US alone, and over a dozen other worldwide locations, CitadelServers has you covered no matter where you are. 
+With 11 servers in the US alone, and over a dozen other worldwide locations, CitadelServers has you covered no matter where you are.
 
-For just a bit more, you can also opt to upgrade your process priority. 
+For just a bit more, you can also opt to upgrade your process priority.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
@@ -408,18 +408,18 @@ For just a bit more, you can also opt to upgrade your process priority.
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-The best all-around Terraria server is [HostHavoc](/game-hosts/host-havoc/). The wide variety of features offered and the great reviews are a testament to this hosting provider. 
+The best all-around Terraria server is [HostHavoc](/game-hosts/host-havoc/). The wide variety of features offered and the great reviews are a testament to this hosting provider.
 
 HostHavoc offers servers for anywhere from 18 to 48 players, at $.70 per player. They have 11 server locations across the United States and Europe, so your ping will stay lower.
 
-If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe. 
+If you have any troubles, they have 24/7 support services that generally respond within 15 minutes. DDoS protection is included with all servers for free, so you can rest easy knowing your server is safe.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
-</div> 
+</div>
 
 <table class="basic-table" align="center">
   <tr>
@@ -463,13 +463,13 @@ If you have any troubles, they have 24/7 support services that generally respond
   </tr>
 </table>
 
-## Things to Note About Terraria Hosting Providers 
+## Things to Note About Terraria Hosting Providers
 
-Depending on the hosting provider you choose, you may find that they offer different services and features for different prices. 
+Depending on the hosting provider you choose, you may find that they offer different services and features for different prices.
 
 Of course, more features will cost more money, but you may find the increased cost worth it depending on what goals you have for your server.
 
-The first thing to look at is available slots/players. Most providers increase price linearly with each additional slot, though some may offer bulk discounts. 
+The first thing to look at is available slots/players. Most providers increase price linearly with each additional slot, though some may offer bulk discounts.
 
 Some providers will cover more games than others. For example, Gameserverkings covers popular games like [Rust](/game-hosts/rust/) and Terraria, but lacks on the smaller titles.
 
@@ -483,7 +483,7 @@ Besides hardware features, you may find yourself wanting maintenance features. M
 
 [DDoS protection](https://www.cloudflare.com/learning/ddos/what-is-a-ddos-attack/) is an important security feature to look for. You could also look for dedicated IP options, as well as automatic game updates.
 
-Hosting providers offer a multitude of features for different prices, and your needs are likely to vary based on your budget and goals. 
+Hosting providers offer a multitude of features for different prices, and your needs are likely to vary based on your budget and goals.
 
 The previous features apply to any game server you might rent, but there are also a couple features specific to Terraria.
 
@@ -491,7 +491,7 @@ For instance, if you’re looking to add mods, you’ll need a server that suppo
 
 Some servers offer TShock support, which allow you to add plug-ins and mods to your server.
 
-## How Much Does a Terraria Server Cost? 
+## How Much Does a Terraria Server Cost?
 
 Once again, Terraria server costs can vary greatly depending on your needs.
 
@@ -521,11 +521,11 @@ A small world with just a couple players should have at least 1 GB of RAM. A lar
 
 {% include games.html %}
 
-## Conclusion 
+## Conclusion
 
 With so many features, Terraria is a great game to play on your own. Nonetheless, it’s at its best when you’re exploring, fighting, and building with your friends.
 
-Fortunately, there are plenty of options if you want to take your game to the next level. The simplest option is the Steam “Host and Play” feature, but that comes with its own problems. 
+Fortunately, there are plenty of options if you want to take your game to the next level. The simplest option is the Steam “Host and Play” feature, but that comes with its own problems.
 
 If you’re somewhat tech-savvy, you may prefer to set-up and host your own server. This is a great option if you have a computer to spare and want to game with your friends.
 

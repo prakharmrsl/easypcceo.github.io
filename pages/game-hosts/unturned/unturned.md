@@ -1,9 +1,9 @@
 ---
-title: "5 Best Unturned Server Hosting Companies" 
+title: "5 Best Unturned Server Hosting Companies"
 permalink: "/game-hosts/unturned/"
 layout: page
-seotitle: "5 Best Unturned Server Hosting Companies (2020)" 
-meta: "There are many great Unturned Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "5 Best Unturned Server Hosting Companies (2020)"
+meta: "There are many great Unturned Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
 <div class="author-line">
@@ -21,23 +21,9 @@ meta: "There are many great Unturned Server Hosting companies to up your game, b
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
 
-In recent years, [survival games](https://en.wikipedia.org/wiki/Survival_game){: target="_blank"} have become more and more popular. The threat of the environment, enemies like zombies, and the most dangerous of all, other players, brings a feeling of adrenaline that other games cannot match.
-
-[Unturned](https://store.steampowered.com/app/304930/Unturned/){: target="_blank"} is a survival game that combines elements from games like [DayZ](/game-hosts/dayz/) and [Rust](/game-hosts/rust/) with the cartoonish voxel graphics of Minecraft. You can gather supplies, utilize vehicles, and construct a base to ward off other players and protect yourself.
-
-Unlike other survival games, Unturned includes [multiple official maps](https://unturned.fandom.com/wiki/Category:Playable_Map){: target="_blank}, with the ability to download others from the Steam Workshop. Perhaps most impressively, it was first released by Nelson Sexton when he was just 16 years old.
-
-Another great feature about Unturned is the fact that it is entirely free-to-play. 
-
-The game released out of early access on July 7th, 2017, and has been continually updated since. It is entirely playable in single-player, but like most other survival games, the most fun is to be had in multiplayer. 
-
-There are plenty of servers available for Unturned, but for those looking to control their experience, renting your own server from one of the top Unturned server hosting companies is the way to go.
-
-Let's jump in!
-
 ## Popular Unturned Server Hosting Providers
 
-Here is a table comparing the top Unturned server hosting providers: 
+Here is a table comparing the top Unturned server hosting providers:
 
 <table class="basic-table" align="center">
   <tr>
@@ -79,7 +65,22 @@ Here is a table comparing the top Unturned server hosting providers:
   </tr>
 </table>
 
+In recent years, [survival games](https://en.wikipedia.org/wiki/Survival_game){: target="\_blank"} have become more and more popular. The threat of the environment, enemies like zombies, and the most dangerous of all, other players, brings a feeling of adrenaline that other games cannot match.
+
+[Unturned](https://store.steampowered.com/app/304930/Unturned/){: target="\_blank"} is a survival game that combines elements from games like [DayZ](/game-hosts/dayz/) and [Rust](/game-hosts/rust/) with the cartoonish voxel graphics of Minecraft. You can gather supplies, utilize vehicles, and construct a base to ward off other players and protect yourself.
+
+Unlike other survival games, Unturned includes [multiple official maps](https://unturned.fandom.com/wiki/Category:Playable_Map){: target="\_blank}, with the ability to download others from the Steam Workshop. Perhaps most impressively, it was first released by Nelson Sexton when he was just 16 years old.
+
+Another great feature about Unturned is the fact that it is entirely free-to-play.
+
+The game released out of early access on July 7th, 2017, and has been continually updated since. It is entirely playable in single-player, but like most other survival games, the most fun is to be had in multiplayer.
+
+There are plenty of servers available for Unturned, but for those looking to control their experience, renting your own server from one of the top Unturned server hosting companies is the way to go.
+
+Let's jump in!
+
 ## Unturned Private Server Hosting
+
 <img class="img-right img-small lazyload" alt="Unturned Logo" data-src="/img/game-hosts/unturned/logo.png">
 
 The first option available is hosting your own private server. This can be done by setting up a dedicated server on your PC through the use of port forwarding.
@@ -92,7 +93,7 @@ First, you’ll need to navigate to Unturned.exe in your game files. Right-click
 
 Once there, right-click again and select the “Properties” option. Find the target location and add the following text after the target string:
 
- -nographics -batchmode +secureserver/
+-nographics -batchmode +secureserver/
 
 After the slash, write whatever text you wish to name your server. Finally, you can run the program and the server should start.
 
@@ -100,7 +101,7 @@ If you want to configure the server, navigate to the server folder in the Unturn
 
 Access the Command.dat file, and then you can add commands to the file. These include changing the server map, changing the port, password, max players, and other settings.
 
-To join your own server, open the game and connect to the server using the IP “localhost”. If that doesn’t work, you’ll need to configure your firewall settings. 
+To join your own server, open the game and connect to the server using the IP “localhost”. If that doesn’t work, you’ll need to configure your firewall settings.
 
 In order for friends or other people to connect, you will need to configure port forwarding settings.
 
@@ -110,13 +111,13 @@ Perhaps you don’t want to go through the trouble of setting up your own server
 
 Unlike hosting your own server, when it comes to renting there are a myriad of options.
 
-Different companies offer different features and add-ons at different prices. Additionally, you may have different goals than another server host. 
+Different companies offer different features and add-ons at different prices. Additionally, you may have different goals than another server host.
 
 Due to this, it’s difficult to evaluate one single provider as the best option. Instead, we have opted to select 5 different companies that offer excellent servers.
 
 In our judgment, we considered features like price, server hardware, locations, service, and other features as well.
 
-## Best Unturned Server Hosting 
+## Best Unturned Server Hosting
 
 <table class="basic-table" align="center">
   <tr>
@@ -164,7 +165,7 @@ For an all-around excellent server hosting option, [GTX Gaming](/game-hosts/gtx-
 
 GTX Gaming offers Unturned servers from 20-100 people. At a price of just $.37 per slot, this provider is an excellent value. In fact, this is the cheapest price per slot we’ve seen, even though the absolute cost is not the cheapest.
 
-If you want a large server, this option will provide great value for the money. Additionally, GTX Gaming offers over a dozen server locations on 5 different continents. 
+If you want a large server, this option will provide great value for the money. Additionally, GTX Gaming offers over a dozen server locations on 5 different continents.
 
 If you want to boost performance, upgrades are available for memory, CPU clock speed and priority, and hard drives, as well as the option to upgrade to VIP support tickets.
 
@@ -173,7 +174,7 @@ Other features include free DDOS protection, 1-click world back-ups, Steam Works
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
-</div> 
+</div>
 
 ## Cheapest Unturned Server Host
 
@@ -267,7 +268,7 @@ Other features include free DDOS protection, 1-click world back-ups, Steam Works
   </div>    
 </section>
 
-On the other hand, if you are looking for the absolute cheapest Unturned server, then [PingPerfect](/game-hosts/pingperfect/) is the way to go. 
+On the other hand, if you are looking for the absolute cheapest Unturned server, then [PingPerfect](/game-hosts/pingperfect/) is the way to go.
 
 This company offers servers from 10-48 slots, starting at $.43 per slot. For 10 slots, that adds up to just $4.30. They also offer dozens of server locations on every continent besides Antarctica, although some locations might be sold out.
 
@@ -280,7 +281,7 @@ If you’re not fully satisfied, they also offer a 48-hour refund period.
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=rust">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">READ REVIEW</a>
-</div> 
+</div>
 
 ## Fastest Unturned Server Host
 
@@ -369,13 +370,13 @@ If you’re not fully satisfied, they also offer a 48-hour refund period.
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 Some people seek the fastest servers available. For high-performance gaming, [Host Havoc](/game-hosts/host-havoc/) offers Unturned servers with powerful hardware.
 
 Slots cost $.70 each, and servers are available with 18-48 slots. This provider offers 9 server locations in North America, Europe, and Australia.
 
-Turning to the hardware itself, Host Havoc uses enterprise-class Intel Xeon processors in all their servers. All memory is high-speed DDR4 RAM, and the vast majority of their servers utilize NVMe SSDs. 
+Turning to the hardware itself, Host Havoc uses enterprise-class Intel Xeon processors in all their servers. All memory is high-speed DDR4 RAM, and the vast majority of their servers utilize NVMe SSDs.
 
 If that’s not enough for you, upgrades are available for CPU priority and available RAM.
 
@@ -386,7 +387,7 @@ Moving to support, Host Havoc’s average response time is 15 minutes or less. I
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affrust=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
-</div> 
+</div>
 
 ## Feature-packed Host
 
@@ -432,7 +433,7 @@ Next, you’ll need to consider available server locations. High-end hardware is
 
 After that, you can review the hardware specifications and available RAM of the server provider. Check out the section below for more information on RAM usage.
 
-Some companies offer mediocre hardware but include the option to upgrade for an additional cost. 
+Some companies offer mediocre hardware but include the option to upgrade for an additional cost.
 
 Lastly, you can look at other features and the support provided. Free back-ups, game updates, and DDOS protection are all great quality-of-life improvements.
 
@@ -440,7 +441,7 @@ Some servers offer free web hosting or voice channels. Be sure to check if your 
 
 ## Frequently Asked Questions
 
-Unturned server hosting is not the most straightforward concept. 
+Unturned server hosting is not the most straightforward concept.
 
 To resolve concerns, the sections below answer some common questions about Unturned server hosting and the game itself.
 
@@ -454,7 +455,7 @@ For a basic server with around 10 players, you could find yourself paying as lit
 
 <img class="img-right img-small lazyload" alt="Unturned Players" data-src="/img/game-hosts/unturned/people.jfif">
 
-If you’d like to add additional features or improve the performance and hardware of your server, the price will tend to increase in tandem. 
+If you’d like to add additional features or improve the performance and hardware of your server, the price will tend to increase in tandem.
 
 Higher quality servers with more features may cost 50%+ per slot than a basic server.
 
@@ -464,7 +465,7 @@ A large server with around 100 players could easily cost $50 or more per month, 
 
 Due to its voxel graphics, Unturned is not a very resource-intensive game. This translates well to server requirements and RAM usage.
 
-While there is not a ton of information regarding Unturned server RAM usage, the [general consensus](https://www.reddit.com/r/unturned/comments/3arhxb/hosting_a_1622_slot_dedicated_server_pc_spec/){: target="_blank"} seems to be that not much RAM is needed.
+While there is not a ton of information regarding Unturned server RAM usage, the [general consensus](https://www.reddit.com/r/unturned/comments/3arhxb/hosting_a_1622_slot_dedicated_server_pc_spec/){: target="\_blank"} seems to be that not much RAM is needed.
 
 For a server with just 10 players, 512 MB of RAM should do the job just fine. If you want around 20-30 players on your server, 2 GB might be necessary. For a massive server with 100 people, you’ll most likely need around 6-8 GB of RAM to keep it running smoothly.
 
@@ -478,7 +479,7 @@ These are all visual and do not add any inventory slots.
 
 ### How do I change the Unturned Version?
 
-Unturned was first released as an early access game, so multiple other versions exist. The current version is Unturned 3. 
+Unturned was first released as an early access game, so multiple other versions exist. The current version is Unturned 3.
 
 If you want to try one of the older versions, open up Steam and right-click Unturned.
 
@@ -486,7 +487,7 @@ Select the “Properties” option, then click on the “Betas” tab. You can t
 
 ### What is a Gold Account?
 
-While Unturned is entirely free, there is the option to upgrade to a [gold account](https://store.steampowered.com/app/306460/Unturned__Permanent_Gold_Upgrade/){: target="_blank"}. Don’t worry, it doesn’t provide a competitive advantage.
+While Unturned is entirely free, there is the option to upgrade to a [gold account](https://store.steampowered.com/app/306460/Unturned__Permanent_Gold_Upgrade/){: target="\_blank"}. Don’t worry, it doesn’t provide a competitive advantage.
 
 For $5, the gold account permanently unlocks extra character slots, extra character customization options, and exclusive gold skins.
 
@@ -508,4 +509,4 @@ Unturned has a variety of servers to choose from, but they cannot offer the same
 
 In that vein, you can set up a dedicated server on your PC. This takes a bit of set-up, and the server will only run while your computer is on. This may be a suitable option for some players, but an excellent alternative is renting from a server provider.
 
-Server hosting companies offer incredible flexibility with their offerings, from small servers for friends to monstrous community servers. Best of all, they’re always running, so you can focus on surviving instead of running a server. 
+Server hosting companies offer incredible flexibility with their offerings, from small servers for friends to monstrous community servers. Best of all, they’re always running, so you can focus on surviving instead of running a server.

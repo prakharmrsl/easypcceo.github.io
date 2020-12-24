@@ -1,9 +1,9 @@
 ---
-title: "Best Squad Server Hosting Providers" 
+title: "Best Squad Server Hosting Providers"
 permalink: "/game-hosts/squad/"
 layout: page
-seotitle: "3 Best Squad Server Hosting Companies (2020)" 
-meta: "If you want to take control of the action, hosting your own Squad server is the move. We're breaking down the 5 best Squad server hosting companies on the market!" 
+seotitle: "3 Best Squad Server Hosting Companies (2020)"
+meta: "If you want to take control of the action, hosting your own Squad server is the move. We're breaking down the 5 best Squad server hosting companies on the market!"
 ---
 
 <div class="author-line">
@@ -24,19 +24,7 @@ meta: "If you want to take control of the action, hosting your own Squad server 
   <li><a href="#final-word" id="markdown-toc-final-word">Final Word</a></li>
 </ul>
 
-Here's the deal:
-
-You're looking for Squad server hosting. Right on bro. 
-
-I'm going to skip the BS introduction and get down to business, so you can get back to the battlefield where you belong.
-
-In this article, we're talking about the best Squad server hosting companies on the market. 
-
-I've been hosting Squad servers for several years now, and have tried many different companies, most of which sucked. 
-
-To save you the frustration and waste of money I had to deal with, here are the best options in terms of speed, support, and price to performance: 
-
-## Top 3 Squad Server Providers 
+## Top 3 Squad Server Providers
 
 <table class="basic-table">
   <tr>
@@ -78,7 +66,20 @@ To save you the frustration and waste of money I had to deal with, here are the 
   </tr>
 </table>
 
+Here's the deal:
+
+You're looking for Squad server hosting. Right on bro.
+
+I'm going to skip the BS introduction and get down to business, so you can get back to the battlefield where you belong.
+
+In this article, we're talking about the best Squad server hosting companies on the market.
+
+I've been hosting Squad servers for several years now, and have tried many different companies, most of which sucked.
+
+To save you the frustration and waste of money I had to deal with, here are the best options in terms of speed, support, and price to performance:
+
 ## About Squad
+
 <img class="lazyload" alt="squad" data-src="/img/game-hosts/squad/game.jpg">
 
 If you somehow managed to make it to this article without learning about Squad, here's a chance to enlighten yourself.
@@ -97,34 +98,34 @@ Each host has its strengths, so we urge you to choose based on the categories an
 
 ## Best Squad Server Hosting Companies
 
-Here are the best Squad server hosting companies on the market: 
+Here are the best Squad server hosting companies on the market:
 
 {% include ping-perfect.html %}
 
-[PingPerfect](https://pingperfect.com/aff.php?aff=803){: target="_blank"} is one of the best server hosting companies around, regardless of the game you're playing. Between their fair pricing, stellar support, great performance, and awesome control panel, it doesn't get better than them. 
+[PingPerfect](https://pingperfect.com/aff.php?aff=803){: target="\_blank"} is one of the best server hosting companies around, regardless of the game you're playing. Between their fair pricing, stellar support, great performance, and awesome control panel, it doesn't get better than them.
 
-PingPerfect offers Squad server hosting starting at $0.95/slot. Their Squad servers have a minimum slot count of 20 and a maximum of 72. Considering most large scale Squad games are 40v40, it does seem a bit odd that they don't have a max slot count of 80, but oh well. 
+PingPerfect offers Squad server hosting starting at $0.95/slot. Their Squad servers have a minimum slot count of 20 and a maximum of 72. Considering most large scale Squad games are 40v40, it does seem a bit odd that they don't have a max slot count of 80, but oh well.
 
 On top of choosing your slot count, you can pay for extra CPU priority, which is great for Squad server hosting since the games have a lot of players (which use a lot of CPU power).
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
-</div> 
+</div>
 
 {% include streamline-servers.html %}
 
-Now, if speed is your need, then maybe you wanna try something like [Streamline Servers](https://streamline-servers.com/billing/aff.php?aff=974){: target="_blank"}.
+Now, if speed is your need, then maybe you wanna try something like [Streamline Servers](https://streamline-servers.com/billing/aff.php?aff=974){: target="\_blank"}.
 
-Out of all of our picks, they're the most expensive Squad hosting, but hey, you get what you pay for, don't you? 
+Out of all of our picks, they're the most expensive Squad hosting, but hey, you get what you pay for, don't you?
 
 Streamline Servers live up to their name, offering a very streamlined and straightforward control panel for your server, alongside speedy connections and a reasonably large number of global server locations.
 
-Squad fans - like all gamers - hate to lag. That's why choosing fast server hosting is especially important for Squad. Since most Squad battles have tons of players, you need a fast server host that can handle 20, 40, and even 80 players in one game. 
+Squad fans - like all gamers - hate to lag. That's why choosing fast server hosting is especially important for Squad. Since most Squad battles have tons of players, you need a fast server host that can handle 20, 40, and even 80 players in one game.
 
-Streamline Servers offers Squad hosting with a minimum of 20 slots and a maximum of 100 slots, from $1.25 per slot. 100 slots is pretty large for Squad hosting when compared to other hosts. 
+Streamline Servers offers Squad hosting with a minimum of 20 slots and a maximum of 100 slots, from $1.25 per slot. 100 slots is pretty large for Squad hosting when compared to other hosts.
 
-If you plan on hosting large scale battles and you want top-tier performance, Streamline Servers is the Squad server provider for you. 
+If you plan on hosting large scale battles and you want top-tier performance, Streamline Servers is the Squad server provider for you.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://streamline-servers.com/billing/aff.php?aff=974">Rent from Streamline Servers</a>
@@ -132,7 +133,7 @@ If you plan on hosting large scale battles and you want top-tier performance, St
 
 {% include citadel-servers.html %}
 
-If you want cheap, we've got you there too. With Squad servers coming in at $0.43 per slot, [Citadel Servers](https://citadelservers.com/client/aff.php?aff=379){: target="_blank"}, makes it easy to get a Squad server set up on the low.
+If you want cheap, we've got you there too. With Squad servers coming in at $0.43 per slot, [Citadel Servers](https://citadelservers.com/client/aff.php?aff=379){: target="\_blank"}, makes it easy to get a Squad server set up on the low.
 
 With this kind of price, don't expect the best possible performance or variation in configuration options, but they do offer quite a bit for the price. Like other hosts, they have extensive payment plan options from monthly to annually, and each payment plan past monthly provides a discount.
 
@@ -182,11 +183,12 @@ The server locations are quite limited, but they offer paid performance increase
 </table>
 
 ## How to Choose Squad Server Hosting
+
 <img class="lazyload" alt="squad" data-src="/img/game-hosts/squad/logo.png">
 
 Like we mentioned earlier in the first couple of sections, you need to choose a server based on what you plan to do with it. It may not seem all that important, but in the long term, it could mean the difference between $10 per month and $50 per month.
 
-### I Have a Large Clan or Community 
+### I Have a Large Clan or Community
 
 The higher the number of people you wish to host on your server simultaneously, you're going to need tons of slots and, more importantly, more processing power.
 
@@ -198,14 +200,15 @@ On the other end of the spectrum, some servers focus on low power, low cost, min
 
 Budget servers are the best option for low headcount servers. Servers that charge by the slot are ideal, but you should compare prices to get your money's worth.
 
-## Dedicated vs Shared Squad Hosting 
+## Dedicated vs Shared Squad Hosting
+
 <img class="lazyload" alt="dedicated vs shared squad hosting" data-src="/img/game-hosts/squad/dedicated-vs-shared.jpg">
 
 There are two simple designations of hosting for squad servers and often other types of game server hosting.
 
 ### Shared
 
-Shared hosting is mostly standard amongst website hosts, though many game hosting companies offer shared game hosting as well. When you choose a shared hosting service, it's kind of like buying bargain bin stuff. 
+Shared hosting is mostly standard amongst website hosts, though many game hosting companies offer shared game hosting as well. When you choose a shared hosting service, it's kind of like buying bargain bin stuff.
 
 You get what you pay for in terms of performance. On a shared server, there are multiple Squad servers hosted off of the same resources, and thus each server has to share processing power and internet bandwidth.
 
@@ -225,24 +228,24 @@ All in all, compare prices to match your needs to get the most for your dollar w
 
 If you want to learn more about [how much game servers cost](/game-hosts/cost/), check out our guide.
 
-## What are the Game Modes in Squad? 
+## What are the Game Modes in Squad?
 
 Here is a list of the game modes in Squad:
 
-* Advance and Secure
-* Random Advance and Secure
-* Skirmish 
-* Destruction
-* Insurgency
-* Invasion
-* Territory Control
-* Shooting Range (Single player sandbox for training and practice)
+- Advance and Secure
+- Random Advance and Secure
+- Skirmish
+- Destruction
+- Insurgency
+- Invasion
+- Territory Control
+- Shooting Range (Single player sandbox for training and practice)
 
-## How Much Does it Cost to Rent a Game Server? 
+## How Much Does it Cost to Rent a Game Server?
 
-Renting a game server can range anywhere from $10 per month to $150 per month, depending on the size of your server, the game you're playing, and you're hosting company. 
+Renting a game server can range anywhere from $10 per month to $150 per month, depending on the size of your server, the game you're playing, and you're hosting company.
 
-Keep in mind, you get what you pay for. More players and larger maps usually means higher prices, and since Squad is such a large scale multiplayer game, Squad server hosting is usually on the expensive side. 
+Keep in mind, you get what you pay for. More players and larger maps usually means higher prices, and since Squad is such a large scale multiplayer game, Squad server hosting is usually on the expensive side.
 
 ## How to Host Your Squad Server (Free)
 
@@ -252,7 +255,7 @@ First of all, the sheer processing power and system memory you would need to run
 
 On the same note, having large numbers of players connecting to a server on your home network isn't going to serve for a great gaming experience for you nor anybody else playing on the server.
 
-## How to Get Started Playing Squad 
+## How to Get Started Playing Squad
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ljY4pYZeQSY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -260,11 +263,11 @@ On the same note, having large numbers of players connecting to a server on your
 
 {% include games.html %}
 
-## Final Word 
+## Final Word
 
 Squad is an awesome game that's better played with friends.
 
-Playing the game is the fun part - finding good Squad server hosting providers, on the other hand, is challenging. 
+Playing the game is the fun part - finding good Squad server hosting providers, on the other hand, is challenging.
 
 But the importance of choosing a good host cannot be overstated. Hopefully this article helped you choose the best provider for your next Squad server!
 

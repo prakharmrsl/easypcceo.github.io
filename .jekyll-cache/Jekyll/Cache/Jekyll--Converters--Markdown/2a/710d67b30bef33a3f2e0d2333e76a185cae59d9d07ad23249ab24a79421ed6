@@ -1,0 +1,1437 @@
+I"%<div class="author-line">
+	<img class="lazyload author-image" alt="written by jacob tuwiner" data-src="/img/profile/close.jpg" />
+	<span>Jacob Tuwiner</span>
+</div>
+
+<ul id="markdown-toc">
+  <li><a href="#prebuilt-option" id="markdown-toc-prebuilt-option">Prebuilt Option</a></li>
+  <li><a href="#600-gaming-pc-build-overview" id="markdown-toc-600-gaming-pc-build-overview">$600 Gaming PC Build Overview</a>    
+  </li>
+  <li><a href="#what-games-can-this-pc-run" id="markdown-toc-what-games-can-this-pc-run">What games can this PC run?</a></li>
+  <li><a href="#building-a-gaming-pc-for-beginners" id="markdown-toc-building-a-gaming-pc-for-beginners">Building a Gaming PC for Beginners</a>    
+  </li>
+  <li><a href="#build-add-ons" id="markdown-toc-build-add-ons">Build Add-Ons</a>    
+  </li>
+  <li><a href="#other-gaming-pc-builds" id="markdown-toc-other-gaming-pc-builds">Other Gaming PC Builds</a></li>
+  <li><a href="#should-you-buy-an-ssd" id="markdown-toc-should-you-buy-an-ssd">Should You Buy an SSD?</a></li>
+</ul>
+
+<h2 id="best-600-dollar-gaming-pc-parts-list">Best 600 Dollar Gaming PC Parts List</h2>
+
+<table class="basic-table" align="center">
+	<tr>
+		<th>Component</th>
+		<th>Name</th>
+		<th>Image</th>
+		<th>Part Overview</th>
+	</tr>
+	<tr>
+		<td>CPU</td>
+		<td><a target="_blank" href="https://amzn.to/2mWcnTo">Ryzen 3 2200G</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mWcnTo"><img class="lazyload table-image" alt="Ryzen 5 2200G Processor" data-src="/img/600/r5-2200g.jpg" /></a></td>
+		<td><a href="#cpu" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td>MOBO</td>
+		<td><a target="_blank" href="https://amzn.to/2mXJQNi">MSI B450M PRO-VDH</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mXJQNi"><img class="lazyload table-image" alt="msi b450m pro vdh motherboard" data-src="/img/600/msi-b450m-pro-vdh.jpg" /></a></td>
+		<td><a href="#mobo" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td>RAM</td>
+		<td><a target="_blank" href="https://amzn.to/2nMW37F">Corsair Vengeance LPX 16 GB</a></td>
+		<td><a target="_blank" href="https://amzn.to/2nMW37F"><img class="lazyload table-image" alt="16GB Corsair Vengeance LPX DDR4 3000 MHz memory" data-src="/img/600/ram.jpg" /></a></td>
+		<td><a href="#ram" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td>SSD</td>
+		<td><a target="_blank" href="https://amzn.to/2mWqjNa">Kingston A400 480GB</a></td>
+		<td><a target="_blank" href="https://amzn.to/2mWqjNa"><img class="lazyload table-image" alt="Kingston A400 480GB SSD" data-src="/img/600/kingston-a400.jpeg" /></a></td>
+		<td><a href="#ssd" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td>GPU</td>
+		<td><a target="_blank" href="https://amzn.to/35hV15d">XFX Radeon RX 580 8GB</a></td>
+		<td><a target="_blank" href="https://amzn.to/35hV15d"><img class="lazyload table-image" alt="AMD RX 580" data-src="/img/600/gpu.jpg" /></a></td>
+		<td><a href="#gpu" class="big-button">View</a></td>		
+	</tr>
+	<tr>
+		<td>PSU</td>
+		<td><a target="_blank" href="https://amzn.to/2pbn4lA">Raidmax Scorpio 535 Watt</a></td>
+		<td><a target="_blank" href="https://amzn.to/2pbn4lA"><img class="lazyload table-image" alt="Raidmax Scorpio 535 Watt" data-src="/img/600/raidmax-scorpio.jpg" /></a></td>
+		<td><a href="#psu" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td>CASE</td>
+		<td><a target="_blank" href="https://amzn.to/2paXKfx">Cooler Master Masterbox Q300L</a></td>
+		<td><a target="_blank" href="https://amzn.to/2paXKfx"><img class="lazyload table-image" alt="Cooler Master Masterbox Q300L Micro ATX Case" data-src="/img/600/cooler-master-masterbox-q300l.jpg" /></a></td>
+		<td><a href="#case" class="big-button">View</a></td>
+	</tr>
+	<tr>
+		<td colspan="4"><a target="_blank" href="https://www.amazon.com/gp/aws/cart/add.html?&amp;AssociateTag=flarp0c-20&amp;ASIN.1=B079D3DBNM&amp;Quantity.1=1&amp;ASIN.2=B07NH5NC67&amp;Quantity.2=1&amp;ASIN.3=B0134EW7G8&amp;Quantity.3=1&amp;ASIN.4=B01N0TQPQB&amp;Quantity.4=1&amp;ASIN.5=B01I5O5AP2&amp;Quantity.5=1&amp;ASIN.6=B072C3KWRB&amp;Quantity.6=1&amp;ASIN.7=B07M6MQQGX&amp;Quantity.7=1" class="big-button">Order This Build on Amazon<i class="fas fa-shopping-cart"></i></a></td>
+	</tr>
+</table>
+
+<p><i>*prices fluctuate daily. The budget is within a $50 threshold. Some components may have been adjusted to fit the budget.</i></p>
+
+<p>In this build guide, we’re going to learn how to make the best 600 dollar gaming PC in 2020.</p>
+
+<p>This price range is great for builders on a budget – you’re spending enough on the build to ensure you’re getting quality components, but you don’t have to break the bank.</p>
+
+<p>I can assure you that this is a terrific gaming PC for the money, especially for 1080p gaming.</p>
+
+<p>If you’re interested in maxing out games in 1080p with ultra settings while achieving 60 to 100 FPS, this is the build for you.</p>
+
+<p>This build can even game in 1440p, as long as you’re willing to turn your settings down a bit.</p>
+
+<p>Let’s dive in:</p>
+
+<h2 id="prebuilt-option">Prebuilt Option</h2>
+
+<p>Before we take a look at the custom build, here’s a qwuick look at an awesome prebuilt gaming PC in the same price range that can smash 1080p.</p>
+
+<p>I get it, some of you would rather buy a plug-and-play prebuilt gaming PC instead of building one from scratch.</p>
+
+<p>Some don’t want to go through the trouble of picking components, learning how they all fit together, and trying to throw the thing together, praying it works.</p>
+
+<p>If that suits you, here is our prebuilt option to suit your $600 budget:</p>
+
+<div id="prebuilt" class="featured-info-box">
+<span>Prebuilt Option</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2YjjINc"><img class="lazyload" alt="600 dollar prebuilt gaming pc" data-src="/img/600/prebuilt.jpg" /></a>
+</div>
+<div class="text">
+<h2>SkyTech Blaze</h2>
+<h3>600 Dollar Prebuilt Gaming PC</h3>
+<p>With this prebuilt, you're getting a Ryzen 3 1200, an RX 580 4GB, 1TB of storage, and 8GB of DDR4 RAM. It's the best prebuilt gaming PC in this price range. </p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YjjINc">Check Amazon Price </a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Good CPU</li> 
+        <li>Fast RAM</li> 
+        <li>1TB storage</li>
+        <li>Cool case and LEDs</li>
+        <li>Free gaming keyboard/mouse</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Uses an HDD, not SSD</li>
+        <li>A bit pricey</li>
+        <li>Last-gen CPU</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/processor.png" /><span class="tab-btn-title-margin">CPU</span>
+        </div>
+        <div class="tab-btn-data">
+          R3-1200
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Clock</span>
+        </div>
+        <div class="tab-btn-data">
+          3.1GHz
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">RAM</span>
+        </div>
+        <div class="tab-btn-data">
+          8GB 
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png" /><span class="tab-btn-title-margin">SSD</span>
+        </div>
+        <div class="tab-btn-data">
+          1TB
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/microsoft.png" /><span class="tab-btn-title-margin">OS</span>
+        </div>
+        <div class="tab-btn-data">
+          Win 10
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">WiFi</span>
+        </div>
+        <div class="tab-btn-data">
+          802.11AC
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>This prebuilt gaming PC costs a bit more than $600, but that’s to be expected with a prebuilt computer. The company has to make a profit, so they’re going to charge a bit more than you’d pay to build it yourself.</p>
+
+<p>The SkyTech Blaze isn’t quite as powerful as our custom build either, but they’re pretty close. And considering it’s a prebuilt gaming PC, you’re still getting quite a capable machine.</p>
+
+<p>This PC can smash 1080p without breaking a sweat, as long as you’re cool with turning your settings down a bit.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2YjjINc">Read Reviews on Amazon</a>
+</div>
+
+<h2 id="600-gaming-pc-build-overview">$600 Gaming PC Build Overview</h2>
+
+<div class="vid-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mXjd4_tTcLE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<p>Let’s talk about the build as a whole and what it has to offer, before diving into the build components themselves. It’s important to understand why we made the choices we did, and how they’ll impact performance in different scenarios.</p>
+
+<h3 id="budget">Budget</h3>
+
+<p>Working on a budget of $600 for a gaming PC seems tight, but we’ve allocated funds in the right areas to maximize performance per dollar.</p>
+
+<p>Some people seem to think you have to spend <a href="/budget-pcs/1000/">$1,000</a> or more for a gaming PC, which isn’t the case. Sure, spending a grand is necessary to max out all of the latest titles in 1440p, but if you want to game in 1080p, you don’t need to spend more than $600 on a custom PC.</p>
+
+<p>Before you figure out <a href="/how-much-should-you-spend-gaming-pc/">how much you should spend on a gaming PC</a>, it’s important to first nail down exactly what your expectations are.</p>
+
+<p>Sure, you could spend <a href="/budget-pcs/400/">$400</a> and get a low power build, but you’ll be disappointed with its performance if you were expecting more.</p>
+
+<p>On a $600 budget, achieving 60FPS, 1080p gameplay is possible, but you have to make a few compromises to make it happen.</p>
+
+<h3 id="compromises">Compromises</h3>
+
+<p>When you build a $600 gaming PC, you need to allocate every possible dollar towards performance, and forget about the extra fancy stuff, at least for now.</p>
+
+<p>But don’t worry - one of the best parts about PC gaming is upgradeability. You’re not locked in with the components you first select the same way you are with a console.</p>
+
+<p>Still, you shouldn’t spend most of your money on a fancy case with crazy LEDs, or a massive SSD drive. Those things are nice, but in terms of gaming performance, they won’t move the needle.</p>
+
+<p>That’s why we spent less money on a flashy case, top-notch power supply or an ungodly amount of storage. Those things are great down the line, but aren’t necessary to get you up and running in 1080p.</p>
+
+<p>Instead, spending most of your budget on components that will have the largest impact on gaming performance - like the GPU, CPU, and RAM - is essential.</p>
+
+<p>On a budget like this, you have to go in knowing your important components are squared away, and you can upgrade later. For example, we don’t have a massive hard drive with this build, or an 80+ Gold power supply. Both would be nice, but aren’t essential.</p>
+
+<h3 id="performance">Performance</h3>
+
+<p><img class="lazyload" alt="$600 gaming pc performance" data-src="/img/600/performance.jpg" /></p>
+
+<p>All that being said, this build is a performance power house. If smooth 1080p, 60FPS is what you’re after, you’re in luck.</p>
+
+<p>But you have to get your expectations straight before building. Odds are you probably won’t be maxing out every single title in 1080p and getting 60+ FPS at all times. It’s just not realistic.</p>
+
+<p>On the flip side, if you’re okay with turning down your settings in more demanding titles and still enjoying a great PC gaming experience, you’ll be in good shape.</p>
+
+<p>Overall, this PC can max out all e-sports titles with ease, and more demanding games are playable too, as long as you turn your settings down just a tad.</p>
+
+<p>Keep reading this post to see what games it can run and their frame rates.</p>
+
+<p>One of the best things about <a href="/budget-pcs/">building a gaming PC</a> is using your PC for other things. A console is pretty much good for one thing: gaming (okay, streaming too).</p>
+
+<p>But a PC can do <em>so</em> much more. Whether you want to edit a photo, render a video, surf the web, etc. your PC can do it all.</p>
+
+<p>Thanks to this $600 PC’s quad core Ryzen processor, it can handle some light workstation tasks well. You can edit photos in photoshop and edit videos, although rendering will definitely take some time.</p>
+
+<p>The CPU isn’t ideal for streaming if you’re going to be gaming on the same computer, because encoding puts a heavy strain on the CPU. If you plan on streaming, I’d recommend building a streaming PC as well.</p>
+
+<h3 id="pc-lifespan">PC Lifespan</h3>
+
+<p><img class="lazyload" alt="gaming pc lifespan" data-src="/img/gaming-pc-lifespan/depreciation-2.png" /></p>
+
+<p>A question I’m asked all the time is “how long will my gaming PC last?” and “when will I have to upgrade?”</p>
+
+<p>Both are valid questions, but they’re a bit silly in the same regard.</p>
+
+<p>I hate to say it, but the answer is ‘it depends.’</p>
+
+<p>In a post that I spent hours researching, I found the average lifespan of a gaming PC is 2-3 years. But it could be as short as one year, and as long as five years.</p>
+
+<p>Let me explain a bit:</p>
+
+<p>If you just want to game in 1080p with good frames but don’t care too much about having ultra settings 24/7, you’ll probably just upgrade your GPU every 2-3 years, and maybe your CPU every 4-5 years.</p>
+
+<p>I have a friend who hasn’t upgraded his PC in 5 years, but it was a 1.8k rig back when he built it.</p>
+
+<p>On the other hand, if you want to play 4K games at 60FPS all of the time, you’ll have to upgrade constantly to keep up with the demand.</p>
+
+<p>In the same post, I recorded the value of the best gaming PC on the market ten years ago (within reason) and graphed its depreciation over time. I also looked at how each component depreciated over time (meaning some parts lose value faster than others).</p>
+
+<p>The data showed that the CPU, GPU, and RAM lose their value the quickest, whereas the power supply and case hold their value over time, which makes a lot of sense.</p>
+
+<p>If you want to learn more about <a href="/gaming-pc-lifespan/">how long a gaming PC lasts</a>, click the link to check it out!</p>
+
+<p>But in terms of this gaming PC, a $600 build will probably last you 2 years or so before you’ll want to upgrade the GPU or CPU. However, you may want to upgrade sooner than that, by adding more storage to the build, or upgrading from a Ryzen 3 to a Ryzen 5, for example.</p>
+
+<p>It is up to you, which is one of the beautiful things about PC gaming.</p>
+
+<h3 id="what-about-server-hosting">What about server hosting?</h3>
+
+<p>If you want to host a server on your PC, it’s possible - in fact, it’s pretty easy. We have a full tutorial that teaches you how to <a href="/game-hosts/rust/dedicated-server/">host a Rust server on your PC</a> in less than 5 minutes. Seriously, it’s pretty easy.</p>
+
+<p>But you’re usually better off paying a <a href="/game-hosts/">game hosting company</a> a small monthly fee to do it for you.</p>
+
+<p>Here’s why:</p>
+
+<p><strong>1.</strong> Servers require a lot of processing power. Gaming is already demanding enough - trying to run a server at the same time will tank the server’s performance.</p>
+
+<p><strong>2.</strong> Your server will lag when more people join, getting worse as player count increases.</p>
+
+<p><strong>3.</strong> Players can only join when your PC is on <em>and</em> the server is running. That means you have to leave your PC on 24/7 so everyone can play.</p>
+
+<p>Don’t get me wrong, hosting your own server is fine if you just want to play with a few friends. But once more than a handful of players join, you and your friends will face lag, stutters, and a lot of other problems.</p>
+
+<p>Companies like <a href="/game-hosts/host-havoc/">Host Havoc</a> and <a href="/game-hosts/pingperfect/">PingPerfect</a> are cheap and support a ton of different games.</p>
+
+<p>If you want to host a server for <a href="/game-hosts/rust/">Rust</a>, <a href="/game-hosts/space-engineers/">Space Engineers</a> <a href="/game-hosts/squad/">Squad</a>, <a href="/game-hosts/terraria/">Terraria</a>, Minecraft, <a href="/game-hosts/tekkit/">Tekkit</a>, <a href="/game-hosts/arma-3/">Arma 3</a>, <a href="/game-hosts/tf2/">TF2</a>, <a href="/game-hosts/dayz/">DayZ</a>, and more, your best bet is paying for hosting.</p>
+
+<p>They’ll take care of the setup, ensure stellar performance all the time, and they’re cheap. Hosting companies take the headache out of server hosting, so you and your friends can enjoy the game like you’re supposed to.</p>
+
+<h2 id="how-we-chose-the-pc-components">How We Chose the PC Components</h2>
+
+<p>I have years of experience building gaming PCs for myself and others (six years, to be exact).</p>
+
+<p>To pick the parts for this build, I used all of my knowledge, experience, and hours of research to determine the best possible configuration of components.</p>
+
+<p>You should make sure you get the best bang for your PC gaming buck - that’s my mission, and that’s what this build will do for you.</p>
+
+<p>I always look at value for the money to ensure you’re getting the best deal with your gaming PC, and this $600 build is no different.</p>
+
+<p>Lastly, I check the build’s benchmarks compared to other configurations to make sure it’s spot on. You can scroll down to find the performance numbers at the bottom of the page.</p>
+
+<div id="cpu" class="featured-info-box">
+<span>PROCESSOR</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2Rw3NYE"><img class="lazyload" alt="Ryzen 3 2200G Processor (CPU)" data-src="/img/cpu/ryzen3-2200g.jpg" /></a>
+</div>
+<div class="text">
+<h2>Ryzen 3 2200G</h2>
+<h3>Quad-Core Processor</h3>
+<p>Offering four physical cores and impressive out-of-the-box performance, the Ryzen 3 2200G is the perfect processor for a budget gaming PC.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Rw3NYE">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Supports overclocking</li> 
+        <li>Up to 64GB RAM</li> 
+        <li>Budget friendly</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not the most future proof motherboard</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Clock</span>
+        </div>
+        <div class="tab-btn-data">
+          3.5GHz
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
+        </div>
+        <div class="tab-btn-data">
+          3.7GHz
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/cores.png" /><span class="tab-btn-title-margin">Cores</span>
+        </div>
+        <div class="tab-btn-data">
+          4
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/bulb.png" /><span class="tab-btn-title-margin">TDP</span>
+        </div>
+        <div class="tab-btn-data">
+          65W
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/architecture.png" /><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          Zen
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Cooler</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>With a base clock of 3.5 GHz, this <a href="/cpu/">CPU</a> boosts up to 3.7 GHz under heavy load. You won’t have to worry about buying an aftermarket CPU cooler for the 2200G as AMD’s Stealth Coolers are pretty darn good.</p>
+
+<p>In fact, you can even do some light overclocking with the stock cooler – however, if you’re more serious about overclocking and you want to harness this CPU’s maximum performance, you’ll need to invest in an aftermarket cooler.</p>
+
+<p>As far as budget chips go, this one is a winner – it beats out any of Intel’s similarly priced offerings, and punches above its weight class in terms of performance.</p>
+
+<p>Sure, it’s not the best processor on the market, but it’s not meant to be. This CPU is designed for budget gaming PC builds, and that’s EXACTLY what it does best.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2Rw3NYE">Read Reviews on Amazon</a>
+</div>
+
+<div id="mobo" class="featured-info-box">
+<span>MOTHERBOARD</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2mXJQNi"><img class="lazyload" alt="ASRock B450M-HDV motherboard" data-src="/img/mobo/asrock-b450m-hdv.jpg" /></a>
+</div>
+<div class="text">
+<h2>MSI B450M PRO-VDH</h2>
+<h3>Micro-ATX Motherboard</h3>
+<p>When it comes to bang for your PC gaming buck motherboards, it doesn't get much better than this. Durable, reliable, affordable, and overclockable, this motherboard can do it all for a modest price.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2mXJQNi">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Supports overclocking</li> 
+        <li>Up to 64GB RAM</li> 
+        <li>Budget friendly</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not the most future proof motherboard</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/motherboard.png" /><span class="tab-btn-title-margin">Form</span>
+        </div>
+        <div class="tab-btn-data">
+          mATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/chipset.png" /><span class="tab-btn-title-margin">Chipset</span>
+        </div>
+        <div class="tab-btn-data">
+          B450
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Slots</span>
+        </div>
+        <div class="tab-btn-data">
+          4
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">SATA</span>
+        </div>
+        <div class="tab-btn-data">
+          4
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/nvme.png" /><span class="tab-btn-title-margin">M.2</span>
+        </div>
+        <div class="tab-btn-data">
+          1
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Overclock</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>The MSI B450M PRO-VDH has an AM4 socket (obviously) and four RAM slots that can support up to 64GB of DDR4-3466 memory.</p>
+
+<p>It has a single PCI-E x16 slot for a graphics card, and two PCI-E x1 slots as well.</p>
+
+<p>Rocking four SATA 6 Gb/s ports and an M.2 slot, storage support isn’t an issue here either.</p>
+
+<p>Of course, this motherboard has onboard USB 3.0 headers and RAID support as well.</p>
+
+<p>Best of all, this motherboard has a B450 chipset – it’s the second generation of the B350, chipset designed specifically for the second generation Ryzen processors.</p>
+
+<p>What does this mean for you?</p>
+
+<p>This motherboard supports overclocking without breaking the bank.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2mXJQNi">Read Reviews on Amazon</a>
+</div>
+
+<div id="ram" class="featured-info-box">
+<span>RAM</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2nMW37F"><img class="lazyload" alt="Corsair Vengeance LPX 8GB Ram" data-src="/img/ram/corsair-1x4gb.png" /></a>
+</div>
+<div class="text">
+<h2>Corsair Vengeance LPX 16GB DDR4-3000</h2>
+<h3>Dual-Channel Memory</h3>
+<p>Luckily RAM prices have dropped significantly and it's now more affordable than ever to sport 16GB of RAM in your gaming PC build.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2nMW37F">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Dual-channel memory</li> 
+        <li>High speed</li> 
+        <li>16GB</li>
+        <li>Affordable</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>None</li>
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/database.png" /><span class="tab-btn-title-margin">Amount</span>
+        </div>
+        <div class="tab-btn-data">
+          16GB
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Modules</span>
+        </div>
+        <div class="tab-btn-data">
+          2x8GB
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Speed</span>
+        </div>
+        <div class="tab-btn-data">
+          3000MHz
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/chip.png" /><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          DDR4
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/cas.png" /><span class="tab-btn-title-margin">CAS</span>
+        </div>
+        <div class="tab-btn-data">
+          15
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/voltage.png" /><span class="tab-btn-title-margin">Voltage</span>
+        </div>
+        <div class="tab-btn-data">
+          1.35V
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>A few years ago, I would’ve said 8GB was enough for gaming – and in 2020, that’s probably still the case.</p>
+
+<p>However, newer titles are starting to recommend 12GB and even 16GB for optimal performance.</p>
+
+<p>Looking at how quickly games are progressing, getting 16GB of RAM is a good idea to future-proof your PC.</p>
+
+<p>In addition, Ryzen CPUs utilize RAM more than other models, so having plenty of high speed RAM is going to boost your processor’s performance as well.</p>
+
+<p>Besides, you can pick up 16GB of DDR4-3000MHz RAM for less than $75 these days.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2nMW37F">Read Reviews on Amazon</a>
+</div>
+
+<div id="ssd" class="featured-info-box">
+<span>SSD</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2mWqjNa"><img class="lazyload" alt="Kingston A400 Solid State Drive" data-src="/img/600/kingston-a400.jpeg" /></a>
+</div>
+<div class="text">
+<h2>Kingston A400 480GB SSD</h2>
+<h3>High-Speed Storage</h3>
+<p>Lightning fast storage is the name of the game these days – that's why this build is rocking a solid state drive, not a mechanical hard drive.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2mWqjNa">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Crazy fast boot speeds</li> 
+        <li>Maps load quickly</li> 
+        <li>No moving parts</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Only 480GB of storage</li>
+        <li>More expensive than a mechanical drive</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/hard-drive.png" /><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          SSD
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/gigabyte.png" /><span class="tab-btn-title-margin">Capacity</span>
+        </div>
+        <div class="tab-btn-data">
+          480GB
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/expensive.png" /><span class="tab-btn-title-margin">Price/GB</span>
+        </div>
+        <div class="tab-btn-data">
+          $0.11
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ruler.png" /><span class="tab-btn-title-margin">Size</span>
+        </div>
+        <div class="tab-btn-data">
+          2.5"
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">Interface</span>
+        </div>
+        <div class="tab-btn-data">
+          SATA
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/nvme.png" /><span class="tab-btn-title-margin">NVME</span>
+        </div>
+        <div class="tab-btn-data">
+          No
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>Trust me, the difference between a mechanical hard drive and a solid state drive is night and day.</p>
+
+<p>Although an SSD won’t improve your FPS, it <em>will</em> significantly improve loading speeds, both in terms of boot speeds and loading screens.</p>
+
+<p>Unfortunately, this SSD is only 480GB (SSDs are more expensive) so you won’t be able to fit a TON of stuff on this drive.</p>
+
+<p>Just download your OS, drivers, and your favorite games/applications. We HIGHLY recommend adding a 1TB or 2TB mass storage mechanical drive to the build for good measure.</p>
+
+<p>They’re only $40 these days and you can use them to store games, music, movies, applications, etc.</p>
+
+<p>But if you can only pick one, the SSD is the way to go for performance.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2mWqjNa">Read Reviews on Amazon</a>
+</div>
+
+<div id="gpu" class="featured-info-box">
+<span>GRAPHICS CARD</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/35hV15d"><img class="lazyload" alt="RX 580 8GB GPU for $600 gaming PC" data-src="/img/600/gpu.jpg" /></a>
+</div>
+<div class="text">
+<h2>RX 580</h2>
+<h3>Dual-Fan Graphics Card</h3>
+<p>The king of budget 1080p gaming performance, this GPU is perfect for most mid-range gaming PC builds thanks to its <a href="/gpu-memory-clock-speed/">good clock speed</a>.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/35hV15d">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>8GB of memory</li> 
+        <li>Crushes 1080p</li> 
+        <li>Can handle high-ultra settings</li>
+        <li>Affordable</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Can get a bit noisy</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/clock.png" /><span class="tab-btn-title-margin">Core</span>
+        </div>
+        <div class="tab-btn-data">
+          1366MHz
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Boost</span>
+        </div>
+        <div class="tab-btn-data">
+          1386MHz
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ruler.png" /><span class="tab-btn-title-margin">Length</span>
+        </div>
+        <div class="tab-btn-data">
+          270mm
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/fan.png" /><span class="tab-btn-title-margin">Fans</span>
+        </div>
+        <div class="tab-btn-data">
+          2
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/ram-memory.png" /><span class="tab-btn-title-margin">Memory</span>
+        </div>
+        <div class="tab-btn-data">
+          8GB
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/wire.png" /><span class="tab-btn-title-margin">Ports</span>
+        </div>
+        <div class="tab-btn-data">
+          5
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>The RX 580 is one of the best graphics cards for a $600 gaming PC build, especially considering the recent price hike we’ve seen with Nvidia graphics cards. For example, the GTX 1060 6GB variant is going for several hundred dollars more than what it did just a few months ago. However, the RX 580 hasn’t increased in price.</p>
+
+<p>For less than $200, you’re getting a graphics card with 8GB of dedicated VRAM and a capable cooler for overclocking, not to mention amazin 1080p gaming performance.</p>
+
+<p>The RX 580 paired with the Ryzen 3 2200G is a fantastic combo. The CPU/GPU combo maximizes performance per dollar, giving you the best bang for your PC gaming buck, without bottlenecking.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/35hV15d">Read Reviews on Amazon</a>
+</div>
+
+<div id="case" class="featured-info-box">
+<span>CASE</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2paXKfx"><img class="lazyload" alt="Cooler Master Masterbox Q300L Micro ATX Case" data-src="/img/600/cooler-master-masterbox-q300l.jpg" /></a>
+</div>
+<div class="text">
+<h2>Cooler Master Masterbox Q300L</h2>
+<h3>Micro-ATX Case</h3>
+<p>If I could sum up this case with (two) words, they'd be style and performance.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2paXKfx">Check Current Price</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Awesome design</li> 
+        <li>Acrylic side panel window</li> 
+        <li>Great airflow</li> 
+        <li>Affordable price</li>
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Poor airflow</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/desktop.png" /><span class="tab-btn-title-margin">Type</span>
+        </div>
+        <div class="tab-btn-data">
+          mATX
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/breeze.png" /><span class="tab-btn-title-margin">Airflow</span>
+        </div>
+        <div class="tab-btn-data">
+          Poor
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sketch.png" /><span class="tab-btn-title-margin">Design</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/window.png" /><span class="tab-btn-title-margin">Window</span>
+        </div>
+        <div class="tab-btn-data">
+          Yes
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/package.png" /><span class="tab-btn-title-margin">Spacious</span>
+        </div>
+        <div class="tab-btn-data">
+          Great
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png" /><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>This case looks great, and performs even better. Despite being a small micro ATX case, the Masterbox Q300L has a spacious interior.</p>
+
+<p>You won’t have any issue building in this chasis. There are plenty of cable management options, and the case ships with an awesome cooling fan that has LEDs built in.</p>
+
+<p>Airflow inside this case is pretty good, but don’t let your messy cables ruin it. You can learn more about <a href="/cable-management/">cable management and airflow</a> by checking out our guide.</p>
+
+<p>It has a cool design on the front, and a big acrylic side panel window as well.</p>
+
+<p>If you want to learn more about this and other cases like it, check out our guide on the <a href="/pc-cases/smallest-micro-atx-cases/">smallest micro ATX cases</a>.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2paXKfx">Read Reviews on Amazon</a>
+</div>
+
+<div id="psu" class="featured-info-box">
+<span>POWER SUPPLY</span>
+<div class="content">
+<div class="img">
+<a target="_blank" href="https://amzn.to/2nNTwdr"><img class="lazyload" alt="Raidmax Scorpio 535 Watt" data-src="/img/600/raidmax-scorpio.jpg" /></a>
+</div>
+<div class="text">
+<h2>Raidmax Scorpio 535W 80+ Bronze</h2>
+<h3>Semi-modular Power Supply</h3>
+<p>This PSU isn't mainstream, but that doesn't mean it isn't awesome. Rocking more than 500 watts of power, this power supply is nothing but reliable.</p>
+<div class="btn btn-centered">
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2nNTwdr">Check Price on Amazon</a>
+</div>
+</div>
+</div>
+</div>
+<section class="section-pros-cons">
+  <div class="pros-cons-container">
+    <div class="pros-container"> 
+      <div class="pro-con-title">Pros</div> 
+      <ul class="info-list"> 
+        <li>Incredibly durable</li> 
+        <li>Good bang for your buck</li> 
+      </ul> 
+    </div>
+    <div class="cons-container"> 
+      <div class="pro-con-title">Cons</div> 
+      <ul class="info-list"> 
+        <li>Not the most efficient PSU on the market</li> 
+      </ul> 
+    </div>
+  </div>
+  <div class="tabs-container">
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/flash.png" /><span class="tab-btn-title-margin">Wattage</span>
+        </div>
+        <div class="tab-btn-data">
+          535
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/positive-vote.png" /><span class="tab-btn-title-margin">Rating</span>
+        </div>
+        <div class="tab-btn-data">
+          Bronze
+        </div>
+      </div>
+      <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/wire.png" /><span class="tab-btn-title-margin">Modular</span>
+        </div>
+        <div class="tab-btn-data">
+          Semi
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/color-palette.png" /><span class="tab-btn-title-margin">Color</span>
+        </div>
+        <div class="tab-btn-data">
+          Blue
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/sata.png" /><span class="tab-btn-title-margin">SATA</span>
+        </div>
+        <div class="tab-btn-data">
+          5
+        </div>
+      </div>
+    <div class="tab-btn">
+        <div class="tab-btn-title">
+          <img class="lazyload tab-img" data-src="/img/icons/speaker.png" /><span class="tab-btn-title-margin">Noise</span>
+        </div>
+        <div class="tab-btn-data">
+          Quiet
+        </div>
+      </div>
+  </div>    
+</section>
+
+<p>Yeah, this power supply has 535 watts of power, it’s Semi-modular, and it has an 80+ Bronze certification. Great. For more info on <a href="/power-supply-ratings/">power supply ratings</a>, click that link to check out our guide!</p>
+
+<p>But it gets better.</p>
+
+<p>I’ve had this power supply for three years. Now I use it for test rigs, but it used to be my main PSU.</p>
+
+<p>And let me tell you:</p>
+
+<p>That thing was dropped, banged, and bruised countless times (because I’m clumsy) but it kept chugging along.</p>
+
+<p>What’s the bottom line here?</p>
+
+<p>This power supply is reliable, durable, power efficient, and easy to work with.</p>
+
+<p>Best of all, it’s pretty darn cheap too, making it a perfect fit for our 600 dollar budget.</p>
+
+<div class="btn-center">
+  <a target="_blank" class="big-button-center" href="https://amzn.to/2nNTwdr">Read Reviews on Amazon</a>
+</div>
+
+<h2 id="what-games-can-this-pc-run">What games can this PC run?</h2>
+
+<p>Here are the benchmarks for this $600 system:</p>
+
+<ul>
+  <li><strong>Gears 5:</strong> 1080p High 60 FPS average</li>
+  <li><strong>GTA V:</strong> 1080p High 60 FPS average</li>
+  <li><strong>Red Dead Redemption 2:</strong> 1080p Medium 55 FPS average</li>
+  <li><strong>Apex Legends:</strong> 1080p High 60 FPS average</li>
+  <li><strong>BF V:</strong> 1080p Ultra 60 FPS average</li>
+  <li><strong>CS:GO:</strong> 1080p Low 190 FPS average</li>
+  <li><strong>Fortnite:</strong> 1080p Medium 60 FPS average</li>
+  <li><strong>Witcher 3 Wild Hunt:</strong> 1080p Ultra 50 FPS average</li>
+</ul>
+
+<h2 id="building-a-gaming-pc-for-beginners">Building a Gaming PC for Beginners</h2>
+
+<p>A lot of beginners want to <a href="/budget-pcs/">build a gaming PC</a>, but they don’t really know where to start.</p>
+
+<p>Let’s talk a little bit about choosing the components for your PC build.</p>
+
+<h3 id="choosing-your-processor-and-graphics-card">Choosing Your Processor and Graphics Card</h3>
+
+<p>A lot of first-time builders make the mistake of wasting too much money on a fast CPU and a ton of RAM, but they don’t spend enough on the graphics card.</p>
+
+<p>That’s a fatal mistake. Here’s why:</p>
+
+<p>The <a href="https://en.wikipedia.org/wiki/Graphics_processing_unit" target="\_blank">GPU</a> (Graphics Processing Unit) is responsible for 3D rendering, which is the primary gaming related task.</p>
+
+<p><img class="lazyload img-middle" alt="Ryzen processor cover image" data-src="/img/600/ryzen-cover.jpg" /></p>
+
+<p>If you’re building a gaming PC for $600, you’re going to want to spend as much as you can on your GPU.</p>
+
+<p>Still, that doesn’t mean you should spend too much on it.</p>
+
+<p>I know that sounds contradictory, so let me explain:</p>
+
+<p>Some people – rather than overspending on the processor – overspend on the GPU, and they buy a processor that’s too old and slow.</p>
+
+<p>This will lead to something known as a CPU bottleneck, which will kill the performance potential of your gaming PC and result in a pretty bad experience overall, especially if the games you’re playing require a decent amount of processing power.</p>
+
+<p>The CPU isn’t the primary component in a gaming PC, but it still has to process a lot of information… that’s a given.</p>
+
+<p>If your GPU is too fast, your processor won’t be able to keep up.</p>
+
+<p>Imagine trying to pair an Intel Pentium CPU with a GTX 1080 Ti.</p>
+
+<p>Obviously, the 1080 Ti has way more processing power than the Pentium.</p>
+
+<p>In this scenario, the Pentium CPU would be at 100% usage, causing frame drops, stutters, and ultimately limiting the power of the graphics card.</p>
+
+<p>On the other hand, what if you bought an Intel i7 8700K (a top of the line CPU) and paired it with a GTX 750 Ti (an old, slow GPU)?</p>
+
+<p>You’d have another bottleneck on your hands, but this time the graphics card would be too slow to keep up with the graphics card.</p>
+
+<div class="tip">
+	<h4 class="info-box-header">Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+<p>Here’s the key to building a 600 dollar gaming PC on a budget:</p>
+
+<p>Choose the best graphics card you can, and then buy a CPU that is good enough to keep up. </p>
+
+<p>It’s all about buying a CPU/GPU combo that compliments one another. </p>
+
+</div>
+
+<p>Luckily, we were able to select a powerful graphics card and a powerful processor, so we’re all set.</p>
+
+<h3 id="choosing-a-motherboard">Choosing a Motherboard</h3>
+
+<p>When you’re building a $600 gaming PC, you don’t need to go all out on your motherboard.</p>
+
+<p>Some expensive motherboards come with a bunch of bells and whistles, such as M.2 slots, a ton of SATA connectors, fancy LEDs, and more.</p>
+
+<p>All of those features are nice, especially if you’ve got a lot of money to spend – but not on a $600 budget.</p>
+
+<p>When you’re choosing a gaming motherboard for a budget PC, you should stick to the basics.</p>
+
+<p><strong>Here are the things to focus on:</strong></p>
+
+<ul>
+  <li>Socket type</li>
+  <li>Chipset</li>
+  <li>RAM support</li>
+  <li>Storage options</li>
+  <li>Form factor</li>
+  <li>BIOS</li>
+  <li>Fan Headers</li>
+  <li>Crossfire/SLI support</li>
+</ul>
+
+<p>Let’s go over each of those points in a bit more detail:</p>
+
+<p>Socket type and form factor are pretty straightforward.</p>
+
+<p>First of all, you should know the size (form factor) of your motherboard so you can make sure it’s compatible with your case. In addition, larger motherboards tend to have more features.</p>
+
+<p><img class="lazyload img-middle" alt="Gigabyte motherboard cover image" data-src="/img/mobo/mobo-diagram.jpg" /></p>
+
+<p>You should also definitely know your motherboard’s socket type, as this will determine which CPUs your motherboard is compatible with.</p>
+
+<p>In the unfortunate event you buy a motherboard with the wrong socket type, you’re going to be out of luck.</p>
+
+<p>It’s important to make sure you have the right chipset. Low-end chipsets don’t support overclocking.</p>
+
+<p>Since we’re using a Ryzen CPU in this build, you should buy a motherboard that supports overclocking, as Ryzen CPUs benefit tremendously from overclocking.</p>
+
+<p><a href="https://linustechtips.com/main/topic/955775-difference-between-b350-and-b450/" target="\_blank">B350/B450 chipsets</a> are, in general, the low-end chipsets that still support overclocking.</p>
+
+<p>With all of that being said, choose a motherboard that:</p>
+
+<ul>
+  <li>Is Cost-effective</li>
+  <li>Has Crossfire/SLI support if you want it (not feasible on a $600 budget)</li>
+  <li>Has enough SATA ports</li>
+  <li>Has USB 3.0</li>
+  <li>Is compatible with your CPU</li>
+  <li>Supports overclocking</li>
+  <li>Has enough fan headers for your build</li>
+  <li>Sufficient RAM slots with adequate speed support</li>
+</ul>
+
+<p>You should also check the motherboard’s BIOS reviews – some are easier to use than others, and you don’t want to be stuck with a complicated BIOS as a beginner.</p>
+
+<h3 id="choosing-ram">Choosing RAM</h3>
+
+<p>A lot of inexperienced PC builders make the mistake of going overboard when it comes to RAM.</p>
+
+<p>In reality, you don’t need all that much, at least when it comes to gaming. 16GB of fast RAM is recommended for optimal performance, although it’s far from necessary.</p>
+
+<p>Ryzen performance benefits significantly from having plenty of high speed RAM to work with. Still, if you’d rather allocate the money elsewhere – say, for extra storage – 8GB of RAM will still do in 2020.</p>
+
+<p><img class="lazyload img-left" alt="RAM left side image" data-src="/img/600/vengeance-left.jpg" /></p>
+
+<p>Besides, you can always upgrade in the future.</p>
+
+<p>Conversely, if you’re the kind of person who likes to multitask a lot, you’re going to want the extra RAM.</p>
+
+<p>Google Chrome – the most popular browser on the web – uses a lot of RAM, and it’s hard to game with satisfactory frame rates while you have a few Chrome tabs open.</p>
+
+<p>RAM is also great for other workstation tasks such as streaming, recording, editing, and rendering.</p>
+
+<p><strong>What’s the bottom line here?</strong></p>
+
+<p>You can run 16GB of RAM in your build for optimal performance at a higher cost, or you can save some money and get by with 8GB.</p>
+
+<p>Think of the extra 8GB as a power up.</p>
+
+<h3 id="do-you-need-a-fancy-case">Do You Need a Fancy Case?</h3>
+
+<p>The short answer is no, but of course, there’s a bit more to it than that.</p>
+
+<p>Nowadays, you can usually find a half-decent looking case for cheap.</p>
+
+<p>In fact, if you know where to look, you can even find good looking cases for a good price.</p>
+
+<p>Finding a case that functions as well as it looks, well, that’s another story.</p>
+
+<p><img class="lazyload img-middle" alt="gaming pc case center image" data-src="/img/600/focus-g-center.jpg" /></p>
+
+<p>Some people will buy the first good looking case they find with LEDs – big mistake.</p>
+
+<p>Sure, looks are important. But your case also needs to do its job, which is even more important.</p>
+
+<p>Some cases are hard to work in; others don’t have much room for case fans.</p>
+
+<p>Further still, some cases are just plain old cheap, made with flimsy, plastic designs and low quality parts.</p>
+
+<p>A proper case needs to be sturdy and robust, with plenty of room to work with inside.</p>
+
+<p>Make sure it has ample room for fans, CPU coolers, graphics cards, drives, etc.</p>
+
+<p>In terms of features, some cases have more than others.</p>
+
+<p>With this sort of thing, you just have to shop around a bit to see what’s out there, and make your decision from there.</p>
+
+<p>Cable management is another thing to consider. You’re going to have a harder time wiring your PC in a <a href="/budget-pcs/smallest-atx-cases/">small ATX case</a> than a larger case.</p>
+
+<p>A cabled mess isn’t what you want. In fact, it is not only ugly but detrimental to your case’s airflow as well.</p>
+
+<p>Speaking of which, let’s talk a bit about airflow and cable management.</p>
+
+<h3 id="cable-management-in-a-600-gaming-pc">Cable Management in a $600 Gaming PC</h3>
+
+<p>Proper cable management is a must, regardless of your experience in the world of PC building.</p>
+
+<p>Whether you’re building in a small micro ATX case or a full tower case, you’re going to want to wire up your rig properly.</p>
+
+<figure>
+<img class="lazyload img-middle" alt="cable management positive example image" data-src="/img/600/clean-cabling-example.png" />
+<figcaption><p>This is an example of great <a target="_blank" href="https://www.pcworld.com/article/2144766/the-beginners-guide-to-proper-pc-cable-management.html">cable management!</a></p></figcaption>
+</figure>
+
+<p>Bad cable management looks, well, terrible. It’s especially harmful to the overall look of your gaming PC if you have a side panel window.</p>
+
+<p>Who wants to peer inside a nice case, only to see a jumbled mess of cables all tangled up?</p>
+
+<p>Even more importantly, poor cable management is going to harm your case’s airflow. In fact, I wrote an entire guide about <a href="/pc-cases/does-cable-management-matter/">how cable management affects airflow</a> in your case.</p>
+
+<p>A <a href="/pc-cases/cable-management/">good cable management case</a> should distribute a healthy amount of cool air to the components inside, while simultaneously expelling the warm air created by the parts.</p>
+
+<p>In order to accomplish this, a stream of air needs to be created with the help of intake and exhaust fans. Cables in the way equates to a blocked airway.</p>
+
+<p><img class="lazyload img-right img-small" alt="cabling example right" data-src="/img/600/cable-management-example.jpg" /></p>
+
+<p>If you want to get the most performance out of your gaming PC, you should definitely be overclocking. After all, this build was designed with overclocking in mind.</p>
+
+<p>That also means your parts are going to generate extra heat, which needs to be handled properly.</p>
+
+<p>Components that get too hot won’t live for long, at least in comparison to their well-ventilated counterparts.</p>
+
+<p>Luckily, there are plenty of <a href="https://www.pcworld.com/article/2144766/the-beginners-guide-to-proper-pc-cable-management.html" target="\_blank">cable management guides</a> online. Follow them, and you’ll be good to go!</p>
+
+<h2 id="build-add-ons">Build Add-Ons</h2>
+
+<p>The build guide above covers the bare minimum – you’re still going to need to buy some extra peripherals including a mouse, keyboard, monitor, wifi card, etc.</p>
+
+<p>The next portion of this guide is going to highlight some of the additional things you may want to include in your new PC gaming setup.</p>
+
+<h3 id="a-gaming-keyboard">A Gaming Keyboard</h3>
+
+<p>If you’re thinking about getting into PC gaming, you’re probably wondering what it’s like to game with a keyboard and mouse, especially if you’re coming over from console.</p>
+
+<p>In my experience, using a keyboard and mouse is <em>far superior</em> to a controller.</p>
+
+<p>A mouse can detect precise movements, whereas a joystick on a more traditional controller is clunky.</p>
+
+<p>Your wrist is far more precise than your thumbs, which means a mouse is more accurate. That’s why PC gamers can’t use aim assist.</p>
+
+<figure>
+<a target="_blank" href="https://amzn.to/2J8XxBR"><img class="lazyload img-middle" alt="Razer Gaming Keyboard" data-src="/img/keyboards/razer-chroma-v2.jpg" /></a>
+<figcaption>The Razer BlackWidow Chroma V2 Gaming Keyboard</figcaption>
+</figure>
+
+<p>Don’t get me wrong, it will take you a while to learn the keyboard and mouse – but once you figure things out, you’ll wonder how you ever played games with a console controller!</p>
+
+<p>Anyway, trying to game with an old keyboard, or one that wasn’t designed for gaming, can be a bit tricky to say the least.</p>
+
+<p><strong>You’ll want to invest in a gaming keyboard for a few reasons:</strong></p>
+
+<ul>
+  <li>Gaming keyboards are designed to deliver the best gaming performance</li>
+  <li>You want a keyboard that is comfortable for you, even after an all night gaming session</li>
+  <li>Gaming keyboards often come equipped with cool LED lights that add some personality to your setup</li>
+</ul>
+
+<p>Knowing <a href="https://www.tomsguide.com/us/buy-gaming-keyboard-guide,review-3368.html" target="\_blank">how to buy a great gaming keyboard</a> is important.</p>
+
+<p>Some keyboards have membrane switches, which means the keys feel a bit mushy.</p>
+
+<p>Most gamers, myself included, prefer a ‘crisper’ response when we press a key. That’s why I’d recommend going for a mechanical keyboard.</p>
+
+<p><strong>Here are some popular gaming keyboards to consider:</strong></p>
+
+<ul>
+  <li><a href="https://amzn.to/2J8FUlO" target="\_blank">Logitech G513</a> – $150</li>
+  <li><a href="https://amzn.to/2J8XxBR" target="\_blank">Razer BlackWidow Chroma V2</a> – $130</li>
+  <li><a href="https://amzn.to/2LAeofc" target="\_blank">Razer Cynosa Chroma</a> – $60</li>
+  <li><a href="https://amzn.to/2kr4Y9y" target="\_blank">HyperX Alloy Elite</a> – $110</li>
+</ul>
+
+<p>Making the switch to the keyboard and mouse from a console controller can be tough, and requires a lot of practice. In fact, PC gaming in general requires a lot of focus. If you want to improve as fast as possible, I recommend taking a nootropic supplement.</p>
+
+<p>They’re like sports supplements, but for your brain. <a href="https://www.nchip.org/nootropics/best/" target="\_blank">Here</a> is a list of my favorite supplements. I take them before starting a competitive match to give me the extra focus I need to succeed. But of course, do your own research before you try out a supplement of any kind. After all, I’m just some dude on the internet!</p>
+
+<h3 id="a-gaming-mouse">A Gaming Mouse</h3>
+
+<p><img class="lazyload img-right img-small" alt="gaming mouse" data-src="/img/600/gaming-mouse.jpg" /></p>
+
+<p>As mentioned previously, a <a href="https://www.avadirect.com/blog/what-makes-a-good-gaming-mouse/" target="\_blank">proper gaming mouse</a> gives you the competitive edge you need to smash the competition.</p>
+
+<p>No matter what kind of gamer you are or what games you enjoy playing, buying the right mouse is imperative.</p>
+
+<p>There are different kinds of grips, and different mice are better for each type.</p>
+
+<p>Your mouse has to feel comfortable in your hand. If you’re competitive, you’ll want a highly precise mouse.</p>
+
+<p>Lastly, most gaming mice come equipped with programmable buttons known as macros which you can use easily configure to suit your needs.</p>
+
+<p><strong>Here are some popular gaming mice to consider:</strong></p>
+
+<ul>
+  <li><a href="https://amzn.to/2Lxizsg" target="\_blank">Razer DeathAdder Elite</a> – $53</li>
+  <li><a href="https://amzn.to/2IQXSWC" target="\_blank">Logitech G502 Proteus Spectrum</a> – $50</li>
+  <li><a href="https://amzn.to/2GSoNzr" target="\_blank">Logitech G703</a> – $100</li>
+</ul>
+
+<h3 id="a-great-gaming-headset">A Great Gaming Headset</h3>
+
+<p>The quality of your gaming headset is equally important as the quality of your keyboard and mouse. Sound helps to immersify you in the game you’re playing.</p>
+
+<p>If it’s a competitive title like CS:GO, Fortnite or PUBG, you definitely want to be able to hear your opponents. Sound gives you far more information than you may think!</p>
+
+<p><strong>With that being said, here are some popular gaming headsets to consider:</strong></p>
+
+<ul>
+  <li><a href="https://amzn.to/2JciUCE" target="\_blank">Razer KrakenPro V2</a> – $70</li>
+  <li><a href="https://amzn.to/2xgn9bm" target="\_blank"> HyperX Cloud Revolver S</a> – $150</li>
+</ul>
+
+<h3 id="an-optical-drive">An Optical Drive</h3>
+
+<p>Although an optical drive isn’t necessary, you may want to include one in your build.</p>
+
+<p>Luckily, you can buy a standard DVD/CD writer for less than $20. However, if you want to watch Blue Ray movies, you will probably end up paying a bit more.</p>
+
+<p>Keep in mind that you <strong>DO NOT</strong> need an optical drive to install Windows 10. In fact, now Windows is usually installed via a USB flash drive.</p>
+
+<p>In my opinion, an optical drive is totally optional. If you do choose to go that route and buy one, I’d recommend a $20 standard DVD/CD writer.</p>
+
+<p>I have one in my PC, but I rarely use it – actually, the only time I ever have used my optical drive was to install the default motherboard drivers, but that can easily be done online as well.</p>
+
+<p><strong>Either way, here are some optical drives to consider:</strong></p>
+
+<ul>
+  <li><a href="https://amzn.to/2Lv1NtQ">ASUS 24x DVD-RW Serial-ATA OEM Optical Drive</a> – $20</li>
+  <li><a href="https://amzn.to/2J7rgvg">ASUS Blue Ray Drive</a> – $70</li>
+</ul>
+
+<h3 id="a-fast-wifi-card">A Fast WiFi Card</h3>
+
+<p><img class="lazyload img-right img-small" alt="wifi card example" data-src="/img/600/wifi-card-example.jpg" /></p>
+
+<p>Regardless of the games you enjoy playing, a proper internet connection is mandatory.</p>
+
+<p>Even if you don’t play multiplayer games, you still want a good internet connection to download games, stream music, watch videos, etc.</p>
+
+<p>A wired connection with an <a href="/gaming-ethernet-cable/">ethernet cable</a> is optimal to provide the best connection.</p>
+
+<p>Unfortunately, not everyone can set up their PC next to their router.</p>
+
+<p>If you can’t there are still plenty of options open to you.</p>
+
+<p><strong>First option:</strong> You could always buy a long ethernet cable and wire it through your house. However, this option is costly and time consuming. Unless you want to drill holes in your walls/floor, I’d recommend avoiding this option.</p>
+
+<p><strong>Second option:</strong> Using a power line adapter is probably your best bet if you want a great wired connection. Rather than running an ethernet cable across your house in the walls, you can make use of your house’s existing infrastructure.</p>
+
+<p>Powerline adapters use your house’s electrical wiring to run the internet connection from your router to anywhere else in your house. Click <a href="https://www.techradar.com/news/networking/powerline-networking-what-you-need-to-know-930691" target="\_blank">here</a> to learn more about powerline adapters and how you can use one!</p>
+
+<p><strong>Third option:</strong> Rather than choosing a wired connection, you can always use a USB WiFi adapter. They’re not as fast as a wired connection, but they’re pretty darn close, not to mention cheap and easy!</p>
+
+<p><strong>Here are some popular WiFi adapters to consider:</strong></p>
+
+<ul>
+  <li><a href="https://amzn.to/2GS4pi5">OURLINK 600Mbps mini 802.11ac Dual Band 2.4G/5G Wireless Network Adapter</a> – $16</li>
+  <li><a href="https://amzn.to/2KXICb6">TP-Link AC600 Wireless High Gain Dual Band USB Adapter (Archer T2UH)</a> – $20</li>
+</ul>
+
+<h2 id="other-gaming-pc-builds">Other Gaming PC Builds</h2>
+
+<p>Check out our other budget gaming PC builds:</p>
+
+<ul>
+  <li><a href="/budget-pcs/400/">$400 Gaming PC Build</a></li>
+  <li><a href="/budget-pcs/500/">$500 Gaming PC Build</a></li>
+  <li><a href="/budget-pcs/700/">$700 Gaming PC Build</a></li>
+  <li><a href="/budget-pcs/800/">$800 Gaming PC Build</a></li>
+  <li><a href="/budget-pcs/900/">$900 Gaming PC Build</a></li>
+  <li><a href="/budget-pcs/1000/">$1000 Gaming PC Build</a></li>
+</ul>
+
+<h2 id="should-you-buy-an-ssd">Should You Buy an SSD?</h2>
+
+<p>In short, yes, yes you should.</p>
+
+<p>Solid State Drives (SSDs) significantly improve your PC’s overall performance.</p>
+
+<p>Although more expensive than traditional storage solutions, they’re well worth the money.</p>
+
+<p>You can pick up a 240GB SSD for around $60. That’s a perfect amount of storage for your Windows OS, drivers, and some games.</p>
+
+<p><img class="lazyload img-left" alt="ssd vs hdd" data-src="/img/600/ssd-vs-hdd.jpg" /></p>
+
+<p>Seriously, spend the extra money. If you’ve ever felt like you have to let your computer ‘warm up’ for a while after you turn it on, it’s probably because your Windows is loaded on a mechanical hard drive.</p>
+
+<p>Mechanical drives are cheap and great for mass storage, but that’s about it.</p>
+
+<p>If you install your Windows on an SSD, your PC will cold boot (that is, powering on from a completely turned off state) to being fully functional and ready to go in less than 30 seconds. Really, I’m not kidding.</p>
+
+<p>Moreover, you’ll find your applications loading far quicker, not to mention your games.</p>
+
+<p>If you have the extra money to spend, buy an SSD.</p>
+
+<p>A 1TB mechanical drive will cost you around $50, whereas a 240GB SSD will run you around $60. However, it’s well worth the investment.</p>
+
+<p><img class="lazyload img-middle" alt="m2 drive" data-src="/img/600/m2-drive.jpg" /></p>
+
+<p>In another life (probably two years ago) I only had a 1TB mass storage mechanical drive.</p>
+
+<p>That was such a big mistake…</p>
+
+<p>I only had to pay $45 for a WD Caviar Blue drive, which I thought was a steal – and, in all honesty, it is a steal.</p>
+
+<p>So, if it’s such a great deal, why am I complaining?</p>
+
+<p>When you’re booting up your PC, launching a game and trying to load in, or launching a bunch of applications at once, a mechanical drive simply won’t do.</p>
+
+<p>When I finally decided to upgrade, I moved my operating system and drivers to an SSD, and my computer booted in less than 30 seconds, and it was ready for action.</p>
+
+<p>The story is the same with my games – I was always one of the first, if not the first, to load in.</p>
+
+<p>No more waiting around, dealing with games crashing, or being the last to load. For more information about how SSDs work, click <a href="https://www.makeuseof.com/tag/solidstate-drives-work-makeuseof-explains/" target="\_blank">here</a>.</p>
+
+<p>Nevertheless, it’s always a good idea to have a mass storage mechanical drive to serve as a cheap storage solution.</p>
+
+<p>When you need to store files that don’t need to be loaded quickly – such as music, movies, some applications, etc. – a mechanical drive will do just fine.</p>
+
+<script>
+function init() {
+var vidDefer = document.getElementsByTagName('iframe');
+for (var i=0; i<vidDefer.length; i++) {
+if(vidDefer[i].getAttribute('data-src')) {
+vidDefer[i].setAttribute('src',vidDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
+
+:ET

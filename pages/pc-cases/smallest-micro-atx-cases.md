@@ -1,8 +1,8 @@
 ---
-title: The Best Small Micro ATX Cases 
+title: The Best Small Micro ATX Cases
 permalink: "/pc-cases/smallest-micro-atx-cases/"
 layout: page
-seotitle: "9 Smallest Micro ATX Case Options 2020 (MATX)" 
+seotitle: "9 Smallest Micro ATX Case Options 2020 (MATX)"
 meta: "We're taking a look at the smallest micro ATX case options on the market. If you're looking for a small micro ATX case, you're in luck!"
 redirect_from: /budget-pcs/smallest-micro-atx-cases/
 ---
@@ -22,45 +22,6 @@ redirect_from: /budget-pcs/smallest-micro-atx-cases/
 <li><a href="#frequently-asked-questions-faq" id="markdown-toc-frequently-asked-questions-faq">Frequently Asked Questions (FAQ)</a></li>
 <li><a href="#case-reviews" id="markdown-toc-case-reviews">Case Reviews</a></li>
 </ul>
-
-Here's the deal:
-
-If you're building a gaming PC, you're going to need a [great case](/pc-cases/) to not only house your components but to cool and protect them as well. 
-
-These days, smaller cases are becoming more and more popular.
-
-That's why we've created this guide. 
-
-We've rounded up the best (and the smallest) micro ATX cases on the market.
-
-*Let's get started:* 
-
-## Smallest Micro ATX Case Options
-
-[Building a PC](/budget-pcs/) – whether it's for gaming or workstation tasks – is an art form. 
-
-Just like you choose components based on your performance requirements, you should choose a case based on your style. 
-
-Still, there's more to a case than just its looks. 
-
-A micro ATX case should have enough space for your components, cables, and airflow. 
-
-<div class="quick-tip">
-  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
-
-  <p>Small Micro ATX cases are awesome, but they are more difficult to use than traditional ATX cases that have more space.</p>
-
-  <p>If you're new to building, using an ATX case is probably a better option.</p>
-
-  <p>In addition, ATX motherboards usually have more features, and won't fit in your micro-ATX case.</p>
-
-  <p>You can check out our guide on the <a href="/budget-pcs/smallest-atx-cases/">smallest ATX cases here</a>. They support full-size motherboards but aren't too big and bulky.</p>
-
-</div>
-
-It needs to be strong, good looking, and affordable. 
-
-Here is a list of the smallest micro ATX cases on the market:
 
 ## Top 3 Smallest Micro ATX Cases
 
@@ -103,6 +64,45 @@ Here is a list of the smallest micro ATX cases on the market:
 	</tr>
 </table>
 
+Here's the deal:
+
+If you're building a gaming PC, you're going to need a [great case](/pc-cases/) to not only house your components but to cool and protect them as well.
+
+These days, smaller cases are becoming more and more popular.
+
+That's why we've created this guide.
+
+We've rounded up the best (and the smallest) micro ATX cases on the market.
+
+_Let's get started:_
+
+## Smallest Micro ATX Case Options
+
+[Building a PC](/budget-pcs/) – whether it's for gaming or workstation tasks – is an art form.
+
+Just like you choose components based on your performance requirements, you should choose a case based on your style.
+
+Still, there's more to a case than just its looks.
+
+A micro ATX case should have enough space for your components, cables, and airflow.
+
+<div class="quick-tip">
+  <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
+
+  <p>Small Micro ATX cases are awesome, but they are more difficult to use than traditional ATX cases that have more space.</p>
+
+  <p>If you're new to building, using an ATX case is probably a better option.</p>
+
+  <p>In addition, ATX motherboards usually have more features, and won't fit in your micro-ATX case.</p>
+
+  <p>You can check out our guide on the <a href="/budget-pcs/smallest-atx-cases/">smallest ATX cases here</a>. They support full-size motherboards but aren't too big and bulky.</p>
+
+</div>
+
+It needs to be strong, good looking, and affordable.
+
+Here is a list of the smallest micro ATX cases on the market:
+
 <div class="featured-info-box">
 <div class="content">
 <script type="text/javascript" src="https://app.getresponse.com/view_webform_v2.js?u=G3d6M&webforms_id=Bf6wL" data-webform-id="Bf6wL"></script>
@@ -110,32 +110,33 @@ Here is a list of the smallest micro ATX cases on the market:
 </div>
 
 ## MATX Case Buying Guide
+
 <img class="lazyload img-right img-small" alt="smallest matx case" src="/img/case/matx/smallest-matx-case.jpg" />
 
-Buying an MATX case for your next gaming PC is definitely a move. 
+Buying an MATX case for your next gaming PC is definitely a move.
 
-You can find both high-end and budget micro ATX cases, so they can be used in builds ranking from [$600](/budget-pcs/) all the way up to $1000+. 
+You can find both high-end and budget micro ATX cases, so they can be used in builds ranking from [$600](/budget-pcs/) all the way up to $1000+.
 
-Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for. 
+Before you buy yourself any Micro ATX case – let alone a small or slim Micro ATX case – you should always ponder exactly what you’re looking for.
 
 **It's important to consider the following:**
 
-* Desk space
-* Front USB
-* Expansion support
-* Building difficulty
-* Airflow
-* Storage options
-* Serviceability
-* Graphics card support
+- Desk space
+- Front USB
+- Expansion support
+- Building difficulty
+- Airflow
+- Storage options
+- Serviceability
+- Graphics card support
 
 ### Desk Space
 
-Always consider how much desk space your case will take up since it’s ultimately  the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
+Always consider how much desk space your case will take up since it’s ultimately the shell of your system. If you have a small desk or several monitors, maybe consider a slimmer option or an alternate case placement.
 
 ### Front USB
 
-If you plan on plugging in [USB](https://www.techopedia.com/definition/2320/universal-serial-bus-usb){: target="_blank"} flash drives on a consistent basis without having to pull a reach around you might want to go for an option that includes USB 3.0 with the front panel IO.
+If you plan on plugging in [USB](https://www.techopedia.com/definition/2320/universal-serial-bus-usb){: target="\_blank"} flash drives on a consistent basis without having to pull a reach around you might want to go for an option that includes USB 3.0 with the front panel IO.
 
 ### Expansion Support
 
@@ -157,7 +158,7 @@ Airflow may not seem as important in a smaller case since smaller form factor bu
 
 <p>Rather than crossing your fingers, it's best to buy a case with good airflow and great cable management options.</p>
 
-<p>All of the cases on this list have good airflow, but some are better than others.</p> 
+<p>All of the cases on this list have good airflow, but some are better than others.</p>
 
 <p>For an in-depth look at <a href="/cable-management/">cable management and airflow</a>, check out our guide.</p>
 
@@ -166,10 +167,11 @@ Airflow may not seem as important in a smaller case since smaller form factor bu
 </div>
 
 ### Storage Options
+
 <img class="lazyload img-right img-small" alt="small matx case example" src="/img/case/matx/micro-atx-case-example.jpg" />
 
-If you plan on keeping your case for a very long period of time (in the tech world that could be quite a few years) you should always look at storage slots and ease of upgrade. Storage runs out quick and it’s always good to have a little extra for backups. That's why getting a case with plenty of hard drive storage is important. Click this link to check out our guide on [the best PC cases for hard drive storage](/pc-cases/hard-drive-storage/). 
- 
+If you plan on keeping your case for a very long period of time (in the tech world that could be quite a few years) you should always look at storage slots and ease of upgrade. Storage runs out quick and it’s always good to have a little extra for backups. That's why getting a case with plenty of hard drive storage is important. Click this link to check out our guide on [the best PC cases for hard drive storage](/pc-cases/hard-drive-storage/).
+
 ### Serviceability
 
 Things break, it’s inevitable, but where will you be when the fortress falls? Choosing a case that offers a warranty is very important. Shipping services don’t exactly care for your well being, and sometimes the deeper damage isn’t obvious until much longer down the line.
@@ -178,9 +180,9 @@ Things break, it’s inevitable, but where will you be when the fortress falls? 
 
 Planning on building a low profile ultimate gaming rig? Think again. Small form factor cases rarely support anything more than half-height graphics cards, and the highest end half-height cards are GTX 1050 and 750 ti.
 
-In the end, your case is your choice. 
+In the end, your case is your choice.
 
-Go for what you want and show off your own personal style in whichever way you decide and game, create content, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine. 
+Go for what you want and show off your own personal style in whichever way you decide and game, create content, render, etc. all in your own way. The case isn’t just a shell, it’s the ornate mask of your machine.
 
 Whatever you choose, however you choose, just consider our tips and find the case that fits perfectly with your personal preferences, and overall just enjoy your handy work!
 
@@ -268,11 +270,11 @@ Whatever you choose, however you choose, just consider our tips and find the cas
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-If you're in the market for a cube case, you can't go wrong with the Thermaltake Core V21 - it has everything you could ask for in a Micro ATX case, and more. 
+If you're in the market for a cube case, you can't go wrong with the Thermaltake Core V21 - it has everything you could ask for in a Micro ATX case, and more.
 
-There's a lot to talk about when it comes to the V21, so I recommend clicking the 'Read Review' button and skipping down to the bottom where we go into more detail about it. 
+There's a lot to talk about when it comes to the V21, so I recommend clicking the 'Read Review' button and skipping down to the bottom where we go into more detail about it.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3aIG5P8">Check Price</a>
@@ -363,7 +365,7 @@ There's a lot to talk about when it comes to the V21, so I recommend clicking th
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">NZXT</a> H400i on this list, you must’ve been living under a rock for the past year or so. If you’re looking for the best of the best, the lord of lords, the top of the line, then this is the Micro ATX case for you.
 
@@ -459,7 +461,7 @@ The greatness doesn’t stop at looks for the H400i, as its features set it apar
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 With portability matching no other, the BitFenix Prodigy M should be one of, if not your top choice when looking for your next Micro ATX LAN build. Its flexible handles are comfortable to hold and keep the case sturdy on its feet so you’ll need not worry about your components getting shuffled around.
 
@@ -552,11 +554,11 @@ With portability matching no other, the BitFenix Prodigy M should be one of, if 
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-If you're building a performance rig with expensive components that need ample cooling *and* you want a small form factor case, the Corsair Carbide Air 240 is the case for you. 
+If you're building a performance rig with expensive components that need ample cooling _and_ you want a small form factor case, the Corsair Carbide Air 240 is the case for you.
 
-It's basically the same thing as its big brother, the Air 540 (we talk about this case on our page about the [smallest ATX cases](/pc-cases/smallest-atx-cases/)) in a smaller form factor. 
+It's basically the same thing as its big brother, the Air 540 (we talk about this case on our page about the [smallest ATX cases](/pc-cases/smallest-atx-cases/)) in a smaller form factor.
 
 The Air 240 is where Micro ATX cases meet high performance. If you have the money to spend on a premium case for an enthusiast build, I highly recommend the Air 240.
 
@@ -650,9 +652,9 @@ The Air 240 is where Micro ATX cases meet high performance. If you have the mone
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide the best view of your RGB lighting without the cabley mess. 
+The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide the best view of your RGB lighting without the cabley mess.
 
 Sporting a “two chamber design,” all cables can be tucked under the motherboard out of view, giving your build a more clean look than ever before.
 
@@ -747,9 +749,9 @@ Sporting a “two chamber design,” all cables can be tucked under the motherbo
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-If you need a media PC to match your TV color scheme, or you only have minimal desk space to work with, this is the case for you. 
+If you need a media PC to match your TV color scheme, or you only have minimal desk space to work with, this is the case for you.
 
 You get a case and a PSU for under $100, AND it’s low profile – what more could anyone ask for?
 
@@ -841,7 +843,7 @@ You get a case and a PSU for under $100, AND it’s low profile – what more co
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the fan knobs aren’t PWM) and it even includes a magnetic PSU dust filter, rubber vibration dampening pads, and adjustable top exhaust fans.
 
@@ -935,9 +937,9 @@ Fitting in right in the middle ground, the Rexgear 1 is good for just about anyo
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries. 
+With massive magnetic dust filters on the bottom, top, and front keeping your system clean, dust will be the least of your worries.
 
 It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
 
@@ -1028,9 +1030,9 @@ It even comes with a side panel (although acrylic) to view the glorious parts yo
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-When you’re on a tight budget, and I mean *tight*, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point? 
+When you’re on a tight budget, and I mean _tight_, the Rosewill FBM-05 is your go-to Micro ATX case – after all, who can really go wrong at this price point?
 
 Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
@@ -1082,61 +1084,61 @@ Still, seriously, we beg of you, please don’t put your medium to high-end part
 
 <div class="vid-container">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sCXnMEqezRA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> 
+</div>
 
 ## Frequently Asked Questions (FAQ)
 
 I decided to answer my most commonly asked questions about this topic below:
 
-### What Does ATX Stand For? 
+### What Does ATX Stand For?
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/ATX){: target="_blank"}:
+According to [Wikipedia](https://en.wikipedia.org/wiki/ATX){: target="\_blank"}:
 
 <blockquote><p>ATX (Advanced Technology eXtended) is a motherboard and power supply configuration specification developed by Intel in 1995 to improve on previous de facto standards like the AT design. It was the first major change in desktop computer enclosure, motherboard and power supply design in many years, improving standardization and interchangeability of parts. The specification defines the key mechanical dimensions, mounting point, I/O panel, power and connector interfaces between a computer case, a motherboard and a power supply.</p></blockquote>
 
-### What is the smallest micro ATX case? 
+### What is the smallest micro ATX case?
 
 The Thermaltake Core V21 is the best and the smallest micro ATX case on the market. It's small, compact, yet easy to use and boasts terrific performance despite its small form factor.
 
-### How big is a micro ATX case? 
+### How big is a micro ATX case?
 
 Micro ATX boards measure up to 9.6 by 9.6 inches (but they're sometimes smaller.)
 
-### Is mini or micro ATX smaller? 
+### Is mini or micro ATX smaller?
 
-Mini ITX cases are smaller than micro ATX cases. 
+Mini ITX cases are smaller than micro ATX cases.
 
-### Is micro ATX worth it? 
+### Is micro ATX worth it?
 
-Yes, micro ATX is worth it for most people. If you're looking for a case small enough to fit on your desk and light enough to carry with you (without sacrificing performance) then micro ATX is the move. 
+Yes, micro ATX is worth it for most people. If you're looking for a case small enough to fit on your desk and light enough to carry with you (without sacrificing performance) then micro ATX is the move.
 
 ### What is the Difference Between ATX and Micro ATX?
 
-The main difference between ATX and Micro ATX is the size. 
+The main difference between ATX and Micro ATX is the size.
 
-There are three main case sizes: ATX, Micro ATX, and Mini ITX. 
+There are three main case sizes: ATX, Micro ATX, and Mini ITX.
 
-ATX cases are the largest, followed by Micro ATX and Mini ITX, respectively. 
+ATX cases are the largest, followed by Micro ATX and Mini ITX, respectively.
 
 If you're looking for a [small ATX case](/budget-pcs/smallest-atx-cases/), we happen to have a guide about that, and a guide about the <a href="/pc-cases/smallest-mini-itx-cases/">smallest Mini-ITX cases</a> too!
 
-However, ATX cases and motherboards tend to be more expensive, as they're larger and usually have more features. 
+However, ATX cases and motherboards tend to be more expensive, as they're larger and usually have more features.
 
-### Is ATX or Micro ATX Better? 
+### Is ATX or Micro ATX Better?
 
-The answer to this question is a matter of personal preference, for the most part. 
+The answer to this question is a matter of personal preference, for the most part.
 
-Micro ATX cases are great for those who want their PC to have a low profile. 
+Micro ATX cases are great for those who want their PC to have a low profile.
 
-It's important to note, though, that some micro ATX cases aren't large enough for everyone. 
+It's important to note, though, that some micro ATX cases aren't large enough for everyone.
 
-For example, you probably won't be able to fit a water cooling system, a ton of case fans, several hard drives, and multiple GPUs in a micro ATX case. 
+For example, you probably won't be able to fit a water cooling system, a ton of case fans, several hard drives, and multiple GPUs in a micro ATX case.
 
-In that case, you'll want to go with an ATX mid-tower or even a full-tower. 
+In that case, you'll want to go with an ATX mid-tower or even a full-tower.
 
-Nevertheless, micro ATX is still suitable for most people and builds. 
+Nevertheless, micro ATX is still suitable for most people and builds.
 
-Even micro ATX cases these days have pretty spacious interiors, large enough to accommodate most PC builds. 
+Even micro ATX cases these days have pretty spacious interiors, large enough to accommodate most PC builds.
 
 ## Like the guide?
 
@@ -1157,7 +1159,7 @@ Even micro ATX cases these days have pretty spacious interiors, large enough to 
 
 ## Case Reviews
 
-This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list. 
+This is the part of the article where I go a bit more in-depth. I'll be taking a closer look at each case, talking about the pros and cons of each one, any notable features, the design, and why I decided to include the case in this list.
 
 <div class="featured-specs-box">
 <h2 id="thermaltake-v21">
@@ -1192,37 +1194,37 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 </div>
 </div>
 
-The entire front panel is made of mesh which protects the front intake fans quite well. Mesh front panels also allow far more cool air in the case than a solid or glass front panel as well, which is great for those of you who care a lot about airflow. 
+The entire front panel is made of mesh which protects the front intake fans quite well. Mesh front panels also allow far more cool air in the case than a solid or glass front panel as well, which is great for those of you who care a lot about airflow.
 
-On the front IO (which you can move around the case) you'll find a power/reset button, microphone/headphone jacks, two USB 3.0 ports, and two information LEDs, one for power and one for hard drive activity. 
+On the front IO (which you can move around the case) you'll find a power/reset button, microphone/headphone jacks, two USB 3.0 ports, and two information LEDs, one for power and one for hard drive activity.
 
-You can unscrew the IO from the top and mount in in two other locations on the front of the case, which is a feature I haven't seen before myself. 
+You can unscrew the IO from the top and mount in in two other locations on the front of the case, which is a feature I haven't seen before myself.
 
-The case also has terrific cable management options - with holes and grommets all over the case, you can run cables easily, wherever you want. 
+The case also has terrific cable management options - with holes and grommets all over the case, you can run cables easily, wherever you want.
 
 <figure>
 <img class="lazyload" data-src="/img/case/matx/v21-front.png" >
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=wVAnD6EVrhE">Mike's Unboxing</a></p></figcaption>
 </figure>
 
-And as you can see, the included front fan is huge. Large fans have lower rotational speeds but can still move lots of air, meaning they're quiet and effective. 
+And as you can see, the included front fan is huge. Large fans have lower rotational speeds but can still move lots of air, meaning they're quiet and effective.
 
-Alternatively, you can remove it and replace the fan with two 120mm or two 140mm fans instead. 
+Alternatively, you can remove it and replace the fan with two 120mm or two 140mm fans instead.
 
-Speaking of removing things, if we take a look at the side panel, you'll see it has an acrylic window. 
+Speaking of removing things, if we take a look at the side panel, you'll see it has an acrylic window.
 
 <figure>
 <img class="lazyload" data-src="/img/case/matx/v21-side.png" >
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=wVAnD6EVrhE">Mike's Unboxing</a></p></figcaption>
 </figure>
 
-But if you want your window on top of the case, no problem! All of the side panels can be removed and rearranged as well, giving you complete control over your build. 
+But if you want your window on top of the case, no problem! All of the side panels can be removed and rearranged as well, giving you complete control over your build.
 
 The case also has a lot of drive storage despite being so small - not quite enough to be a [good NAS case](/pc-cases/nas/), but it'll be sufficient for most people (certainly gamers).
 
-To be completely honest with you I can't give this thing enough justice because it's got so much to offer, and a full review would take up the entire page. If you want an in-depth video review, you can watch [this awesome video](https://www.youtube.com/watch?v=wVAnD6EVrhE){: target="_blank"} from Mike's Unboxing where he goes into full detail. 
+To be completely honest with you I can't give this thing enough justice because it's got so much to offer, and a full review would take up the entire page. If you want an in-depth video review, you can watch [this awesome video](https://www.youtube.com/watch?v=wVAnD6EVrhE){: target="\_blank"} from Mike's Unboxing where he goes into full detail.
 
-In short, the Thermaltake Core V21 is hands down the best small Micro ATX case on the market because of its outsanding design and functionality. 
+In short, the Thermaltake Core V21 is hands down the best small Micro ATX case on the market because of its outsanding design and functionality.
 
 <div class="featured-specs-box">
 <h2 id="nzxt-h400i">
@@ -1256,27 +1258,27 @@ In short, the Thermaltake Core V21 is hands down the best small Micro ATX case o
 </div>
 </div>
 
-You’re only looking for the best of the best. You want no lies, no shortcuts – just style, functionality, and reliability. 
+You’re only looking for the best of the best. You want no lies, no shortcuts – just style, functionality, and reliability.
 
 The NZXT H400i fits the bill to a ‘T’ and you will be hard pressed to find a similar alternative that lives up to the level of quality the H400i puts forward.
 
-Sleek is this case’s middle name and my, my does it like to flex that. 
+Sleek is this case’s middle name and my, my does it like to flex that.
 
-You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color schemes to fit whatever amazing colors your build might include, and its durable full steel body is built to keep all of your expensive parts safe within its walls. 
+You can find the H400i in White/Black, Red/Black, Blue/Black, and Black color schemes to fit whatever amazing colors your build might include, and its durable full steel body is built to keep all of your expensive parts safe within its walls.
 
-It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel! 
+It even has extra space for cable management, a power supply shroud, and a full tempered glass side panel!
 
 <img class="lazyload img-middle" alt="nzxt h400i side view" src="/img/case/matx/400i-side-view.jpg" />
 
-The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features. 
+The H400i is fully prepared for any and all RGB solutions, with a wide range of RGB lighting support/features.
 
 In terms of airflow, the case supports up to 7 120mm fans and room for even a full custom water loop.
 
-The H400i comes with 3 non-RGB fans, which is really lame. Be sure to deck it out with lights, as it has space for whatever you might want to throw at it. 
+The H400i comes with 3 non-RGB fans, which is really lame. Be sure to deck it out with lights, as it has space for whatever you might want to throw at it.
 
 It also includes an RGB fan controller that can support up to 5 RGB fans or 4 LED strips, powered by the NZXT CAM software, which allows you to get the best performance possible out of your case fans.
 
-Taking up very little space and looking stylish as ever, the NZXT H400i should be one of your top micro ATX case choices. 
+Taking up very little space and looking stylish as ever, the NZXT H400i should be one of your top micro ATX case choices.
 
 This case doesn’t disappoint in any category… unless you’re on a budget.
 
@@ -1313,33 +1315,33 @@ This case doesn’t disappoint in any category… unless you’re on a budget.
 </div>
 </div>
 
-The BitFenix Prodigy M is one of our favorite picks this year. 
+The BitFenix Prodigy M is one of our favorite picks this year.
 
 I mean, just look at it – it’s so cool! Thanks to its carrying handle and small form factor, it's perfect for LAN parties and gaming on the go (at least, as good as a gaming PC can get.)
 
-The BitFenix Prodigy and the Prodigy M variants seem quite similar, and they are in the respect that their casing is almost exactly the same. 
+The BitFenix Prodigy and the Prodigy M variants seem quite similar, and they are in the respect that their casing is almost exactly the same.
 
 Besides the M variant sporting a side panel window, it also has its motherboard mount on the opposite side of the computer case, and mounts on sideways as opposed to flat on the non-M version.
 
-The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve. 
+The only areas that the Prodigy M seems to fall short in are its pricing and its building difficulty curve.
 
 These are relatively small tradeoffs for the quality of this case.'
 
 <img class="lazyload img-middle" alt="prodigy-m interior" src="/img/case/matx/prodigy-m-interior.jpg" />
 
-If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backward. 
+If you have little experience building PCs or you’re using an online guide to build, you may find this case difficult since the motherboard mount is backward.
 
 It isn’t too much of an issue, but it can become confusing for newbies.
 
-The compact nature of the Prodigy M can also become quite an annoyance. 
+The compact nature of the Prodigy M can also become quite an annoyance.
 
 If you’ve got big hands we wish you the best of luck in your building endeavors, as this case is tight as ever and building can be challenging at times.
 
-Nevertheless, portability is king, and with the Prodigy M you’ll have no problem moving it around. 
+Nevertheless, portability is king, and with the Prodigy M you’ll have no problem moving it around.
 
-Wielding 4 comfortable and sturdy handles (that also serve as legs) mixed with its small size, and its support for Micro ATX motherboards, carrying this thing around is a breeze. 
+Wielding 4 comfortable and sturdy handles (that also serve as legs) mixed with its small size, and its support for Micro ATX motherboards, carrying this thing around is a breeze.
 
-We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN event. 
+We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN event.
 
 <div class="featured-specs-box">
 <h2 id="thermaltake-level-20-vt">
@@ -1375,34 +1377,33 @@ We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN even
 </div>
 </div>
 
-The Thermaltake Level 20 VT is the right case for the show off in you! 
+The Thermaltake Level 20 VT is the right case for the show off in you!
 
-If you’re planning on showing your PC to your friends and family this is surely the case for the job. 
+If you’re planning on showing your PC to your friends and family this is surely the case for the job.
 
-Looks aside, the case's functionality doesn't fall short either. 
+Looks aside, the case's functionality doesn't fall short either.
 
-This case sports 4mm thick tempered glass on four sides, and the top sides and bottom panels are all symmetrical and interchangeable. 
+This case sports 4mm thick tempered glass on four sides, and the top sides and bottom panels are all symmetrical and interchangeable.
 
-The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm. 
+The default top panel also supports radiator mounting up to 280mm, and the front supports up to 240mm.
 
 The top of the case also has gaps to optimize airflow, so there's no need to worry about your components overheating!
 
 <img class="lazyload img-middle" alt="20-vt side view" src="/img/case/matx/20-vt-side.jpg" />
 
-The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions. 
+The two chambers of the Level 20 VT allow for easy cable management below deck, while granting ample space above deck for graphics cards and custom water cooling solutions.
 
-Its six removable drive bays (three 3.5” and three 2.5”) give you easy swapability and plenty of room for other components. 
+Its six removable drive bays (three 3.5” and three 2.5”) give you easy swapability and plenty of room for other components.
 
-For front IO options, the Level 20 VT has four total front USB ports. Two USB 2.0 and two USB 3.0, with a headphone and a microphone jack, of course. 
+For front IO options, the Level 20 VT has four total front USB ports. Two USB 2.0 and two USB 3.0, with a headphone and a microphone jack, of course.
 
-Compact and hearty, Thermaltake’s Level 20 VT Micro ATX case is built to last at a reasonable price. 
+Compact and hearty, Thermaltake’s Level 20 VT Micro ATX case is built to last at a reasonable price.
 
-Sturdy and sleek, this case will serve as premium protection for your interior with premium presentation on the exterior. All bark and no bite? More like ready to fight fight fight! 
+Sturdy and sleek, this case will serve as premium protection for your interior with premium presentation on the exterior. All bark and no bite? More like ready to fight fight fight!
 
-Sorry, that was a bit corny... 
+Sorry, that was a bit corny...
 
 In any event, this case is actually really great.
-
 
 <div class="featured-specs-box">
 <h2 id="in-win-bl631">
@@ -1438,29 +1439,29 @@ In any event, this case is actually really great.
 </div>
 </div>
 
-The IN-WIN BL631 is probably the best slim Micro ATX case you can buy on the market right now. 
+The IN-WIN BL631 is probably the best slim Micro ATX case you can buy on the market right now.
 
 It’s designed to be the best in its class, providing exceptional thermal performance, satisfactory acoustics, and remarkable ease of use.
 
-This case is built to please, offering Partition Plate Cooling Technology (PPCT) which provides thermal and acoustic performance rivaled by no other. 
+This case is built to please, offering Partition Plate Cooling Technology (PPCT) which provides thermal and acoustic performance rivaled by no other.
 
 Its small form factor also attributes to easy heat dissipation via an adjustable vent.
 
-The Micro ATX form factor is compatible with most standard desktop parts and its detachable drive cage allows easy mechanical drive installation or improved airflow. 
+The Micro ATX form factor is compatible with most standard desktop parts and its detachable drive cage allows easy mechanical drive installation or improved airflow.
 
 The BL631 also incorporates a screw-less design for much quicker and simpler installation.
 
 <img class="lazyload img-middle" alt="bl-631 interior" data-src="/img/case/matx/bl-631-interior.jpg" />
 
-This case doesn’t necessarily lack in the IO department, but it could be better. 
+This case doesn’t necessarily lack in the IO department, but it could be better.
 
-The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header. 
+The front panel consists of the normal headphone and microphone jacks, plus 2 USB 2.0 ports and 2 USB 3.0 ports, so make sure your board has a USB 3.0 header.
 
 If you so wish, there’s also panels for 5.25” and 3.5” expansions in the front for you to mount a disk drive or card reader.
 
-The included 300W power supply adds so much to what we thought couldn’t get any better. 
+The included 300W power supply adds so much to what we thought couldn’t get any better.
 
-Although 300W is fairly miniscule in most computers, the 300W should be all you need for an APU gaming machine or a home theatre HTPC. 
+Although 300W is fairly miniscule in most computers, the 300W should be all you need for an APU gaming machine or a home theatre HTPC.
 
 Even using a low profile graphics card such as the GT 1030 Low Profile only sucks round 30W of power which is no problem for this PSU.
 
@@ -1497,33 +1498,33 @@ The IN-WIN BL631 is an awesome slim Micro ATX case. It’s compact with good air
 </div>
 </div>
 
-This case is quite a weird one. Every case has its qwerk, and the Nanoxia Rexgear 1 is no exception. 
+This case is quite a weird one. Every case has its qwerk, and the Nanoxia Rexgear 1 is no exception.
 
 Its horizontal mounting solution and fan control knobs are just a couple of its oddities.
 
-The fan control knobs situated on the front panel IO and are able to control a maximum of six simultaneous fans, which also happens to be the maximum amount of fans the case supports. 
+The fan control knobs situated on the front panel IO and are able to control a maximum of six simultaneous fans, which also happens to be the maximum amount of fans the case supports.
 
-However, they don’t have support for PWM fans, so don’t bet on hooking up all those brand new LED fans to your rig. 
+However, they don’t have support for PWM fans, so don’t bet on hooking up all those brand new LED fans to your rig.
 
-Horizontal mounting always allows for more space and it just so happens that its one of the Rexgear’s main draws. 
+Horizontal mounting always allows for more space and it just so happens that its one of the Rexgear’s main draws.
 
-The Rexgear’s horizontal mounting gives a much greater range of support for different graphics card sizes and places your GPU right against the side panel window for your viewing pleasure. 
+The Rexgear’s horizontal mounting gives a much greater range of support for different graphics card sizes and places your GPU right against the side panel window for your viewing pleasure.
 
-The full length power supply support is also a welcome addition. 
+The full length power supply support is also a welcome addition.
 
 <img class="lazyload img-middle" alt="nanoxia rexgear 1 interior" data-src="/img/case/matx/rexgear-1-interior.jpg" />
 
 This case gives the PSU some loving with a dedicated dust filter, rubber vibration pads, and a PSU bracket.
 
-In addition, airflow is no issue in this case as it has its own specialized exhaust system. 
+In addition, airflow is no issue in this case as it has its own specialized exhaust system.
 
 Its six 120mm fan support makes sure you have air going in and out at a healthy rate, and the top of the case has an adjustable set of exhaust fans that look pretty cool when extended as well.
 
-The toolless hard drive mount makes it easy to swap drives – in fact, the entire cage is removable. 
+The toolless hard drive mount makes it easy to swap drives – in fact, the entire cage is removable.
 
 It supports up to three 3.5” drives and still leaves a large amount of much needed cable management space.
 
-Building in the Rexgear 1 will probably be one of the easiest experiences you could ask for, thanks to its removable motherboard tray which allows you to easily mount your board outside of the case. 
+Building in the Rexgear 1 will probably be one of the easiest experiences you could ask for, thanks to its removable motherboard tray which allows you to easily mount your board outside of the case.
 
 <div class="featured-specs-box">
 <h2 id="cooler-master-masterbox-q300l">
@@ -1557,15 +1558,15 @@ Building in the Rexgear 1 will probably be one of the easiest experiences you co
 </div>
 </div>
 
-This case reels in its fanbase with its perfection in the majority of categories by looking great, performing great, and costing… well, great! 
+This case reels in its fanbase with its perfection in the majority of categories by looking great, performing great, and costing… well, great!
 
-The Q300L boasts a front panel IO fit for a multitude of positionings, making sure that no matter where or how you place it you can always reach all your front buttons and plugs. 
+The Q300L boasts a front panel IO fit for a multitude of positionings, making sure that no matter where or how you place it you can always reach all your front buttons and plugs.
 
-Its slightly larger size allows for a much larger list of GPU sizes. This case also includes a full acrylic side panel window. 
+Its slightly larger size allows for a much larger list of GPU sizes. This case also includes a full acrylic side panel window.
 
 It’s not as amazing as a real tempered glass side panel, but the view of your beastly components is still pretty cool.
 
-In addition, while supporting up to a full ATX power supply, the Q300L also brandishes gigantic magnetic dust filters on both the top and front of the case – you’ll have no trouble with dust while still getting the best view out of your system. No more dusty parts! 
+In addition, while supporting up to a full ATX power supply, the Q300L also brandishes gigantic magnetic dust filters on both the top and front of the case – you’ll have no trouble with dust while still getting the best view out of your system. No more dusty parts!
 
 This case really has it all for an affordable price.
 
@@ -1600,23 +1601,23 @@ This case really has it all for an affordable price.
 </div>
 </div>
 
-Finally we are discussing this joke. We'd only recommend this case if you're on a **tight** budget. 
+Finally we are discussing this joke. We'd only recommend this case if you're on a **tight** budget.
 
 Even then, it's probably worth saving a bit more for a better case.
 
 In all seriousness, this case is the worst thing I’ve ever had the misfortune of handling.
 
-The only good thing about this thing is its price. 
+The only good thing about this thing is its price.
 
-The Rosewill FBM-05 is the cheapest Micro ATX case you can get on Amazon. 
+The Rosewill FBM-05 is the cheapest Micro ATX case you can get on Amazon.
 
-It does not excel in any category. 
+It does not excel in any category.
 
-The only situation in which you should find yourself purchasing the Rosewill FBM-05 is at the lowest point in your life or if handing it off to someone you don’t particularly enjoy the company of. 
+The only situation in which you should find yourself purchasing the Rosewill FBM-05 is at the lowest point in your life or if handing it off to someone you don’t particularly enjoy the company of.
 
-The airflow is somehow worse than that of a cardboard box, and it manages to reach a level of flimsiness only thought possible by the government of Venezuela. 
+The airflow is somehow worse than that of a cardboard box, and it manages to reach a level of flimsiness only thought possible by the government of Venezuela.
 
-Its power button isn’t even satisfying to press! 
+Its power button isn’t even satisfying to press!
 
 At least it has audio jacks and a single front USB 3.0 port.
 
@@ -1658,21 +1659,21 @@ The Air 240 is about 40% smaller than its bigger brother, the Corsair Carbide Ai
 
 On the front panle you'll find the front IO with a power/reset switch, headphone/microphone jacks, and two USB 3.0 ports along with a hard drive activity LED. The buttons are well-made and crisp, giving both a good audible and tacticle feedback.
 
-The rear of the case is loaded with thumbscrews, because you can remove all of the panels from the case (top, side, bottom) effectively turning the case into a makeshift test bench. This feature is awesome and makes the case way easier to work with. 
+The rear of the case is loaded with thumbscrews, because you can remove all of the panels from the case (top, side, bottom) effectively turning the case into a makeshift test bench. This feature is awesome and makes the case way easier to work with.
 
 <figure>
 <img class="lazyload" data-src="/img/case/matx/air-240-rear.png" >
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=NTJ0osmQyzU">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-On the left side you'll find a window that displays your components, and thanks to the dual-chamber design there isn't much to worry about in the way of cable management, since they're all living in the second chamber. 
+On the left side you'll find a window that displays your components, and thanks to the dual-chamber design there isn't much to worry about in the way of cable management, since they're all living in the second chamber.
 
 <figure>
 <img class="lazyload" data-src="/img/case/matx/air-240-left-side.png" >
 <figcaption><p>Source: <a target="_blank" href="https://www.youtube.com/watch?v=NTJ0osmQyzU">Linus Tech Tips</a></p></figcaption>
 </figure>
 
-The right side panel has an externally mounted fan filter protecting the dual 120mm fan configuration, providing airflow to the hidden chamber of the case, yet another awesome feature. 
+The right side panel has an externally mounted fan filter protecting the dual 120mm fan configuration, providing airflow to the hidden chamber of the case, yet another awesome feature.
 
 <figure>
 <img class="lazyload" data-src="/img/case/matx/air-240-right-side.png" >
