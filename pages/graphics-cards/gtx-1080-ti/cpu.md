@@ -1,8 +1,8 @@
 ---
-title: "The Best CPUs for The GTX 1080 Ti" 
+title: "The Best CPUs for The GTX 1080 Ti"
 permalink: "/graphics-cards/gtx-1080-ti/cpu/"
 layout: page
-seotitle: "3 Best CPUs for GTX 1080 & 1080 Ti (No Bottleneck)" 
+seotitle: "3 Best CPUs for GTX 1080 & 1080 Ti (No Bottleneck)"
 meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you buy the right CPU for the job"
 ---
 
@@ -13,18 +13,8 @@ meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you b
 
 ![best cpu for 1080 ti header graphic](/img/header/1080ti-processors.png){: .page-header}
 
-* TOC
-{: toc}
-
-Want a [CPU](/cpu/) that’ll push your FPS to the limit?
-
-Maybe something that’ll get you them sweet sweet CPU render times?
-
-Or maybe you're on the hunt for a good CPU to pair with your [1080 Ti](/graphics-cards/gtx-1080-ti/) without breaking the bank. 
-
-It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it. 
-
-If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/362vFIY){: target="_blank"} is our top pick. 
+- TOC
+  {: toc}
 
 ## 3 Best CPUs for 1080 & 1080 Ti Graphics Cards
 
@@ -67,11 +57,21 @@ If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](ht
   </tr>
 </table>
 
+Want a [CPU](/cpu/) that’ll push your FPS to the limit?
+
+Maybe something that’ll get you them sweet sweet CPU render times?
+
+Or maybe you're on the hunt for a good CPU to pair with your [1080 Ti](/graphics-cards/gtx-1080-ti/) without breaking the bank.
+
+It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it.
+
+If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/362vFIY){: target="\_blank"} is our top pick.
+
 ## Best CPU for 1080 vs 1080 Ti?
 
 A lot of people ask me for my opinion on the best CPU for the 1080 vs the 1080 Ti - the truth is, since both cards are similar in performance, the same CPU will work well for both of them.
 
-Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080. 
+Yes, the 1080 Ti is slightly more powerful than the 1080, but since _most_ games rely primarily on the GPU anyway, any powerful CPU (like those listed below) will be great for both the 1080 Ti and the 1080.
 
 <div id="top-pick" class="featured-info-box">
 <span>Best CPU for 1080 Ti</span>
@@ -163,18 +163,18 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since *most* games
 
 Taking the number one spot on not just our list, but on benchmarks globally as well, this processor has no competitors really anywhere!
 
-The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="_blank"}. 
+The 9900KF’s 8 cores and 16 threads have a 3.6GHz base clock and amazing 5GHz [boost clock turbo](https://www.bhphotovideo.com/explora/computers/tips-and-solutions/boost-processors){: target="\_blank"}.
 
-If you want to make the most out of this CPU, make sure you use the proper motherboard that supports overclocking and has the other necessary features you need for optimal performance. More on that [here](/graphics-cards/gtx-1080-ti/motherboard/). 
+If you want to make the most out of this CPU, make sure you use the proper motherboard that supports overclocking and has the other necessary features you need for optimal performance. More on that [here](/graphics-cards/gtx-1080-ti/motherboard/).
 
 No matter what, you’ll be getting the most out of this amazing processor in tackling any task you throw its way. And that’s without overclocking.
 
 There are a couple of notes you should take before purchasing one for yourself, though:
 
-* The 9900KF will cost you $5 more (on average) than the 9900K for a 1% performance increase and lack of integrated graphics
-* We suggest you only use a Z390 motherboard for this CPU, as VRM restraints on Z370 could tank your performance
-* This processor does NOT come with a cooler out-of-the-box, so you will have to buy an aftermarket cooler
-* Make sure you research your cooler before buying, as the 9900KF is a toasty monster
+- The 9900KF will cost you $5 more (on average) than the 9900K for a 1% performance increase and lack of integrated graphics
+- We suggest you only use a Z390 motherboard for this CPU, as VRM restraints on Z370 could tank your performance
+- This processor does NOT come with a cooler out-of-the-box, so you will have to buy an aftermarket cooler
+- Make sure you research your cooler before buying, as the 9900KF is a toasty monster
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/362vFIY">Read Reviews on Amazon</a>
@@ -268,14 +268,14 @@ There are a couple of notes you should take before purchasing one for yourself, 
   </div>    
 </section>
 
-Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the [threads](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html){: target="_blank"}.
+Sporting a similar 3.6GHz base clock, you can still expect outstanding performance from this chip. While it only boosts to 4.9GHz instead of 5GHz, it’s still packing 8 whole CPU cores under its belt, just lacking the [threads](https://www.tomshardware.com/reviews/cpu-computing-thread-definition,5765.html){: target="\_blank"}.
 
 Unlike with the 9900K vs 9900KF, the KF skew of the 9700K doesn’t offer any performance increase for practically the same cost, or even much higher from some retailers, so there’s no real point in choosing it over the version with integrated graphics.
 
 Just as before, we have for you a couple of notes before making your purchase:
 
-* We, again, suggest a Z390 board for this chip but in this case, it’s only for overclocking. Otherwise, you should be fine.
-* If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.
+- We, again, suggest a Z390 board for this chip but in this case, it’s only for overclocking. Otherwise, you should be fine.
+- If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2LsKVoG">Read Reviews on Amazon</a>
@@ -368,13 +368,13 @@ Just as before, we have for you a couple of notes before making your purchase:
   </div>    
 </section>
 
-If you were to ask me personally, this CPU is always my choice for price to performance and I will always suggest it without fail. 
+If you were to ask me personally, this CPU is always my choice for price to performance and I will always suggest it without fail.
 
 You might wonder “Why not the 3600X, it performs better” and I say sit down, shut up, and listen.
 
 Ranking number 25 on the top CPUs in performance, the 3600 offers performance other CPUs could only dream of at this price point.
 
-Think about this: 
+Think about this:
 
 For less than the price of a single i9-9900KF, you can buy an AMD Ryzen 5 3600, 16GB of DDR4-3000MHz or 3200MHz memory, and an X570 chipset motherboard all brand new. That’s just freakin’ crazy!
 
@@ -431,7 +431,7 @@ But just like our other picks, this chip can overclock, and that’s where you�
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/i2z6Da0yDL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab. 
+Now that we’ve given you our picks for the best CPUs at the moment, you might wonder which one you should grab.
 
 Or maybe you don’t and you’ve already bought it. Christ, that was fast.
 
@@ -439,7 +439,7 @@ From us to you, here are some things you should know when choosing the processor
 
 ## Best CPU for Other Graphics Cards
 
-Check out our other CPU recommendations: 
+Check out our other CPU recommendations:
 
 <table class="basic-table" align="center">
   <tr>
@@ -460,28 +460,30 @@ Check out our other CPU recommendations:
 </table>
 
 ### Clock Speed
+
 <img class="lazyload img-small img-right" alt="clock speed" data-src="/img/cpu/clock-speed.jpg" />
 
-The clock speed of a processor is the speed at which it can complete its given tasks. 
+The clock speed of a processor is the speed at which it can complete its given tasks.
 
-Meaning your processor has a set amount of time to execute each instruction it’s given, measured in Gigahertz (GHz) nowadays, but used to be measured in Megahertz (MHz). 
+Meaning your processor has a set amount of time to execute each instruction it’s given, measured in Gigahertz (GHz) nowadays, but used to be measured in Megahertz (MHz).
 
 This, of course, means that the CPU can complete more instructions the higher the clock speed is.
 
-In short, a higher clock is usually better in most cases, and processes like overclocking can boost your CPU’s clock speed higher than its factory setting. 
+In short, a higher clock is usually better in most cases, and processes like overclocking can boost your CPU’s clock speed higher than its factory setting.
 
 Though, as your CPU speed gets higher, it might require more power and output more heat as a result.
 
 But clock speed isn’t the only thing that determines how fast a processor is.
 
 ### Core Count
+
 <img class="lazyload img-small img-right" alt="core count" data-src="/img/cpu/core-count.jpg" />
 
-As confusing as it may sound, cores are basically individual processing units. 
+As confusing as it may sound, cores are basically individual processing units.
 
 So a CPU (Central Processing Unit) may have 2, 4, 6, or even 8 individual processing units, or cores, within its walls.
 
-The odd naming scheme stems from the fact that originally, processors only had one core, and all instructions went through that single processing unit. 
+The odd naming scheme stems from the fact that originally, processors only had one core, and all instructions went through that single processing unit.
 
 Though, as manufacturers started to realize, they could cram more units onto a single silicon die to increase performance, resulting in the up to 64-core [server](/game-hosts/) processors of today.
 
@@ -495,11 +497,11 @@ For example, a higher core count processor will handle rendering and video editi
 
 Hyperthreading is a little neat trick that Intel came up with back in 2002 that’s managed to not only survive but become commonplace almost two decades into the future.
 
-What hyperthreading does is essentially trick the computer into thinking it has a lot more cores than it actually does. 
+What hyperthreading does is essentially trick the computer into thinking it has a lot more cores than it actually does.
 
 In a hyperthreaded CPU, your computer may see 12 cores while your CPU is really only packing 6 physical cores.
 
-It allows for your CPU’s cores to share resources more effectively to speed up task execution. 
+It allows for your CPU’s cores to share resources more effectively to speed up task execution.
 
 We should note that the virtual cores gained by hyperthreaded CPUs are no substitute for physical cores (eg. 6-cores, 12-threads vs 8-cores, no hyperthreading).
 

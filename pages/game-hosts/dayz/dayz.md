@@ -1,9 +1,9 @@
 ---
-title: "Best DayZ Server Hosting Companies" 
+title: "Best DayZ Server Hosting Companies"
 permalink: "/game-hosts/dayz/"
 layout: page
-seotitle: "3 Best DayZ Hosting Companies 2020 (Comparison)" 
-meta: "There are many great DayZ Server Hosting companies to up your game, but this review will cover the top 3 providers." 
+seotitle: "3 Best DayZ Hosting Companies 2020 (Comparison)"
+meta: "There are many great DayZ Server Hosting companies to up your game, but this review will cover the top 3 providers."
 ---
 
 <div class="author-line">
@@ -22,16 +22,6 @@ meta: "There are many great DayZ Server Hosting companies to up your game, but t
   </li>
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
-
-DayZ can certainly be played solo, but some of the greatest interactions come from other players, whether it’s a fierce shoot-out, or making friends and going on an adventure together. 
-
-The inclusion of voice chat is a clear indicator that the game is meant to be played with others, and having to play on servers reinforces that fact. 
-
-When it comes to servers, you start with a couple options: official servers and community servers. The official servers are good for a beginner, but tend to be crowded and lacking in loot overall. 
-
-Community servers are somewhat better, but have their own pitfalls as well. To have the most control over your DayZ experience, you’ll need your own server.
-
-In this article, we're taking a look at the best DayZ server hosting companies around. 
 
 ## Popular DayZ Hosting Providers
 
@@ -77,9 +67,19 @@ Here is a table comparing the top DayZ hosting providers:
   </tr>
 </table>
 
+DayZ can certainly be played solo, but some of the greatest interactions come from other players, whether it’s a fierce shoot-out, or making friends and going on an adventure together.
+
+The inclusion of voice chat is a clear indicator that the game is meant to be played with others, and having to play on servers reinforces that fact.
+
+When it comes to servers, you start with a couple options: official servers and community servers. The official servers are good for a beginner, but tend to be crowded and lacking in loot overall.
+
+Community servers are somewhat better, but have their own pitfalls as well. To have the most control over your DayZ experience, you’ll need your own server.
+
+In this article, we're taking a look at the best DayZ server hosting companies around.
+
 ## DayZ Standalone vs DayZ Mod
 
-Before going any further, it’s important to make a distinction between [DayZ Standalone](https://store.steampowered.com/app/221100/DayZ/){: target="_blank"} and the DayZ mod.
+Before going any further, it’s important to make a distinction between [DayZ Standalone](https://store.steampowered.com/app/221100/DayZ/){: target="\_blank"} and the DayZ mod.
 
 Before it was a standalone game, DayZ began as a mod for the popular game ARMA 2. In order to play the DayZ mod, you’ll need to own ARMA 2 as well.
 
@@ -87,25 +87,25 @@ Before it was a standalone game, DayZ began as a mod for the popular game ARMA 2
 
 Due to the success of the mod, development of a standalone DayZ game began. The standalone version features a number of differences, including an updated game engine and map, many more enterable buildings and other improvements.
 
-Although both games have the same name, they have a number of differences and you may prefer one over the other. The version we are referring to in this article is DayZ standalone. 
+Although both games have the same name, they have a number of differences and you may prefer one over the other. The version we are referring to in this article is DayZ standalone.
 
-## How We Chose 
+## How We Chose
 
 Unlike hosting your own server, when it comes to renting, there are an almost overwhelming number of options and features to consider.
 
-Because of this variety, it is difficult to crown one hosting provider as superior to all others. 
+Because of this variety, it is difficult to crown one hosting provider as superior to all others.
 
-Like many things, you may find your company preference is greatly influenced by the goals and objectives you have for your server. 
+Like many things, you may find your company preference is greatly influenced by the goals and objectives you have for your server.
 
 <img class="img-right img-small lazyload" alt="Server" data-src="/img/game-hosts/dayz/server.jpg">
 
-You might be in pursuit of the best performance, cheapest server, or a great modded experience. 
+You might be in pursuit of the best performance, cheapest server, or a great modded experience.
 
 Because of this, we selected five different providers that provide a variety of features. In our decision, we factored [cost](/game-hosts/cost/), performance, support, server locations, and other components.
 
 One server provider may stick out to you above the others for its features, which is why we included five varying server companies to choose from.
 
-## Best DayZ Server Hosting 
+## Best DayZ Server Hosting
 
 Here is a table comparing the best DayZ hosting companies:
 
@@ -164,9 +164,10 @@ If the server’s stock performance isn’t enough for you, upgrades are availab
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://www.gtxgaming.co.uk/clientarea/aff.php?aff=1612">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/gtx-gaming/">READ REVIEW</a>
-</div> 
+</div>
 
-## DayZ Server Hosting PC 
+## DayZ Server Hosting PC
+
 {% include citadel-servers.html %}
 
 Despite the console option, most DayZ players are likely to use a computer. If you’re looking for a PC server rental, then Citadel Servers provides great options.
@@ -181,24 +182,24 @@ Free DDOS protection and the ability to add a dedicated IP address round out thi
   <a target="_blank" class="big-button-center" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a>
 </div>
 
-## DayZ Standalone Modded Server Hosting 
+## DayZ Standalone Modded Server Hosting
 
 {% include host-havoc.html %}
 
-If you’re looking for cheap DayZ server hosting with great mod support, then [Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target="_blank"} is an excellent choice.
+If you’re looking for cheap DayZ server hosting with great mod support, then [Host Havoc](https://hosthavoc.com/billing/aff.php?aff=1379){: target="\_blank"} is an excellent choice.
 
-This provider offers DayZ servers starting 20 slots for $18.50 a month, increasing up to 80 slots. They have 11 servers across North America and Europe, including one in Oceania. 
+This provider offers DayZ servers starting 20 slots for $18.50 a month, increasing up to 80 slots. They have 11 servers across North America and Europe, including one in Oceania.
 
-Mod installation is a relatively simple [process](https://hosthavoc.com/billing/index.php/knowledgebase/215/How-to-install-mods-on-your-DayZ-server.html){: target="_blank"}. Simply gather mod ID’s from the Steam workshop, then input them into the server control panel’s Workshop Mod Handler. A couple more steps, and installation is finished. 
+Mod installation is a relatively simple [process](https://hosthavoc.com/billing/index.php/knowledgebase/215/How-to-install-mods-on-your-DayZ-server.html){: target="\_blank"}. Simply gather mod ID’s from the Steam workshop, then input them into the server control panel’s Workshop Mod Handler. A couple more steps, and installation is finished.
 
-Host Havoc also offers free DDOS protection and a 72-hour money back guarantee if you’re not totally satisfied. 
+Host Havoc also offers free DDOS protection and a 72-hour money back guarantee if you’re not totally satisfied.
 
-Their service is also great, with an average response time of under 15 minutes. 
+Their service is also great, with an average response time of under 15 minutes.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">READ REVIEW</a>
-</div> 
+</div>
 
 ## DayZ Server Hosting PS4/Xbox
 
@@ -273,7 +274,7 @@ Some providers don’t offer mod support at all, while others offer support and 
 
 Lastly, little additions such as a dedicated IP or VIP support upgrades can be useful if you’re interested in such quality-of-life improvements.
 
-## DayZ Standalone Private Server Hosting 
+## DayZ Standalone Private Server Hosting
 
 If you’d prefer your own server over a community or official server, the first option you have is to create and host a server on your own computer.
 
@@ -289,13 +290,13 @@ Next, you’ll need to create a batch file. To do this, right-click and create a
 
 After this, you can open the “serverDZ.cfg” file. This allows you to configure settings such as max players, server name, time, etc.
 
-Next, you’ll need to open ports. The DayZ Server file normally does this automatically. However, you can check by going to “Windows Defender Firewall”. 
+Next, you’ll need to open ports. The DayZ Server file normally does this automatically. However, you can check by going to “Windows Defender Firewall”.
 
 Select the advanced options, and look at the inbound rules tab. You should be able to see DayZ Server on the list.
 
 Finally, you can start the server. Simply double click the start.bat file, and the server should open.
 
-If you’re hosting your own server, you’ll need to keep in mind the server is only open when your computer is on and the program is running. 
+If you’re hosting your own server, you’ll need to keep in mind the server is only open when your computer is on and the program is running.
 
 This may be a problem if you do not have a computer dedicated to hosting and are trying to run a large server with many players.
 
@@ -315,7 +316,7 @@ If you survive all this, you’ll still have to contend with other players onlin
 
 Needless to say, this game is not for the faint of heart, rather the hardened survivalist. Despite this, there’s nothing more satisfying than looting up, acquiring weapons, and coming out on top in a heart-pounding PVP battle.
 
-## Frequently Asked Questions 
+## Frequently Asked Questions
 
 DayZ server hosting can be a tricky business, with lots of confusing topics.
 
@@ -323,7 +324,7 @@ In the sections below, we’ll answer some frequently asked questions about DayZ
 
 ### Can I make my own server on DayZ?
 
-Yes, creating your own server for DayZ is entirely possible. Naturally, you have to own the DayZ standalone game before you can set up your own server. 
+Yes, creating your own server for DayZ is entirely possible. Naturally, you have to own the DayZ standalone game before you can set up your own server.
 
 If you have the game, it’s just a matter of downloading some software and taking a couple more steps to set it up.
 
@@ -337,7 +338,7 @@ For a quick overview of how to set up a server, check out the section above on p
 
 This is a common question, but there’s no one right answer for how much it costs to RENT A SERVER.
 
-It all depends on your needs and goals as a server owner. 
+It all depends on your needs and goals as a server owner.
 
 If you’d just like a small server for you and a few friends, you could go as low as $5-6 a month. Every add-on will increase the cost though.
 
@@ -349,11 +350,11 @@ For a large server with around 100 players, renting could cost well over $100 pe
 
 Unfortunately, DayZ is a rather resource-hungry game, and this translates to higher server hosting requirements as well.
 
-The huge map size along with the graphical demands of the game require a large amount of RAM to run properly. This means that any server requires a large amount of RAM due to the map, but increases more slowly with additional players. 
+The huge map size along with the graphical demands of the game require a large amount of RAM to run properly. This means that any server requires a large amount of RAM due to the map, but increases more slowly with additional players.
 
 <img class="lazyload" alt="DayZ Map" data-src="/img/game-hosts/dayz/map.jpg">
 
-The devs have [stated](https://forums.dayz.com/topic/239635-dayz-server-files-documentation/?tab=comments#comment-2396573){: target="_blank"} that the minimum amount of RAM required to run a DayZ server is 6 GB. However, you might be able to scrape by with around 5 GB if you have a smaller server with under 10 ten players.
+The devs have [stated](https://forums.dayz.com/topic/239635-dayz-server-files-documentation/?tab=comments#comment-2396573){: target="\_blank"} that the minimum amount of RAM required to run a DayZ server is 6 GB. However, you might be able to scrape by with around 5 GB if you have a smaller server with under 10 ten players.
 
 8-12 GB should work fine for around 20-40 players. For a server with around 50-60 players, aim for around 16 GB. If you want a huge server with 100 people, that might require 24-32 GB of RAM.
 
@@ -361,25 +362,25 @@ The devs have [stated](https://forums.dayz.com/topic/239635-dayz-server-files-do
 
 If you’re unfamiliar with how servers operate, a server restart may seem somewhat catastrophic. Luckily though, server restarts happen often and are no cause for alarm.
 
-Servers used to restart to reset item spawns, but this now happens entirely independently. Restarts are [performed](https://twitter.com/dayz/status/1036601775665676291?lang=en){: target="_blank"} to improve server stability and decrease crashes. 
+Servers used to restart to reset item spawns, but this now happens entirely independently. Restarts are [performed](https://twitter.com/dayz/status/1036601775665676291?lang=en){: target="\_blank"} to improve server stability and decrease crashes.
 
-Just before a server restarts, it will perform a final save. Anything that occurs after the save but before the restart will not be preserved. 
+Just before a server restarts, it will perform a final save. Anything that occurs after the save but before the restart will not be preserved.
 
-However, any items and progress made before the save will be kept, so no need to worry about losing your progress. 
+However, any items and progress made before the save will be kept, so no need to worry about losing your progress.
 
-### Can you play DayZ offline? 
+### Can you play DayZ offline?
 
 Currently, there is no “official” method to play DayZ offline. This feature was implemented when the game was in beta, but hasn’t been updated since. As such, it’s not functional.
 
-There are a couple work-arounds to this issue though. An unofficial mod called the [DayZ Community Offline Mode](https://github.com/Arkensor/DayZCommunityOfflineMode){: target="_blank"} was created, but it’s not on the Steam Workshop. You must download it and install from github.
+There are a couple work-arounds to this issue though. An unofficial mod called the [DayZ Community Offline Mode](https://github.com/Arkensor/DayZCommunityOfflineMode){: target="\_blank"} was created, but it’s not on the Steam Workshop. You must download it and install from github.
 
 <img class="img-right img-small lazyload" alt="LAN Network" data-src="/img/game-hosts/dayz/lan.jfif">
 
-Alternatively, you can host a [lan server](https://steamcommunity.com/app/221100/discussions/0/1744482417424154077/){: target="_blank"} on your computer. This isn’t an ideal fix, but you can just play by yourself, or add friends by port forwarding.
+Alternatively, you can host a [lan server](https://steamcommunity.com/app/221100/discussions/0/1744482417424154077/){: target="\_blank"} on your computer. This isn’t an ideal fix, but you can just play by yourself, or add friends by port forwarding.
 
 {% include games.html %}
 
-## Conclusion 
+## Conclusion
 
 DayZ is a hardcore survival game where the zombies aren’t even the biggest threat. However, survival is much more entertaining with other people, whether you’re exploring together or getting ambushed by a clan.
 
@@ -389,4 +390,4 @@ The best way to control your experience is hosting your own server. If you have 
 
 Otherwise, you can choose to rent a DayZ server from a variety of providers. Whether you’d like a small server for friends, or a massive public server, server companies offer features for any size server.
 
-Elements like DDOS protection, game back-ups, hardware upgrades, and mod support are all available to provide an experience tailored to your needs. 
+Elements like DDOS protection, game back-ups, hardware upgrades, and mod support are all available to provide an experience tailored to your needs.

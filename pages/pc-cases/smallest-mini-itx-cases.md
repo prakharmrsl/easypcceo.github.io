@@ -2,7 +2,7 @@
 title: The Smallest Mini ITX Cases (2020)
 permalink: "/pc-cases/smallest-mini-itx-cases/"
 layout: page
-seotitle: "5 Smallest Mini ITX Cases 2020 (Thin & Tiny)" 
+seotitle: "5 Smallest Mini ITX Cases 2020 (Thin & Tiny)"
 meta: "In this article we're taking a look at some of the smallest mini-ITX case options on the market in 2020. "
 ---
 
@@ -24,18 +24,6 @@ meta: "In this article we're taking a look at some of the smallest mini-ITX case
   <li><a href="#are-mini-itx-cases-worth-it" id="markdown-toc-are-mini-itx-cases-worth-it">Are Mini-ITX Cases Worth It?</a></li>
   <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
-
-Here's the deal: 
-
-You want to build a PC in a slim and portable Mini-ITX case. 
-
-I don't blame you - Mini-ITX cases are growing increasingly popular, and for good reason. 
-
-Why build a gaming PC in a 50 pound monstrosity full tower when you can put your parts in something thin and portable?
-
-In this article, we're going to take a look at 5 of the best (and the smallest) Mini ITX case options on the market.
-
-Let's dive in: 
 
 ## Top 3 Mini-ITX Cases
 
@@ -78,17 +66,29 @@ Let's dive in:
   </tr>
 </table>
 
+Here's the deal:
+
+You want to build a PC in a slim and portable Mini-ITX case.
+
+I don't blame you - Mini-ITX cases are growing increasingly popular, and for good reason.
+
+Why build a gaming PC in a 50 pound monstrosity full tower when you can put your parts in something thin and portable?
+
+In this article, we're going to take a look at 5 of the best (and the smallest) Mini ITX case options on the market.
+
+Let's dive in:
+
 ## What is a Mini-ITX Case?
 
-[Mini-ITX motherboards](https://en.wikipedia.org/wiki/Mini-ITX){: target="_blank"} are the smallest form factor in computing, and are designed to support relatively low-cost computers in cramped environments without adequate space for a larger computer.
+[Mini-ITX motherboards](https://en.wikipedia.org/wiki/Mini-ITX){: target="\_blank"} are the smallest form factor in computing, and are designed to support relatively low-cost computers in cramped environments without adequate space for a larger computer.
 
 Because cases are designed to house [motherboards](/motherboard/) (and the rest of your components attached to it), cases are also measured with Mini-ITX, Micro-ATX and ATX form factors .
 
-Mini-ITX cases are the smallest case on the market - they're portable (one of the cases on our list can even fit in a backpack) and are small enough to actually fit on your desk. 
+Mini-ITX cases are the smallest case on the market - they're portable (one of the cases on our list can even fit in a backpack) and are small enough to actually fit on your desk.
 
-On the flip side, full tower ATX cases are massive, some weighing north of 50 lbs and can be several feet tall. 
+On the flip side, full tower ATX cases are massive, some weighing north of 50 lbs and can be several feet tall.
 
-There are pros and cons to each form factor that we'll explore later in the post, but there is no "best form factor" - there is only the best form factor for you. 
+There are pros and cons to each form factor that we'll explore later in the post, but there is no "best form factor" - there is only the best form factor for you.
 
 <div class="quick-tip">
   <h4>Quick Tip<i class="box-icon-spacing fas fa-check"></i></h4>
@@ -104,28 +104,29 @@ There are pros and cons to each form factor that we'll explore later in the post
 </div>
 
 ## Mini-ITX vs Micro-ATX vs ATX
+
 <figure>
 <img class="lazyload" alt="mini itx vs micro atx vs atx" data-src="/img/cases/smallest-itx/vs.png">
 <figcaption><p>Source: <a target="_blank" href="https://techguided.com/micro-atx-vs-mini-itx-vs-atx/">Tech Guided</a></p></figcaption>
 </figure>
 
-ATX cases are the largest on the market, followed by Micro-ATX and Mini-ITX. 
+ATX cases are the largest on the market, followed by Micro-ATX and Mini-ITX.
 
-Here are their sizes: 
+Here are their sizes:
 
-* **Standard ATX:** 12" x 9.6"
-* **Micro-ATX:** 9.6" x 9.6"
-* **Mini-ITX:** 6.7" x 6.7"
+- **Standard ATX:** 12" x 9.6"
+- **Micro-ATX:** 9.6" x 9.6"
+- **Mini-ITX:** 6.7" x 6.7"
 
-mATX boards are the same width as regular ATX boards but are a couple of inches shorter. ATX motherboards, given their larger size, can accommodate more PCIe slots and are better candidates for [SLI/Crossfire](https://www.pcgamesn.com/amd-crossfire-vs-nvidia-sli){: target="_blank"} setups. 
+mATX boards are the same width as regular ATX boards but are a couple of inches shorter. ATX motherboards, given their larger size, can accommodate more PCIe slots and are better candidates for [SLI/Crossfire](https://www.pcgamesn.com/amd-crossfire-vs-nvidia-sli){: target="\_blank"} setups.
 
-mITX boards are shorter both length and width than their counterparts, and are best suited for extremely tiny PC builds that are meant to be small and compact. 
+mITX boards are shorter both length and width than their counterparts, and are best suited for extremely tiny PC builds that are meant to be small and compact.
 
 By the way, we have guides on the [smallest Micro-ATX cases](/pc-cases/smallest-micro-atx-cases/) and the [smallest ATX cases](/pc-cases/smallest-atx-cases/) if you want to check those articles out as well.
 
 ## Best ITX Cases Video Reviews
 
-Here's a video overview of the cases I mentioned in this article. This guy is awesome: 
+Here's a video overview of the cases I mentioned in this article. This guy is awesome:
 
 <div class="vid-container">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/WJqSHysUAY0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -218,21 +219,21 @@ Here's a video overview of the cases I mentioned in this article. This guy is aw
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-First of all, the case doesn't use sheet metal - instead it uses extruded aluminum panels that are thicker and higher quality than traditional aluminum. They give the case a more premium feel all around. 
+First of all, the case doesn't use sheet metal - instead it uses extruded aluminum panels that are thicker and higher quality than traditional aluminum. They give the case a more premium feel all around.
 
-The base configuration is 8.2 liters in volume and uses a sandwich style layout where the motherboard and PSU are in one compartment and there is a separate compartment for the GPU. 
+The base configuration is 8.2 liters in volume and uses a sandwich style layout where the motherboard and PSU are in one compartment and there is a separate compartment for the GPU.
 
 It's the most premium case I've reviewed, including mid tower and full tower cases. The build quality and feel is just tremendous.
 
-In addition the case is modular. The top, vertical extension called a tophat can be used to house case fans, a radiator, or storage drives if you wish, which is pretty darn cool if you ask me. 
+In addition the case is modular. The top, vertical extension called a tophat can be used to house case fans, a radiator, or storage drives if you wish, which is pretty darn cool if you ask me.
 
-The tophats can be added to the top or the bottom, so if you've already maxed out the room on top with fans, you can add more hard drives to the bottom hat, for example. 
+The tophats can be added to the top or the bottom, so if you've already maxed out the room on top with fans, you can add more hard drives to the bottom hat, for example.
 
-This becomes especially useful when you want to upgrade and are running out of room. 
+This becomes especially useful when you want to upgrade and are running out of room.
 
-Rather than needing to take all of your components out and put them in a new case, you can simply add more room. 
+Rather than needing to take all of your components out and put them in a new case, you can simply add more room.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/2V0H2vR">View on Amazon</a>
@@ -322,23 +323,23 @@ Rather than needing to take all of your components out and put them in a new cas
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 Cooling the CPU is the biggest issue when it comes to these smaller cases because you don't have room for large coolers or normal radiator space. But if there's one thing the M1 does right, it's CPU cooling.
 
-You can fit up to a Noctua U9S or C14S quite well. 
+You can fit up to a Noctua U9S or C14S quite well.
 
-Liquid cooling is even more impressive - the M1 can fit up to a 240mm [AIO](https://www.topflightpc.com/blog/risk-when-using-an-aio-for-cpu-cooling){: target="_blank"}, in addition to dual intake fans blowing air up into the case, meaning you can run a 9900K overclocked to 4.9 GHz at 1.25 volts with ease. 
+Liquid cooling is even more impressive - the M1 can fit up to a 240mm [AIO](https://www.topflightpc.com/blog/risk-when-using-an-aio-for-cpu-cooling){: target="\_blank"}, in addition to dual intake fans blowing air up into the case, meaning you can run a 9900K overclocked to 4.9 GHz at 1.25 volts with ease.
 
-If you're considering overclocking the Ryzen 3000 series CPUs (the 12 core and 16 core CPUs) prioritizing cooling for them is incredibly important, and surprisingly, this ITX case gets the job done without issue. 
+If you're considering overclocking the Ryzen 3000 series CPUs (the 12 core and 16 core CPUs) prioritizing cooling for them is incredibly important, and surprisingly, this ITX case gets the job done without issue.
 
-But that's not all: 
+But that's not all:
 
-The M1 can accommodate another 240mm radiator on the side of the case, meaning if you want to liquid cool both your CPU and GPU with separate 120mm coolers, you can do that too. 
+The M1 can accommodate another 240mm radiator on the side of the case, meaning if you want to liquid cool both your CPU and GPU with separate 120mm coolers, you can do that too.
 
-Better still, this case has three expansion slots, so you can fit a thick, powerful GPU like the EVGA 2080 Ti XC Ultra. 
+Better still, this case has three expansion slots, so you can fit a thick, powerful GPU like the EVGA 2080 Ti XC Ultra.
 
-All in all, the Ncase M1 is the best case hands down when it comes to pure performance. If you're going to use your mITX case to house some beefy parts, this is the case for you. 
+All in all, the Ncase M1 is the best case hands down when it comes to pure performance. If you're going to use your mITX case to house some beefy parts, this is the case for you.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://ncases.com/products/m1">View on Ncase.com</a>
@@ -430,17 +431,17 @@ All in all, the Ncase M1 is the best case hands down when it comes to pure perfo
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-The graphics card can be up to 210mm in length - that may not seem like a lot, but that means this case can accommodate a card like the RTX 2070 Mini or the Zotac 1080 ti Mini. 
+The graphics card can be up to 210mm in length - that may not seem like a lot, but that means this case can accommodate a card like the RTX 2070 Mini or the Zotac 1080 ti Mini.
 
-For storage you can fit up to two 2.5" drives. CPU cooling is the biggest compromise, as the cooler height maxes out at 45mm which doesn't seem like a lot, but you can still accommodate noctua L9i or L9a (depending on which CPU you go with) and can comfortably cool an i5 or Ryzen 5 CPU, which is adequate for 95% of games. 
+For storage you can fit up to two 2.5" drives. CPU cooling is the biggest compromise, as the cooler height maxes out at 45mm which doesn't seem like a lot, but you can still accommodate noctua L9i or L9a (depending on which CPU you go with) and can comfortably cool an i5 or Ryzen 5 CPU, which is adequate for 95% of games.
 
-With a case like this portability is incredibly important, which is why the Skyreach 4 Mini's  lightweight yet strong material is awesome. 
+With a case like this portability is incredibly important, which is why the Skyreach 4 Mini's lightweight yet strong material is awesome.
 
-This case is too small to fit even an SFX power supply, which may throw some of you off - instead, it uses a special power supply called an HDPlex 400AC, but you don't need a power brick for the PSU. 
+This case is too small to fit even an SFX power supply, which may throw some of you off - instead, it uses a special power supply called an HDPlex 400AC, but you don't need a power brick for the PSU.
 
-ALthough the price is pretty high for what you're getting, its compact size is uncontested by any case on the market. No other case is just 5 liters, no other case can fit in a backpack, and considering this tiny thing can still house an RTX 2070, it's clearly well designed. 
+ALthough the price is pretty high for what you're getting, its compact size is uncontested by any case on the market. No other case is just 5 liters, no other case can fit in a backpack, and considering this tiny thing can still house an RTX 2070, it's clearly well designed.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://nfc-systems.com/skyreach-4-mini">View on NFC Systems Website</a>
@@ -528,17 +529,17 @@ ALthough the price is pretty high for what you're getting, its compact size is u
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-You don't need more than a 9700K or a 2700X for a gaming machine, but you can run them in this thing if you want with a liquid cooler. 
+You don't need more than a 9700K or a 2700X for a gaming machine, but you can run them in this thing if you want with a liquid cooler.
 
 Believe it or not, you can water cool the CPU with a 92 mil AIO. But be careful with [cable management](/pc-cases/does-cable-management-matter/), as the stock 24pin cables can be a bit of a nightmare to manage with the liquid cooler installed.
 
-This case can accommodate two slot GPUs up to 295mm in length, meaning you can run a 2080 Ti in here. 
+This case can accommodate two slot GPUs up to 295mm in length, meaning you can run a 2080 Ti in here.
 
-The Dan A4 popularized the sandwich configuration where you've got the GPU separate from the motherboard and power supply. 
+The Dan A4 popularized the sandwich configuration where you've got the GPU separate from the motherboard and power supply.
 
-It's hard to argue hardware optimization gets any better than the A4, and for a gaming build, even a high end gaming machine, you don't need much more than what's offered in the Dan A4. 
+It's hard to argue hardware optimization gets any better than the A4, and for a gaming build, even a high end gaming machine, you don't need much more than what's offered in the Dan A4.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://www.dan-cases.com/dana4.php">View on Amazon</a>
@@ -627,48 +628,49 @@ It's hard to argue hardware optimization gets any better than the A4, and for a 
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
 You can still fit some bigger components in this case like radiators and bigger GPUs, but considering the QBX is 20 liters as opposed to 12.5 liters, the space optimization isn't as good.
 
-In addition, the Cougar QBX is made of plastic, lacking the same build quality as the solid aluminum M1. 
+In addition, the Cougar QBX is made of plastic, lacking the same build quality as the solid aluminum M1.
 
-Still, for such a low price, I'd consider the QBX to be pretty darn good for the price. If you want to build a budget Mini-ITX gaming machine, this is definitely a great case to consider. You can water cool with the QBX since it supports a 240mm AIO, or dual 120mm radiators. 
+Still, for such a low price, I'd consider the QBX to be pretty darn good for the price. If you want to build a budget Mini-ITX gaming machine, this is definitely a great case to consider. You can water cool with the QBX since it supports a 240mm AIO, or dual 120mm radiators.
 
-Despite the side panels being plastic, I think the brushed finish looks pretty good and it's fingerprint resistant. 
+Despite the side panels being plastic, I think the brushed finish looks pretty good and it's fingerprint resistant.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://amzn.to/3aNfFvO">View on Amazon</a>
 </div>
 
 ## Advantages of Mini-ITX Cases
+
 <img class="lazyload" alt="advantages of mini itx cases" data-src="/img/cases/smallest-itx/advantages.jpg">
 
-Mini-ITX cases are growing increasingly popular among members of the PC Master Race, and for good reason. They bring a ton of benefits to the table that other form factors like Micro-ATX and ATX don't. 
+Mini-ITX cases are growing increasingly popular among members of the PC Master Race, and for good reason. They bring a ton of benefits to the table that other form factors like Micro-ATX and ATX don't.
 
-Let's talk about it: 
+Let's talk about it:
 
 ### Saves Space (Duh)
 
-This one is pretty obvious, but I thought I'd include it anyway. Unlike gigantic full tower and even mid tower cases, Mini-ITX cases are small and tiny. They don't take up much space, which is great if you're gaming without a lot of real estate to work with. 
+This one is pretty obvious, but I thought I'd include it anyway. Unlike gigantic full tower and even mid tower cases, Mini-ITX cases are small and tiny. They don't take up much space, which is great if you're gaming without a lot of real estate to work with.
 
-You could stack three Mini-ITX cases on top of each other, and they still wouldn't be as big as a standard ATX case. 
+You could stack three Mini-ITX cases on top of each other, and they still wouldn't be as big as a standard ATX case.
 
-But here's the kicker: 
+But here's the kicker:
 
-You can even put your Mini-ITX case on your desk - crazy, right? 
+You can even put your Mini-ITX case on your desk - crazy, right?
 
 ### Lighter
 
-Mini-ITX cases are also going to be much lighter than a standard ATX case. Even [small ATX cases](/pc-cases/smallest-atx-cases/) are heavy. 
+Mini-ITX cases are also going to be much lighter than a standard ATX case. Even [small ATX cases](/pc-cases/smallest-atx-cases/) are heavy.
 
-Although weight probably shouldn't be a huge factor in your buying decision, it's still something to consider if you want to move your case around a lot (more on that below). 
+Although weight probably shouldn't be a huge factor in your buying decision, it's still something to consider if you want to move your case around a lot (more on that below).
 
-### More Portable 
+### More Portable
 
-Yeah, this one is obvious, but it's still one of the main advantages of using a Mini-ITX case. 
+Yeah, this one is obvious, but it's still one of the main advantages of using a Mini-ITX case.
 
-For example, full tower cases are monstruos in size, not to mention weight. While they're great for building enthusiast rigs with custom water loops, a lot of storage drives and huge graphics cards, you can basically throw portability out the window. 
+For example, full tower cases are monstruos in size, not to mention weight. While they're great for building enthusiast rigs with custom water loops, a lot of storage drives and huge graphics cards, you can basically throw portability out the window.
 
 Even mid tower ATX cases can get pretty heavy.
 
@@ -682,120 +684,121 @@ When I was younger I remember lugging my PC from my mom's house to my dad's hous
     </div>
 </div>
 
-With a Mini-ITX case - especially one with handles - moving it around is effortless. 
+With a Mini-ITX case - especially one with handles - moving it around is effortless.
 
-If you're the kind of gamer that likes to have LAN parties, or you can see yourself moving your new PC around a lot, then I'd highly recommend going with a Mini-ITX case. 
+If you're the kind of gamer that likes to have LAN parties, or you can see yourself moving your new PC around a lot, then I'd highly recommend going with a Mini-ITX case.
 
 ### Cheaper (Generally)
 
-Generally speaking the smaller the case, the less material goes into making it. The less material that goes into making it, the cheaper it is. 
+Generally speaking the smaller the case, the less material goes into making it. The less material that goes into making it, the cheaper it is.
 
-Simple, small cases are usually cheaper than giant, elaborate cases with tons of features which take more time and energy to properly machine. 
+Simple, small cases are usually cheaper than giant, elaborate cases with tons of features which take more time and energy to properly machine.
 
-There are of course exceptions to the rule, but for the most part, Mini-ITX cases are great for budget builders. 
+There are of course exceptions to the rule, but for the most part, Mini-ITX cases are great for budget builders.
 
-### Super Cool 
+### Super Cool
 
-Last but not least, Mini-ITX cases are (in my opinion) dope. Most people go the standard route with a traditional mid tower case. 
+Last but not least, Mini-ITX cases are (in my opinion) dope. Most people go the standard route with a traditional mid tower case.
 
 Others may be more adventurous, building in an [inverted PC case](/pc-cases/inverted/) - but I don't think anything is cooler than building a mini gaming PC.
 
-They're portable, unique, and they can actually fit on your desk… who would've thought? 
+They're portable, unique, and they can actually fit on your desk… who would've thought?
 
 If you're the kind of person that likes to stand out, and show your unique personality, a Mini-ITX case is a great way to do just that.
 
 ## Disadvantages of Mini-ITX Cases
+
 <img class="lazyload" alt="disadvantages of mini itx cases" data-src="/img/cases/smallest-itx/disadvantages.jpg">
 
-While Mini-ITX cases are awesome, they have some down sides too. 
+While Mini-ITX cases are awesome, they have some down sides too.
 
-### Not all Components Will Fit 
+### Not all Components Will Fit
 
-First of all, not all large GPUs will fit inside your case. That tri-fan Titan X you've got your eye on? Yeah, you can forget about it. 
+First of all, not all large GPUs will fit inside your case. That tri-fan Titan X you've got your eye on? Yeah, you can forget about it.
 
-It's not all bad in this department though, as most GPU manufacturers have tiny versions of their graphics cards to accommodate small enclosures. 
+It's not all bad in this department though, as most GPU manufacturers have tiny versions of their graphics cards to accommodate small enclosures.
 
-You will also need to consider the height of your CPU cooler, especially if you're using a thin ITX case. 
+You will also need to consider the height of your CPU cooler, especially if you're using a thin ITX case.
 
-Room for fans and hard drives is another hurdle, although the cases I've recommended on this list make great use of the space available to them. 
+Room for fans and hard drives is another hurdle, although the cases I've recommended on this list make great use of the space available to them.
 
-Building in a small case isn't the end of the world, but it's something to keep in mind when you're choosing your components. Websites like [PC Part Picker](https://pcpartpicker.com/){: target="_blank"} will usually tell you something is too long or too tall. 
+Building in a small case isn't the end of the world, but it's something to keep in mind when you're choosing your components. Websites like [PC Part Picker](https://pcpartpicker.com/){: target="\_blank"} will usually tell you something is too long or too tall.
 
-### Mini-ITX has Less Room for Expansion 
+### Mini-ITX has Less Room for Expansion
 
-Even if your case has enough space for the parts you initially select, odds are your upgrade options will be severely limited. 
+Even if your case has enough space for the parts you initially select, odds are your upgrade options will be severely limited.
 
-It's difficult to find a Mini-ITX case that supports SLI setups, insane water cooling rigs, etc. 
+It's difficult to find a Mini-ITX case that supports SLI setups, insane water cooling rigs, etc.
 
-Then again, most people building in a Mini-ITX case are doing it for the convenience of their portability, not because they want to build the most powerful PC on earth. 
+Then again, most people building in a Mini-ITX case are doing it for the convenience of their portability, not because they want to build the most powerful PC on earth.
 
-### Cramped Space Means More Heat 
+### Cramped Space Means More Heat
 
-Cooling is easily one of the biggest issues that plagues many ITX cases. 
+Cooling is easily one of the biggest issues that plagues many ITX cases.
 
-With limited space for fans and cramped conditions inside the case, airflow is typically restricted. 
+With limited space for fans and cramped conditions inside the case, airflow is typically restricted.
 
-Poor airflow is another reason why many mITX cases aren't designed for ultra powerful builds. 
+Poor airflow is another reason why many mITX cases aren't designed for ultra powerful builds.
 
 If you plan on pushing your components to the limit with extreme overclocking, they're going to give off a lot of heat, in which case you're better off using a more spacious case with better airflow.
 
-Don't get me wrong, some mITX have stupendous airflow, but they're few and far between, at least when compared to the airflow of their larger ATX counterparts. 
+Don't get me wrong, some mITX have stupendous airflow, but they're few and far between, at least when compared to the airflow of their larger ATX counterparts.
 
-### More Challenging to Work On 
+### More Challenging to Work On
 
-Lastly, Mini-ITX cases are more challenging to work on than traditional ATX cases, because they're more cramped and have more imaginative (and sometimes confusing) designs. 
+Lastly, Mini-ITX cases are more challenging to work on than traditional ATX cases, because they're more cramped and have more imaginative (and sometimes confusing) designs.
 
-That's why I usually recommend beginner builders follow our awesome guide to [building a gaming PC for the first time](/budget-pcs/), and use a spacious mid tower case. 
+That's why I usually recommend beginner builders follow our awesome guide to [building a gaming PC for the first time](/budget-pcs/), and use a spacious mid tower case.
 
-## Is Mini-ITX Smaller than Micro-ATX? 
+## Is Mini-ITX Smaller than Micro-ATX?
 
-Yes, Mini-ITX is the smallest kind of PC case. It's the opposite of a full tower case which is the largest type of PC case on the market. PC case sizes are measured compared to the motherboard sizes they can support. 
+Yes, Mini-ITX is the smallest kind of PC case. It's the opposite of a full tower case which is the largest type of PC case on the market. PC case sizes are measured compared to the motherboard sizes they can support.
 
-Full tower ATX cases can support full-sized ATX and even E-ATX motherboards, whereas small Mini-ITX cases can only support ITX motherboards. 
+Full tower ATX cases can support full-sized ATX and even E-ATX motherboards, whereas small Mini-ITX cases can only support ITX motherboards.
 
 ## Is Mini-ITX Good for Gaming?
 
-Generally speaking, Mini-ITX is no better or worse for gaming than any other case, since the case doesn't have a direct impact on performance - the components inside your case are what determine your gaming performance. 
+Generally speaking, Mini-ITX is no better or worse for gaming than any other case, since the case doesn't have a direct impact on performance - the components inside your case are what determine your gaming performance.
 
-However, the size of your case *does* have an indirect impact on gaming performance.
+However, the size of your case _does_ have an indirect impact on gaming performance.
 
-Here's what I mean: 
+Here's what I mean:
 
-As mentioned above, Mini-ITX cases limit the kinds of components that you can use. A smaller case means not all GPUs will fit, so you'll have to carefully select your graphics card if you're building a gaming PC. 
+As mentioned above, Mini-ITX cases limit the kinds of components that you can use. A smaller case means not all GPUs will fit, so you'll have to carefully select your graphics card if you're building a gaming PC.
 
-That tri-fan Titan X you have your eye on? Hate to break it to you, but it probably won't fit. 
+That tri-fan Titan X you have your eye on? Hate to break it to you, but it probably won't fit.
 
-But don't get discouraged - a lot of GPU manufacturers are hip to ITX builds and as a result have a host of small form factor GPUs to choose from. 
+But don't get discouraged - a lot of GPU manufacturers are hip to ITX builds and as a result have a host of small form factor GPUs to choose from.
 
-Another issue is cooling - a smaller case will generally have less room to mount fans, less clearance space for powerful air coolers not to mention water coolers, and worse airflow overall. 
+Another issue is cooling - a smaller case will generally have less room to mount fans, less clearance space for powerful air coolers not to mention water coolers, and worse airflow overall.
 
-You may need to spend more money to get a top-tier Mini-ITX case that is small yet able to house the kind of components you're looking for. 
+You may need to spend more money to get a top-tier Mini-ITX case that is small yet able to house the kind of components you're looking for.
 
 Those cases do exist, however, and they're listed in the article above. If you can get your hands on a solid Mini-ITX case that has room for your parts and sufficient airflow, you're in business! Again, it all comes down to you, your wants/needs, and personal preferences.
 
-## Are Mini-ITX Cases Worth It? 
+## Are Mini-ITX Cases Worth It?
 
-There is no right or wrong answer to this question, there is only a right answer for you. 
+There is no right or wrong answer to this question, there is only a right answer for you.
 
-Here's what I mean: 
+Here's what I mean:
 
-If you want to build a unique gaming PC that's powerful, portable, and doesn't take up much space, then using a Mini-ITX case is a great idea (assuming it's a quality case). 
+If you want to build a unique gaming PC that's powerful, portable, and doesn't take up much space, then using a Mini-ITX case is a great idea (assuming it's a quality case).
 
 They're unique looking, small, and use space efficiently. But that convenience comes at a cost.
 
 The most obvious cost is the price (obviously) but there are a few other disadvantages that may hinder a beginner user from building in a tiny ITX case.
 
-Aside from being more expensive, they can be more difficult to build in and aren't as beginner friendly as an ATX case. 
+Aside from being more expensive, they can be more difficult to build in and aren't as beginner friendly as an ATX case.
 
-For beginner builders on a budget who don't want anything too tricky, going for an ATX case is a better option. That doesn't mean you have to buy a 10 foot tall monstrosity though - we've got a guide all about the smallest ATX cases that you'll probably love. They're small *and* easy to use. 
+For beginner builders on a budget who don't want anything too tricky, going for an ATX case is a better option. That doesn't mean you have to buy a 10 foot tall monstrosity though - we've got a guide all about the smallest ATX cases that you'll probably love. They're small _and_ easy to use.
 
-Or, if you want a case in between that's not too big or too small, check out our guide about the smallest Micro-ATX cases. 
+Or, if you want a case in between that's not too big or too small, check out our guide about the smallest Micro-ATX cases.
 
-## Conclusion 
+## Conclusion
 
 Mini-ITX cases have their pros and cons, but overall I think they're pretty awesome, especially if you want an on-the-go computer.
 
-It's pretty insane that you can build a gaming PC powerful enough to game in 4K resolution, *and* take it with you in your backpack. 
+It's pretty insane that you can build a gaming PC powerful enough to game in 4K resolution, _and_ take it with you in your backpack.
 
 I hope you found this guide informative. For more information on Easy PC, check out our [about](/about/) page and for questions, please feel free to [contact me](/contact/).
 

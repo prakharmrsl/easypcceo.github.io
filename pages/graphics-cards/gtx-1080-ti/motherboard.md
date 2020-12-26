@@ -1,8 +1,8 @@
 ---
-title: "The Best Motherboards for The GTX 1080 Ti" 
+title: "The Best Motherboards for The GTX 1080 Ti"
 permalink: "/graphics-cards/gtx-1080-ti/motherboard/"
 layout: page
-seotitle: "3 Best Motherboards for GTX 1080 Ti (2020)" 
+seotitle: "3 Best Motherboards for GTX 1080 Ti (2020)"
 meta: "Make sure you buy the best monitor for your GTX 1080 Ti, otherwise you're wasting your money!"
 redirect_to: /motherboard/gtx-1080-ti/
 ---
@@ -14,22 +14,47 @@ redirect_to: /motherboard/gtx-1080-ti/
 
 ![best motherboard for 1080 ti header graphic](/img/header/1080ti-motherboards.png){: .page-header}
 
-* TOC
-{: toc}
+- TOC
+  {: toc}
 
-The motherboard can seem like an all-important piece of machinery that will make or break the system to some, while others view it as another chance to save a couple of bucks. 
+## 3 Best Motherboards for 1080 Ti Graphics Card
 
-The reality is, like most components, it’s on a case by case basis. 
+<table class="basic-table" align="center">
+	<tr>
+		<th>Motherboard</th>
+		<th>Image</th>
+		<th>See Price</th>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2KvHHRh">Asus Prime Z370-P II</a></td>
+		<td><a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2KvHHRh">Check</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2Kwsqj8">Gigabyte X570 Gaming X</a></td>
+		<td><a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Kwsqj8">Check</a></td>
+	</tr>
+	<tr>
+		<td><a target="_blank" href="https://amzn.to/2Oek0xS">MSI Z390-A Pro</a></td>
+		<td><a target="_blank" href="https://amzn.to/2Oek0xS"><img class="lazyload table-image" alt="awesome intel motherboard for gtx 1080 ti" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/2Oek0xS">Check</a></td>
+	</tr>
+</table>
 
-Do you really need that $300 motherboard for your [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/), or can you settle down and sit pretty with a cheap $60 motherboard? 
+The motherboard can seem like an all-important piece of machinery that will make or break the system to some, while others view it as another chance to save a couple of bucks.
+
+The reality is, like most components, it’s on a case by case basis.
+
+Do you really need that $300 motherboard for your [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/), or can you settle down and sit pretty with a cheap $60 motherboard?
 
 Your motherboard really can make or break your system in some cases, so it’s definitely important that you make sure you choose what’s best for you based on the system you’ve got planned.
 
-And since you're investing in such a beefy [GPU](/graphics-cards/) like the 1080 Ti, you need the right motherboard for the job. 
+And since you're investing in such a beefy [GPU](/graphics-cards/) like the 1080 Ti, you need the right motherboard for the job.
 
-If you want the best motherboard for the GTX 1080 Ti, we recommend the [Asus Prime Z370-P II](https://amzn.to/2KvHHRh){: target="_blank"}.
+If you want the best motherboard for the GTX 1080 Ti, we recommend the [Asus Prime Z370-P II](https://amzn.to/2KvHHRh){: target="\_blank"}.
 
-It's by far the all-around best choice for the 1080 Ti. 
+It's by far the all-around best choice for the 1080 Ti.
 
 <div id="runner-up" class="featured-info-box">
 <span>Our Pick</span>
@@ -116,11 +141,11 @@ It's by far the all-around best choice for the 1080 Ti.
   </div>    
 </section>
 
-As usual, the war between Team Red and Team Blue rages on. 
+As usual, the war between Team Red and Team Blue rages on.
 
 AMD has been manipulating the market since its release of Ryzen, but for once it seems like Intel’s partners are pulling through, trying to get Intel to the undisputed top, and this motherboard definitely shows it.
 
-The Asus Prime Z370-P may not sport the integrated Wi-Fi or improved power delivery of the Z390, but it sure as hell proves itself as a worthy opponent. 
+The Asus Prime Z370-P may not sport the integrated Wi-Fi or improved power delivery of the Z390, but it sure as hell proves itself as a worthy opponent.
 
 While it does lack in the IO department for a $100USD motherboard, only running 4 USB ports (all at USB 3.1, however), it makes up for it with its PCIE lanes. This motherboard will have no problem supporting [our pick for the best CPU for the 1080 Ti](/graphics-cards/gtx-1080-ti/cpu/) either.
 
@@ -223,7 +248,7 @@ Moving down the board to the PCIE lanes, we can find a not-too-shabby two PCIE x
 
 Moving over by the SATA slots we can find 6 SATA III ports and a very interesting cooling solution beside them. Due to the improvements made on the X570 chipset, its massive heat output requires a little fan to keep it cool. Ain’t that neat.
 
-You'll need to make sure you're using a good power supply with this motherboard. We recommend checking out our guide on the [best power supplies for the 1080 Ti](/graphics-cards/gtx-1080-ti/power-supply/) while you're here. 
+You'll need to make sure you're using a good power supply with this motherboard. We recommend checking out our guide on the [best power supplies for the 1080 Ti](/graphics-cards/gtx-1080-ti/power-supply/) while you're here.
 
 Interestingly, those chipset improvements have allowed for much faster RAM than ever before and the Gaming X can support upwards of 4000MHz RAM, which is just absolutely insane to me.
 
@@ -318,7 +343,7 @@ This board’s also got RGB Fusion addressable RGB lighting, so go ham with all 
   </div>    
 </section>
 
-Similarly to our All-around choice, this motherboard supports LGA1151 CPUs, including native support for Intel's newer 8th and 9th Generation processors. 
+Similarly to our All-around choice, this motherboard supports LGA1151 CPUs, including native support for Intel's newer 8th and 9th Generation processors.
 
 This board’s got its ups and downs but it’s a solid overclocker and doesn’t have any problems in the heat department.
 
@@ -326,7 +351,7 @@ The IO sports an impressive 1 USB 3.1 Gen 2, 2 USB 3.1 Gen 1, and 2 USB 2.0 port
 
 Just like our other picks, the Z390-A Pro doesn’t lack in the PCIE department with its 2 PCIE x16 Gen 3 and 4 PCIE x1 slots. Just as with AMD’s board, above and below the PCIE slots you’ll find two M.2 slots.
 
-Heading over to the SATA ports, you’ll be getting your money’s worth with 6 SATA III ports. Though, we should note that the motherboard’s description says that Sata 2 will be disabled when M.2 is in use. And, the board supports [Intel Optane](https://www.laptopmag.com/articles/intel-optane-memory-faq){: target="_blank"}. Badass!
+Heading over to the SATA ports, you’ll be getting your money’s worth with 6 SATA III ports. Though, we should note that the motherboard’s description says that Sata 2 will be disabled when M.2 is in use. And, the board supports [Intel Optane](https://www.laptopmag.com/articles/intel-optane-memory-faq){: target="\_blank"}. Badass!
 
 In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely stand out with any other flashy features due to its relatively low price. Though, you can sleep sound knowing that your new board can support 4000MHz RAM and above.
 
@@ -334,41 +359,17 @@ In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely 
   <a target="_blank" class="big-button-center" href="https://amzn.to/2Oek0xS">Read Reviews on Amazon</a>
 </div>
 
-## 3 Best Motherboards for 1080 Ti Graphics Card
-
-<table class="basic-table" align="center">
-	<tr>
-		<th>Motherboard</th>
-		<th>Image</th>
-		<th>See Price</th>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2KvHHRh">Asus Prime Z370-P II</a></td>
-		<td><a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2KvHHRh">Check</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Kwsqj8">Gigabyte X570 Gaming X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Kwsqj8">Check</a></td>
-	</tr>
-	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Oek0xS">MSI Z390-A Pro</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Oek0xS"><img class="lazyload table-image" alt="awesome intel motherboard for gtx 1080 ti" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Oek0xS">Check</a></td>
-	</tr>
-</table>
-
 ## Finding a Motherboard for Your GPU
+
 <img alt="finding a motherboard for your GPU" class="lazyload img-right img-small" data-src="/img/gpu/1080ti/motherboard/gaming.png" />
 
-One simple thing you might not pay much attention to when buying a motherboard is the [PCIE](https://www.tomshardware.com/reviews/pcie-definition,5754.html){: target="_blank"} slots.
+One simple thing you might not pay much attention to when buying a motherboard is the [PCIE](https://www.tomshardware.com/reviews/pcie-definition,5754.html){: target="\_blank"} slots.
 
-Believe it or not, PCIE slots have different generations that operate at different speeds, and we’re currently in the middle of a generational shift. 
+Believe it or not, PCIE slots have different generations that operate at different speeds, and we’re currently in the middle of a generational shift.
 
 Though you may not have much problem with it when going for a brand new modern board, some older boards might have lower speed lanes that could hinder your performance.
 
-Gen 1 PCIE lanes are so rare that your probability of encountering them is astronomically low, so all you really need to know is that they’re slooow. 
+Gen 1 PCIE lanes are so rare that your probability of encountering them is astronomically low, so all you really need to know is that they’re slooow.
 
 As for Gen 2, they can be fairly common if you’re opting for last-gen hardware that utilizes DDR3 memory. Gen 2 is an okay speed for gaming, but your performance could be impacted when using higher-end cards or running non-gaming workloads.
 
@@ -382,17 +383,17 @@ Gen 4 isn’t exactly all that impactful for gaming performance. Not to say it d
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/5mCJ3uGNTAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-When you’re browsing online looking for a motherboard you should keep an eye out for chipsets for sure. 
+When you’re browsing online looking for a motherboard you should keep an eye out for chipsets for sure.
 
-In simple terms, you can think of chipsets like a hub for communication within the motherboard. 
+In simple terms, you can think of chipsets like a hub for communication within the motherboard.
 
 The chipset of your motherboard controls all inbound and outbound communication between the motherboard and its components, thus the importance of your chipset to component compatibility can be detrimental.
 
-For example, Intel CPUs with the K or KF designation are Unlocked, or overclock enabled, processors. But there’s a bit of a catch. 
+For example, Intel CPUs with the K or KF designation are Unlocked, or overclock enabled, processors. But there’s a bit of a catch.
 
 Say you go ahead and choose one of Intel’s H310, B360, or Q370 chipsets, you will not have access to overclocking even with a K series CPU.
 
-Again, on Intel’s side, chipsets can get a little confusing because of their first line of LGA1151 processors. 
+Again, on Intel’s side, chipsets can get a little confusing because of their first line of LGA1151 processors.
 
 The first couple of chipsets (H110, B150, Q150, H170, Q170, Z170) only support DDR3L memory which can be a bit difficult to find and has its own separate implications that we’d rather not get into.
 

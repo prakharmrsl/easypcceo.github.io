@@ -1,9 +1,9 @@
 ---
-title: "Best GMod Server Hosting" 
+title: "Best GMod Server Hosting"
 permalink: "/game-hosts/gmod/"
 layout: page
-seotitle: "5 Best GMod Server Hosting Companies (2020 Reviews)" 
-meta: "There are many great GMod Server Hosting companies to up your game, but this review will cover the top 5 providers." 
+seotitle: "5 Best GMod Server Hosting Companies (2020 Reviews)"
+meta: "There are many great GMod Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
 <div class="author-line">
@@ -22,20 +22,6 @@ meta: "There are many great GMod Server Hosting companies to up your game, but t
 </li>
 <li><a href="#conclusion" id="markdown-toc-conclusion">Conclusion</a></li>
 </ul>
-
-Long before Minecraft arrived on the scene, Garry’s Mod was redefining the genre of sandbox gaming. 
-
-It was originally developed back in 2004 as a mod for Half-life 2, by [Garry Newman](https://www.reddit.com/r/Games/comments/1dxfyq/hi_im_garry_newman_creator_of_garrys_mod_ama/){: target="_blank"}. This is where the game gets its name.
-
-One of the greatest strengths of Garry’s Mod is its compatibility with other mods and add-ons. The base game involves a sandbox physics simulator, where you can spawn in a variety of objects and models.
-
-Using a physics gun allows you to manipulate objects in any way you desire. You can build vehicles, construct cities, or make almost anything you want. The only limit is your imagination.
-
-However, the sandbox mode is just the beginning for Garry’s Mod. There are numerous add-ons and different game modes available to play.
-
-Like most games, GMod is better played with friends - in this article, we're taking a look at GMod server hosting. 
-
-Let's dive in!  
 
 ## Popular GMod Hosting
 
@@ -79,10 +65,25 @@ Let's dive in!
   </tr>
 </table>
 
-## Private GMod Hosting Options 
+Long before Minecraft arrived on the scene, Garry’s Mod was redefining the genre of sandbox gaming.
+
+It was originally developed back in 2004 as a mod for Half-life 2, by [Garry Newman](https://www.reddit.com/r/Games/comments/1dxfyq/hi_im_garry_newman_creator_of_garrys_mod_ama/){: target="\_blank"}. This is where the game gets its name.
+
+One of the greatest strengths of Garry’s Mod is its compatibility with other mods and add-ons. The base game involves a sandbox physics simulator, where you can spawn in a variety of objects and models.
+
+Using a physics gun allows you to manipulate objects in any way you desire. You can build vehicles, construct cities, or make almost anything you want. The only limit is your imagination.
+
+However, the sandbox mode is just the beginning for Garry’s Mod. There are numerous add-ons and different game modes available to play.
+
+Like most games, GMod is better played with friends - in this article, we're taking a look at GMod server hosting.
+
+Let's dive in!
+
+## Private GMod Hosting Options
+
 <img class="img-right img-small lazyload" alt="Garry's Mod" data-src="/img/game-hosts/gmod/gmod.png">
 
-The simplest solution if you just want to play with a couple friends is [hosting through Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=852214295){: target="_blank"}. To do this, simply start a new game, then invite your friends to join through Steam.
+The simplest solution if you just want to play with a couple friends is [hosting through Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=852214295){: target="\_blank"}. To do this, simply start a new game, then invite your friends to join through Steam.
 
 This is an easy option, but has a couple big drawbacks. Obviously, your friends will only be able to play when you have the game open. Additionally, this option is best for just a couple people, as it isn’t well optimized for large groups.
 
@@ -92,11 +93,11 @@ So if your game crashes while hosting through Steam, your friends will be kicked
 
 Unfortunately, you’ll still need to keep your computer running constantly to keep the server up, although this takes much less resources than the game itself.
 
-If you plan to host a public server for people other than your friends, make sure you are comfortable with [DDOS protection](https://www.reliablesite.net/hosting-news/ddos-attack-affects-dedicated-server/#.Xro2a2hKhPY){: target="_blank"} and network security. Members of the Garry’s Mod community have been known to attempt DDOS attacks on servers.
+If you plan to host a public server for people other than your friends, make sure you are comfortable with [DDOS protection](https://www.reliablesite.net/hosting-news/ddos-attack-affects-dedicated-server/#.Xro2a2hKhPY){: target="\_blank"} and network security. Members of the Garry’s Mod community have been known to attempt DDOS attacks on servers.
 
-We’ll go through a quick rundown of how to set up a dedicated Garry’s Mod server here, but you can also check out a [full guide](https://steamcommunity.com/sharedfiles/filedetails/?id=179569412){: target="_blank"}.
+We’ll go through a quick rundown of how to set up a dedicated Garry’s Mod server here, but you can also check out a [full guide](https://steamcommunity.com/sharedfiles/filedetails/?id=179569412){: target="\_blank"}.
 
-First, you’ll need to download [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD){: target="_blank"}. When the program is run, a command window will appear. After logging in, you can set the directory where the server will be installed.
+First, you’ll need to download [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD){: target="\_blank"}. When the program is run, a command window will appear. After logging in, you can set the directory where the server will be installed.
 
 Once installed, you can configure settings in the server.cfg file. After this, your server will be up and running, but others won’t be able to join.
 
@@ -158,11 +159,11 @@ Instead, we have chosen 5 different providers that offer quality servers. We dec
 
 {% include gtx-gaming.html %}
 
-If you’re looking for a great Garry’s mod server hosting option, then GTX Gaming is an excellent choice. This provider balances price, features, and hardware to deliver a smooth gaming experience. 
+If you’re looking for a great Garry’s mod server hosting option, then GTX Gaming is an excellent choice. This provider balances price, features, and hardware to deliver a smooth gaming experience.
 
 GTX Gaming offers servers from 10-100 slots, for a very respectable $.62 per person. While not the absolute cheapest on our list, this pricing allows for quality servers for just a few dollars per month.
 
-Offering almost 2 dozen server locations on all continents besides Africa and Antarctica, this provider almost certainly has your location covered. 
+Offering almost 2 dozen server locations on all continents besides Africa and Antarctica, this provider almost certainly has your location covered.
 
 Additionally, GTX offers free world back-ups, a free MySQL database, and a 24-hour refund period if you’re not satisfied.
 
@@ -264,7 +265,7 @@ In terms of hardware, their servers boast i7 processors, enterprise-class SSDs, 
   </div>    
 </section>
 
-The previous provider might not float your boat, in which case [PingPerfect](/game-hosts/pingperfect/) is another strong server host. They offer servers from 10-60 slots, going for $.74 per slot. 
+The previous provider might not float your boat, in which case [PingPerfect](/game-hosts/pingperfect/) is another strong server host. They offer servers from 10-60 slots, going for $.74 per slot.
 
 Unfortunately, while they have over a dozen server locations, they are all located in either the US or Europe. Be sure to check server locations before you buy.
 
@@ -272,28 +273,28 @@ While server locations might be a bit lacking, features certainly are not. PingP
 
 Also included is 1 GB of free web hosting space, which can be used to advertise your server.
 
-If you’d like to save some money, they offer a small discount for including their branding (By Pingperfect.com) on your server. 
+If you’d like to save some money, they offer a small discount for including their branding (By Pingperfect.com) on your server.
 
 Something I have not seen elsewhere is the ability to test the server control panel before buying. If you’re worried about the complexity of the control panel, this is a great opportunity to test it.
 
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="http://www.pingperfect.com/aff.php?aff=803&page=garrys-mod">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
-</div> 
+</div>
 
 ## Flexible Option
 
 {% include nitrous-networks.html %}
 
-You may want the ability to explore a variety of game modes within Garry’s Mod. Nitrous Networks offers the ability to do just that. 
+You may want the ability to explore a variety of game modes within Garry’s Mod. Nitrous Networks offers the ability to do just that.
 
-Their server control panel has a Mod Manager section which helps you [easily install](https://nitrous-networks.com/support/article/34/how-to-install-ttt-trouble-in-terrorist-town){: target="_blank"} different game mods, add-ons, and textures. After that, simply creating a new command line allows you to run that game mode.
+Their server control panel has a Mod Manager section which helps you [easily install](https://nitrous-networks.com/support/article/34/how-to-install-ttt-trouble-in-terrorist-town){: target="\_blank"} different game mods, add-ons, and textures. After that, simply creating a new command line allows you to run that game mode.
 
-Besides the ease of access to different game modes, Nitrous Networks offers a variety of free add-ons. 
+Besides the ease of access to different game modes, Nitrous Networks offers a variety of free add-ons.
 
 These include a free web server, a free voice channel with slots equal to your server, and free Tebex Premium, a plug-in that helps you collect donations from players on your server.
 
-Nitrous Networks offers GMod servers from 10 players up to 80, with each slot costing just $.50. This is a steal, especially considering all the add-ons included.  
+Nitrous Networks offers GMod servers from 10 players up to 80, with each slot costing just $.50. This is a steal, especially considering all the add-ons included.
 
 <div class="btn-center">
   <a target="_blank" class="big-button-center" href="https://billing.nitrous-networks.com/aff.php?aff=4261">Rent from Nitrous Networks</a>
@@ -303,9 +304,9 @@ Nitrous Networks offers GMod servers from 10 players up to 80, with each slot co
 
 {% include citadel-servers.html %}
 
-Maybe you do not care for add-ons and just want the cheapest Garry’s Mod server possible. In that case, Citadel Servers offers some of the cheapest servers you’ll find. 
+Maybe you do not care for add-ons and just want the cheapest Garry’s Mod server possible. In that case, Citadel Servers offers some of the cheapest servers you’ll find.
 
-For just $4.64 a month, you can get an 8-slot server, expandable up to 100 players. Be aware that having a public server will incur an additional cost, so set it to private when you buy. 
+For just $4.64 a month, you can get an 8-slot server, expandable up to 100 players. Be aware that having a public server will incur an additional cost, so set it to private when you buy.
 
 Furthermore, each slot actually costs $.58, so it’s more expensive than Nitrous Networks per slot, but the lower overall minimum slot count brings its cost lower.
 
@@ -320,6 +321,7 @@ They offer over a dozen servers in North America, Europe, and Australia.
 </div>
 
 ## Fastest Garry’s Mod Server Host
+
 <div class="featured-info-box">
 <div class="content">
 <div class="img">
@@ -405,13 +407,13 @@ They offer over a dozen servers in North America, Europe, and Australia.
         </div>
       </div>
   </div>    
-</section> 
+</section>
 
-Conversely, price might not be an issue for you. [Host Havoc](/game-hosts/host-havoc/) offers servers powered by high-grade hardware to ensure lightning-fast speeds. 
+Conversely, price might not be an issue for you. [Host Havoc](/game-hosts/host-havoc/) offers servers powered by high-grade hardware to ensure lightning-fast speeds.
 
-Host Havoc's servers range from 20-100 slots, at a base price of $.50 per slot. Their 11 server locations span North America, Europe, and Australia. 
+Host Havoc's servers range from 20-100 slots, at a base price of $.50 per slot. Their 11 server locations span North America, Europe, and Australia.
 
-DDOS protection is included free, along with a free trial of MistForums, a Steam-integrated forum system. 
+DDOS protection is included free, along with a free trial of MistForums, a Steam-integrated forum system.
 
 Support is also great, averaging a response time of under 15 minutes. If that doesn’t satisfy you, they offer an impressive 72-hour money-back guarantee.
 
@@ -420,7 +422,7 @@ Looking at hardware, all their servers use enterprise-class Xeon processors alon
 <div class="buttons-wrapper">
   <a target="_blank" class="left-button cta-button buy-button" href="https://hosthavoc.com/billing/aff.php?affgmod=1379">Rent a Server</a>
 <a class="right-button cta-button learn-button" href="/game-hosts/host-havoc/">Read Review</a>
-</div> 
+</div>
 
 ## How to Choose Garry’s Mod Server Hosting
 
@@ -438,7 +440,7 @@ If you’re not sure about a provider, those that offer refund periods are a gre
 
 ## How much does a GMod Server Cost?
 
-Like choosing the server itself, the [cost](/game-hosts/cost/) to rent a Garry’s Mod server depends greatly on your needs. 
+Like choosing the server itself, the [cost](/game-hosts/cost/) to rent a Garry’s Mod server depends greatly on your needs.
 
 The cheapest servers for you and just a few friends can cost as little as $4-5 per month. This doesn’t include any upgrades or extra add-ons, however.
 
@@ -454,7 +456,7 @@ Being a much older game with lower-end graphics means that Garry’s Mod isn’t
 
 <img class="lazyload" alt="Physgun" data-src="/img/game-hosts/gmod/physgun.jpg">
 
-For a server with under 10 players just 300 MB of RAM will suffice. Even for around 30 players, 512 MB of RAM should be fine. 
+For a server with under 10 players just 300 MB of RAM will suffice. Even for around 30 players, 512 MB of RAM should be fine.
 
 Around 50 players on a server utilizing a more intensive game mode (such as DarkRP) with multiple add-ons will require around 1 GB of RAM.
 
@@ -470,17 +472,17 @@ Because of the freedom that Garry’s Mod provides, there are dozens of game mod
 
 Arguably the most popular game mode in Garry’s Mod is Trouble in Terrorist Town (TTT). This mode involves a group of innocents and some terrorists, usually around 1 to every 4 innocents. Additionally, there is generally around 1 detective per 8 innocents.
 
-After being placed in the map and assigned roles, each group has its own objectives. 
+After being placed in the map and assigned roles, each group has its own objectives.
 
 Innocents must try to kill the terrorists to win the round, but do not know who is a terrorist. The detective is an innocent with the ability to purchase special equipment and investigate the terrorists.
 
-The terrorists know who the other terrorists are, and must attempt to kill all innocents without being found and killed. Whichever group survives wins the round. 
+The terrorists know who the other terrorists are, and must attempt to kill all innocents without being found and killed. Whichever group survives wins the round.
 
 ### Prop Hunt
 
-Another popular game mode is prop hunt. This involves 2 groups placed in a map, hunters and props. The hunters cannot move or see for a short period at the beginning, during which time the props must hide. 
+Another popular game mode is prop hunt. This involves 2 groups placed in a map, hunters and props. The hunters cannot move or see for a short period at the beginning, during which time the props must hide.
 
-Props have the ability to change into a variety of objects, such as barrels, radios, crates, etc. in order to blend in with the environment. 
+Props have the ability to change into a variety of objects, such as barrels, radios, crates, etc. in order to blend in with the environment.
 
 <img class="lazyload" alt="Prop Hunt" data-src="/img/game-hosts/gmod/prop.jfif">
 
@@ -496,7 +498,7 @@ Runners have to make it through the entire course without dying. However, the �
 
 If the runners make it to the end of the course, they have the opportunity to fight the killers in a separate room. If the runners eliminate the killers, they win, and vice versa.
 
-Of course, this is just a small fraction of all the [available game modes](https://gmod.fandom.com/wiki/Category:Gamemodes){: target="_blank"}. At least 20 exist in total.
+Of course, this is just a small fraction of all the [available game modes](https://gmod.fandom.com/wiki/Category:Gamemodes){: target="\_blank"}. At least 20 exist in total.
 
 All of these game modes are multiplayer, which means you’ll generally need a server to play on. There are many server options in the multiplayer section of Garry’s Mod, but if you want your own server, we’ll cover those options in the following sections.
 
