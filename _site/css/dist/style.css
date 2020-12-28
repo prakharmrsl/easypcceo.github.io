@@ -2006,6 +2006,10 @@ tr {
     }
 }
 
+.page {
+  margin-bottom: 40px;
+}
+
 .page > h1 {
     text-align: center;
     font-size: 40px;
