@@ -11,9 +11,6 @@ meta: "If you're interested in building your own NAS rig, finding the best case 
 	<span>Jacob Tuwiner</span>
 </div>
 
-- TOC
-  {: toc}
-
 ## Top 3 Best NAS Case Options
 
 <table class="basic-table" align="center">
