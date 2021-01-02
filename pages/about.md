@@ -7,7 +7,7 @@ seotitle: "About Jacob Tuwiner & Easy PC"
 
 ## Jacob Tuwiner - Owner & Founder 
 
-My name is Jacob Tuwiner. I'm the owner and creator of Easy PC, a site designed to help the new guy in the computer space. Whether you want to build your first gaming PC or your first cryptocurrency mining rig, I've got you covered.   
+My name is [Jacob Tuwiner](https://www.jacobtuwiner.com/). I'm the owner and creator of Easy PC, a site designed to help the new guy in the computer space. Whether you want to build your first gaming PC or your first cryptocurrency mining rig, I've got you covered.   
 
 I used to be a console gamer from age 9, until I played on my friend's gaming PC for the first time. I couldn't believe my eyes when I saw Battlefield 4 in true 1080p resolution with ultra settings, 60 FPS. I also loved raiding someone's base in Rust which is still my favorite game to this day! From that moment on I knew I had to build a gaming PC.
 
