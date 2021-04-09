@@ -6,3 +6,7 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+.jekyll-cache
+/_site/
+_site/
+.sass-cache/
