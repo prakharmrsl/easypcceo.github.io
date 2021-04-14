@@ -142,8 +142,8 @@ With the extra cost, you get access to the wonderful Ping Perfect support team, 
 Their other features include SSD Hosting (highly recommended), Server Branding, CPU Priority, and Platinum Support packages. Learn more about them on our Ping Perfect review page.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">Rent a Server</a>
-<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">Read Review</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://pingperfect.com/aff.php?aff=803">RENT A SERVER</a>
+<a class="right-button cta-button learn-button" href="/game-hosts/pingperfect/">READ REVIEW</a>
 </div>
 
 ## Runner Up Host
