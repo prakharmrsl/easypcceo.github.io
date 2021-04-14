@@ -38,7 +38,7 @@ meta: "After reviewing all kinds of game host options, we like the Conan Exiles 
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://hosthavoc.com/billing/aff.php?aff=1379">Rent a Server</a></td>
   </tr>
   <tr>
       <td><a target="_blank" href="https://citadelservers.com/client/aff.php?aff=379"><img class="lazyload table-image" data-src="/img/game-hosts/citadel-servers/logo.png" /></a></td>
@@ -48,7 +48,7 @@ meta: "After reviewing all kinds of game host options, we like the Conan Exiles 
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">RENT A SERVER</a></td>
+    <td><a target="_blank" class="big-button" href="https://citadelservers.com/client/aff.php?aff=379">Rent a Server</a></td>
   </tr>
 
 </table>
