@@ -224,4 +224,3 @@ Conan Exiles is one of the most fun and fastest growing survival games on the ma
 Whether big or small, modded or vanilla, there are tons of options to choose from and you can always find a service to suit your needs perfectly. Though, to be fair, renting a server is most likely going to provide the best experience all around.
 
 But regardless, you could set up your own dedicated server from your home computer to maybe just hang around or learn how to play with your closest friends, or you could try to battle the big dogs and become one of the top Conan Exiles servers around. No matter your goal, there’s always a perfect solution just for you.
-
