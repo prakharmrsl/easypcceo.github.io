@@ -10,7 +10,7 @@ meta: "After reviewing all kinds of game host options, we like the Conan Exiles 
     <span>Jacob Tuwiner</span>
 </div>
 
-Best Conan Exiles Server Hosting
+# Best Conan Exiles Server Hosting
 With the survival game craze still on the horizon and millions of people across the globe still sitting on stay-at-home orders, it’s no wonder why Conan Exiles is still one of the most played indie games on the market.
 
 Conan Exiles offers single player, co-op, and multiplayer, but one of the biggest draws of survival games like Conan Exiles is the online multiplayer experience, so what is Conan Exiles without its multiplayer? That’s right, nothing. Thus, it’s important that you make the absolute most out of the multiplayer experience to enjoy the game!
@@ -27,7 +27,6 @@ Runner Up: Host Havoc
 Budget Pick: Citadel Servers
 
 ### What is Server Hosting
-
 As we mentioned before, many games in the survival genre that Conan Exiles belongs to are meant to be played online, it’s part of the experience. Though, the public servers are definitely not friendly to new and returning players or PVE players.
 
 By hosting your own server you get to choose who joins or leaves and what the rules are, you get full control of your game’s world. This can be enticing for friendly multiplayer, modding, and so much more.
@@ -56,9 +55,9 @@ Usually no access to server files
 Can limit server control
 
 #### Dedicated
-Dedicated servers are going to be the best course of action for servers with lower player counts and servers acting for players joining on a local connection. Hosting a dedicated server require your computer to stay on while hosting the server, or a separate computer that stays on to host the server.
+Dedicated servers are going to be the best course of action for servers with lower player counts and servers acting for players joining on a local connection. Hosting a dedicated server requires your computer to stay on while hosting the server, or a separate computer that stays on to host the server.
 
-If you’re hosting a server off of your own personal computer (the one you’ll be playing games on) you could run into performance issues both serverside and while playing the game since your computer now has to split resources between the two.
+If you’re hosting a server off of your own personal computer (the one you’ll be playing games on) you could run into performance issues both server-side and while playing the game since your computer now has to split resources between the two.
 
 Even if you host the server on a separate computer in your home, if you are keeping it on 24/7 it will slow your internet speeds and could cost you extra money on your internet bills if your service plan has a data cap.
 
