@@ -2,7 +2,7 @@
 title: "5 Best Unturned Server Hosting Companies"
 permalink: "/game-hosts/unturned/"
 layout: page
-seotitle: "5 Best Unturned Server Hosting Companies (2020)"
+seotitle: "5 Best Unturned Server Hosting Companies (2022)"
 meta: "There are many great Unturned Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
