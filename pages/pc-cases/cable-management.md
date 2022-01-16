@@ -2,8 +2,8 @@
 title: "Best PC Cases for Cable Management"
 permalink: "/pc-cases/cable-management/"
 layout: page
-seotitle: "3 Best PC Cases for Cable Management 2020 (Comparison)"
-meta: "If you're tired of having your cables in a big jumbled mess, obstructing airflow and looking like crap, this guide is for you. We're talking about the best PC cases for cable management of 2020."
+seotitle: "3 Best PC Cases for Cable Management 2022 (Comparison)"
+meta: "If you're tired of having your cables in a big jumbled mess, obstructing airflow and looking like crap, this guide is for you. We're talking about the best PC cases for cable management of 2022."
 ---
 
 <div class="author-line">
