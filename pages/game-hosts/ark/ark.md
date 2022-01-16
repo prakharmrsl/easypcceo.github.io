@@ -2,7 +2,7 @@
 title: "Best ARK Server Hosting"
 permalink: "/game-hosts/ark/"
 layout: page
-seotitle: "3 Best ARK Server Hosting Companies (2020 Reviews)"
+seotitle: "3 Best ARK Server Hosting Companies (2022 Reviews)"
 meta: "This article outlines the top 3 best ARK server hosting companies, and how to choose the best host."
 ---
 
@@ -395,7 +395,7 @@ Essentially, the ARK server manager:
 
 It's an insanely useful tool for ARK server hosts, especially on the PC. You can download it from this [official page](https://arkservermanager.freeforums.net/thread/5193/downloads){: target="\_blank"}.
 
-## Best ARK Server Mods and Plugins in 2020
+## Best ARK Server Mods and Plugins in 2022
 
 These are some of the mods and plugins recommended by lists on [PC Gamer](https://www.pcgamer.com/best-ark-mods/){: target="\_blank"} and elsewhere on the net:
 
