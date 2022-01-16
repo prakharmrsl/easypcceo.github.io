@@ -2,8 +2,8 @@
 title: "How Much Should You Spend on a Gaming PC?"
 permalink: "/how-much-should-you-spend-gaming-pc/"
 layout: page
-seotitle: "How Much Should You Spend on a Gaming PC in 2020?"
-meta: "We're going to be discussing how much you should spend on a gaming PC in 2020 if you want to game with good settings and FPS."
+seotitle: "How Much Should You Spend on a Gaming PC in 2022?"
+meta: "We're going to be discussing how much you should spend on a gaming PC in 2022 if you want to game with good settings and FPS."
 ---
 
 <div class="author-line">
