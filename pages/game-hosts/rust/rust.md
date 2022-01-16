@@ -2,7 +2,7 @@
 title: "Best Rust Server Hosting"
 permalink: "/game-hosts/rust/"
 layout: page
-seotitle: "3 Best Rust Server Hosting Options 2020 (Comparison)"
+seotitle: "3 Best Rust Server Hosting Options 2022 (Comparison)"
 meta: "After running several rust servers with more than a dozen hosting companies, I've rounded up the top 3 rust server hosting companies on the market."
 ---
 
@@ -603,7 +603,7 @@ One way to get new members to join is by advertising on the [Rust Server Directo
 
 Otherwise you can try posting on the official [Rust discord server](https://discordapp.com/invite/rust){: target="\_blank"} or one of the many player-ran Rust fan servers that dot the internet.
 
-## Best Rust Server Mods and Plugins in 2020
+## Best Rust Server Mods and Plugins in 2022
 
 <img class="lazyload img-right img-small" alt="rust logo" data-src="/img/game-hosts/rust/logo.png">
 
