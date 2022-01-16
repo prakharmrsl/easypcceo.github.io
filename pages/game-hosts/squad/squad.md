@@ -2,7 +2,7 @@
 title: "Best Squad Server Hosting Providers"
 permalink: "/game-hosts/squad/"
 layout: page
-seotitle: "3 Best Squad Server Hosting Companies (2020)"
+seotitle: "3 Best Squad Server Hosting Companies (2022)"
 meta: "If you want to take control of the action, hosting your own Squad server is the move. We're breaking down the 5 best Squad server hosting companies on the market!"
 ---
 
