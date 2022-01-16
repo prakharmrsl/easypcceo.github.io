@@ -2,7 +2,7 @@
 title: "Top Game Server Hosting Companies"
 permalink: "/game-hosts/"
 layout: page
-seotitle: "3 Best Game Server Hosting Reviews of 2020 (Tested)"
+seotitle: "3 Best Game Server Hosting Reviews of 2022 (Tested)"
 meta: "This article outlines the top 3 best game server hosting companies, and how to choose the best host."
 ---
 
