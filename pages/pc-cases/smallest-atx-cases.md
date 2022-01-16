@@ -8,13 +8,13 @@ redirect_from: /budget-pcs/smallest-atx-cases/
 ---
 
 <div class="author-line">
-  <span>Updated April 17th, 2020 by</span>
+  <span>Updated April 17th, 2022 by</span>
   <img class="author-image" alt="written by jacob tuwiner" src="/img/profile/close.jpg" />
   <span>Jacob Tuwiner</span>
 </div>
 
 <ul id="markdown-toc">
-<li><a href="#top-5-smallest-atx-case-options-of-2020" id="markdown-toc-top-5-smallest-atx-case-options-of-2020">Top 5 Smallest ATX Case Options of 2020</a></li>
+<li><a href="#top-5-smallest-atx-case-options-of-2022" id="markdown-toc-top-5-smallest-atx-case-options-of-2022">Top 5 Smallest ATX Case Options of 2022</a></li>
 <li><a href="#case-buying-guide" id="markdown-toc-case-buying-guide">Case Buying Guide</a></li>
 <li><a href="#a-great-case-is" id="markdown-toc-a-great-case-is">A Great Case Is…</a></li>
 <li><a href="#do-you-need-a-gaming-case" id="markdown-toc-do-you-need-a-gaming-case">Do You Need a ‘Gaming’ Case?</a></li>
