@@ -401,7 +401,8 @@ Unfortunately this case doesn't have the best stock cooling, but you can add wat
 
 The Cooler Master MasterBox Pro 5 RGB is one heck of a case. It's packed with three RGB fans, tempered glass panels, and great cable management options, all for less than $100.
 
-However, it does have a few compromises. First of all, there aren't any mounting options on the top of the case, so a 240mm or 360mm radiator is out of the picture. But you can mount a single 120mm radiator on the rear exhaust of the case, no problem.
+However, it does have a few compromises. First of all, there aren't any mounting options on the top of the case, so a 240mm or 360mm radiator is out of the picture. But you can mount a single 1
+mm radiator on the rear exhaust of the case, no problem.
 
 In addition, the included fans require a single four pin molex connector for power - make sure your power supply has at least one of those if you plan on rocking this case.
 
