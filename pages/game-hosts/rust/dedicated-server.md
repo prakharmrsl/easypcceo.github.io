@@ -173,7 +173,7 @@ The installation process is quick and painless. Here’s how you do it:
 
 ### Adding Plugins to Rust Oxide
 
-Now all that’s left is to add some plugins! For a list of the best Rust plugins for 2022 check out the very bottom of our [Rust hosting list](https://www.easypc.io/game-hosts/rust/#best-rust-server-mods-and-plugins-in-2020){: target="_blank"}
+Now all that’s left is to add some plugins! For a list of the best Rust plugins for 2022 check out the very bottom of our [Rust hosting list](https://www.easypc.io/game-hosts/rust/#best-rust-server-mods-and-plugins-in-2022){: target="_blank"}
 
 ## Configuring and Running the Server 
 
