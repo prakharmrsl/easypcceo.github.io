@@ -2,7 +2,7 @@
 title: "Best Terraria Server Hosting Companies"
 permalink: "/game-hosts/terraria/"
 layout: page
-seotitle: "5 Best Terraria Server Hosting Companies (2020 Reviews)"
+seotitle: "5 Best Terraria Server Hosting Companies (2022 Reviews)"
 meta: "There are many great Terraria Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
