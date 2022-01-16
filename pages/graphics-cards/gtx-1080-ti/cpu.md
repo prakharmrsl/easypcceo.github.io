@@ -82,7 +82,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since _most_ games
 <div class="text">
 <h2>Intel Core i9-9900KF</h2>
 <h3>Our Pick</h3>
-<p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2020. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
+<p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2022. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
 </p>
 <div class="btn btn-centered">
 <a target="_blank" class="cta-button buy-button" href="https://amzn.to/362vFIY">Check Price on Amazon</a>
@@ -95,7 +95,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since _most_ games
     <div class="pros-container"> 
       <div class="pro-con-title">Pros</div> 
       <ul class="info-list"> 
-        <li>Best CPU for gaming of 2020</li> 
+        <li>Best CPU for gaming of 2022</li> 
         <li>Handles workstation tasks with ease</li> 
         <li>High overclocking potential</li>
       </ul> 
