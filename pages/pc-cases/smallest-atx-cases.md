@@ -1,5 +1,5 @@
 ---
-title: "Best Small ATX Cases of 2020 (Slim & Compact)"
+title: "Best Small ATX Cases of 2022 (Slim & Compact)"
 permalink: "/pc-cases/smallest-atx-cases/"
 layout: page
 seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2022)"
