@@ -2,7 +2,7 @@
 title: "Host Havoc Review: The Best Game Hosting Company?" 
 permalink: "/game-hosts/host-havoc/"
 layout: page
-seotitle: "Host Havoc Review: 5 Things to Know Before Buying (2020)" 
+seotitle: "Host Havoc Review: 5 Things to Know Before Buying (2022)" 
 meta: "I've tried every hosting company on the web, and in this review of Host Havoc, you'll learn why they're my favorite." 
 ---
 
