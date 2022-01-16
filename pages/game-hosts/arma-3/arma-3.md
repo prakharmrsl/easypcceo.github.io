@@ -2,7 +2,7 @@
 title: "Best Arma 3 Server Hosting"
 permalink: "/game-hosts/arma-3/"
 layout: page
-seotitle: "5 Best Arma 3 Hosting Companies (2020 Reviews)"
+seotitle: "5 Best Arma 3 Hosting Companies (2022 Reviews)"
 meta: "There are many great Arma 3 Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
