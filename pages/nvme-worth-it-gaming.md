@@ -1,8 +1,8 @@
 ---
-title: "Is NVME Really Worth it For Gaming? (2020)" 
+title: "Is NVME Really Worth it For Gaming? (2022)" 
 permalink: "/nvme-worth-it-gaming/"
 layout: page
-seotitle: "Is NVME Worth It for Gaming in 2020? (Yes & No)" 
+seotitle: "Is NVME Worth It for Gaming in 2022? (Yes & No)" 
 meta: "Is NVME worth it for gaming over a traditional SSD? Find out in this post!"
 ---
 
