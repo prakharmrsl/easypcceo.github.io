@@ -2,8 +2,8 @@
 title: "Build Your Own NAS with The Best NAS Cases"
 permalink: "/pc-cases/nas/"
 layout: page
-seotitle: "3 Best NAS Cases: Small & Compact (2020)"
-meta: "If you're interested in building your own NAS rig, finding the best case for the job is essential. In this guide we're taking a look at the 3 best NAS cases of 2020."
+seotitle: "3 Best NAS Cases: Small & Compact (2022)"
+meta: "If you're interested in building your own NAS rig, finding the best case for the job is essential. In this guide we're taking a look at the 3 best NAS cases of 2022."
 ---
 
 <div class="author-line">
