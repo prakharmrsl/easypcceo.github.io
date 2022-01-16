@@ -2,7 +2,7 @@
 title: "Best TF2 Server Hosting"
 permalink: "/game-hosts/tf2/"
 layout: page
-seotitle: "5 Best TF2 Server Hosting Companies (2020)"
+seotitle: "5 Best TF2 Server Hosting Companies (2022)"
 meta: "There are many great TF2 Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
