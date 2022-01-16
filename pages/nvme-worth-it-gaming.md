@@ -11,7 +11,7 @@ meta: "Is NVME worth it for gaming over a traditional SSD? Find out in this post
 	<span>Jacob Tuwiner</span>
 </div>
 
-* 
+
 
 
 A lot of people new to building gaming computers may wonder if buying an NVME drive is worth the extra money. 
