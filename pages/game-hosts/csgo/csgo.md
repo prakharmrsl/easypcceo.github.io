@@ -2,7 +2,7 @@
 title: "Best CS:GO Server Hosting"
 permalink: "/game-hosts/csgo/"
 layout: page
-seotitle: "5 Best CS:GO Hosting Companies (2020 Reviews)"
+seotitle: "5 Best CS:GO Hosting Companies (2022 Reviews)"
 meta: "There are many great CS:GO Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
