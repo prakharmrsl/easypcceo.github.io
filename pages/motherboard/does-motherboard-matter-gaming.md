@@ -1,8 +1,8 @@
 ---
-title: "Do You Need a Good Motherboard for Gaming in 2020?" 
+title: "Do You Need a Good Motherboard for Gaming in 2022?" 
 permalink: "/motherboard/does-motherboard-matter-gaming/"
 layout: page
-seotitle: "Does Your Motherboard Matter for Gaming? (2020)" 
+seotitle: "Does Your Motherboard Matter for Gaming? (2022)" 
 meta: "There are a lot of different motherboards on the market, bu does your motherboard matter for gaming?"
 redirect_from: /does-motherboard-matter-gaming/
 ---
