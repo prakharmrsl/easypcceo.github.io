@@ -2,7 +2,7 @@
 title: "Best 7 Days to Die Server Hosting"
 permalink: "/game-hosts/7-days-to-die/"
 layout: page
-seotitle: "3 Best 7 Days to Die Hosting Companies (2020)"
+seotitle: "3 Best 7 Days to Die Hosting Companies (2022)"
 meta: "There are many great 7 Days to Die Server Hosting companies to up your game, but this review will cover the top 3 providers."
 ---
 
