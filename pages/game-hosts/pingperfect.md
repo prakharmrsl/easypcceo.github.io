@@ -1,8 +1,8 @@
 ---
-title: "PingPerfect Review 2020" 
+title: "PingPerfect Review 2022" 
 permalink: "/game-hosts/pingperfect/"
 layout: page
-seotitle: "PingPerfect Review: 5 Things to Know Before Buying (2020)" 
+seotitle: "PingPerfect Review: 5 Things to Know Before Buying (2022)" 
 meta: "I've tried every hosting company on the web, and in this review of PingPerfect, you'll learn why they're one of my favorite." 
 ---
 
