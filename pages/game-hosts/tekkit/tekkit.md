@@ -2,7 +2,7 @@
 title: "Best Tekkit Server Hosting"
 permalink: "/game-hosts/tekkit/"
 layout: page
-seotitle: "5 Best Tekkit Server Hosting Companies (2020)"
+seotitle: "5 Best Tekkit Server Hosting Companies (2022)"
 meta: "There are many great Tekkit Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
