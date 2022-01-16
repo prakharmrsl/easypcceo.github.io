@@ -67,7 +67,7 @@ I was in your position the last time I wanted to upgrade my PC - I had too many 
 
 There's not much good information on the web, mostly just forums and poorly written product pages in broken English.
 
-That's why I've compiled the ultimate list of the best PC cases for hard drive storage on the market in 2020.
+That's why I've compiled the ultimate list of the best PC cases for hard drive storage on the market in 2022.
 
 Let's dive in:
 
