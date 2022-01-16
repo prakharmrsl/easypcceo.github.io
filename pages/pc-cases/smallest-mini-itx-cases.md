@@ -1,9 +1,9 @@
 ---
-title: The Smallest Mini ITX Cases (2020)
+title: The Smallest Mini ITX Cases (2022)
 permalink: "/pc-cases/smallest-mini-itx-cases/"
 layout: page
-seotitle: "5 Smallest Mini ITX Cases 2020 (Thin & Tiny)"
-meta: "In this article we're taking a look at some of the smallest mini-ITX case options on the market in 2020. "
+seotitle: "5 Smallest Mini ITX Cases 2022 (Thin & Tiny)"
+meta: "In this article we're taking a look at some of the smallest mini-ITX case options on the market in 2022. "
 ---
 
 <div class="author-line">
