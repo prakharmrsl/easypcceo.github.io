@@ -2,7 +2,7 @@
 title: "How to Fix Rust Crashing When Joining a Server" 
 permalink: "/game-hosts/rust/crashing/"
 layout: page
-seotitle: "Rust Crashing When Joining Server? 5 Solutions (Working 2020)" 
+seotitle: "Rust Crashing When Joining Server? 5 Solutions (Working 2022)" 
 meta: "Rust crashing when you're joining a server is a major pain in the butt. Here are my 5 solutions to fix the problem." 
 ---
 
