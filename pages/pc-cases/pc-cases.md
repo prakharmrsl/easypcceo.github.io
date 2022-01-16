@@ -1,8 +1,8 @@
 ---
-title: "How to Choose the Best PC Case for Your Build (2020)" 
+title: "How to Choose the Best PC Case for Your Build (2022)" 
 permalink: "/pc-cases/"
 layout: page
-seotitle: "How to Choose a PC Case: Everything to Consider (2020)" 
+seotitle: "How to Choose a PC Case: Everything to Consider (2022)" 
 meta: "A lot of people have a hard time choosing the best PC case for their rig. In this guide, we're going to cover everything you need to know when choosing a case for your PC."
 redirect_from: /budget-pcs/case-fans/
 ---
