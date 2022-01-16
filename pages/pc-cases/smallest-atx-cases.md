@@ -2,7 +2,7 @@
 title: "Best Small ATX Cases of 2020 (Slim & Compact)"
 permalink: "/pc-cases/smallest-atx-cases/"
 layout: page
-seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2020)"
+seotitle: "5 Smallest ATX Case Reviews: Small & Slim (2022)"
 meta: "We're taking a look at the smallest atx case options on the market. If you're looking for a small ATX case, you're in luck!"
 redirect_from: /budget-pcs/smallest-atx-cases/
 ---
@@ -20,7 +20,7 @@ redirect_from: /budget-pcs/smallest-atx-cases/
 <li><a href="#do-you-need-a-gaming-case" id="markdown-toc-do-you-need-a-gaming-case">Do You Need a ‘Gaming’ Case?</a></li>
 </ul>
 
-## Top 5 Smallest ATX Case Options of 2020
+## Top 5 Smallest ATX Case Options of 2022
 
 <table class="basic-table" align="center">
   <tr>
