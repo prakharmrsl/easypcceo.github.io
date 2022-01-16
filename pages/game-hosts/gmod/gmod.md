@@ -2,7 +2,7 @@
 title: "Best GMod Server Hosting"
 permalink: "/game-hosts/gmod/"
 layout: page
-seotitle: "5 Best GMod Server Hosting Companies (2020 Reviews)"
+seotitle: "5 Best GMod Server Hosting Companies (2022 Reviews)"
 meta: "There are many great GMod Server Hosting companies to up your game, but this review will cover the top 5 providers."
 ---
 
