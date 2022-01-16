@@ -2,7 +2,7 @@
 title: "What do Power Supply Ratings Mean?" 
 permalink: "/power-supply-ratings/"
 layout: page
-seotitle: "Power Supply Ratings Fully Explained (2020 Guide)" 
+seotitle: "Power Supply Ratings Fully Explained (2022 Guide)" 
 meta: "A lot of people new to building a gaming PC wonder whether or not cable management affects airflow – we've got the answers."
 ---
 
