@@ -2,7 +2,7 @@
 title: "Best DayZ Server Hosting Companies"
 permalink: "/game-hosts/dayz/"
 layout: page
-seotitle: "3 Best DayZ Hosting Companies 2020 (Comparison)"
+seotitle: "3 Best DayZ Hosting Companies 2022 (Comparison)"
 meta: "There are many great DayZ Server Hosting companies to up your game, but this review will cover the top 3 providers."
 ---
 
