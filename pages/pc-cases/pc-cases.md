@@ -32,7 +32,7 @@ Now it's time to house those components in a bad ass case — otherwise, they'll
 
 Okay, you could probably build a wall mounted PC without a case, but that's another story.
 
-We're taking a look at the best PC cases for the money in 2020 (hey, that rhymes!) 
+We're taking a look at the best PC cases for the money in 2022 (hey, that rhymes!) 
 
 Let's dive in: 
 
