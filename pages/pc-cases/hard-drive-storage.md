@@ -2,7 +2,7 @@
 title: "Best Cases for Hard Drive Storage"
 permalink: "/pc-cases/hard-drive-storage/"
 layout: page
-seotitle: "5 Best PC Cases for Hard Drive Storage (2020)"
+seotitle: "5 Best PC Cases for Hard Drive Storage (2022)"
 meta: "In this post we're going to be taking a look at the best PC cases for hard drive storage on the market."
 ---
 
