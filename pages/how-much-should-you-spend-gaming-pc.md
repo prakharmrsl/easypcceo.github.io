@@ -11,8 +11,6 @@ meta: "We're going to be discussing how much you should spend on a gaming PC in 
 	<span>Jacob Tuwiner</span>
 </div>
 
-- TOC
-  {: toc}
 
 ## Check Out Our Build Guides
 
