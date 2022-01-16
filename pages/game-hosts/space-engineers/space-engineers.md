@@ -2,7 +2,7 @@
 title: "Best Space Engineers Server Hosting Providers"
 permalink: "/game-hosts/space-engineers/"
 layout: page
-seotitle: "3 Best Space Engineers Server Hosting Companies (2020)"
+seotitle: "3 Best Space Engineers Server Hosting Companies (2022)"
 meta: "There are many great Space Engineers Server Hosting companies to up your game, but this review will cover the top 3 providers."
 ---
 
