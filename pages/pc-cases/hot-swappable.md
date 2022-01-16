@@ -59,7 +59,7 @@ After doing tons of research online, I finally figured it out:
 
 **There aren't any genuine PC gaming cases on the market that offer a hot swap feature (at least that I could find) but there are hot swap adapters that you can install in almost any PC gaming case, for both 2.5" and 3.5" hard drives.**
 
-In this article, we're going to take a look at the 3 best hot swappable case options for you in 2020, including the cases I'd use and the hot swap drive bays.
+In this article, we're going to take a look at the 3 best hot swappable case options for you in 2022, including the cases I'd use and the hot swap drive bays.
 
 Let's dive in!
 
