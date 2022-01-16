@@ -2,7 +2,7 @@
 title: "GTX Gaming Review" 
 permalink: "/game-hosts/gtx-gaming/"
 layout: page
-seotitle: "GTX Gaming Review: 5 Things to Know Before Buying (2020)" 
+seotitle: "GTX Gaming Review: 5 Things to Know Before Buying (2022)" 
 meta: "In this review of GTX Gaming, you'll learn why they're one of my favorite game hosting companies." 
 ---
 
