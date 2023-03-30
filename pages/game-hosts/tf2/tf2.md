@@ -365,7 +365,7 @@ As Valve started to release more titles, more games got the surfing treatment.
 
 Titles such as CS:GO, Garry's Mod, and TF2 started to bring popularity to the game type.
 
-Most video games to this day haven't been able to replicate the same smooth motion that these titles have achieved, so this mode is unique to games that use TF2's engine.
+[Most video games to this day](https://www.mpowerwellness.com/blog/video-game-addiction-statistics){:target="_blank"} haven't been able to replicate the same smooth motion that these titles have achieved, so this mode is unique to games that use TF2's engine.
 
 Surfing is highly dependent on the Source Engine, which allows players to maneuver across the map with aerial motion.
 
