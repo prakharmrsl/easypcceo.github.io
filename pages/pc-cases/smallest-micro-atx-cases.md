@@ -34,33 +34,33 @@ redirect_from: /budget-pcs/smallest-micro-atx-cases/
 	</tr>
   <tr>
     <td>Thermaltake Core V21</td>
-    <td><a target="_blank" href="https://amzn.to/3aIG5P8"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3aIG5P8">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 	<tr>
 		<td>BitFenix Prodigy M</td>
-		<td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2YkBSL0">View on Amazon</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20">View on Amazon</a></td>
 	</tr>
 	<tr>
 		<td>Cooler Master MasterBox Q300L</td>
-		<td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2YrFU4u">View on Amazon</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -190,7 +190,7 @@ Whatever you choose, however you choose, just consider our tips and find the cas
 <span>Smallest Micro ATX Case</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3aIG5P8"><img class="lazyload" alt="thermaltake core v21 micro atx case" data-src="/img/case/matx/v21.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20"><img class="lazyload" alt="thermaltake core v21 micro atx case" data-src="/img/case/matx/v21.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Core V21</h2>
@@ -277,7 +277,7 @@ If you're in the market for a cube case, you can't go wrong with the Thermaltake
 There's a lot to talk about when it comes to the V21, so I recommend clicking the 'Read Review' button and skipping down to the bottom where we go into more detail about it.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3aIG5P8">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#v21">Read Review</a>
 </div>
 
@@ -380,14 +380,14 @@ The greatness doesn’t stop at looks for the H400i, as its features set it apar
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload" alt="BitFenix Prodigy M: micro atx case with handle" data-src="/img/case/matx/prodigy-m.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20"><img class="lazyload" alt="BitFenix Prodigy M: micro atx case with handle" data-src="/img/case/matx/prodigy-m.jpg" /></a>
 </div>
 <div class="text">
 <h2>BitFenix Prodigy M</h2>
 <h3>Micro ATX Case with Handle</h3>
 <p>The BitFenix Prodigy M is one of the smallest and most portable Micro ATX cases around right now. It’s compact enough to be considered for even Mini ITX builds, and even comes with handles for all of your LAN party needs.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -466,7 +466,7 @@ The greatness doesn’t stop at looks for the H400i, as its features set it apar
 With portability matching no other, the BitFenix Prodigy M should be one of, if not your top choice when looking for your next Micro ATX LAN build. Its flexible handles are comfortable to hold and keep the case sturdy on its feet so you’ll need not worry about your components getting shuffled around.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#bitfenix-prodigy-m">Read Review</a>
 </div>
 
@@ -474,14 +474,14 @@ With portability matching no other, the BitFenix Prodigy M should be one of, if 
 <span>Performance Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/34chn7E"><img class="lazyload" alt="Carbide air 240 micro atx case for performance" data-src="/img/case/matx/air-240.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20"><img class="lazyload" alt="Carbide air 240 micro atx case for performance" data-src="/img/case/matx/air-240.png" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Air 240</h2>
 <h3>Premium Micro ATX Case</h3>
 <p>Most small cases are not designed to house expensive components. But the Air 240 is different - it is designed to house, cool and protect high-performance components in a small form factor case.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/34chn7E">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -563,7 +563,7 @@ It's basically the same thing as its big brother, the Air 540 (we talk about thi
 The Air 240 is where Micro ATX cases meet high performance. If you have the money to spend on a premium case for an enthusiast build, I highly recommend the Air 240.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/34chn7E">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#air-240">Read Review</a>
 </div>
 
@@ -571,14 +571,14 @@ The Air 240 is where Micro ATX cases meet high performance. If you have the mone
 <span>Versatility Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Level 20 VT</h2>
 <h3>MATX Cube Case</h3>
 <p>The Thermaltake Level 20 VT has a 4-sided tempered glass panel design, perfect for viewing your assortment of RGB fans, light strips, and cooling loops. Packing plenty of room for water cooling and cable management while still taking up little space, it’s the perfect showpiece for your pimped out rig.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -659,7 +659,7 @@ The Thermaltake Level 20 VT’s 4 interchangeable tempered glass panels provide 
 Sporting a “two chamber design,” all cables can be tucked under the motherboard out of view, giving your build a more clean look than ever before.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#thermaltake-level-20-vt">Read Review</a>
 </div>
 
@@ -667,14 +667,14 @@ Sporting a “two chamber design,” all cables can be tucked under the motherbo
 <span>Slim Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20"><img class="lazyload" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
 </div>
 <div class="text">
 <h2>IN-WIN BL631</h2>
 <h3>Slim Micro ATX Case</h3>
 <p>Do you need a slim Micro ATX case that looks good and won't break the bank? The IN-WIN BL631 is one of the smallest Micro ATX cases out there. This case has the perfect blend of style and satisfaction while covering most of the bases on anybody’s “most important case features” list.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -756,7 +756,7 @@ If you need a media PC to match your TV color scheme, or you only have minimal d
 You get a case and a PSU for under $100, AND it’s low profile – what more could anyone ask for?
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#in-win-bl631">Read Review</a>
 </div>
 
@@ -764,14 +764,14 @@ You get a case and a PSU for under $100, AND it’s low profile – what more co
 <span>Small Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: small micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20"><img class="lazyload" alt="Nanoxia Rexgear 1: small micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
 </div>
 <div class="text">
 <h2>Nanoxia Rexgear 1</h2>
 <h3>Small Micro ATX Case</h3>
 <p>This little thing is probably one of the weirdest cases we’ve seen to date. With its color schemes ranging from Arctic Warrior, to Iron Man, to... The Cincinnati Bengals? This case isn’t cookie cutter or a carbon copy, but it’s fairly standard by all accounts and you’ll have no trouble trying to build your dream Micro ATX computer with it.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price </a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -850,7 +850,7 @@ The Rexgear 1 is a nice little case for anyone avoiding the RGB scene (since the
 Fitting in right in the middle ground, the Rexgear 1 is good for just about anyone.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#nanoxia-rexgear-1">Read Review</a>
 </div>
 
@@ -858,13 +858,13 @@ Fitting in right in the middle ground, the Rexgear 1 is good for just about anyo
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload" alt="Cooler Master MasterBox Q300L: budget matx case" data-src="/img/case/matx/q300l.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20"><img class="lazyload" alt="Cooler Master MasterBox Q300L: budget matx case" data-src="/img/case/matx/q300l.jpg" /></a>
 </div>
 <div class="text">
 <h2>Cooler Master MasterBox Q300L</h2>
 <h3>Budget Micro ATX Case</h3>
 <p>The MasterBox Q300L. The king, the legend, the knight in shining armor. This bad boy will get you by for a good price – with most of the advantages of a pocket-drainer, this case won't actually drain your pockets.</p>
-<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price </a>
+<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -944,7 +944,7 @@ With massive magnetic dust filters on the bottom, top, and front keeping your sy
 It even comes with a side panel (although acrylic) to view the glorious parts you’ve bestowed upon your pride and joy.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#cooler-master-masterbox-q300l">Read Review</a>
 </div>
 
@@ -952,13 +952,13 @@ It even comes with a side panel (although acrylic) to view the glorious parts yo
 <span>(Dis)Honorable Mention</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
 </div>
 <div class="text">
 <h2>Rosewill FBM-05</h2>
 <h3>Extremely Cheap Micro ATX Case</h3>
 <p>There’s really not much to the Rosewill FBM-05 – it’s a Micro ATX case and it’s dirt cheap. It doesn’t perform exceptionally well in any category other than price, and we honestly wouldn’t suggest it for anything other than a low-end PC for Grandma (even then it’s a stretch, you love her right?) so she can web browse in peace.</p>
-<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price </a>
+<div class="btn btn-centered"><a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20">Check Price </a>
 </div>
 </div>
 </div>
@@ -1037,7 +1037,7 @@ When you’re on a tight budget, and I mean _tight_, the Rosewill FBM-05 is your
 Still, seriously, we beg of you, please don’t put your medium to high-end parts anywhere near this case.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#rosewill-fbm-05">Read Review</a>
 </div>
 
@@ -1050,33 +1050,33 @@ Still, seriously, we beg of you, please don’t put your medium to high-end part
   </tr>
   <tr>
     <td>Thermaltake Core V21</td>
-    <td><a target="_blank" href="https://amzn.to/3aIG5P8"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20"><img class="lazyload table-image" alt="thermaltake core v21" data-src="/img/case/matx/v21.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3aIG5P8">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
     <td>BitFenix Prodigy M</td>
-    <td><a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20"><img class="lazyload table-image" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2YkBSL0">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
     <td>Cooler Master MasterBox Q300L</td>
-    <td><a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20"><img class="lazyload table-image" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Budget Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2YrFU4u">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -1284,10 +1284,10 @@ This case doesn’t disappoint in any category… unless you’re on a budget.
 
 <div class="featured-specs-box">
 <h2 id="bitfenix-prodigy-m">
-<span>#3</span> <a href="https://amzn.to/2YkBSL0" target="_blank">BitFenix Prodigy M</a>
+<span>#3</span> <a href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20" target="_blank">BitFenix Prodigy M</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2YkBSL0"><img class="lazyload" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20"><img class="lazyload" alt="BitFenix Prodigy M: best micro atx case" data-src="/img/case/matx/prodigy-m.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>403 x 249 x 358mm</span></p>
@@ -1311,7 +1311,7 @@ This case doesn’t disappoint in any category… unless you’re on a budget.
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YkBSL0">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00T2WIRUC/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1345,10 +1345,10 @@ We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN even
 
 <div class="featured-specs-box">
 <h2 id="thermaltake-level-20-vt">
-<span>#4</span> <a href="https://amzn.to/2Vlqahn" target="_blank">Thermaltake Level 20 VT</a>
+<span>#4</span> <a href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20" target="_blank">Thermaltake Level 20 VT</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2Vlqahn"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20"><img class="lazyload" alt="Thermaltake Level 20 VT: matx cube case" data-src="/img/case/matx/20-vt.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>348 x 330 x 430mm</span></p>
@@ -1373,7 +1373,7 @@ We urge you to go and pick up a BitFenix Prodigy M for your next gaming LAN even
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Vlqahn">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07FDFZDDW/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1407,10 +1407,10 @@ In any event, this case is actually really great.
 
 <div class="featured-specs-box">
 <h2 id="in-win-bl631">
-<span>#5</span> <a href="https://amzn.to/2LGjJGe" target="_blank">IN-WIN BL631</a>
+<span>#5</span> <a href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20" target="_blank">IN-WIN BL631</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2LGjJGe"><img class="lazyload" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20"><img class="lazyload" alt="in-win bl631: slim micro atx case" data-src="/img/case/matx/bl-631.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>330 x 97 x 366mm</span></p>
@@ -1435,7 +1435,7 @@ In any event, this case is actually really great.
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LGjJGe">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00J5TTNDW/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1469,10 +1469,10 @@ The IN-WIN BL631 is an awesome slim Micro ATX case. It’s compact with good air
 
 <div class="featured-specs-box">
 <h2 id="nanoxia-rexgear-1">
-<span>#6</span> <a href="https://amzn.to/2JIqWCK" target="_blank">Nanoxia Rexgear 1</a>
+<span>#6</span> <a href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20" target="_blank">Nanoxia Rexgear 1</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2JIqWCK"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20"><img class="lazyload" alt="Nanoxia Rexgear 1: smallest micro atx case" data-src="/img/case/matx/rexgear-1.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>412 x 280 x 418mm</span></p>
@@ -1494,7 +1494,7 @@ The IN-WIN BL631 is an awesome slim Micro ATX case. It’s compact with good air
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2JIqWCK">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0756LJBHL/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1528,10 +1528,10 @@ Building in the Rexgear 1 will probably be one of the easiest experiences you co
 
 <div class="featured-specs-box">
 <h2 id="cooler-master-masterbox-q300l">
-<span>#7</span> <a href="https://amzn.to/2YrFU4u" target="_blank">Cooler Master MasterBox Q300L</a>
+<span>#7</span> <a href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20" target="_blank">Cooler Master MasterBox Q300L</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2YrFU4u"><img class="lazyload" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20"><img class="lazyload" alt="Cooler Master MasterBox Q300L: smallest matx case" data-src="/img/case/matx/q300l.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>387 x 230 x 387mm</span></p>
@@ -1554,7 +1554,7 @@ Building in the Rexgear 1 will probably be one of the easiest experiences you co
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2YrFU4u">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0785GRMPG/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1572,10 +1572,10 @@ This case really has it all for an affordable price.
 
 <div class="featured-specs-box">
 <h2 id="rosewill-fbm-05">
-<span>#8</span> <a href="https://amzn.to/2Q3V3po" target="_blank">Rosewill FBM-05</a>
+<span>#8</span> <a href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20" target="_blank">Rosewill FBM-05</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2Q3V3po"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20"><img class="lazyload" alt="Rosewill FBM-05: very cheap matx case" data-src="/img/case/matx/fbm-05.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>355 x 170 x 335mm</span></p>
@@ -1597,7 +1597,7 @@ This case really has it all for an affordable price.
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Q3V3po">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0116TSWM6/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1625,10 +1625,10 @@ We honestly implore you to never consider yourself a part of the PC community if
 
 <div class="featured-specs-box">
 <h2 id="air-240">
-<span>#9</span> <a href="https://amzn.to/34chn7E" target="_blank">Corsair Carbide Air 240</a>
+<span>#9</span> <a href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20" target="_blank">Corsair Carbide Air 240</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/34chn7E"><img class="lazyload" alt="Corsair carbide air 240" data-src="/img/case/matx/air-240.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20"><img class="lazyload" alt="Corsair carbide air 240" data-src="/img/case/matx/air-240.png" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>397 x 260 x 320mm</span></p>
@@ -1651,7 +1651,7 @@ We honestly implore you to never consider yourself a part of the PC community if
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/34chn7E">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00LA6WXEO/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
