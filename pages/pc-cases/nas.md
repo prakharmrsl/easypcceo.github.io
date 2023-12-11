@@ -20,19 +20,19 @@ meta: "If you're interested in building your own NAS rig, finding the best case 
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2IR4Mwy">SilverStone DS380B-USA</a></td>
-    <td><a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload table-image" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2IR4Mwy">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20">SilverStone DS380B-USA</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20"><img class="lazyload table-image" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/39WHtgI">Fractal Design Node 804</a></td>
-    <td><a target="_blank" href="https://amzn.to/39WHtgI"><img alt="fractal design node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/39WHtgI">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20"><img alt="fractal design node 804" class="lazyload table-image" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2U9zkin">Silverstone Grandia GD08B</a></td>
-    <td><a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2U9zkin">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20">Silverstone Grandia GD08B</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -42,7 +42,7 @@ Here's the deal:
 
 After building several NAS rigs myself and hours of research, I've rounded up the 3 best NAS cases I'd use again.
 
-I was on a budget so I was sacrificing time to build my own NAS with PC cases — if you've got some extra money to spend and want to buy a pre-built NAS, I'd recommend the [Synology 5 Bay NAS Diskstation](https://amzn.to/2TQVcQQ){: target="\_blank"}.
+I was on a budget so I was sacrificing time to build my own NAS with PC cases — if you've got some extra money to spend and want to buy a pre-built NAS, I'd recommend the [Synology 5 Bay NAS Diskstation](https://www.amazon.com/gp/product/B07NF9XDWG/?tag=easypcus-20){: target="\_blank"}.
 
 It's expensive but it'll save you hours of your time.
 
@@ -89,14 +89,14 @@ Here's why you should build your own NAS:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2IR4Mwy"><img class="lazyload" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20"><img class="lazyload" alt="best nas case" data-src="/img/cases/nas/silverstone-ds380b.jpg" /></a>
 </div>
 <div class="text">
 <h2>SilverStone DS380B-USA</h2>
 <h3>Best Small NAS Case</h3>
 <p>This is the only PC case on our list that is actually designed for use as a NAS case. Its small Mini ITX form factor makes it perfect for building a NAS, not to mention how many drives this thing can hold.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2IR4Mwy">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -204,7 +204,7 @@ The case is incredibly small and can only support an SFX power supply, so a trad
 If you're looking for the best NAS case on the market (aside from a dedicated prebuilt NAS case), this is the one for you.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2IR4Mwy">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07PCH47Z2/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 ## Best Micro ATX NAS Case
@@ -221,14 +221,14 @@ That brings us to our next case:
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/39WHtgI"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/fractal-design-node-804.jpg" /></a>
 </div>
 <div class="text">
 <h2>Fractal Design Node 804</h2>
 <h3>Micro ATX NAS Case</h3>
 <p>This cube case is totally badass, and if you're interested in building a NAS for your home or office, it's definitely a good option. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/39WHtgI">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -335,7 +335,7 @@ Despite having a ton of storage space for your NAS drives, [cable management](/c
 All in all, this thing makes great use of space and if you're in the market for a micro ATX NAS case, the Node 804 is going to be your best bet.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/39WHtgI">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 ## Best ATX NAS Case
@@ -344,14 +344,14 @@ All in all, this thing makes great use of space and if you're in the market for 
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2U9zkin"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20"><img class="lazyload" alt="good nas case" data-src="/img/cases/nas/silverstone-grandia-gd08-case.jpg" /></a>
 </div>
 <div class="text">
 <h2>Silverstone Grandia GD08B</h2>
 <h3>ATX NAS Case</h3>
 <p>The Silverstone Grandia GD08B is a home theater PC case that happens to have a crap load of fans and, you guessed it, hard drive bays.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2U9zkin">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -438,7 +438,7 @@ I'd only recommend building your NAS in this case if you plan on using the PC fo
 I'm not totally sure why you'd want to build a NAS in an ATX case as opposed to a smaller form factor case such as mATX or mITX, but the option is there.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2U9zkin">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B007X8TQYI/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 <div class="featured-info-box">
