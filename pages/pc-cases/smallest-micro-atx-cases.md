@@ -197,7 +197,7 @@ Whatever you choose, however you choose, just consider our tips and find the cas
 <h3>Best Micro ATX Case</h3>
 <p>This case is hands down my favorite Micro ATX case. It's small, slim, and everything is modular! You can customize this bad boy entirely to your liking.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2XijNAf">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -285,14 +285,14 @@ There's a lot to talk about when it comes to the V21, so I recommend clicking th
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/347I77A"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B076HSJ6GV/?tag=easypcus-20"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H400i</h2>
 <h3>White Micro ATX Case</h3>
 <p>The NZXT H400i is the smallest micro ATX case on the market, and features one of the best designs we've ever seen. This small micro ATX case has a spacious interior, great airflow, and easy cable management.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/347I77A">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B076HSJ6GV/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -372,7 +372,7 @@ If you weren’t expecting the <a target="_blank" href="https://www.nzxt.com/">N
 The greatness doesn’t stop at looks for the H400i, as its features set it apart from all other Micro ATX cases. The H400i is built for custom and AIO water cooling, includes superb cooling and noise reduction, and even comes with an RGB “CAM Powered Smart Device” fan controller for your stylish RGB setup.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/347I77A">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B076HSJ6GV/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#nzxt-h400i">Read Review</a>
 </div>
 
@@ -1163,10 +1163,10 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 
 <div class="featured-specs-box">
 <h2 id="thermaltake-v21">
-<span>#1</span> <a href="https://amzn.to/3dTTRkc" target="_blank">Thermaltake Core V21</a>
+<span>#1</span> <a href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20" target="_blank">Thermaltake Core V21</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/3dTTRkc"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/v21.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/v21.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>336 x 320 x 424mm</span></p>
@@ -1190,7 +1190,7 @@ This is the part of the article where I go a bit more in-depth. I'll be taking a
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3dTTRkc">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00PDDMN6S/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
@@ -1228,10 +1228,10 @@ In short, the Thermaltake Core V21 is hands down the best small Micro ATX case o
 
 <div class="featured-specs-box">
 <h2 id="nzxt-h400i">
-<span>#2</span> <a href="https://amzn.to/2E0WGQ7" target="_blank">NZXT H400i</a>
+<span>#2</span> <a href="https://www.amazon.com/gp/product/B0762T54FD/?tag=easypcus-20" target="_blank">NZXT H400i</a>
 </h2>
 <div class="info">
-<a target="_blank" href="https://amzn.to/2E0WGQ7"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B0762T54FD/?tag=easypcus-20"><img class="lazyload" alt="NZXT H400i: smallest matx case" data-src="/img/case/matx/h400i.jpg" /></a>
 <div class="specs">
 <p><span>Supports</span><span>Micro ATX, Mini ITX</span></p>
 <p><span>Dimensions (HxWxD)</span><span>417 x 210 421mm</span></p>
@@ -1254,7 +1254,7 @@ In short, the Thermaltake Core V21 is hands down the best small Micro ATX case o
 </ul>
 </div>
 <div class="btn">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2E0WGQ7">Check Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B0762T54FD/?tag=easypcus-20">Check Price</a>
 </div>
 </div>
 
