@@ -29,29 +29,29 @@ redirect_from: /budget-pcs/smallest-atx-cases/
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
-    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
-    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -194,14 +194,14 @@ This case is awesome and it knows it!
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload" alt="Corsair Carbide Series Air 540" data-src="/img/case/carbide-air-540.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20"><img class="lazyload" alt="Corsair Carbide Series Air 540" data-src="/img/case/carbide-air-540.png" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Series Air 540</h2>
 <h3>Smallest ATX Case</h3>
 <p>The Corsair Air 540 is coming in close second on our list. This case is compact, but with a surprisingly spacious interior. There's plenty of room for hard drives, radiators, and graphics cards too.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -317,7 +317,7 @@ Its two compartments keep cables and components neat and tidy, which promotes ai
 The case is mostly constructed of steel on the inside, but Corsair decided to use ABS plastic and steel mesh to give the cube ATX case a unique and good-looking style.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#corsair-carbide-series-air-540-review">Read Review</a>
 </div>
 
@@ -434,14 +434,14 @@ It also features a nice side panel window that allows you to display your compon
 <span>Portability Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload" alt="Cooler Master HAF XB II EVO" data-src="/img/case/cooler-master-haf.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20"><img class="lazyload" alt="Cooler Master HAF XB II EVO" data-src="/img/case/cooler-master-haf.jpg" /></a>
 </div>
 <div class="text">
 <h2>Cooler Master HAF XB EVO</h2>
 <h3>Best Airflow</h3>
 <p>This case from Cooler Master is awesome, end of story. It has insane airflow and amazing <a href="/cable-management/">cable management</a>. In addition, it has a dual-chamber design to maximize airflow. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -528,7 +528,7 @@ As an added bonus, in case you're always on the go, this case also has nice carr
 That being said, if you're the kind of gamer that likes to have LAN parties, this is the casse for you.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2N0cAMT">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#cooler-master-haf-xb-evo-review">Read Review</a>
 </div>
 
@@ -536,14 +536,14 @@ That being said, if you're the kind of gamer that likes to have LAN parties, thi
 <span>Slim Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload" alt="Thermaltake Core G3 Slim ATX Case" data-src="/img/case/thermaltake-core-g3.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload" alt="Thermaltake Core G3 Slim ATX Case" data-src="/img/case/thermaltake-core-g3.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Core G3</h2>
 <h3>Slim ATX Case</h3>
 <p>The G3 Slim is the second case from Thermaltake's Core series. This case offers a stylish full sized form factor without being too big and bulky.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -633,7 +633,7 @@ The [cable management has an impact on airflow](/pc-cases/does-cable-management-
 All in all, it's a fantastic case for the money.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2vTJbgT">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <table class="basic-table" align="center">
@@ -643,29 +643,29 @@ All in all, it's a fantastic case for the money.
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
-    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
-    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -1111,29 +1111,29 @@ The case's form factor isn't for everyone, but for those looking for a small ATX
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2PorXR8">Corsair Carbide Series 400C</a></td>
-    <td><a target="_blank" href="https://amzn.to/2PorXR8"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2PorXR8">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">Corsair Carbide Series 400C</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/corsair-carbide-400c.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01F97W9ZM/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2MUOsLS">Corsair Carbide Series Air 540</a></td>
-    <td><a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2MUOsLS">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">Corsair Carbide Series Air 540</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/carbide-air-540.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00D6GINF4/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2QliaLF">NZXT H500i</a></td>
-    <td><a target="_blank" href="https://amzn.to/2QliaLF"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2QliaLF">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">NZXT H500i</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/nzxt-h400i.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2N0cAMT">Cooler Master HAF XB II EVO</a></td>
-    <td><a target="_blank" href="https://amzn.to/2N0cAMT"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2N0cAMT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">Cooler Master HAF XB II EVO</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/cooler-master-haf.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00FFJ0H3Q/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3 Slim ATX Case</a></td>
-    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Thermaltake Core G3 Slim ATX Case</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
