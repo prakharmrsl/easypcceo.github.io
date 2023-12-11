@@ -48,24 +48,24 @@ Without further adieu, let's talk about the top 3 CPUs for the RTX 2080 Ti:
     <td><a target="_blank" class="big-button" href="https://amzn.to/2ZgM4Ir">View on eBay</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/362yR7h">Intel Core i9 9900K</a></td>
-    <td><a target="_blank" href="https://amzn.to/362yR7h"><img class="lazyload table-image" alt="RTX 2080 ti cpu" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Intel Core i9 9900K</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20"><img class="lazyload table-image" alt="RTX 2080 ti cpu" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/362yR7h">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/3dPKscG">Intel Core i5 9400</a></td>
-    <td><a target="_blank" href="https://amzn.to/3dPKscG"><img class="lazyload table-image" alt="Best budget CPU for 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">Intel Core i5 9400</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20"><img class="lazyload table-image" alt="Best budget CPU for 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Budget</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3dPKscG">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -193,7 +193,7 @@ The Ryzen 7 3700X is undoubtedly the best CPU to pair with the 2080 Ti
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/362yR7h"><img class="lazyload" alt="core i9 9900k, best intel cpu for rtx 2080 ti" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20"><img class="lazyload" alt="core i9 9900k, best intel cpu for rtx 2080 ti" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i5 8400</h2>
@@ -201,7 +201,7 @@ The Ryzen 7 3700X is undoubtedly the best CPU to pair with the 2080 Ti
 <p>The runner up and second-best CPU to match with the 2080 TI is the Core i9 9900K. This CPU is an absolute monster.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/362yR7h">Check Amazon Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -303,21 +303,21 @@ The Z390 chipset is pretty expensive. They are also not near as backward compati
 Overall, the Ryzen 9 line is probably a better choice for the money, but in terms of raw performance, you can't argue with the i9 9900K. 
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/362yR7h">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <div class="featured-info-box">
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3dPKscG"><img class="lazyload" alt="intel core i5 9400, budget cpu for rtx 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20"><img class="lazyload" alt="intel core i5 9400, budget cpu for rtx 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i5 9400</h2>
 <h3>Budget Pick</h3>
 <p>Our budget CPU to pair with the 2080ti is no doubt a surprising one to most people, the core i5 9400. Before fans of AMD come chasing after me with pitchforks and torches, let me explain.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3dPKscG">Check Amazon Price</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">Check Amazon Price</a>
 </div>
 </div>
 </div>
@@ -405,7 +405,7 @@ As for motherboards, anyone with the B360 or H370 chipset will do fine. The unfo
 So, if it's bang for your buck that you're after, the Intel i5 9400 is the best option. However, if you're a fan of Team Red, the Ryzen 5 3600 can serve you just as well.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3dPKscG">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <table class="basic-table" align="center">
@@ -426,24 +426,24 @@ So, if it's bang for your buck that you're after, the Intel i5 9400 is the best 
     <td><a target="_blank" class="big-button" href="https://amzn.to/2ZgM4Ir">View on eBay</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/362yR7h">Intel Core i9 9900K</a></td>
-    <td><a target="_blank" href="https://amzn.to/362yR7h"><img class="lazyload table-image" alt="RTX 2080 ti cpu" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Intel Core i9 9900K</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20"><img class="lazyload table-image" alt="RTX 2080 ti cpu" data-src="/img/cpu/rtx-2080-ti/i9.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/362yR7h">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/3dPKscG">Intel Core i5 9400</a></td>
-    <td><a target="_blank" href="https://amzn.to/3dPKscG"><img class="lazyload table-image" alt="Best budget CPU for 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">Intel Core i5 9400</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20"><img class="lazyload table-image" alt="Best budget CPU for 2080 ti" data-src="/img/cpu/rtx-2080-ti/9400.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Budget</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3dPKscG">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07MGZ9FJZ/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
