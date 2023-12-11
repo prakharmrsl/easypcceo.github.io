@@ -32,54 +32,54 @@ redirect_from: /crypto-mining/gtx-1080-review/
 		<th>See Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">ASUS ROG Strix GTX 1080 Ti OC</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc"><img alt="asus rog strix gtx 1080 ti oc" class="table-image" src="/img/gpu/asus-1080ti-rog-strix.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">ASUS ROG Strix GTX 1080 Ti OC</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc"><img alt="asus rog strix gtx 1080 ti oc" class="table-image" src="/img/gpu/asus-1080ti-rog-strix.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Performance</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">ZOTAC GeForce GTX 1080 Ti Mini</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322"><img alt="gtx 1080 ti mini" class="table-image" src="/img/gpu/zotac-1080ti-mini.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">ZOTAC GeForce GTX 1080 Ti Mini</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322"><img alt="gtx 1080 ti mini" class="table-image" src="/img/gpu/zotac-1080ti-mini.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Lowest Profile</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77"><img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="table-image" src="/img/gpu/geforce-1080ti-hybrid.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77"><img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="table-image" src="/img/gpu/geforce-1080ti-hybrid.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Cooling</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">PNY GeForce GTX 1080 Ti</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489"><img alt="pny geforce gtx 1080 ti" class="table-image" src="/img/gpu/pny-gtx-1080ti.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">PNY GeForce GTX 1080 Ti</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489"><img alt="pny geforce gtx 1080 ti" class="table-image" src="/img/gpu/pny-gtx-1080ti.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Lowest Price</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">MSI GeForce GTX 1080 Ti Gaming X</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e"><img alt="gtx 1080 ti gaming x" class="table-image" src="/img/gpu/msi-gtx-1080ti.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">MSI GeForce GTX 1080 Ti Gaming X</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e"><img alt="gtx 1080 ti gaming x" class="table-image" src="/img/gpu/msi-gtx-1080ti.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Clean Design</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check</a></td>
 	</tr>
 </table>
 
@@ -132,7 +132,7 @@ Being that the 2000-series is pretty much phased in at the moment, the 1000-seri
 So finding this card at a reasonable price new is basically unheard of, and we suggest shooting for a newer 2000-series if you refuse to buy anything short of brand new hardware.
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check Price</a>
+<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B01K5F8MJK/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01K5F8MJK&linkId=db98af9aeba0a5c09712619c538298bc">Check Price</a>
 </div>
 
 ## ZOTAC GeForce GTX 1080 Ti Mini: Lowest Profile
@@ -148,7 +148,7 @@ And don’t let its stature fool you, this puppy packs a punch. Its 1506MHz base
 Be sure not to skimp out on the power supply though, this little fella’s still got a big stomach.
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check Price</a>
+<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check Price</a>
 </div>
 
 ## EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming: Best Cooling
@@ -174,7 +174,7 @@ With how cool this card gets under load, maxing out near 75C-80C under full synt
 The base core clock sits pretty at 1556MHz and a base memory clock of 1670MHz, you’ll have a great starting ground to play off of.
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check Price</a>
+<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check Price</a>
 </div>
 
 ## PNY GeForce GTX 1080 Ti: Lowest Price
@@ -198,7 +198,7 @@ When considering buying a GPU such as a 1080 Ti for an amazingly low price, we s
 Also, contrary to popular belief, eBay’s support is very helpful when returning items in case it arrives not as described.
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check Price</a>
+<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">Check Price</a>
 </div>
 
 ## MSI GeForce GTX 1080 Ti Gaming X: Best Value
@@ -216,7 +216,7 @@ Once this deal gets picked up, however, it might be gone for good since not a lo
 What we really suggest for finding a cheap deal on a GTX 1080 Ti, is browsing eBay.
 
 <div class="btn-center">
-<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check Price</a>
+<a target="_blank" class="big-button-middle" href="https://www.amazon.com/gp/product/B07KDL7DSS/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07KDL7DSS&linkId=3b5472801bc2dcbd93342b13e6fb434e">Check Price</a>
 </div>
 
 ## How to Find a Good GTX 1080 Ti on eBay
