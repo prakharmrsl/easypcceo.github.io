@@ -31,19 +31,19 @@ meta: "If you only have enough room to put your PC on the left side of your desk
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2UOF8yc">Be Quiet! Silent Base 801</a></td>
-    <td><a target="_blank" href="https://amzn.to/2UOF8yc"><img class="lazyload table-image" alt="best inverted pc case" data-src="/img/cases/inverted/dark-base/801.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2UOF8yc">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20">Be Quiet! Silent Base 801</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20"><img class="lazyload table-image" alt="best inverted pc case" data-src="/img/cases/inverted/dark-base/801.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2JucBZu">SilverStone LD01</a></td>
-    <td><a target="_blank" href="https://amzn.to/2JucBZu"><img alt="best micro atx inverted pc case" class="lazyload table-image" data-src="/img/cases/inverted/ld01/case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2JucBZu">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20">SilverStone LD01</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20"><img alt="best micro atx inverted pc case" class="lazyload table-image" data-src="/img/cases/inverted/ld01/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2vTJbgT">Thermaltake Core G3</a></td>
-    <td><a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload table-image" alt="cheap inverted pc case" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2vTJbgT">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Thermaltake Core G3</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload table-image" alt="cheap inverted pc case" data-src="/img/case/thermaltake-core-g3.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -80,14 +80,14 @@ In addition, motherboards are typically installed backwards in an inverted PC ca
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2UOF8yc"><img class="lazyload" alt="best nas case" data-src="/img/cases/inverted/dark-base/801.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20"><img class="lazyload" alt="best nas case" data-src="/img/cases/inverted/dark-base/801.png" /></a>
 </div>
 <div class="text">
 <h2>Be Quiet! Silent Base 801</h2>
 <h3>Best Inverted PC Case</h3>
 <p>This is hands down the best inverted PC case on the market considering how rugged, well-designed and good looking it is. And best of all? The price tag doesn't reflect its premium build quality.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2UOF8yc">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -168,7 +168,7 @@ What's awesome about this case is the terrific engineering - think about all of 
 If you're looking for the best inverted PC case on the market, I'd highly recommend the Silent Base 801. It's the perfect combination of looks, functionality, and price.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2UOF8yc">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B07HKPN3QB/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#be-quiet-silent-base-801">Read Review</a>
 </div>
 
@@ -176,14 +176,14 @@ If you're looking for the best inverted PC case on the market, I'd highly recomm
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2JucBZu"><img class="lazyload" alt="best micro atx inverted case" data-src="/img/cases/inverted/ld01/case.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20"><img class="lazyload" alt="best micro atx inverted case" data-src="/img/cases/inverted/ld01/case.jpg" /></a>
 </div>
 <div class="text">
 <h2>SilverStone LD01</h2>
 <h3>Best Micro ATX Inverted Case</h3>
 <p>Silverstone is coming in clutch with the LD01 - from an aesthetic standpoint, it's my favorite inverted PC case because of its cube design and tempered glass side panels.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2JucBZu">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -265,7 +265,7 @@ The SilverSTone LD01 has a lot of tempered glass, dark tinted with a stainless s
 If you like a lot of glass (a modern design in my opinion) then the LD01 is for you.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2JucBZu">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B07F15G26B/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#silverstone-ld01">Read Review</a>
 </div>
 
@@ -273,14 +273,14 @@ If you like a lot of glass (a modern design in my opinion) then the LD01 is for 
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2vTJbgT"><img class="lazyload" alt="Thermaltake Core G3 Slim ATX Case" data-src="/img/case/thermaltake-core-g3.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20"><img class="lazyload" alt="Thermaltake Core G3 Slim ATX Case" data-src="/img/case/thermaltake-core-g3.jpg" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake Core G3</h2>
 <h3>Cheap Inverted PC Case</h3>
 <p>The G3 Slim is the second case from Thermaltake's Core series. This case offers a stylish full sized form factor without being too big and bulky.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -360,7 +360,7 @@ In recent years, Thermaltake has produced many cases that are largely popular, e
 It's also one of the cheaper cases on this list, so you could use it if you're building a cheap gaming PC.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2vTJbgT">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B01KV6ACLO/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#thermaltake-core-g3">Read Review</a>
 </div>
 
