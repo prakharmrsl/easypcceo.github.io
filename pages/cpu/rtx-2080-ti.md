@@ -38,14 +38,14 @@ Without further adieu, let's talk about the top 3 CPUs for the RTX 2080 Ti:
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2ZgM4Ir">AMD Ryzen 7 3700X</a></td>
-    <td><a target="_blank" href="https://amzn.to/2ZgM4Ir"><img class="lazyload table-image" alt="best cpu for 2080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
+    <td><a target="_blank" href="">AMD Ryzen 7 3700X</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20"><img class="lazyload table-image" alt="best cpu for 2080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2ZgM4Ir">View on eBay</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20">View on eBay</a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Intel Core i9 9900K</a></td>
@@ -91,7 +91,7 @@ Ray-Tracing is a sophisticated new technology that makes the lighting in some ga
 <span>Best CPU for 2080 Ti</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2ZgM4Ir"><img class="lazyload" alt="best cpu for 1070" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20"><img class="lazyload" alt="best cpu for 1070" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 7 3700X</h2>
@@ -99,7 +99,7 @@ Ray-Tracing is a sophisticated new technology that makes the lighting in some ga
 <p>While this CPU may not be the fastest one on the entire market, what's lacking in terms of power is more than made up for in value.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ZgM4Ir">View on eBay</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20">View on eBay</a>
 </div>
 </div>
 </div>
@@ -186,7 +186,7 @@ What's the bottom line here?
 The Ryzen 7 3700X is undoubtedly the best CPU to pair with the 2080 Ti
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2ZgM4Ir">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 <div id="runner-up" class="featured-info-box">
@@ -416,14 +416,14 @@ So, if it's bang for your buck that you're after, the Intel i5 9400 is the best 
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2ZgM4Ir">AMD Ryzen 7 3700X</a></td>
-    <td><a target="_blank" href="https://amzn.to/2ZgM4Ir"><img class="lazyload table-image" alt="best cpu for 2080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20">AMD Ryzen 7 3700X</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20"><img class="lazyload table-image" alt="best cpu for 2080 ti" data-src="/img/cpu/gtx-1070/1600-af.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2ZgM4Ir">View on eBay</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07SXMZLPK/?tag=easypcus-20">View on eBay</a></td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.amazon.com/gp/product/B005404P9/?tag=easypcus-20">Intel Core i9 9900K</a></td>
