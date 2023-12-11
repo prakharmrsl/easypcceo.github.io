@@ -36,13 +36,13 @@ meta: "In this article we're taking a look at some of the smallest mini-ITX case
 	</tr>
   <tr>
     <td>Louqe Ghost S1</td>
-    <td><a target="_blank" href="https://amzn.to/2V0H2vR"><img class="lazyload table-image" alt="Louqe ghost s1" data-src="/img/cases/smallest-itx/louqe-ghost-s1.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00ZV5YKY6/?tag=easypcus-20"><img class="lazyload table-image" alt="Louqe ghost s1" data-src="/img/cases/smallest-itx/louqe-ghost-s1.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2V0H2vR">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00ZV5YKY6/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 	<tr>
 		<td>Skyreach 4 Mini</td>
@@ -56,13 +56,13 @@ meta: "In this article we're taking a look at some of the smallest mini-ITX case
 	</tr>
   <tr>
     <td>Cougar QBX</td>
-    <td><a target="_blank" href="https://amzn.to/3aNfFvO"><img class="lazyload table-image" alt="Cougar QBX cheapest mini itx case" data-src="/img/cases/smallest-itx/qbx.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07FSKXG4F/?tag=easypcus-20"><img class="lazyload table-image" alt="Cougar QBX cheapest mini itx case" data-src="/img/cases/smallest-itx/qbx.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Cheapest</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3aNfFvO">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07FSKXG4F/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -138,14 +138,14 @@ Here's a video overview of the cases I mentioned in this article. This guy is aw
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2V0H2vR"><img class="lazyload" alt="skyreach 4 mini case" data-src="/img/cases/smallest-itx/louqe-ghost-s1.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00ZV5YKY6/?tag=easypcus-20"><img class="lazyload" alt="skyreach 4 mini case" data-src="/img/cases/smallest-itx/louqe-ghost-s1.jpg" /></a>
 </div>
 <div class="text">
 <h2>Louqe Ghost S1</h2>
 <h3>Best Designed Mini-ITX Case</h3>
 <p>This case has the best design on the ITX market in my opinion. Its usage of space, build quality, and aesthetic is unrivaled.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2V0H2vR">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00ZV5YKY6/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -236,7 +236,7 @@ This becomes especially useful when you want to upgrade and are running out of r
 Rather than needing to take all of your components out and put them in a new case, you can simply add more room.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2V0H2vR">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B00ZV5YKY6/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 <div class="featured-info-box">
@@ -556,7 +556,7 @@ It's hard to argue hardware optimization gets any better than the A4, and for a 
 <h3>Best Budget Mini ITX Case</h3>
 <p>The Cougar QBX comes at a much lower cost than the Ncase M1, but as expected, it isn't as high quality. Still, for the price, it's the best budget Mini ITX case on the market.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3aNfFvO">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07FSKXG4F/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -639,7 +639,7 @@ Still, for such a low price, I'd consider the QBX to be pretty darn good for the
 Despite the side panels being plastic, I think the brushed finish looks pretty good and it's fingerprint resistant.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3aNfFvO">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07FSKXG4F/?tag=easypcus-20">View on Amazon</a>
 </div>
 
 ## Advantages of Mini-ITX Cases
