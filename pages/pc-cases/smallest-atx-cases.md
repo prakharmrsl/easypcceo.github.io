@@ -325,14 +325,14 @@ The case is mostly constructed of steel on the inside, but Corsair decided to us
 <span>ALSO AWESOME</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2RFXJcK"><img class="lazyload" alt="NZXT H500i" data-src="/img/case/nzxt-h500i.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20"><img class="lazyload" alt="NZXT H500i" data-src="/img/case/nzxt-h500i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H500i</h2>
 <h3>Best Looking Small ATX Case</h3>
 <p>NZXT is delivering an AWESOME case here, especially for the money. It's a small ATX but should still have enough room for most components, including larger GPUs, large motherboards, and radiators.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -426,7 +426,7 @@ This case has a sleek white paint job that's minimalistic but super good looking
 It also features a nice side panel window that allows you to display your components, illuminated by the case's RGB lighting.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2RFXJcK">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B07NY28MZW/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#nzxt-h500i-review">Read Review</a>
 </div>
 
