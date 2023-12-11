@@ -33,29 +33,29 @@ Here's a table of the top 5 best options on the market:
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/3d4aeKq">Fractal Design Node 804</a></td>
-    <td><a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3d4aeKq">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2TZZPI6">Thermaltake View 91</a></td>
-    <td><a target="_blank" href="https://amzn.to/2TZZPI6"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2TZZPI6">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20">Thermaltake View 91</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/33vLk1O">Fractal Design R5</a></td>
-    <td><a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/33vLk1O">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">Fractal Design R5</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/3ddFhn1">Corsair 750D</a></td>
-    <td><a target="_blank" href="https://amzn.to/3ddFhn1"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3ddFhn1">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">Corsair 750D</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/33xZJuv">Phanteks Enthoo Pro M TG</a></td>
-    <td><a target="_blank" href="https://amzn.to/33xZJuv"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/33xZJuv">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">Phanteks Enthoo Pro M TG</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -92,14 +92,14 @@ But first:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a>
 </div>
 <div class="text">
 <h2>Fractal Design Node 804</h2>
 <h3>Micro ATX Case with Drive Storage</h3>
 <p>This bad boy is small, but that doesn't mean it isn't spacious inside. The Node 804 is a cleverly designed case, great for hard drive storage.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -183,7 +183,7 @@ Although a larger case is probably best in terms of storage space, I decided to 
 Despite being so small, it manages to have great cooling options, loads of drive space, and it doesn't break the bank.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3d4aeKq">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#fractal-design-node-804">Read Review</a>
 </div>
 
@@ -193,14 +193,14 @@ Despite being so small, it manages to have great cooling options, loads of drive
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2TZZPI6"><img class="lazyload" alt="Thermaltake View 91 - case with lots of hard drive storage" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a>
+<a target="_blank" href=""><img class="lazyload" alt="Thermaltake View 91 - case with lots of hard drive storage" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a>
 </div>
 <div class="text">
 <h2>Thermaltake View 91</h2>
 <h3>Super Tower</h3>
 <p>This is a large, premium super case with a ton of hard drive space, not to mention everything else going for it. You can fit twelve 3.5" drives in this case without breaking a sweat. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -283,7 +283,7 @@ And can we take a moment to talk about the sheer magnitude of this beastly case?
 Perfect for enthusiasts that want a boat load of storage space for drives and lots of room for water pumps, cooling fans, graphics cards, etc.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2TZZPI6">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#thermaltake-view-91">Read Review</a>
 </div>
 
@@ -293,14 +293,14 @@ Perfect for enthusiasts that want a boat load of storage space for drives and lo
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload" alt="Fractal Design Define R5" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20"><img class="lazyload" alt="Fractal Design Define R5" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a>
 </div>
 <div class="text">
 <h2>Fractal Design Define R5</h2>
 <h3>ATX Midtower Case</h3>
 <p>This PC case has lots of 3.5" drive bays despite being a regular ATX mid tower pick. It's a standard ATX case without any flashy features, but is incredibly functional and an absolute steal for the price.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -383,7 +383,7 @@ At the core level, the Define R5 is just an improvement on previous models in th
 But considering how awesome the Define series is, the R5 is nothing short of excellent.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33vLk1O">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#fractal-design-r5">Read Review</a>
 </div>
 
@@ -393,14 +393,14 @@ But considering how awesome the Define series is, the R5 is nothing short of exc
 <span>Versatility Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/3ddFhn1"><img class="lazyload" alt="Corsair 750D case" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20"><img class="lazyload" alt="Corsair 750D case" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a>
 </div>
 <div class="text">
 <h2>Corsair 750D</h2>
 <h3>ATX Full Tower Case</h3>
 <p>Corsair's Obsidian line is quite popular, and for good reason. The 750D closes the gap between the 900D and the case that started it all for Corsair, the 800D.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -490,7 +490,7 @@ This case has 6 drive bays that are compatible with both 3.5" and 2.5" drives, i
 The 750D is a step down from the monstrous 900D, but still has enough room for a lot of hard drive storage space and a bunch of cooling fans too.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3ddFhn1">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#corsair-750d">Read Review</a>
 </div>
 
@@ -500,14 +500,14 @@ The 750D is a step down from the monstrous 900D, but still has enough room for a
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/33xZJuv"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/case.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20"><img class="lazyload" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/case.jpg" /></a>
 </div>
 <div class="text">
 <h2>Phanteks Enthoo Pro M TG</h2>
 <h3>Cheap Case for Hard Drive Storage</h3>
 <p>The Phanteks Enthoo Pro M TG ATX Mid Tower Case is an absolute monster of a case and has tons of modularity and support for builds of all types.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/33xZJuv">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -588,7 +588,7 @@ This mid-range PC case is a terrific all around case for hard drive storage, if 
 It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" drive bays.
 
 <div class="buttons-wrapper">
-  <a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/33xZJuv">Check Price</a>
+  <a target="_blank" class="left-button cta-button buy-button" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">Check Price</a>
 <a class="right-button cta-button learn-button" href="#phanteks-enthoo-pro-m-tg">Read Review</a>
 </div>
 
@@ -599,29 +599,29 @@ It supports up to eight 3.5" hard drive bays and up to three dedicated 2.5" driv
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/3d4aeKq">Fractal Design Node 804</a></td>
-    <td><a target="_blank" href="https://amzn.to/3d4aeKq"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3d4aeKq">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Fractal Design Node 804</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20"><img class="lazyload table-image" alt="Fractal Design Node 804 case" data-src="/img/cases/hard-drive-storage/node-804/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/2TZZPI6">Thermaltake View 91</a></td>
-    <td><a target="_blank" href="https://amzn.to/2TZZPI6"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2TZZPI6">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20">Thermaltake View 91</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20"><img alt="fractal design r5" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/view-91/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B079FZ77DB/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/33vLk1O">Fractal Design R5</a></td>
-    <td><a target="_blank" href="https://amzn.to/33vLk1O"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/33vLk1O">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">Fractal Design R5</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20"><img class="lazyload table-image" data-src="/img/cases/hard-drive-storage/define-r5/case.png" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/3ddFhn1">Corsair 750D</a></td>
-    <td><a target="_blank" href="https://amzn.to/3ddFhn1"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/3ddFhn1">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">Corsair 750D</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20"><img alt="corsair 750d" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/750d/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a href="https://amzn.to/33xZJuv">Phanteks Enthoo Pro M TG</a></td>
-    <td><a target="_blank" href="https://amzn.to/33xZJuv"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/33xZJuv">View on Amazon</a></td>
+    <td><a href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">Phanteks Enthoo Pro M TG</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20"><img alt="phanteks enthoo pro m tg" class="lazyload table-image" data-src="/img/cases/hard-drive-storage/case.jpg" /></a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -675,7 +675,7 @@ Nevertheless, crafty cable managers will figure it out just fine, and cable mana
 For more information on [cable management and airflow](/cable-management/), check out our guide!
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3d4aeKq">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B00K6OVG0I/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 ### Thermaltake View 91
@@ -714,7 +714,7 @@ The back of the case has 10 expansion slots, as this case will support up to an 
 All in all, this case has more than a dozen fan mounts and storage bays for your hard drives, making it one of the best cases for hard drive storage if you can afford it.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2TZZPI6">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="">Read Reviews on Amazon</a>
 </div>
 
 ### Fractal Design R5
@@ -746,7 +746,7 @@ The Define R5 is also the first case in this series to have ample cable manageme
 Not only will you have plenty of drive storage, but you'll also have enough room for all of your cables.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/33vLk1O">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B00Q2Z11QE/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 ### Corsair 750D
@@ -785,7 +785,7 @@ However, this case still looks good without having to be flashy.
 It's got a huge tempered glass side panel window, and a pretty sleek design as well, in addition to great cable management.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/3ddFhn1">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B00YJJBFIO/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 ### Phanteks Enthoo Pro M TG
@@ -861,5 +861,5 @@ On top of the case, Phanteks uses a removable bracket solution which is brillian
 All in all, this thing is pretty solid and you can't go wrong, especially if you want a case designed for custom hard drive storage.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/33xZJuv">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B01LRVHH6K/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
