@@ -26,34 +26,34 @@ meta: "If you don't want to bottleneck your 1080 Ti, you need to make sure you b
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/362vFIY">Intel Core i9-9900KF</a></td>
-    <td><a target="_blank" href="https://amzn.to/362vFIY"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">Intel Core i9-9900KF</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Best Gaming CPU</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/362vFIY">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2LsKVoG">Intel Core i9-9700k</a></td>
-    <td><a target="_blank" href="https://amzn.to/2LsKVoG"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">Intel Core i9-9700k</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Power</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2LsKVoG">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2Z2NwOa">AMD Ryzen 5 3600</a></td>
-    <td><a target="_blank" href="https://amzn.to/2Z2NwOa"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">AMD Ryzen 5 3600</a></td>
+    <td><a target="_blank" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Price/Performance</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2Z2NwOa">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -65,7 +65,7 @@ Or maybe you're on the hunt for a good CPU to pair with your [1080 Ti](/graphics
 
 It's important to choose a CPU that isn't going to bottleneck your graphics card. Since the 1080 Ti is a top-of-the-line graphics card, you need an awesome CPU to go with it.
 
-If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://amzn.to/362vFIY){: target="\_blank"} is our top pick.
+If you're on the hunt for the best CPU for the 1080 Ti, the [Intel i9-9900KF](https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20){: target="\_blank"} is our top pick.
 
 ## Best CPU for 1080 vs 1080 Ti?
 
@@ -77,7 +77,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since _most_ games
 <span>Best CPU for 1080 Ti</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/362vFIY"><img class="lazyload" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20"><img class="lazyload" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel Core i9-9900KF</h2>
@@ -85,7 +85,7 @@ Yes, the 1080 Ti is slightly more powerful than the 1080, but since _most_ games
 <p>The Intel Core i9-9900KF is the best CPU for the 1080 Ti, hands down. Sporting performance unrivaled really anywhere, this CPU is the be all end all of desktop processors in 2022. Thanks to its 8 cores and 16 threads, the Intel Core i9-9900KF is insanely powerful and pairs perfectly with the GTX 1080 Ti. 
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/362vFIY">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -177,14 +177,14 @@ There are a couple of notes you should take before purchasing one for yourself, 
 - Make sure you research your cooler before buying, as the 9900KF is a toasty monster
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/362vFIY">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <div id="runner-up" class="featured-info-box">
 <span>Best CPU for 1080</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2LsKVoG"><img class="lazyload" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20"><img class="lazyload" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a>
 </div>
 <div class="text">
 <h2>Intel i9-9700K</h2>
@@ -192,7 +192,7 @@ There are a couple of notes you should take before purchasing one for yourself, 
 <p>Although it doesn’t rank as high as the 9900K or 9900KF believe me, the 9700K is no slouch when it comes to gaming and rendering workloads either.
 </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2LsKVoG">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -278,21 +278,21 @@ Just as before, we have for you a couple of notes before making your purchase:
 - If you’re upgrading from the previous generation (8700K), the 9700K is not worth the money.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2LsKVoG">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <div id="budget-pick" class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Z2NwOa"><img class="lazyload" alt="best budget cpu for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a>
+<a target="_blank" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20"><img class="lazyload" alt="best budget cpu for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a>
 </div>
 <div class="text">
 <h2>Ryzen 5 3600</h2>
 <h3>Best Budget CPU for 1080</h3>
 <p>Finally, my favorite topic, budget picks. This time around we’ve strayed away from the Intel theme, opting for the new Ryzen 5 3600 and its beautiful price to performance ratio.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Z2NwOa">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -383,7 +383,7 @@ Now, if you’re comparing performance to our previous picks it does fall a bit 
 But just like our other picks, this chip can overclock, and that’s where you’ll find the best of this budget CPU. The overclocking potential of the 3600 is unbelievable, especially on an X570 board.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2Z2NwOa">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">Read Reviews on Amazon</a>
 </div>
 
 <table class="basic-table" align="center">
@@ -394,34 +394,34 @@ But just like our other picks, this chip can overclock, and that’s where you�
 		<th>See Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/362vFIY">Intel Core i9-9900KF</a></td>
-		<td><a target="_blank" href="https://amzn.to/362vFIY"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">Intel Core i9-9900KF</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20"><img class="lazyload table-image" alt="best cpu for 1080 ti" data-src="/img/cpu/i9-9900kf.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Gaming CPU</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/362vFIY">View on Amazon</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07MGBZWDZ/?tag=easypcus-20">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2LsKVoG">Intel Core i9-9700k</a></td>
-		<td><a target="_blank" href="https://amzn.to/2LsKVoG"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">Intel Core i9-9700k</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20"><img class="lazyload table-image" alt="i9 9700k, another great cpu for the 1080 ti" data-src="/img/cpu/core-i9.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Power</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2LsKVoG">View on Amazon</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07HHN6KBZ/?tag=easypcus-20">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Z2NwOa">AMD Ryzen 5 3600</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Z2NwOa"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">AMD Ryzen 5 3600</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20"><img class="lazyload table-image" alt="Best budget CPU for 1080 ti" data-src="/img/cpu/ryzen-5-3600.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Price/Performance</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Z2NwOa">View on Amazon</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B07STGGQ18/?tag=easypcus-20">View on Amazon</a></td>
 	</tr>
 </table>
 
