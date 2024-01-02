@@ -34,34 +34,34 @@ meta: "If you're tired of having your cables in a big jumbled mess, obstructing 
     <th>See Case</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2xsrJnf">NZXT H510i</a></td>
-    <td><a target="_blank" href="https://amzn.to/2xsrJnf"><img class="lazyload table-image" alt="NZXT H510i" data-src="/img/cases/cable-management/nzxt-h510i.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3RDbjOu">NZXT H510i</a></td>
+    <td><a target="_blank" href="https://amzn.to/3RDbjOu"><img class="lazyload table-image" alt="NZXT H510i" data-src="/img/cases/cable-management/nzxt-h510i.jpg" /></a></td>
      <td class="components">
       <ul>
       <li>Top Pick</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2xsrJnf">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3RDbjOu">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2Jeit97">Corsair Crystal 280X</a></td>
-    <td><a target="_blank" href="https://amzn.to/2Jeit97"><img class="lazyload table-image" data-src="/img/cases/cable-management/crystal-280x.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/47niLmJ">Corsair Crystal 280X</a></td>
+    <td><a target="_blank" href="https://amzn.to/47niLmJ"><img class="lazyload table-image" data-src="/img/cases/cable-management/crystal-280x.jpg" /></a></td>
      <td class="components">
       <ul>
       <li>Runner Up</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2Jeit97">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/47niLmJ">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2Uh64HU">Cooler Master MasterBox Pro 5 RGB</a></td>
-    <td><a target="_blank" href="https://amzn.to/2Uh64HU"><img class="lazyload table-image" data-src="/img/cases/cable-management/masterbox-5.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3HaePuJ">Cooler Master MasterBox Pro 5 RGB</a></td>
+    <td><a target="_blank" href="https://amzn.to/3HaePuJ"><img class="lazyload table-image" data-src="/img/cases/cable-management/masterbox-5.jpg" /></a></td>
      <td class="components">
       <ul>
       <li>Also Awesome</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2Uh64HU">View on Amazon</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3HaePuJ">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -73,7 +73,7 @@ That's why I've created this guide. The first case I ever bought had terrible ca
 
 Today, we're taking a look at three of the best pc cases for cable management on the market today.
 
-But if you are just here for the best case for cable management, we recommend the [NZXT H510i on Amazon](https://amzn.to/2xsrJnf){: target="\_blank"}. It's well-designed, good looking, quiet, inexpensive and of course, has terrific cable management options.
+But if you are just here for the best case for cable management, we recommend the [NZXT H510i on Amazon](https://amzn.to/3RDbjOu){: target="\_blank"}. It's well-designed, good looking, quiet, inexpensive and of course, has terrific cable management options.
 
 ## What is Cable Management?
 
@@ -114,14 +114,14 @@ But for now, here's what you need to know:
 <span>Our Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2xsrJnf"><img class="lazyload" alt="NZXT H510i" data-src="/img/cases/cable-management/nzxt-h510i.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3RDbjOu"><img class="lazyload" alt="NZXT H510i" data-src="/img/cases/cable-management/nzxt-h510i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H510i</h2>
 <h3>Best Case for Cable Management</h3>
 <p>This case looks awesome, has great airflow and has plenty of cable management channels including a power supply shroud. If you're looking for the best cable management case, the H510i is our top pick.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2xsrJnf">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3RDbjOu">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -208,21 +208,21 @@ There is a lot of room between the motherboard tray and the right side panel of 
 In addition, there are a ton of grommets and holes that you can use to route your cables, instead of having a big jumbled mess. But don't just take my word for it, you can check out this case's glowing reviews on Amazon as well.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2xsrJnf">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3RDbjOu">View on Amazon</a>
 </div>
 
 <div class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Jeit97"><img class="lazyload" alt="Corsair Crystal 580x" data-src="/img/cases/cable-management/crystal-280x.jpg" /></a>
+<a target="_blank" href="https://amzn.to/47niLmJ"><img class="lazyload" alt="Corsair Crystal 580x" data-src="/img/cases/cable-management/crystal-280x.jpg" /></a>
 </div>
 <div class="text">
 <h2>Corsair Crystal 280X</h2>
 <h3>Best Micro ATX Case for Cable Management</h3>
 <p>If this article wasn't about cable management, I'd rant and rave about how awesome the 280X looks. But it also happens to be one of the best micro ATX cases for cable management as well!</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Jeit97">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/47niLmJ">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -309,21 +309,21 @@ The best part about this case in my opinion is its stealthy secondary chamber wh
 Unfortunately this case doesn't have the best stock cooling, but you can add water-cooling radiators at the front and top of the case. You can also opt to add a few additional fans on the empty mounts.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2Jeit97">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/47niLmJ">View on Amazon</a>
 </div>
 
 <div class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Uh64HU"><img class="lazyload" alt="Cooler Master Masterbox 5" data-src="/img/cases/cable-management/masterbox-5.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3HaePuJ"><img class="lazyload" alt="Cooler Master Masterbox 5" data-src="/img/cases/cable-management/masterbox-5.jpg" /></a>
 </div>
 <div class="text">
 <h2>Cooler Master MasterBox Pro 5 RGB</h2>
 <h3>Best ATX Case for Cable Management</h3>
 <p>If this article wasn't about cable management, I'd rant and rave about how awesome the 280X looks. But it also happens to be one of the best micro ATX cases for cable management as well!</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Uh64HU">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3HaePuJ">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -417,7 +417,7 @@ The MasterCase line is Cooler Master's premium line designed for high-end builds
 That being said, in terms of cable management, you won't have any issues with the MasterBox Pro 5 RGB. It has a lot of grommets for your cables and plenty of space between the right panel and the motherboard tray.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2Uh64HU">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3HaePuJ">View on Amazon</a>
 </div>
 
 ## Cable Management Tools
