@@ -143,7 +143,7 @@ Kind of like redstone repeaters in Minecraft, WiFi extenders pick up your WiFi s
 
   <p>If you're interested in extending your WiFi's range, we recommend the Linksys AC1900 range extender.</p>
 
-  <p>It's powerful, easy to use, and pretty cheap. Click <a target="_blank" href="https://amzn.to/3TL1ErH">here</a> to check its current price on Amazon.</p>
+  <p>It's powerful, easy to use, and pretty cheap. Click <a target="_blank" href="https://amzn.to/3TGhBj5">here</a> to check its current price on Amazon.</p>
 
 </div>
 
@@ -225,7 +225,7 @@ My Powerline adapter was awesome and I didn't lag at all when I was using it.
 
   <p>I've used it personally and it worked like a charm. It was easy to setup, reliable, fast, and pretty cheap too. Best of all, I didn't have to run an Ethernet cable across my house.</p>
 
-  <p>I got mine on Amazon for cheap with Prime shipping. You can click <a target="_blank" href="https://amzn.to/33FsqG2">here</a> to check the current price.</p>
+  <p>I got mine on Amazon for cheap with Prime shipping. You can click <a target="_blank" href="https://amzn.to/3TL1ErH">here</a> to check the current price.</p>
 
 </div>
 
@@ -251,7 +251,7 @@ The download had a virus which screwed up my internet connection for a few weeks
 
 It wasn't until I identified and eliminated the virus (by wiping the drive it was on and losing all the data…) that I was able to recover my internet speeds.
 
-If you don't want to deal with a virus on your PC, I recommend getting an antivirus software like Norton. They're [cheap on Amazon](https://amzn.to/2WC3IVG){: target="\_blank"} and worth the investment.
+If you don't want to deal with a virus on your PC, I recommend getting an antivirus software like Norton. They're [cheap on Amazon](https://amzn.to/3S2lQ77){: target="\_blank"} and worth the investment.
 
 ### Check for on-system interference
 
