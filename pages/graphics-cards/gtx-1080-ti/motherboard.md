@@ -26,19 +26,19 @@ redirect_to: /motherboard/gtx-1080-ti/
 		<th>See Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2KvHHRh">Asus Prime Z370-P II</a></td>
-		<td><a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2KvHHRh">Check</a></td>
+		<td><a target="_blank" href="https://amzn.to/3RHhcKz">Asus Prime Z370-P II</a></td>
+		<td><a target="_blank" href="https://amzn.to/3RHhcKz"><img alt="best motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3RHhcKz">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Kwsqj8">Gigabyte X570 Gaming X</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Kwsqj8">Check</a></td>
+		<td><a target="_blank" href="https://amzn.to/48iJbHA">Gigabyte X570 Gaming X</a></td>
+		<td><a target="_blank" href="https://amzn.to/48iJbHA"><img alt="best amd motherboard for gtx 1080 ti" class="table-image lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/48iJbHA">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2Oek0xS">MSI Z390-A Pro</a></td>
-		<td><a target="_blank" href="https://amzn.to/2Oek0xS"><img class="lazyload table-image" alt="awesome intel motherboard for gtx 1080 ti" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2Oek0xS">Check</a></td>
+		<td><a target="_blank" href="https://amzn.to/3vn5i11">MSI Z390-A Pro</a></td>
+		<td><a target="_blank" href="https://amzn.to/3vn5i11"><img class="lazyload table-image" alt="awesome intel motherboard for gtx 1080 ti" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3vn5i11">Check</a></td>
 	</tr>
 </table>
 
@@ -52,7 +52,7 @@ Your motherboard really can make or break your system in some cases, so it’s d
 
 And since you're investing in such a beefy [GPU](/graphics-cards/) like the 1080 Ti, you need the right motherboard for the job.
 
-If you want the best motherboard for the GTX 1080 Ti, we recommend the [Asus Prime Z370-P II](https://amzn.to/2KvHHRh){: target="\_blank"}.
+If you want the best motherboard for the GTX 1080 Ti, we recommend the [Asus Prime Z370-P II](https://amzn.to/3RHhcKz){: target="\_blank"}.
 
 It's by far the all-around best choice for the 1080 Ti.
 
@@ -60,14 +60,14 @@ It's by far the all-around best choice for the 1080 Ti.
 <span>Our Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2KvHHRh"><img alt="best motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3RHhcKz"><img alt="best motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/all-around.jpg" /></a>
 </div>
 <div class="text">
 <h2>Asus Prime Z370-P II</h2>
 <h3>Best Motherboard for GTX 1080 Ti</h3>
 <p>If you're rocking a 1080 Ti and you want the best motherboard to go with it, you can't go wrong with the Prime Z370-P II from ASUS.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2KvHHRh">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3RHhcKz">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -154,21 +154,21 @@ The Z370-P II manages to fit in 2 PCIE x16 Gen 3 lanes and 4 PCIE x1 lanes, so y
 Oh, and did I mention its 2 M.2 slots?
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/35bVbcZ">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3RHhcKz">Read Reviews on Amazon</a>
 </div>
 
 <div id="our-pick" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Kwsqj8"><img alt="best amd motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a>
+<a target="_blank" href="https://amzn.to/48iJbHA"><img alt="best amd motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/amd.jpg" /></a>
 </div>
 <div class="text">
 <h2>Gigabyte X570 Gaming X</h2>
 <h3>Best AMD Motherboard for the 1080 Ti</h3>
 <p>Switching gears now to AMD, we have one of the best, if not the best, X570 motherboard you can buy right now. The Gigabyte X570 Gaming X.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Kwsqj8">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/48iJbHA">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -255,21 +255,21 @@ Interestingly, those chipset improvements have allowed for much faster RAM than 
 This board’s also got RGB Fusion addressable RGB lighting, so go ham with all that RGB goodness.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2Kwsqj8">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/48iJbHA">Read Reviews on Amazon</a>
 </div>
 
 <div id="also-awesome" class="featured-info-box">
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2Oek0xS"><img alt="awesome intel motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3vn5i11"><img alt="awesome intel motherboard for gtx 1080 ti" class="lazyload" data-src="/img/gpu/1080ti/motherboard/intel.jpg" /></a>
 </div>
 <div class="text">
 <h2>MSI Z390-A Pro</h2>
 <h3>Best Intel Motherboard for the 1080 Ti</h3>
 <p>Finally, we’ll be wrapping up our picks with a trip back down Intel lane, showing off the MSI Z390-A Pro.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2Oek0xS">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3vn5i11">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -356,7 +356,7 @@ Heading over to the SATA ports, you’ll be getting your money’s worth with 6 
 In terms of other features, the Z390-A Pro supports RGB, but doesn’t entirely stand out with any other flashy features due to its relatively low price. Though, you can sleep sound knowing that your new board can support 4000MHz RAM and above.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2Oek0xS">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3vn5i11">Read Reviews on Amazon</a>
 </div>
 
 ## Finding a Motherboard for Your GPU
