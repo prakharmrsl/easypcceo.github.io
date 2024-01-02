@@ -143,7 +143,7 @@ Kind of like redstone repeaters in Minecraft, WiFi extenders pick up your WiFi s
 
   <p>If you're interested in extending your WiFi's range, we recommend the Linksys AC1900 range extender.</p>
 
-  <p>It's powerful, easy to use, and pretty cheap. Click <a target="_blank" href="https://amzn.to/2WD8SQX">here</a> to check its current price on Amazon.</p>
+  <p>It's powerful, easy to use, and pretty cheap. Click <a target="_blank" href="https://amzn.to/3TL1ErH">here</a> to check its current price on Amazon.</p>
 
 </div>
 
