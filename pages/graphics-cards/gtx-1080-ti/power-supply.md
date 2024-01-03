@@ -34,34 +34,34 @@ redirect_from: /crypto-mining/bitcoin-hardware/
 		<th>See Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ocV00Y">Corsair RM650x</a></td>
-		<td><a target="_blank" href="https://amzn.to/2ocV00Y"><img class="table-image" alt="Corsair RM650x" src="/img/gpu/1080ti/power-supply/corsair-rm650x.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/4aFo83w">Corsair RM650x</a></td>
+		<td><a target="_blank" href="https://amzn.to/4aFo83w"><img class="table-image" alt="Corsair RM650x" src="/img/gpu/1080ti/power-supply/corsair-rm650x.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Fully-Modular</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2ocV00Y">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/4aFo83w">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2oSQbdf">Raidmax Scorpio 535W</a></td>
-		<td><a target="_blank" href="https://amzn.to/2oSQbdf"><img class="table-image" alt="Raidmax Scorpio RX" src="/img/gpu/1080ti/power-supply/raidmax-scorpio-rx.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/48j6sct">Raidmax Scorpio 535W</a></td>
+		<td><a target="_blank" href="https://amzn.to/48j6sct"><img class="table-image" alt="Raidmax Scorpio RX" src="/img/gpu/1080ti/power-supply/raidmax-scorpio-rx.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Semi-Modular</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2oSQbdf">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/48j6sct">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2ngudkh">Seasonic S12II</a></td>
-		<td><a target="_blank" href="https://amzn.to/2ngudkh"><img class="table-image" alt="Seasonic non modular power supply" src="/img/gpu/1080ti/power-supply/seasonic.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/3S7ZAsU">Seasonic S12II</a></td>
+		<td><a target="_blank" href="https://amzn.to/3S7ZAsU"><img class="table-image" alt="Seasonic non modular power supply" src="/img/gpu/1080ti/power-supply/seasonic.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Non-Modular</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2ngudkh">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3S7ZAsU">Check</a></td>
 	</tr>
 </table>
 
@@ -75,20 +75,20 @@ Buy a power supply with too much wattage?
 
 You'll needlessly spend extra dollars that you could be allocating towards other aspects of your computer.
 
-If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/), we recommend the [Corsair RM650x](https://amzn.to/2ocV00Y){: target="\_blank"}. It has plenty of power, it's fully modular, and its 80+ Gold certification makes it incredibly power efficient.
+If you want the best power supply for the [GTX 1080 Ti](/graphics-cards/gtx-1080-ti/), we recommend the [Corsair RM650x](https://amzn.to/4aFo83w){: target="\_blank"}. It has plenty of power, it's fully modular, and its 80+ Gold certification makes it incredibly power efficient.
 
 <div id="our-pick" class="featured-info-box">
 <span>Our Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2ocV00Y"><img alt="Corsair RM650x" src="/img/gpu/1080ti/power-supply/corsair-rm650x.jpg" /></a>
+<a target="_blank" href="https://amzn.to/4aFo83w"><img alt="Corsair RM650x" src="/img/gpu/1080ti/power-supply/corsair-rm650x.jpg" /></a>
 </div>
 <div class="text">
 <h2>Corsair RM650x</h2>
 <h3>Fully-Modular Power Supply</h3>
 <p>This 80+ Gold ceritifed power supply is an absolute monster. Thanks to its fully-modular design, the RM650x makes <a href="/cable-management/">cable management</a> a breeze, and it has more than enough power to run not one, but two GTX 1080 Ti's at the same time.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ogdxcP">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/4aFo83w">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -166,28 +166,28 @@ If you’ve decided to opt for a fully-modular power supply for whatever reason,
 
 The RM650x 650W PSU provides enough power for most, if not all, 1080 Ti-based systems.
 
-If that’s not the case for you, however, feel free to opt for the [RM750x](https://amzn.to/2o6PmgF){: target="\_blank"} or [RM850x](https://amzn.to/2oYIC4X){: target="\_blank"} if you really think you need it.
+If that’s not the case for you, however, feel free to opt for the [RM750x](https://amzn.to/4aFo83w){: target="\_blank"} or [RM850x](https://amzn.to/3vksLzZ){: target="\_blank"} if you really think you need it.
 
 650 watts is most plenty for any system – even with a 1080 Ti – and can be overkill at times.
 
 At least you’ll have a bit of overclocking headroom and won’t have to worry about it dying anytime soon, and hey those cable braids are pretty sexy to boot.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2ogdxcP">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/4aFo83w">Read Reviews on Amazon</a>
 </div>
 
 <div id="runner-up" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2oSQbdf"><img alt="Raidmax Scorpio RX" src="/img/gpu/1080ti/power-supply/raidmax-scorpio-rx.jpg" /></a>
+<a target="_blank" href="https://amzn.to/48j6sct"><img alt="Raidmax Scorpio RX" src="/img/gpu/1080ti/power-supply/raidmax-scorpio-rx.jpg" /></a>
 </div>
 <div class="text">
 <h2>Raidmax Scorpio 535W</h2>
 <h3>Semi-Modular Power Supply</h3>
 <p>This power supply is about half the price of the one above, but it's still easy to keep your cables tidy, it has plenty of power, and an 80+ Bronze certification.</p> 
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/31Mzgb2">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/48j6sct">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -273,21 +273,21 @@ That doesn’t mean go throw it down the stairs though.
 Please don’t do that...
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/31Mzgb2">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/48j6sct">Read Reviews on Amazon</a>
 </div>
 
 <div id="budget-pick" class="featured-info-box">
 <span>Budget Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2ngudkh"><img alt="Seasonic non modular power supply" src="/img/gpu/1080ti/power-supply/seasonic.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3S7ZAsU"><img alt="Seasonic non modular power supply" src="/img/gpu/1080ti/power-supply/seasonic.jpg" /></a>
 </div>
 <div class="text">
 <h2>Seasonic S12II</h2>
 <h3>Non-Modular Power Supply</h3>
 <p>If you – for some reason – want a regular, non-modular power supply, this is our top pick. It's good for builders on a budget, although I don't know what kind of budget you're on if you can afford a 1080 Ti...</p> 
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oSQbdf">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/48j6sct">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -380,7 +380,7 @@ That being said, you don't _need_ a modular power supply, so it's really up to y
 But if I was building a gaming PC with a 1080 Ti, I'd be going fully modular and 80+ Gold certified all the way!
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2oSQbdf">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/48j6sct">Read Reviews on Amazon</a>
 </div>
 
 ## Powering a GTX 1080 Ti Crypto Mining Rig
