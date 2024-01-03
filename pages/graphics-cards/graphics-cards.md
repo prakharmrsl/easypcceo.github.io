@@ -28,31 +28,31 @@ redirect_from: /crypto-mining/rx-580-review/
 		<td><img alt="gtx 1080 ti graphics card" class="table-image" src="/img/gpu/gtx-1080ti.png" /></td>
 		<td>GTX 1080 Ti</td>
 		<td>4K</td>
-		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07MQJSQ6C/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07MQJSQ6C&linkId=875db39646c076f79ce2fbb244b0cce3">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07MQJSQ6C/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07MQJSQ6C&linkId=875db39646c076f79ce2fbb244b0cce3">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1080 graphics card" class="table-image" src="/img/gpu/gtx-1080-windforce.png" /></td>
 		<td>GTX 1080</td>
 		<td>1440p</td>
-		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01IR6LMLO/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IR6LMLO&linkId=7322c4df5cb8989b3718e242954d76bb">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01IR6LMLO/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01IR6LMLO&linkId=7322c4df5cb8989b3718e242954d76bb">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1070 graphics card" class="table-image" src="/img/gpu/zotac-gtx-1070.png" /></td>
 		<td>GTX 1070</td>
 		<td>1440p/1080p</td>
-		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01LLAJ8PU/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LLAJ8PU&linkId=23c185d078307ef68e9df22845927aa6">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B01LLAJ8PU/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01LLAJ8PU&linkId=23c185d078307ef68e9df22845927aa6">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="gtx 1060 graphics card" class="table-image" src="/img/gpu/zotac-1060.png" /></td>
 		<td>GTX 1060</td>
 		<td>1080p</td>
-		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07PXV15MB/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PXV15MB&linkId=8dad43ccb4b0825ae3187eff04e1ebeb">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B07PXV15MB/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07PXV15MB&linkId=8dad43ccb4b0825ae3187eff04e1ebeb">Check Price</a></td>
 	</tr>
 	<tr>
 		<td><img alt="RX 580 graphics card" class="table-image" src="/img/gpu/rx-580-pulse.png" /></td>
 		<td>RX 580</td>
 		<td>1080p</td>
-		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B06ZZ6FMF8/ref=as_li_tl?ie=UTF8&tag=graphics-cards01-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06ZZ6FMF8&linkId=f9f199ba56c9775838d2a522373e08a7">Check Price</a></td>
+		<td><a class="big-button" target="_blank" href="https://www.amazon.com/gp/product/B06ZZ6FMF8/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06ZZ6FMF8&linkId=f9f199ba56c9775838d2a522373e08a7">Check Price</a></td>
 	</tr>
 </table>
 
@@ -72,14 +72,14 @@ Now let’s take a look at each graphics card one by one.
 <span>OUR PICK</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2ntt6gV"><img alt="gtx 1080 ti graphics card" src="/img/gpu/1080ti-example.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3RBQ4MQ"><img alt="gtx 1080 ti graphics card" src="/img/gpu/1080ti-example.jpg" /></a>
 </div>
 <div class="text">
 <h2>ASUS ROG Strix GTX 1080 Ti OC</h2>
 <h3>Best Graphics Card for 4K</h3>
 <p>The GTX 1080 Ti is a monster – if you want to max out just about everything in 1440p with ease, the GTX 1080 Ti is for you. </p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2ntt6gV">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3RBQ4MQ">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -158,7 +158,7 @@ Packing performance often rivaling the Titan XP, this graphics card is reasonabl
 Packing 3584 CUDA cores, 224 texture units and 88ROPs, it ships with just a tad bit less VRAM than the Titan X. Still, this is the fastest of Nvidia’s Pascal cards, and will be able to handle anything you throw at it.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ntt6gV">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3RBQ4MQ">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/">Read Review</a>
 </div>
 
