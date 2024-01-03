@@ -36,34 +36,34 @@ redirect_from: /best-1440p-gaming-monitors/
     <th>See Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2mf02cq">LG 32GK650F-B</a></td>
-    <td><a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/4aKvG4U">LG 32GK650F-B</a></td>
+    <td><a target="_blank" href="https://amzn.to/4aKvG4U"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Freesync</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2mf02cq">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/4aKvG4U">Check</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2n8DMBo">ASUS ROG PG279Q</a></td>
-    <td><a target="_blank" href="https://amzn.to/2n8DMBo"><img alt="best g sync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/41MIvIc">ASUS ROG PG279Q</a></td>
+    <td><a target="_blank" href="https://amzn.to/41MIvIc"><img alt="best g sync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>G-Sync</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2n8DMBo">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/41MIvIc">Check</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2n7zhaf">AOC 22V2H</a></td>
-    <td><a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3NNMnTg">AOC 22V2H</a></td>
+    <td><a target="_blank" href="https://amzn.to/3NNMnTg"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a></td>
     <td class="components">
       <ul>
       <li>Cheap</li>
       </ul>
     </td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2n7zhaf">Check</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3NNMnTg">Check</a></td>
   </tr>
 </table>
 
@@ -75,20 +75,20 @@ In this post, we're going to take a look at the top 3 best monitors for your 108
 
 After all, it'd be a shame for you to buy such an awesome card, only to waste that performance on a low quality monitor.
 
-If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [LG 32GK650F-B](https://amzn.to/2mf02cq){: target="\_blank"}. It's a stunning 1440p monitor with an impressive refresh rate and a great price.
+If you just want to buy the best monitor for the GTX 1080 Ti, we recommend the [LG 32GK650F-B](https://amzn.to/4aKvG4U){: target="\_blank"}. It's a stunning 1440p monitor with an impressive refresh rate and a great price.
 
 <div id="runner-up" class="featured-info-box">
 <span>Our Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2n8DMBo"><img alt="best g sync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a>
+<a target="_blank" href="https://amzn.to/41MIvIc"><img alt="best g sync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/asus-rog-pg279q.jpg" /></a>
 </div>
 <div class="text">
 <h2>ASUS ROG PG279Q</h2>
 <h3>Best Monitor for GTX 1080 Ti</h3>
 <p>This stunning 1440p monitor is an absolute beast. If you're rocking a 1080 Ti, you'll want a monitor like this with a stunning display.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2n8DMBo">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/41MIvIc">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -179,21 +179,21 @@ On top of that this monitor also sports an IPS panel, meaning it has noticeably 
 This monitor also supports display port 1.2, HDMI 1.4, and comes equipped with two USB 3.0 ports.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2n8DMBo">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/41MIvIc">Read Reviews on Amazon</a>
 </div>
 
 <div id="our-pick" class="featured-info-box">
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a>
+<a target="_blank" href="https://amzn.to/4aKvG4U"><img alt="best freesync monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a>
 </div>
 <div class="text">
 <h2>LG 32GK650F-B</h2>
 <h3>32-Inch Gaming Monitor</h3>
 <p>Coming in with a much lower price tag than our top pick above, this monitor punches above its weight class in terms of performance. Beautiful colors, a high refresh rate, and an incredibly low price make this monitor our second favorite on the list.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2mf02cq">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/4aKvG4U">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -281,21 +281,21 @@ That’s not even all! On top of sporting that massive display, this monitor run
 This allows for a completely seamless and smooth gameplay experience, especially when paired with its included FreeSync support.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2mf02cq">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/4aKvG4U">Read Reviews on Amazon</a>
 </div>
 
 <div id="also-awesome" class="featured-info-box">
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="awesome budget monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3NNMnTg"><img alt="awesome budget monitor for gtx 1080 ti" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a>
 </div>
 <div class="text">
 <h2>AOC 22V2H</h2>
 <h3>Cheap Monitor for GTX 1080 Ti</h3>
 <p>This one is our pick for gamers on a budget, just in case you spent a bit too much on your new 1080 Ti. Don't worry, this budget pick is still an awesome choice for the money!</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2n7zhaf">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3NNMnTg">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -386,7 +386,7 @@ Support for HDMI 1.4 is awesome, and whether or not you consider the included VG
 Though, astoundingly, this El Cheapo monitor has managed to include FreeSync support amongst its other features. So you can, once again, expect a smooth stutterless experience.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2n7zhaf">Read Reviews on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3NNMnTg">Read Reviews on Amazon</a>
 </div>
 
 <table class="basic-table" align="center">
@@ -397,14 +397,14 @@ Though, astoundingly, this El Cheapo monitor has managed to include FreeSync sup
 		<th>See Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2mf02cq">LG 32GK650F-B</a></td>
-		<td><a target="_blank" href="https://amzn.to/2mf02cq"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/4aKvG4U">LG 32GK650F-B</a></td>
+		<td><a target="_blank" href="https://amzn.to/4aKvG4U"><img alt="best freesync monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/lg-32gk.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Freesync</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2mf02cq">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/4aKvG4U">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://amzn.to/2n8DMBo">ASUS ROG PG279Q</a></td>
@@ -417,14 +417,14 @@ Though, astoundingly, this El Cheapo monitor has managed to include FreeSync sup
 		<td><a target="_blank" class="big-button" href="https://amzn.to/2n8DMBo">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2n7zhaf">AOC 22V2H</a></td>
-		<td><a target="_blank" href="https://amzn.to/2n7zhaf"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/3NNMnTg">AOC 22V2H</a></td>
+		<td><a target="_blank" href="https://amzn.to/3NNMnTg"><img alt="cheapest monitor for gtx 1080 ti" class="table-image" src="/img/gpu/1080ti/monitor/aoc-22v2h.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Cheap</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2n7zhaf">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3NNMnTg">Check</a></td>
 	</tr>
 </table>
 
