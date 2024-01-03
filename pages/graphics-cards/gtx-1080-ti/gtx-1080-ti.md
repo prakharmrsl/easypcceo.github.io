@@ -52,14 +52,14 @@ redirect_from: /crypto-mining/gtx-1080-review/
 		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B072WBS76K/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B072WBS76K&linkId=061a9005a1ac38df21019efb0c0ff322">Check</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming</a></td>
-		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77"><img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="table-image" src="/img/gpu/geforce-1080ti-hybrid.jpg" /></a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming</a></td>
+		<td><a target="_blank" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77"><img alt="EVGA GeForce GTX 1080 Ti SC2 Hybrid Gaming" class="table-image" src="/img/gpu/geforce-1080ti-hybrid.jpg" /></a></td>
 		<td class="components">
 			<ul>
 			<li>Best Cooling</li>
 			</ul>
 		</td>
-		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check</a></td>
+		<td><a target="_blank" class="big-button" href="https://www.amazon.com/gp/product/B0713XX64Y/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B0713XX64Y&linkId=fc2a92393d642a7845c00d24f047ef77">Check</a></td>
 	</tr>
 	<tr>
 		<td><a target="_blank" href="https://www.amazon.com/gp/product/B07K9DBF4X/ref=as_li_tl?ie=UTF8&tag=easypcus-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K9DBF4X&linkId=99d5e4a4f3f59854dfb47ab2f992d489">PNY GeForce GTX 1080 Ti</a></td>
@@ -237,10 +237,10 @@ When choosing a monitor for your 1080 Ti system, you would probably think you sh
 
 There really is no need to head anywhere past 1440p on a 1080Ti for games unless you absolutely cannot have anything but the greatest 4k quality. So we just suggest sticking to a high refresh rate 1440p monitor.
 
-Our top pick is the [ASUS ROG PG279Q](https://amzn.to/2mAqD3S){: target="\_blank"}. It's an awesome 1440p monitor with Freesync, stunning visuals, an impressive refresh rate, and a great price tag.
+Our top pick is the [ASUS ROG PG279Q](https://amzn.to/3tK0xxS){: target="\_blank"}. It's an awesome 1440p monitor with Freesync, stunning visuals, an impressive refresh rate, and a great price tag.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2mAqD3S">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3tK0xxS">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/monitor/">Read Our Guide</a>
 </div>
 
@@ -255,7 +255,7 @@ Starting with the best performance choice there's no other but the Intel i9-9900
 If you're looking for the best bang for your buck, the best option is the Intel i9-9700K if you're buying brand new on Amazon or Newegg. For the used market, used 7700K and 8700K's hold up fairly well.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2r1tFQu">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/3H2NVoP">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/cpu/">Read Our Guide</a>
 </div>
 
@@ -267,10 +267,10 @@ The GTX 1080 Ti is definitely one power hungry piece of hardware, but that's to 
 
 The minimum required PSU wattage for most 1080 Ti's is a massive 600W to 650W. Now, this doesn't mean the 1080 Ti draws 600W to 650W of power, it just means that on average builds that include a 1080 Ti have a total power draw nearing that wattage.
 
-With that said, our chosen power supply for the best power supply for a 1080 Ti is the 2018 model of the Corsair RMX series' [RM650x](https://amzn.to/2ocV00Y){: target="\_blank"} 80+ gold rated fully modular power supply.
+With that said, our chosen power supply for the best power supply for a 1080 Ti is the 2018 model of the Corsair RMX series' [RM650x](https://amzn.to/41I2WWm){: target="\_blank"} 80+ gold rated fully modular power supply.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2ocV00Y">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/41I2WWm">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/power-supply/">Read Our Guide</a>
 </div>
 
@@ -284,10 +284,10 @@ No, you don't need to shell out hundreds of dollars on a top-of-the-line board, 
 
 The motherboard should be able to support other high-end components that you should be using with your 1080 Ti. After all, the 1080 Ti is a high-end GPU, and it would only make sense to use it with other high-end components.
 
-Our chosen motherboard for the 1080 Ti is the [Asus Prime Z370-P II](https://amzn.to/2KvHHRh){: target="\_blank"}. It's a solid all-around board that has plenty of awesome features.
+Our chosen motherboard for the 1080 Ti is the [Asus Prime Z370-P II](https://amzn.to/48pKip6){: target="\_blank"}. It's a solid all-around board that has plenty of awesome features.
 
 <div class="buttons-wrapper">
-	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/2KvHHRh">Check Price</a>
+	<a target="_blank" class="left-button cta-button buy-button" href="https://amzn.to/48pKip6">Check Price</a>
 <a class="right-button cta-button learn-button" href="/graphics-cards/gtx-1080-ti/motherboard/">Read Our Guide</a>
 </div>
 
