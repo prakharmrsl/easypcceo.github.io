@@ -330,14 +330,14 @@ Now let's take a look at the best PC cases for the money:
 <span>Top Pick</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2oFt85v"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3S3aIqF"><img class="lazyload" alt="Corsair Carbide Series 400C" data-src="/img/case/corsair-carbide-400c.jpg" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Series 400C</h2>
 <h3>Best ATX Case</h3>
 <p>The Corsair Carbide Series 400C is our favorite ATX case on the market. Loaded with functionality, this case is much smaller than the 600C - the case's big brother - thanks to Corsair removing this model's optical drive bays.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2oFt85v">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3S3aIqF">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -429,14 +429,14 @@ If you're in the market for a 400C, check this case out. Click [here](/budget-pc
 <span>Runner Up</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/347I77A"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3H5MPZq"><img class="lazyload" alt="NZXT H400i: best micro atx case" data-src="/img/case/matx/h400i.jpg" /></a>
 </div>
 <div class="text">
 <h2>NZXT H400i</h2>
 <h3>Best Micro ATX Case</h3>
 <p>The NZXT H400i is the smallest micro ATX case on the market, and features one of the best designs we've ever seen. This small micro ATX case has a spacious interior, great airflow, and easy cable management.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/347I77A">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3H5MPZq">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -519,14 +519,14 @@ The greatness doesn’t stop at looks for the H400i, as its features set it apar
 <span>Also Awesome</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2MUOsLS"><img class="lazyload" alt="Corsair Carbide Series Air 540" data-src="/img/case/carbide-air-540.png" /></a>
+<a target="_blank" href="https://amzn.to/47glH4F"><img class="lazyload" alt="Corsair Carbide Series Air 540" data-src="/img/case/carbide-air-540.png" /></a>
 </div>
 <div class="text">
 <h2>Corsair Carbide Series Air 540</h2>
 <h3>Best Compact ATX Case</h3>
 <p>The Corsair Air 540 is coming in close second on our list. This case is compact, but with a surprisingly spacious interior. There's plenty of room for hard drives, radiators, and graphics cards too.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2MUOsLS">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/47glH4F">Check Price on Amazon</a>
 </div>
 </div>
 </div>
