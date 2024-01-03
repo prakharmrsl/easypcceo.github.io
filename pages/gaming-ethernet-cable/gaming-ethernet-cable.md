@@ -28,19 +28,19 @@ meta: "We're taking a look at the best ethernet cable for the Xbox One in!"
 		<th>Price</th>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2X7aOl9"><img class="lazyload table-image" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a></td>
-		<td><a target="_blank" href="https://amzn.to/2X7aOl9">Mediabridge RJ45 Cat5e 25ft Cable</a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2X7aOl9">View on Amazon</a></td>
+		<td><a target="_blank" href="https://amzn.to/3S4H30k"><img class="lazyload table-image" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/3S4H30k">Mediabridge RJ45 Cat5e 25ft Cable</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3S4H30k">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2UYxvFA"><img class="lazyload table-image" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/rite-av.jpg" /></a></td>
-		<td><a target="_blank" href="https://amzn.to/2UYxvFA">RiteAV Cat6 50ft Cable</a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2UYxvFA">View on Amazon</a></td>
+		<td><a target="_blank" href="https://amzn.to/3NNRhzO"><img class="lazyload table-image" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/rite-av.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/3NNRhzO">RiteAV Cat6 50ft Cable</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/3NNRhzO">View on Amazon</a></td>
 	</tr>
 	<tr>
-		<td><a target="_blank" href="https://amzn.to/2R64ias"><img class="lazyload table-image" alt="DanYee 10Ft cable CAT7" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a></td>
-		<td><a target="_blank" href="https://amzn.to/2R64ias">DanYee Cat 7 10ft Cable</a></td>
-		<td><a target="_blank" class="big-button" href="https://amzn.to/2R64ias">View on Amazon</a></td>
+		<td><a target="_blank" href="https://amzn.to/48l2ik8"><img class="lazyload table-image" alt="DanYee 10Ft cable CAT7" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a></td>
+		<td><a target="_blank" href="https://amzn.to/48l2ik8">DanYee Cat 7 10ft Cable</a></td>
+		<td><a target="_blank" class="big-button" href="https://amzn.to/48l2ik8">View on Amazon</a></td>
 	</tr>
 </table>
 
@@ -115,14 +115,14 @@ If you do decide to go for Cat6 cables, you'll need to upgrade _all_ of the othe
 <span>Best Ethernet Cable for Xbox One</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2X7aOl9"><img class="lazyload" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a>
+<a target="_blank" href="https://amzn.to/3S4H30k"><img class="lazyload" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a>
 </div>
 <div class="text">
 <h2>Mediabridge RJ45 Cat6</h2>
 <h3>Gaming Ethernet Cable</h3>
-<p>The <a target="_blank" href="https://amzn.to/2X7aOl9">Mediabridge RJ45 Cat5e</a> is the best Ethernet cable for the Xbox One.</p>
+<p>The <a target="_blank" href="https://amzn.to/3S4H30k">Mediabridge RJ45 Cat5e</a> is the best Ethernet cable for the Xbox One.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2X7aOl9">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3S4H30k">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -207,21 +207,21 @@ During my tests, I did not experience any network difficulty. I played several g
 For less than $10, this is a fantastic Cat5e gaming Ethernet cable for the Xbox One.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2X7aOl9">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3S4H30k">View on Amazon</a>
 </div>
 
 <div id="xbox-one-x-ethernet-cable" class="featured-info-box">
 <span>Best Ethernet Cable for Xbox One X</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2UYxvFA"><img class="lazyload" alt="Importer520 Cat6 RJ45 50ft Cable" data-src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
+<a target="_blank" href="https://amzn.to/3NNRhzO"><img class="lazyload" alt="Importer520 Cat6 RJ45 50ft Cable" data-src="/img/gaming-ethernet-cable/importer520.jpeg" /></a>
 </div>
 <div class="text">
 <h2>Importer520 Cat6 RJ45</h2>
 <h3>50Ft cable</h3>
-<p>The <a target="_blank" href="https://amzn.to/2UYxvFA">Importer520 Cat6 RJ45 50ft cable</a> is the best Ethernet cable for the Xbox One X.</p>
+<p>The <a target="_blank" href="https://amzn.to/3NNRhzO">Importer520 Cat6 RJ45 50ft cable</a> is the best Ethernet cable for the Xbox One X.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2UYxvFA">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/3NNRhzO">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -302,21 +302,21 @@ The cable is 50 feet long, which means you can run the wire from your router to 
 As far as connection goes, the Importer520 is another fantastic gaming Ethernet cable. It's a Cat6 Ethernet cable, which is ideal for gaming. If you want to futureproof your infrastructure, buying a Cat6 Ethernet cable is a good idea. This is also a great Ethernet cable for PS4 Pro. This is also a great ethernet cable for gaming on the Xbox One.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2UYxvFA">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/3NNRhzO">View on Amazon</a>
 </div>
 
 <div id="xbox-one-x-ethernet-cable" class="featured-info-box">
 <span>Best Ethernet Cable for Gaming</span>
 <div class="content">
 <div class="img">
-<a target="_blank" href="https://amzn.to/2R64ias"><img class="lazyload" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a>
+<a target="_blank" href="https://amzn.to/48l2ik8"><img class="lazyload" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a>
 </div>
 <div class="text">
 <h2>DanYee Cat 7 Ethernet Cable</h2>
 <h3>26Ft cable</h3>
 <p>This Ethernet cable from DanYee is pretty dope and a good pick for any console or gaming PC.</p>
 <div class="btn btn-centered">
-<a target="_blank" class="cta-button buy-button" href="https://amzn.to/2R64ias">Check Price on Amazon</a>
+<a target="_blank" class="cta-button buy-button" href="https://amzn.to/48l2ik8">Check Price on Amazon</a>
 </div>
 </div>
 </div>
@@ -398,7 +398,7 @@ Compared to my old Cat5e cables, I was surprised by the noticeable difference be
 If you're a gamer wanting to improve your connection, I'd highly recommend this Ethernet cable.
 
 <div class="btn-center">
-  <a target="_blank" class="big-button-center" href="https://amzn.to/2R64ias">View on Amazon</a>
+  <a target="_blank" class="big-button-center" href="https://amzn.to/48l2ik8">View on Amazon</a>
 </div>
 
 <table>
@@ -408,19 +408,19 @@ If you're a gamer wanting to improve your connection, I'd highly recommend this 
     <th>Price</th>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2X7aOl9"><img class="lazyload table-image" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a></td>
-    <td><a target="_blank" href="https://amzn.to/2X7aOl9">Mediabridge RJ45 Cat5e 25ft Cable</a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2X7aOl9">View on Amazon</a></td>
+    <td><a target="_blank" href="https://amzn.to/3S4H30k"><img class="lazyload table-image" alt="mediabridge rj45 gaming Ethernet cable" data-src="/img/gaming-ethernet-cable/mediabridge-rj45.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3S4H30k">Mediabridge RJ45 Cat5e 25ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3S4H30k">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2UYxvFA"><img class="lazyload table-image" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/rite-av.jpg" /></a></td>
-    <td><a target="_blank" href="https://amzn.to/2UYxvFA">RiteAV Cat6 50ft Cable</a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2UYxvFA">View on Amazon</a></td>
+    <td><a target="_blank" href="https://amzn.to/3NNRhzO"><img class="lazyload table-image" alt="RiteAV Cat6 50ft cable" data-src="/img/gaming-ethernet-cable/rite-av.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/3NNRhzO">RiteAV Cat6 50ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/3NNRhzO">View on Amazon</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" href="https://amzn.to/2R64ias"><img class="lazyload table-image" alt="DanYee 10Ft cable CAT7" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a></td>
-    <td><a target="_blank" href="https://amzn.to/2R64ias">DanYee Cat 7 10ft Cable</a></td>
-    <td><a target="_blank" class="big-button" href="https://amzn.to/2R64ias">View on Amazon</a></td>
+    <td><a target="_blank" href="https://amzn.to/48l2ik8"><img class="lazyload table-image" alt="DanYee 10Ft cable CAT7" data-src="/img/gaming-ethernet-cable/cat-7-cable.jpg" /></a></td>
+    <td><a target="_blank" href="https://amzn.to/48l2ik8">DanYee Cat 7 10ft Cable</a></td>
+    <td><a target="_blank" class="big-button" href="https://amzn.to/48l2ik8">View on Amazon</a></td>
   </tr>
 </table>
 
@@ -533,7 +533,7 @@ Next, in any other room in your house, plug the other powerline adapter into the
 
 The adapters use your home's electrical wiring to send a signal. It works surprisingly well, it's cheap, and convenient. This is my recommendation for those of you who aren't gaming near your router.
 
-If you're going to use a powerline adapter, I'd recommend the [TP-Link AV1000 Gigabit Powerline](https://amzn.to/2NySQAj){: target="\_blank"} adapter.
+If you're going to use a powerline adapter, I'd recommend the [TP-Link AV1000 Gigabit Powerline](https://amzn.to/3TLw50U){: target="\_blank"} adapter.
 
 ## Liked the guide?
 
